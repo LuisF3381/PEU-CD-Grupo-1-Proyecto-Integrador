@@ -1,0 +1,6 @@
+Instrucciones entorno virtual
+
+1. Activar el entorno virtual
+source develop/bin/activate 
+
+2. 
