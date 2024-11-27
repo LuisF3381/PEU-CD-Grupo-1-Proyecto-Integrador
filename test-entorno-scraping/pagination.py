@@ -23,11 +23,20 @@ from webdriver_manager.chrome import ChromeDriverManager
 ##### PARA XML
 import xml.etree.ElementTree as ET
 
+# Para los mensajes de error
 import logging
 
 
-### Clase Generica para hacer scraping en selenium
+# Para crear los directorios
+from pathlib import Path
 
+# Pandas para guardar en .csv
+import pandas as pd
+
+# Para el datetime
+from datetime import datetime
+
+### Clase Generica para hacer scraping en selenium
 
 class WebScraper_Selenium:
     """
@@ -87,7 +96,10 @@ class WebScraper_Selenium:
         # Límite de páginas (por defecto ilimitado)
         max_pages = int(pagination_selector.get('max_pages', '9999')) if pagination_selector is not None else 9999
 
-        
+        print(next_page_selector, max_pages)
+
+        all_products = []
+        page_number = 1
 
         try:
             # Navegar a la página
@@ -98,41 +110,69 @@ class WebScraper_Selenium:
             
             # Ahora procedemos a encontrar los containers en los que estan los productos
             # Obtener selectores
-            selectors = website.find('selectors')
-            containers = WebDriverWait(self.driver, 10).until(
-                EC.presence_of_all_elements_located(
-                    (By.CSS_SELECTOR, selectors.find('container').text)
-                )
-            )
-            
-            print(len(containers))
-            
-            
-            # Aplicar límite si existe
-            limit = selectors.find('limit')
-            if limit is not None:
-                containers = containers[:int(limit.text)]
-            
-            # Extraer datos de cada producto
-            products = []
-            for container in containers:
-                product = {}
-                for selector in selectors:
-                    if selector.tag in ['container', 'limit', 'pagination']:
-                        continue
-                    try:
-                        # El selector puede ser compuesto (separado por comas)
-                        element = container.find_element(By.CSS_SELECTOR, selector.text)
-                        product[selector.tag] = element.text.strip()
-                    except:
-                        product[selector.tag] = None
-                        
-                if any(product.values()):  # Solo agregar si se encontró algún dato
-                    products.append(product)
-                    
-            return products
-            
+            while page_number <= max_pages:
 
+                # Seleccionamos la informacion de la pagina actual
+                selectors = website.find('selectors')
+                containers = WebDriverWait(self.driver, 10).until(
+                    EC.presence_of_all_elements_located(
+                        (By.CSS_SELECTOR, selectors.find('container').text)
+                    )
+                )
+                
+                print(len(containers))
+                
+                
+                # Aplicar límite si existe
+                limit = selectors.find('limit')
+                if limit is not None:
+                    containers = containers[:int(limit.text)]
+                
+                # Extraer datos de cada producto
+                
+                for container in containers:
+                    product = {}
+                    for selector in selectors:
+                        if selector.tag in ['container', 'limit', 'pagination']:
+                            continue
+                        try:
+                            # El selector puede ser compuesto (separado por comas)
+                            element = container.find_element(By.CSS_SELECTOR, selector.text)
+                            product[selector.tag] = element.text.strip()
+                        except:
+                            product[selector.tag] = None
+                            
+                    if any(product.values()):  # Solo agregar si se encontró algún dato
+                        all_products.append(product)
+                
+                # Logica para cambiar de pagina
+                if next_page_selector != None and page_number < max_pages:
+                    # El siguiente codigo aun por testear 
+                    try:
+                        print("Aplicando paginacion.....")
+
+                        next_page_button = WebDriverWait(self.driver, 10).until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, next_page_selector))
+                        )
+                        
+                        next_page_button.click()
+                        page_number += 1
+
+                        # Esperar a que cargue la siguiente página
+                        WebDriverWait(self.driver, 10).until(
+                            EC.staleness_of(containers[0])
+                        )
+
+                    #except (NoSuchElementException, TimeoutException):
+                    except Exception as e:
+                    # No hay más páginas
+                        break
+
+                else:
+                    # Sin más páginas o se alcanzó el límite
+                    break
+
+            return all_products
 
         except Exception as e:
             logging.error(f"Error scraping {website_name}: {str(e)}")
@@ -145,16 +185,29 @@ class WebScraper_Selenium:
     def scrape_and_save(self, website_name, search_term, output_dir):
         """Scrape products and save raw data to Parquet file using Pandas"""
         # Aqui va la logica con el output_dir para crear la carpeta y eso
-        """
+        
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
-        """
-
-        # Scrapeamos el producto}
+        
+        # Scrapeamos el producto
         products = self.scrape_products(website_name, search_term)
 
-        print(products)
+        if products != None:
+            df = pd.DataFrame(products)
 
+            # Añadimos los metadatos
+            df['website'] = website_name
+            df['search_term'] = search_term
+            df['scrape_timestamp'] = pd.Timestamp.now()
+
+            # Generar nombre de archivo con timestamp
+            filename = f"{website_name}_{search_term}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+            filepath = output_dir / filename
+            # Guardar como CSV
+            df.to_csv(filepath, index=False)
+            
+            return filepath
+        #print(products)
         return None
 
 
@@ -186,13 +239,13 @@ elif opcion == 4:
 
 
 # DEfinimos el objeto scraper
-scraper = WebScraper_Selenium('arroz.xml', opts)
+scraper = WebScraper_Selenium('tiendas_conv_online.xml', opts)
 
 # Ejecutamos el metodo de extraccion
 raw_data_file = scraper.scrape_and_save(
         'tambo', 
         'leche', 
-        'data/raw'
+        'leche/'
 )
 
 #print(scraper.config)

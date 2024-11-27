@@ -21,7 +21,7 @@
                 next_page_selector=".next-page-button:not(.disabled)" 
                 max_pages="3"
             />-->
-            <limit>100</limit>
+            <limit>150</limit>
         </selectors>
     </website>
 </websites>

@@ -9,9 +9,10 @@ Supermercado:
     Shopstar
 
 Tiendas de conveniencia (online):
-    Tambo +
-    Oxxo
-    Listo
+    Tambo + (Scrapeado) (Web propia)
+    Pedidos Ya market https://www.pedidosya.com.pe/
+    Listo (https://www.rappi.com.pe/tiendas/326-gas-station) Empleando Rappi   (DESPUES DE UN TIEMPO te pide verificar identidad) (Ver proxys inversos)
+    La cesta Rappi https://www.rappi.com.pe/tiendas/33820-darkstores-nc
 
 Aplicaciones de Delivery:
     Rappi: www.rappi.com.pe
