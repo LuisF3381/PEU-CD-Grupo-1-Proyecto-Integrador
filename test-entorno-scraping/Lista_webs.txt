@@ -1,0 +1,29 @@
+Supermercado:
+    Metro
+    Wong
+    Vivanda
+    Tottus
+    Makro
+    Plaza Vea
+    Vega https://www.vega.pe/
+    Shopstar
+
+Tiendas de conveniencia (online):
+    Tambo +
+    Oxxo
+    Listo
+
+Aplicaciones de Delivery:
+    Rappi: www.rappi.com.pe
+    PedidosYa: www.pedidosya.com.pe
+    Cornershop by Uber: www.cornershopapp.com
+
+Tiendas Directas de Fabricantes y Productores:
+    Gloria: Productos lácteos, yogures y jugos. www.gloria.com.pe
+    Laive: Productos lácteos y bebidas. www.laive.com.pe
+    Inka Crops: Snacks y bebidas saludables. www.inkacrops.com.pe
+    Ajinomoto: Productos sazonadores y alimenticios. www.ajinomoto.com.pe
+
+
+
+
