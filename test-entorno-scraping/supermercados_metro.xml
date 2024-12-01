@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Metro -->
+    <website name="metro" base_url="https://www.metro.pe/">
+        <actions>
+            <!-- Aceptamos las cookies-->
+            <action type="click" selector="button.swal2-confirm.swal2-styled" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='¿Que buscas hoy?']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='¿Que buscas hoy?']" />
+            <!-- Haciendo clicks en el boton de ver mas-->
+
+            <!-- Haciendo scroll-->
+            <action type="scroll" selector ="" />
+
+            <!--<action type="click" selector="div.cursor-pointer.underline"   button.si-acepto/>-->
+        </actions>
+        <selectors>
+            <container>section[class*="vtex-product-summary-2-x-container--product-shelf-mobile"]</container>
+            <description_3>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description_3>
+            <price>div[class*="metroio-store-theme-13-x-containerPriceListPLP"]:not([class*="metroio-store-theme-13-x-promo-price-ref"])</price>
+            <!-- -->
+            <!--<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
+            <!-- <name>*[class*='title'], *[class*='name']</name>-->
+            <!-- <brand>*[class*='brand'], *[class*='maker']</brand>-->
+            <!-- Límite de páginas -->
+            <!-- <pagination 
+                next_page_selector=".next-page-button:not(.disabled)" 
+                max_pages="3"
+                scroll = "1"
+            />-->
+            <limit>150</limit>
+        </selectors>
+    </website>
+</websites>

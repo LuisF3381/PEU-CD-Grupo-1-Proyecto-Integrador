@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <websites>
-    <!-- Ejemplo con selectores exactos -->
+    <!-- Tambo -->
     <website name="tambo" base_url="https://www.tambo.pe/">
         <actions>
             <action type="click" selector="div.absolute.h-8.w-8.-right-3.-top-3.primaryBackgroundColor.rounded-full.text-sm.font-semibold.text-white.shadow-sm.flex.justify-center.items-center.cursor-pointer" />
@@ -9,6 +9,29 @@
             <!-- Click en el boton de busqueda -->
             <action type="click" selector="div._1DG3rNdCyKC5K-13y3hUaL" />
             <action type="click" selector="div.cursor-pointer.underline" />
+        </actions>
+        <selectors>
+            <container>div.col-xs-4.col-sm-3.col-md-2.col-lg-2</container>
+            <description>span._3tOb1kUYtBNfge7JfPDU_D.productName</description>
+            <price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>
+            <!-- <name>*[class*='title'], *[class*='name']</name>-->
+            <!-- <brand>*[class*='brand'], *[class*='maker']</brand>-->
+            <!-- Límite de páginas -->
+            <!-- <pagination 
+                next_page_selector=".next-page-button:not(.disabled)" 
+                max_pages="3"
+            />-->
+            <limit>150</limit>
+        </selectors>
+    </website>
+
+    <!-- PedidosYa -->
+    <website name="Listo" base_url="https://www.rappi.com.pe/tiendas/326-gas-station">
+        <actions>
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input.sc-fhzFiK.hubFyR" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="click" selector="div.sc-eBMEME.OHTic" />
         </actions>
         <selectors>
             <container>div.col-xs-4.col-sm-3.col-md-2.col-lg-2</container>

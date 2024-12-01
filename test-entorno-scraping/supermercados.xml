@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Ejemplo con selectores exactos -->
+    <website name="metro" base_url="https://www.metro.pe/{keyword}?_q={keyword}&amp;map=ft">
+        <selectors>
+            <container>section.vtex-product-summary-2-x-container.vtex-product-summary-2-x-container--product-shelf-mobile</container>
+            <description>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description>
+            <!---<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
+            <pagination 
+                url_pagination="https://www.metro.pe/{keyword}?_q={keyword}&amp;map=ft&amp;page={number}" 
+                max_pages="1"
+            />
+        </selectors>
+    </website>
+</websites>

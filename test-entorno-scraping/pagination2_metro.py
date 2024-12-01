@@ -19,6 +19,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
+from selenium.webdriver.common.keys import Keys
 
 ##### PARA XML
 import xml.etree.ElementTree as ET
@@ -60,17 +61,49 @@ class WebScraper_Selenium:
         tree = ET.parse(config_path)
         return tree.getroot()
     
+    def scroll_gradually(self, scroll_pause_time=0.5, scroll_step=200):
+        """
+        Realiza un scroll gradual hacia abajo en una página web.
+        
+        :param scroll_pause_time: Tiempo en segundos entre cada paso de scroll.
+        :param scroll_step: Cantidad de píxeles a desplazar por cada paso.
+        """
+        last_height = self.driver.execute_script("return document.body.scrollHeight")
+        
+        while True:
+            # Scroll down by scroll_step pixels
+            self.driver.execute_script(f"window.scrollBy(0, {scroll_step});")
+            
+            # Espera para simular desplazamiento gradual
+            time.sleep(scroll_pause_time)
+            
+            # Calcula la nueva posición del scroll
+            new_height = self.driver.execute_script("return window.scrollY + window.innerHeight")
+            
+            if new_height >= last_height:
+                break
+            
+            # Actualiza la altura si la página carga más contenido dinámicamente
+            last_height = self.driver.execute_script("return document.body.scrollHeight")
+        
+        print("Scroll completado.")
+
     def execute_actions(self, website_elem, search_term):
         for action in website_elem.find('actions'):
             try:
                 # Comportamiento aleatorio
                 time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
                 
+                ### Cambiar linea de codigo para que sea opcional
                 selector = action.get('selector')
-                
-                element = WebDriverWait(self.driver, 10).until(
-                    EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
-                )
+
+                element = None
+                if len(selector) > 0:
+                    element = WebDriverWait(self.driver, 10).until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                    )
+
+                # Manejamos que se pueda repetir varias veces
                 
                 # Hacer click a un elemento
                 if action.get('type') == 'click':
@@ -79,7 +112,15 @@ class WebScraper_Selenium:
                     element.clear()
                     value = action.get('value').format(search_term=search_term)
                     element.send_keys(value)
-                
+                elif action.get('type') == 'enter':
+                    element.send_keys(Keys.RETURN)
+                elif action.get('type') == 'scroll':
+                    print("haciendo scroll")
+                    ##self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    ##time.sleep(20)
+                    self.scroll_gradually(0.5, 100)
+
+                 
                     
             except Exception as e:
                 if action.get('optional') != 'true':
@@ -113,7 +154,10 @@ class WebScraper_Selenium:
         try:
             # Navegar a la página
             self.driver.get(website.get('base_url'))
-
+            
+            # Maximiza
+            #self.driver.maximize_window()
+            #input("deteniendo")
             # Comportamiento aleatorio
             time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
 
@@ -224,7 +268,6 @@ class WebScraper_Selenium:
             df.to_csv(filepath, index=False)
             
             return filepath
-        #print(products)
         return None
 
 
@@ -257,7 +300,7 @@ elif opcion == 4:
 
 
 # LOGICA PARA USAR PROXIES
-
+"""
 proxies = [
             "43.134.68.153:3128",
             "150.230.214.66:1080",
@@ -269,6 +312,7 @@ proxies = [
 
 proxy = random.choice(proxies)
 opts.add_argument(f'--proxy-server={proxy}')
+"""
  # Configuraciones adicionales de seguridad
 
 
@@ -286,21 +330,13 @@ opts.add_experimental_option("useAutomationExtension", False)
 
 
 # DEfinimos el objeto scraper
-scraper = WebScraper_Selenium('tiendas_conv_online.xml', opts)
+scraper = WebScraper_Selenium('supermercados_metro.xml', opts)
 
-# Ejecutamos el metodo de extraccion
-"""
-raw_data_file = scraper.scrape_and_save(
-        'tambo', 
-        'leche', 
-        'leche/'
-)
-"""
 #print(scraper.config)
 
 
 raw_data_file = scraper.scrape_and_save(
-        'Listo', 
+        'metro', 
         'leche', 
         'leche/'
 )

@@ -8,11 +8,11 @@ Supermercado:
     Vega https://www.vega.pe/
     Shopstar
 
-Tiendas de conveniencia (online):
+Tiendas de conveniencia (online): (Proxys inversos no hay de otra)
     Tambo + (Scrapeado) (Web propia)
     Pedidos Ya market https://www.pedidosya.com.pe/
     Listo (https://www.rappi.com.pe/tiendas/326-gas-station) Empleando Rappi   (DESPUES DE UN TIEMPO te pide verificar identidad) (Ver proxys inversos)
-    La cesta Rappi https://www.rappi.com.pe/tiendas/33820-darkstores-nc
+    La cesta Rappi https://www.rappi.com.pe/tiendas/33820-darkstores-nc    https://www.pedidosya.com.pe/restaurantes/lima/pedidosya-market-nights-barranco-8b8afb54-4d7a-4b75-b7c3-b5768604668e-menu?origin=custom-entry-points
 
 Aplicaciones de Delivery:
     Rappi: www.rappi.com.pe
