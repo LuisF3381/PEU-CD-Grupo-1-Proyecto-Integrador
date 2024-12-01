@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <websites>
-    <!-- Metro -->
-    <website name="metro" base_url="https://www.metro.pe/">
+    <!-- vivanda -->
+    <website name="vivanda" base_url="https://www.vivanda.com.pe/">
         <actions>
-            <!-- Aceptamos las cookies-->
-            <action type="click" selector="button.swal2-confirm.swal2-styled" />
             <!-- Ingresamos el termino de busqueda -->
-            <action type="input" selector="input[placeholder='¿Que buscas hoy?']" value="{search_term}" />
+            <action type="input" selector="input[placeholder='¡Hola! ¿Qué estás buscando hoy?']" value="{search_term}" />
             <!-- Click en el boton de busqueda -->
-            <action type="enter" selector="input[placeholder='¿Que buscas hoy?']" />
+            <action type="enter" selector="input[placeholder='¡Hola! ¿Qué estás buscando hoy?']" />
             <!-- Haciendo clicks en el boton de ver mas-->
             <action type="click" rep = "All" selector="button.vtex-button.bw1.ba.fw5.v-mid.relative.pa0.lh-solid.br2.min-h-small.t-action--small.bg-action-primary.b--action-primary.c-on-action-primary.hover-bg-action-primary.hover-b--action-primary.hover-c-on-action-primary.pointer" />
             <!-- Haciendo scroll top-->
@@ -19,9 +17,10 @@
             <!--<action type="click" selector="div.cursor-pointer.underline"   button.si-acepto/>-->
         </actions>
         <selectors>
-            <container>section[class*="vtex-product-summary-2-x-container--product-shelf-mobile"]</container>
-            <description_3>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description_3>
-            <price>div[class*="metroio-store-theme-13-x-containerPriceListPLP"]:not([class*="metroio-store-theme-13-x-promo-price-ref"])</price>
+            <container>section.vivanda-product-summary-2-x-container--shelfPrimary</container>
+            <description>span.vivanda-product-summary-2-x-productBrand</description>
+            <brand>span.vivanda-product-summary-2-x-productBrandName</brand>
+            <price>span.vivanda-product-price-1-x-currencyContainer</price>
             <!-- -->
             <!--<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
             <!-- <name>*[class*='title'], *[class*='name']</name>-->

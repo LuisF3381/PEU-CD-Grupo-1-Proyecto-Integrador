@@ -88,6 +88,24 @@ class WebScraper_Selenium:
         
         print("Scroll completado.")
 
+    # Función que maneja las acciones
+    def perform_action(self, element, action, search_term):
+        # Ejecutamos la acción de acuerdo al tipo
+        if action.get('type') == 'click':
+            element.click()
+        elif action.get('type') == 'input':
+            element.clear()
+            value = action.get('value').format(search_term=search_term)
+            element.send_keys(value)
+        elif action.get('type') == 'enter':
+            element.send_keys(Keys.RETURN)
+        elif action.get('type') == 'scroll':
+            print("haciendo scroll down")
+            self.scroll_gradually(0.5, 100)
+        elif action.get('type') == 'scroll-top':
+            print("haciendo scroll top")
+            self.driver.execute_script("window.scrollTo(0, 0);")     
+
     def execute_actions(self, website_elem, search_term):
         for action in website_elem.find('actions'):
             try:
@@ -103,8 +121,31 @@ class WebScraper_Selenium:
                         EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
                     )
 
+
                 # Manejamos que se pueda repetir varias veces
-                
+                if action.get("rep") == "All":
+                    while True:
+                        try:
+                            # Ejecutamos la acción de acuerdo al tipo
+                            self.perform_action(element, action, search_term)
+
+                            #  Comportamiento aleatorio
+                            time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
+
+                            # Verificamos si el elemento sigue presente
+                            element = WebDriverWait(self.driver, 10).until(
+                                        EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                                    )
+                            
+                        except Exception as e:
+                            break  # Sale del ciclo cuando no encuentra el elemento
+                else:
+                    # Si no es 'All', solo ejecutamos la acción una vez
+                    self.perform_action(element, action, search_term)
+
+
+                # Manejamos que se pueda repetir varias veces
+                """
                 # Hacer click a un elemento
                 if action.get('type') == 'click':
                     element.click()
@@ -119,7 +160,7 @@ class WebScraper_Selenium:
                     ##self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                     ##time.sleep(20)
                     self.scroll_gradually(0.5, 100)
-
+                """
                  
                     
             except Exception as e:
@@ -154,7 +195,6 @@ class WebScraper_Selenium:
         try:
             # Navegar a la página
             self.driver.get(website.get('base_url'))
-            
             # Maximiza
             #self.driver.maximize_window()
             #input("deteniendo")
@@ -330,19 +370,23 @@ opts.add_experimental_option("useAutomationExtension", False)
 
 
 # DEfinimos el objeto scraper
-scraper = WebScraper_Selenium('supermercados_metro.xml', opts)
+scraper = WebScraper_Selenium('supermercados_vivanda.xml', opts)
 
 #print(scraper.config)
 
-
+"""
 raw_data_file = scraper.scrape_and_save(
         'metro', 
-        'leche', 
-        'leche/'
+        'GOMA DE MASCAR', 
+        'goma_de_mascar/'
 )
+"""
 
-
-
+raw_data_file = scraper.scrape_and_save(
+        'vivanda', 
+        'YOGURT', 
+        'YOGURT/'
+)
 
 
 

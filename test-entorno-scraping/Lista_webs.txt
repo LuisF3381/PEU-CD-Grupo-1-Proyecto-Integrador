@@ -1,7 +1,8 @@
 Supermercado:
-    Metro
+    Metro (Listo)
     Wong
     Vivanda
+    
     Tottus
     Makro
     Plaza Vea
