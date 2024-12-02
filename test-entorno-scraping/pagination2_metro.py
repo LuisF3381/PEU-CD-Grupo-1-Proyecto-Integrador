@@ -10,6 +10,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 
 
 # Funcion para el user agent
@@ -60,6 +61,20 @@ class WebScraper_Selenium:
     def _load_config(self, config_path):
         tree = ET.parse(config_path)
         return tree.getroot()
+    
+    def scroll_to_element(self, css_selector):
+        try:
+            # Esperar a que el elemento sea visible en el DOM
+            element = WebDriverWait(self.driver, 10).until(
+                EC.visibility_of_element_located((By.CSS_SELECTOR, css_selector))
+            )
+            
+            # Usar ActionChains para desplazarse hasta el elemento
+            actions = ActionChains(self.driver)
+            actions.move_to_element(element).perform()
+            print(f"Se ha desplazado hasta el elemento: {css_selector}")
+        except Exception as e:
+            print(f"Error al hacer scroll hasta el elemento: {e}")
     
     def scroll_gradually(self, scroll_pause_time=0.5, scroll_step=200):
         """
@@ -117,7 +132,7 @@ class WebScraper_Selenium:
 
                 element = None
                 if len(selector) > 0:
-                    element = WebDriverWait(self.driver, 10).until(
+                    element = WebDriverWait(self.driver, 30).until(
                         EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
                     )
 
@@ -133,7 +148,7 @@ class WebScraper_Selenium:
                             time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
 
                             # Verificamos si el elemento sigue presente
-                            element = WebDriverWait(self.driver, 10).until(
+                            element = WebDriverWait(self.driver, 30).until(
                                         EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
                                     )
                             
@@ -213,7 +228,7 @@ class WebScraper_Selenium:
 
                 # Seleccionamos la informacion de la pagina actual
                 selectors = website.find('selectors')
-                containers = WebDriverWait(self.driver, 10).until(
+                containers = WebDriverWait(self.driver, 25).until(
                     EC.presence_of_all_elements_located(
                         (By.CSS_SELECTOR, selectors.find('container').text)
                     )
@@ -237,7 +252,7 @@ class WebScraper_Selenium:
                         try:
                             # El selector puede ser compuesto (separado por comas)
                             element = container.find_element(By.CSS_SELECTOR, selector.text)
-                            product[selector.tag] = element.text.strip()
+                            product[selector.tag] = element.text.strip().replace("\n", " ").replace("\r", " ")
                         except:
                             product[selector.tag] = None
                             
@@ -251,8 +266,11 @@ class WebScraper_Selenium:
                         print("Aplicando paginacion.....")
                         # Comportamiento aleatorio
                         time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
-
-                        next_page_button = WebDriverWait(self.driver, 10).until(
+                        # Scroll al elemento
+                        self.scroll_to_element(next_page_selector)
+                        print("se pudo scrollear al elemento")
+                        # Se le hace click
+                        next_page_button = WebDriverWait(self.driver, 25).until(
                         EC.element_to_be_clickable((By.CSS_SELECTOR, next_page_selector))
                         )
                         
@@ -264,8 +282,30 @@ class WebScraper_Selenium:
                             EC.staleness_of(containers[0])
                         )
 
+                        # Hacemos scroll en caso sea neceseario
+                        try:
+                            scroll_value = int(pagination_selector.get('scroll'))
+
+                            if scroll_value == 1:
+                                print("Paginando con scroll....")
+                                # Primero un top 
+                                self.driver.execute_script("window.scrollTo(0, 0);") 
+
+                                time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
+                                # Ahora un down
+                                self.scroll_gradually(0.5, 100)
+
+                                time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
+
+                                # Luego otro top 
+                                #self.driver.execute_script("window.scrollTo(0, 0);") 
+
+                        except Exception as e:
+                            print("No se necesita el scroll")
+
                     #except (NoSuchElementException, TimeoutException):
                     except Exception as e:
+                        print(e)
                     # No hay más páginas
                         break
 
@@ -370,11 +410,13 @@ opts.add_experimental_option("useAutomationExtension", False)
 
 
 # DEfinimos el objeto scraper
-scraper = WebScraper_Selenium('supermercados_vivanda.xml', opts)
+scraper = WebScraper_Selenium('supermercados_tottus.xml', opts)
 
 #print(scraper.config)
 
 """
+Metro
+
 raw_data_file = scraper.scrape_and_save(
         'metro', 
         'GOMA DE MASCAR', 
@@ -382,11 +424,57 @@ raw_data_file = scraper.scrape_and_save(
 )
 """
 
+"""
 raw_data_file = scraper.scrape_and_save(
         'vivanda', 
         'YOGURT', 
         'YOGURT/'
 )
+
+"""
+
+"""
+wong
+raw_data_file = scraper.scrape_and_save(
+        'wong', 
+        'ACEITE DE OLIVA', 
+        'ACEITE_DE_OLIVA/'
+)
+"""
+
+"""
+vega
+raw_data_file = scraper.scrape_and_save(
+        'vega', 
+        'ACEITE DE OLIVA', 
+        'ACEITE_DE_OLIVA/'
+)
+"""
+
+"""
+shopstar
+raw_data_file = scraper.scrape_and_save(
+        'shopstar', 
+        'ACEITE DE OLIVA', 
+        'ACEITE_DE_OLIVA/'
+)
+"""
+
+
+raw_data_file = scraper.scrape_and_save(
+        'tottus', 
+        'YOGURT', 
+        'YOGURT/'
+)
+
+
+"""
+raw_data_file = scraper.scrape_and_save(
+        'plaza_vea', 
+        'YOGURT', 
+        'YOGURT/'
+)
+"""
 
 
 

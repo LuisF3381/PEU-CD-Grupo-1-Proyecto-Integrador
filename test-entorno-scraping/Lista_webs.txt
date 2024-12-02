@@ -1,13 +1,15 @@
 Supermercado:
-    Metro (Listo)
-    Wong
-    Vivanda
-    
-    Tottus
-    Makro
-    Plaza Vea
-    Vega https://www.vega.pe/
-    Shopstar
+    Misma generalizacion (boton mostrar mas)
+        Metro (Listo)
+        Vivanda (Listo)
+        Vega  (Listo)
+        Shopstar (Listo)
+        Wong (listo)
+
+    Generalizacion (dar click a la siguiente pagina)
+        Tottus  (Listo)
+        Plaza Vea (Listo)
+        
 
 Tiendas de conveniencia (online): (Proxys inversos no hay de otra)
     Tambo + (Scrapeado) (Web propia)

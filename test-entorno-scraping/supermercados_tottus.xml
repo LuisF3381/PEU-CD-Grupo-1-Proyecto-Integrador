@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Tottus -->
+    <website name="tottus" base_url="https://tottus.falabella.com.pe/tottus-pe">
+        <actions>
+            <!-- Aceptamos las cookies-->
+            <action type="click" selector="button#testId-accept-cookies-btn" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='Buscar en Tottus']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='Buscar en Tottus']" />
+            
+        </actions>
+        <selectors>
+            <container>div.jsx-1068418086.search-results-2-grid.grid-pod</container>
+            <brand>b.jsx-184544934.title5.secondary.jsx-3451706699.bold.pod-title.title-rebrand</brand>
+            <description>b.pod-subTitle.subTitle-rebrand</description>
+            <price>span.copy10.primary</price>
+            <!-- -->
+            <!--<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
+            <!-- <name>*[class*='title'], *[class*='name']</name>-->
+            <!-- <brand>*[class*='brand'], *[class*='maker']</brand>-->
+            <!-- Límite de páginas -->
+            <pagination 
+                next_page_selector="#testId-pagination-bottom-arrow-right:not([disabled])" 
+                max_pages="10"
+            />
+            <limit>900</limit>
+        </selectors>
+    </website>
+</websites>

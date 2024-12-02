@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Vega -->
+    <website name="vega" base_url="https://www.vega.pe/">
+        <actions>
+            <!-- Hacer click en el desplegable-->
+            <action type="click" selector=".vtex-modal-layout-0-x-triggerContainer.vtex-modal-layout-0-x-triggerContainer--searchDespalgable" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='Buscar']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='Buscar']" />
+            <!-- Haciendo clicks en el boton de ver mas-->
+            <action type="click" rep = "All" selector="div.vtex-button__label.flex.items-center.justify-center.h-100.ph5" />
+            <!-- Haciendo scroll top-->
+            <action type="scroll-top" selector ="" />
+            <!-- Haciendo scroll down-->
+            <action type="scroll" selector ="" />
+
+            <!--<action type="click" selector="div.cursor-pointer.underline"   button.si-acepto/>-->
+        </actions>
+        <selectors>
+            <container>section.vtex-product-summary-2-x-container.vtex-product-summary-2-x-containerNormal.overflow-hidden.br3.h-100.w-100.flex.flex-column.justify-between.center.tc</container>
+            <brand>span.vtex-product-summary-2-x-productBrandName</brand>
+            <description>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description>
+            <price>div.flex.mt0.mb4.pt0.pb0.justify-start.vtex-flex-layout-0-x-flexRowContent.vtex-flex-layout-0-x-flexRowContent--summary-selling-price-savings.items-stretch.w-100</price>
+            <!-- -->
+            <!--<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
+            <!-- <name>*[class*='title'], *[class*='name']</name>-->
+            <!-- <brand>*[class*='brand'], *[class*='maker']</brand>-->
+            <!-- Límite de páginas -->
+            <!-- <pagination 
+                next_page_selector=".next-page-button:not(.disabled)" 
+                max_pages="3"
+                scroll = "1"
+            />-->
+            <limit>900</limit>
+        </selectors>
+    </website>
+</websites>

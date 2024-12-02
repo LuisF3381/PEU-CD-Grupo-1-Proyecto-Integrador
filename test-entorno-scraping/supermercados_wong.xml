@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Wong -->
+    <website name="wong" base_url="https://www.wong.pe/">
+        <actions>
+            <!-- Aceptamos las cookies-->
+            <action type="click" selector="button.swal2-confirm.swal2-styled" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='¿Que buscas hoy?']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='¿Que buscas hoy?']" />
+            <!-- Haciendo clicks en el boton de ver mas-->
+            <action type="click" rep = "All" selector="div.vtex-button__label.flex.items-center.justify-center.h-100.ph5" />
+            <!-- Haciendo scroll top-->
+            <action type="scroll-top" selector ="" />
+            <!-- Haciendo scroll down-->
+            <action type="scroll" selector ="" />
+
+            <!--<action type="click" selector="div.cursor-pointer.underline"   button.si-acepto/>-->
+        </actions>
+        <selectors>
+            <container>section[class*="vtex-product-summary-2-x-container--product-shelf-mobile"]</container>
+            <description>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description>
+            <price>div.wongio-store-theme-7-x-containerPriceListPLP</price>
+            <!-- -->
+            <!--<price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>-->
+            <!-- <name>*[class*='title'], *[class*='name']</name>-->
+            <!-- <brand>*[class*='brand'], *[class*='maker']</brand>-->
+            <!-- Límite de páginas -->
+            <!-- <pagination 
+                next_page_selector=".next-page-button:not(.disabled)" 
+                max_pages="3"
+                scroll = "1"
+            />-->
+            <limit>900</limit>
+        </selectors>
+    </website>
+</websites>
