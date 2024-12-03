@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Plaza vea -->
+    <website name="plaza_vea" base_url="https://www.plazavea.com.pe/">
+        <actions>
+            <!-- Aceptamos las cookies-->
+            <action type="click" selector="button.cookies-consent-banner__button" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="#search_box" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="#search_box" />
+            <!-- Haciendo scroll down-->
+            <action type="scroll" selector ="" />
+        </actions>
+        <selectors>
+            <container>div.Showcase__details</container>
+            <unit>div.Showcase__units-reference</unit>
+            <description>button.Showcase__name</description>
+            <price>div.Showcase__salePrice</price>
+            <pagination 
+                next_page_selector="span.pagination__item.page-number.active + span.pagination__item.page-number" 
+                max_pages="20"
+                scroll = "1"
+            />
+            <limit>900</limit>
+        </selectors>
+    </website>
+</websites>

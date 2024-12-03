@@ -1,0 +1,2491 @@
+2024-12-03 00:36:26,723 - INFO - ====== WebDriver manager ======
+2024-12-03 00:36:26,724 - INFO - ====== WebDriver manager ======
+2024-12-03 00:36:26,727 - INFO - ====== WebDriver manager ======
+2024-12-03 00:36:26,731 - INFO - ====== WebDriver manager ======
+2024-12-03 00:36:26,738 - INFO - ====== WebDriver manager ======
+2024-12-03 00:36:27,078 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,078 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,090 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,139 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,149 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,185 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,190 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,215 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,236 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:36:27,247 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:36:27,255 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:36:27,261 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:36:27,270 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:36:27,288 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:37:11,058 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5c7fde50c31a <unknown>
+#1 0x5c7fde0226e0 <unknown>
+#2 0x5c7fde0713e6 <unknown>
+#3 0x5c7fde071681 <unknown>
+#4 0x5c7fde0b6b04 <unknown>
+#5 0x5c7fde09548d <unknown>
+#6 0x5c7fde0b3ed7 <unknown>
+#7 0x5c7fde095203 <unknown>
+#8 0x5c7fde063cc0 <unknown>
+#9 0x5c7fde064c9e <unknown>
+#10 0x5c7fde4d9d0b <unknown>
+#11 0x5c7fde4ddc92 <unknown>
+#12 0x5c7fde4c6b3c <unknown>
+#13 0x5c7fde4de807 <unknown>
+#14 0x5c7fde4ac0df <unknown>
+#15 0x5c7fde4fb578 <unknown>
+#16 0x5c7fde4fb740 <unknown>
+#17 0x5c7fde50b196 <unknown>
+#18 0x7386c2a9ca94 <unknown>
+#19 0x7386c2b29c3c <unknown>
+
+2024-12-03 00:37:11,467 - INFO - Scraping exitoso para término: MAÍZ REVENTÓN (POP CORN)
+2024-12-03 00:37:11,467 - INFO - ====== WebDriver manager ======
+2024-12-03 00:37:11,896 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:37:11,945 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:37:12,008 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:37:18,067 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5eadb03ef31a <unknown>
+#1 0x5eadaff056e0 <unknown>
+#2 0x5eadaff543e6 <unknown>
+#3 0x5eadaff54681 <unknown>
+#4 0x5eadaff99b04 <unknown>
+#5 0x5eadaff7848d <unknown>
+#6 0x5eadaff96ed7 <unknown>
+#7 0x5eadaff78203 <unknown>
+#8 0x5eadaff46cc0 <unknown>
+#9 0x5eadaff47c9e <unknown>
+#10 0x5eadb03bcd0b <unknown>
+#11 0x5eadb03c0c92 <unknown>
+#12 0x5eadb03a9b3c <unknown>
+#13 0x5eadb03c1807 <unknown>
+#14 0x5eadb038f0df <unknown>
+#15 0x5eadb03de578 <unknown>
+#16 0x5eadb03de740 <unknown>
+#17 0x5eadb03ee196 <unknown>
+#18 0x7fdf3409ca94 <unknown>
+#19 0x7fdf34129c3c <unknown>
+
+2024-12-03 00:37:18,354 - INFO - Scraping exitoso para término: ARROZ A GRANEL
+2024-12-03 00:37:18,355 - INFO - ====== WebDriver manager ======
+2024-12-03 00:37:18,915 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:37:19,017 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:37:19,090 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:38:31,756 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=59957): Read timed out. (read timeout=120)
+2024-12-03 00:38:32,063 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=42293): Read timed out. (read timeout=120)
+2024-12-03 00:39:15,061 - INFO - Scraping exitoso para término: MAÍZ SECO CANCHA
+2024-12-03 00:39:15,065 - INFO - ====== WebDriver manager ======
+2024-12-03 00:39:16,548 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:39:16,608 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:39:16,670 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:40:31,865 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=59957): Read timed out. (read timeout=120)")': /session/af7f5be4f30eed6fcdd7e1175fe18c93
+2024-12-03 00:40:32,175 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=42293): Read timed out. (read timeout=120)")': /session/6d31b2f9b0f8cf8582eb70d226968519
+2024-12-03 00:41:17,981 - INFO - Scraping exitoso para término: QUINUA ENTERA
+2024-12-03 00:41:17,986 - INFO - ====== WebDriver manager ======
+2024-12-03 00:41:18,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:18,494 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:18,549 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:41:28,649 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:41:29,052 - INFO - Scraping exitoso para término: HARINA DE TRIGO PREPARADA
+2024-12-03 00:41:29,053 - INFO - ====== WebDriver manager ======
+2024-12-03 00:41:29,551 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:29,615 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:29,668 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:41:32,372 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-03 00:41:32,372 - INFO - ====== WebDriver manager ======
+2024-12-03 00:41:32,712 - INFO - Scraping exitoso para término: MAÍZ MORADO
+2024-12-03 00:41:32,715 - INFO - ====== WebDriver manager ======
+2024-12-03 00:41:32,943 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:33,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:33,127 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:41:33,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:33,663 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:41:33,756 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:42:09,373 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5cdeccd5431a <unknown>
+#1 0x5cdecc86a6e0 <unknown>
+#2 0x5cdecc8b93e6 <unknown>
+#3 0x5cdecc8b9681 <unknown>
+#4 0x5cdecc8feb04 <unknown>
+#5 0x5cdecc8dd48d <unknown>
+#6 0x5cdecc8fbed7 <unknown>
+#7 0x5cdecc8dd203 <unknown>
+#8 0x5cdecc8abcc0 <unknown>
+#9 0x5cdecc8acc9e <unknown>
+#10 0x5cdeccd21d0b <unknown>
+#11 0x5cdeccd25c92 <unknown>
+#12 0x5cdeccd0eb3c <unknown>
+#13 0x5cdeccd26807 <unknown>
+#14 0x5cdecccf40df <unknown>
+#15 0x5cdeccd43578 <unknown>
+#16 0x5cdeccd43740 <unknown>
+#17 0x5cdeccd53196 <unknown>
+#18 0x75eb4b89ca94 <unknown>
+#19 0x75eb4b929c3c <unknown>
+
+2024-12-03 00:42:09,707 - INFO - Scraping exitoso para término: HARINA DE TRIGO SIN PREPARAR
+2024-12-03 00:42:09,711 - INFO - ====== WebDriver manager ======
+2024-12-03 00:42:10,256 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:42:10,307 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:42:10,375 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:42:58,112 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5aca8b52b31a <unknown>
+#1 0x5aca8b0416e0 <unknown>
+#2 0x5aca8b0903e6 <unknown>
+#3 0x5aca8b090681 <unknown>
+#4 0x5aca8b0d5b04 <unknown>
+#5 0x5aca8b0b448d <unknown>
+#6 0x5aca8b0d2ed7 <unknown>
+#7 0x5aca8b0b4203 <unknown>
+#8 0x5aca8b082cc0 <unknown>
+#9 0x5aca8b083c9e <unknown>
+#10 0x5aca8b4f8d0b <unknown>
+#11 0x5aca8b4fcc92 <unknown>
+#12 0x5aca8b4e5b3c <unknown>
+#13 0x5aca8b4fd807 <unknown>
+#14 0x5aca8b4cb0df <unknown>
+#15 0x5aca8b51a578 <unknown>
+#16 0x5aca8b51a740 <unknown>
+#17 0x5aca8b52a196 <unknown>
+#18 0x742ea6c9ca94 <unknown>
+#19 0x742ea6d29c3c <unknown>
+
+2024-12-03 00:42:58,357 - INFO - Scraping exitoso para término: AVENA A GRANEL
+2024-12-03 00:42:58,359 - INFO - ====== WebDriver manager ======
+2024-12-03 00:42:58,915 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:42:58,978 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:42:59,100 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:43:32,048 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=37657): Read timed out. (read timeout=120)
+2024-12-03 00:43:37,138 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=50591): Read timed out. (read timeout=120)
+2024-12-03 00:44:03,432 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:44:03,880 - INFO - Scraping exitoso para término: AVENA ENVASADA
+2024-12-03 00:44:03,881 - INFO - ====== WebDriver manager ======
+2024-12-03 00:44:04,375 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:44:04,450 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:44:04,493 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:45:32,159 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=37657): Read timed out. (read timeout=120)")': /session/ec0b962207e75a8d6adafe1be62c13eb
+2024-12-03 00:45:37,280 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=50591): Read timed out. (read timeout=120)")': /session/01a6b246ce2091cca2131577a086e89c
+2024-12-03 00:45:41,520 - INFO - Scraping exitoso para término: HARINA DE MAÍZ BLANCO
+2024-12-03 00:45:41,521 - INFO - ====== WebDriver manager ======
+2024-12-03 00:45:41,845 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:41,910 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:41,952 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:45:42,373 - INFO - Scraping exitoso para término: TRIGO MORÓN
+2024-12-03 00:45:42,373 - INFO - ====== WebDriver manager ======
+2024-12-03 00:45:42,730 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:42,794 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:42,869 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:45:54,119 - INFO - Scraping exitoso para término: BIZCOCHOS
+2024-12-03 00:45:54,120 - INFO - ====== WebDriver manager ======
+2024-12-03 00:45:54,606 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:54,729 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:45:54,822 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:46:37,500 - INFO - Scraping exitoso para término: HARINA SIETE SEMILLAS O MIXTAS
+2024-12-03 00:46:37,505 - INFO - ====== WebDriver manager ======
+2024-12-03 00:46:38,081 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:46:38,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:46:38,278 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:46:40,797 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x626504e9231a <unknown>
+#1 0x6265049a86e0 <unknown>
+#2 0x6265049f73e6 <unknown>
+#3 0x6265049f7681 <unknown>
+#4 0x626504a3cb04 <unknown>
+#5 0x626504a1b48d <unknown>
+#6 0x626504a39ed7 <unknown>
+#7 0x626504a1b203 <unknown>
+#8 0x6265049e9cc0 <unknown>
+#9 0x6265049eac9e <unknown>
+#10 0x626504e5fd0b <unknown>
+#11 0x626504e63c92 <unknown>
+#12 0x626504e4cb3c <unknown>
+#13 0x626504e64807 <unknown>
+#14 0x626504e320df <unknown>
+#15 0x626504e81578 <unknown>
+#16 0x626504e81740 <unknown>
+#17 0x626504e91196 <unknown>
+#18 0x77cf9589ca94 <unknown>
+#19 0x77cf95929c3c <unknown>
+
+2024-12-03 00:46:42,169 - INFO - Scraping exitoso para término: PAN DE YEMA
+2024-12-03 00:46:42,170 - INFO - ====== WebDriver manager ======
+2024-12-03 00:46:42,395 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:46:42,461 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:46:42,601 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:47:47,905 - INFO - Scraping exitoso para término: PAN CARACOL
+2024-12-03 00:47:47,905 - INFO - ====== WebDriver manager ======
+2024-12-03 00:47:48,308 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:47:48,483 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:47:48,615 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:48:27,644 - INFO - Scraping exitoso para término: PAN CIABATTA
+2024-12-03 00:48:27,667 - INFO - ====== WebDriver manager ======
+2024-12-03 00:48:28,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:28,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:28,533 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:48:42,185 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:48:42,392 - INFO - Scraping exitoso para término: PAN FRANCÉS
+2024-12-03 00:48:42,392 - INFO - ====== WebDriver manager ======
+2024-12-03 00:48:42,638 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:42,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:42,733 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:48:45,312 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=56967): Read timed out. (read timeout=120)
+2024-12-03 00:48:51,356 - INFO - Scraping exitoso para término: PAN DE MOLDE
+2024-12-03 00:48:51,357 - INFO - ====== WebDriver manager ======
+2024-12-03 00:48:51,764 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:51,834 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:48:51,911 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:49:12,749 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x62b86aaf531a <unknown>
+#1 0x62b86a60b6e0 <unknown>
+#2 0x62b86a65a3e6 <unknown>
+#3 0x62b86a65a681 <unknown>
+#4 0x62b86a69fb04 <unknown>
+#5 0x62b86a67e48d <unknown>
+#6 0x62b86a69ced7 <unknown>
+#7 0x62b86a67e203 <unknown>
+#8 0x62b86a64ccc0 <unknown>
+#9 0x62b86a64dc9e <unknown>
+#10 0x62b86aac2d0b <unknown>
+#11 0x62b86aac6c92 <unknown>
+#12 0x62b86aaafb3c <unknown>
+#13 0x62b86aac7807 <unknown>
+#14 0x62b86aa950df <unknown>
+#15 0x62b86aae4578 <unknown>
+#16 0x62b86aae4740 <unknown>
+#17 0x62b86aaf4196 <unknown>
+#18 0x73647ca9ca94 <unknown>
+#19 0x73647cb29c3c <unknown>
+
+2024-12-03 00:49:12,949 - INFO - Scraping exitoso para término: TOSTADAS (MOLDE)
+2024-12-03 00:49:12,952 - INFO - ====== WebDriver manager ======
+2024-12-03 00:49:13,286 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:49:13,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:49:13,502 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:49:52,424 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=45649): Read timed out. (read timeout=120)
+2024-12-03 00:50:38,668 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:50:39,001 - INFO - Scraping exitoso para término: GALLETAS DULCES
+2024-12-03 00:50:39,013 - INFO - ====== WebDriver manager ======
+2024-12-03 00:50:39,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:50:39,439 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:50:39,493 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:50:45,442 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=56967): Read timed out. (read timeout=120)")': /session/d7f3dae4cdd3a82d08c9bcd382da2290
+2024-12-03 00:50:46,170 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=58087): Read timed out. (read timeout=120)
+2024-12-03 00:51:16,903 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=49271): Read timed out. (read timeout=120)
+2024-12-03 00:51:45,450 - INFO - Scraping exitoso para término: PAN INTEGRAL
+2024-12-03 00:51:45,452 - INFO - ====== WebDriver manager ======
+2024-12-03 00:51:45,852 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:51:45,927 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:51:45,986 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:51:52,540 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=45649): Read timed out. (read timeout=120)")': /session/5b457d1c80284077de9906ea902b66a4
+2024-12-03 00:51:55,575 - INFO - Scraping exitoso para término: PANETÓN
+2024-12-03 00:51:55,576 - INFO - ====== WebDriver manager ======
+2024-12-03 00:51:56,101 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:51:56,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:51:56,232 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:52:42,667 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=45011): Read timed out. (read timeout=120)
+2024-12-03 00:52:46,281 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=58087): Read timed out. (read timeout=120)")': /session/a8aa8e0f1786b3e6742eac9839d5f9dc
+2024-12-03 00:53:17,007 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=49271): Read timed out. (read timeout=120)")': /session/f9da7fb7f70f915debb16aa5129a4a38
+2024-12-03 00:53:46,377 - INFO - Scraping exitoso para término: GALLETAS BAÑADAS
+2024-12-03 00:53:46,378 - INFO - ====== WebDriver manager ======
+2024-12-03 00:53:46,657 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:46,703 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:46,751 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:53:47,532 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:53:47,911 - INFO - Scraping exitoso para término: PASTELES DULCES
+2024-12-03 00:53:47,912 - INFO - ====== WebDriver manager ======
+2024-12-03 00:53:48,327 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:48,399 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:48,445 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:53:52,977 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:53:53,245 - INFO - Scraping exitoso para término: PASTELES SALADOS
+2024-12-03 00:53:53,245 - INFO - ====== WebDriver manager ======
+2024-12-03 00:53:53,645 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:53,714 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:53:53,853 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:54:17,283 - INFO - Scraping exitoso para término: GALLETAS RELLENAS
+2024-12-03 00:54:17,296 - INFO - ====== WebDriver manager ======
+2024-12-03 00:54:17,809 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:54:17,915 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:54:17,990 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:54:35,621 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5d9291ba331a <unknown>
+#1 0x5d92916b96e0 <unknown>
+#2 0x5d92917083e6 <unknown>
+#3 0x5d9291708681 <unknown>
+#4 0x5d929174db04 <unknown>
+#5 0x5d929172c48d <unknown>
+#6 0x5d929174aed7 <unknown>
+#7 0x5d929172c203 <unknown>
+#8 0x5d92916facc0 <unknown>
+#9 0x5d92916fbc9e <unknown>
+#10 0x5d9291b70d0b <unknown>
+#11 0x5d9291b74c92 <unknown>
+#12 0x5d9291b5db3c <unknown>
+#13 0x5d9291b75807 <unknown>
+#14 0x5d9291b430df <unknown>
+#15 0x5d9291b92578 <unknown>
+#16 0x5d9291b92740 <unknown>
+#17 0x5d9291ba2196 <unknown>
+#18 0x787a76e9ca94 <unknown>
+#19 0x787a76f29c3c <unknown>
+
+2024-12-03 00:54:35,936 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA LARGA
+2024-12-03 00:54:35,938 - INFO - ====== WebDriver manager ======
+2024-12-03 00:54:36,306 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:54:36,430 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:54:36,510 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:54:42,776 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=45011): Read timed out. (read timeout=120)")': /session/7bb3a3af59c588767f73d2ce91d4153b
+2024-12-03 00:55:17,473 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5ea30c89f31a <unknown>
+#1 0x5ea30c3b56e0 <unknown>
+#2 0x5ea30c4043e6 <unknown>
+#3 0x5ea30c404681 <unknown>
+#4 0x5ea30c449b04 <unknown>
+#5 0x5ea30c42848d <unknown>
+#6 0x5ea30c446ed7 <unknown>
+#7 0x5ea30c428203 <unknown>
+#8 0x5ea30c3f6cc0 <unknown>
+#9 0x5ea30c3f7c9e <unknown>
+#10 0x5ea30c86cd0b <unknown>
+#11 0x5ea30c870c92 <unknown>
+#12 0x5ea30c859b3c <unknown>
+#13 0x5ea30c871807 <unknown>
+#14 0x5ea30c83f0df <unknown>
+#15 0x5ea30c88e578 <unknown>
+#16 0x5ea30c88e740 <unknown>
+#17 0x5ea30c89e196 <unknown>
+#18 0x744b1069ca94 <unknown>
+#19 0x744b10729c3c <unknown>
+
+2024-12-03 00:55:17,739 - INFO - Scraping exitoso para término: CEREALES PROCESADOS SIMPLES (HOJUELAS)
+2024-12-03 00:55:17,740 - INFO - ====== WebDriver manager ======
+2024-12-03 00:55:18,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:55:18,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:55:18,756 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:55:42,971 - INFO - Scraping exitoso para término: GALLETAS SALADAS
+2024-12-03 00:55:42,972 - INFO - ====== WebDriver manager ======
+2024-12-03 00:55:43,792 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:55:43,856 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:55:43,913 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:55:50,972 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=33169): Read timed out. (read timeout=120)
+2024-12-03 00:56:20,776 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=46395): Read timed out. (read timeout=120)
+2024-12-03 00:57:08,729 - INFO - Scraping exitoso para término: TORTA (ENTERA)
+2024-12-03 00:57:08,730 - INFO - ====== WebDriver manager ======
+2024-12-03 00:57:09,286 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:09,386 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:09,473 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:57:51,085 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=33169): Read timed out. (read timeout=120)")': /session/86146861a5f90522903415bcfcc2d046
+2024-12-03 00:57:55,044 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5c14f405431a <unknown>
+#1 0x5c14f3b6a6e0 <unknown>
+#2 0x5c14f3bb93e6 <unknown>
+#3 0x5c14f3bb9681 <unknown>
+#4 0x5c14f3bfeb04 <unknown>
+#5 0x5c14f3bdd48d <unknown>
+#6 0x5c14f3bfbed7 <unknown>
+#7 0x5c14f3bdd203 <unknown>
+#8 0x5c14f3babcc0 <unknown>
+#9 0x5c14f3bacc9e <unknown>
+#10 0x5c14f4021d0b <unknown>
+#11 0x5c14f4025c92 <unknown>
+#12 0x5c14f400eb3c <unknown>
+#13 0x5c14f4026807 <unknown>
+#14 0x5c14f3ff40df <unknown>
+#15 0x5c14f4043578 <unknown>
+#16 0x5c14f4043740 <unknown>
+#17 0x5c14f4053196 <unknown>
+#18 0x7a115049ca94 <unknown>
+#19 0x7a1150529c3c <unknown>
+
+2024-12-03 00:57:55,187 - INFO - Scraping exitoso para término: LOMO DE CERDO
+2024-12-03 00:57:55,189 - INFO - ====== WebDriver manager ======
+2024-12-03 00:57:55,313 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:57:55,653 - INFO - Scraping exitoso para término: CHULETA DE CERDO
+2024-12-03 00:57:55,656 - INFO - ====== WebDriver manager ======
+2024-12-03 00:57:55,720 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:55,807 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:55,842 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:57:56,080 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:56,192 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:57:56,322 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:58:12,109 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA CORTA
+2024-12-03 00:58:12,160 - INFO - ====== WebDriver manager ======
+2024-12-03 00:58:12,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:58:12,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:58:12,942 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:58:20,879 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=46395): Read timed out. (read timeout=120)")': /session/bd2ef921ae785c59a776ccbf38dc0be6
+2024-12-03 00:58:57,125 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5601d55a031a <unknown>
+#1 0x5601d50b66e0 <unknown>
+#2 0x5601d51053e6 <unknown>
+#3 0x5601d5105681 <unknown>
+#4 0x5601d514ab04 <unknown>
+#5 0x5601d512948d <unknown>
+#6 0x5601d5147ed7 <unknown>
+#7 0x5601d5129203 <unknown>
+#8 0x5601d50f7cc0 <unknown>
+#9 0x5601d50f8c9e <unknown>
+#10 0x5601d556dd0b <unknown>
+#11 0x5601d5571c92 <unknown>
+#12 0x5601d555ab3c <unknown>
+#13 0x5601d5572807 <unknown>
+#14 0x5601d55400df <unknown>
+#15 0x5601d558f578 <unknown>
+#16 0x5601d558f740 <unknown>
+#17 0x5601d559f196 <unknown>
+#18 0x70f07f29ca94 <unknown>
+#19 0x70f07f329c3c <unknown>
+
+2024-12-03 00:58:57,281 - INFO - Scraping exitoso para término: COSTILLA DE CERDO
+2024-12-03 00:58:57,284 - INFO - ====== WebDriver manager ======
+2024-12-03 00:58:57,566 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:58:57,621 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:58:57,674 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:59:21,550 - INFO - Scraping exitoso para término: CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS
+2024-12-03 00:59:21,562 - INFO - ====== WebDriver manager ======
+2024-12-03 00:59:21,950 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:21,996 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:22,047 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:59:36,657 - INFO - Scraping exitoso para término: CARNE DE CARNERO
+2024-12-03 00:59:36,664 - INFO - ====== WebDriver manager ======
+2024-12-03 00:59:37,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:37,511 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:37,619 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 00:59:56,772 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 00:59:57,597 - INFO - Scraping exitoso para término: PANCETA (CARNE DE CERDO)
+2024-12-03 00:59:57,599 - INFO - ====== WebDriver manager ======
+2024-12-03 00:59:58,226 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:58,313 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 00:59:58,412 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:00:56,374 - INFO - Scraping exitoso para término: PIERNA (CARNE DE CERDO)
+2024-12-03 01:00:56,379 - INFO - ====== WebDriver manager ======
+2024-12-03 01:00:56,780 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:00:56,833 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:00:56,909 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:01:24,844 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=36931): Read timed out. (read timeout=120)
+2024-12-03 01:02:16,825 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=44845): Read timed out. (read timeout=120)
+2024-12-03 01:02:24,023 - INFO - Scraping exitoso para término: BISTEC DE VACUNO
+2024-12-03 01:02:24,026 - INFO - ====== WebDriver manager ======
+2024-12-03 01:02:24,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:02:24,549 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:02:24,614 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:02:51,811 - INFO - Scraping exitoso para término: CARNE PARA GUISO DE VACUNO
+2024-12-03 01:02:51,818 - INFO - ====== WebDriver manager ======
+2024-12-03 01:02:52,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:02:52,399 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:02:52,506 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:03:24,947 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=36931): Read timed out. (read timeout=120)")': /session/cf69c232cdd211a4efb95a91452e49cc
+2024-12-03 01:04:16,916 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=44845): Read timed out. (read timeout=120)")': /session/edd08c1bb2d0b26608bc4e0799003913
+2024-12-03 01:04:19,891 - INFO - Scraping exitoso para término: SANCOCHADO DE VACUNO
+2024-12-03 01:04:19,895 - INFO - ====== WebDriver manager ======
+2024-12-03 01:04:20,503 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:04:20,573 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:04:20,653 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:04:25,253 - INFO - Scraping exitoso para término: CARNE MOLIDA DE VACUNO
+2024-12-03 01:04:25,255 - INFO - ====== WebDriver manager ======
+2024-12-03 01:04:26,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:04:26,413 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:04:26,498 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:05:02,567 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:05:02,820 - INFO - Scraping exitoso para término: ALAS DE POLLO
+2024-12-03 01:05:02,820 - INFO - ====== WebDriver manager ======
+2024-12-03 01:05:03,072 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:03,166 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:03,249 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:05:07,927 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x60925add431a <unknown>
+#1 0x60925a8ea6e0 <unknown>
+#2 0x60925a9393e6 <unknown>
+#3 0x60925a939681 <unknown>
+#4 0x60925a97eb04 <unknown>
+#5 0x60925a95d48d <unknown>
+#6 0x60925a97bed7 <unknown>
+#7 0x60925a95d203 <unknown>
+#8 0x60925a92bcc0 <unknown>
+#9 0x60925a92cc9e <unknown>
+#10 0x60925ada1d0b <unknown>
+#11 0x60925ada5c92 <unknown>
+#12 0x60925ad8eb3c <unknown>
+#13 0x60925ada6807 <unknown>
+#14 0x60925ad740df <unknown>
+#15 0x60925adc3578 <unknown>
+#16 0x60925adc3740 <unknown>
+#17 0x60925add3196 <unknown>
+#18 0x70342f29ca94 <unknown>
+#19 0x70342f329c3c <unknown>
+
+2024-12-03 01:05:08,131 - INFO - Scraping exitoso para término: PECHUGA DE POLLO
+2024-12-03 01:05:08,136 - INFO - ====== WebDriver manager ======
+2024-12-03 01:05:08,354 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:08,429 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:08,567 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:05:15,617 - INFO - Scraping exitoso para término: GALLINA EVISCERADA
+2024-12-03 01:05:15,620 - INFO - ====== WebDriver manager ======
+2024-12-03 01:05:16,213 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:16,335 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:16,388 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:05:17,301 - INFO - Scraping exitoso para término: CHURRASCO DE VACUNO
+2024-12-03 01:05:17,303 - INFO - ====== WebDriver manager ======
+2024-12-03 01:05:18,365 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:18,531 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:18,621 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:05:50,434 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5e06694e331a <unknown>
+#1 0x5e0668ff96e0 <unknown>
+#2 0x5e06690483e6 <unknown>
+#3 0x5e0669048681 <unknown>
+#4 0x5e066908db04 <unknown>
+#5 0x5e066906c48d <unknown>
+#6 0x5e066908aed7 <unknown>
+#7 0x5e066906c203 <unknown>
+#8 0x5e066903acc0 <unknown>
+#9 0x5e066903bc9e <unknown>
+#10 0x5e06694b0d0b <unknown>
+#11 0x5e06694b4c92 <unknown>
+#12 0x5e066949db3c <unknown>
+#13 0x5e06694b5807 <unknown>
+#14 0x5e06694830df <unknown>
+#15 0x5e06694d2578 <unknown>
+#16 0x5e06694d2740 <unknown>
+#17 0x5e06694e2196 <unknown>
+#18 0x7fef83a9ca94 <unknown>
+#19 0x7fef83b29c3c <unknown>
+
+2024-12-03 01:05:50,601 - INFO - Scraping exitoso para término: PAVO EVISCERADO
+2024-12-03 01:05:50,601 - INFO - ====== WebDriver manager ======
+2024-12-03 01:05:50,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:51,115 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:05:51,177 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:06:22,228 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5fc634f7631a <unknown>
+#1 0x5fc634a8c6e0 <unknown>
+#2 0x5fc634adb3e6 <unknown>
+#3 0x5fc634adb681 <unknown>
+#4 0x5fc634b20b04 <unknown>
+#5 0x5fc634aff48d <unknown>
+#6 0x5fc634b1ded7 <unknown>
+#7 0x5fc634aff203 <unknown>
+#8 0x5fc634acdcc0 <unknown>
+#9 0x5fc634acec9e <unknown>
+#10 0x5fc634f43d0b <unknown>
+#11 0x5fc634f47c92 <unknown>
+#12 0x5fc634f30b3c <unknown>
+#13 0x5fc634f48807 <unknown>
+#14 0x5fc634f160df <unknown>
+#15 0x5fc634f65578 <unknown>
+#16 0x5fc634f65740 <unknown>
+#17 0x5fc634f75196 <unknown>
+#18 0x7cc93d29ca94 <unknown>
+#19 0x7cc93d329c3c <unknown>
+
+2024-12-03 01:06:22,714 - INFO - Scraping exitoso para término: MENUDENCIA DE POLLO
+2024-12-03 01:06:22,719 - INFO - ====== WebDriver manager ======
+2024-12-03 01:06:23,328 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:06:23,400 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:06:23,549 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:06:30,495 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=33009): Read timed out. (read timeout=120)
+2024-12-03 01:08:17,649 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:08:17,987 - INFO - Scraping exitoso para término: BOFE DE RES
+2024-12-03 01:08:17,998 - INFO - ====== WebDriver manager ======
+2024-12-03 01:08:18,574 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:18,627 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:18,677 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:08:29,723 - INFO - Scraping exitoso para término: HÍGADO DE RES
+2024-12-03 01:08:29,725 - INFO - ====== WebDriver manager ======
+2024-12-03 01:08:30,059 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:30,110 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:30,194 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:08:30,511 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=33009): Read timed out. (read timeout=120)")': /session/2ea77a321d92aef42ff7573abe006742
+2024-12-03 01:08:38,799 - INFO - Scraping exitoso para término: POLLO EVISCERADO
+2024-12-03 01:08:38,800 - INFO - ====== WebDriver manager ======
+2024-12-03 01:08:39,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:39,506 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:08:39,656 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:09:00,198 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x618723b0c31a <unknown>
+#1 0x6187236226e0 <unknown>
+#2 0x6187236713e6 <unknown>
+#3 0x618723671681 <unknown>
+#4 0x6187236b6b04 <unknown>
+#5 0x61872369548d <unknown>
+#6 0x6187236b3ed7 <unknown>
+#7 0x618723695203 <unknown>
+#8 0x618723663cc0 <unknown>
+#9 0x618723664c9e <unknown>
+#10 0x618723ad9d0b <unknown>
+#11 0x618723addc92 <unknown>
+#12 0x618723ac6b3c <unknown>
+#13 0x618723ade807 <unknown>
+#14 0x618723aac0df <unknown>
+#15 0x618723afb578 <unknown>
+#16 0x618723afb740 <unknown>
+#17 0x618723b0b196 <unknown>
+#18 0x7c9fde29ca94 <unknown>
+#19 0x7c9fde329c3c <unknown>
+
+2024-12-03 01:09:00,429 - INFO - Scraping exitoso para término: CHORIZO
+2024-12-03 01:09:00,434 - INFO - ====== WebDriver manager ======
+2024-12-03 01:09:00,933 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:01,045 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:01,116 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:09:28,715 - INFO - Scraping exitoso para término: MONDONGO DE RES
+2024-12-03 01:09:28,716 - INFO - ====== WebDriver manager ======
+2024-12-03 01:09:29,435 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:29,505 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:29,585 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:09:31,029 - INFO - Scraping exitoso para término: PIERNA DE POLLO
+2024-12-03 01:09:31,035 - INFO - ====== WebDriver manager ======
+2024-12-03 01:09:32,000 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:32,083 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:32,241 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:09:45,900 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5c631417031a <unknown>
+#1 0x5c6313c866e0 <unknown>
+#2 0x5c6313cd53e6 <unknown>
+#3 0x5c6313cd5681 <unknown>
+#4 0x5c6313d1ab04 <unknown>
+#5 0x5c6313cf948d <unknown>
+#6 0x5c6313d17ed7 <unknown>
+#7 0x5c6313cf9203 <unknown>
+#8 0x5c6313cc7cc0 <unknown>
+#9 0x5c6313cc8c9e <unknown>
+#10 0x5c631413dd0b <unknown>
+#11 0x5c6314141c92 <unknown>
+#12 0x5c631412ab3c <unknown>
+#13 0x5c6314142807 <unknown>
+#14 0x5c63141100df <unknown>
+#15 0x5c631415f578 <unknown>
+#16 0x5c631415f740 <unknown>
+#17 0x5c631416f196 <unknown>
+#18 0x7b4eafa9ca94 <unknown>
+#19 0x7b4eafb29c3c <unknown>
+
+2024-12-03 01:09:47,122 - INFO - Scraping exitoso para término: JAMONADA
+2024-12-03 01:09:47,125 - INFO - ====== WebDriver manager ======
+2024-12-03 01:09:47,669 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:47,732 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:09:47,796 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:10:33,259 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x64953c2ba31a <unknown>
+#1 0x64953bdd06e0 <unknown>
+#2 0x64953be1f3e6 <unknown>
+#3 0x64953be1f681 <unknown>
+#4 0x64953be64b04 <unknown>
+#5 0x64953be4348d <unknown>
+#6 0x64953be61ed7 <unknown>
+#7 0x64953be43203 <unknown>
+#8 0x64953be11cc0 <unknown>
+#9 0x64953be12c9e <unknown>
+#10 0x64953c287d0b <unknown>
+#11 0x64953c28bc92 <unknown>
+#12 0x64953c274b3c <unknown>
+#13 0x64953c28c807 <unknown>
+#14 0x64953c25a0df <unknown>
+#15 0x64953c2a9578 <unknown>
+#16 0x64953c2a9740 <unknown>
+#17 0x64953c2b9196 <unknown>
+#18 0x7a5dd8c9ca94 <unknown>
+#19 0x7a5dd8d29c3c <unknown>
+
+2024-12-03 01:10:33,394 - INFO - Scraping exitoso para término: TOCINO AHUMADO
+2024-12-03 01:10:33,395 - INFO - ====== WebDriver manager ======
+2024-12-03 01:10:33,651 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:10:33,705 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:10:33,760 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:11:05,394 - INFO - Scraping exitoso para término: JAMÓN DEL PAÍS
+2024-12-03 01:11:05,395 - INFO - ====== WebDriver manager ======
+2024-12-03 01:11:05,822 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:05,881 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:05,946 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:11:18,199 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x57bd8ce7731a <unknown>
+#1 0x57bd8c98d6e0 <unknown>
+#2 0x57bd8c9dc3e6 <unknown>
+#3 0x57bd8c9dc681 <unknown>
+#4 0x57bd8ca21b04 <unknown>
+#5 0x57bd8ca0048d <unknown>
+#6 0x57bd8ca1eed7 <unknown>
+#7 0x57bd8ca00203 <unknown>
+#8 0x57bd8c9cecc0 <unknown>
+#9 0x57bd8c9cfc9e <unknown>
+#10 0x57bd8ce44d0b <unknown>
+#11 0x57bd8ce48c92 <unknown>
+#12 0x57bd8ce31b3c <unknown>
+#13 0x57bd8ce49807 <unknown>
+#14 0x57bd8ce170df <unknown>
+#15 0x57bd8ce66578 <unknown>
+#16 0x57bd8ce66740 <unknown>
+#17 0x57bd8ce76196 <unknown>
+#18 0x74cc9349ca94 <unknown>
+#19 0x74cc93529c3c <unknown>
+
+2024-12-03 01:11:18,322 - INFO - Scraping exitoso para término: BONITO
+2024-12-03 01:11:18,323 - INFO - ====== WebDriver manager ======
+2024-12-03 01:11:18,540 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:18,591 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:18,639 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:11:24,124 - INFO - Scraping exitoso para término: HOT DOG
+2024-12-03 01:11:24,130 - INFO - ====== WebDriver manager ======
+2024-12-03 01:11:24,507 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:24,576 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:24,621 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:11:45,774 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x59e27b96131a <unknown>
+#1 0x59e27b4776e0 <unknown>
+#2 0x59e27b4c63e6 <unknown>
+#3 0x59e27b4c6681 <unknown>
+#4 0x59e27b50bb04 <unknown>
+#5 0x59e27b4ea48d <unknown>
+#6 0x59e27b508ed7 <unknown>
+#7 0x59e27b4ea203 <unknown>
+#8 0x59e27b4b8cc0 <unknown>
+#9 0x59e27b4b9c9e <unknown>
+#10 0x59e27b92ed0b <unknown>
+#11 0x59e27b932c92 <unknown>
+#12 0x59e27b91bb3c <unknown>
+#13 0x59e27b933807 <unknown>
+#14 0x59e27b9010df <unknown>
+#15 0x59e27b950578 <unknown>
+#16 0x59e27b950740 <unknown>
+#17 0x59e27b960196 <unknown>
+#18 0x77362229ca94 <unknown>
+#19 0x773622329c3c <unknown>
+
+2024-12-03 01:11:46,938 - INFO - Scraping exitoso para término: CABALLA
+2024-12-03 01:11:46,939 - INFO - ====== WebDriver manager ======
+2024-12-03 01:11:47,445 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:47,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:11:47,568 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:11:51,456 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=41615): Read timed out. (read timeout=120)
+2024-12-03 01:13:01,503 - INFO - Scraping exitoso para término: HAMBURGUESA
+2024-12-03 01:13:01,503 - INFO - ====== WebDriver manager ======
+2024-12-03 01:13:01,989 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:13:02,039 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:13:02,127 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:13:51,590 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=41615): Read timed out. (read timeout=120)")': /session/eca5a30d10cdc3c4680c05a3cbed10b9
+2024-12-03 01:13:51,831 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=36877): Read timed out. (read timeout=120)
+2024-12-03 01:14:01,769 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:14:02,039 - INFO - Scraping exitoso para término: JUREL
+2024-12-03 01:14:02,040 - INFO - ====== WebDriver manager ======
+2024-12-03 01:14:02,405 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:02,600 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:02,696 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:14:44,219 - INFO - Scraping exitoso para término: CORVINA
+2024-12-03 01:14:44,222 - INFO - ====== WebDriver manager ======
+2024-12-03 01:14:44,481 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:44,572 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:44,650 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:14:52,319 - INFO - Scraping exitoso para término: MILANESA
+2024-12-03 01:14:52,371 - INFO - ====== WebDriver manager ======
+2024-12-03 01:14:53,061 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:53,173 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:14:53,273 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:15:51,943 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=36877): Read timed out. (read timeout=120)")': /session/cbd2e9e1fcd41f97fe06745cc07c0233
+2024-12-03 01:16:00,126 - INFO - Scraping exitoso para término: MERLUZA
+2024-12-03 01:16:00,149 - INFO - ====== WebDriver manager ======
+2024-12-03 01:16:01,370 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:01,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:01,550 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:16:50,018 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x63a92625631a <unknown>
+#1 0x63a925d6c6e0 <unknown>
+#2 0x63a925dbb3e6 <unknown>
+#3 0x63a925dbb681 <unknown>
+#4 0x63a925e00b04 <unknown>
+#5 0x63a925ddf48d <unknown>
+#6 0x63a925dfded7 <unknown>
+#7 0x63a925ddf203 <unknown>
+#8 0x63a925dadcc0 <unknown>
+#9 0x63a925daec9e <unknown>
+#10 0x63a926223d0b <unknown>
+#11 0x63a926227c92 <unknown>
+#12 0x63a926210b3c <unknown>
+#13 0x63a926228807 <unknown>
+#14 0x63a9261f60df <unknown>
+#15 0x63a926245578 <unknown>
+#16 0x63a926245740 <unknown>
+#17 0x63a926255196 <unknown>
+#18 0x71513089ca94 <unknown>
+#19 0x715130929c3c <unknown>
+
+2024-12-03 01:16:50,047 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:16:50,319 - INFO - Scraping exitoso para término: CHOROS (CON VALVA)
+2024-12-03 01:16:50,319 - INFO - ====== WebDriver manager ======
+2024-12-03 01:16:50,396 - INFO - Scraping exitoso para término: TILAPIA - PESCA CONTINENTAL - DE RÍO
+2024-12-03 01:16:50,397 - INFO - ====== WebDriver manager ======
+2024-12-03 01:16:50,626 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:50,647 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:50,671 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:50,696 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:50,716 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:16:50,746 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:16:52,175 - INFO - Scraping exitoso para término: LIZA
+2024-12-03 01:16:52,178 - INFO - ====== WebDriver manager ======
+2024-12-03 01:16:52,818 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:52,935 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:16:52,993 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:17:08,831 - INFO - Scraping exitoso para término: PERICO
+2024-12-03 01:17:08,871 - INFO - ====== WebDriver manager ======
+2024-12-03 01:17:09,468 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:17:09,625 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:17:09,832 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:18:05,979 - INFO - Scraping exitoso para término: TRUCHA - PESCA CONTINENTAL - DE RÍO
+2024-12-03 01:18:05,979 - INFO - ====== WebDriver manager ======
+2024-12-03 01:18:06,337 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:18:06,386 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:18:06,457 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:19:16,020 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:19:16,361 - INFO - Scraping exitoso para término: FILETE DE PESCADO EN CONSERVA
+2024-12-03 01:19:16,362 - INFO - ====== WebDriver manager ======
+2024-12-03 01:19:16,961 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:19:17,039 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:19:17,146 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:19:49,493 - INFO - Scraping exitoso para término: TROZO DE PESCADO EN CONSERVA
+2024-12-03 01:19:49,502 - INFO - ====== WebDriver manager ======
+2024-12-03 01:19:49,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:19:49,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:19:50,044 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:20:06,115 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5fc455d2731a <unknown>
+#1 0x5fc45583d6e0 <unknown>
+#2 0x5fc45588c3e6 <unknown>
+#3 0x5fc45588c681 <unknown>
+#4 0x5fc4558d1b04 <unknown>
+#5 0x5fc4558b048d <unknown>
+#6 0x5fc4558ceed7 <unknown>
+#7 0x5fc4558b0203 <unknown>
+#8 0x5fc45587ecc0 <unknown>
+#9 0x5fc45587fc9e <unknown>
+#10 0x5fc455cf4d0b <unknown>
+#11 0x5fc455cf8c92 <unknown>
+#12 0x5fc455ce1b3c <unknown>
+#13 0x5fc455cf9807 <unknown>
+#14 0x5fc455cc70df <unknown>
+#15 0x5fc455d16578 <unknown>
+#16 0x5fc455d16740 <unknown>
+#17 0x5fc455d26196 <unknown>
+#18 0x75f18269ca94 <unknown>
+#19 0x75f182729c3c <unknown>
+
+2024-12-03 01:20:06,324 - INFO - Scraping exitoso para término: LECHE EVAPORADA
+2024-12-03 01:20:06,328 - INFO - ====== WebDriver manager ======
+2024-12-03 01:20:06,643 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:06,744 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:06,794 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:20:09,070 - INFO - Scraping exitoso para término: LECHE FRESCA PASTEURIZADA
+2024-12-03 01:20:09,078 - INFO - ====== WebDriver manager ======
+2024-12-03 01:20:09,545 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:09,630 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:09,738 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:20:19,356 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:20:19,636 - INFO - Scraping exitoso para término: LECHE FRESCA UHT
+2024-12-03 01:20:19,637 - INFO - ====== WebDriver manager ======
+2024-12-03 01:20:20,085 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:20,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:20,285 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:20:22,851 - INFO - Scraping exitoso para término: GRATED DE PESCADO EN CONSERVA
+2024-12-03 01:20:22,856 - INFO - ====== WebDriver manager ======
+2024-12-03 01:20:23,715 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:23,773 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:23,891 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:20:50,671 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x56521945d31a <unknown>
+#1 0x565218f736e0 <unknown>
+#2 0x565218fc23e6 <unknown>
+#3 0x565218fc2681 <unknown>
+#4 0x565219007b04 <unknown>
+#5 0x565218fe648d <unknown>
+#6 0x565219004ed7 <unknown>
+#7 0x565218fe6203 <unknown>
+#8 0x565218fb4cc0 <unknown>
+#9 0x565218fb5c9e <unknown>
+#10 0x56521942ad0b <unknown>
+#11 0x56521942ec92 <unknown>
+#12 0x565219417b3c <unknown>
+#13 0x56521942f807 <unknown>
+#14 0x5652193fd0df <unknown>
+#15 0x56521944c578 <unknown>
+#16 0x56521944c740 <unknown>
+#17 0x56521945c196 <unknown>
+#18 0x74fe6dc9ca94 <unknown>
+#19 0x74fe6dd29c3c <unknown>
+
+2024-12-03 01:20:51,142 - INFO - Scraping exitoso para término: MEZCLA LÁCTEA EVAPORADA
+2024-12-03 01:20:51,168 - INFO - ====== WebDriver manager ======
+2024-12-03 01:20:51,803 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:51,884 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:20:51,964 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:21:11,148 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5a91f88e731a <unknown>
+#1 0x5a91f83fd6e0 <unknown>
+#2 0x5a91f844c3e6 <unknown>
+#3 0x5a91f844c681 <unknown>
+#4 0x5a91f8491b04 <unknown>
+#5 0x5a91f847048d <unknown>
+#6 0x5a91f848eed7 <unknown>
+#7 0x5a91f8470203 <unknown>
+#8 0x5a91f843ecc0 <unknown>
+#9 0x5a91f843fc9e <unknown>
+#10 0x5a91f88b4d0b <unknown>
+#11 0x5a91f88b8c92 <unknown>
+#12 0x5a91f88a1b3c <unknown>
+#13 0x5a91f88b9807 <unknown>
+#14 0x5a91f88870df <unknown>
+#15 0x5a91f88d6578 <unknown>
+#16 0x5a91f88d6740 <unknown>
+#17 0x5a91f88e6196 <unknown>
+#18 0x70731ee9ca94 <unknown>
+#19 0x70731ef29c3c <unknown>
+
+2024-12-03 01:21:11,465 - INFO - Scraping exitoso para término: LECHE / BEBIDAS DE PRODUCTOS VEGETALES
+2024-12-03 01:21:11,486 - INFO - ====== WebDriver manager ======
+2024-12-03 01:21:12,280 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:21:12,451 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:21:12,551 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:22:18,071 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:22:18,335 - INFO - Scraping exitoso para término: ALIMENTO LACTEO EN POLVO
+2024-12-03 01:22:18,338 - INFO - ====== WebDriver manager ======
+2024-12-03 01:22:18,641 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:22:18,722 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:22:18,793 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:00,890 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x648f8db3331a <unknown>
+#1 0x648f8d6496e0 <unknown>
+#2 0x648f8d6983e6 <unknown>
+#3 0x648f8d698681 <unknown>
+#4 0x648f8d6ddb04 <unknown>
+#5 0x648f8d6bc48d <unknown>
+#6 0x648f8d6daed7 <unknown>
+#7 0x648f8d6bc203 <unknown>
+#8 0x648f8d68acc0 <unknown>
+#9 0x648f8d68bc9e <unknown>
+#10 0x648f8db00d0b <unknown>
+#11 0x648f8db04c92 <unknown>
+#12 0x648f8daedb3c <unknown>
+#13 0x648f8db05807 <unknown>
+#14 0x648f8dad30df <unknown>
+#15 0x648f8db22578 <unknown>
+#16 0x648f8db22740 <unknown>
+#17 0x648f8db32196 <unknown>
+#18 0x7f947e49ca94 <unknown>
+#19 0x7f947e529c3c <unknown>
+
+2024-12-03 01:23:01,061 - INFO - Scraping exitoso para término: LECHE CONDENSADA
+2024-12-03 01:23:01,062 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:01,314 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:01,383 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:01,438 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:05,505 - INFO - Scraping exitoso para término: FÓRMULA PARA LACTANTES
+2024-12-03 01:23:05,507 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:05,741 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:05,793 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:05,842 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:16,769 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=47499): Read timed out. (read timeout=120)
+2024-12-03 01:23:17,857 - ERROR - Error en scraping para término YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA: Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/tottus/tottus_YOGUR DE LECHE DESCREMADA '
+2024-12-03 01:23:17,859 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:18,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:18,142 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:18,186 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:29,127 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:23:29,426 - INFO - Scraping exitoso para término: YOGUR DE LECHE ENTERA
+2024-12-03 01:23:29,428 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:29,668 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:29,707 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:29,763 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:42,162 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x57fe5847d31a <unknown>
+#1 0x57fe57f936e0 <unknown>
+#2 0x57fe57fe23e6 <unknown>
+#3 0x57fe57fe2681 <unknown>
+#4 0x57fe58027b04 <unknown>
+#5 0x57fe5800648d <unknown>
+#6 0x57fe58024ed7 <unknown>
+#7 0x57fe58006203 <unknown>
+#8 0x57fe57fd4cc0 <unknown>
+#9 0x57fe57fd5c9e <unknown>
+#10 0x57fe5844ad0b <unknown>
+#11 0x57fe5844ec92 <unknown>
+#12 0x57fe58437b3c <unknown>
+#13 0x57fe5844f807 <unknown>
+#14 0x57fe5841d0df <unknown>
+#15 0x57fe5846c578 <unknown>
+#16 0x57fe5846c740 <unknown>
+#17 0x57fe5847c196 <unknown>
+#18 0x794697c9ca94 <unknown>
+#19 0x794697d29c3c <unknown>
+
+2024-12-03 01:23:42,303 - INFO - Scraping exitoso para término: QUESO FRESCO DE VACA
+2024-12-03 01:23:42,304 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:42,621 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:42,667 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:42,749 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:23:44,191 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x56cf54f5c31a <unknown>
+#1 0x56cf54a726e0 <unknown>
+#2 0x56cf54ac13e6 <unknown>
+#3 0x56cf54ac1681 <unknown>
+#4 0x56cf54b06b04 <unknown>
+#5 0x56cf54ae548d <unknown>
+#6 0x56cf54b03ed7 <unknown>
+#7 0x56cf54ae5203 <unknown>
+#8 0x56cf54ab3cc0 <unknown>
+#9 0x56cf54ab4c9e <unknown>
+#10 0x56cf54f29d0b <unknown>
+#11 0x56cf54f2dc92 <unknown>
+#12 0x56cf54f16b3c <unknown>
+#13 0x56cf54f2e807 <unknown>
+#14 0x56cf54efc0df <unknown>
+#15 0x56cf54f4b578 <unknown>
+#16 0x56cf54f4b740 <unknown>
+#17 0x56cf54f5b196 <unknown>
+#18 0x7e623f89ca94 <unknown>
+#19 0x7e623f929c3c <unknown>
+
+2024-12-03 01:23:44,603 - INFO - Scraping exitoso para término: QUESO EDAM
+2024-12-03 01:23:44,612 - INFO - ====== WebDriver manager ======
+2024-12-03 01:23:45,021 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:45,070 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:23:45,116 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:24:21,968 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x581df92a831a <unknown>
+#1 0x581df8dbe6e0 <unknown>
+#2 0x581df8e0d3e6 <unknown>
+#3 0x581df8e0d681 <unknown>
+#4 0x581df8e52b04 <unknown>
+#5 0x581df8e3148d <unknown>
+#6 0x581df8e4fed7 <unknown>
+#7 0x581df8e31203 <unknown>
+#8 0x581df8dffcc0 <unknown>
+#9 0x581df8e00c9e <unknown>
+#10 0x581df9275d0b <unknown>
+#11 0x581df9279c92 <unknown>
+#12 0x581df9262b3c <unknown>
+#13 0x581df927a807 <unknown>
+#14 0x581df92480df <unknown>
+#15 0x581df9297578 <unknown>
+#16 0x581df9297740 <unknown>
+#17 0x581df92a7196 <unknown>
+#18 0x7e9d56e9ca94 <unknown>
+#19 0x7e9d56f29c3c <unknown>
+
+2024-12-03 01:24:22,122 - INFO - Scraping exitoso para término: HUEVOS DE GALLINA
+2024-12-03 01:24:22,123 - INFO - ====== WebDriver manager ======
+2024-12-03 01:24:22,372 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:24:22,434 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:24:22,487 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:25:15,043 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:25:15,723 - INFO - Scraping exitoso para término: QUESO MANTECOSO
+2024-12-03 01:25:15,723 - INFO - ====== WebDriver manager ======
+2024-12-03 01:25:16,349 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:25:16,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:25:16,558 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:25:16,889 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=47499): Read timed out. (read timeout=120)")': /session/047e8dccfddc3aa80ebc175e6acfc551
+2024-12-03 01:25:31,918 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=58329): Read timed out. (read timeout=120)
+2024-12-03 01:26:17,113 - INFO - Scraping exitoso para término: YOGUR MIXTO EN VASO
+2024-12-03 01:26:17,114 - INFO - ====== WebDriver manager ======
+2024-12-03 01:26:17,493 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:26:17,539 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:26:17,582 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:26:42,064 - INFO - Scraping exitoso para término: ACEITE DE OLIVA
+2024-12-03 01:26:42,067 - INFO - ====== WebDriver manager ======
+2024-12-03 01:26:42,294 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:26:42,367 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:26:42,455 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:27:18,628 - INFO - Scraping exitoso para término: ACEITE VEGETAL ENVASADO
+2024-12-03 01:27:18,629 - INFO - ====== WebDriver manager ======
+2024-12-03 01:27:19,169 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:27:19,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:27:19,312 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:27:32,024 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=58329): Read timed out. (read timeout=120)")': /session/34cf40fc58dab2d9d38c79ab0fd907b5
+2024-12-03 01:27:56,853 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:27:57,282 - INFO - Scraping exitoso para término: MANTEQUILLA ENVASADA
+2024-12-03 01:27:57,283 - INFO - ====== WebDriver manager ======
+2024-12-03 01:27:57,774 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:27:57,867 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:27:57,955 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:28:20,234 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=53523): Read timed out. (read timeout=120)
+2024-12-03 01:28:24,753 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:28:25,102 - INFO - Scraping exitoso para término: LIMÓN
+2024-12-03 01:28:25,102 - INFO - ====== WebDriver manager ======
+2024-12-03 01:28:25,680 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:28:25,942 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:28:26,129 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:28:33,199 - INFO - Scraping exitoso para término: QUESO PARIA
+2024-12-03 01:28:33,199 - INFO - ====== WebDriver manager ======
+2024-12-03 01:28:33,605 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:28:33,668 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:28:33,733 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:29:06,078 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x60a5c865b31a <unknown>
+#1 0x60a5c81716e0 <unknown>
+#2 0x60a5c81c03e6 <unknown>
+#3 0x60a5c81c0681 <unknown>
+#4 0x60a5c8205b04 <unknown>
+#5 0x60a5c81e448d <unknown>
+#6 0x60a5c8202ed7 <unknown>
+#7 0x60a5c81e4203 <unknown>
+#8 0x60a5c81b2cc0 <unknown>
+#9 0x60a5c81b3c9e <unknown>
+#10 0x60a5c8628d0b <unknown>
+#11 0x60a5c862cc92 <unknown>
+#12 0x60a5c8615b3c <unknown>
+#13 0x60a5c862d807 <unknown>
+#14 0x60a5c85fb0df <unknown>
+#15 0x60a5c864a578 <unknown>
+#16 0x60a5c864a740 <unknown>
+#17 0x60a5c865a196 <unknown>
+#18 0x75e9ac29ca94 <unknown>
+#19 0x75e9ac329c3c <unknown>
+
+2024-12-03 01:29:06,369 - INFO - Scraping exitoso para término: NARANJA DE JUGO
+2024-12-03 01:29:06,370 - INFO - ====== WebDriver manager ======
+2024-12-03 01:29:06,708 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:06,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:06,897 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:29:17,952 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x598851d0b31a <unknown>
+#1 0x5988518216e0 <unknown>
+#2 0x5988518703e6 <unknown>
+#3 0x598851870681 <unknown>
+#4 0x5988518b5b04 <unknown>
+#5 0x59885189448d <unknown>
+#6 0x5988518b2ed7 <unknown>
+#7 0x598851894203 <unknown>
+#8 0x598851862cc0 <unknown>
+#9 0x598851863c9e <unknown>
+#10 0x598851cd8d0b <unknown>
+#11 0x598851cdcc92 <unknown>
+#12 0x598851cc5b3c <unknown>
+#13 0x598851cdd807 <unknown>
+#14 0x598851cab0df <unknown>
+#15 0x598851cfa578 <unknown>
+#16 0x598851cfa740 <unknown>
+#17 0x598851d0a196 <unknown>
+#18 0x74e45369ca94 <unknown>
+#19 0x74e453729c3c <unknown>
+
+2024-12-03 01:29:18,186 - INFO - Scraping exitoso para término: NARANJA DE MESA
+2024-12-03 01:29:18,187 - INFO - ====== WebDriver manager ======
+2024-12-03 01:29:18,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:18,658 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:18,724 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:29:40,173 - INFO - Scraping exitoso para término: MANDARINA
+2024-12-03 01:29:40,198 - INFO - ====== WebDriver manager ======
+2024-12-03 01:29:40,626 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:40,699 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:40,784 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:29:49,036 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x586128dda31a <unknown>
+#1 0x5861288f06e0 <unknown>
+#2 0x58612893f3e6 <unknown>
+#3 0x58612893f681 <unknown>
+#4 0x586128984b04 <unknown>
+#5 0x58612896348d <unknown>
+#6 0x586128981ed7 <unknown>
+#7 0x586128963203 <unknown>
+#8 0x586128931cc0 <unknown>
+#9 0x586128932c9e <unknown>
+#10 0x586128da7d0b <unknown>
+#11 0x586128dabc92 <unknown>
+#12 0x586128d94b3c <unknown>
+#13 0x586128dac807 <unknown>
+#14 0x586128d7a0df <unknown>
+#15 0x586128dc9578 <unknown>
+#16 0x586128dc9740 <unknown>
+#17 0x586128dd9196 <unknown>
+#18 0x75c9c709ca94 <unknown>
+#19 0x75c9c7129c3c <unknown>
+
+2024-12-03 01:29:49,220 - INFO - Scraping exitoso para término: DURAZNO HUAYCO
+2024-12-03 01:29:49,231 - INFO - ====== WebDriver manager ======
+2024-12-03 01:29:49,917 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:49,998 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:29:50,177 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:30:03,172 - INFO - Scraping exitoso para término: MARGARINA ENVASADA
+2024-12-03 01:30:03,172 - INFO - ====== WebDriver manager ======
+2024-12-03 01:30:03,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:03,822 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:03,981 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:30:24,784 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:30:25,192 - INFO - Scraping exitoso para término: MARACUYÁ
+2024-12-03 01:30:25,198 - INFO - ====== WebDriver manager ======
+2024-12-03 01:30:25,537 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:25,619 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:25,701 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:30:57,395 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x579490e2231a <unknown>
+#1 0x5794909386e0 <unknown>
+#2 0x5794909873e6 <unknown>
+#3 0x579490987681 <unknown>
+#4 0x5794909ccb04 <unknown>
+#5 0x5794909ab48d <unknown>
+#6 0x5794909c9ed7 <unknown>
+#7 0x5794909ab203 <unknown>
+#8 0x579490979cc0 <unknown>
+#9 0x57949097ac9e <unknown>
+#10 0x579490defd0b <unknown>
+#11 0x579490df3c92 <unknown>
+#12 0x579490ddcb3c <unknown>
+#13 0x579490df4807 <unknown>
+#14 0x579490dc20df <unknown>
+#15 0x579490e11578 <unknown>
+#16 0x579490e11740 <unknown>
+#17 0x579490e21196 <unknown>
+#18 0x725628a9ca94 <unknown>
+#19 0x725628b29c3c <unknown>
+
+2024-12-03 01:30:57,828 - INFO - Scraping exitoso para término: MANZANA CORRIENTE
+2024-12-03 01:30:57,837 - INFO - ====== WebDriver manager ======
+2024-12-03 01:30:58,334 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:58,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:30:58,529 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:32:16,405 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:32:16,747 - INFO - Scraping exitoso para término: MANZANA IMPORTADA
+2024-12-03 01:32:16,756 - INFO - ====== WebDriver manager ======
+2024-12-03 01:32:17,179 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:32:17,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:32:17,260 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:32:17,961 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:32:18,434 - INFO - Scraping exitoso para término: MANZANA ISRAEL
+2024-12-03 01:32:18,437 - INFO - ====== WebDriver manager ======
+2024-12-03 01:32:19,003 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:32:19,066 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:32:19,133 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:33:26,702 - INFO - Scraping exitoso para término: PAPAYA
+2024-12-03 01:33:26,703 - INFO - ====== WebDriver manager ======
+2024-12-03 01:33:26,932 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:26,976 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:27,032 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:33:37,349 - INFO - Scraping exitoso para término: MANZANA DELICIA
+2024-12-03 01:33:37,350 - INFO - ====== WebDriver manager ======
+2024-12-03 01:33:37,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:37,724 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:37,764 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:33:45,409 - ERROR - Error en scraping para término PALTA FUERTE / MAYAR: Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/tottus/tottus_PALTA FUERTE '
+2024-12-03 01:33:45,414 - INFO - ====== WebDriver manager ======
+2024-12-03 01:33:45,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:45,930 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:33:45,973 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:34:08,984 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5f6091bae31a <unknown>
+#1 0x5f60916c46e0 <unknown>
+#2 0x5f60917133e6 <unknown>
+#3 0x5f6091713681 <unknown>
+#4 0x5f6091758b04 <unknown>
+#5 0x5f609173748d <unknown>
+#6 0x5f6091755ed7 <unknown>
+#7 0x5f6091737203 <unknown>
+#8 0x5f6091705cc0 <unknown>
+#9 0x5f6091706c9e <unknown>
+#10 0x5f6091b7bd0b <unknown>
+#11 0x5f6091b7fc92 <unknown>
+#12 0x5f6091b68b3c <unknown>
+#13 0x5f6091b80807 <unknown>
+#14 0x5f6091b4e0df <unknown>
+#15 0x5f6091b9d578 <unknown>
+#16 0x5f6091b9d740 <unknown>
+#17 0x5f6091bad196 <unknown>
+#18 0x741b3d49ca94 <unknown>
+#19 0x741b3d529c3c <unknown>
+
+2024-12-03 01:34:09,167 - INFO - Scraping exitoso para término: PLÁTANO DE SEDA
+2024-12-03 01:34:09,170 - INFO - ====== WebDriver manager ======
+2024-12-03 01:34:09,428 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:09,520 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:09,562 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:34:19,404 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x62e05293031a <unknown>
+#1 0x62e0524466e0 <unknown>
+#2 0x62e0524953e6 <unknown>
+#3 0x62e052495681 <unknown>
+#4 0x62e0524dab04 <unknown>
+#5 0x62e0524b948d <unknown>
+#6 0x62e0524d7ed7 <unknown>
+#7 0x62e0524b9203 <unknown>
+#8 0x62e052487cc0 <unknown>
+#9 0x62e052488c9e <unknown>
+#10 0x62e0528fdd0b <unknown>
+#11 0x62e052901c92 <unknown>
+#12 0x62e0528eab3c <unknown>
+#13 0x62e052902807 <unknown>
+#14 0x62e0528d00df <unknown>
+#15 0x62e05291f578 <unknown>
+#16 0x62e05291f740 <unknown>
+#17 0x62e05292f196 <unknown>
+#18 0x75eb26e9ca94 <unknown>
+#19 0x75eb26f29c3c <unknown>
+
+2024-12-03 01:34:20,561 - INFO - Scraping exitoso para término: PLÁTANO VERDE - INGUIRI O BELLACO
+2024-12-03 01:34:20,561 - INFO - ====== WebDriver manager ======
+2024-12-03 01:34:20,826 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:20,869 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:20,913 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:34:31,979 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:34:32,289 - INFO - Scraping exitoso para término: PLÁTANO BISCOCHO
+2024-12-03 01:34:32,291 - INFO - ====== WebDriver manager ======
+2024-12-03 01:34:32,576 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:32,622 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:32,663 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:34:55,863 - INFO - Scraping exitoso para término: PLÁTANO DE LA ISLA
+2024-12-03 01:34:55,865 - INFO - ====== WebDriver manager ======
+2024-12-03 01:34:56,120 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:56,215 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:56,306 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:34:56,877 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5b6e8262b31a <unknown>
+#1 0x5b6e821416e0 <unknown>
+#2 0x5b6e821903e6 <unknown>
+#3 0x5b6e82190681 <unknown>
+#4 0x5b6e821d5b04 <unknown>
+#5 0x5b6e821b448d <unknown>
+#6 0x5b6e821d2ed7 <unknown>
+#7 0x5b6e821b4203 <unknown>
+#8 0x5b6e82182cc0 <unknown>
+#9 0x5b6e82183c9e <unknown>
+#10 0x5b6e825f8d0b <unknown>
+#11 0x5b6e825fcc92 <unknown>
+#12 0x5b6e825e5b3c <unknown>
+#13 0x5b6e825fd807 <unknown>
+#14 0x5b6e825cb0df <unknown>
+#15 0x5b6e8261a578 <unknown>
+#16 0x5b6e8261a740 <unknown>
+#17 0x5b6e8262a196 <unknown>
+#18 0x73ab5889ca94 <unknown>
+#19 0x73ab58929c3c <unknown>
+
+2024-12-03 01:34:57,021 - INFO - Scraping exitoso para término: UVA BLANCA
+2024-12-03 01:34:57,021 - INFO - ====== WebDriver manager ======
+2024-12-03 01:34:57,585 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:57,638 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:34:57,694 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:35:21,132 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x6372a00b531a <unknown>
+#1 0x63729fbcb6e0 <unknown>
+#2 0x63729fc1a3e6 <unknown>
+#3 0x63729fc1a681 <unknown>
+#4 0x63729fc5fb04 <unknown>
+#5 0x63729fc3e48d <unknown>
+#6 0x63729fc5ced7 <unknown>
+#7 0x63729fc3e203 <unknown>
+#8 0x63729fc0ccc0 <unknown>
+#9 0x63729fc0dc9e <unknown>
+#10 0x6372a0082d0b <unknown>
+#11 0x6372a0086c92 <unknown>
+#12 0x6372a006fb3c <unknown>
+#13 0x6372a0087807 <unknown>
+#14 0x6372a00550df <unknown>
+#15 0x6372a00a4578 <unknown>
+#16 0x6372a00a4740 <unknown>
+#17 0x6372a00b4196 <unknown>
+#18 0x7ccce169ca94 <unknown>
+#19 0x7ccce1729c3c <unknown>
+
+2024-12-03 01:35:21,432 - INFO - Scraping exitoso para término: FRESA
+2024-12-03 01:35:21,433 - INFO - ====== WebDriver manager ======
+2024-12-03 01:35:21,869 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:35:21,943 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:35:21,991 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:36:31,960 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:36:33,414 - INFO - Scraping exitoso para término: ARÁNDANOS
+2024-12-03 01:36:33,414 - INFO - ====== WebDriver manager ======
+2024-12-03 01:36:33,955 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:36:33,999 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:36:34,068 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:36:50,143 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:36:50,627 - INFO - Scraping exitoso para término: UVA NEGRA
+2024-12-03 01:36:50,628 - INFO - ====== WebDriver manager ======
+2024-12-03 01:36:51,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:36:51,083 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:36:51,150 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:37:40,583 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:37:40,917 - INFO - Scraping exitoso para término: GRANADILLA
+2024-12-03 01:37:40,938 - INFO - ====== WebDriver manager ======
+2024-12-03 01:37:41,353 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:37:41,399 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:37:41,484 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:38:13,803 - INFO - Scraping exitoso para término: MELÓN
+2024-12-03 01:38:13,804 - INFO - ====== WebDriver manager ======
+2024-12-03 01:38:14,093 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:38:14,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:38:14,294 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:38:36,519 - INFO - Scraping exitoso para término: MANGO
+2024-12-03 01:38:36,520 - INFO - ====== WebDriver manager ======
+2024-12-03 01:38:36,961 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:38:37,047 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:38:37,106 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:39:06,523 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:39:06,833 - INFO - Scraping exitoso para término: PERA DE AGUA
+2024-12-03 01:39:06,833 - INFO - ====== WebDriver manager ======
+2024-12-03 01:39:07,205 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:07,250 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:07,293 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:39:17,631 - INFO - Scraping exitoso para término: PEPINO
+2024-12-03 01:39:17,631 - INFO - ====== WebDriver manager ======
+2024-12-03 01:39:17,980 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:18,046 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:18,103 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:39:53,644 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x654d0fbb631a <unknown>
+#1 0x654d0f6cc6e0 <unknown>
+#2 0x654d0f71b3e6 <unknown>
+#3 0x654d0f71b681 <unknown>
+#4 0x654d0f760b04 <unknown>
+#5 0x654d0f73f48d <unknown>
+#6 0x654d0f75ded7 <unknown>
+#7 0x654d0f73f203 <unknown>
+#8 0x654d0f70dcc0 <unknown>
+#9 0x654d0f70ec9e <unknown>
+#10 0x654d0fb83d0b <unknown>
+#11 0x654d0fb87c92 <unknown>
+#12 0x654d0fb70b3c <unknown>
+#13 0x654d0fb88807 <unknown>
+#14 0x654d0fb560df <unknown>
+#15 0x654d0fba5578 <unknown>
+#16 0x654d0fba5740 <unknown>
+#17 0x654d0fbb5196 <unknown>
+#18 0x74377b09ca94 <unknown>
+#19 0x74377b129c3c <unknown>
+
+2024-12-03 01:39:53,834 - INFO - Scraping exitoso para término: PASAS
+2024-12-03 01:39:53,835 - INFO - ====== WebDriver manager ======
+2024-12-03 01:39:54,167 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:54,290 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:39:54,361 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:40:09,222 - INFO - Scraping exitoso para término: PIÑA
+2024-12-03 01:40:09,222 - INFO - ====== WebDriver manager ======
+2024-12-03 01:40:09,544 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:40:09,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:40:09,664 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:40:42,500 - INFO - Scraping exitoso para término: SANDÍA
+2024-12-03 01:40:42,501 - INFO - ====== WebDriver manager ======
+2024-12-03 01:40:43,188 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:40:43,265 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:40:43,357 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:41:28,112 - INFO - Scraping exitoso para término: TUNA
+2024-12-03 01:41:28,115 - INFO - ====== WebDriver manager ======
+2024-12-03 01:41:28,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:41:28,650 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:41:28,721 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:42:06,633 - INFO - Scraping exitoso para término: DURAZNO EN CONSERVA
+2024-12-03 01:42:06,635 - INFO - ====== WebDriver manager ======
+2024-12-03 01:42:06,903 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:07,030 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:07,184 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:42:33,932 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:42:35,378 - INFO - Scraping exitoso para término: ESPINACA
+2024-12-03 01:42:35,380 - INFO - ====== WebDriver manager ======
+2024-12-03 01:42:35,684 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:35,779 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:35,885 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:42:43,650 - INFO - Scraping exitoso para término: PECANAS
+2024-12-03 01:42:43,652 - INFO - ====== WebDriver manager ======
+2024-12-03 01:42:43,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:43,941 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:42:44,020 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:43:06,210 - INFO - Scraping exitoso para término: APIO
+2024-12-03 01:43:06,214 - INFO - ====== WebDriver manager ======
+2024-12-03 01:43:06,484 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:43:06,540 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:43:06,576 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:44:39,975 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:44:41,178 - INFO - Scraping exitoso para término: BRÓCOLI
+2024-12-03 01:44:41,179 - INFO - ====== WebDriver manager ======
+2024-12-03 01:44:41,427 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:44:41,487 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:44:41,553 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:44:58,742 - INFO - Scraping exitoso para término: LECHUGA
+2024-12-03 01:44:58,745 - INFO - ====== WebDriver manager ======
+2024-12-03 01:44:59,088 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:44:59,188 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:44:59,321 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:45:13,446 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:45:13,713 - INFO - Scraping exitoso para término: AJÍ AMARILLO (VERDE / ESCABECHE)
+2024-12-03 01:45:13,713 - INFO - ====== WebDriver manager ======
+2024-12-03 01:45:14,028 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:14,065 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:14,143 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:45:38,050 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:45:38,358 - INFO - Scraping exitoso para término: AJÍ PIMIENTO
+2024-12-03 01:45:38,359 - INFO - ====== WebDriver manager ======
+2024-12-03 01:45:38,638 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:38,704 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:38,773 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:45:40,593 - INFO - Scraping exitoso para término: COLIFLOR
+2024-12-03 01:45:40,594 - INFO - ====== WebDriver manager ======
+2024-12-03 01:45:40,977 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:41,019 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:45:41,055 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:46:40,888 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:46:41,101 - INFO - Scraping exitoso para término: TOMATE ITALIANO O MARSANO
+2024-12-03 01:46:41,102 - INFO - ====== WebDriver manager ======
+2024-12-03 01:46:41,460 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:46:41,519 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:46:41,559 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:46:43,344 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5e92bd86f31a <unknown>
+#1 0x5e92bd3856e0 <unknown>
+#2 0x5e92bd3d43e6 <unknown>
+#3 0x5e92bd3d4681 <unknown>
+#4 0x5e92bd419b04 <unknown>
+#5 0x5e92bd3f848d <unknown>
+#6 0x5e92bd416ed7 <unknown>
+#7 0x5e92bd3f8203 <unknown>
+#8 0x5e92bd3c6cc0 <unknown>
+#9 0x5e92bd3c7c9e <unknown>
+#10 0x5e92bd83cd0b <unknown>
+#11 0x5e92bd840c92 <unknown>
+#12 0x5e92bd829b3c <unknown>
+#13 0x5e92bd841807 <unknown>
+#14 0x5e92bd80f0df <unknown>
+#15 0x5e92bd85e578 <unknown>
+#16 0x5e92bd85e740 <unknown>
+#17 0x5e92bd86e196 <unknown>
+#18 0x7afbdbe9ca94 <unknown>
+#19 0x7afbdbf29c3c <unknown>
+
+2024-12-03 01:46:43,677 - INFO - Scraping exitoso para término: ARVEJA VERDE
+2024-12-03 01:46:43,679 - INFO - ====== WebDriver manager ======
+2024-12-03 01:46:44,023 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:46:44,076 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:46:44,130 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:47:16,744 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:47:16,915 - INFO - Scraping exitoso para término: ZAPALLO MACRE
+2024-12-03 01:47:16,916 - INFO - ====== WebDriver manager ======
+2024-12-03 01:47:17,201 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=46847): Read timed out. (read timeout=120)
+2024-12-03 01:47:17,221 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:17,264 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:17,317 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:47:22,987 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x57e8fa81a31a <unknown>
+#1 0x57e8fa3306e0 <unknown>
+#2 0x57e8fa37f3e6 <unknown>
+#3 0x57e8fa37f681 <unknown>
+#4 0x57e8fa3c4b04 <unknown>
+#5 0x57e8fa3a348d <unknown>
+#6 0x57e8fa3c1ed7 <unknown>
+#7 0x57e8fa3a3203 <unknown>
+#8 0x57e8fa371cc0 <unknown>
+#9 0x57e8fa372c9e <unknown>
+#10 0x57e8fa7e7d0b <unknown>
+#11 0x57e8fa7ebc92 <unknown>
+#12 0x57e8fa7d4b3c <unknown>
+#13 0x57e8fa7ec807 <unknown>
+#14 0x57e8fa7ba0df <unknown>
+#15 0x57e8fa809578 <unknown>
+#16 0x57e8fa809740 <unknown>
+#17 0x57e8fa819196 <unknown>
+#18 0x7ce350a9ca94 <unknown>
+#19 0x7ce350b29c3c <unknown>
+
+2024-12-03 01:47:23,102 - INFO - Scraping exitoso para término: HABA VERDE
+2024-12-03 01:47:23,105 - INFO - ====== WebDriver manager ======
+2024-12-03 01:47:23,329 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:23,445 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:23,539 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:47:24,966 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x645276a8131a <unknown>
+#1 0x6452765976e0 <unknown>
+#2 0x6452765e63e6 <unknown>
+#3 0x6452765e6681 <unknown>
+#4 0x64527662bb04 <unknown>
+#5 0x64527660a48d <unknown>
+#6 0x645276628ed7 <unknown>
+#7 0x64527660a203 <unknown>
+#8 0x6452765d8cc0 <unknown>
+#9 0x6452765d9c9e <unknown>
+#10 0x645276a4ed0b <unknown>
+#11 0x645276a52c92 <unknown>
+#12 0x645276a3bb3c <unknown>
+#13 0x645276a53807 <unknown>
+#14 0x645276a210df <unknown>
+#15 0x645276a70578 <unknown>
+#16 0x645276a70740 <unknown>
+#17 0x645276a80196 <unknown>
+#18 0x7ca67949ca94 <unknown>
+#19 0x7ca679529c3c <unknown>
+
+2024-12-03 01:47:25,228 - INFO - Scraping exitoso para término: VAINITA VERDE (AMERICANA)
+2024-12-03 01:47:25,229 - INFO - ====== WebDriver manager ======
+2024-12-03 01:47:25,661 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:25,715 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:25,764 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:47:35,470 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:47:35,780 - INFO - Scraping exitoso para término: PEPINILLO
+2024-12-03 01:47:35,784 - INFO - ====== WebDriver manager ======
+2024-12-03 01:47:36,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:36,211 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:47:36,271 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:48:16,544 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x568c17e0031a <unknown>
+#1 0x568c179166e0 <unknown>
+#2 0x568c179653e6 <unknown>
+#3 0x568c17965681 <unknown>
+#4 0x568c179aab04 <unknown>
+#5 0x568c1798948d <unknown>
+#6 0x568c179a7ed7 <unknown>
+#7 0x568c17989203 <unknown>
+#8 0x568c17957cc0 <unknown>
+#9 0x568c17958c9e <unknown>
+#10 0x568c17dcdd0b <unknown>
+#11 0x568c17dd1c92 <unknown>
+#12 0x568c17dbab3c <unknown>
+#13 0x568c17dd2807 <unknown>
+#14 0x568c17da00df <unknown>
+#15 0x568c17def578 <unknown>
+#16 0x568c17def740 <unknown>
+#17 0x568c17dff196 <unknown>
+#18 0x7fb2bbc9ca94 <unknown>
+#19 0x7fb2bbd29c3c <unknown>
+
+2024-12-03 01:48:16,701 - INFO - Scraping exitoso para término: CEBOLLA DE CABEZA (ROJA)
+2024-12-03 01:48:16,701 - INFO - ====== WebDriver manager ======
+2024-12-03 01:48:16,990 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:48:17,052 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:48:17,103 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:49:12,283 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:49:12,473 - INFO - Scraping exitoso para término: AJO ENTERO
+2024-12-03 01:49:12,474 - INFO - ====== WebDriver manager ======
+2024-12-03 01:49:12,689 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:49:12,731 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:49:12,783 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:49:14,681 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:49:14,944 - INFO - Scraping exitoso para término: CEBOLLA CHINA
+2024-12-03 01:49:14,949 - INFO - ====== WebDriver manager ======
+2024-12-03 01:49:15,215 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:49:15,300 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:49:15,400 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:49:17,313 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=46847): Read timed out. (read timeout=120)")': /session/a6db60bdd9e907a6e32d8d93707e2d60
+2024-12-03 01:49:25,502 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=36111): Read timed out. (read timeout=120)
+2024-12-03 01:50:17,533 - INFO - Scraping exitoso para término: CHOCLO CRIOLLO / SERRANO
+2024-12-03 01:50:17,533 - INFO - ====== WebDriver manager ======
+2024-12-03 01:50:18,043 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:50:18,113 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:50:18,194 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:51:25,607 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=36111): Read timed out. (read timeout=120)")': /session/6718c1f492db650d4c2dbdd57f84af28
+2024-12-03 01:51:31,692 - INFO - Scraping exitoso para término: PORO
+2024-12-03 01:51:31,692 - INFO - ====== WebDriver manager ======
+2024-12-03 01:51:31,965 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:51:32,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:51:32,064 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:51:55,001 - INFO - Scraping exitoso para término: ZANAHORIA
+2024-12-03 01:51:55,002 - INFO - ====== WebDriver manager ======
+2024-12-03 01:51:55,342 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:51:55,463 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:51:55,512 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:52:17,258 - INFO - Scraping exitoso para término: VERDURA PICADA
+2024-12-03 01:52:17,263 - INFO - ====== WebDriver manager ======
+2024-12-03 01:52:17,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:52:17,561 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:52:17,605 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:52:25,723 - INFO - Scraping exitoso para término: BETARRAGA
+2024-12-03 01:52:25,729 - INFO - ====== WebDriver manager ======
+2024-12-03 01:52:26,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:52:26,252 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:52:26,334 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:53:05,006 - INFO - Scraping exitoso para término: FRÉJOL CANARIO
+2024-12-03 01:53:05,009 - INFO - ====== WebDriver manager ======
+2024-12-03 01:53:05,508 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:53:05,605 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:53:05,683 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:53:49,936 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 01:53:51,124 - INFO - Scraping exitoso para término: FRÉJOL PANAMITO
+2024-12-03 01:53:51,125 - INFO - ====== WebDriver manager ======
+2024-12-03 01:53:51,382 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:53:51,423 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:53:51,477 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:54:09,219 - INFO - Scraping exitoso para término: ARVEJA SECA PARTIDA
+2024-12-03 01:54:09,220 - INFO - ====== WebDriver manager ======
+2024-12-03 01:54:09,492 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:09,628 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:09,741 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:54:28,387 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=38891): Read timed out. (read timeout=120)
+2024-12-03 01:54:32,948 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x6187f971831a <unknown>
+#1 0x6187f922e6e0 <unknown>
+#2 0x6187f927d3e6 <unknown>
+#3 0x6187f927d681 <unknown>
+#4 0x6187f92c2b04 <unknown>
+#5 0x6187f92a148d <unknown>
+#6 0x6187f92bfed7 <unknown>
+#7 0x6187f92a1203 <unknown>
+#8 0x6187f926fcc0 <unknown>
+#9 0x6187f9270c9e <unknown>
+#10 0x6187f96e5d0b <unknown>
+#11 0x6187f96e9c92 <unknown>
+#12 0x6187f96d2b3c <unknown>
+#13 0x6187f96ea807 <unknown>
+#14 0x6187f96b80df <unknown>
+#15 0x6187f9707578 <unknown>
+#16 0x6187f9707740 <unknown>
+#17 0x6187f9717196 <unknown>
+#18 0x75b8a849ca94 <unknown>
+#19 0x75b8a8529c3c <unknown>
+
+2024-12-03 01:54:33,056 - INFO - Scraping exitoso para término: ACEITUNA DE BOTIJA
+2024-12-03 01:54:33,057 - INFO - ====== WebDriver manager ======
+2024-12-03 01:54:33,541 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:33,633 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:33,786 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:54:52,158 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x62a028a2c31a <unknown>
+#1 0x62a0285426e0 <unknown>
+#2 0x62a0285913e6 <unknown>
+#3 0x62a028591681 <unknown>
+#4 0x62a0285d6b04 <unknown>
+#5 0x62a0285b548d <unknown>
+#6 0x62a0285d3ed7 <unknown>
+#7 0x62a0285b5203 <unknown>
+#8 0x62a028583cc0 <unknown>
+#9 0x62a028584c9e <unknown>
+#10 0x62a0289f9d0b <unknown>
+#11 0x62a0289fdc92 <unknown>
+#12 0x62a0289e6b3c <unknown>
+#13 0x62a0289fe807 <unknown>
+#14 0x62a0289cc0df <unknown>
+#15 0x62a028a1b578 <unknown>
+#16 0x62a028a1b740 <unknown>
+#17 0x62a028a2b196 <unknown>
+#18 0x712e04e9ca94 <unknown>
+#19 0x712e04f29c3c <unknown>
+
+2024-12-03 01:54:53,372 - INFO - Scraping exitoso para término: CAMOTE AMARILLO
+2024-12-03 01:54:53,372 - INFO - ====== WebDriver manager ======
+2024-12-03 01:54:53,632 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:53,682 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:54:53,727 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:55:08,617 - INFO - Scraping exitoso para término: LENTEJA
+2024-12-03 01:55:08,619 - INFO - ====== WebDriver manager ======
+2024-12-03 01:55:08,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:08,892 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:08,930 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:55:13,458 - INFO - Scraping exitoso para término: GARBANZO
+2024-12-03 01:55:13,459 - INFO - ====== WebDriver manager ======
+2024-12-03 01:55:13,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:13,844 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:13,888 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:55:57,058 - INFO - Scraping exitoso para término: PALLAR
+2024-12-03 01:55:57,061 - INFO - ====== WebDriver manager ======
+2024-12-03 01:55:57,440 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:57,508 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:55:57,573 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:56:36,115 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=46695): Read timed out. (read timeout=120)
+2024-12-03 01:56:56,376 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=59773): Read timed out. (read timeout=120)
+2024-12-03 01:58:00,318 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=42561): Read timed out. (read timeout=120)
+2024-12-03 01:58:36,227 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=46695): Read timed out. (read timeout=120)")': /session/9163854112b99d230fa2949522e18152
+2024-12-03 01:58:56,484 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=59773): Read timed out. (read timeout=120)")': /session/c4b3f57072e3bc2cfb428e96d6c8af06
+2024-12-03 01:59:21,365 - INFO - Scraping exitoso para término: PAPA BLANCA
+2024-12-03 01:59:21,365 - INFO - ====== WebDriver manager ======
+2024-12-03 01:59:22,084 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:22,138 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:22,187 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:59:24,343 - INFO - Scraping exitoso para término: PAPA HUAYRO
+2024-12-03 01:59:24,345 - INFO - ====== WebDriver manager ======
+2024-12-03 01:59:25,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:25,253 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:25,343 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 01:59:37,946 - INFO - Scraping exitoso para término: PAPA AMARILLA
+2024-12-03 01:59:37,952 - INFO - ====== WebDriver manager ======
+2024-12-03 01:59:38,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:38,953 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 01:59:39,014 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:00:00,466 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=42561): Read timed out. (read timeout=120)")': /session/0d02e95f96855746f77849f56bdff8f3
+2024-12-03 02:00:24,835 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x619cf322131a <unknown>
+#1 0x619cf2d376e0 <unknown>
+#2 0x619cf2d863e6 <unknown>
+#3 0x619cf2d86681 <unknown>
+#4 0x619cf2dcbb04 <unknown>
+#5 0x619cf2daa48d <unknown>
+#6 0x619cf2dc8ed7 <unknown>
+#7 0x619cf2daa203 <unknown>
+#8 0x619cf2d78cc0 <unknown>
+#9 0x619cf2d79c9e <unknown>
+#10 0x619cf31eed0b <unknown>
+#11 0x619cf31f2c92 <unknown>
+#12 0x619cf31dbb3c <unknown>
+#13 0x619cf31f3807 <unknown>
+#14 0x619cf31c10df <unknown>
+#15 0x619cf3210578 <unknown>
+#16 0x619cf3210740 <unknown>
+#17 0x619cf3220196 <unknown>
+#18 0x76c8d1c9ca94 <unknown>
+#19 0x76c8d1d29c3c <unknown>
+
+2024-12-03 02:00:25,080 - INFO - Scraping exitoso para término: AZÚCAR BLANCA
+2024-12-03 02:00:25,080 - INFO - ====== WebDriver manager ======
+2024-12-03 02:00:25,475 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:00:25,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:00:25,722 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:00:39,654 - INFO - Scraping exitoso para término: YUCA
+2024-12-03 02:00:39,655 - INFO - ====== WebDriver manager ======
+2024-12-03 02:00:40,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:00:40,121 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:00:40,210 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:01:10,165 - INFO - Scraping exitoso para término: PAPA COLOR
+2024-12-03 02:01:10,166 - INFO - ====== WebDriver manager ======
+2024-12-03 02:01:11,423 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:01:11,512 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:01:11,627 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:01:49,601 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:01:50,278 - INFO - Scraping exitoso para término: OLLUCO
+2024-12-03 02:01:50,278 - INFO - ====== WebDriver manager ======
+2024-12-03 02:01:50,942 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:01:51,040 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:01:51,150 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:02:51,909 - INFO - Scraping exitoso para término: PAPA SECA
+2024-12-03 02:02:51,910 - INFO - ====== WebDriver manager ======
+2024-12-03 02:02:52,556 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:02:52,650 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:02:52,731 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:03:34,904 - INFO - Scraping exitoso para término: EDULCORANTE
+2024-12-03 02:03:34,906 - INFO - ====== WebDriver manager ======
+2024-12-03 02:03:35,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:03:35,572 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:03:35,671 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:03:36,162 - INFO - Scraping exitoso para término: AZÚCAR RUBIA
+2024-12-03 02:03:36,163 - INFO - ====== WebDriver manager ======
+2024-12-03 02:03:36,558 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:03:36,633 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:03:36,708 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:03:55,578 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=49131): Read timed out. (read timeout=120)
+2024-12-03 02:04:14,178 - INFO - Scraping exitoso para término: MERMELADA
+2024-12-03 02:04:14,180 - INFO - ====== WebDriver manager ======
+2024-12-03 02:04:14,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:14,848 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:14,901 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:04:22,495 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x634d2ca4b31a <unknown>
+#1 0x634d2c5616e0 <unknown>
+#2 0x634d2c5b03e6 <unknown>
+#3 0x634d2c5b0681 <unknown>
+#4 0x634d2c5f5b04 <unknown>
+#5 0x634d2c5d448d <unknown>
+#6 0x634d2c5f2ed7 <unknown>
+#7 0x634d2c5d4203 <unknown>
+#8 0x634d2c5a2cc0 <unknown>
+#9 0x634d2c5a3c9e <unknown>
+#10 0x634d2ca18d0b <unknown>
+#11 0x634d2ca1cc92 <unknown>
+#12 0x634d2ca05b3c <unknown>
+#13 0x634d2ca1d807 <unknown>
+#14 0x634d2c9eb0df <unknown>
+#15 0x634d2ca3a578 <unknown>
+#16 0x634d2ca3a740 <unknown>
+#17 0x634d2ca4a196 <unknown>
+#18 0x7d51f609ca94 <unknown>
+#19 0x7d51f6129c3c <unknown>
+
+2024-12-03 02:04:22,773 - INFO - Scraping exitoso para término: CHOCOLATE EN TABLETA
+2024-12-03 02:04:22,775 - INFO - ====== WebDriver manager ======
+2024-12-03 02:04:23,104 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:23,201 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:23,336 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:04:30,392 - INFO - Scraping exitoso para término: MIEL DE ABEJA
+2024-12-03 02:04:30,393 - INFO - ====== WebDriver manager ======
+2024-12-03 02:04:30,837 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:30,899 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:04:30,936 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:04:57,994 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=46431): Read timed out. (read timeout=120)
+2024-12-03 02:05:22,770 - INFO - Scraping exitoso para término: CHOCOLATE EN PASTA (TAZA)
+2024-12-03 02:05:22,771 - INFO - ====== WebDriver manager ======
+2024-12-03 02:05:23,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:05:23,062 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:05:23,100 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:05:25,065 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:05:25,419 - INFO - Scraping exitoso para término: DIVERSAS PRESENTACIONES DE CHOCOLATES
+2024-12-03 02:05:25,419 - INFO - ====== WebDriver manager ======
+2024-12-03 02:05:25,757 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:05:25,814 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:05:25,859 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:06:17,467 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=49043): Read timed out. (read timeout=120)
+2024-12-03 02:07:17,366 - INFO - Scraping exitoso para término: GOMA DE MASCAR
+2024-12-03 02:07:17,366 - INFO - ====== WebDriver manager ======
+2024-12-03 02:07:17,662 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:07:17,737 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:07:17,824 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:07:25,417 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=46139): Read timed out. (read timeout=120)
+2024-12-03 02:07:36,363 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:07:37,638 - INFO - Scraping exitoso para término: HELADO DE HIELO PERSONAL
+2024-12-03 02:07:37,642 - INFO - ====== WebDriver manager ======
+2024-12-03 02:07:37,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:07:37,936 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:07:37,981 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:08:17,510 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=49043): Read timed out. (read timeout=120)")': /session/325772ddbbc3f86a3690a33bd711f348
+2024-12-03 02:08:21,943 - INFO - Scraping exitoso para término: HELADO FAMILIAR
+2024-12-03 02:08:21,945 - INFO - ====== WebDriver manager ======
+2024-12-03 02:08:22,358 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:08:22,403 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:08:22,445 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:09:02,240 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5af7abc6d31a <unknown>
+#1 0x5af7ab7836e0 <unknown>
+#2 0x5af7ab7d23e6 <unknown>
+#3 0x5af7ab7d2681 <unknown>
+#4 0x5af7ab817b04 <unknown>
+#5 0x5af7ab7f648d <unknown>
+#6 0x5af7ab814ed7 <unknown>
+#7 0x5af7ab7f6203 <unknown>
+#8 0x5af7ab7c4cc0 <unknown>
+#9 0x5af7ab7c5c9e <unknown>
+#10 0x5af7abc3ad0b <unknown>
+#11 0x5af7abc3ec92 <unknown>
+#12 0x5af7abc27b3c <unknown>
+#13 0x5af7abc3f807 <unknown>
+#14 0x5af7abc0d0df <unknown>
+#15 0x5af7abc5c578 <unknown>
+#16 0x5af7abc5c740 <unknown>
+#17 0x5af7abc6c196 <unknown>
+#18 0x7fdbf8a9ca94 <unknown>
+#19 0x7fdbf8b29c3c <unknown>
+
+2024-12-03 02:09:02,392 - INFO - Scraping exitoso para término: SAL
+2024-12-03 02:09:02,393 - INFO - ====== WebDriver manager ======
+2024-12-03 02:09:02,634 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:09:02,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:09:02,722 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:09:18,665 - INFO - Scraping exitoso para término: CARAMELOS
+2024-12-03 02:09:18,671 - INFO - ====== WebDriver manager ======
+2024-12-03 02:09:19,086 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:09:19,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:09:19,188 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:09:19,895 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=41485): Read timed out. (read timeout=120)
+2024-12-03 02:09:25,520 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=46139): Read timed out. (read timeout=120)")': /session/5b7f2bcef9de17abd18630ef2cab16f7
+2024-12-03 02:10:00,111 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x612e1f87331a <unknown>
+#1 0x612e1f3896e0 <unknown>
+#2 0x612e1f3d83e6 <unknown>
+#3 0x612e1f3d8681 <unknown>
+#4 0x612e1f41db04 <unknown>
+#5 0x612e1f3fc48d <unknown>
+#6 0x612e1f41aed7 <unknown>
+#7 0x612e1f3fc203 <unknown>
+#8 0x612e1f3cacc0 <unknown>
+#9 0x612e1f3cbc9e <unknown>
+#10 0x612e1f840d0b <unknown>
+#11 0x612e1f844c92 <unknown>
+#12 0x612e1f82db3c <unknown>
+#13 0x612e1f845807 <unknown>
+#14 0x612e1f8130df <unknown>
+#15 0x612e1f862578 <unknown>
+#16 0x612e1f862740 <unknown>
+#17 0x612e1f872196 <unknown>
+#18 0x7af3c4e9ca94 <unknown>
+#19 0x7af3c4f29c3c <unknown>
+
+2024-12-03 02:10:01,304 - INFO - Scraping exitoso para término: CANELA ENTERA
+2024-12-03 02:10:01,306 - INFO - ====== WebDriver manager ======
+2024-12-03 02:10:01,559 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:01,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:01,762 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:10:05,789 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:10:06,058 - INFO - Scraping exitoso para término: CULANTRO
+2024-12-03 02:10:06,064 - INFO - ====== WebDriver manager ======
+2024-12-03 02:10:06,379 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:06,434 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:06,500 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:10:21,319 - INFO - Scraping exitoso para término: ALBAHACA
+2024-12-03 02:10:21,322 - INFO - ====== WebDriver manager ======
+2024-12-03 02:10:21,773 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:21,832 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:21,878 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:10:25,606 - INFO - Scraping exitoso para término: HELADO DE CREMA PERSONAL
+2024-12-03 02:10:25,607 - INFO - ====== WebDriver manager ======
+2024-12-03 02:10:25,885 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:25,942 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:25,988 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:10:49,603 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x638489d0231a <unknown>
+#1 0x6384898186e0 <unknown>
+#2 0x6384898673e6 <unknown>
+#3 0x638489867681 <unknown>
+#4 0x6384898acb04 <unknown>
+#5 0x63848988b48d <unknown>
+#6 0x6384898a9ed7 <unknown>
+#7 0x63848988b203 <unknown>
+#8 0x638489859cc0 <unknown>
+#9 0x63848985ac9e <unknown>
+#10 0x638489ccfd0b <unknown>
+#11 0x638489cd3c92 <unknown>
+#12 0x638489cbcb3c <unknown>
+#13 0x638489cd4807 <unknown>
+#14 0x638489ca20df <unknown>
+#15 0x638489cf1578 <unknown>
+#16 0x638489cf1740 <unknown>
+#17 0x638489d01196 <unknown>
+#18 0x7b3c8fc9ca94 <unknown>
+#19 0x7b3c8fd29c3c <unknown>
+
+2024-12-03 02:10:49,845 - INFO - Scraping exitoso para término: KION (ESPECIAS)
+2024-12-03 02:10:49,846 - INFO - ====== WebDriver manager ======
+2024-12-03 02:10:50,165 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:50,249 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:10:50,366 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:11:04,837 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5885e905f31a <unknown>
+#1 0x5885e8b756e0 <unknown>
+#2 0x5885e8bc43e6 <unknown>
+#3 0x5885e8bc4681 <unknown>
+#4 0x5885e8c09b04 <unknown>
+#5 0x5885e8be848d <unknown>
+#6 0x5885e8c06ed7 <unknown>
+#7 0x5885e8be8203 <unknown>
+#8 0x5885e8bb6cc0 <unknown>
+#9 0x5885e8bb7c9e <unknown>
+#10 0x5885e902cd0b <unknown>
+#11 0x5885e9030c92 <unknown>
+#12 0x5885e9019b3c <unknown>
+#13 0x5885e9031807 <unknown>
+#14 0x5885e8fff0df <unknown>
+#15 0x5885e904e578 <unknown>
+#16 0x5885e904e740 <unknown>
+#17 0x5885e905e196 <unknown>
+#18 0x7aca6789ca94 <unknown>
+#19 0x7aca67929c3c <unknown>
+
+2024-12-03 02:11:05,042 - INFO - Scraping exitoso para término: ALIMENTOS EN CUBITOS
+2024-12-03 02:11:05,045 - INFO - ====== WebDriver manager ======
+2024-12-03 02:11:05,541 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:05,628 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:05,735 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:11:09,951 - INFO - Scraping exitoso para término: AJO MOLIDO
+2024-12-03 02:11:09,951 - INFO - ====== WebDriver manager ======
+2024-12-03 02:11:10,488 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:10,560 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:10,619 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:11:30,509 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5706b0a4b31a <unknown>
+#1 0x5706b05616e0 <unknown>
+#2 0x5706b05b03e6 <unknown>
+#3 0x5706b05b0681 <unknown>
+#4 0x5706b05f5b04 <unknown>
+#5 0x5706b05d448d <unknown>
+#6 0x5706b05f2ed7 <unknown>
+#7 0x5706b05d4203 <unknown>
+#8 0x5706b05a2cc0 <unknown>
+#9 0x5706b05a3c9e <unknown>
+#10 0x5706b0a18d0b <unknown>
+#11 0x5706b0a1cc92 <unknown>
+#12 0x5706b0a05b3c <unknown>
+#13 0x5706b0a1d807 <unknown>
+#14 0x5706b09eb0df <unknown>
+#15 0x5706b0a3a578 <unknown>
+#16 0x5706b0a3a740 <unknown>
+#17 0x5706b0a4a196 <unknown>
+#18 0x79773809ca94 <unknown>
+#19 0x797738129c3c <unknown>
+
+2024-12-03 02:11:30,711 - INFO - Scraping exitoso para término: SAZONADORES CONCENTRADOS
+2024-12-03 02:11:30,714 - INFO - ====== WebDriver manager ======
+2024-12-03 02:11:31,077 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:31,163 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:31,222 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:11:52,364 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5e766b98131a <unknown>
+#1 0x5e766b4976e0 <unknown>
+#2 0x5e766b4e63e6 <unknown>
+#3 0x5e766b4e6681 <unknown>
+#4 0x5e766b52bb04 <unknown>
+#5 0x5e766b50a48d <unknown>
+#6 0x5e766b528ed7 <unknown>
+#7 0x5e766b50a203 <unknown>
+#8 0x5e766b4d8cc0 <unknown>
+#9 0x5e766b4d9c9e <unknown>
+#10 0x5e766b94ed0b <unknown>
+#11 0x5e766b952c92 <unknown>
+#12 0x5e766b93bb3c <unknown>
+#13 0x5e766b953807 <unknown>
+#14 0x5e766b9210df <unknown>
+#15 0x5e766b970578 <unknown>
+#16 0x5e766b970740 <unknown>
+#17 0x5e766b980196 <unknown>
+#18 0x7632ef29ca94 <unknown>
+#19 0x7632ef329c3c <unknown>
+
+2024-12-03 02:11:52,732 - INFO - Scraping exitoso para término: AJÍ AMARILLO MOLIDO
+2024-12-03 02:11:52,749 - INFO - ====== WebDriver manager ======
+2024-12-03 02:11:53,297 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:53,351 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:11:53,452 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:12:34,646 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:12:34,998 - INFO - Scraping exitoso para término: GLUTAMATO MONOSÓDICO (SAZONADOR)
+2024-12-03 02:12:34,998 - INFO - ====== WebDriver manager ======
+2024-12-03 02:12:35,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:12:35,560 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:12:35,671 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:12:57,134 - ERROR - Error en scraping para término HONGO / LAUREL (ESPECIES): Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/tottus/tottus_HONGO '
+2024-12-03 02:12:57,134 - INFO - ====== WebDriver manager ======
+2024-12-03 02:12:57,804 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:12:57,958 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:12:58,002 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:13:15,795 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=50337): Read timed out. (read timeout=120)
+2024-12-03 02:13:33,702 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=33995): Read timed out. (read timeout=120)
+2024-12-03 02:13:38,394 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x624aa6fd431a <unknown>
+#1 0x624aa6aea6e0 <unknown>
+#2 0x624aa6b393e6 <unknown>
+#3 0x624aa6b39681 <unknown>
+#4 0x624aa6b7eb04 <unknown>
+#5 0x624aa6b5d48d <unknown>
+#6 0x624aa6b7bed7 <unknown>
+#7 0x624aa6b5d203 <unknown>
+#8 0x624aa6b2bcc0 <unknown>
+#9 0x624aa6b2cc9e <unknown>
+#10 0x624aa6fa1d0b <unknown>
+#11 0x624aa6fa5c92 <unknown>
+#12 0x624aa6f8eb3c <unknown>
+#13 0x624aa6fa6807 <unknown>
+#14 0x624aa6f740df <unknown>
+#15 0x624aa6fc3578 <unknown>
+#16 0x624aa6fc3740 <unknown>
+#17 0x624aa6fd3196 <unknown>
+#18 0x7e702a29ca94 <unknown>
+#19 0x7e702a329c3c <unknown>
+
+2024-12-03 02:13:38,587 - INFO - Scraping exitoso para término: PASTA Y SALSA DE TOMATE
+2024-12-03 02:13:38,590 - INFO - ====== WebDriver manager ======
+2024-12-03 02:13:38,939 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:13:38,987 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:13:39,042 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:14:38,122 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=47099): Read timed out. (read timeout=120)
+2024-12-03 02:15:15,914 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=50337): Read timed out. (read timeout=120)")': /session/35fb88dca69c2b6c84bb44b916165efa
+2024-12-03 02:15:33,805 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=33995): Read timed out. (read timeout=120)")': /session/aeb8e4531c483041f3d09eefff69b128
+2024-12-03 02:16:16,027 - INFO - Scraping exitoso para término: AJÍ PANCA MOLIDO (ESPECIAL)
+2024-12-03 02:16:16,034 - INFO - ====== WebDriver manager ======
+2024-12-03 02:16:16,306 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:16,368 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:16,434 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:16:32,166 - INFO - Scraping exitoso para término: SILLAO
+2024-12-03 02:16:32,173 - INFO - ====== WebDriver manager ======
+2024-12-03 02:16:32,853 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:32,919 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:32,974 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:16:35,392 - INFO - Scraping exitoso para término: AJÍ ROCOTO MOLIDO
+2024-12-03 02:16:35,393 - INFO - ====== WebDriver manager ======
+2024-12-03 02:16:35,842 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:35,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:16:35,995 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:16:38,261 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=47099): Read timed out. (read timeout=120)")': /session/46cfb900e44aa6ccd94d0e2e2dbc9307
+2024-12-03 02:17:10,107 - INFO - Scraping exitoso para término: MAYONESA
+2024-12-03 02:17:10,109 - INFO - ====== WebDriver manager ======
+2024-12-03 02:17:10,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:17:11,002 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:17:11,085 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:17:14,118 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x63ab6625031a <unknown>
+#1 0x63ab65d666e0 <unknown>
+#2 0x63ab65db53e6 <unknown>
+#3 0x63ab65db5681 <unknown>
+#4 0x63ab65dfab04 <unknown>
+#5 0x63ab65dd948d <unknown>
+#6 0x63ab65df7ed7 <unknown>
+#7 0x63ab65dd9203 <unknown>
+#8 0x63ab65da7cc0 <unknown>
+#9 0x63ab65da8c9e <unknown>
+#10 0x63ab6621dd0b <unknown>
+#11 0x63ab66221c92 <unknown>
+#12 0x63ab6620ab3c <unknown>
+#13 0x63ab66222807 <unknown>
+#14 0x63ab661f00df <unknown>
+#15 0x63ab6623f578 <unknown>
+#16 0x63ab6623f740 <unknown>
+#17 0x63ab6624f196 <unknown>
+#18 0x7be71a89ca94 <unknown>
+#19 0x7be71a929c3c <unknown>
+
+2024-12-03 02:17:14,543 - INFO - Scraping exitoso para término: SOPAS (CONCENTRADAS / INSTANTÁNEAS)
+2024-12-03 02:17:14,543 - INFO - ====== WebDriver manager ======
+2024-12-03 02:17:15,206 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:17:15,301 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:17:15,468 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:18:08,776 - INFO - Scraping exitoso para término: ADEREZOS HIDRATADOS
+2024-12-03 02:18:08,784 - INFO - ====== WebDriver manager ======
+2024-12-03 02:18:09,644 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:18:09,901 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:18:10,031 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:19:15,618 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=33671): Read timed out. (read timeout=120)
+2024-12-03 02:19:19,286 - INFO - Scraping exitoso para término: GELATINA (PARA PREPARAR)
+2024-12-03 02:19:19,288 - INFO - ====== WebDriver manager ======
+2024-12-03 02:19:19,732 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:19:19,774 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:19:19,844 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:19:40,945 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:19:42,167 - INFO - Scraping exitoso para término: BOCADITOS DE MAÍZ Y QUESO
+2024-12-03 02:19:42,167 - INFO - ====== WebDriver manager ======
+2024-12-03 02:19:42,462 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:19:42,503 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:19:42,560 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:20:34,129 - INFO - Scraping exitoso para término: MENESTRAS SANCOCHADAS
+2024-12-03 02:20:34,130 - INFO - ====== WebDriver manager ======
+2024-12-03 02:20:34,496 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:20:34,568 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:20:34,725 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:21:09,866 - INFO - Scraping exitoso para término: CHIFLE (BOCADITOS)
+2024-12-03 02:21:09,866 - INFO - ====== WebDriver manager ======
+2024-12-03 02:21:10,198 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:21:10,266 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:21:10,326 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:21:15,725 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=33671): Read timed out. (read timeout=120)")': /session/0c9e35ec96291095f51ac60f76ceba80
+2024-12-03 02:21:45,181 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=59185): Read timed out. (read timeout=120)
+2024-12-03 02:22:08,244 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:22:08,444 - INFO - Scraping exitoso para término: CAFÉ TOSTADO MOLIDO
+2024-12-03 02:22:08,445 - INFO - ====== WebDriver manager ======
+2024-12-03 02:22:08,789 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:22:08,833 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:22:08,884 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:22:16,031 - INFO - Scraping exitoso para término: VEGETALES SANCOCHADOS
+2024-12-03 02:22:16,042 - INFO - ====== WebDriver manager ======
+2024-12-03 02:22:16,412 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:22:16,483 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:22:16,542 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:23:13,994 - INFO - Scraping exitoso para término: PAPA FRITA (BOCADITOS)
+2024-12-03 02:23:13,995 - INFO - ====== WebDriver manager ======
+2024-12-03 02:23:14,314 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:23:14,358 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:23:14,397 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:23:45,285 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=59185): Read timed out. (read timeout=120)")': /session/3fa885a7031a4bd273e468ab9b0b3e2c
+2024-12-03 02:23:54,930 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5694f3e1f31a <unknown>
+#1 0x5694f39356e0 <unknown>
+#2 0x5694f39843e6 <unknown>
+#3 0x5694f3984681 <unknown>
+#4 0x5694f39c9b04 <unknown>
+#5 0x5694f39a848d <unknown>
+#6 0x5694f39c6ed7 <unknown>
+#7 0x5694f39a8203 <unknown>
+#8 0x5694f3976cc0 <unknown>
+#9 0x5694f3977c9e <unknown>
+#10 0x5694f3decd0b <unknown>
+#11 0x5694f3df0c92 <unknown>
+#12 0x5694f3dd9b3c <unknown>
+#13 0x5694f3df1807 <unknown>
+#14 0x5694f3dbf0df <unknown>
+#15 0x5694f3e0e578 <unknown>
+#16 0x5694f3e0e740 <unknown>
+#17 0x5694f3e1e196 <unknown>
+#18 0x7a17dec9ca94 <unknown>
+#19 0x7a17ded29c3c <unknown>
+
+2024-12-03 02:23:55,096 - INFO - Scraping exitoso para término: HIERBAS PARA INFUSIONES
+2024-12-03 02:23:55,096 - INFO - ====== WebDriver manager ======
+2024-12-03 02:23:55,372 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:23:55,429 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:23:55,471 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:24:10,931 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=55939): Read timed out. (read timeout=120)
+2024-12-03 02:24:18,892 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=42085): Read timed out. (read timeout=120)
+2024-12-03 02:24:22,395 - INFO - Scraping exitoso para término: CAFÉ INSTANTÁNEO
+2024-12-03 02:24:22,395 - INFO - ====== WebDriver manager ======
+2024-12-03 02:24:22,647 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:24:22,686 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:24:22,741 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:24:45,371 - INFO - Scraping exitoso para término: POP CORN (BOCADITOS)
+2024-12-03 02:24:45,374 - INFO - ====== WebDriver manager ======
+2024-12-03 02:24:45,740 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:24:45,791 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:24:45,862 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:25:31,633 - INFO - Scraping exitoso para término: CEBADA TOSTADA SOLUBLE
+2024-12-03 02:25:31,634 - INFO - ====== WebDriver manager ======
+2024-12-03 02:25:31,895 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:25:31,950 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:25:31,991 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:25:33,488 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x60f28ba0531a <unknown>
+#1 0x60f28b51b6e0 <unknown>
+#2 0x60f28b56a3e6 <unknown>
+#3 0x60f28b56a681 <unknown>
+#4 0x60f28b5afb04 <unknown>
+#5 0x60f28b58e48d <unknown>
+#6 0x60f28b5aced7 <unknown>
+#7 0x60f28b58e203 <unknown>
+#8 0x60f28b55ccc0 <unknown>
+#9 0x60f28b55dc9e <unknown>
+#10 0x60f28b9d2d0b <unknown>
+#11 0x60f28b9d6c92 <unknown>
+#12 0x60f28b9bfb3c <unknown>
+#13 0x60f28b9d7807 <unknown>
+#14 0x60f28b9a50df <unknown>
+#15 0x60f28b9f4578 <unknown>
+#16 0x60f28b9f4740 <unknown>
+#17 0x60f28ba04196 <unknown>
+#18 0x7fdef8e9ca94 <unknown>
+#19 0x7fdef8f29c3c <unknown>
+
+2024-12-03 02:25:33,728 - INFO - Scraping exitoso para término: AGUA DE MESA SIN GAS
+2024-12-03 02:25:33,730 - INFO - ====== WebDriver manager ======
+2024-12-03 02:25:34,200 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:25:34,256 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:25:34,317 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:26:04,608 - INFO - Scraping exitoso para término: TÉ NEGRO FILTRANTE
+2024-12-03 02:26:04,615 - INFO - ====== WebDriver manager ======
+2024-12-03 02:26:04,872 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:04,926 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:04,983 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:26:14,876 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:26:16,085 - INFO - Scraping exitoso para término: PRODUCTO ACHOCOLATADO
+2024-12-03 02:26:16,086 - INFO - ====== WebDriver manager ======
+2024-12-03 02:26:16,319 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:16,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:16,404 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:26:37,179 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x589be0bff31a <unknown>
+#1 0x589be07156e0 <unknown>
+#2 0x589be07643e6 <unknown>
+#3 0x589be0764681 <unknown>
+#4 0x589be07a9b04 <unknown>
+#5 0x589be078848d <unknown>
+#6 0x589be07a6ed7 <unknown>
+#7 0x589be0788203 <unknown>
+#8 0x589be0756cc0 <unknown>
+#9 0x589be0757c9e <unknown>
+#10 0x589be0bccd0b <unknown>
+#11 0x589be0bd0c92 <unknown>
+#12 0x589be0bb9b3c <unknown>
+#13 0x589be0bd1807 <unknown>
+#14 0x589be0b9f0df <unknown>
+#15 0x589be0bee578 <unknown>
+#16 0x589be0bee740 <unknown>
+#17 0x589be0bfe196 <unknown>
+#18 0x7d79ea69ca94 <unknown>
+#19 0x7d79ea729c3c <unknown>
+
+2024-12-03 02:26:37,384 - INFO - Scraping exitoso para término: BEBIDAS GASEOSAS
+2024-12-03 02:26:37,393 - INFO - ====== WebDriver manager ======
+2024-12-03 02:26:37,698 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:37,758 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:37,817 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:26:47,227 - ERROR - Error scraping tottus: Message: 
+
+2024-12-03 02:26:47,436 - INFO - Scraping exitoso para término: COCOA EN POLVO
+2024-12-03 02:26:47,436 - INFO - ====== WebDriver manager ======
+2024-12-03 02:26:47,952 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:48,007 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-03 02:26:48,082 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.85/chromedriver-linux64/chromedriver] found in cache
+2024-12-03 02:27:37,841 - ERROR - Error scraping tottus: Message: 
+Stacktrace:
+#0 0x5c1a46a6731a <unknown>
+#1 0x5c1a4657d6e0 <unknown>
+#2 0x5c1a465cc3e6 <unknown>
+#3 0x5c1a465cc681 <unknown>
+#4 0x5c1a46611b04 <unknown>
+#5 0x5c1a465f048d <unknown>
+#6 0x5c1a4660eed7 <unknown>
+#7 0x5c1a465f0203 <unknown>
+#8 0x5c1a465becc0 <unknown>
+#9 0x5c1a465bfc9e <unknown>
+#10 0x5c1a46a34d0b <unknown>
+#11 0x5c1a46a38c92 <unknown>
+#12 0x5c1a46a21b3c <unknown>
+#13 0x5c1a46a39807 <unknown>
+#14 0x5c1a46a070df <unknown>
+#15 0x5c1a46a56578 <unknown>
+#16 0x5c1a46a56740 <unknown>
+#17 0x5c1a46a66196 <unknown>
+#18 0x77c329e9ca94 <unknown>
+#19 0x77c329f29c3c <unknown>
+
+2024-12-03 02:27:38,021 - INFO - Scraping exitoso para término: BEBIDA DE FRUTA ENVASADA
+2024-12-03 02:27:47,271 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=40815): Read timed out. (read timeout=120)
+2024-12-03 02:28:08,631 - INFO - Scraping exitoso para término: AGUA MINERAL SIN GAS
+2024-12-03 02:28:40,274 - ERROR - Error scraping tottus: HTTPConnectionPool(host='localhost', port=44577): Read timed out. (read timeout=120)
+2024-12-03 02:29:16,818 - INFO - Scraping exitoso para término: BEBIDA ENERGIZANTE (FLUIDA)
+2024-12-03 02:29:25,376 - INFO - Scraping exitoso para término: REFRESCO ENVASADO (FLUIDO)
+2024-12-03 02:31:47,806 - INFO - Scraping exitoso para término: BEBIDA HIDRATANTE

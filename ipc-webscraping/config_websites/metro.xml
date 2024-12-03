@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Metro -->
+    <website name="metro" base_url="https://www.metro.pe/">
+        <actions>
+            <!-- Aceptamos las cookies-->
+            <action type="click" selector="button.swal2-confirm.swal2-styled" />
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='¿Que buscas hoy?']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='¿Que buscas hoy?']" />
+            <!-- Haciendo clicks en el boton de ver mas-->
+            <action type="click" rep = "All" selector="button.vtex-button.bw1.ba.fw5.v-mid.relative.pa0.lh-solid.br2.min-h-small.t-action--small.bg-action-primary.b--action-primary.c-on-action-primary.hover-bg-action-primary.hover-b--action-primary.hover-c-on-action-primary.pointer" />
+            <!-- Haciendo scroll top-->
+            <action type="scroll-top" selector ="" />
+            <!-- Haciendo scroll down-->
+            <action type="scroll" selector ="" />
+        </actions>
+        <selectors>
+            <container>section[class*="vtex-product-summary-2-x-container--product-shelf-mobile"]</container>
+            <description>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description>
+            <price>div[class*="metroio-store-theme-13-x-containerPriceListPLP"]:not([class*="metroio-store-theme-13-x-promo-price-ref"])</price>
+            <limit>999</limit>
+        </selectors>
+    </website>
+</websites>

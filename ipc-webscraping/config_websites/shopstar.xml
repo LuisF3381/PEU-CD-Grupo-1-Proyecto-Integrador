@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Shopstar -->
+    <website name="shopstar" base_url="https://www.shopstar.pe/">
+        <actions>
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='Buscar aquí']" value="{search_term}" />
+            <!-- Click en el boton de busqueda -->
+            <action type="enter" selector="input[placeholder='Buscar aquí']" />
+            <!-- Haciendo clicks en el boton de ver mas-->
+            <action type="click" rep = "All" selector="div.vtex-button__label.flex.items-center.justify-center.h-100.ph5" />
+            <!-- Haciendo scroll top-->
+            <action type="scroll-top" selector ="" />
+            <!-- Haciendo scroll down-->
+            <action type="scroll" selector ="" />
+        </actions>
+        <selectors>
+            <container>section.vtex-product-summary-2-x-container.vtex-product-summary-2-x-containerNormal.overflow-hidden.br3.h-100.w-100.flex.flex-column.justify-between.center.tc</container>
+            <brand>span.vtex-product-summary-2-x-productBrandName</brand>
+            <description>span.vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body</description>
+            <price>div.mercury-interbank-components-0-x-summary_normalPricesContainer.flex.justify-between</price>
+            <limit>900</limit>
+        </selectors>
+    </website>
+</websites>
