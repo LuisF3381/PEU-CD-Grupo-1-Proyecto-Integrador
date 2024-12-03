@@ -4,6 +4,7 @@ import requests
 import itertools
 from collections import ChainMap
 import pandas as pd
+from os import path, makedirs
 
 BASE_HEADER = {
     "purpose": "prefetch",
@@ -49,8 +50,8 @@ PRODUCTS_HEADER = {
 }
 PRODUCT_HEADER_REFERER = "https://www.rappi.com.pe/tiendas/{0}"
 THREAD = ThreadPoolExecutor(max_workers=4)
-
-
+DATA_FOLDER_PATH = "data/raw/rappi/"
+DATA_BASE_PATH = path.join(path.dirname(path.realpath(__file__))[:-9], DATA_FOLDER_PATH)
 def extract_information(url, headers):
     response = requests.get(url, headers=headers)
     return response.json()
@@ -200,7 +201,7 @@ class RappiScraper:
 
     def process_data(self):
         self.data = pd.merge(self.market_cat_data, self.data, "left", "Market_cat_url")
-        self.data["Date"] = pd.Timestamp("today").strftime("%d%m%Y")
+        self.data.drop(["Market_id", "Market_cat_id", "Market_cat_url"], axis=1)
         self.data["Product_name"] = self.data["Product_name"].replace(
             to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
         )
@@ -210,6 +211,8 @@ class RappiScraper:
 
     def save_data(self):
         if len(self.data) > 0:
+            if not path.exists(DATA_BASE_PATH):
+                makedirs(DATA_BASE_PATH)
             self.data.to_csv(self.path, sep=",", index=False)
 
     def run(self):
@@ -222,7 +225,8 @@ def main():
     crawler = RappiCrawler()
     crawler.extract_url()
     scraper = RappiScraper(
-        "Rappi_" + pd.Timestamp("today").strftime("%d%m%Y") + ".csv",
+        path.join(DATA_BASE_PATH, "Rappi_" + pd.Timestamp("today").strftime("%d%m%Y") + ".csv"),
+
         crawler.df_market,
     )
     scraper.run()
