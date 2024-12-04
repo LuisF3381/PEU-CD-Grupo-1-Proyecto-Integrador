@@ -50,7 +50,7 @@ def generar_opts():
     # Seleccionar un proxy aleatorio
     proxy = random.choice(proxies)
     #opts.add_argument(f'--proxy-server={proxy}')
-    opts.add_argument("--headless=new")
+    #opts.add_argument("--headless=new")
     
     # Configuraciones adicionales de seguridad
     opts.add_argument("--disable-blink-features=AutomationControlled")
@@ -99,7 +99,7 @@ def scrape_term(termino):
         
         # Intentar scraping
         raw_data_file = scraper.scrape_and_save(
-            'vega',
+            'metro',
             termino,
             output_path
         )
