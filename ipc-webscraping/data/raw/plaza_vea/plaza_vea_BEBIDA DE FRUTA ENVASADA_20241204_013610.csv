@@ -1,0 +1,997 @@
+unit,description,price,website,search_term,scrape_timestamp
+Lata 170g,Cebada Instantánea ECCO Lata 170g,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 800g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 7 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Balde 1Kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1...,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,Bebida de Almendra LAIVE Vio Caja 946ml Paquet...,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Frutos Secos VILLA NATURA Cocktail Premium Bol...,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Vaso 120g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C...,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 900g,Yogurt DANLAC Frutado Frutos del Bosque Botell...,S/ 11.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida de Almendra NATURE'S HEART sin Azúcar 9...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 250g,Bebida Instantánea de Cebada ECCO Doypack 250g,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 500g,Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.7Kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos ...,S/ 10.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 800g,Yogurt Griego LAIVE Frutos Rojos Botella 800g,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 800ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Piqueo VALLE ALTO Frutos secos con almendras B...,S/ 6.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Rehidratante SPORADE Sabores Surtidos B...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida FRUGOS DEL VALLE Manzana Caja 235ml Six...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,Pollo Rostizado + Papas Fritas,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 946ml,Bebida de Coco LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 800ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80...,S/ 3 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida GLORIA Naranja Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida GLORIA Piña Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida GLORIA Maracuyá Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 800ml,Jabón Líquido AVAL Antibacterial Frutos Rojos ...,S/ 12.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Rehidratante GATORADE Sabores Surtidos ...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 20un,Infusión NATURE'S HEART Frutos Rojos Caja 20un,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Soya UHT SOY VIDA Caja 1L,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida de Soya LAIVE Vio Caja 946ml Paquete 4u...,S/ 25.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Coco NATURE'S HEART Caja 946ml,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida FRUGOS DEL VALLE Mango Caja 235ml Six P...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida GLORIA Mango Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 235g,Tornillo Especial MOLITALIA Pasta para Ensalad...,S/ 3.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio sin Endulzante Te...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida GLORIA Durazno Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 946ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,Bebida de Avena NATURES HEART Caja 946ml Paque...,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Vaso 115g,Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso ...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Rehidratante SPORADE Tropical Paquete 5...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 250gun,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3L,Bebida FRUGOS Citrus Fresh Naranja Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,Bebida de Almendra sin Azúcar NATURES HEART Ca...,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 1L,Jabón Líquido Antibacterial BACTERION Frutos R...,S/ 14.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 400ml,Jabón Líquido Antibacterial AVAL Frutos Rojos ...,S/ 10.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 85g,Panetón con Pasas y Frutas Confitadas TODINNIT...,S/ 4.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 3un,Pollo Rostizado + Papas Fritas + Gaseosa 1.5L,S/ 33.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 500g,Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150gun,Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 1Kg,Yogurt Griego TIGO Frutos Rojos Pote 1kg,S/ 15.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 950g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 9.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 500gun,Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 1Kg,Mix de Frutas Congeladas BELL'S Bolsa 1kg,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida de Soya SOY VIDA Lata 390g Paquete 6un,S/ 15 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 130g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol...,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 200g,Mermelada de Frutos del Bosque Pote 200g,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Avena NATURE'S HEART Caja 946ml,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 14g,Bebida Instantánea en Polvo CLIGHT Sin Caloría...,S/ 2.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 12un,Bebida PULP Durazno Forti Hierro Caja 145ml Pa...,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Coco y Vainilla NATURE'S HEART sin A...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra NATURE'S HEART Vainilla Sin...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 160g,Yogurt Frutado DANLAC Frutos del Bosque Frasco...,S/ 4.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Sabores de mi...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida Rehidratante SUEROX Surtido Botella 630...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ensalada Pollera Bandeja 300g,S/ 8.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 425g,Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 20un,Infusiones SAINT GOTTARD Surtido frutal Caja 2...,S/ 9.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 20un,Infusiones SAINT GOTTARD Frutos del bosque Caj...,S/ 9.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3.03L,Bebida CIFRUT Citrus Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Yogurt Deslactosado YOLEIT Frutos del Bosque G...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 18.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida Rehidratante SPORADE Tropical Electroli...,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 100g,Cebada Instantánea KIMBO Doypack 100g,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3.03L,Bebida CIFRUT Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 1Kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa...,S/ 31.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 6un,Galletas con Quinua y Frutos Rojos INCASUR Caj...,S/ 9 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 20un,Infusión de Frutos Rojos NATURE'S HEART Caja 5...,S/ 21 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Láctea BONLÉ Defensis Lata 390g Paquete...,S/ 15 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida PULP Durazno Caja 315ml Paquete 6un,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 946ml,Bebida de Soya LAIVE Vio Tetrapack 946ml,S/ 7.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 164g,Cebada Instantánea KIMBO Frasco 164g,S/ 9.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 500g,Ensalada Rusa BELL'S Bandeja 500g,S/ 9.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida de Coco NATURES HEART sin Azúcar Botell...,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3L,Bebida FRUGOS DEL VALLE Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 900ml,Bebida de Leche Chocolatada LAIVE Bolsa 900ml,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 3un,Combo Pollo Rostizado + Papas Fritas + Chicha ...,S/ 32.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 625ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,2 Pollos Rostizados + 2 Papas Fritas,S/ 54.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 20un,Infusión NATURE'S HEART Frutas Tropicales Caja...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 500g,Ensalada Mixta BELL'S Bandeja 500g,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 1un,Porción de Papas Fritas,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 970ml,Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Yogurt Deslactosado YOLEIT Frutos del Bosque B...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 400g,Mix Ensalada Precocida Congelada GREEN FOOD Bo...,S/ 8.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Energizante VOLT Ginseng Botella 300ml ...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Naranja Sobre...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 1L,Jabón Líquido AVAL Frutos Rojos Frasco 1L,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante GATORADE Apple Ice Botella...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida Vegetal NATURE'S HEART Origen Caja 946m...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Piña Sobre 15...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Cocktail de Frutas BELL'S en Almíbar Lata 820g,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 40g,Hojuelas de Papas Nativas TIYAPUY Mix Fritas B...,S/ 2.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 115g,Papas Fritas INKA CHIPS Finas Hierbas Bolsa y ...,S/ 8.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Aloe KERO Piña Botella 300ml,S/ 3.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Aloe KERO Uva Botella 300ml,S/ 3.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 1.3Kg,Enrollado de pollo con Frutas REDONDOS unid x ...,S/ 34.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 2un,1/4 Pollo Rostizado + Papas Fritas,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 1un,Pack Pollo Rostizado x2 + Papas Fritas x2 + Ga...,S/ 58.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra SILK sin Azúcar Caja 946ml,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1Kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos ...,S/ 5.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida Rehidratante SUEROX Fresa Botella 630ml...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Compota de Fruta BELL'S Pera Frasco 113g,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Táper 200g,Mix de Nueces y Frutas BELL'S Táper 200g,S/ 9.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 400g,Ensalada Rusa Precocida GREEN FOOD Bolsa 400g,S/ 7.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Compota de Fruta BELL'S Durazno Frasco 113g,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 60g,Endulzante en Polvo VÍA a Base de Fruto del Mo...,S/ 27.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Infusiones RENACER Cebada Tostada Bolsa 150g,S/ 6.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Té Negro FREE TEA Frutos Rojos Botella 500ml,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 412g,Caramelos Masticables de Fruta ARCOR Bolsa 412...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Piqueo VILLA NATURA Chifles camotes y yucas fr...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebidas Energizantes RED BULL Ambar Edition La...,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 100g,Piqueo BELL'S Frutos Secos Maíz del Cusco Bols...,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 1.3Kg,Enrollado de Pollo BELL'S con Jamón Queso Toci...,S/ 38.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida BELL'S Cranberry Bajo en Calorías Botel...,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida FRUGOS Piña y Mandarina Caja 1L,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 100un,Caramelos AMBROSOLI Gajo frutas Bolsa 100Un,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.9L,Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 13.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 300g,"Ensalada de Piña, Sandía y Papaya BELL'S Bande...",S/ 5.69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Mix de Frutos Secos VILLA NATURA Pasión Mix Bo...,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 200g,Mermelada Untable de Frutos del Bosque Sin Azú...,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Fresa Sobre 1...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Hojuelas de Papas Fritas BELL'S Onduladas Bols...,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida de Naranja GLORIA Caja 1.5L,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra NATURE'S HEART Caja 946ml,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida Rehidratante SUEROX Mora Botella 630ml ...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 822g,Cóctel de Frutas ACONCAGUA en Almíbar Lata 820...,S/ 13.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Táper 150gun,Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,S/ 7.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Agua Mineral SOCOSANI Frutos Rojos Botella 500...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 184g,Maíz Dulce FRUTO DE ORO Lata 184g,S/ 4.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 2910ml,Bebida FRUGOS Sabor a Durazno Paquete 1un + Be...,S/ 12.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida Energizante RED BULL Sugarfree Lata 250...,S/ 28.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida energizante RED BULL Lata 250Ml,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Jugo de Fruta KERO Mango y Maracuyá Botella 47...,S/ 4.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Limonada Sobr...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 390g,Bebida de Almendras Concentrada LAIVE Botella ...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Compota de Fruta BELL'S Manzana Frasco 113g,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 400g,Frutos del Bosque Enteros GREEN FOOD Bolsa 400...,S/ 16.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Cocktail de Frutas ARICA Lata 820g,S/ 12.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida FRUGOS Fresh Citrus Naranja Botella 1.5...,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Avena ORASI Caja 1L,S/ 14.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Natural BIO Arándano con Uva y Manzana ...,S/ 3.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Energizante RED BULL Paquete 6un Lata 2...,S/ 39.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 340g,Yogurt LAIVE Protein Frutos Rojos Botella 340g,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante sin Azúcar SPORADE Apple I...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 9.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante GATORADE Cool Blue Botella...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 175g,Repuesto de Aromatizador GLADE Alegría Floral ...,S/ 35.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida Energizante RED BULL Red Edition Lata 2...,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Láctea YOPI Sabor a Chocolate Paquete 6...,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida Rehidratante GATORADE Frutos Tropicales...,S/ 3.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cereal de Quinua Frutos Rojos +NUTRI Co Caja 2...,S/ 18.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Jugo de Fruta L'ONDA Cranberry Botella 1L,S/ 9.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra NATURE'S HEART Almendra y C...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado HEINZ Fruta Mixtas Frasco 113g,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3L,Bebida TAMPICO Citrus Punch sin Azúcar Botella...,S/ 7 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida Energizante RED BULL Tropical Lata 250m...,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 750ml,Bebida Rehidratante GATORADE Sabor a Mandarina...,S/ 3.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Energizante sin Azúcar VOLT Botella 300...,S/ 2.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Durazno Sobre...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 2un,Piqueo BELL'S Papas fritas 185Gr + Piqueo BELL...,S/ 12.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Envase 100gun,Ensalada Mix Personal BELL'S FRESCOS Envase 10...,S/ 5.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida de Aloe BIO Botella 500ml,S/ 2.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 180g,Ensalada Rusa LA FLORENCIA Bandeja 170g,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 150g,Piqueo BELL'S Papas Fritas Sabor Original Lata...,S/ 6.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 300g,"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",S/ 5.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida PULP Durazno Forti Hierro Caja 250ml Pa...,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante SPORADE Mandarina Botella ...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida energizante RED BULL Light Lata 250Ml,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 400ml,Ambientador en Aerosol GLADE Alegría Floral y ...,S/ 10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida Emoliente GLORIA Caja 1L,S/ 3.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 355ml,Ready To Drink (RTD) PORTON Chilcano de Frutos...,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Jugo de Fruta KERO Naranja y Piña Botella 475m...,S/ 4.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida TAMPICO Citrus Punch Botella 1.5L,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 750g,Panetón con Frutas BAUDUCCO Caja 750g,S/ 30.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante sin Azúcar SPORADE Tropica...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 5un,Bebida PULP Durazno Forti Hierro Caja 145 ml P...,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado HEINZ Frutas Tropicales Frasco 113g,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 184g,Mix Verduras FRUTO DE ORO Lata 184g,S/ 4.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 300g,"Ensalada de Papaya, Sandía y Melón BELL'S Band...",S/ 5.69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 29.04g,Caramelos MENTOS Fruta Bolsa 29.04g,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 800g,Yogurt LAIVE Protein Frutos Rojos Botella 800g,S/ 11.29 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida BIO Manzana y Camu Camu Botella 300ml,S/ 3.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 120g,Ensalada Mix Mediterráneo VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 2un,Pack Bebida FRUGOS Mango Caja 235ml Paquete 6u...,S/ 10.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 8un,Cereal en Barra BELL'S Frutos Rojos Caja 8un,S/ 5.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 1un,Dedos de Pollo + Papas Fritas + Gaseosa 300ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida Rehidratante POWERADE Uva Botella 600ml...,S/ 11.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 60g,Papas Fritas BELL'S Sabor Original Lata 60g,S/ 3.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 330ml,Bebida Refrescante MALTIN POWER Botella 330ml,S/ 1.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Cocktail de Frutas FRUTO DE ORO Lata 820g,S/ 11.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 945ml,Jugo de Fruta L'ONDA Manzana Botella 945ml,S/ 9.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante SPORADE Sabor a Uva Botell...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Soya sin Azúcar UHT ORASI Caja 1L,S/ 14.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 454g,Vinagreta Ranch LUREN para Ensalada Frasco 454...,S/ 8.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida de Surtido GLORIA Caja 500ml,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida Carbonatada RED BULL Green Edition Lata...,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 12un,Bebida Energizante VOLT Sabores Surtidos Botel...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Jugo de Fruta L'ONDA Arándano Botella 1.89L,S/ 18.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida PULP Mango Caja 1L,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 160g,Yogurt Griego VAKIMU Sabor a Frutos del Bosque...,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 60g,Papas Fritas BELL'S Sabor Cebolla Lata 60g,S/ 3.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 2un,Bebida FRU + Mango Sandia Botella 400ml,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Envase 150gun,Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,S/ 7.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Bebida Light OCEAN SPRAY Cranberry Botella 1.8...,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Broaster 8 Piezas + Papas Fritas 400g,S/ 38.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+DoyPack 800ml,Jabón Líquido AROMASENSE Frutos Rojos Doypack ...,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Pollo Rostizado + Papas Fritas + Chicha ...,S/ 38.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida BELL'S Cranberry Botella 1L,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 300g,"Ensalada de Piña, Sandía y Melón BELL'S Bandej...",S/ 5.69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 600ml,Bebida Rehidratante POWERADE Maracuyá Botella ...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta NATURALE Chicha Morada Botella 5...,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida Rehidratante SPORADE Tropical Botella 1...,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 10un,Infusión TWININGS Frutas Silvestres Caja 10un,S/ 19.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 120g,Ensalada Mix Primavera VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Pollo Rostizado + Papas Fritas + Chaufa ...,S/ 40.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 400ml,Bebida FRU + Mango Maracuyá Botella 400ml,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 150g,Papas Fritas BELL'S Sabor Crema y Cebolla Lata...,S/ 6.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 160g,Yogurt Bebible Frutos del Bosque YOLEIT Active...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 970ml,Bebida FRUGOS DEL VALLE Sabor a Manzana Caja 9...,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 970ml,Bebida de Durazno FRUGOS Caja 970ml,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ensalada Fusilli Bandeja 170g,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Natural BIO Manzana Aguaje y Cocona Bot...,S/ 3.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra SILK Vainilla sin Azúcar Ca...,S/ 19.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida FRUGOS Fresh Citrus Botella 500ml,S/ 1.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Mora Botell...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 1un,Ensalada Italiana HOME CHEF Bandeja 1un,S/ 13.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 150g,Papas Fritas BELL'S Sabor Pizza Lata 150g,S/ 6.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida de Arándanos L'ONDA con Té Verde Botell...,S/ 8.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 2un,Bebida FRU + Piña Maracuyá Botella 400ml,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca BARBIE Pop Reveal Sere de Frutas NW40,S/ 109.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 400g,Ensalada Rusa LA FLORENCIA 400g,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ensalada SOLEI Coco en Trozos Frasco 130g,S/ 6.79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Durazno en Mitades FRUTO DE ORO Lata 820g,S/ 9.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3L,Bebida FRUTARIS con Sabor a Frutas Cítricas Bo...,S/ 5.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante MONSTER Energy Lata 473ml,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 113g,Colado de Frutas Tropicales AGÚ Doypack 113g,S/ 3.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 150g,Hojuelas de Papas Fritas BELL'S Bolsa 150g,S/ 5.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 250ml,Bebida de Arándano Uva PULP Forti 250ml Paquet...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Display 300un,Endulzante VÍA con Fruto del Monje Display 300...,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 425g,Champiñones Enteros FRUTO DE ORO Lata 400g,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 2un,Combo Pollo Rostizado + Papas Fritas + PILSEN ...,S/ 48.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida L'ONDA Blueberry Botella 1L,S/ 4.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Jugo de Fruta KERO Camu Camu Botella 475ml,S/ 5.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 4un,Bebida Energizante RED BULL Lata 250ml Paquete...,S/ 28.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 970ml,Bebida FRUGOS Sabor a Naranja Caja 970ml,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendras Chocolate SILK Caja 946ml,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 750ml,Bebida Rehidratante GATORADE Apple Ice Botella...,S/ 3.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 300g,"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",S/ 8.79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ensalada Cesar Pequeña x un,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida PULP Durazno Caja 1L,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Almendras ORASI UHT sin Azúcar Caja ...,S/ 14.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida Rehidratante POWERADE Mora Botella 1.5L,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 250g,Granola Sabor a Frutos del Bosque DYFFERENT Ca...,S/ 16 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 1.5L,Bebida GLORIA Sabor a Durazno Tetrapack 1.5L,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 425g,Arvejas FRUTO DE ORO Lata 425g,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Jugo de Fruta L'ONDA Cranberry Uva Botella 1.8...,S/ 18.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Jugo de Fruta L'ONDA Uva Botella 1.89L,S/ 17.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida Light OCEAN SPRAY Cranberry Caja 1L,S/ 14.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 800g,Yogurt Griego LAIVE Frutos Rojos Pote 800g,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 170g,Cebada Instantánea BELL'S Frasco 170g,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bolitas de Cereal TRUBALLS Frutos y Nueces Paq...,S/ 10.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 200g,Cocktail Premium VIVA LA FRUTA Bolsa 200g,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Avellanas UHT ORASI Caja 1L,S/ 16.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pelotas Recreativas VINIBALL 5 Perfumada Tutti...,S/ 4.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Arroz Orasi Caja 1L,S/ 14.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 591ml,Bebida Rehidratante GATORADE Gatorlyte Fresa-K...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Energizante MONSTER Paradise Lata 473ml,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida de Durazno GLORIA Caja 200ml,S/ 7.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida CIFRUT Citrus Punch Botella 350ml,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida BELL'S Blueberry Botella 1L,S/ 5.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 270ml,Bebida de Durazno GLORIA Caja 500ml,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 355ml,Bebida energizante RED BULL Lata 355Ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida con Aloe Vera SAPPE Botella 1L,S/ 17.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 200g,Almendras VIVA LA FRUTA Bolsa 200g,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 400ml,Bebida FRU+ Sabor a Mango y Durazno Botella 40...,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 567g,Piña en Trozos FRUTO DE ORO Lata 567g,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 320ml,Bebida de Uva MOGU MOGU Botella 320ml,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida de Mango y Maracuyá FRU+ Botella 1L,S/ 8.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Concentrado de Bebida de Almendras LA PURITA 1...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Broaster 8 Piezas + Papas Fritas 400g + Gaseos...,S/ 44.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 250ml,Bebida de Mango PULP Forti 250ml Paquete 6un,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 350ml,Bebida Energizante FURY Botella 350ml,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 750ml,Anís NAJAR Frutos Rojos Botella 750ml,S/ 47.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 200g,Bebida Nutricional NUNATURA Andean Superdrink ...,S/ 13.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 120g,Snack NATURE'S HEART Frutas y Chocolate Doypac...,S/ 11.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Energizante VOLT Ginseng Botella 300ml,S/ 2.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado HEINZ Cocktail de Frutas Frasco 113g,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 630ml,Bebida Rehidrantante SUEROX Naranja y Mandarin...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Manzana Bot...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Fresa - Kiw...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 4un,Bebida BIO AMAYU Shots Antioxidante Botella 60...,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 1un,Ensalada Power HOME CHEF 1un,S/ 13.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 50un,Endulzante VÍA en base a Fruto del Bosque Caja...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 355ml,Bebida Alcohólica WASSKA Happy Punch Frutos Ro...,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Frutas en Conserva FRUTO DE ORO Pera en Mitade...,S/ 11.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 90g,Bolitas de Cereal TRUBALLS Frutos y Nueces Doy...,S/ 8.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 320ml,Bebida de Mango MOGU MOGU Botella 320ml,S/ 4.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 320ml,Bebida de Fresa MOGU MOGU Botella 320ml,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Jugo de Fruta BELL'S Tomate Botella 1L,S/ 10.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 1un,Ensalada a la Brasa ALCA FOOD Pequeña x 1un,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 567g,Lychees en Almíbar FRUTO DE ORO Lata 567g,S/ 17.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Fresa Botella...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida con Aloe Vera SAPPE Sabor Manzana Botel...,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 230ml,Bebida de Almendra LAIVE VIO Sabor a Vainilla ...,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante MONSTER Energy Mango Loco L...,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante MONSTER Zero Sugar Lata 473...,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 630ml,Bebida Rehidratante SUEROX Frutos Rojos Botell...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Broaster 4 Piezas + Papas Fritas 200g,S/ 24.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida Vegetal NOT MILK Low Fat Caja 1L,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado HEINZ Postre de Frutas Frasco 113g,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida GOLDEN Lata 355ml Paquete 6un,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida de Avena ORASI UHT Caja 1L,S/ 16.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 800ml,Jabón Líquido AROMASENSE Frutos Verdes Doypack...,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 150g,Papas Fritas BELL'S Sabor BBQ Lata 150g,S/ 6.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida de Mango y Sandía FRU+ Botella 1L,S/ 8.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta NATURALE Manzana Botella 500ml,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.89L,Bebida L'ONDA Blueberry Botella 1.89L,S/ 10.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante VOLT Lata 473ml,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Concentrado de Bebida de Almendras LA PURITA 1...,S/ 12 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Broaster 8 Piezas + Papas Fritas 400g + Chicha...,S/ 43.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Vaso 45g,Avena Instantánea de Frutos Rojos BELL'S Vaso ...,S/ 3.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado AGÚ Frutas Tropicales Frasco 113g,S/ 3.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Granadilla Bo...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida FRUGOS Fresh Fruit Punch Botella 1.5L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Ready To Drink (RTD) FOURLOKO Ponche Frutas La...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 480ml,Bebida de Camu Camu LA FLORENCIA Botella 480ml,S/ 6.19 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta L'ONDA Manzana Botella 500ml,S/ 5.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 1un,Torta Chantilly y Frutas Mediana LA FLORENCIA ...,S/ 60.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra SILK Caja 946ml,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante SPORADE Tropical Botella 5...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Mora Botella ...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 5g,Salvia 4 ESTACIONES Ensalada Sobre 5g,S/ 4.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 390g,Dulce Untable SPREAD Frutos del Bosque Frasco ...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida NATURALE Emoliente Botella 500ml,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida OCEAN SPRAY Cranberry - Raspberry Botel...,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 12g,Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,S/ 7.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 320ml,Bebida MOGU MOGU Naranja y Coco Botella 320ml,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 3L,Bebiba BELL'S Citrus Punch Botella 3L,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 400ml,Jabon Liquido AROMASENSE Frutos Verdes Frasco ...,S/ 14.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Frasco 113g,Colado de Frutas Criollas HEINZ Frasco 113g,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida Rehidratante POWERADE Multifrutas Botel...,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mix de Frutas FEST Loreto Doypack 350g,S/ 10.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante MONSTER Ultra Lata 473ml,S/ 8 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 591ml,Bebida Rehidratante GATORADE Gatorlyte Uva 591...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 591ml,Bebida Rehidratante GATORADE Naranja Botella 6...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 80g,Mini Panetón con Frutas BAUDUCCO Caja 80g,S/ 5.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 820g,Cocktail de Frutas DOS CABALLOS Lata 820g,S/ 15.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 1un,Nuggets de Pollo + Papas Fritas + Gaseosa 300m...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida con Aloe Vera SAPPE Piña Botella 300ml,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 2.17Oz,Caramelos SKITTLES WILD BERRY Sabor de frutas ...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 4un,Bebida BIO AMAYU Shots Defense Botella 60ml Pa...,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida TANDEM Chía y Maracuyá Botella 400ml,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida MOGU MOGU Mango y Coco Botella 1L,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 355ml,Ready To Drink (RTD) INDIE SPIRIT Gin Tonic Fr...,S/ 7.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Té Verde Bebible HORNIMANS Frutos Rojos Botell...,S/ 2.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Manzana Botel...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida de Uva MOGU MOGU Botella 1L,S/ 16.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 473ml,Bebida Energizante VOLT Gamer Lata 473ml,S/ 4.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 600ml,Bebida Rehidratante POWERADE Multifrutas Botel...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 946ml,Bebida de Almendra SILK Vainilla Caja 946ml,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida Rehidratante SPORADE Blueberry Botella ...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Piña Botella ...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Almendras Fritas SALYSOL Lata 250g,S/ 24.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida CIFRUT Fruit Punch Botella 350ml,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida PULP Durazno Botella 300ml,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Tetrapack 200ml,Crema Batida ASTURIANA Tetrapack 200ml,S/ 9.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida Aromatizada con Gas BELL'S Ginger Ale B...,S/ 4.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 1un,Ambientador Eléctrico GLADE Alegría Floral y F...,S/ 29 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 250ml,Bebida Energizante KINETIC Lata 250ml,S/ 2.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida Light OCEAN SPRAY Cranberry & Grape Caj...,S/ 14.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta NATURALE Agua de Piña Golden Bot...,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida Rehidratante POWERADE Frutas Botella 1....,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 10un,Té Negro TWININGS Frutos Rojos Caja 10un,S/ 19.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta L'ONDA Cranberry Botella 500ml,S/ 5.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida TANDEM Chía y Fresa Botella 400ml,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 355ml,Bebida Ready To Drink (RTD) PARTY BOX Lemon Da...,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 12un,Chocotejas HELENA con Frutos Variados Caja 12u...,S/ 61 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 4un,Bebida BIO AMAYU Shots Vitamina A Botella 60ml...,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tabla de Picar Frutas VIVA HOME (Modelos Aleat...,S/ 14.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 5.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mix de Frutas FEST Andes Doypack 350g,S/ 10.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida con Aloe Vera SAPPE Grape Flavor Botell...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mix Frutas Amazonas FEST Bolsa 350g,S/ 10.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 250ml,Bebida de Naranja PULP Forti 250ml Paquete 6un,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 400un,Avena Mix Frutos Rojos +NUTRI Co Caja 400g,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 175g,Repuesto Ambientador GLADE Frutos Rojos Lata 1...,S/ 51.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 10un,Infusión de Frutos Rojos CARMENCITA Caja 10un,S/ 13.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 100g,Cebada Instantánea BELL'S Doypack 100g,S/ 3.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida Rehidratante POWERADE Mora Azul Botella...,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 600ml,Bebida Rehidratante POWERADE Mora Azul Botella...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida FRUTARIS sabor Frutas Cítricas Botella ...,S/ 1.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Envase 1un,Pionono con Frutas y Chantilly LA FLORENCIA 1u...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 150ml,Crema Depilatoria Corporal DEPILÉ Frutos Rojos...,S/ 30.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Energizante VOLT Blueberry Maca Botella...,S/ 2.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ensalada del Chef ALCA FOODS un,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 320ml,Bebida GLORIA Emoliente Botella 320ml,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 600g,Panetón Artesanal con Frutos Secos LA FLORENCI...,S/ 24.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Energizante VOLT Dark Botella 300ml,S/ 2.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bandeja 1un,Cheesecake Horneado Frutos del Bosque LA FLORE...,S/ 54.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 100ml,GLADE Varitas Aromatizante de Ambiente Alegría...,S/ 28.80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida FRUGOS Fresh Sabor a Manzana Botella 50...,S/ 1.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida rehidratante ELECTROLIGHT Naranja Botel...,S/ 2.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Envase 30g,Goma de Mascar MENTOS Frutos Rojos Envase 30g,S/ 8.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 91.3g,Gomitas Frutos Rojos LIFESAVERS Bolsa 91.3g,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza de Medida PYREX 500ml,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Bebida L'ONDA Blueberry Botella 500ml,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Doypack 300g,Hojuelas de Avena con Semilla MILLER'S Vive co...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Caja 1L,Bebida PULP Maracuyá Caja 1L,S/ 4 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 567g,Nísperos en Conserva FRUTO DE ORO Lata 567g,S/ 14.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Lata 567g,Bambú en Tajadas FRUTO DE ORO Lata 567g,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Sobre 5g,Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,S/ 3.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida BING LEMON Punch Frutos Rojos Botella 4...,S/ 6.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca BARBIE Serie de Frutas Chelsea,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bowl para Ensalada DECO HOME Porcelana Blanca,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida Energizante VOLT Colágeno y Aloe Vera B...,S/ 2.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 475ml,Bebida Rehidratante SPORADE Tropical Botella 4...,S/ 2.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Dispensador de Bebida DECO HOME con Base de Me...,S/ 42.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 500ml,Jugo de Fruta NATURALE Maracuyá Botella 500ml,S/ 4.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 91.3g,Gomitas Frutales LIFESAVERS Bolsa 91.3g,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1.5L,Bebida Rehidratante SPORADE Blueberry Botella ...,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida KÁSCARA Café Original Botella 400ml,S/ 6.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida BING LEMON Punch Original Botella 400ml,S/ 6.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sanguinaccio con Frutos Secos LA GENOVESA 220g,S/ 13.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca BABY ALIVE Set de Bebidas KK11032,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 300ml,Bebida con Aloe Vera SAPPE Uva Botella 300ml,S/ 6.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Medias Casual Frutas Algodón Pack 3un SINGULAR...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pote 400g,Bebida Powermix Instantáneo COSECHA DEL SUR Po...,S/ 18 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tajador 2 Medidas MALLKI Blister 1un,S/ 6.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Libro de Cocina INSTANT Crips Mini,S/ 99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 400ml,Bebida TAMPICO Citrus Punch sin Azúcar Botella...,S/ 1.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Pack 4un,Bebida BIO AMAYU Shots Surtido Botella 60ml Pa...,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Bolsa 200g,Cocktail con Nueces VIVA LA FRUTA Bolsa 200g,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca DISNEY PRINCESA Mérida,S/ 84.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 1L,Bebida de Fresa MOGU MOGU Botella 1L,S/ 16.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Paquete 6un,Bebida GOLDEN Lata 473ml Paquete 6un,S/ 24.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Botella 355ml,Jugo de Fruta HOOP Almango Botella 355ml,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babero de Silicona SKIP HOP Unicornio,S/ 89 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babero de Silicona SKIP HOP Mariposa,S/ 89 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portacubierto Bota Tejida 11x7cm Colección Roj...,S/ 4.76 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bowl Dorado para ensalada 30cm Orange,S/ 23.96 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 4 platos para ensalada Blanco 20cm Aspe...,S/ 31.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set x 4 platos para ensalada gris 20cm,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Brida 3/4"" Aluminio",S/ 3.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Brida 1"" Aluminio",S/ 4.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Brida Aluminio 30mm,S/ 7.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Brida flexible larga hasta 5 cm,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Brida flexible corta hasta 2.5 cm,S/ 36.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Flotador frutas tropicales,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Fertilizante en polvo para Frutales,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Llave Torx tipo navaja de 8 medidas,S/ 77.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Brida 3-12mm 1.5 Delta Level B-100 Rubi,S/ 26.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Brida 3-12mm 2mm Delta Level B-100 Rubi,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal frasco x 1 litro,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Alcohol en gel Frutal Galón 4 litros,S/ 64.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal 800ml,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal frasco 1 litro,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Floral 800ml,S/ 13.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Alcohol en gel Frutal frasco 380ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal Galón 4 litros,S/ 44.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal Doypack x 1 litro,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal Galón x 4 litros,S/ 35.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón líquido Frutal frasco x 380ml,S/ 6.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón espuma Frutal 800ml,S/ 27 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón Líquido Frutal frasco 380ml,S/ 7.70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Fertilizante para frutos 800gr,S/ 31.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Can Schubert Bebidas x 6 Cristar 0397cl6,S/ 45.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set x 4 Vasos Mikonos Bebidas Cristar 0454el4h...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+Presentación 1 caja rinde 2.23 m²,Piso cerámico maderado Merida Natural 45x45 2....,S/ 20.90 x m²,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mesón ensalada Ventus Vmrsl-380 300l,"S/ 4,089 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Recolector de fruta Combisystem Gardena,S/ 121.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colador frutas y verduras,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Medidas generales Prevención Covid 50x70cm,S/ 63 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Máquina para hacer helado de fruta Bffm024 Neg...,S/ 129 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Humus líquido Huertos y Frutales,S/ 25.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Carrito para frutas y verduras Gris,S/ 76.41 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Carrito para frutas y verduras,S/ 76.41 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Carrito p/ frutas y verduras,S/ 67.91 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tijera frutos,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca Disney Princesas Mérida,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pista Hot Wheels Campeonato De Subida De Colin...,S/ 94.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Toalla De Playa Microfibra Frutas 80Cm X 160Cm,S/ 39.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Maquina Canal Toys Bebidas Slime,S/ 159 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Falda Larga Mujer List Tejida Hypnotic,S/ 79.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chompa Para Niña Circus Card Love,S/ 29.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Muñeca Barbie Pop Reveal Frutas Chelsea,S/ 69.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cubiertos Ensalada Acrilico,S/ 7.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colchoneta Inflable Bestway Frutas Lounge,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Didáctico Grupo De Comida Frutas Y Verduras 5 ...,S/ 45.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Didáctico Abaco De Madera Modelo Frutas,S/ 139 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Máquina eléctrica para hacer helado de fruta,S/ 119 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor Soporte Expandible de Fregadero par...,S/ 25.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador Rallador De Frutas Picador Verduras M...,S/ 38 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chupón Alimentador Para Fruta de Bebé 3 en 1 A...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exprimidor de Naranjas Cítricos y Frutas Eléct...,S/ 52 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reductor de Medidas Quema Grasa 5 Varilla...,S/ 57 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas para N...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Yesoterapia Faja Moldeadora, Reductor de Medid...",S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Soporte Para Bebidas en Cochecitos Bebe Dreamb...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 2 Copas para Capuccino o Bebidas Frias,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Recolector de frutas truper sin mango,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Natural Spray Frutos del Bosque Ecofraga,S/ 19 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,36 Hilo Tubino Colores Surtidas Hilos para Cos...,S/ 79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sábila Premium en Bebida FITOSANA (600ml),S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja cintura de Avispa Quema Grasa Reductor de...,S/ 34 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Estante Almacenamiento Organizador De Frutas V...,S/ 99.95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rayador Multifuncional con Molino para Frutas ...,S/ 49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exprimidor Eléctrico de Frutas y Verduras + Ma...,S/ 109 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aro Basket + Malla Para Básquet Basquetbol Med...,S/ 153.33 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rallador Picador Cortador Multifuncional de Fr...,S/ 59.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Cesto de Frutas Triangular de 3 Niveles ...,S/ 95.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de Vasos Apilables de Colores con Frutas,S/ 19.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exprimidor Eléctrico Recargable de Frutas,S/ 45.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Licuadora Oster Blstkag-Bpb + Totadora Belia,S/ 348 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Parlantes Componentes Jbl 6 Pulgadas Medida P...,S/ 475 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Molino de Café Eléctrico Frutos Secos Condimen...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Yesoterapia Faja Moldeadora, Reductor de Medid...",S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Plata,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Turquesa,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Orangino,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Lila,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Beige,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Chocolate,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Cielo,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Cobalto,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sofá de 2 Cuerpos Fruna Home Premium Coral,"S/ 2,399 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Fruta Partida Playland Madera Set 7,S/ 108.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juguete de Motricidad Fina Cosecha los Frutos ...,S/ 95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juguete Set de Frutas y Verduras Wonky Plantoy...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ruleta de Juegos para Bebida Favorita,S/ 65.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juego de comedor de 4 sillas Mérida Home Premi...,"S/ 4,099 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de Frutas Bigjigs para Cortar con Mandil ...,S/ 130 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Medias Pack x 3 pares Frutas,S/ 19 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chaleco Tubular Thermo Shapers - REDUCE MEDIDA...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chaleco Tubular Thermo Shapers - REDUCE MEDIDA...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chaleco Tubular Thermo Shapers - REDUCE MEDIDA...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chaleco Tubular Thermo Shapers - REDUCE MEDIDA...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Orientica XO Xclusif Oud Bleu Extrait para Uni...,S/ 539 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,RASASI Daarej Pour Femme - Eau de Parfum flora...,S/ 225 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,RASASI Nafaeis Al Shaghaf Eau De Parfum para h...,S/ 245 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ard al Zaafaran Al Qannas - Perfume frutal par...,S/ 205 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bint Hooran Eau De Parfum mujer con notas fres...,S/ 195 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Balanza Electronica para Maleta 50kg 4 Medidas...,S/ 44 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Medidor De Humedad Para Granos Arroz Trigo Ceb...,S/ 199 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Contenedor para Ensalada con Frasco para Aliñ...,S/ 9 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rallador Cortador De Frutas Picador Verduras M...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Funko Pop Brave Valiente Merida with Bow,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Organizador de Frutas de 3 Niveles, Frutero Mu...",S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Organizador de Frutas de 3 Niveles, Frutero Mu...",S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Beija Flor™ Jet Set,S/ 229 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,JUEGO EDUCATIVO YO APRENDO FRUTAS Y VERDURAS 4...,S/ 95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mochila de Viaje - Medidas Aerolineas,S/ 109 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lata de Fluye de 150g Mezcla de frutas y vege...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Caja de Fluye To Go de 56g Mezcla de frutas y ...,S/ 25 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Recover Protein Sabor frutos rojos,S/ 139.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cúrcuma + Pimienta Negra Natural Gummies Sabor...,S/ 65 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jirafa no Peligroso y Toxico para Bebitos Y+Re...,S/ 233.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pelador de Frutas Practico Acero Inoxidable Gr...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Recipiente para Frutas en Color Rosado Y+Post-...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Recipiente de Frutas Verde Transparente Y+Post...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Organizador de Frutas en Dorado Y+Ligas de Reg...,S/ 146.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Estante Buena para Frutos en Dorado Y+Envoltor...,S/ 156.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pack 2u Te Fruto Del Monje de 20u Infusion Ori...,S/ 41 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Gel Bebible Energético QNT Energel Frutos del ...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Caja Divertida de Frutas y Verduras,S/ 49.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Dispensador Facil de Usar para Bebidas Blanco ...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Kit Saco de Dormir Sleeping Envolvente de Felp...,S/ 167 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Stanley IceFlow - Vaso con popote y tapa antif...,S/ 255 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Envase Grande de Bebidas Amarillo Y+Envoltorio...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Celeste 35...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Rosado 350...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Canasta Moderna para Alimentos Tejida Y+Post-i...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Celeste,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Naranja 35...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor de Frutas Resistete Verde Y+Envolto...,S/ 129.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Estomas Premium en Bebida FITOSANA (600ml),S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza de Bebidas Calientes Celeste y Blanco Y+R...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,FibraMass Premium - Fibra en Bebida FITOSANA (...,S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aqua Recipiente para Bebidas Rosado Y+Papel de...,S/ 46.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Verde Agu...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor de Frutas Desmontable en Color Verd...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Matico Premium en Bebida FITOSANA (600ml),S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Naranja 45...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Dispensador Facil de Bebidas Blanco Y+Regalo A...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colioxan Forte Premium en Bebida FITOSANA (600...,S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Alcachofa y Nopal Premium en Bebida FITOSANA (...,S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Picatodo de Frutas y Verduras de Color Verde Y...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Picatodo de Frutas y Verduras en Color Blanco ...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Versatil para Bebidas Calientes 500mlAzu...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Versatil para Bebida Calientes 500ml Ros...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor Funcional de Frutas en Blanco y Azu...,S/ 73.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Flotador en Forma de Aro de Frutas para Nadar ...,S/ 33.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Celeste...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo para Bebidas Frias en Negro 500ml Y+Pape...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Bandeja Xchouxer para sofá, soporte bebidas y ...",S/ 165 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Estante para Verduras y Frutas de Color Negro ...,S/ 263.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza de Bebidas Calientes Rosado con Blanc Y+R...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juguera Util de Frutas en Verde Y+Ligas de Reg...,S/ 119.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Envase Grande de Bebidas Verde Agua Y+Envoltor...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Envase Grande de Bebidas Celeste Y+Envoltorio ...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Rosado 450...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aqua Recipiente para Bebidas Mascotas Azul Y+P...,S/ 46.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza de Bebidas Calientes Verde con Blanco Y+R...,S/ 89.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Amarillo,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Frasco para Bebidas de 400ml en Amarillo Y+Pos...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Estacion de Bebida para Mascotas Rosado Y+Post...,S/ 56.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juego de Clasificación de Frutas,S/ 99.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Balsamo Labial Hidratante y Reparador Shea But...,S/ 70 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Bebidas Frias en Base Ancha 350ml Y+...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Versatil para Bebida Calientes 500ml Roj...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Frasco para Bebidas de 400ml en Azul Y+Post-it...,S/ 56.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Botella para Bebida Multicolor 2Lt Y+Post-it a...,S/ 56.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Bebidas Frias en Estilo Recto 500ml ...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tetera Funcional para Bebidas Negro 1.5 Lt Y+S...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Frasco para Bebidas de 400ml en Celeste Y+Post...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Plomo 350m...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Practico para Bebidas de Color Plomo 450m...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Celeste...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor para Frutos en Blanco y Naranja Y+P...,S/ 67.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Rosado ...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor Funcional de Frutas en Blanco y Ver...,S/ 73.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Plomo 4...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo para Bebidas Frias en Crema 500ml Y+Pape...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Versatil para Bebidas Calientes 500ml Ne...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Plomo 3...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Frasco para Bebidas de 400ml en Rojo Y+Post-it...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Naranja...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble para Bebidas Tapa Rosado ...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Minimalista y Practica Tejida Y+Papel de...,S/ 63.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Util Redonda para Reuniones Tejida Y+Age...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Higasol Premium en Bebida - Hígado FITOSANA (6...,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pecto Propol Premium en Bebida FITOSANA (600ml...,S/ 27.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Saviax - Savia de Plátano en Bebida FITOSANA (...,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pack de Frutas con Tabla de Picar Didactico Mu...,S/ 43.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Gancho para Cocina con Ventosa Generico Frutas...,S/ 38 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta de Metal para Fruta,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de Cucharas con Medidas Multicolor Y+Stick...,S/ 33.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babitas Bebé Set x4 Babita Hombrera Babero Ban...,S/ 99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tomatodo para Bebidas Refrescantes Oso en Mora...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta de Papas Fritas Redondo en Plateado Y+Pa...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Mordedor en Forma de Fruta,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta para Frutas 3 Niveles Diseño Negro Y+Pap...,S/ 223.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de Tazas con Medidas Multicolor Y+Agendita,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Silicona Delgada Medida 74mm X 26cm 1k 75b Apr...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aqua Recipiente para Bebidas Rosado Y+Papel de...,S/ 46.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Subwoofer Black Hawk 12"" Pulgadas 3500W 1000 R...",S/ 565 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Subwoofer Black Hawk 12"" Pulgadas 3000W 1000 R...",S/ 465 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Subwoofer Black Hawk 12"" Pulgadas 2000W 500 RM...",S/ 300 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Base Termica de Bebidas en Negro Y+Post-it adh...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Dispensador de Vidrio para Bebidas,S/ 99.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cestas para Frutas y Verduras Organizador de 2...,S/ 42.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Tejida Organizadora de Cubiertos de Colo...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta para Papas Fritas de Tono Plateado Y+Pap...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Carrito de Juguete Incluye Frutas y Verduras e...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pack de Frutas con Tabla de Picar Didactico Mu...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babitas para Bebé Pack x4 Algodon Reverso Felp...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babitas Bebé Set x4 Babero Bandana Babita Homb...,S/ 99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babitas para Bebé Algodón Reverso Felpa Pack x...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Babitas para Bebé de Algodón Reverso de Felpa ...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Batidor de Bebida Color Verde Y+Post-it adhesi...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso con Tapa para Bebidas 510ml Verde Y+Stick...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reductora de Medidas Talla L Negro Y+Pape...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reductora de Medidas Talla M Negro Y+Pape...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reductora de Medidas Talla S Negro Y+Pape...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Util Redonda para Reuniones Tejida Marro...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso con Tapa para Bebidas 510ml Rosado Y+Stic...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta para Papas Fritas de Tono Plateado Y+Pap...,S/ 93.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Minimalista Tejida en Color Marron Y+Pap...,S/ 63.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jarra + Vaso moringa para bebidas Con y Sin A...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Picador Multifuncional 5 en 1 de Verduras Frut...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Atractiva y Versatil Tejida en Color Mar...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Vidrio Doble Tapa para Bebidas de Colo...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rebanador para Verduras y Fruta de Cocina Y+St...,S/ 33.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta Atractiva y Versatil para Mesa Tejida Y+...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Zapatera Moderna Mérida Ventitas Home Color Bl...,S/ 599 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Funcional de Bebida Color Naranja Y+Agend...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza Ideal para Bebidas en Transparente Y+Post...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador Rallador Y Picador De Frutas y Verdur...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Caja Organizadora Elegante de Medida 36x24cm e...,S/ 43.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Amar...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Centro de Juego Frutas con Tobogan en Multicol...,S/ 546.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Resistente para Bebidas en Color Rosado Y...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Nara...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Bebidas de Color Transparente Y+Agen...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Canasta de Diseño Trenzado para Frutas Marron ...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escurridor de Frutas Desmontable en Color Blan...,S/ 57.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Golosinas y Bebidas en Celeste Y+Agend...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Canasta Elegante para Frutas en Color Marron Y...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza para Bebidas de Color Transparente Y+Agen...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza para Bebidas en Transparente Y+Post-it ad...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Plataforma Organizadora de Frutas Talla S Blan...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta para Frutas 5 Niveles Diseño Negro Y+Pap...,S/ 316.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juguete de Clasificación de Frutas para Niños,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza Ideal de Bebidas Transparente Y+Post-it a...,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set para Bebidas de Tapa Verde Agua Y+Stickers,S/ 43.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta de Fruta con Ruedas y Patas Tono Negro Y...,S/ 246.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Taza para Bebidas y Dulces en Celeste Y+Post-i...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Funcional de Bebida Color Amarillo Y+Agen...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Multifuncional 2 en 1 para Bebidas y Snac...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pelota Tejida con Cascabel Pet 6cm en Multicol...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Multifuncional para Bebidas y Snacks en T...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Doble Capa para Bebidas 460ML Transparent...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Innovador para Golosinas y Bebida en Cele...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rallador Multiusos Rebanador de Verduras y Fru...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juego de 3 Pinzas de Plástico para Cocina para...,S/ 17 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Golosinas y Bebidas en Rosado Y+Agendi...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bandeja Minimalista para Frutas de Madera Y+St...,S/ 156.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortadora Electrico Papas Fritas al Hilo o Chi...,S/ 949 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Canasta Decorativa Ovalada para Frutas en Marr...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Canasta de Mimbre para Frutas Marron Y+Papel d...,S/ 53.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rebanador Funcional de Agujas para Frutas y Ve...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rebanador de Frutas y Verduras para Cocina Y+A...,S/ 37.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Esterilizador de Frutas y Verduras,S/ 69.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso de Golosinas y Bebida Verde Agua Y+Agendi...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Verd...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Flotador Comodo para Bebitos Color Celeste Y+A...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Joyero Organizador Medida 16x11x5 cm de Color ...,S/ 66.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Frutos Rojos 450gr y 150Gr + Ja...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Frutos Rojos 450gr y 150Gr,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Frutos Rojos + Maracuya + Almen...,S/ 72 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Frutos Rojos + Maracuya + Almen...,S/ 42 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cesta de Cocina Multifunción para Freír Lavar ...,S/ 95 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor Leche Eléctrico Portátil con Manos L...,S/ 429.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Soporte Robocup Olive para Bebidas,S/ 279 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Soporte para Bebidas Táctico Robocup con Corre...,"S/ 1,609 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Soporte para Bebidas Plegable Y Portátil Roboc...,"S/ 1,639 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chupón Alimentador Para Fruta de Bebé 3 en 1 V...,S/ 33.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chupón Alimentador Para Fruta de Bebé 3 en 1 R...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chupón Alimentador Para Fruta de Bebé 3 en 1 N...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Kit de Fondo de Impacto con Fondo de Muselina ...,"S/ 1,549 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Kit de Fondo de Impacto con Fondo de Muselina ...,"S/ 1,369 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera para Ensalada Salad Bentgo Lunch Box ...,S/ 109 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera para Ensalada Salad Bentgo Lunch Box ...,S/ 109 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera para Ensalada Salad Bentgo Lunch Box ...,S/ 209 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo para Bebidas Calientes y Frias 1.9 L,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Chupon Alimentador de frutas para Bebes Azul,S/ 33.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cuchillo Cortador Papas Fritas Onduladas,S/ 12 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pack de 2 Vasos Tomatodo 2 en 1 para Bebidas y...,S/ 28.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 Copas para Capuccino o Bebidas frias ...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Ácido De Fruta Extracto De Melocotó...,S/ 63 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juguete de Peluche Papa Frita,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 14.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set De Ensaladera Belia Ecovidrio X3,S/ 59 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para bebidas con Sensor de Temperatura Co...,S/ 32.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para bebidas con Sensor de Temperatura Co...,S/ 35 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de mini tenedores reutilizables para fruta...,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Ácido De Fruta Extracto De Melocotó...,S/ 46 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Ácido De Fruta Extracto De Melocotó...,S/ 24.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pelador de Frutas y Verduras Generico Negro,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pelador de Verduras y Frutas Generico con Cont...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set De Ensaladera Belia Ecovidrio X3,S/ 49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set De Ensaladera Belia Ecovidrio X3,S/ 79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Don Fermin Veggie Pet Tuberculos y Frutas Pet ...,S/ 23 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Rojo para tus Bebidas de...,S/ 28.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Blanco para tus Bebidas ...,S/ 28.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Azul para tus Bebidas de...,S/ 28.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Llanta para Moto Aro 10 sin cámara - Medida 90...,S/ 150 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,The Magic Tap - Dispensador Automático de Bebi...,S/ 175 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Llanta para Moto Aro 12 Marca CST - Medida 100...,S/ 250 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tijera de poda 8 cuchilla de paso cosecha de f...,S/ 23.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termometro Cocina Alimento Digital Comida Carn...,S/ 12.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vibro Apisonadora Motor Honda GX 160 Modelo SG...,"S/ 4,100 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bifida Biome Essence 50ml Tocobo,S/ 125 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 2 Copas para Capuccino o Bebidas Frias ...,S/ 23 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Llanta para Moto Aro 11 Marca CORDIAL - Medida...,S/ 250 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Llanta para Trimoto Electrica aro 8 sin camara...,S/ 140 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Subwoofer 7 Power 12 Pulgadas 1000W 2 Bobina 5...,S/ 300 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,LEGO 10982 Tractor de Frutas y Verduras,S/ 159 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Dispensador de Bebidas de Vidrio 8 Litros + So...,S/ 129.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Pectopropol Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Diabexan Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Noni Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Escritorio Belinda La Casa del Mueblero Blanco,S/ 719.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Estomas Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Biofem Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Sabila Aloe Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Noni y Graviola Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Noni y Sabila Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Sabila y Nopal Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Fibra Mass Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Zinc Stress Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Oje de Fitosana 250cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Matico con Platano Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Alcachofa y Nopal Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Colioxan Forte Fitosana 600cc,S/ 35 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida con Chancapiedra Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Fitoprost Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Higasol Fitosana 600cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bebida Saviax con Platano Fitosana 250cc,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bifida Biome Essence 50ml Tocobo 3 Unidades,S/ 339 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Bifida Biome Essence 50ml Tocobo 2 Unidades,S/ 238 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 2 Copas para Capuccino o Bebidas Frias ...,S/ 23 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exprimidor de Frutas Inalámbrico Recargable,S/ 82 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas para N...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas para N...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas para N...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Infant...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sett de 2 tazas para Capuccino o Bebidas frias...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sett de 6 tazas 350ml de vidrio Capuccino o Be...,S/ 48 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 vasos para whisky o bebidas capa.10 o...,S/ 34 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 vasos para whisky o bebidas capa.300m...,S/ 34 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 Copas para Capuccino o Bebidas frias ...,S/ 48 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sett de 2 tazas para Capuccino o Bebidas frias...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 vasos para whisky o bebidas capa.10 o...,S/ 34 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 vasos para whisky o bebidas capa.300m...,S/ 34 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 Copas para Capuccino o Bebidas frias ...,S/ 48 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 2 Recipientes de Conservación de Frutas...,S/ 44 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 4 Recipientes de Conservación de Frutas...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Pinzas para Servir Ensalada de Acero Inoxidabl...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Ensaladas de Frutas Cereales Naranja...,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Rosado para tus Bebidas ...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Blanco para tus Bebidas ...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Inteligente Led Rojo para tus Bebidas de...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Trituradora de Papas Fritas de Acero Inoxidabl...,S/ 36.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Comida Para Perro Naturo Pavo Con Frutas Y Veg...,S/ 17.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Comida Para Perro Naturo Pato Con Frutas Y Veg...,S/ 17.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Comida Para Perro Naturo Pollo Frutas Y Vegeta...,S/ 17.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rompecabezas Ricordi Canasta De Frutas Fernand...,S/ 51.94 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Snackeez- Vaso 2 en 1 para Bebidas y Snacks - ...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Snackeez- Vaso 2 en 1 para Bebidas y Snacks - ...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aguja Singer Punta Bola 2045 Varias Medidas Ki...,S/ 79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,25 Bobinas Carretes Carretel de Hilos para Maq...,S/ 46 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Botas Mosqueteras Sobre Rodilla Bobina Cuerina...,S/ 237 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Micrófono de Mano Dinámico de Bobina Móvil Pyl...,S/ 279 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Micrófono de Mano Dinámico de Bobina Móvil Pyl...,S/ 249 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Zapatos Taco Ankle Strap Bobina Cruzado Mujer ...,S/ 124 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Conservador de Temperatura de Agua y Beb...,S/ 65 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Conservador de Temperatura de Agua y Beb...,S/ 39 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Conservador de Temperatura de Agua y Beb...,S/ 65 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Facial Frutos del Bosque Nevada 283...,S/ 42 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,2 Estuches con 50 Carretel Bobinas de Plástico...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Soporte con Clip para Bebidas,S/ 24.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Termo Conservador de Temperatura de Agua y Beb...,S/ 65 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colchón de Cuna Baby King Celeste Medida Espec...,S/ 229.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colchón de Cuna Baby King Plomo Medida Especia...,S/ 229.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Colchón de Cuna Baby King Rosado Medida Especi...,S/ 229.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rompecabezas De Madera De Frutas Para Cortar,S/ 57.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Táper Mezclador de Ensaladas Yogurt Cere...,S/ 84.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Facial Frutos del Bosque Nevada 283...,S/ 114 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Exfoliante Facial Frutos del Bosque Nevada 283...,S/ 80 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,"Bicicleta de Ruta Trinx Tempo 1.1 700CC 46""","S/ 1,019 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,PACK Faja Reloj de Arena 5 Varillas Reduce Med...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,PACK Faja Reloj de Arena 5 Varillas Reduce Med...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,PACK Faja Reloj de Arena 5 Varillas Reduce Med...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,PACK Faja Reloj de Arena 5 Varillas Reduce Med...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,PACK Faja Reloj de Arena 5 Varillas Reduce Med...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Reloj de Arena 5 Varillas Reduce Medidas ...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 50.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Velo Facial Frutos del Bosque y Acido Hialuron...,S/ 123 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Velo Facial Frutos del Bosque y Acido Hialuron...,S/ 86 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Velo Facial Frutos del Bosque y Acido Hialuron...,S/ 45 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 75 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Faja Body Reloj de Arena Reduce Medidas Talla ...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de Palitos para Fruta Animalitos -Cactus,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera para Ensalada Bentgo Salad Bento Lunc...,S/ 119 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Polo Camiseta Tejida con Botón Delantero,S/ 49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,25 Carretel Bobinas de Metal para Máquina de C...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,100 Carretes Carretel Bobinas de Plástico para...,S/ 69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador Rebanador de Frutas y Verduras - Ver...,S/ 29 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador Rebanador de Frutas y Verduras - Nar...,S/ 29 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tocador con Espejo y Luces Belinda color Blanc...,"S/ 1,309.99 un",plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Rompecabezas Montessori Con Temática De Frutas,S/ 37.55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Organizador con 25 Carretes Carreteles Colores...,S/ 46 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Carretel Carretes Bobina de Metal Estuche con ...,S/ 46 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Cesto de Frutas Triangular de 3 Niveles ...,S/ 79.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Cesto de Frutas Triangular de 3 Niveles ...,S/ 140.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Cesto de Frutas Triangular de 3 Niveles ...,S/ 82.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Cesto de Frutas Triangular de 3 Niveles ...,S/ 129.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Contenedor Organizador de Frutas y Verduras Re...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Contenedor Organizador de Frutas y Verduras Re...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 32.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 32.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Lonchera de Frutas Alimentos para Niños ...,S/ 36.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Aguja Magica de Bordado Chino Ruso 3 Medidas P...,S/ 69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,100 Carretes Carretel Bobina Metálico para Maq...,S/ 85 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Sett de 2 tazas 600ml de vidrio Capuccino o Be...,S/ 28 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 1 taza 440ml con plato de vidrio Capucc...,S/ 26 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Lonchera Fiambrera Termica de Alimentos y Bebi...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Circuito Didáctico Espacial con Formas Números...,S/ 48.55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Contenedor Organizador de Frutas y Verduras Re...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juego de Palillos Dinosaudio Mini Tenedores pa...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Contenedor Organizador de Frutas y Verduras Re...,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador de Papas Fritas Multifuncional,S/ 43.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Tabla para Picar Modelo de Frutas + Set ...,S/ 90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,MASCARILLA FACIAL DE FRUTOS DEL BOSQUE NEVADA,S/ 57.05 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Ambientador de Hogar Cien Fragancias Mikado Co...,S/ 60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set Cuenco de Silicona con Cuchara + Set de Mo...,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set Cuenco de Silicona con Cuchara + Babero de...,S/ 59.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set Cuenco de Silicona con Cuchara + Set de Mo...,S/ 52.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Táper Mezclador de Ensaladas Yogurt Cereales c...,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,60 Hilos de Coser Hilos Tubino Bobinas de Hilo...,S/ 129 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Aclara-T Frutos Rojos 150gr,S/ 12 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,2 Porta Bobinas para Máquina Coser Recta Indus...,S/ 56 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Frutos Rojos Aclara-T 450g + Ja...,S/ 25 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Aclara-T Frutos Rojos 450gr 3 U...,S/ 51 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Aclara-T Frutos Rojos 450gr,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Aclara-T Frutos Rojos 150gr 3 U...,S/ 30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Crema Corporal Aclara-T Frutos Rojos 150gr 2 U...,S/ 22 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Disfraz Disney Store Princesa Mérida Valiente,S/ 289 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Portavasos para Auto Soporte para Botella Café...,S/ 59 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Parlante Subwoofer Rock Series Doble Bobina 15...,S/ 374.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortadora y Rebanadora de Frutas y Verduras Ma...,S/ 700 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 6 Copas para Capuccino o Bebidas frias ...,S/ 48 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set de 2 Copas para Capuccino o Bebidas Frias ...,S/ 23 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juego de Mesa Ruleta Shots para Bebidas Favori...,S/ 56.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Jabón Líquido Corporal Circe Frutos del Bosque...,S/ 55 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Ensalada Azul,S/ 18.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Ensalada Blanco,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Fuente De Poder Doble Bobina Micro Atx 600w Ha...,S/ 74 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Juki Ddl 8700 Ddl8100 Carretes Prensatelas de ...,S/ 119 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,24 Carrete Carretel Bobina para Maquina Indust...,S/ 44 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Organizador Contenedor de Alimentos Frutas 3 D...,S/ 29.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,DHA sabor a frutas Now Foods x 60 cápsulas,S/ 130 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Set De Mini Tenedores Decorativos Para Frutas ...,S/ 34.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tomatodo Paleta Frutas 320 ml,S/ 34.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Ensalada Fucsia,S/ 19.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Vaso para Ensalada Verde,S/ 18.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Agujas Crochet Tejido Set 22 Piezas Acero Inox...,S/ 79 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Máquina para hacer Helados de Frutas,S/ 130.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Licuadora Mezcladora Portátil + Máquina ...,S/ 149.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Extractor de jugos 2000 W para Frutas enteras ...,S/ 269 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Organizador de Platos y Utensilios de Co...,S/ 179.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Tabla para Picar Modelo de Frutas,S/ 25 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Condimentero de 12 Piezas + Tabla para P...,S/ 120 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Tabla para Picar Modelo de Frutas + Disp...,S/ 39.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Combo Tabla para Picar Modelo de Frutas + Disp...,S/ 58 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335
+,Cortador de Frutas y Verduras 14 en 1,S/ 49.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-04 01:36:10.490335

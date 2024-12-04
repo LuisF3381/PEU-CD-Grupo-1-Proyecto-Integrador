@@ -51,7 +51,7 @@ def generar_opts():
     proxy = random.choice(proxies)
     #opts.add_argument(f'--proxy-server={proxy}')
     #opts.add_argument("--headless=new")
-    
+    opts.add_argument("--window-size=800,600")
     # Configuraciones adicionales de seguridad
     opts.add_argument("--disable-blink-features=AutomationControlled")
     opts.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -64,8 +64,8 @@ def generar_opts():
 
 # Obtener la ruta absoluta del archivo
 current_dir = os.path.dirname(__file__)  # Directorio actual del script
-config_path = os.path.join(current_dir, 'config_websites', 'metro.xml')
-output_path = os.path.join(current_dir, 'data', 'raw','metro')
+config_path = os.path.join(current_dir, 'config_websites', 'plaza_vea.xml')
+output_path = os.path.join(current_dir, 'data', 'raw','plaza_vea')
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')
 
 
@@ -99,7 +99,7 @@ def scrape_term(termino):
         
         # Intentar scraping
         raw_data_file = scraper.scrape_and_save(
-            'metro',
+            'plaza_vea',
             termino,
             output_path
         )

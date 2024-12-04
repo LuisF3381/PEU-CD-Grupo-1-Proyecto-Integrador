@@ -1,0 +1,986 @@
+unit,description,price,website,search_term,scrape_timestamp
+Bidón 7L,Agua sin Gas CIELO Bidón 7L,S/ 6.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 200g,Aguaymanto Pelado BELL'S Bandeja 200g,S/ 4.29 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 20L,Agua sin Gas CIELO Caja 20L,S/ 23.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Presentación 0.9 kg aprox.,Hígado de pollo Empacada al vacío SAN FERNANDO,S/ 8.90 x kg,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 6un,Agua sin Gas CIELO Botella 2.5L Paquete 6un,S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 250g,Ajos Pelados EL SABOR Arequipeños Bandeja 250g,S/ 9.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 6un,Agua sin Gas CIELO Botella 625ml Paquete 6un,S/ 6.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 3Kg,Hielo BELL'S Bolsa 3Kg,S/ 5.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 15un,Agua CIELO Kids Botella 200ml Paquete 15un,S/ 9 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 850ml,Shampoo HEAD & SHOULDERS 2 En 1 Suave Y Maneja...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 125g,Papas al Hilo BELL'S Bolsa 125g,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 2.5L,Agua sin Gas CIELO Botella 2.5L,S/ 2.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Casa de Navidad DECO HOME C/Luz Nav Del Cielo,S/ 5.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 180g,Piqueo BELL'S Maní salado Bolsa 180Gr,S/ 4.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Chocochips Cremoso P...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 60g,Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Tricolor Cremoso Pot...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 80g,Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 24un,Agua sin Gas CIELO Botella 350ml Paquete 24un,S/ 15 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 850ml,Shampoo HEAD & SHOULDERS Limpieza Renovadora C...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Lata 330g,Comida para Gatos RICOCAT Adultos Paté Hígado ...,S/ 6 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Chocolate Cremoso Po...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Limpieza Renovadora Frasco 375ml,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Árbol Nevado DECO HOME 180cm 600 Ramas,S/ 119.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 450g,Fideos Tallarín Delgado NICOLINI Bolsa 450g,S/ 3.60 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo Head & Shoulders Anti-Comezón Frasco 3...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 6un,Agua sin Gas CIELO Alcalina Botella 650ml Paqu...,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Lúcuma Cremoso Pote ...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 150g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,S/ 5 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 155g,Papas al Hilo LAY'S Bolsa 155g,S/ 6.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 850ml,Shampoo HEAD & SHOULDERS Protección Caída con ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 1L,Agua sin Gas CIELO Tapa Sport Botella 1L,S/ 2.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 250g,Chifles Salados CRICKETS Bolsa 250g,S/ 11.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 500g,Fideos NICOLINI Tallarín Delgado Bolsa 500g,S/ 3.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 220g,Piqueo BELL'S Papas al hilo Bolsa 220Gr,S/ 8.29 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Lata 330g,Comida para Gatos RICOCAT Adultos Paté Pavo e ...,S/ 6.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Táper 100g,Nueces Peladas BELL'S Táper 100g,S/ 9.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 100g,Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.2L,Helado D'ONOFRIO PEZIDURI Choco Lúcuma Pote x ...,S/ 21.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 500g,Chifle Salado VILLA NATURA Bolsa 500g,S/ 16.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 250g,Ajo Entero BELL'S Pelado Bandeja 250g,S/ 14.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Suave y Manejable 2en1 Frasco 375m...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental ORAL B Essential Paquete 50m,S/ 12.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Men Old Spice Frasco 375ml,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 850ml,Shampoo HEAD & SHOULDERS Men Con Old Spice Con...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.2L,Helado D'ONOFRIO PEZIDURI Chocochips Pote x 2....,S/ 21.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental COLGATE Mint x50mts,S/ 13.10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 250g,Papas al Hilo VILLA NATURA Bolsa 250g,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 216ml,Helado Bombones D'ONOFRIO Pote 18 un,S/ 13.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Vainilla Cremoso Pot...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 100g,Piqueo BELL'S Nueces peladas Bolsa 100Gr,S/ 10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 10un,Helados D'ONOFRIO Mini Sandiwch Caja 10un,S/ 20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO con Trozos de Maní SUBLIME Po...,S/ 18.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Táper 100g,Piqueo BELL'S Chifles Salados Táper 100g,S/ 3.79 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental JOHNSON & JOHNSON Reach Menta Paqu...,S/ 14.80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 200g,Fudge para Helados y Postres BAZO VELARDE Doyp...,S/ 4.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 220g,Piqueo BELL'S Chifles salados Bolsa 220Gr,S/ 7.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 50un,Hilo Dental ORAL-B Expert SuperFloss Paquete 5...,S/ 16.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Fresa Cremoso Pote 9...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Men con Old Spice Con...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 500g,Papas al Hilo VILLA NATURA Bolsa 500g,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS 2 en 1 Suave y Maneja...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 150g,Piqueo VILLA NATURA Chifles salados Bolsa 150G...,S/ 5 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Protección Caída Fras...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Casa de Navidad DECO HOME Nav Del Cielo,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Táper 100g,Pecanas Peladas BELL'S Táper 100g,S/ 13.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 500g,Chifles Salados CRICKETS Bolsa 500g,S/ 21.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 200g,Maní KARINTO Engalletado Salado Bolsa 200g,S/ 7.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 520ml,Helado D'ONOFRIO FRÍO RICO Multipack Vainilla ...,S/ 19.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 284g,Mix de Papas Nativas TIYAPUY Bolsa 142g + Chif...,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Acqua 2 Plazas + Velador Mela...,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado SIVIERO MARIA Cioccolatissimo Chocolate...,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 625ml,Agua de Mesa CIELO con Gas Botella 625ml,S/ 1.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 3Kg,Hielo Kold Draft ARTISAN Bolsa 3kg,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador VIVA HOME Miami Blanco,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1L,Shampoo HEAD & SHOULDERS Coco Frasco 1L,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 80g,Piqueo VILLA NATURA Nueces peladas Bolsa 80Gr,S/ 8 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 454g,Langostinos Pelado y Desvenado Grandes SANTA P...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado BELL'S Chocolate Pote 511g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO con Trozos de Galleta SANDWIC...,S/ 18.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 936g,Min Pao Salado DELIFREEZE Bolsa 12 un,S/ 19.89 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 1un,Torta Helada de Fresa Chica LA FLORENCIA 1un,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 100un,Toallitas Húmedas TUINIES Hello Kitty Paquete ...,S/ 10.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 142g,Chifle Salado TIYAPUY Bolsa 142g,S/ 6.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado SIVIERO MARIA Ciock Menta Pote 1L,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo Head & Shoulders Anti-Comezón Frasco 6...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 220g,Barquillos de Chocolate MOROCHAS Stick Caja 22...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Frio Rico Crocante Café Pote ...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador VIVA HOME Miami,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 300ml,Acondicionador H&S Hidratación Frasco 300ml,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 80g,Cashews Salados VILLA NATURA Bolsa 80g,S/ 8 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Manzana Fresh Frasco 375ml,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Aceite de Coco Frasco...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental REACH Menta Caja 100m,S/ 21 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pack Shampoo Head & Shoulders Anti-Comezon Fra...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 100g,Maní KARINTO Engalletado Salado Bolsa 100g,S/ 4.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Leche Asada Personal LA FLORENCIA Envase 1un,S/ 4.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 250g,Chifles Salados VILLA NATURA Bolsa 250g,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 50g,Piqueo BELL'S Chicharrón de Trigo Salado Bolsa...,S/ 2.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Protección Caída con ...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Frio Rico Crocante Fresa Pote...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental COLGATE Total 12 x 25mts,S/ 13.10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 1un,Torta Helada de Fresa Mediana LA FLORENCIA,S/ 53.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Blíster 1un,Hilo Dental con Menta BALANZÉ BASICOS Blíster ...,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 180g,Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pack 2un,Pack Shampoo HEAD & SHOULDERS Limpieza Renovad...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 650ml,Agua sin Gas CIELO Alcalina Botella 650ml,S/ 1.80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Frio Rico Crocante Caramelo y...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado BELL'S Lúcuma Chips Pote 516g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 300ml,Acondicionador HEAD & SHOULDERS Revitalización...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 550g,Fudge para Helados y Postres BAZO VELARDE Fras...,S/ 17.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 280g,Helado MY MOCHI Cookies & Cream Caja 280g,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado SIVIERO MARIA Caramello Salato Pote 1L,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Hidratación Aceite de...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 180ml,Shampoo H&S Suave y Manejable 2en1 Frasco 180m...,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1.27Kg,Helado BELL'S Vainilla Chips Pote 1.28Kg,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 150g,Chifles KARINTO Salado Bolsa 150g,S/ 9 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 113g,Colado AGÚ Sabor a Plátano Doypack 113g,S/ 3.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Limpieza y Revitaliza...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Fruta Mixtas Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 511g,Helado BELL'S Trisabor Pote 511g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador VIVA HOME Miami Avellana,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 280g,Helado MY MOCHI Double Chocolate Caja 280g,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Purificación Capilar ...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 100g,Maní KARINTO Salado Bolsa 100g,S/ 4.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 90g,Nuez Pelada VALLEALTO Bolsa 90g,S/ 9.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Men Anticaspa3 en 1 F...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Masas PLAY DOH F3614 Set de Dulces Y Helados M...,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Envase 100gun,Ensalada Mix Personal BELL'S FRESCOS Envase 10...,S/ 5.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,D'Onofrio Helado ALASKA Maracumango Pote 900ml,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado NESTLE Kit Kat Triple Layers Pote x 900...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 500ml,Helado de Chocolate ZUBZERO Pote 500ml,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado SIVIERO MARIA de Pistacchio Pote 500g,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Táper 140g,Piqueo BELL'S Maní Frito Salado Táper 140g,S/ 4.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 12un,Preservativos DUREX Sensitivo Delgado Caja 12u...,S/ 34.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 300g,Langostino Crudo Pelado PESCANOVA Bolsa 300g,S/ 22.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1L,Shampoo HEAD & SHOULDERS Carbón Activado Frasc...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado SIVIERO MARIA Limone di Sicilia Pote 1L,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado + Mouse MICRONICS Micrteclmouusb Cyb E...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Melocotón Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Lata 400g,Tomate Entero Pelado CIDACOS Lata 400g,S/ 4.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO con Chocolate y Trozos de Gal...,S/ 18.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 5un,Helado Multipack KITKAT Caja 5un,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Frutas Tropicales Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Limpieza Renovadora C...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1.27Kg,Helado BELL'S Trisabor Pote 1.27Kg,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 135g,Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Arreglo Clásico DECO HOME Nevado Nav Dl Cie,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado BELL'S Vainilla Chips Pote 516g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 625ml,Agua de Mesa CIELO Sin gas Botella 625ml,S/ 1.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador VIVA HOME 3 Cajones Buriti,S/ 219 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Blíster 45un,Hilo Dental ORAL-B Expert Floss Picks Sabor a ...,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Crayones Delgados CLASS&WORK Paquete 12un,S/ 1.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 300ml,Cera en Pasta TEKNO Neutral Sellado Doypack 30...,S/ 8.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1000ml,Shampoo Head & Shoulders Anti-Comezón Frasco 1...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Pera Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Limpieza Renovadora 2en1 Frasco 37...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 920ml,Helado D'ONOFRIO PEZIDURI Choco Brownie Pote x...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.67Kg,Helado BELL'S Trisabor Pote 2.67Kg,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa GREENSIDE Dome 4 Personas,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 280g,Helado MY MOCHI Dulce de Leche Caja 280g,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Limpieza y Revitaliza...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1000ml,Shampoo HEAD & SHOULDERS Aceite de Argán Limpi...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 90g,Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 180ml,Shampoo HEAD & SHOULDERS Limpieza Renovadora C...,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Carbón Activado Frasc...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Fuxia SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN-DAZS de Chocolate Belga Pote 473...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado de Tiramisú BELL'S SELECCIÓN Pote 500g,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 98g,Maní Tostado y Pelado TOÑA Bolsa 98g,S/ 4.80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 280g,Helado MY MOCHI Vanilla Bean Caja 280g,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Ciruela y Pasas Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado SIVIERO MARIA Croccantino al Cioc Pote ...,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 1.5L,Helado Tornado de Chocolate y Vainilla D'ONOFR...,S/ 29.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 320g,Lasaña Personal LA FLORENCIA 290g,S/ 10.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Helado SIVERIO MARIA Cappuccino Pote 1L,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 300g,Helado Tabletas de Dulce de Leche FREDDO Caja ...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado SIVIERO MARIA Affogato al Cioccolato Po...,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 500ml,Helado de Lúcuma ZUBZERO Pote 500ml,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Alfajor Pote 900ml,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Mod SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bandeja 8un,Quinua Barquillos Bandeja 8un,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 1.5Kg,Hielo Pile ARTISAN Bolsa 1.5Kg,S/ 5.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 113g,Colado de Frutas Tropicales AGÚ Doypack 113g,S/ 3.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 300g,Salsa Pizza HELIOS sin Gluten Frasco 300g,S/ 14.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pack 555ml,Shampoo H&S Protección Caída Pack 375 + 180ml,S/ 25.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Dermo Sensitive Extra...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego Didáctico Cara De Papa Nuevo Sr. Cara De...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit HP Teclado Gamer + Mouse GK1100,S/ 99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pack 2un,Pack HEAD & SHOULDERS Shampoo Aceite de Argán ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bowl Pop Corn Redondo Personal VIVA HOME,S/ 3.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1.27Kg,Helado BELL'S Lúcuma Chips Pote 1.28Kg,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado Stracciatella BELL'S SELECCIÓN Pote 500...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo HEAD & SHOULDERS Dermo Sensitive Frasc...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 25un,Toallas Húmedas HELLO KITTY Paquete 25un,S/ 2.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1L,Shampoo HEAD & SHOULDERS Fuerza de Raíz Frasco...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Snack para Perros NATURAL HOME Todas las Etapa...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado D'ONOFRIO Peziduri Cheesecake Pote 900m...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 142g,Camote Salado TIYAPUY Bolsa 142g,S/ 6.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Shampoo HEAD & SHOULDERS Limpieza Renovadora F...,S/ 13.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Shampoo HEAD & SHOULDERS Limpieza Renovadora F...,S/ 13.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 50g,Mezcla en Polvo para Helado Diet UNIVERSAL Lúc...,S/ 4.80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 420ml,Helado HÄAGEN DAZS Macaron Doble Chocolate Gan...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 280g,Mermelada HELIOS Fresa Dulce Diet Frasco 280g,S/ 22.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Cocktail de Frutas Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.67Kg,Helado BELL'S Vainilla Chips Pote 2.70 Kg,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500ml,Helado BELL'S Trisabor Pote 247g,S/ 4.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN DAZS Dulce de Leche Pote 473Ml,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 100ml,Helado HÄAGEN DAZS Chocolate Belga Pote 100ml,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN-DAZS de Cheesecake de Fresa Pote...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 15un,Protectores Diarios KOTEX Ultra Delgado Paquet...,S/ 3.60 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pack 2un,Pack Shampoo HEAD & SHOULDERS 2 en 1 Suave y M...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Paquete 1un,Hilo Dental COLGATE Natural Extracts Carbón x2...,S/ 13.10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Manzana Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 1.5L,Helado Vialetto Deleite de Lúcuma D'ONOFRIO Ca...,S/ 22.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 300g,Helado Tabletas de Chocolate Tentación FREDDO ...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Men 3 en 1 Control Ca...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado al Bacio BELL'S SELECCIÓN Pote 500g,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 350g,Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 125g,Piqueo BELL'S Chifles salados Bolsa 125Gr,S/ 4.59 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador DECO HOME Nordico,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador DECO HOME 3 Cajones Dublin,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 280g,Mermelada HELIOS Arándanos Dulce Diet Frasco 2...,S/ 22.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado HEINZ Postre de Frutas Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 113g,Colado AGÚ Sabor a Manzana Doypack 113g,S/ 3.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 454g,Langostino Pelado y Desvenado Jumbo SANTA PRIS...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 500ml,Helado de Chocolúcuma ZUBZERO Pote 500ml,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 1000ml,Shampoo HEAD & SHOULDERS Dermo Sensitive Frasc...,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Envase 50un,Hilo Dental con Mango KIRUFLOSS Paquete 50un,S/ 18.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 100ml,Helado HÄAGEN DAZS Mini Vanilla Caramel Browni...,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado AGÚ Frutas Tropicales Frasco 113g,S/ 3.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador POLINPLAST Smart N°3,S/ 79.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.67Kg,Helado BELL'S Lúcuma Chips Pote 2.70Kg,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN DAZS de Fresa Pote 473ml,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500g,Helado Crema di Firenze BELL'S SELECCIÓN Pote ...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa GREENSIDE Dome 6 Personas,S/ 79.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sandalias Comfort Calados Mujer SINGULAR,S/ 26.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Shampoo HEAD & SHOULDERS Suave y Manejable 2 e...,S/ 13.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Brief Planner 2025 Hello Kitty DGNOTTAS,S/ 44.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bowl Pop Corn Cuadrado Personal VIVA HOME,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Bolas DECO HOME 8cm 9un Dl Cielo,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 35g,Pistachos WONDERFUL Tostados y Salados Bolsa 3...,S/ 10.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno DECO HOME Estrella de Navidad Dl Cielo,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Mint SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado LOGITECH + Mouse MK120 USB Negro,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 50g,Mezcla en Polvo para Helado Diet UNIVERSAL Cho...,S/ 4.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno DECO HOME Corona Nav Nav Del Cielo,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 300g,Helado Tabletas de Crema Americana FREDDO Caja...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Táper 350g,Barquillo con Crema de Castaña LA IBÉRICA Tápe...,S/ 36.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 100ml,Helado HÄAGEN DAZS Dulce de Leche Pote 100ml,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno DECO HOME Nacimiento 7 Personas 17cm Ca...,S/ 28.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeco Mph Mr POTATO HEAD,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado de Frutas Criollas HEINZ Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Lata 155g,Barquillos Rellenos PIRUCREAM Lata 155g,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN DAZS de Vainilla Caramelo y Brow...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN-DAZS de Café Pote 473ml,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Enc SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Encaje SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Molde para Helado DECO HOME Surtidos,S/ 6.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plumones VINIFAN Happy 45 Estuche 12un,S/ 5.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 100ml,Helado HÄAGEN DAZS Mini Cookies & Cream Pote 1...,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera + Veladores VIVA HOME Castaño,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 50g,Mezcla en Polvo para Helado Diet UNIVERSAL Vai...,S/ 4.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete POTATO HEAD F3245,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 500ml,Helado de Vainilla ZUBZERO Pote 500ml,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit LOGITECH Teclado + Mouse MK470 Negro,S/ 199 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado de Banana HEINZ Frasco 113g,S/ 4 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 650ml,Shampoo HEAD & SHOULDERS Crece Fuerte desde la...,S/ 30.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty SQUISHMALLOWS de 20cm,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pelador FACUSA,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 113g,Colado AGÚ Melocotón Frasco 113g,S/ 3.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 180g,Papas al Hilo BUCKY Bolsa 180g,S/ 7.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN-DAZS de Vainilla Pote 473ml,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pack 2un,Pack HEAD & SHOULDERS Aceite de Argán: Shampoo...,S/ 25.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 473ml,Helado HÄAGEN DAZS de Crema y Galletas Pote 47...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Estuche GELATTI Maquillaje Med Hello Kitty,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 24un,Cubos de Hielo ARTISAN 40mm Doypack 24un,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 100g,Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 13.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 50g,Mezcla en Polvo para Helado Diet UNIVERSAL Fre...,S/ 4.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Portavela DEO HOME De 3 Nav Del Cielo,S/ 18.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trusa Hilo Coral SINGULAR,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 375ml,Shampoo H&S Crece Fuerte desde la Raíz Frasco ...,S/ 18.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Lata 92g,Barquillos PIROULINE Rellenos de Chocolate Haz...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 133g,Comida para Perros PETS REPUBLIC Adulto Hígado...,S/ 22.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador DECO HOME 2 Cajones Napoles,S/ 129 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 50g,Mezcla en Polvo para Helado Diet UNIVERSAL Mar...,S/ 4.80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Molde P/ Hielo DECO HOME Divertida Surtido,S/ 5.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuchara para Helado FACUSA Elegant Mp/Negro,S/ 13.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Camion de Helados 17668 BLUEY,S/ 124.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 2.67Kg,Helado BELL'S Chocolate Pote 2.67Kg,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 100ml,Helado HÄAGEN DAZS Fresa Pote 100ml,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 15un,Esferas de Hielo ARTISAN 50mm Doypack 15un,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 6un,Esferas de Hielo ARTISAN 65mm Caja 6un,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa GREENSIDE Dome 2 Personas (Modelos Aleat...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuchara de Helados ILKO Acero,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Papel de Regalo Rollo Hello Kitty DREGALOS,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 500ml,Helado de Fresa ZUBZERO Pote 500ml,S/ 16.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Vaso 375g,Helado FREDDO Chocolate Doble Tentación Vaso 3...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 1L,Queso Helado EL ROCOTO Pote 1L,S/ 42.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Figura Kuromi,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuchillo Pelador ILKO Negro,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY de 20 cm HKT0017,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chalas Moda Helado Niña EUREKA,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pack X5 Figuras Aniversario 50Años Hello ty An...,S/ 129.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Mph Mrs POTATO HEAD,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 300ml,Jabón Líquido TUINIES Hello Kitty Frasco 300ml,S/ 17.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty Halloween Asst SQUISHMALLO...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Juego DISNEY FROZEN Castillo de Hielo E...,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figuras HELLO KITTY and Friends Pack 6un HKT01...,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Blíster 10un,Hilo Dental ORAL-B Expert Interdental Blíster ...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cacahuates Salados SALYSOL Lata 250g,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figuras de Colección HELLO KITTY and Friends P...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Pocket Negro Hiromi 2 Plazas ...,"S/ 1,379 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 227g,Pistacho Tostado y Salado WONDERFUL Bolsa 227g,S/ 45.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 145g,Alcaparras en Vinagre sin Gluten HELIOS Frasco...,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit LOGITECH Teclado + Mouse MK295 Negro,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pinza para Hielo TRAMONTINA Utility Blíster 1u...,S/ 10.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pinza para Hielo FACUSA 17.5cm,S/ 7.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Software MICROSOFT 365 Personal,S/ 219 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Cesena FORLI Boreal SS Pocket 2 Plz...,"S/ 1,669 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Cesena FORLI Boreal SS Pocket Queen...,"S/ 1,989 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tablet MR. POTATO HEAD K73,S/ 299 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuchara para Helado VIVA HOME (Modelos Aleator...,S/ 5.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plumones VINIFAN Happy 45 Estuche 24un,S/ 13.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 500ml,Helado BELL'S Vainilla Chips Pote 250g,S/ 4.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bloques de Construcción BUILD ME UP MAXI Tiend...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio EL CISNE Easy 2 Plazas Incluye Cabe...,"S/ 1,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pelador de Verduras ILKO Clásico Vertical,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Escena My Melody,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Playhouse HELLO KITTY Kuromi,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Figura,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio My Melody Cupcake,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Playhouse HELLO KITTY My Melody,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Escena Kuromi,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rompecabezas HELLO KITTY Sanrio 3D My Melody,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Playhouse HELLO KITTY,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Playhouse HELLO KITTY Cinamonroll,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Cupcake Kuromi,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Cupcake,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY Sanrio Escena,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Armable HELLO KITTY My Melody,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rompecabezas HELLO KITTY Sanrio 3D,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY 20CM HKT0088 (Modelos alea...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 900ml,Helado FRIO RICO Maracuyá Pote 900ml,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Play Mochila Kuromi Hello Kitty 50 años SCOOL,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno DECO HOME Gnomo Surtido Navidad Del Cie...,S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Colgante DECO HOME Surtido Nav Del Cielo,S/ 4.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Portavela DEO HOME Doble Nav Del Cielo,S/ 13.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 200ml,Shampoo en Seco URBAN CARE Hello Cherry Berry ...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Botella PP Infantil Hello Kitty SCOOL 300ml,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Plato con division Hello Kitty SCOOL,S/ 32.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Aniversario 50 Años HELLO KITTY 20cm,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 Personas Tayrona Ii NATIONAL GEOG...,S/ 329.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 6 Personas Kootenay Vi Azul NATIONA...,"S/ 1,199.90 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pack X8 Figuras Hello ty And Friends HELLO KIT...,S/ 109.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Llavero Hello ty Asst Squishmallows HE...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Paleta Llavero Asst Hello ty And Frien...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figura Asst Hello ty And Friends HELLO KITTY 1...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Navidad Hello ty Asst B Squishmallows ...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Navidad Hello ty Asst A Squishmallows ...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Aniversario 50Años Hello ty And Friend...,S/ 94.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador VIVA HOME Amelie 55cm,S/ 99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Play Mochila Hello Kitty 50 Años SCOOL,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mochila Kids Tela Pvc Hello Kitty_b SCOOL,S/ 56.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mochila Kids Tela Pvc Hello Kitty_a SCOOL,S/ 56.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Play Lonchera Hello Kitty 50 Años SCOOL,S/ 79.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Americano PARAISO Lifestyles Pocket...,"S/ 1,129 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Americano PARAISO Lifestyles Pocket...,S/ 869 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mario Kart Personajes con Glider HOT WHEELS,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polo Hello SunShine Básico BABY EUREKA,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche SQUISHMALLOWS Personajes Harry Potter ...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 1.035L,Gaseosa Personal SABOR DE ORO Botella 1.035L,S/ 3.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 100ml,Helado de Vainilla HÄAGEN DAZS Pote 100ml,S/ 11.49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Multimedia Bluetooth MICRONICS CYB ENK,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Dino SMASHERS Edad de Hielo Sorpresa 7456,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dino SMASHERS Edad de Hielo Sorpresa 7455,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 1.5 Pla...,"S/ 1,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 2 Plaza...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama PARAISO Tropical 1.5 Plazas + Velador Kid...,S/ 739 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 2 Plaza...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio VIVA HOME Divan Palmera  1.5 Plazas...,S/ 979 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 1.5 Pla...,"S/ 1,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 1.5 Pla...,"S/ 1,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama PARAISO Tropical 1.5 Plazas + Velador Kid...,S/ 739 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Royal Prince (Novo) 2 Plaza...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figura de Acción IMAGINEXT Head Shifters DC Su...,S/ 84.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca DISNEY FROZEN Sorpresa Ice Reveal Hielo...,S/ 94.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY de 45 cm HKT0029,S/ 134.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY San Valentín de 20 cm HKT0...,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY Pascua de 20 cm HKT0039,S/ 54.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche SQUISHMALLOWS Personaje Disney de 20 c...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche HELLO KITTY 30cm HKT0024 (Modelos Alea...,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Personajes RUBBLE 6066882,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Laptop HP 15-FC0007LA 15.6"" AMD Ryzen 5 (7000 ...","S/ 2,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Maletín DISNEY Juego de Helados Frozen ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Pocket Negro Hiromi 2 Plazas ...,"S/ 1,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Caja 6un,Cubos de Hielo ARTISAN 50mm Caja 6un,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche KISSES Hello Corazon 35cm,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Archivador DGNOTTAS Anillos Hello Kitty,S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Pote 420ml,Helado Macaron Fresa y Frambuesa Pote 420ml,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado LOGITECH K120 USB Negro,S/ 44.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Actividades De Baño PLAYGRO - Sellado,S/ 129 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete PLAYGRO Familia Patitos De Baño - Sell...,S/ 69 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set SKIP HOP Bolas de Helado Zoo,S/ 99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mouse Inalámbrico MICRONICS Micteclmouwifi + T...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth TARGUS KB863 Beige,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth TARGUS KB862 Negro,S/ 129 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Corral Cuna INFANTI Cielo Zigzag Azul,S/ 599 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Pocket Max 1.5 Plaza Chocol...,"S/ 1,029 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Pocket Max 1.5 Plaza Charco...,"S/ 1,029 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Pocket Max 2 Plaza Charcoal...,"S/ 1,249 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio PARAISO Pocket Max 2 Plaza Chocolat...,"S/ 1,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vaso de Entrenamiento HELLO KITTY 330ml,S/ 18 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bowl DISNEY Personajes (Modelos Aleatorios),S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plato DISNEY Personajes (Modelos Aleatorios),S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Juego Disney Frozen Carrito de Helados ...,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Doypack 75g,Comida para Perros WOOF CITY Hígado de Res Doy...,S/ 16.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plumón Delgado Bicolor FABER CASTELL Paquete 1...,S/ 12.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Polaris 2 Plz + 2 Veladores +...,"S/ 1,159 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Andadera de Dos Lados FISHER-PRICE HJR17,S/ 319.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vaso Doble Pared HELLO KITTY 350ml,S/ 20.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Elegant 2 Plazas + Velador Ta...,"S/ 1,159 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Botella 750ml,Ron CENTENARIO N°12 Gran Legado Botella 750ml,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 80g,Comida para Perros PETS REPUBLIC Adulto Hígado...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Frasco 80g,Comida para Perros PETS REPUBLIC Adulto Hígado...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Super Biberón HELLO KITTY 10oz,S/ 20.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Super Biberón HELLO KITTY 12oz,S/ 23.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 1.8Kg,Hielo Cocktail BELL'S SELECCIÓN Bolsa 1.8Kg,S/ 11.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Corral Cuna INFANTI Cielo Zigzag Rosado,S/ 599 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Bolsa 180g,Chifle Salado BUCKY Bolsa 180g,S/ 7.60 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio FORLI Elegant 1.5 Plz + 1 Velador +...,S/ 769 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tablet BLACKLINE Hello Kitty 10'' 4GB 64GB Ros...,S/ 899 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Juegos BOOM LIGHT Comidita Helado XG5-1...,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pinzas para Hielo FACUSA,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Árbol de Navidad Nevado 180cm con 530 Ramas Or...,S/ 75.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Waflera personal 10cm negra Holstein,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Waflera personal 10cm menta Holstein,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Licuadora negra personal 250W Holstein,S/ 151 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Waflera personal 10cm roja Holstein,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Escurridor de platos c/tapete de secado Orange,S/ 27.12 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado + mouse Km100 Hp,S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 6 persona con toldo Greenside,S/ 179.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,COMBO Holstein: Licuadora Negra Personal 250W ...,S/ 190.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,COMBO Holstein: Panini Grill 2P Inoxidable + W...,S/ 199.70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 personas Ligera Dome Pack Orange,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Individual redondo calado 38cm Orange,S/ 4.76 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Porta Herramientas Personal 9"" STST509104LA St...",S/ 23.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Asiento inodoro elongado plástico Pesado Blanc...,S/ 50.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Denver Native con espejo,S/ 229 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Guante de hilo con palma de nitrilo,S/ 5.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Guante de hilo con palma de látex,S/ 3.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Guante de hilo con puntos PVC,S/ 2.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tirador Recto Pesado Acero Inoxidable 192mm,S/ 10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tirador Recto Acero Inoxidable Pesado 160mm,S/ 9.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tirador Recto Pesado Acero Inoxidable 96mm,S/ 8.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tirador Recto Pesado Acero Inoxidable 64mm,S/ 6.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Auropoxi Epoxi Azul Cielo,S/ 351 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Audio 4 hilos con auricular,S/ 349 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Kit Video Color 7"" 4 hilos con auricular","S/ 1,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Monitor de video Manos libres 4.3"" 4 hilos",S/ 649 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Monitor de video Manos Libres 7"" 4 hilos",S/ 799 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Kit Video Portero Manos Libres 7"" 4 hilos","S/ 1,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Acero Inoxidable 4""",S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado cromado 8""",S/ 125 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado bronce 8""",S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Bronce 6""",S/ 56.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado cromado 6""",S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Cromado 4""",S/ 31.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Cromado 2""",S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Bronce 4""",S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Sumidero Pesado Bronce 3""",S/ 21.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado cromado 4""",S/ 37.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado cromado 3""",S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado cromado 2""",S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Registro pesado bronce 2""",S/ 13.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Grifo pesado para jardín 1/2"" con manija T bro...",S/ 27.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa Tayrona Azul 6 personas,S/ 649 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa Newport Verde 2 personas,S/ 309 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 6 personas Ottawa VI,S/ 639 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 4 personas Cherokee IV,"S/ 1,307 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Con Velador Caramelo Olivo 1.5 Plz,S/ 329 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Cali 1 cajón Jacaranda con tirador,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Cali 1 cajón Nature,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Capri 2 cajones Jacaranda con tirador,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Capri 2 cajones Almendra con tirador,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Capri 2 cajones Nature con tirador,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Inalámbrico Slim Maxell WKB-20,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Alámbrico Maxell KB-90,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Hielo Ice Block Mediano Igloo 20.3x10.9x2.5cm,S/ 16.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Presentación 1 caja rinde 7.44 m²,Cielo Raso Asgard 12mm 61x122cm 7.44m2 Werken ...,S/ 21.49 x m²,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Presentación 1 caja rinde 5.95 m²,Cielo Raso Nymeria 15mm 61x122cm 5.95m2 Werken...,S/ 33.60 x m²,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set x 2 peladores de verduras y frutas,S/ 16.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado + mouse Wrls Negro Altec Lans,S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Alambrico Teclado + Mouse Negro Altec La...,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Spk6214 Philips,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado gaming K300 Hp,S/ 129.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado gaming mecánico Gk100 Hp,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Spk6224 Philips,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Teclado + Mouse SPT6274 Negro Philips,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado mecánico Spk8403 Philips,S/ 279.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado gaming K500f Hp,S/ 109.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado + mouse gaming Gk1100 Hp,S/ 139.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Presentación 1 caja rinde 2.23 m²,Piso cerámico marmolizado Perlado Negro 45x45 ...,S/ 30.50 x m²,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+Presentación 1 caja rinde 2.23 m²,Piso cerámico marmolizado Perlado Blanco 45x45...,S/ 28.10 x m²,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Tuhome Kaia 1 Cajón 1 Puerta Caramelo,S/ 551 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Soporte Caballete P/vehiculo Pesado 16tn Bahco,S/ 932 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 personas con sobre techo Greensid...,S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Porcionador de helados New Line Ilko,S/ 31.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 4 personas con sobre techo Greensid...,S/ 129.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa Family para 6 personas Greenside,S/ 349 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Filtro hilado 10"" x2.75"" 20 Micras",S/ 35 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Felpa Protect antirayones Trab. Pesado 29mm 12...,S/ 10.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Felpa Protect antirayones Trab. Pesado 62mm 4u...,S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Felpa Protect Antirayones T.pesado 32x32mm 9un...,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Felpa Protect antirayones Pesado 25x25mm 9und,S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Felpa Protect antirayones T. pesado 20x20mm 12...,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador multifuncional Z-54,S/ 731 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia 2 cajones Miel,S/ 476 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia Z-41 1 cajón 1 puerta Miel,S/ 551 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Zócalo 8714 Roble Neva K453 Bisct,S/ 37.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Viena 2 cajones sin tirador Maple,S/ 199 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa de Comedor Rio Vidrio Blanca 2 Personas B...,S/ 597 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa de Comedor Rio Vidrio Negro 2 Personas Bo...,S/ 597 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sillón de Oficina Giratoria Shiny con Hilo Dor...,"S/ 1,019 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Máquina para hacer helado de fruta Bffm024 Neg...,S/ 129 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Waflera personal 10cm amarilla Holstein,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Hilo nylon p/pescar transp 1mm x50m,S/ 9.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Válvula esférica PVC 1"" con hilos",S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado HP gaming K110,S/ 93.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Válvula esférica PVC 1"" sin hilos",S/ 12.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Unión universal 3/4"" c/hilos",S/ 6.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Unión universal 1"" sin hilos",S/ 8.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Unión universal 1/2"" s/hilos",S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Unión universal 1/2"" con hilos",S/ 5.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Inflable Paleta de helado,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Aditivo Nacarado Azul perlado,S/ 305 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Hilo nylon para pescar transparente 0.50mm x 1...,S/ 11.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plafón hielo 36W led Luz Clara,S/ 109.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plafón hielo 12W led Luz Clara,S/ 26.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Plafón hielo 12W led Luz fría,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Escobilla de acero templado 1A 19 hilos,S/ 14.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Esponja celulosa trabajo pesado Scotch x3un,S/ 17.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Señal Solo Personal Autorizado,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Señal Prohibido Ingreso Personal No Autorizado,S/ 4.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Hoja de sierra caladora para metal delgado T11...,S/ 38.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Aplique de exterior Line Delgado Acero,S/ 68 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Cali 1 cajón Blanco,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Roma 2 cajones sin tirador Nature,S/ 199 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Viena 2 cajones sin tirador Almendra,S/ 199 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Seccional Orlando lados intercambiables Gris,"S/ 2,421 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Seccional Orlando lados intercambiables Miel,"S/ 1,528 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Escobilla tipo disco e hilos acerados,S/ 25.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Escobilla e hilos acerados,S/ 22.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Klip Xtreme alámbrico KKS-050S USB ofi...,S/ 42.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca L.O.L. Surprise Loves Hello Kitty Tots,S/ 59.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Microsoft 365 Personal + Kaspersky Antivirus,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete Hello Kitty And Friends Pack X6,S/ 89.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze Cajones King Cabecera Bloc...,"S/ 3,449 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete Señora Cara De Papa Potato Head,S/ 39.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego De Helados Play Doh Rainbow Ice C...,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Ramo De Peluche Hello Kitty And Friends,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa De Actividades Con Teclado Intermitente P...,S/ 89.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Ropero Supremo 6 Puertas 4 Cajones Tabaco Neva...,S/ 899 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Licuadora Personal Thomas TH-300PB 250W,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Plastilina Play Doh Dulces Y Helados Ma...,S/ 41.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Blanco 1.5 Plazas,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Hello Kitty 45...,S/ 169.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Fig Hello Kitty Aniv 50Años Pack X5,S/ 159.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Barbie Styling Head Rubia,S/ 349.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones Queen Cabecera...,"S/ 2,929 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Capella 2 Plazas + Velador...,"S/ 1,499 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 2 Plazas Champagne+...,"S/ 1,599 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Andadera Para Bebe Fisher Price Dos Lados Prim...,S/ 223.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Dolce,S/ 569 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Pinypon Personaje De Cuento Caperucita ...,S/ 32.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego Peppa Pig Camión De Helado F3597,S/ 69.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Issey Grafito,S/ 569 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Blanco 2 Plazas,S/ 209 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Hojas Rosa V3 2 Plazas,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Gaming Lenovo Legion KM300 RGB Teclado +...,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Mesa de Centro + Mesa de Lado,S/ 449 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para dos personas cool dome 2-National G...,S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Colchoneta helado Retro Pop Bestway,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Multifuncional Z-54,S/ 479.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Oporto,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Cantabria,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Ropero Montreal 3 Puertas Corredizas 6 Cajones...,S/ 849 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Corral Cuna Cielo Rojo,S/ 579 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Toalla Microfibra Secado Fácil S,S/ 59.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Corral Cuna Cielo Lila,S/ 479.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Corral Cuna Cielo Azul,S/ 479.40 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa de Lado Vidrio con Patas,S/ 199 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figura 10Cm Hello Kitty&Friends,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilos Mujer Canal Sin Mangas Zafin,S/ 89.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilos Mujer Gold Sin Mangas Zafin,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Driven King + Respaldo Maur...,"S/ 3,949 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polo Para Teen Niña Zubito Calado Shinny,S/ 39.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Scooter Hellokitty Flicker Rosado,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Skate Hellokitty 22"" Rosado",S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polo Hombre Nevado Hypnotic,S/ 29.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Barbie Styling Head Castaña,S/ 349.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Rosen Ferrara Gris,S/ 309 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Rosen Ferrara Chocolate,S/ 309 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Lil Woodzeez Familia Perezoso 4 Personajes,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Lil Woodzeez Familia Caimán 4 Personajes,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mi Primer Camión Battat De Helados,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado B.Toys Gato Meowsic,S/ 219 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno De Árbol Navidad Blanca Set X2 Icicle H...,S/ 14.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adorno De Árbol Navidad Blanca Set X2 Tornillo...,S/ 19.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Flores De Navidad Poinsettia Kaz Home 30Cm Nev...,S/ 7.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Mujer Cala Hypnotic,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Mujer Janice Sin Manga Hypnotic,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Mujer Tix Sin Mangas Hypnotic,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Rosen Eur Driven Queen Maurice + 2 Velado...,"S/ 3,499 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Rosen Eur Driven King Maurice + 2 Velador...,"S/ 3,949 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Rosen Eur Path Grf Queen R.West + 2 Velad...,"S/ 2,249 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Rosen Eur Driven Queen Maurice + 2 Velado...,"S/ 3,499 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Rosen Eur Path Grf 2 Plazas West + 2 Vela...,"S/ 1,749 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vestidos Zubito Niña Chambray Nevado,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Mujer Jeni Manga Corta Hypnotic,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polo Para Niño Circus Nevado Puff,S/ 29.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figuras Hello Kitty Pack X8,S/ 139.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty 20Cm Aniv 50Años,S/ 119.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones 2 Plazas Cabec...,"S/ 2,529 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones Queen Cabecera...,"S/ 2,929 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rayas V3 1.5 Plazas,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Flor Azulino V3 Queen,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Hojas Rosa V3 King,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rayas V3 2 Plazas,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Ramas Gris V3 Queen,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Gris 1.5 Plazas,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Beige Queen,S/ 239 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Gris Queen,S/ 239 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Beige 1.5 Plazas,S/ 179 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polera Hypnotic Mujer Hello Kitty,S/ 83.30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chaleco Hypnotic Mujer Hilo,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Hypnotic Mujer Manga Corta Jonas,S/ 79.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Hypnotic Mujer Manga Corta Neck,S/ 59.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hilo Hypnotic Mujer Manga Larga Petite,S/ 79.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuadro Canvas Paisaje Cielo V2 70x70 cm,S/ 79.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones 2 Plazas Cabec...,"S/ 2,529 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones Queen Cabecera...,"S/ 2,929 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth Queen + Velador Rep...,"S/ 2,149 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth Queen + Velador Rep...,"S/ 2,149 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth Queen + Velador Rep...,"S/ 2,149 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Balanzze con Cajones 2 Plazas Cabec...,"S/ 2,529 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth Cajones Queen Cabec...,"S/ 2,629 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Pocket Advance Queen + 2 Ve...,"S/ 1,999 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rayas V3 Queen,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Blanco King,S/ 259 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Beige 2 Plazas,S/ 209 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Su Majestad 1.5 Plazas + Velador Kids Ros...,"S/ 1,099 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Su Majestad 1 Plaza + Velador Kids Celest...,S/ 999 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Flor Azulino V3 King,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rama Gris V3 King,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Pocket Advance Queen + 2 Ve...,"S/ 1,999 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Flor Azulino V3 1.5 Pla...,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Hojas Rosa V3 1.5 Plaza...,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Su Majestad 1 Plaza + Velador Kids Rosado...,S/ 999 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cama Su Majestad 1.5 Plazas + Velador Kid Cele...,"S/ 1,099 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rama Gris V3 1.5 Plazas,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Flor Azulino V3 2 Plaza...,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Gris 2 Plazas,S/ 209 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Pocket Advance 2 Plazas + 2...,"S/ 1,649 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Royal Elizabeth Gold Queen ...,"S/ 2,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Europeo Royal Elizabeth Gold King +...,"S/ 2,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Beige King,S/ 259 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Ramas Gris V3 2 Plazas,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Gris King,S/ 259 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Hojas Rosa V3 Queen,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 400 Hilos Sólido Blanco Queen,S/ 239 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 180 Hilos Print Rayas V3 King,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado HyperX Alloy Origins 60 US HX Aqua,S/ 319.20 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Pocket Advance 2 Plazas con Cajones...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Pocket Advance Queen + Velador Bris...,"S/ 1,999 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Pocket Advance 2 Plazas + Velador B...,"S/ 1,649 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Polo Hypnotic Mujer Manga Larga Lado,S/ 29.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Chompa Hypnotic Mujer Manga Larga Cielo,S/ 59.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dinosaurio Sorpresa Smashers Dino Edad De Hiel...,S/ 89.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dinosaurio Sorpresa Smashers Mini Dino Edad De...,S/ 39.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Boa Flotante - Macadamia,S/ 173.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Busan Flotante - Blanco,S/ 214.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Milano Flotante - Blanco,S/ 194.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Milano Flotante - Ceniza,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador 1 Cajón Huna - Macadamia,S/ 354.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador 1 Cajón Huna - Macadamia,S/ 354.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Boa Flotante - Bellota,S/ 204.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Milano Flotante - Wengue,S/ 194.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Boa Flotante - Ceniza,S/ 174.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Busan Flotante - Ceniza,S/ 244.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Busan Flotante - Bellota,S/ 189.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Busan Flotante - Macadamia,S/ 219.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Busan Flotante - Wengue,S/ 214.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador 2 Cajon Huna - Macadamia,S/ 354.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Domenico,S/ 799 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Rosen Maurice Grafito,S/ 319 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Rosen Tabor Marrón,S/ 189 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Rosen Bilbao Izquierdo,S/ 389 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Boa Flotante - Blanco,S/ 209.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Boa Flotante - Wengue,S/ 179.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Pascua Hello K...,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Pascua Hello K...,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Kuromi 45Cm,S/ 169.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Pascua Hello K...,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Peluche Hello Kitty And Friends Hello Kitty 30...,S/ 109.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Disney Frozen Sorppresa Ice Reveal Hiel...,S/ 94.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete Pack X2 Hello Kitty And Friends Hello ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juguete Pack X2 Hello Kitty And Friends Hello ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Auto Hot Wheels Personajes Con Glider Sorpresa,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Masas Art & Fun Set Fabrica De Helados,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth Logitech Pebble 2 K380s Negr...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth Logitech Pebble 2 K380s Blan...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth Logitech Pebble 2 K380s Rosa...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Flotante Dreams - Ceniza,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Flotante Dreams - Wengue,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Flotante Dreams - Blanco,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Multifuncional Z-54 - Duna,S/ 454.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Flotante Dreams - Bellota,S/ 199.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 200 hilos Lisa Verde,S/ 399 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa Para 6 Personas National Geographic Toro...,S/ 999.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech K120,S/ 42.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech Bt K380 Multidisp Lila,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Personaje Lil Woodzeez Battat 6540,S/ 75.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Fam León 4 Persona Lil Woodzeez Battat 6581,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Capella Queen + Velador Re...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Lonchera Térmico Hello Kitty Cool Bags Rosado,S/ 69.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Mochila Hello Kitty Cool Bags Felpa Rojo,S/ 79.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Figuras Nintendo Boxset 5 Personajes,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 1.5 Plazas Chocolat...,"S/ 1,249 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 1.5 Plazas Champagn...,"S/ 1,249 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 2 Plazas Chocolate+...,"S/ 1,599 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 1.5 Plazas Gris + V...,"S/ 1,249 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Royal Elizabeth 2 Plazas Gris+ Vela...,"S/ 1,599 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Melamine 3 Piezas Hello Kitty & Amigos con...,S/ 20.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Melamine 3 Piezas Hello Kitty con Cubierto...,S/ 20.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Toalla Microfibra Secado Fácil - Talla L - Nat...,S/ 99.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego Peppa Pig Carrito De Helado,S/ 64.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Respaldo Y Veladores Nogal/Blanco NT5080,S/ 369 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Respaldo y Veladores NT5065 Nogal/Blanco,S/ 419 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Maleta De Helados Para Niños Fun Market Con 27...,S/ 31.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego Cook And Fun Helados 17 Piezas,S/ 19.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figura De Acción Personajes De Batman 30 Cm 60...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia Miel / Blanco,S/ 279.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Máquina de helados Blanik BFFM024 Negro,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sonajero Suave En Forma De Helado Para Bebe Me...,S/ 145 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 200 hilos Lisa Blanca,S/ 399 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sábana 200 hilos Lisa Blanca,S/ 299 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carrito Fun Market Tiends De Helados 55 Piezas,S/ 39.96 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Paraiso 2 Plazas + 02 Vela...,"S/ 2,599 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Concept D-57 - Duna / Wengue,S/ 299.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia- Caramelo / Wengue,S/ 279.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador White Collection 1 Cajón Blanco,S/ 344.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia Z-41 1 Cajón / 1 Puerta - Rovere ...,S/ 269.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Paraiso King + 02 Velador ...,"S/ 4,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Paraiso King + 02 Velador ...,"S/ 4,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Dormitorio Paraiso Queen + 02 Velador...,"S/ 3,499 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Máquina de helado Ventus VSP-30S Inox,"S/ 7,199 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Cerámica Scool 2 Piezas Hello Kitty Ice...,S/ 24.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Boreal Queen + Velador Fer Blanco,"S/ 1,899 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de Mesa 3D Top Toys ¿A Quien Elijo? Cart...,S/ 30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Melamine Con Cubiertos Scool Hello Kitty,S/ 20.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Melamine Con Botella Scool Hello Kitty & F...,S/ 20.97 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Capella Queen + Velador Repisa Colo...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Capella 2 Plazas + Velador Repisa C...,"S/ 1,549 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Capella 2 Plazas + Velador Repisa B...,"S/ 1,549 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Capella Queen + Velador Repisa Blan...,"S/ 1,799 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Domitorio Sirius King + Velador Repisa Fashion,"S/ 2,699 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Domitorio Sirius Queen + Velador Repisa Fashio...,"S/ 2,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Domitorio Sirius 2 Plazas + Velador Repisa Fas...,"S/ 1,899 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Capella Queen + Velador Fer Blanco,"S/ 1,699 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Camión De Helados Lil Woodzeez Con Accesorios,S/ 259 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Elsa Disney Palacio De Hielo,S/ 139.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Apple Macbook Air 13.3"" Intel Core i3 8GB RAM ...","S/ 4,299 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Bilbao,S/ 599 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Ferrara,S/ 309 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia 2 Cajones - Caramelo / Wengue,S/ 289.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Masas y Plastilinas Play-Doh Kitchen Creations...,S/ 489.93 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Pinypon Personaje De Cuento Sirenita,S/ 32.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Pinypon Personaje De Cuento Rapunzel,S/ 32.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Muñeca Pinypon Personaje De Cuento Maléfica,S/ 32.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego Skip Hop Bolas De Helado Zoo,S/ 99.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Multifuncional Z-54 - Coñac,S/ 334.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set De Juego Playdoh Cocina Helados Divertidos...,S/ 39.95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Figura Batman Set De 4 Personajes Y Motociclet...,S/ 399.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Masa Playdoh Pack De 4 Latas Helado B5517,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia 2 Cajones,S/ 499 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Kaia 2 Cajones,S/ 499 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Lego La Torre Al Cielo L.Minecraft 21173,S/ 298.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa National Geographic Para 6 Personas Koot...,"S/ 1,199.90 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Gas Pimienta Spray 60ml Defensa Personal Prote...,S/ 64 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de terraza Lechuza 4 personas con mesa Mov...,S/ 849 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Maquina hacer Hielo Imaco IMK1209 90W Negro,S/ 379 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Teclado y Mouse Gamer RGB Laptop PC Blan...,S/ 29.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Tablet Huawei MatePad 11.5"" 8GB Ram + 128BG Ro...","S/ 1,189 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Linterna Electroshock Seguridad Defensa Person...,S/ 69 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Funda para Mueble de 3 Personas Color Gris,S/ 76 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Balanza Digital Báscula de Peso Corporal Max 1...,S/ 30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Inalámbrico Bluetooth Marca Seisa BK30...,S/ 33.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Mecánico Redragon K552W-KR Kumara Game...,S/ 173 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Balanza Digital Personal Scale de Vidrio Templ...,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Smart Case Con Teclado Para Samsung Galaxy Tab...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Elevador Deslizador para Transportar Muebles P...,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Teros TE-4063N Teclado Multimedia Mouse ...,S/ 95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Antena TV Digital Full HD HDTV Ultra delgado C...,S/ 41.10 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Máquina eléctrica para hacer helado de fruta,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Sábanas 1800 Hilos 1.5 Plazas Home Brands ...,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Torta Facusa Cuchillo y Espátula Perlad...,S/ 49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa Personal PortátiL Multiuso,S/ 80 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Maquina de Hacer Hielo Imaco IMK1209 Negro 90W,S/ 397.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Teclado y Mouse Logitech Mk235 Wireless,S/ 84.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Lámpara Decorativa 3D Hello Kitty en Esfera,S/ 95 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rodilleras de Cobre con Hilos de Cobre Genéric...,S/ 34 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Dormitorio Thrones 2 plazas Cama + Cabecera + ...,S/ 779 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Teclado y Mouse Gamer YELANDAR KT399 Luz ...,S/ 45 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Razer Huntsman V3 Pro TKL,"S/ 1,110 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Ricocat Adulto Pate Pavo Higado Lta 330Gr X6 U...,S/ 37.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,HUAWEI MatePad 11.5S PaperMatte 8+256GB Gris +...,"S/ 1,719 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"GPS Sinotrack ST-904 Localizadodr personas, ma...",S/ 135 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Protector De Pantalla + Teclado + Skin P...,S/ 21 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Anillo de Goma para Licuadora Personal Xpert,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mascarilla KN95 Summit Person Fish Type Niño D...,S/ 55 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Diamond Gisela Ventitas Perú Duna y Bl...,S/ 599.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gamer Redragon Horus Mini 60% Cableado...,S/ 249 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Cuidado Personal para Bebés de 8 Pzas C...,S/ 58 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Micrófono Profesional MX-BETA57A All Sound Met...,S/ 74 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,PROMO: Office 365 Personal + Mcafee Int Securi...,S/ 288 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Protector De Colchon Con Liga Plaza Y Media In...,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Depilador de Hilo Eléctrico SM para Mujer,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Vintage Roelia Ventitas Home Duna,S/ 175 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Collar para Parejas de Escalera al Cielo Doram...,S/ 49.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech + Mouse Mk 235 Wireless Usb B...,S/ 89 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bicicleta Balance Lux Canastilla Verde Light P...,S/ 119 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cuchilla Pica Hielo 4 Aspas Oster BLSTAA4961,S/ 19 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego de 4 Copas para Postre Cono de Helado,S/ 29.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rodillera Elastico Hilo Cobre con Varillas Tal...,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech K380 Multi-Device Bluetooth B...,S/ 135 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Teclado Inalámbrico Airmouse Android Smar...,S/ 37.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Tabla de Picar + Cuchillo + Pelador + Tije...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech Pebble 2 K380S 920-011783 Blu...,S/ 200 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cubeta de Hielo de Silicona 21 Cavidades KiOXX...,S/ 35.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Funda con Teclado Bluetooth con Touchpad para ...,S/ 185 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Smart Case Con Teclado Para Samsung Galaxy Tab...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Multimedia Usb Micronics Magnus K734,S/ 35 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Adaptador de Celular Android & iOs para Mouse...,S/ 45 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tobilleras de Compresión con Hilos de Cobre Ge...,S/ 32 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set Tabla de Picar + Cuchillo + Pelador + Tije...,S/ 15.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,36 Hilo Tubino Colores Surtidas Hilos para Cos...,S/ 79 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cubeta de Hielo de Silicona 8 Cavidades KiOXX ...,S/ 28.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Premio Deshidratado Barker Bites Hígado De Res...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa Familiar de 6 Personas para Acampar Como...,S/ 189.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juegos de Mesa Portátil Futbolito Interactivo ...,S/ 69.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit 4 en 1 Teros TE-4063N Teclado Multimedia M...,S/ 99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Fiddler Teclado Gamer Retroiluminado Z,S/ 70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Numérico Cybertel Hunter K303,S/ 22.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Smart Case Con Teclado Para Ipad 10.9 Negro + ...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit de Costura Hilo Tubino Más de 99 Accesorio...,S/ 89 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador moderno multiusos 2 cajones Abella col...,S/ 359 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gamer Redragon Horus Tkl White Wireles...,S/ 339 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Air Mouse de Mini Teclado Inalám y Control Voz...,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,"Kit 8 En 1 Cepillo Limpiador Para Teclado, Aur...",S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Almohada Ergonómica de Piernas y Rodilla para ...,S/ 75 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini GPS Sinotrack ST-903 Localizador personas...,S/ 149 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,COMBO Velador Vintage Luna + Escritorio Gabrie...,S/ 479 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Moderno Lake 2 Cajones Blanco,S/ 399.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Manta Eléctrica para Personas con Artritis BS ...,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Teclado Y Mouse Logitech Mk220 Wireless ...,S/ 84.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Licuadora Tritura Hielo con Vaso de Vidrio 100...,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Escritorio Vintage + Velador Vintage Ven...,S/ 489.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit HP 225 Teclado y Mouse Alámbricos Combo Wi...,S/ 109 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Trituradora Manuel de Hielo,S/ 39.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vornado Vfan Ventilador Clásico Personal Vinta...,S/ 244.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Redragon Horus K619 RGB Wired USB Swit...,S/ 306.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit 3 e 1 Redragon S129W (Teclado + Mouse + Au...,S/ 389.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo Bluetooth Teclado y Mouse Pebble 2 Keys ...,S/ 289 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech K120 USB Negro,S/ 39.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vestido de Hilo Corto y Casual Color Negro,S/ 79 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rodilleras de Cobre con Hilos de Cobre Genéric...,S/ 34 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mini Grabadora De Voz Qt829 8gb Mp3 Grabación ...,S/ 115 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Lampara de Secado de Uñas en Color Rosado,S/ 96.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Funda con Teclado y Portalápiz para iPad Air 2...,S/ 209.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,INALÁMBRICO 2 EN 1 TECLADO + MOUSE HA-K652C BL...,S/ 89 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Moderno Moura Ventitas Home Plomo,S/ 279 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Reloj Cámara 1080p Wifi V88 Velador Despertado...,S/ 259 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Protector De Colchon Con Liga Queen Interiotex...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Mesa de Noche Vicviana Premium,S/ 349.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Contemporáneo Mardó Blanco 80cm,S/ 319 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rodillera Elastico Hilo Cobre con Varillas Tal...,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,kit Bluetooth Recargable (Teclados +mouse) par...,S/ 49 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech Mx Keys S Illuminated Wireles...,S/ 475 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Logitech + Mouse Mk470 Wireless Slim U...,S/ 184 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Kano 2Plz + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pulsera Brazalete Cara Rojo Hello Kitty,S/ 49.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Numerico Inalambrico 19 Teclas 2.4G Po...,S/ 44.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Juego De Sabana 1 Plaza Interiotex 144 Hilos A...,S/ 139 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gaming Hp con Iluminación Led K110,S/ 55.39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Teclado y Mouse Dell KM300C Wired Español ...,S/ 109 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gaming Xtech con Iluminación Led XTK51...,S/ 60.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Inalámbrico Teclado + Mouse TE4061N 2.4GHz...,S/ 55.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cargador portátil Ultra delgado UGREEN 10000mA...,S/ 75 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cubetera de Hielo de Silicona,S/ 17.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gamer Micronics Neon,S/ 59.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Smartwatch HELLO H14 ultra + 1GB almacenamient...,S/ 185 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Multimedia Bluetooth Quantum 3 Mic K60...,S/ 65 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mochila de Emergencia Equipada Lite para 2 Per...,S/ 110 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gx Scorpion K8 Gaming Pc Semi Mecánico...,S/ 125 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bandeja para Cubos de Hielo XL Rojo HogarMás,S/ 45 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Teclado Y Mouse Combo MK520 Inalámbrico In...,S/ 159 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Smart Case Con Teclado Para Samsung Galaxy Tab...,S/ 169 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Pañuelos Desechables Suang Hello Kitty 105 Pzs...,S/ 53.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Rodilleras de Cobre con Hilos de Cobre Genéric...,S/ 34 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado para Laptop Lenovo G480 G485 Z480 Z380...,S/ 55 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado para Laptop Lenovo G470 G475 B470 V470...,S/ 65 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Razer Cynosa Lite + Essential Gaming K...,S/ 145 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bicicleta de Balance Flash Para Niños Color Ne...,S/ 229 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Multiusos Margarita Marrón Claro,S/ 189.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Maquinas De Raspadilleras Electronicas Tritura...,S/ 149.99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Premio Deshidratado Natural Home Hígado De Res...,S/ 19.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Esterilla De Bambu Delgado 1pza Bamboo Sushi M...,S/ 15 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Xblade Gaming Elite Imperator Optico-M...,S/ 195 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Combo T-dagger Teclado + Mouse Main Force Whit...,S/ 169.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Mesa Barra Desayunador R&R MUEBLES Moderna Par...,S/ 779 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Mecánico Redragon K630RGB DRAGONBORN B...,S/ 178 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Case Protector de Silicona para Airpods Pro He...,S/ 15 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Tarjetas identificación 125 KHz PVC blanco mar...,S/ 34 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Calendario de Adviento 2024 con Sorpresas de C...,S/ 379 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 Personas Tayrona Ii National Geog...,S/ 329.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Redragon K580 VATA RGB LED,S/ 326 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,COMBO 2 Veladores Vintage Premium Luna Ventita...,S/ 399 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Bluetooth Recargable Negro con Mouse T...,S/ 57.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado EPOMAKER AK820 Pro Inalámbrico,S/ 382 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Funda con Teclado Bluetooth con Touchpad para ...,S/ 185 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Árbol de Navidad Super Premium Blanco Nevado 1...,S/ 379.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Flexible Siliconado WB-86 Impermeable ...,S/ 51.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones 1.5Plz + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones King + 2 Veladores Negro,S/ 899 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Funda con Teclado Bluetooth con Touchpad para ...,S/ 185 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Árbol de Navidad Super Premium Blanco Nevado 1...,S/ 379.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Flexible Siliconado WB-86 Impermeable ...,S/ 51.50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones 1.5Plz + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones King + 2 Veladores Negro,S/ 899 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sofá de 2 Cuerpos Fruna Home Premium Cielo,"S/ 2,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Velador Vintage Candy Home Premium Blanco,"S/ 1,399 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones Queen + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Botones 2Plz + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Kano King + 2 Veladores Negro,S/ 899 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Kano 1.5Plz + 2 Veladores Chocolate,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Cabecera Kano Queen + 2 Veladores Negro,S/ 699 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Reloj Fossil Minimalist FS5499 Ultra Delgado C...,S/ 607.05 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Kit Teclado y Mouse Logitech MK295 Inalámbrico,S/ 137.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Stella Celeste,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Musa Plomo,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Musa Celeste,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Musa Lila,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Stella Rosado,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Stella Plomo,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Stella Vino,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Top de Hilo Perumanta Modelo Musa Marrón,S/ 50 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Taza My Sign con Diseño Hoy Cumple Años una Gr...,S/ 29 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Toalla de Manos Hello Kitty 45th Anniversary S...,S/ 70 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Llavero de Hello Kitty Time to Shine Kidrobot ...,S/ 45 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sillón + Banqueta Loops Azul Cielo,"S/ 3,199 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 4 personas Fresno IV National Geogr...,S/ 529.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 personas Fresno II National Geogr...,S/ 389.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sanrio Borrador Hello Kitty 3D Red,S/ 30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sanrio Libreta Memo Pad Hello Sanrio,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 2 personas Rockport II National Geo...,S/ 499.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Carpa para 4 personas Cherokee IV National Geo...,"S/ 1,307.90 un",plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Colchoneta helado Retro Pop Bestway,S/ 24.90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Vestido BBLUBS Cielo,S/ 129 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Set de Personajes Voilà Familia Afro Americana...,S/ 90 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Personaje Voilà Niña S8140,S/ 30 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Sanrio Pack de Libretas Hello Kitty 45th Anniv...,S/ 65 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Bombacha BBLUBS Helados,S/ 45 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Reloj Fossil Minimalist FS5554 Ultra Delgado C...,S/ 569.05 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Wired Español Xtech XTK-1605,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Wired Español Xtech XTK-0905,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado USB para oficina Negro KKS-050S,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Numérico Inalámbrico Klip Xtreme Zyphe...,S/ 99 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado multimedia Xtech Armiger XTK-5105,S/ 79 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado multimedia Wired USB XTK-130,S/ 39 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado multimedia Gamer Armiger Xtech,S/ 79 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado multimedia Dell KB216,S/ 89 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Mechanical Gaming Compacto Control Lig...,S/ 599 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gamer Xtech XTK-5005,S/ 69 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
+,Teclado Gamer HuperX Alloy Core RGB HX-KB5ME2-...,S/ 369 un,plaza_vea,HELADO DE HIELO PERSONAL,2024-12-04 00:43:14.378496
