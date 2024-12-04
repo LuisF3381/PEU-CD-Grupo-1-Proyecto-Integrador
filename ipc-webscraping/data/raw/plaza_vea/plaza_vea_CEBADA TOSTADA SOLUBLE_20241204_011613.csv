@@ -1,0 +1,984 @@
+unit,description,price,website,search_term,scrape_timestamp
+Lata 170g,Cebada Instantánea ECCO Lata 170g,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 200un,Servilletas BOREAL Cortadas Paquete 200un,S/ 2.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Mostaza LIBBY'S Doypack 200g,S/ 5.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 454g,Café Tostado y Molido CAFETAL Selecto Bolsa 4...,S/ 24 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 2un,Bebida de Almendra LAIVE Vio Caja 946ml Paquet...,S/ 18.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida de Almendra NATURE'S HEART sin Azúcar 9...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 400g,Mostaza ALACENA Doypack 400g,S/ 8.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 250g,Bebida Instantánea de Cebada ECCO Doypack 250g,S/ 14.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 100un,Servilletas de Papel BOREAL Cortadas y Doblada...,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 900g,Café Tostado y Molido CAFETAL Selecto Bolsa 90...,S/ 42.79 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 800ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 450g,Café Tostado Molido ALTOMAYO Clásico Bolsa 450...,S/ 23.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 10un,Tostadas BIMBO Clásicas Paquete 10un,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Rehidratante SPORADE Sabores Surtidos B...,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 36un,Mini Tostadas Clásicas LA FLORENCIA Bolsa 36un,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida FRUGOS DEL VALLE Manzana Caja 235ml Six...,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 10un,Tostadas BIMBO Integrales Paquete 10un,S/ 5.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 10un,Tostadas Integrales UNIÓN Paquete 10un,S/ 7.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 946ml,Bebida de Coco LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 450g,Café Tostado Molido ALTOMAYO Gourmet Bolsa 450...,S/ 33.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 800ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80...,S/ 3 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 200g,Café Tostado y Molido CAFETAL Selecto Bolsa 20...,S/ 11.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida GLORIA Naranja Caja 1L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida GLORIA Piña Caja 1L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida GLORIA Maracuyá Caja 1L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Rehidratante GATORADE Sabores Surtidos ...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Soya UHT SOY VIDA Caja 1L,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Táper 200g,Maní Tostado Frito BELL'S Táper 200g,S/ 5.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 60g,Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida de Soya LAIVE Vio Caja 946ml Paquete 4u...,S/ 25.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Mostaza BELL'S Doypack 200Gr,S/ 2.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Coco NATURE'S HEART Caja 946ml,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 230g,Tostadas Integrales LA FLORENCIA Bolsa 230g,S/ 7.59 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida FRUGOS DEL VALLE Mango Caja 235ml Six P...,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida GLORIA Mango Caja 1L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio sin Endulzante Te...,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 80g,Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 140g,Tostadas Integrales BIMBO Cero Cero Bolsa 140g,S/ 5.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida GLORIA Durazno Caja 1L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 220g,Mostaza ALACENA Doypack 220g,S/ 5.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 946ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap...,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 2un,Bebida de Avena NATURES HEART Caja 946ml Paque...,S/ 18.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida Rehidratante SPORADE Tropical Paquete 5...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3L,Bebida FRUGOS Citrus Fresh Naranja Botella 3L,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 2un,Bebida de Almendra sin Azúcar NATURES HEART Ca...,S/ 18.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Mostaza B&D Doypack 200g,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Táper 100g,Nueces Peladas BELL'S Táper 100g,S/ 9.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 100g,Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 12.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 425g,Pack B&D Ketchup Frasco 425g + Mostaza Frasco ...,S/ 11.69 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 368g,Mostaza HEINZ Doypack 368g,S/ 13.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Café Tostado Molido ALTOMAYO Natural Doypack 2...,S/ 11.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 200g,Tostadas Clásicas LA FLORENCIA Bolsa 200g,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 200g,Café Tostado Molido ALTOMAYO Gourmet Bolsa 200...,S/ 17.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida de Soya SOY VIDA Lata 390g Paquete 6un,S/ 15 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 3un,Pack BIMBO Tostada Clásica 1unid + Tostada Int...,S/ 16.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Avena NATURE'S HEART Caja 946ml,S/ 10.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 36un,Mini Tostadas Integrales LA FLORENCIA Bolsa 36...,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 14g,Bebida Instantánea en Polvo CLIGHT Sin Caloría...,S/ 2.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Coco y Vainilla NATURE'S HEART sin A...,S/ 10.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 12un,Bebida PULP Durazno Forti Hierro Caja 145ml Pa...,S/ 8.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 100g,Piqueo BELL'S Nueces peladas Bolsa 100Gr,S/ 10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 500g,Sal Rosada de Maras PERUVIAN Gruesa Bolsa 500g,S/ 8.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pote 250g,Queso Crema PIAMONTE Cabaña Light Pote 250g,S/ 11.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra NATURE'S HEART Vainilla Sin...,S/ 10.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Sabores de mi...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida Rehidratante SUEROX Surtido Botella 630...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3.03L,Bebida CIFRUT Citrus Punch Botella 3L,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 118g,Tostadas PYC Clásicas Paquete 118g,S/ 7.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida Rehidratante SPORADE Tropical Electroli...,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 100g,Cebada Instantánea KIMBO Doypack 100g,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3.03L,Bebida CIFRUT Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 1Kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa...,S/ 28.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 255g,Mostaza HEINZ Frasco 255g,S/ 13.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Láctea BONLÉ Defensis Lata 390g Paquete...,S/ 15 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 500g,Café Tostado y Molido CAFFE Blend Bolsa 500g,S/ 28.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida PULP Durazno Caja 315ml Paquete 6un,S/ 8.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 946ml,Bebida de Soya LAIVE Vio Tetrapack 946ml,S/ 7.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 164g,Cebada Instantánea KIMBO Frasco 164g,S/ 9.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3L,Bebida FRUGOS DEL VALLE Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida de Coco NATURES HEART sin Azúcar Botell...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 900ml,Bebida de Leche Chocolatada LAIVE Bolsa 900ml,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 500g,Café Tostado Molido BELL'S Bolsa 500g,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 625ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote...,S/ 2.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Táper 100g,Pecanas Peladas BELL'S Táper 100g,S/ 13.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bandeja 250g,Mani tostado cáscara Bandeja 250g,S/ 6.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 970ml,Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora BLACKLINE HBT-1613A Negro,S/ 44.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 14.2g,Nuez Moscada BADIA Nutmeg Sobre 14.2g,S/ 4.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 900g,Café Tostado CAFFE Molido Bolsa 900g,S/ 41.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Energizante VOLT Ginseng Botella 300ml ...,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Role Play BARBIE Tostador,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Naranja Sobre...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida Vegetal NATURE'S HEART Origen Caja 946m...,S/ 10.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 250g,Ajonjolí Tostado NATURANDES Doypack 250g,S/ 11 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante GATORADE Apple Ice Botella...,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 425g,Mostaza B&D Frasco 425g,S/ 6.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Piña Sobre 15...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 80g,Piqueo VILLA NATURA Nueces peladas Bolsa 80Gr,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 10un,Tostadas Blancas UNIÓN Clásicas Paquete 10un,S/ 7.79 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Aloe KERO Piña Botella 300ml,S/ 3.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Aloe KERO Uva Botella 300ml,S/ 3.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 750ml,Whisky JOHNNIE WALKER Double Black Botella 750...,S/ 139.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 250g,Café Tostado y Molido CAFFÉ Blend Doypack 250g,S/ 15.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 120g,Tostadas PYC Integrales Paquete 120g,S/ 7.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra SILK sin Azúcar Caja 946ml,S/ 16.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida Rehidratante SUEROX Fresa Botella 630ml...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 240g,Mostaza BELL'S Mostaza Frasco 240Gr,S/ 3.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 250g,Café Tostado en Grano ALTOMAYO Gourmet Bolsa 2...,S/ 25.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bandeja 1un,Torta Helada de Fresa Chica LA FLORENCIA 1un,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 150g,Infusiones RENACER Cebada Tostada Bolsa 150g,S/ 6.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 220g,Café Tostado Molido BELL'S Bolsa 220g,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebidas Energizantes RED BULL Ambar Edition La...,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida BELL'S Cranberry Bajo en Calorías Botel...,S/ 8.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida FRUGOS Piña y Mandarina Caja 1L,S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Fresa Sobre 1...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 400g,Mostaza COMPASS con Chisguete Frasco 400g,S/ 6.59 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida de Naranja GLORIA Caja 1.5L,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra NATURE'S HEART Caja 946ml,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida Rehidratante SUEROX Mora Botella 630ml ...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 2910ml,Bebida FRUGOS Sabor a Durazno Paquete 1un + Be...,S/ 12.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 85g,Tostaditas DON MAMINO Clásicas Natural Caja 85...,S/ 8.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida Energizante RED BULL Sugarfree Lata 250...,S/ 28.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida energizante RED BULL Lata 250Ml,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Limonada Sobr...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1g,Café Tostado Molido ALTOMAYO Gourmet Caja 450g...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 390g,Bebida de Almendras Concentrada LAIVE Botella ...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 150g,Harina de Haba Tostada COSECHA DEL SUR Bolsa 1...,S/ 4.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bandeja 1un,Torta Helada de Fresa Mediana LA FLORENCIA,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida FRUGOS Fresh Citrus Naranja Botella 1.5...,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Avena ORASI Caja 1L,S/ 14.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 2un,Pack B&D Ketchup Frasco 245g + Mostaza Frasco ...,S/ 9.09 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Natural BIO Arándano con Uva y Manzana ...,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Energizante RED BULL Paquete 6un Lata 2...,S/ 39.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 180g,Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pote 250g,Queso Crema PIAMONTE Cabaña Normal Pote 250g,S/ 11.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 90g,Mini Tostada MINIGRILL Integral Paquete 90g,S/ 3.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante GATORADE Cool Blue Botella...,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 100g,Mostaza LIBBY'S Base de semilla de mostaza Doy...,S/ 3.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante sin Azúcar SPORADE Apple I...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 56.7g,Nuez Moscada Molida BADIA Frasco 56.7g,S/ 13.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida Energizante RED BULL Red Edition Lata 2...,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida Rehidratante GATORADE Frutos Tropicales...,S/ 3.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Láctea YOPI Sabor a Chocolate Paquete 6...,S/ 8.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra NATURE'S HEART Almendra y C...,S/ 10.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3L,Bebida TAMPICO Citrus Punch sin Azúcar Botella...,S/ 7 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida Energizante RED BULL Tropical Lata 250m...,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 750ml,Bebida Rehidratante GATORADE Sabor a Mandarina...,S/ 3.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Energizante sin Azúcar VOLT Botella 300...,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 280g,Helado MY MOCHI Double Chocolate Caja 280g,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida de Aloe BIO Botella 500ml,S/ 2.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 340ml,Vinagreta EL OLIVAR Light a la mostaza Botella...,S/ 12.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Durazno Sobre...,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 90g,Nuez Pelada VALLEALTO Bolsa 90g,S/ 9.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Mostaza WALIBI Doypack 200g,S/ 4.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 142g,Tostada Clasica BAUDUCCO Paquete de 142g,S/ 8.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida Emoliente GLORIA Caja 1L,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante SPORADE Mandarina Botella ...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida energizante RED BULL Light Lata 250Ml,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida PULP Durazno Forti Hierro Caja 250ml Pa...,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida TAMPICO Citrus Punch Botella 1.5L,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante sin Azúcar SPORADE Tropica...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 5un,Bebida PULP Durazno Forti Hierro Caja 145 ml P...,S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 700ml,Ready To Drink (RTD) PISCANO Sour Piña Colada ...,S/ 17.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora THOMAS TH-120 Gris,S/ 89 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 250g,Café Tostado y Molido PUMA Gourmet Bolsa 250g,S/ 28.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 100g,Mostaza ALACENA Doypack 100g,S/ 3.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida BIO Manzana y Camu Camu Botella 300ml,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 135g,Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 2un,Pack Bebida FRUGOS Mango Caja 235ml Paquete 6u...,S/ 10.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida Rehidratante POWERADE Uva Botella 600ml...,S/ 11.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante SPORADE Sabor a Uva Botell...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 330ml,Bebida Refrescante MALTIN POWER Botella 330ml,S/ 1.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Soya sin Azúcar UHT ORASI Caja 1L,S/ 14.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida PULP Mango Caja 1L,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 12un,Bebida Energizante VOLT Sabores Surtidos Botel...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida de Surtido GLORIA Caja 500ml,S/ 2.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida Carbonatada RED BULL Green Edition Lata...,S/ 6 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sal Rosada SAL DE MARAS Caja 600g,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 2un,Bebida FRU + Mango Sandia Botella 400ml,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 90g,Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 100g,Tostadas sin Gluten NOGLUT Paquete 100g,S/ 12.29 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.89L,Bebida Light OCEAN SPRAY Cranberry Botella 1.8...,S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 600ml,Bebida Rehidratante POWERADE Maracuyá Botella ...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida BELL'S Cranberry Botella 1L,S/ 8.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida Rehidratante SPORADE Tropical Botella 1...,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 98g,Maní Tostado y Pelado TOÑA Bolsa 98g,S/ 4.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 400ml,Bebida FRU + Mango Maracuyá Botella 400ml,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Natural BIO Manzana Aguaje y Cocona Bot...,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra SILK Vainilla sin Azúcar Ca...,S/ 19.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 970ml,Bebida FRUGOS DEL VALLE Sabor a Manzana Caja 9...,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 970ml,Bebida de Durazno FRUGOS Caja 970ml,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Whisky JOHNNIE WALKER Double Black Botella 1L,S/ 174.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Mora Botell...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida FRUGOS Fresh Citrus Botella 500ml,S/ 1.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida de Arándanos L'ONDA con Té Verde Botell...,S/ 8.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 2un,Bebida FRU + Piña Maracuyá Botella 400ml,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 3L,Bebida FRUTARIS con Sabor a Frutas Cítricas Bo...,S/ 5.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 200g,Mostaza COMPASS con Chisguete Frasco 200g,S/ 4.59 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante MONSTER Energy Lata 473ml,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 250ml,Bebida de Arándano Uva PULP Forti 250ml Paquet...,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Almendras ORASI UHT sin Azúcar Caja ...,S/ 14.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida Rehidratante POWERADE Mora Botella 1.5L,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida L'ONDA Blueberry Botella 1L,S/ 4.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendras Chocolate SILK Caja 946ml,S/ 16.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Envase de Plastico 150g,Maíz Tostado BELL'S Táper 150g,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 4un,Bebida Energizante RED BULL Lata 250ml Paquete...,S/ 28.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 750ml,Bebida Rehidratante GATORADE Apple Ice Botella...,S/ 3.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Agua Tónica CANADA DRY Lata 355ml,S/ 6.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida PULP Durazno Caja 1L,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 970ml,Bebida FRUGOS Sabor a Naranja Caja 970ml,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Tetrapack 1.5L,Bebida GLORIA Sabor a Durazno Tetrapack 1.5L,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida Light OCEAN SPRAY Cranberry Caja 1L,S/ 14.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 170g,Cebada Instantánea BELL'S Frasco 170g,S/ 10.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Avellanas UHT ORASI Caja 1L,S/ 16.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Bebida energizante RED BULL Lata 355Ml,S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Arroz Orasi Caja 1L,S/ 14.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 591ml,Bebida Rehidratante GATORADE Gatorlyte Fresa-K...,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida Energizante MONSTER Paradise Lata 473ml,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida de Durazno GLORIA Caja 200ml,S/ 7.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida CIFRUT Citrus Punch Botella 350ml,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida BELL'S Blueberry Botella 1L,S/ 5.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 270ml,Bebida de Durazno GLORIA Caja 500ml,S/ 2.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 10un,Tostadas BELL'S Clásicas Paquete 10un,S/ 6.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 400ml,Bebida FRU+ Sabor a Mango y Durazno Botella 40...,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 320ml,Bebida de Uva MOGU MOGU Botella 320ml,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida con Aloe Vera SAPPE Botella 1L,S/ 17.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida de Mango y Maracuyá FRU+ Botella 1L,S/ 8.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Concentrado de Bebida de Almendras LA PURITA 1...,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 250ml,Bebida de Mango PULP Forti 250ml Paquete 6un,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 350ml,Bebida Energizante FURY Botella 350ml,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 200g,Bebida Nutricional NUNATURA Andean Superdrink ...,S/ 13.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Táper 200g,Maní Tostado VILLA NATURA Taper 200g,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Energizante VOLT Ginseng Botella 300ml,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 630ml,Bebida Rehidrantante SUEROX Naranja y Mandarin...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Fresa - Kiw...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 250g,Café Molido PUMA Tostado Espresso Bolsa 250g,S/ 28.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 630ml,Bebida Rehidratante SUEROX Sabor a Manzana Bot...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 250g,Café Tostado y Molido CAFFE Premium Bolsa 250g,S/ 27.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Bebida Alcohólica WASSKA Happy Punch Frutos Ro...,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 4un,Bebida BIO AMAYU Shots Antioxidante Botella 60...,S/ 13.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 20un,Cigarrillos LUCKY STRIKE Double Chill Caja 20u...,S/ 19.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida con Aloe Vera SAPPE Sabor Manzana Botel...,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 320ml,Bebida de Mango MOGU MOGU Botella 320ml,S/ 4.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 320ml,Bebida de Fresa MOGU MOGU Botella 320ml,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 750ml,Cava FREIXENET Brut Carta Nevada Botella 750ml,S/ 44.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Fresa Botella...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 220g,Mostaza B&D Frasco 220g,S/ 4.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 230ml,Bebida de Almendra LAIVE VIO Sabor a Vainilla ...,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 350g,Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Empaque 1un,Torta Helada Sabor a Piña Chica Empaque 1un,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante MONSTER Energy Mango Loco L...,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante MONSTER Zero Sugar Lata 473...,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 630ml,Bebida Rehidratante SUEROX Frutos Rojos Botell...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida Vegetal NOT MILK Low Fat Caja 1L,S/ 15.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 750ml,Cava FREIXENET Carta Nevada Semiseco Botella 7...,S/ 44.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida GOLDEN Lata 355ml Paquete 6un,S/ 18.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida de Avena ORASI UHT Caja 1L,S/ 16.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida de Mango y Sandía FRU+ Botella 1L,S/ 8.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.89L,Bebida L'ONDA Blueberry Botella 1.89L,S/ 10.80 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Ready To Drink (RTD) WASSKA HAPPY Piña Colada ...,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante VOLT Lata 473ml,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cepillo de Pisos ETERNA Cerda Dura,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Concentrado de Bebida de Almendras LA PURITA 1...,S/ 12 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Granadilla Bo...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida FRUGOS Fresh Fruit Punch Botella 1.5L,S/ 3.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante SPORADE Tropical Botella 5...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Mora Botella ...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 480ml,Bebida de Camu Camu LA FLORENCIA Botella 480ml,S/ 6.19 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 80g,Piqueo KARIÑO Maní tostado Bolsa 80g,S/ 4.29 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra SILK Caja 946ml,S/ 16.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 500g,Germen de Trigo Tostado COSECHA DEL PARAÍSO Bo...,S/ 25.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Ginger Ale CANADA DRY Lata 355ml,S/ 6.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 80g,Café Tostado y Molido CAFFÉ Bolsa 80g,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 35g,Pistachos WONDERFUL Tostados y Salados Bolsa 3...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida NATURALE Emoliente Botella 500ml,S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 225g,Tostada Integral TOSTAGRILL Paquete 225g,S/ 5.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida OCEAN SPRAY Cranberry - Raspberry Botel...,S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 225g,Tostada TOSTAGRILL Paquete 225g,S/ 5.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 350ml,Ready To Drink (RTD) CUBATA Berries Lata 350ml,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora IMACO IBT2085N Negro,S/ 87 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 11un,Cocadas LA FLORENCIA Bandeja 11un,S/ 17.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 320ml,Bebida MOGU MOGU Naranja y Coco Botella 320ml,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante MONSTER Ultra Lata 473ml,S/ 8 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Adorno DECO HOME Nacimiento 7 Personas 17cm Ca...,S/ 28.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida Rehidratante POWERADE Multifrutas Botel...,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 591ml,Bebida Rehidratante GATORADE Gatorlyte Uva 591...,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 591ml,Bebida Rehidratante GATORADE Naranja Botella 6...,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida con Aloe Vera SAPPE Piña Botella 300ml,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 4un,Bebida BIO AMAYU Shots Defense Botella 60ml Pa...,S/ 13.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 160g,Tostadas NATCRACKERS Pistacho y Romero Caja 16...,S/ 22.39 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida TANDEM Chía y Maracuyá Botella 400ml,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida MOGU MOGU Mango y Coco Botella 1L,S/ 15.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 600ml,Bebida Rehidratante POWERADE Multifrutas Botel...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Piña Botella ...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Manzana Botel...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida PULP Durazno Botella 300ml,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 100g,Mostaza B&D Doypack 100g,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida Rehidratante SPORADE Blueberry Botella ...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida de Uva MOGU MOGU Botella 1L,S/ 16.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora BLACKLINE TA-4008T Acero,S/ 119 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pote 100g,Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 13.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 946ml,Bebida de Almendra SILK Vainilla Caja 946ml,S/ 16.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida CIFRUT Fruit Punch Botella 350ml,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 473ml,Bebida Energizante VOLT Gamer Lata 473ml,S/ 4.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida Aromatizada con Gas BELL'S Ginger Ale B...,S/ 4.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 250ml,Bebida Energizante KINETIC Lata 250ml,S/ 2.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida Light OCEAN SPRAY Cranberry & Grape Caj...,S/ 14.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida Rehidratante POWERADE Frutas Botella 1....,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Papelera Calada REY ParÍs,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 500g,Café Tostado y Molido CAFFE Premium Bolsa 500g,S/ 44.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 160g,Tostadas NATCRACKERS Cranberry y Nuez Caja 160...,S/ 22.39 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida TANDEM Chía y Fresa Botella 400ml,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Lata 355ml,Bebida Ready To Drink (RTD) PARTY BOX Lemon Da...,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 160g,Tostadas NATCRACKERS Datiles y Almendras Caja ...,S/ 22.39 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 4un,Bebida BIO AMAYU Shots Vitamina A Botella 60ml...,S/ 13.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Envase 340g,Maní Tostado con Miel PLANTERS Envase de Plást...,S/ 34.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Envase 292g,Mix de Semillas Tostadas PLANTERS Envase de Pl...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Eléctrico IMACO Double Cake 35L HEB35DC ...,S/ 339 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 600ml,Bebida Rehidratante POWERADE Mora Azul Botella...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida FRUTARIS sabor Frutas Cítricas Botella ...,S/ 1.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida con Aloe Vera SAPPE Grape Flavor Botell...,S/ 6.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Polos manga corta Double Print hombre SINGULAR,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 250ml,Bebida de Naranja PULP Forti 250ml Paquete 6un,S/ 7.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Energizante VOLT Blueberry Maca Botella...,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 400g,Cereal COSECHA DEL PARAISO Tostado Entero Bols...,S/ 9.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Doypack 100g,Cebada Instantánea BELL'S Doypack 100g,S/ 3.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida Rehidratante POWERADE Mora Azul Botella...,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida rehidratante ELECTROLIGHT Naranja Botel...,S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 320ml,Bebida GLORIA Emoliente Botella 320ml,S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Envase 283g,Mix de Semillas Tostadas con Miel PLANTERS Env...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Energizante VOLT Dark Botella 300ml,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida L'ONDA Blueberry Botella 500ml,S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cortina Metálica CLASS&WORK Rosada,S/ 4.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche FISHER PRICE Cebra Recoge Bloques CGN6...,S/ 99.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 1L,Bebida PULP Maracuyá Caja 1L,S/ 4 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 500ml,Bebida FRUGOS Fresh Sabor a Manzana Botella 50...,S/ 1.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida BING LEMON Punch Frutos Rojos Botella 4...,S/ 6.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 227g,Pistacho Tostado y Salado WONDERFUL Bolsa 227g,S/ 45.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostador DELONGHI Argento Negro,S/ 329 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Caja 4un,Chorizo Artesanal de Cerveza Artesanal y Mosta...,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida Energizante VOLT Colágeno y Aloe Vera B...,S/ 2.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 475ml,Bebida Rehidratante SPORADE Tropical Botella 4...,S/ 2.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Frasco 200g,Salsa a la Mostaza Light EL OLIVAR Frasco 200g,S/ 7.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Dispensador de Bebida DECO HOME con Base de Me...,S/ 42.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Bolsa 400g,Cereal COSECHA DEL PARAISO Tostado Molido Bols...,S/ 9.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cebra FISHER PRICE Andadera de Aprendizaje DPM...,S/ 279.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cepillo y Peine NUBY Cerdas Suaves de Nylon,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1.5L,Bebida Rehidratante SPORADE Blueberry Botella ...,S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa DELONGHI 9 Celdas Blanco,S/ 599 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Agenda 2025 ARTESCO Juvenil Cabala C/L ap Mora...,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida KÁSCARA Café Original Botella 400ml,S/ 6.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bebida BING LEMON Punch Original Botella 400ml,S/ 6.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Muñeca BABY ALIVE Set de Bebidas KK11032,S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Envase 170g,Maní Tostado con Sal PLANTERS Envase de Plásti...,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sábana DECO HOME Microfibra 2 Plazas Mostaza,S/ 44.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 300ml,Bebida con Aloe Vera SAPPE Uva Botella 300ml,S/ 6.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pote 400g,Bebida Powermix Instantáneo COSECHA DEL SUR Po...,S/ 18 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Libro de Cocina INSTANT Crips Mini,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 400ml,Bebida TAMPICO Citrus Punch sin Azúcar Botella...,S/ 1.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Pack 4un,Bebida BIO AMAYU Shots Surtido Botella 60ml Pa...,S/ 13.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador IMACO OFR7NK 7 Celdas Negro,S/ 269 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador IMACO OFR9NK 9 Celdas Negro,S/ 429.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Botella 1L,Bebida de Fresa MOGU MOGU Botella 1L,S/ 16.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Tostador Freidora de Aire CUISINART TOA6...,"S/ 1,199 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+Paquete 6un,Bebida GOLDEN Lata 473ml Paquete 6un,S/ 24.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Guirnalda Nevada con piñas y flores 40cm Orang...,S/ 19.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Corteza de pino Curada 3L,S/ 25 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Thermos 470ml Botella hidratante Fun rosada,S/ 44.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Envase p/salsa, mostaza, miel",S/ 4.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Envase p/ salsa, miel, mostaza",S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cortina Listada Pasante Angora 1.40x2.25 Orang...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Sole Eléctrica 11 Celdas 2500...,S/ 279 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Sole Eléctrica 9 Celdas 2000W,S/ 239 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Sole Eléctrica 7 Celdas 1500W,S/ 235 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Orange 9 celdas,S/ 265 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Orange 7 celdas,S/ 231 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora negra 2P 750W Holstein,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Kinder Publix Disney Rosada,S/ 28.40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Aldaba tropicalizado pesada 3""",S/ 4.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Aldaba tropicalizado pesada 2 1/2""",S/ 5.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Varilla Roscada Espárrago NC-2 3/8"" x 1.80 met...",S/ 24.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Varilla Roscada Espárrago NC-2 1/2"" x 1 metro",S/ 22.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Varilla Roscada Espárrago NC-2 5/16"" x 1 metro",S/ 9.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Armella cerrada niquelada 1 1/2"" x 10 unidades",S/ 6.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Armella cerrada niquelada 1 1/4"" x 10 unidades",S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Armella cerrada niquelada 1/2"" x 10 unidades",S/ 2.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Armella cerrada 3/8"" dorada x10 unids.",S/ 2 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Adaptador 3/4 mixto - Agua fría,S/ 1.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bañera Ballenita feliz Rosada,S/ 94.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lámpara de escritorio LED Felipe Rosada,S/ 52.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lámpara de mesa Winnie Rosada E-14 1 Luz,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,COMBO 5 Canaleta Cerrada con adhesivo 15x10mm ...,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavela de madera calada Colección Natural,S/ 5.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bola de Árbol Dorada Calada 10cm Colección Nat...,S/ 4.76 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Toalla de Algodón Retro Mostaza 30x50cm Atmosp...,S/ 8.94 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Eco Bottle 500ml Rosada Thermos,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Luminaria Led Ledvance Damp Proof Housing 60cm...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Caja cosechera cerrada industrial 100% Virgen,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella deportiva Rosada 950ml Thermos,S/ 67.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set x 4 Vasos Mikonos Bebidas Cristar 0454el4h...,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 2500W Celdas Equation,S/ 249 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 2000W Celdas Equation,S/ 309 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco de 11 celdas OFR11AO,S/ 399 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Armella Cerrada 6x40mm x 1 unidad,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Armella Cerrada 9x62mm x 2 unidades,S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fertilizante Soluble Nitrofert K 1Kg,S/ 22.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fertilizante Soluble Nitrofert Fos 1Kg,S/ 24.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Llave de lavadero pared toscana Trebol,S/ 107.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pala pesada recta de 2mm,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cortina listada pasante taupe 1.40x2.25,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taper rectangular 197 Cl Pure Box Active con t...,S/ 32.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taper cuadrada 38 Cl Pure Box Active con tapa ...,S/ 18.49 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cepillo de cerdas para limpieza Dremel,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Espatula calada Elegant,S/ 10.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mezcladora de lavadero al mueble Toscana,S/ 192.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Llave de lavadero al mueble Toscana,S/ 176 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Cepillo de cerdas 172"" 404 Dremel",S/ 11.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Zócalo Toscana Marfil 7.2x45 cm,S/ 1 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Llave de Lavatorio Trebol Toscana Baja Plata C...,S/ 119.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mezcladora de ducha-tina Toscana con salida,S/ 426 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Piedra abrasiva Vastago 6mm x25mm Kwb,S/ 5.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora TH 120 Thomas,S/ 89 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 2.5""",S/ 4.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango madera 1""",S/ 2.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango madera 2.5""",S/ 5.70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango madera 2""",S/ 3.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 5""",S/ 15.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango madera 1.5""",S/ 2.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango madera 4""",S/ 11.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 1.5""",S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 2""",S/ 3.10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 1""",S/ 1.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda manga madera 5""",S/ 17.30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Brocha de cerda mango plástico 3""",S/ 6.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostador Bosch Compacto Tat4P429 Cobre,S/ 149 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Adorno De Navidad Fairy Bailarina Rosada 14Cm,S/ 6.47 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Ropero Canada 3 Puertas 3 Cajones C/Espejo Fre...,"S/ 1,099 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Asa De Silicona Dr Browns Para Biberón Boca An...,S/ 34.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Asa De Silicona Dr Browns Para Biberón Boca Es...,S/ 31.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set De Juego Little Chef Máquina Rosada Para H...,S/ 49.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set De Juego Little Chef Máquina Rosada Para H...,S/ 99.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Rama De Navidad Verde Nevada 40 Cm Kaz Home,S/ 7.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora TH 120 Plateado,S/ 89 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostador Bosch Compacto Tat4P427 Crema,S/ 149 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Congeladora Double Action CH-05 152 Lts,"S/ 1,167.20 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vestido Largo Mujer Double Amc,S/ 139 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Blackline HBT-1613A Negro,S/ 35.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Blackline TA-4008-T 4 Panes Acero,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Malet Rígi Toiis C Cabina Golden Samsonite Mos...,S/ 859 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maquina Canal Toys Bebidas Slime,S/ 159 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Poinsettia De Navidad Rosada 44 Cm Kaz Home,S/ 7.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fairy Bola Malla Rosada 10Cm,S/ 7.47 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fairy Bola Lineas Rosada 10Cm,S/ 7.47 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fairy Bola Estrellas Rosada 10Cm,S/ 7.47 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fairy Set X2 Mariposa Rosada 12Cm,S/ 9.97 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fairy Bola Tornasol Rosada 8Cm,S/ 8.47 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Flores De Navidad Poinsettia Kaz Home 25Cm Ros...,S/ 7.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Mesa de TV 65"" Cabana Gris Off White",S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Mesa de TV 65"" Cabana Miel Off White",S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bañera Plegable Infanti Rosada,S/ 279 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Chompa Para Niña Circus Rn Flores Preppy,S/ 39.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Planta Rosada 22cm,S/ 27.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 7 Celdas OFR7NK Imaco,S/ 299.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Flor Rosada 25 cm,S/ 29.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set De Juego Kids N Play Tostadora Y Hervidor,S/ 31.96 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostador Record Classic Collection Cltene101 7...,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Canvas Flores Rosadas 70 cm x 70 cm,S/ 95.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Hervidor Y Tostador De Juguete My Little Home,S/ 24.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pack Relax Para Mamá Dr Browns Con Banda De Sp...,S/ 249.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Figura Pinypon Básicas Serie 13 Rosada,S/ 17.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tina Para Bebé Summer InfantLil' Luxuries Rosa...,S/ 719 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lanzador Nerf Elite 2.0 Double Punch,S/ 259.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pista Maisto Double Loop,S/ 59.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bañera Plegable Rosada Para Bebe Whippy Btp-06,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gimnasio Para Bebé Fisher Price Cabaña 3 En 1,S/ 479.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Rompecabezas Toyng 1000 Piezas Toscana,S/ 59.95 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set De Juego Harry Potter Cabaña,S/ 49.98 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Para Niña Dr Browns Boquilla Suave Con As...,S/ 42.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Escobilla Para Limpieza Rosada,S/ 59 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Giratoria de Escritorio Oficina Tocador ...,S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cafetera Italiana Cubana para 3 a 6 tazas de C...,S/ 35.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo y Acondicionador 520ml + Cremero 1Kg R...,S/ 119 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bandas Ligas Elásticas Resistencia Rosadas Eje...,S/ 29 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Zapatillas Sport 350 Urbanas Mujer Rosadas,S/ 65 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bandas Elásticas de Resistencia Cerradas - bra...,S/ 10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tobillera de compresion Cerradas,S/ 15 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Base Roscada para Licuadoras Expert Oster 1641...,S/ 38.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Par de Llantas o Neumáticos para Bicicleta Aro...,S/ 45 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,ACEITE DE RICINO DE CASTOR NEVADA,S/ 57.05 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Árbol de Navidad Premium Verde con Puntas Neva...,S/ 209.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bateria Genérica Compatible Para Laptop Asus A...,S/ 136 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lonchera Térmica de Alimentos y Bebidas para N...,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Soporte Para Bebidas en Cochecitos Bebe Dreamb...,S/ 39 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Limpiador Facial de Pepino Nevada 225ml,S/ 27 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set de 2 Copas para Capuccino o Bebidas Frias,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bateria Genérica Compatible Para Laptop Hp Hst...,S/ 153 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bateria Genérica Compatible Para Laptop Asus A...,S/ 113 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial de Aloe Vera Nevada 50ml,S/ 28 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,CREMA FACIAL ALOE VERA REGENERADORA VITAMINA E...,S/ 45.55 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Máquina tostadora de hot dog coca cola Nostalg...,S/ 85.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cocina Eléctrica Acerada 2 Hornillas Nationali...,S/ 150 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sábila Premium en Bebida FITOSANA (600ml),S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Revitalizante Roll On de Colágeno para contorn...,S/ 57.05 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete Andador Cebra de Aprendizaje,S/ 269 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Imaco IBT2085 Negro 850W,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Hidratante para pies de Áloe Vera NNP 12...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peine con Cerdas Eliminador de Pelo para Masco...,S/ 16.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Protector Solar 90 FPS Nevada Natural Products,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Funda para Huawei Mate Pad T3 10"" Flipcover Ro...",S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Exfoliante Corporal de Cacao Nevada 400 Gramos,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Kit Olla Chocolatera Rosada Eléctrica con Uten...,S/ 64.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Muletas Aluminio en Par SV Ortopedia Talla M,S/ 150 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contorno de Ojos Colageno 15ml + Inno Gialuron...,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Piedra Colgante de Sal Rosada del Himalaya 4-5...,S/ 50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Rodillera Cerrada sin abertura Branson Negro T...,S/ 26.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Duo Cerava Limpieza espumoso Y Antiimperfeccio...,S/ 159.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de Pan Philips HD2581,S/ 139 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Litera Cerrada para Gatos Van Ness Cernidora G...,S/ 397.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Litera Cerrada para Gatos Van Ness Extra Gigan...,S/ 278.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Arete Triana Morena Micaela Mostaza,S/ 70 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mat de Yoga Vega Store 10 mm + Bandas de Resis...,S/ 75 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tobilleras de Peso Vega Store 2 Kg + Bandas de...,S/ 55 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Almohada Anticabeza Plana Corona Rosada,S/ 26.60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Impresora 3d Flashforge Guider II Multimateria...,"S/ 8,434 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Impresora 3d Flashforge Guider II S Multimater...,"S/ 8,434 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Ruleta de Juegos para Bebida Favorita,S/ 65.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete para Gatos Multipet Kuddlerz Safari 43...,S/ 35.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juego de comedor de 4 sillas Fabiola Home Prem...,"S/ 3,699 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gorro Lazo BBLUBS Mostaza Talla S,S/ 61 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Casita Voilà Rosada con Mobiliario S554A,S/ 400 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Banqueta Mum capitone Rosada,"S/ 2,599 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Turbante Mujer RB Detalles Especiales Modelo T...,S/ 20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gancho Pinza Flor Grande FL75RS Rosada,S/ 17 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gancho Horquillas x 2 Chicas CO187RS Rosada,S/ 12 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de Pan Eléctrica 850 W DSP KC2038 Ne...,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador de 7 Celdas Imaco 1500W OFR7AO -...,S/ 399 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Seca Pesada Clasica I1700,S/ 189 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vela Número Seis Escarchada Chispa Olego x 1u....,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche Cebra Patilarga 43cm Wild Republic,S/ 62 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Medidor De Humedad Para Granos Arroz Trigo Ceb...,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gancho Colgador Adhesivo Generico Rosadas Pack...,S/ 32 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vela Número Siete Escarchada Chispa Olego x 1u...,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vela Número Nueve Escarchada Chispa Olego x 1u...,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vela Número Ocho Escarchada Chispa Olego x 1u....,S/ 2.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sofá de 3 cuerpos Pacificus Home premium Mosta...,"S/ 2,599 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Funda de Silicona para Control Remoto Lg Rosad...,S/ 25.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lustradora Electrolux B815 Rosada 840w,S/ 989 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Litera Cerrada Cernidora para Gatos Vanness Ta...,S/ 238.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Manta Abrigadora XXXL Rosada,S/ 64 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Celda para Balanza 70KG,S/ 40 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Lonchera Térmica de Alimentos y Bebidas Fiambr...,S/ 19.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cabaña Navideña Para Luces LED 3D GEEKS PERU P...,S/ 30 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora para 2 Panes Thomas con 6 Niveles de...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Caja PortaDados 3D GEEKS PERU PLA Seda Multico...,S/ 42 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pico Pared Perilla al Costado,S/ 67.20 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora eléctrica automática para Sandwiches...,S/ 165 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Base Roscada 6 Apoyos con Empaquetadura Caja,S/ 25 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 320ml ...,S/ 181 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 320ml ...,S/ 152 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Tratamiento Ca...,S/ 144 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 320ml ...,S/ 170 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Crema De Creci...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 120 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Sin Sal Ketozinc 350ml + Acondicionado...,S/ 126 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 167 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Canasta Acerada para Freir y Colar Plateado 23...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 520ml ...,S/ 166 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Sin Sal Ketozinc 350ml + Acondicionado...,S/ 126 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Compresa de Semilla 4 PZS Hierbas Aromáticas M...,S/ 83 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 120 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 181 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 148 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 167 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 120 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Biotina Romero...,S/ 133 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 520ml ...,S/ 152 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 145 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 148 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 145 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 120 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 162 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 120 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Crema De Creci...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Crema De Creci...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Anticaspa Sin Sal 350ml + Tonico Capil...,S/ 126 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Anticaspa Sin Sal 350ml + Crema Crecim...,S/ 130 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 162 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 110 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 110 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 520ml ...,S/ 166 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 162 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Tratamiento Ca...,S/ 144 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 158 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 320ml ...,S/ 181 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 167 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 520ml ...,S/ 184 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Anticaspa Sin Sal 350ml + Crema Crecim...,S/ 130 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Extrac...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Anticaspa Sin Sal 350ml + Tonico Capil...,S/ 126 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Tinte ...,S/ 130 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 158 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ketozinc 350ml + Shampoo Romero 320ml ...,S/ 148 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Biotina Romero...,S/ 133 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 181 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Tinte ...,S/ 130 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 145 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Llanta Kenda Cocada Alta para Bicicleta 26,S/ 52 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tazas De Horquilla Rosca De Bicicleta de una P...,S/ 19 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tazas para Dirección de Horquilla Roscada,S/ 19 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Polo Gap Original para Bebe Color Mostaza - Sa...,S/ 60 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,STANLEY Dispensador de agua helada con espita ...,S/ 349 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mascarilla Rosada R&G Caja x 50 und,S/ 10 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 148 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 181 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Biotina Romero...,S/ 133 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 110 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Tratamiento Ca...,S/ 144 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Extrac...,S/ 125 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Tinte ...,S/ 130 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Finasteride 1mg X 60 Capsulas + Shampoo Romero...,S/ 158 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Dispensador Facil de Usar para Bebidas Blanco ...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Stanley IceFlow - Vaso con popote y tapa antif...,S/ 255 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Envase Grande de Bebidas Amarillo Y+Envoltorio...,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set Juego de Botellas para Paseos Rosada Y+Reg...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Dinamico en 3 Capacidades Rosada Y+Re...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym Confortable para Felinos en Mostaza Y+Pape...,S/ 276.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Celeste 35...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Rosado 350...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Celeste,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Polo Gap Original para Bebe Color Mostaza,S/ 59.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Naranja 35...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla S Tono Guinda Y+St...,S/ 113.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estomas Premium en Bebida FITOSANA (600ml),S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu Talla M en Plomo Y+...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Duo Cerava Limpieza espumoso Y Antiimperfeccio...,S/ 159.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza de Bebidas Calientes Celeste y Blanco Y+R...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,FibraMass Premium - Fibra en Bebida FITOSANA (...,S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Platillo en Forma de Tostada Azul Y+Post-it ad...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Aqua Recipiente para Bebidas Rosado Y+Papel de...,S/ 46.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Verde Agu...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Matico Premium en Bebida FITOSANA (600ml),S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Naranja 45...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Dispensador Facil de Bebidas Blanco Y+Regalo A...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Colioxan Forte Premium en Bebida FITOSANA (600...,S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Alcachofa y Nopal Premium en Bebida FITOSANA (...,S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Celda 1ª Forma Bandai Spirits colección Dragon...,S/ 415 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Organizador Plastico Plegable Aza Rosada 5 NIV...,S/ 260 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym para Arañar y Trepar para Gato Mostaza Y+S...,S/ 199.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym para Entretener Felino Mostaza Y+Papel de ...,S/ 186.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym con Doble Nivel para Ejercicio Gatuno Most...,S/ 189.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peine con Cerdas de Metal Fucsia Talla L Y+Reg...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Centro de Ocio de Gatos Color Mostaza Y+Post-i...,S/ 303.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym Didactico para Mascotas Tono Mostaza Y+Reg...,S/ 286.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym Moderno y Elegante de Color Mostaza Y+Rega...,S/ 299.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym de Gato Casa de 3 Pisos en Color Mostaza,S/ 266.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu en Verde Agua Talla...,S/ 146.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu en Rojo Talla L Y+S...,S/ 146.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla M en Tono Negro Y+...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu en Azul Rey Talla L...,S/ 146.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu en Plomo Talla L Y+...,S/ 146.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla M en Tono Marron Y...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Can Suave y Comodo de Tono Plomo ...,S/ 113.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla S en Tono Rojo Y+S...,S/ 113.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu Talla M en Azul Rey...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Imaco 2 Panes IBT2085N Negro,S/ 99.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla M en Tono Verde Ag...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Suave de Talla S Tono Azul Rey Y+...,S/ 113.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cama Cerrada Forma de Iglu Talla M en Guinda Y...,S/ 126.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cesta Acerada y Versatil de Color Negro Y+Stic...,S/ 333.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Casaca Impermeable Hombre Capucha Desmontable ...,S/ 129 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Eléctrico Imaco Double Cake 35L HEB35DC,S/ 375 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Versatil para Bebidas Calientes 500mlAzu...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Versatil para Bebida Calientes 500ml Ros...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Celeste...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo para Bebidas Frias en Negro 500ml Y+Pape...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Bandeja Xchouxer para sofá, soporte bebidas y ...",S/ 165 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella Util Moderna con Tapa Rosada Y+Banderi...,S/ 63.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella Funcional Util con Tapa Rosada Y+Post-...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set Surtido de Tomatodos Tapa Rosada Y+Envolto...,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set de 3 Envases de 2L 1L y 300 ml Rosada Y+Re...,S/ 83.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella para Paseos con Tapa Rosada Y+Ligas de...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set de Bidones Trio para Excursiones Rosada Y+...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Versatil Trio con Tapa Rosada Y+Papel...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Practico Variados con Tapa Rosada Y+R...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza de Bebidas Calientes Rosado con Blanc Y+R...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Trio de Alta Capacidad con Tapa Rosad...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella Trio para Gym Tapa Rosada Y+Regalo Lig...,S/ 73.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Multiusos Trio de Tapa Rosada Y+Papel...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set Botellas de 2L 1L y 300ml Rosada Y+Gift Mi...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Envase Grande de Bebidas Verde Agua Y+Envoltor...,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Envase Grande de Bebidas Celeste Y+Envoltorio ...,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Rosado 450...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Aqua Recipiente para Bebidas Mascotas Azul Y+P...,S/ 46.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza de Bebidas Calientes Verde con Blanco Y+R...,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Amarillo,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Frasco para Bebidas de 400ml en Amarillo Y+Pos...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato Hecho de Ceramica para Pan Tostada Azul ...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato Hecho de Ceramica para Pan Tostada Naran...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estacion de Bebida para Mascotas Rosado Y+Post...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bicicleta de equilibrio Miller Bikes 055 Rosad...,S/ 249 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bicicleta de equilibrio Miller Bikes 030 Rosad...,S/ 249 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Duo Cerava Limpieza espumoso Y Antiimperfeccio...,S/ 159.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Imaco Para 2 Panes Negro - IBT2085N,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Imaco Para 2 Panes Negro - IBT2085N,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Fuente Inteligente para Mascotas Rosada Y+Post...,S/ 93.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Platillo en Forma de Tostada Rojo Y+Post-it ad...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato con Diseño de Pan Tostada en Color Azul ...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso para Bebidas Frias en Base Ancha 350ml Y+...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato con Diseño de Pan Tostada en Color Rojo ...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Versatil para Bebida Calientes 500ml Roj...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato Hecho de Ceramica para Pan Tostada Rojo ...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Frasco para Bebidas de 400ml en Azul Y+Post-it...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Botella para Bebida Multicolor 2Lt Y+Post-it a...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso para Bebidas Frias en Estilo Recto 500ml ...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tetera Funcional para Bebidas Negro 1.5 Lt Y+S...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Frasco para Bebidas de 400ml en Celeste Y+Post...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Plomo 350m...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Practico para Bebidas de Color Plomo 450m...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Celeste...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Rosado ...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Plomo 4...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo para Bebidas Frias en Crema 500ml Y+Pape...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Versatil para Bebidas Calientes 500ml Ne...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Plomo 3...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Frasco para Bebidas de 400ml en Rojo Y+Post-it...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Naranja...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble para Bebidas Tapa Rosado ...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Platillo en Forma de Tostada Naranja Y+Post-it...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato con Diseño de Pan Tostada en Color Naran...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Antifaz de Gel con Ojos y Correa de Color Most...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mascara Refrescante de Sueño Mostaza Y+Post-it...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Antifaz de Tela con Gel de Color Mostaza Y+Sti...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bola 8Cm Esmaltada Set De 12 Rosada Eb513 Flor...,S/ 23.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bola 10Cm Perla Rosada Set de 8 Eb520 Floripas...,S/ 32.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Arenero para Gatos en Forma Cerrada Color Rosa...,S/ 123.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Bola 10Cm Esmaltada Set De 8 Rosada Eb514 Flor...,S/ 26.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Antifaz Gel Diseño Ojos y Orejas Mostaza Y+Pap...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cartera Marilyn Cebra Negro Fucsia,S/ 270 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cartera Marilyn Fucsia con relieve Cebra,S/ 270 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pulsera Rosas Rosadas de Acrílico con Perla Ch...,S/ 25 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Higasol Premium en Bebida - Hígado FITOSANA (6...,S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pecto Propol Premium en Bebida FITOSANA (600ml...,S/ 27.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Saviax - Savia de Plátano en Bebida FITOSANA (...,S/ 27.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 750 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 750 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 750 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 750 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Major Headlines Double-Take Crème & Powder Blu...,S/ 285 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Major Headlines Double-Take Crème & Powder Blu...,S/ 269 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Casaca Impermeable Hombre Capucha Desmontable ...,S/ 129 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Gym de Dos pisos en Forma de Casa para Gato de...,S/ 176.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mochila Mujer CAPTURE 7798 Viaje Laptop Rosada,S/ 235 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mochila de Viaje Deportiva Cabinera Grande Esp...,S/ 139 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo para Bebidas Refrescantes Oso en Mora...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora black & decker TR200BD de 2 rebanada...,S/ 119 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Imaco Pesada Base Metal Acero - I1700,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Imaco Pesada Base Metal Acero - I1700,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Imaco Pesada Base Metal Acero - I1700,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Árbol de Navidad Premium Verde con Puntas Neva...,S/ 329.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Calada Con Reposabrazos Modelo Vera colo...,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Aqua Recipiente para Bebidas Rosado Y+Papel de...,S/ 46.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Base Termica de Bebidas en Negro Y+Post-it adh...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Dispensador de Vidrio para Bebidas,S/ 99.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Electrico Imaco Double Cake 35l Heb35dc,S/ 419 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Batidor de Bebida Color Verde Y+Post-it adhesi...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso con Tapa para Bebidas 510ml Verde Y+Stick...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Torre Funcional para Felinos Mostaza Y+Post-it...,S/ 199.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso con Tapa para Bebidas 510ml Rosado Y+Stic...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Jarra + Vaso moringa para bebidas Con y Sin A...,S/ 10.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Vidrio Doble Tapa para Bebidas de Colo...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de pan RAF para 2 rebanadas R-2102,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set de Diferentes Tamaños en Rosada Y+Post-it ...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Funcional de Bebida Color Naranja Y+Agend...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Trio de Envases para Viajar de Tapa Rosada Y+P...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza Ideal para Bebidas en Transparente Y+Post...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Trio de Botellas de 3 Capacidades Tapa Rosada ...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche con Sonido para Mascotas Mostaza Y+Pap...,S/ 66.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Rejuvenece Botulina Nevada 200g 3...,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Rejuvenece Botulina Nevada 200g,S/ 35 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Rejuvenece Botulina Nevada 200g 2...,S/ 68 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Moisturizer Hidratante Botulina 2...,S/ 82 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Moisturizer Hidratante Botulina 2...,S/ 42 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Facial Moisturizer Hidratante Botulina 2...,S/ 117 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Amar...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Muñeco en Forma de Osito Pet en Mostaza Y+Post...,S/ 79.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Cuerda Estilizada para Morder de Mostaza Y+Pos...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Electrico Double Cake 35 Litros Heb35dc ...,S/ 429 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taper de Doble Division con Tapa Rosada Y+Agen...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,NEEWER 6 Paquete Saco De Arena Negro Tarea Pes...,S/ 260 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete de Caninos para Entrenar en Color Most...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete de Soga Resistente a Mordeduras de Mas...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa Delonghi 9 Celdas Blanco,S/ 599 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Resistente para Bebidas en Color Rosado Y...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Nara...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Envase para Comida con Tapa Rosada Y+Post-it a...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso para Bebidas de Color Transparente Y+Agen...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maleta de Cabina Dukap Zonix Mostaza - ZOPM,S/ 149 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maleta Mediana Dukap Zonix Mostaza - ZOMM,S/ 139 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maletas de Viaje Set de 3 Dukap Zonix Mostaza ...,S/ 429 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maleta Grande Dukap Zonix Mostaza - ZOGM,S/ 199 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Trio Funcional de Frascos de Colores Tapa Rosa...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taper Moderno y Util con Tapa Rosada Y+Sticker...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Golosinas y Bebidas en Celeste Y+Agend...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Trio de Tomatodos Practicos de 2L 1L y 300 ml ...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza para Bebidas de Color Transparente Y+Agen...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza para Bebidas en Transparente Y+Post-it ad...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Alisadora Siegen Rosada SG 3510,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peine con Cerdas de Metal Amarillo Talla M Y+P...,S/ 36.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set con Cerdas de Acero Inoxidable Color Celes...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete de Perros Funcional en Color Mostaza Y...,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza Ideal de Bebidas Transparente Y+Post-it a...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set para Bebidas de Tapa Verde Agua Y+Stickers,S/ 43.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza para Bebidas y Dulces en Celeste Y+Post-i...,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Funcional de Bebida Color Amarillo Y+Agen...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Multifuncional 2 en 1 para Bebidas y Snac...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche Suave para Mascotas de Color Mostaza Y...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche Divertido para Mascotas de Color Mosta...,S/ 63.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche Interactivo con Sonido de Color Mostaz...,S/ 56.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete Pets para Jugar en Color Mostaza Y+Pap...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Multifuncional para Bebidas y Snacks en T...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Doble Capa para Bebidas 460ML Transparent...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Innovador para Golosinas y Bebida en Cele...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Golosinas y Bebidas en Rosado Y+Agendi...,S/ 37.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de 2 rebanadas Montreal TD-1411 + 2 ...,S/ 149 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche con Sonido para Mascota Mostaza Y+Pape...,S/ 66.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche de Mascota Forma de Oso Color Mostaza ...,S/ 69.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juego de Mesa Comedor Alta Restobar Juego Sill...,S/ 750 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vinilo Decorativo Stickart Cebra Barras Median...,S/ 75 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vinilo Decorativo Stickart Pareja Cebras Media...,S/ 75 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla Mecedora Portátil Rosada con Lunares,S/ 179 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa De Aceite Sole 11 Celdas Sole2500,S/ 439 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 9 Celdas Imaco Ofr9nk,S/ 389 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco Ofr11nk 11 Celdas,S/ 499 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Ofr7nk 7 Celdas Imaco,S/ 309 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tomatodo Botella Cute Sweet Mostaza 680 ml,S/ 25 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Horno Oster TSSTTVLC60L tostador 60 litros,S/ 679 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Electrica de 9 Celdas Sole 20...,S/ 309 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Electrica de 7 Celdas Sole So...,S/ 245 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Electrica de 11 Celdas Sole S...,S/ 349 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vinilo Decorativo Stickart Pareja Cebras Peque...,S/ 65 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vinilo Decorativo Stickart Cebra Barras Pequeñ...,S/ 65 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Arenero Cerrada para el Hogar de Celeste Y+Sti...,S/ 133.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco 11 Celdas 2500W OFR11NK,S/ 659 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 9 Celdas Imaco OFR9NK Negro,S/ 389 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 11 Celdas 2500W Imaco OFR11AO,S/ 889 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa De Aceite Sole11 Celdas SOLE2500,S/ 569 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa de Aceite Sole Eléctrica 11 celdas 2500...,S/ 459 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa De Aceite Sole 9 Celdas 200a-9/sole 200...,S/ 389 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso de Golosinas y Bebida Verde Agua Y+Agendi...,S/ 47.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso 2 en 1 para Bebidas y Snacks en Tono Verd...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche para Mascotas con Sonido en Color Most...,S/ 63.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juguete de Soga Resistente a Mordeduras de Mas...,S/ 33.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Albaricoque + Exfoliante para Pies 120ml...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Talco perfumado cuerpo Lavender 142Gr + Talco ...,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mascarilla Negra Hidroplást Barro marino+papay...,S/ 105 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Talco perfumado cuerpo 142Gr + Polvo corporal ...,S/ 35 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Almendra + Exfoliante para los Pies 120m...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Talco perfumado cuerpo 142Gr+ Polvo corporal R...,S/ 35 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Mascarilla HidroplastPapaya 120Gr + Limpiador ...,S/ 55 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Talco perfumado cuerpo Rosas 142Gr + Talco pie...,S/ 29.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Mochila Klip Xtreme Toscana 15 6"" travel Lapto...",S/ 149 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,LEGO 43242 Cabaña de Blancanieves y los Siete ...,"S/ 1,899 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo Radiador Imaco Ofr7nk 7 Celdas,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Ofr9nk 9 celdas,S/ 399 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 11 Celdas Imaco Ofr11ao + Freido...,S/ 469 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco Ofr11ao 11 Celdas,S/ 619 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa Termoradiador 11 Celdas Imaco Ofr11nk,S/ 509 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa Eléctrica 9 Celdas Sole 2000w Sole2000 ...,S/ 399 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa De Aceite Sole Eléctrica 11 Celdas 2500...,S/ 449 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Suero facial de colageno 50ml + Crema 3en1 50m...,S/ 52 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Suero colageno 50ml + Crema 3en1 50ml + Crema ...,S/ 62 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo 320ml y Acondicionador 520ml + Cremero...,S/ 115 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Jabon limpiador Facial de Limon + Arnica 240Gr,S/ 62 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contornos de Ojos Colagenos 15ml + Inno Gialur...,S/ 179 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Vainilla + Exfoliante para los Pies 120m...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Vainilla + Exfoliante para los Pies 120m...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Rosa + Exfoliante para los Pies 120ml Al...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Oliva+ Exfoliante para los Pies 120ml Li...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Mango + Exfoliante para los Pies 120ml A...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Avena120ml + Exfoliante para los Pies Al...,S/ 38 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Crema Aloe vera + Exfoliante para los Pies 120...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Peluche Reno Muflon Bucky 34cm Nevada Federal,S/ 69 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de 2 Rebanadas Black & Decker TR200B...,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa Eléctrica Aceite 11 Celdas 2500w,S/ 429 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa De Aceite 9 Celdas 2000w Blanco Sole So...,S/ 379 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco Ofr7nk 7 Celdas Color Negr...,S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco Ofr9nk 9 Celdas Negro,S/ 379 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco 11 Celdas 2500W 30m2 Ofr11...,S/ 489 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiadores 9 Celdas Negro IMACO OFR9NK,S/ 329 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora Imaco 850 Watts IBT2085 Blanco,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco 7 Celdas OFR7NK Negro,S/ 279 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Coche Mellicero Double Love Edición Limitada G...,S/ 899 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de 2 Rebanadas Black & Decker TR200B...,S/ 109 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Taza Mug con Calentador - Rosada,S/ 21.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tostadora de 2 Rebanadas Black & Decker TR200B...,S/ 139 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sabanas de cuna 3 piezas diseño estrellitas ro...,S/ 189 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Sabana de cuna 3 piezas color blanco con bord...,S/ 189 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Moderna Butaca Aconcagua color Mostaza TU MESI...,"S/ 1,639.90 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 9 Celdas Imaco Ofr9Nk Negro,S/ 379 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 11 Celdas Imaco Ofr11Ao,S/ 599 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador 7 Celdas Imaco Ofr7Nk Negro,S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Estufa Termoradiador 11 Celdas Imaco Ofr11Nk,S/ 499 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco 11 Celdas 2500W 30m2 OFR11...,S/ 359 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Combo de Rosas Toalla Humedas, Limpiador y Cre...",S/ 65 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Espuma para Afeitar + Mascarilla Negra NNP + M...,S/ 112 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Combo Crema Depiladora Facial Depile + Crema F...,S/ 69.99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Espuma para Afeitar + Mascarilla Negra Barber ...,S/ 52 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Espuma para Afeitar + Mascarilla Negra NNP + M...,S/ 94 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Espuma para Afeitar + Spary para Limpieza de M...,S/ 58 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Café Tostado y Molido Frias Cafe Caturra 250 g...,S/ 18 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Juego de sala 3-2-1 Senay Mostaza + Mesa centr...,"S/ 3,419 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pintura Acrílica Acrylicol Mostaza 30 Ml,S/ 5 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Soporte Robocup Olive para Bebidas,S/ 279 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Soporte para Bebidas Táctico Robocup con Corre...,"S/ 1,609 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Soporte para Bebidas Plegable Y Portátil Roboc...,"S/ 1,639 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Portavasos Y Soporte para Bebidas Robocup Clam...,S/ 319 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Ricino Aceite de Castor 15ml + Biotin Natrol 5...,S/ 175 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Biotina & Romero 15ml + Biotin Natrol 5,000 MC...",S/ 175 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contornos de Ojos Celulas Madres 15ml + Inno G...,S/ 179 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contorno de Ojos Colageno 15 ml + Inno Gialuro...,S/ 259 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contorno de Ojos Celulas Madres 15 ml + Inno G...,S/ 259 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Contorno de Ojos Celulas Madres 15 ml + Inno G...,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pintura ECOSATINADO 1 Galón Mostaza,S/ 97.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Silla de Auto Nevada Edición Limitada Turquesa,S/ 699 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Luz Led Lineal Quasar Science Double Rainbow 4,"S/ 9,769 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Maletín Doble Wiwu para MacBook Pro e iPad,S/ 295 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Luz de Video Led Gvm 7Sm Double Sided Mini On ...,S/ 939 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Kit de Luces Led Quasar Science Double Rainbow...,"S/ 18,039 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Herramienta de Compresión Belden Cplcrbc Br Do...,"S/ 1,049 un",plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Audífonos Bluetooth Pods Pro 2da Generación OE...,S/ 159 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo y Acondicionador 520ml + Cremero 380Gr...,S/ 115 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Romero 320ml + Spray Para Peinar Romer...,S/ 59 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Biotina y Romero + Ricino Aceite de castor 15m...,S/ 115 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termo para Bebidas Calientes y Frias 1.9 L,S/ 59.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco OFR11AO Eléctrico de 11 Ce...,S/ 399 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco OFR7AO Eléctrico de 7 Celd...,S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Termoradiador Imaco OFR7NK Eléctrico de 7 Celd...,S/ 299 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set Keycaps Redragon PBT Double Shot A132 150 ...,S/ 133.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha Pesada Imaco I1700,S/ 89 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ginseng Nevada 420Ml 3 Unidades,S/ 74.50 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ginseng Nevada 420Ml 2 Unidades,S/ 54 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Ginseng Nevada 420Ml,S/ 29 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Acondicionador Romero Crecepelo Nnp 520Ml 3 Un...,S/ 105 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Acondicionador Romero Crecepelo Nnp 520Ml 2 Un...,S/ 74 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Acondicionador Romero Crecepelo Nnp 520Ml,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pack de 2 Vasos Tomatodo 2 en 1 para Bebidas y...,S/ 28.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Set de 6 Copas para Capuccino o Bebidas frias ...,S/ 39.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Billetera De Cuero Vegano N2347 Para Dama Rosa...,S/ 53.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Base Giratoria Rosada para Reposteria Profesio...,S/ 99 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Tienda de Campaña Rosada para Mascotas,S/ 185 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha pesada Oster clásica GCSTBV4119,S/ 119 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Plancha a Vapor Raf Rosada,S/ 89.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Ramo de Rosas Rosadas con Luces Led - Día de l...,S/ 45.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Vaso Tomatodo 2 en 1 para Bebidas y Snack 950 ...,S/ 14.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Pulsera Cubana para Hombre Modelo Titán x 21cm...,S/ 85 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Funda para Samsung Tab S9 FE 10.9"" - T550 Iman...",S/ 109.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Funda para Samsung Tab S7 11"" - A1893 Imantada...",S/ 109.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,"Funda para iPad Mini 2 7.9"" - T290 - T295 Iman...",S/ 109.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771
+,Shampoo Romero Crecepelo NNP 520ml Revitalizan...,S/ 49.90 un,plaza_vea,CEBADA TOSTADA SOLUBLE,2024-12-04 01:16:13.888771

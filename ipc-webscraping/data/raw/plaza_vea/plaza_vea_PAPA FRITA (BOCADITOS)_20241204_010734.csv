@@ -1,0 +1,962 @@
+unit,description,price,website,search_term,scrape_timestamp
+Presentación 1 kg aprox.,Papa Blanca Yungay,S/ 3.19 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.5 kg aprox.,Papa Blanca,S/ 2.99 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.25 kg aprox.,Papa Amarilla Tumbay,S/ 6.79 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.5 kg aprox.,Papa Amarilla Peruanita,S/ 7.49 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.5 kg aprox.,Uva Verde sin Pepa x Kg,S/ 15.90 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1Kg,Papa Prefrita Congelada AVIKO Bolsa 1kg,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 135g,Papas INKA CHIPS con Sal de Mar Bolsa 135g,S/ 7.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 1 kg aprox.,Papa Cocktail Amarilla,S/ 3.69 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 1 kg aprox.,Papa Cocktail,S/ 1.80 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Puré de Papa KNORR Bolsa 125g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 135g,Papas INKA CHIPS BBQ & Cebolla Bolsa 135g,S/ 7.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 135g,Papas INKA CHIPS Jalapeños Bolsa 135g,S/ 7.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 400g,Papa Seca BELL'S Bolsa 400g,S/ 5.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 2un,Pack Papas LAY´S Clásicas Bolsa 150g + PIQUEO ...,S/ 13.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 180g,Pasas Morenas BELL'S Bolsa 180g,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.9 kg aprox.,Patas de Pollo Empacada al vacío SAN FERNANDO,S/ 8.50 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.5 kg aprox.,Papa Huayro,S/ 7.29 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 6un,Galleta Doña Pepa FIELD Paquete 6un,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 240g,Aceituna Negra sin Pepa EL OLIVAR Bolsa 240g,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 104g,Papas PRINGLES Original Lata 104g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 220g,Aceituna Botija sin Pepa HUERTO MEJÍA Paquete ...,S/ 12.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Presentación 0.5 kg aprox.,Papa Andina Procesada,S/ 4.99 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 2un,Pollo Rostizado + Papas Fritas,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Papas al Hilo BELL'S Bolsa 125g,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 400g,Cereal UNIÓN Granola Pasas y Almendras Doypack...,S/ 16.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 380g,Cereal ANGEL Capas de trigo con chocolate Bols...,S/ 11.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 260g,Aceituna Negra sin Pepa BELL'S Táper 260g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 200g,Maní Tostado Frito BELL'S Táper 200g,S/ 5.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 240g,Aceitunas Verdes EL OLIVAR sin Pepa Bolsa 240g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Puré BELL'S Papas Bolsa 125g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 190g,Palitos de Maíz CHIZITOS Bolsa 190g,S/ 6.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 500g,Turrón de Doña Pepa BELL'S Caja 500g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 750g,Papas Prefritas Rizadas AVIKO Bolsa 750g,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla Cilíndrica con Tapa MR GRILL,S/ 119 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 500g,Turrón SAN JOSÉ de Doña Pepa Paquete 500g,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Pasas Morenas VALLEALTO Bolsa 150g,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 250g,Pasas Morenas VALLEALTO Doypack 250g,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1.05Kg,Papa Crinkle Congelada BEM BRASIL Bolsa 1.05kg,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 155g,Papas al Hilo LAY'S Bolsa 155g,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 135g,Papas INKA CHIPS Queso & Cebolla Bolsa 135g,S/ 7.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Seca TESORO DEL CAMPO Bolsa 500g,S/ 7.69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1L,Agua sin Gas CIELO Tapa Sport Botella 1L,S/ 2.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 220g,Piqueo BELL'S Papas al hilo Bolsa 220Gr,S/ 8.29 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Guindones sin Pepa VILLA NATURA Bolsa 150g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 85g,Panetón con Pasas y Frutas Confitadas TODINNIT...,S/ 4.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 3un,Pollo Rostizado + Papas Fritas + Gaseosa 1.5L,S/ 33.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1L,Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 500g,Turrón de Doña Pepa LA FLORENCIA Caja 500g,S/ 9 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 1un,Pepinillo Sin Pepas TODO SANO x un,S/ 6.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 210g,Papas LAY'S Clásicas Bolsa 210g,S/ 9 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 109g,Papas PRINGLES Crema y Cebolla Lata 109g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1Kg,Mix de Frutas Congeladas BELL'S Bolsa 1kg,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Canchan Prefrita con Cascara Congelada BE...,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 1un,Papa Rellena LA FLORENCIA 450g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 140g,Papas LAY'S Ondas Picante Bolsa 140g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 130g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol...,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 250g,Papas al Hilo VILLA NATURA Bolsa 250g,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 250g,Pasas Morenas BELL'S Táper 250g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 140g,Papas LAY'S Ondas Clásicas Bolsa 140g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 250g,Guindones sin Pepa VILLA NATURA Bolsa 250g,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.89L,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 18.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 200g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 9.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 109g,Papas PRINGLES Queso Lata 109g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 240g,Aceitunas Negras EL OLIVAR con Pepa Bolsa 240g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 22 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 250g,Guindones sin Pepa BELL'S Táper 250g,S/ 13.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 10un,Comida para Perros RAMBALA Adulto Patas de Pol...,S/ 8.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Papas LAY'S Clásicas Bolsa 150g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 50g,Galletas FIELD Doña Pepa Travesuras Bolsa 50g,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papas al Hilo VILLA NATURA Bolsa 500g,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 1Kg,Turrón SAN JOSE de Doña Pepa Caja 1Kg,S/ 34.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 3un,Combo Pollo Rostizado + Papas Fritas + Chicha ...,S/ 32.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 2un,2 Pollos Rostizados + 2 Papas Fritas,S/ 54.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 20un,Infusión NATURE'S HEART Frutas Tropicales Caja...,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 1un,Porción de Papas Fritas,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 340g,Papas LAY'S Ondas Picantes 140g + Piqueo SNAX ...,S/ 13.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Pasas Rubias VILLA NATURA Bolsa 150g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 230g,Aceituna Verde sin Pepa HUERTO MEJÍA Paquete 2...,S/ 10.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 284g,Mix de Papas Nativas TIYAPUY Bolsa 142g + Chif...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 135g,Papas LAY'S Artesanas Sal Marina Bolsa 135g,S/ 6.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 2un,Pack Papas LAY´S Clásicas Bolsa 150g + DORITOS...,S/ 13.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 500g,Turrón de Doña Pepa CRISTO MORADO Caja 500g,S/ 18.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 260g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 11.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taza DECO HOME 3D Papa Noel,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 820g,Cocktail de Frutas BELL'S en Almíbar Lata 820g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 115g,Papas Fritas INKA CHIPS Finas Hierbas Bolsa y ...,S/ 8.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 40g,Hojuelas de Papas Nativas TIYAPUY Mix Fritas B...,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 140g,Piqueo BELL'S Maní con Pasas Táper 140g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 284g,Mix de Papas Nativas TIYAPUY Bolsa 142g + Camo...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 1.3Kg,Enrollado de pollo con Frutas REDONDOS unid x ...,S/ 35.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 1Kg,Papa Amarilla Tumbay FEST Prefrita Congelada D...,S/ 14.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 2un,1/4 Pollo Rostizado + Papas Fritas,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 1un,Pack Pollo Rostizado x2 + Papas Fritas x2 + Ga...,S/ 58.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 180g,Piqueo BELL'S Guindones medianos sin pepa Bols...,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Compota de Fruta BELL'S Pera Frasco 113g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Sazonada en Gajos AVIKO Bolsa 500g,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Compota de Fruta BELL'S Durazno Frasco 113g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 34g,Papas Artesanales LAYS Sal Marina Bolsa 34g,S/ 2.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 200g,Mix de Nueces y Frutas BELL'S Táper 200g,S/ 9.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Papas PRINGLES Cheddar & Bacon Lata 105g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 412g,Caramelos Masticables de Fruta ARCOR Bolsa 412...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Galonera 1.7Kg,"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,...",S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 1un,Pepinillo Sin Pepas VIVA x un,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 120g,Papas Peruanas INKA CHIPS Bembos Hamburguesa B...,S/ 8.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 12un,Tapa Empanada BELL'S Paquete 12un,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 180g,Piqueo BELL'S Maní con pasas Bolsa 180Gr,S/ 5.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Display 30un,Galletas con Cobertura de Chocolate DOÑA PEPA ...,S/ 28 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Piqueo VILLA NATURA Chifles camotes y yucas fr...,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 1.3Kg,Enrollado de Pollo BELL'S con Jamón Queso Toci...,S/ 38.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 100un,Caramelos AMBROSOLI Gajo frutas Bolsa 100Un,S/ 8 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Amarilla Precocida Tumbay FIFU Bolsa 500g,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.9L,Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 130g,Papas LAY'S Artesanas Alitas BBQ Bolsa 130g,S/ 6.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 20un,Comida para Perros RAMBALA Adulto Patas de Pol...,S/ 16.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 200g,Galletas Integrales FIBRA LIGHT Bocaditos de S...,S/ 9.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 142g,Papas Nativas Mixtas TIYAPUY Bolsa 142g,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 500g,Turrón DOÑA PEPA Bandeja 500g,S/ 8 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Hojuelas de Papas Fritas BELL'S Onduladas Bols...,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 822g,Cóctel de Frutas ACONCAGUA en Almíbar Lata 820...,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Papa Super Crunch AVIKO Bolsa 750g,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1Kg,Papa Prefrita BELL'S Bolsa 1Kg,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Piqueos BELL'S Camote Frito en Hojuelas Bolsa ...,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 475ml,Jugo de Fruta KERO Mango y Maracuyá Botella 47...,S/ 4.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 280g,Aceituna Negra con Pepa BELL'S Táper 280g,S/ 11.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Compota de Fruta BELL'S Manzana Frasco 113g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 36g,Papas LAY'S Clásicas Bolsa 36g,S/ 2.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 820g,Cocktail de Frutas ARICA Lata 820g,S/ 12.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1.05Kg,Papa Tradicional Congelada BEM BRASIL Bolsa 1....,S/ 11.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 55g,"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa ...",S/ 2.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1L,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 9.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado HEINZ Fruta Mixtas Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1L,Jugo de Fruta L'ONDA Cranberry Botella 1L,S/ 9.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 150g,Pasas Rubias BELL'S Táper 150g,S/ 8.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 2un,Piqueo BELL'S Papas fritas 185Gr + Piqueo BELL...,S/ 12.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 37g,Papas PRINGLES Sabor Original 37g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 150g,Piqueo BELL'S Papas Fritas Sabor Original Lata...,S/ 6.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 140g,Piqueo BELL'S Maní Frito Salado Táper 140g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 109g,Papas PRINGLES Churrasco Lata 109g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Maní con Pasas VILLA NATURA Bolsa 150g,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 250g,Piqueo VILLA NATURA Pasas Maní Almendra Pecana...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 475ml,Jugo de Fruta KERO Naranja y Piña Botella 475m...,S/ 4.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Pasas Morenas VILLA NATURA Bolsa 150g,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Chocolate 2 CERRITOS con Pasas Bolsa 125g,S/ 10.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 350g,Salsa de Tomate Frito VALDEPORRES Frasco 350g,S/ 11.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado HEINZ Frutas Tropicales Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 40g,Chocolate con Pasas BIB'S Bolsa 40g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 29.04g,Caramelos MENTOS Fruta Bolsa 29.04g,S/ 2 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 750g,Panetón con Frutas BAUDUCCO Caja 750g,S/ 34.69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 34g,Papas Artesanales LAYS BBQ Bolsa 34g,S/ 2.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Anillado CLASS&WORK Tapa Dura Cuadric...,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 180g,"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,...",S/ 2 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Preferida DURAPLAST 28 Diseño Navidad Tap...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 1un,Dedos de Pollo + Papas Fritas + Gaseosa 300ml,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 60g,Papas Fritas BELL'S Sabor Original Lata 60g,S/ 3.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 945ml,Jugo de Fruta L'ONDA Manzana Botella 945ml,S/ 9.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 820g,Cocktail de Frutas FRUTO DE ORO Lata 820g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 142g,Papas Nativas Amarilla Bolsa 142g,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 350g,Salsa de Tomate Frito VALDEPORRES Aceite de Ol...,S/ 10.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Papa Amarilla en Bastones FIFU Bolsa 500g,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.89L,Jugo de Fruta L'ONDA Arándano Botella 1.89L,S/ 18.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 105g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 5.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Preferida DURAPLAST 28 Diseño Navidad Tap...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Galletas Navideñas NOEL Papá Noel Bolsa 150g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 350g,Granola BELL'S Coco y Pasas Doypack 350g,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 60g,Papas Fritas BELL'S Sabor Cebolla Lata 60g,S/ 3.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vela DEO HOME C/ Tapa Surt.,S/ 5.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 6un,Bolitas de Cereal TRUBALLS Maní y Pasas Paquet...,S/ 10.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 1Kg,Turrón de Doña Pepa BELL'S Caja 1Kg,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broaster 8 Piezas + Papas Fritas 400g,S/ 38.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Combo Pollo Rostizado + Papas Fritas + Chicha ...,S/ 38.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta NATURALE Chicha Morada Botella 5...,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Papa Rellena x un,S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Guindón sin Pepa VALLEALTO Bolsa 150g,S/ 9 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 10un,Infusión TWININGS Frutas Silvestres Caja 10un,S/ 19.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Combo Pollo Rostizado + Papas Fritas + Chaufa ...,S/ 40.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cánister de Vidrio VIVA HOME C/Tapa de Madera ...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 100g,Chocolate Milky LA IBÉRICA Pecanas y Pasas Caj...,S/ 20.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 150g,Papas Fritas BELL'S Sabor Crema y Cebolla Lata...,S/ 6.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado HEINZ Ciruela y Pasas Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 150g,Papas Fritas BELL'S Sabor Pizza Lata 150g,S/ 6.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 115g,"Papas Onduladas INKA CHIPS Sabor a Tomate, Alb...",S/ 8.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 6un,Barra de Cereal Q FOODS Quinoa Pasas y Chocola...,S/ 20.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 242g,Papas Nativas TIYAPUY Mix Bolsa 142g + Chips d...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeca BARBIE Pop Reveal Sere de Frutas NW40,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 3L,Bebida FRUTARIS con Sabor a Frutas Cítricas Bo...,S/ 5.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 200g,Turroncitos de DOÑA PEPA Bandeja 200g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Hojuelas de Papas Fritas BELL'S Bolsa 150g,S/ 5.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 113g,Colado de Frutas Tropicales AGÚ Doypack 113g,S/ 3.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 158g,Papas PRINGLES BBQ Lata 158g,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Juego Didáctico Cara De Papa Nuevo Sr. Cara De...,S/ 54.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 2un,Combo Pollo Rostizado + Papas Fritas + PILSEN ...,S/ 48.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 475ml,Jugo de Fruta KERO Camu Camu Botella 475ml,S/ 5.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 158g,Papas PRINGLES Cheddar Sour & Cream Lata 158g,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.89L,Jugo de Fruta L'ONDA Cranberry Uva Botella 1.8...,S/ 18.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.89L,Jugo de Fruta L'ONDA Uva Botella 1.89L,S/ 17.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 50g,Chocolate en Barra LA IBÉRICA Milky Pecanas y ...,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 200g,Cocktail Premium VIVA LA FRUTA Bolsa 200g,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Termo Clásico con Tapa Color VIVA HOME 1L (Mod...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 750ml,Vino Tinto TAPAS Botella 750ml,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 500g,Gnocchi de Papa Amarilla IL PASTIFICIO Bandeja...,S/ 24.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 115g,Papas Onduladas INKA CHIPS Búfalo Bolsa 115g,S/ 8.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 950g,"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,...",S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 200g,Almendras VIVA LA FRUTA Bolsa 200g,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Balde REY Premium con Tapa y Asa de Metal 6L,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 750ml,Vino Blanco TAPAS Botella 750ml,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 170g,Camote Frito BUCKY Bolsa 170g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 240g,Aceitunas Verdes EL OLIVAR con Pepa Bolsa 240g,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bowl DECO HOME C/Tapa de Tomate,S/ 8.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broaster 8 Piezas + Papas Fritas 400g + Gaseos...,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 200g,Guindón sin Pepa VILLA NATURA Táper 200g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Chocolate 2 CERRITOS Relleno de pasas Bolsa 12...,S/ 10.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister de Vidrio VIVA HOME con Tapa de Mader...,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado HEINZ Cocktail de Frutas Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Piqueo INKA CORN Maíz gigante frito Bolsa 500G...,S/ 24.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 120g,Snack NATURE'S HEART Frutas y Chocolate Doypac...,S/ 11.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Hojuelas de Plátano Frito BELL'S Dulces Bolsa ...,S/ 4.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 250g,Pasas Morenas VILLA NATURA Bolsa 250g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pollo Broaster 4 Piezas + Papas 200ml + Gaseos...,S/ 23.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adorno DECO HOME Papa Noel 60cm Fel Nav,S/ 57.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 820g,Frutas en Conserva FRUTO DE ORO Pera en Mitade...,S/ 11.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 250g,Maní con Pasas VILLA NATURA Bolsa 250g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 125g,Piqueo BELL'S Papas Camotes y Plátanos Fritos ...,S/ 4.79 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1L,Jugo de Fruta BELL'S Tomate Botella 1L,S/ 10.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broaster 4 Piezas + Papas Fritas 200g,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado HEINZ Postre de Frutas Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 150g,Papas Fritas BELL'S Sabor BBQ Lata 150g,S/ 6.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta NATURALE Manzana Botella 500ml,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Móvil REY Suprema #50 C/Tapa (Modelos Ale...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 158g,Papas PRINGLES Habaneras Lata 158g,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broaster 8 Piezas + Papas Fritas 400g + Chicha...,S/ 43.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 70g,Papas LAY'S Clásicas Bolsa 70g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado AGÚ Frutas Tropicales Frasco 113g,S/ 3.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 473ml,Ready To Drink (RTD) FOURLOKO Ponche Frutas La...,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 180g,Piqueo BELL'S Pasas rubias Bolsa 180Gr,S/ 9.19 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta L'ONDA Manzana Botella 500ml,S/ 5.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 1un,Torta Chantilly y Frutas Mediana LA FLORENCIA ...,S/ 60.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Táper 250g,Piqueo VILLA NATURA Pasas Almendras Pecanas Nu...,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 350g,Cereal MCCALLUM'S Multicereal con Pasas Caja 3...,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 1.05Kg,Papas Prefritas BEM BRASIL con Forma de Carita...,S/ 12.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 130g,Papas KRYZPO Original Lata 130g,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bandeja 46un,Mix Mini Bocaditos LA FLORENCIA Bandeja 46un,S/ 43.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeco DECO HOME Patas Largas Surtido 61cm F N,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 220g,Piqueo BELL'S Papas Camotes y Plátanos Fritos ...,S/ 7.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeco DECO HOME Jengibre Patas Largas 61cm Du...,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 158g,Papas PRINGLES Adobada Lata 158g,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 80g,Mini Panetón con Frutas BAUDUCCO Caja 80g,S/ 5.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 120g,Mix Tapas Españolas CASA EUROPA Paquete 120g,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Frasco 113g,Colado de Frutas Criollas HEINZ Frasco 113g,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 142g,Papas Nativas TIYAPUY Mixtas Sabor a Jalapeño ...,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mix de Frutas FEST Loreto Doypack 350g,S/ 10.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 700g,Papa Prefrita Tradicional MCCAIN 700g,S/ 16.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 820g,Cocktail de Frutas DOS CABALLOS Lata 820g,S/ 15.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 130g,Papas KRYZPO Crema y Cebolla Lata 130g,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Pasas Morenas VILLA NATURA Bolsa 500g,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Pack 1un,Nuggets de Pollo + Papas Fritas + Gaseosa 300m...,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 170g,Papas Ondas BUCKY Bolsa 170g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 2.17Oz,Caramelos SKITTLES WILD BERRY Sabor de frutas ...,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vela Con Tapa DECO HOME Surtida Acuar Rom,S/ 5.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pollo Broaster 4 Piezas + Papas 200ml + Chicha...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 750ml,Agua Mineral EVIAN sin Gas Botella con Tapa Sp...,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Almendras Fritas SALYSOL Lata 250g,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensa Papa FACUSA C/Mango de Plástico,S/ 68.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 90g,Bolitas de Cereal TRUBALLS Maní y Pasas Doypac...,S/ 8.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra VIVA HOME Vidrio C/Tapa de Madera,S/ 32.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Exprimidor Gigante con Tapa REY,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister con Tapa VIVA HOME Pajarito 17cm,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Didácticos ARTI CREATIVO Mapa del Perú,S/ 6.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 180g,Papas al Hilo BUCKY Bolsa 180g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 440g,Papa Rellena Cocida Congelada de Carne BELL'S ...,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 140g,Papas Ondas LAY'S con Mayonesa Bolsa 140g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 6un,Papas Original KRYZPO Lata 37g Paquete 6un,S/ 25.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Tubo 130g,Papas KRYZPO Sabor a Picante Ahumado Tubo 130g,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta NATURALE Agua de Piña Golden Bot...,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 1.5L,Bebida Rehidratante POWERADE Frutas Botella 1....,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Ollita DECO HOME Con Tapa Colores Varios,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 750ml,Vino Rosé TAPAS Botella 750ml,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta L'ONDA Cranberry Botella 500ml,S/ 5.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Pulida RECORD Con Tapa De Vidrio N° 22 Fe...,S/ 126.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Organizadora REYPLAST Smart Box 4.8L C/Ta...,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Carrito Bocadillos Flamingo POLLY POCKET,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 142g,Papas Nativas TIYAPUY Mixtas Sabor a Limón y P...,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tabla de Picar Frutas VIVA HOME (Modelos Aleat...,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Decantador DECO HOME 500ml Tapa Colores Variad...,S/ 5.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja C/Tapa DURAPLAST Mónaco G N°2 6L (Modelos...,S/ 9.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bacín Didáctico REYPLAST Hippo C/Tapa Niño,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 5.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Plástica REYPLAST 120 Suprema Con Tapa,S/ 56.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Bebida FRUTARIS sabor Frutas Cítricas Botella ...,S/ 1.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Envase 1un,Pionono con Frutas y Chantilly LA FLORENCIA 1u...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Caja 144g,Bombones Rellenos con Licor de Pisco y Pasas B...,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mix de Frutas FEST Andes Doypack 350g,S/ 10.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister con Tapa VIVA HOME Pajarito 22cm,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mix Frutas Amazonas FEST Bolsa 350g,S/ 10.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Octime con Tapa LUMINARC 1.6L,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensa Papas FACUSA,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Espiralado DGNOTTAS Disney A-4 Tapa D...,S/ 36.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén de Cerámica RECORD con Tapa 22cm Rojo,S/ 119.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister Grande VIVA HOME Tapa Hermética,S/ 18.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 80g,Choco Pasas INCASUR Bolsa 80g,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bocadillos Tropicales POLLY POCKET,S/ 119.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bolsa de Regalo CLASS&WORK Papa Noel Grande PV,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Molde OCUISINE Rectangular 4.3L Con Tapa,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cubetera con Tapa Blanca VIVA HOME,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 6un,Banda Depilatoria Corporal VEET Cera Fría Piel...,S/ 42.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeca BARBIE Serie de Frutas Chelsea,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso Con Tapa Hermética 0.44 L Transparente,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 150g,Chips DELITIERRA Mix Cacao con Pasas Morenas B...,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cacerola OCUISINE Redondo con Tapa 1L,S/ 35.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 500g,Maní con Pasas VILLA NATURA Bolsa 500g,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bacín Didáctico REYPLAST Hippo C/Tapa Niña,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister VIVA HOME Tapa Blanca 900ml,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Espiralado DGNOTTAS Disney A-5 Tapa D...,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso de Entrenamiento DISNEY Mickey con Tapa G...,S/ 22.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso Entrenamiento DISNEY Minnie con Tapa Gira...,S/ 22.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Termo Clásico con Tapa Color VIVA HOME 1.8L (M...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Tivoli con tapa LUMINARC 1.6L,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén de Cerámica RECORD con Tapa 24cm Rojo,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Arc con tapa LUMINARC 1L,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Arc Sin Tapa LUMINARC 500ml,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Espiral DGNOTTAS A6 Tapa Dura Snoopy,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Espiral DGNOTTAS A6 Tapa Dura Pastel,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensa Papas VIVA HOME Grande,S/ 26.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set de Tápers VIVA HOME Tapa Pastel 3un,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra BASA 3.50 L Transparente Con Tapa Color ...,S/ 15.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Wok con Tapa ILKO N° 28 Clásica,S/ 89.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra con Mezclador BASA 3.50L Transparente Co...,S/ 17.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensador De Papa Surtido,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Pulida RECORD Con Tapa De Vidrio N° 20 Fe...,S/ 116.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Pulida RECORD Con Tapa De Vidrio N° 18 Fe...,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Wok Con Tapa N° 24 Clasica,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Pulida RECORD Con Tapa De Vidrio N° 26 Fe...,S/ 159.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Botella GOOD&GOOD 1.70 L Transparente Con Tapa,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra BASA 4.50 L Transparente Con Tapa Color ...,S/ 16.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno Espiralado DGNOTTAS A4 Tapa Dura Past...,S/ 33.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bacín REYPLAST Modelo Silla con Caritas Surtid...,S/ 38.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 500ml,Jugo de Fruta NATURALE Maracuyá Botella 500ml,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 120g,Papas Jalapeño BUCKY Bolsa 120g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 120g,Papas Finas Hierbas BUCKY Bolsa 120g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 160g,Papas en Ondas BUCKY Picante Bolsa 160g,S/ 7 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 120g,Papas en Ondas BUCKY BBQ y Cebolla Bolsa 120g,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 90g,Bombones de Chocolate BON O BON Papa Noel Paqu...,S/ 17.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuento Baby Mickey y Papa Noel DISNEY,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeco DECO HOME Patas Largas Surt.Na C,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeco DECO HOME Patas Largas 61cm Mágica,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Fuente Oval MARINEX C-Tapa 3.2L,S/ 40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set PYREX Bowl Tapa Roja 470ml + Bowl 1.6L,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vela Con Tapa DECO HOME Surtida Brisa Natural,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mason Jar DECO HOME 500ml c/Tapa Colores Vario...,S/ 5.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Botella con Tapa de Madera DECO HOME Colores ...,S/ 26.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso DECO HOME Con Tapa Diseños,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set Navidad Papa Noel CLASS&WORK 12 piezas,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Portalata REYPLAST Smart C/Tapa,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja Organizadora VIVA HOME C/Tapa Surtido,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Lata 1un,Bocaditos para Gatos YAMIS Sabores Marinos Lat...,S/ 10.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén con Tapa OSTER 24cm Aluminio Herscher,S/ 129 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bolsa de Regalo CLASS&WORK Papa Noel Grande,S/ 1.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Doypack 15g,Alimento para Perros PETS REPUBLIC Adulto Pata...,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taza de Entrenamiento Boca Suave Pets c/ Tapa ...,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Medias Casual Frutas Algodón Pack 3un SINGULAR...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensa papa ILKO Diseño,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set de Refractarios PYREX Redondo 3un C/Tapa,S/ 139.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra PASABAHCE Niagara 2.3L C/Tapa,S/ 42.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 6un,Papas KRYZPO Crema y Cebolla Lata 37g Paquete...,S/ 25.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 37g,Papas KRYZPO Sabor a Crema y Cebolla Paquete 3...,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Paquete 37g,Papas KRYZPO Original Paquete 37g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Peluche Interactivo GABBYS DOLLHOUSE Pandy Pat...,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla OSTER 25cm Aluminio con Tapa Herscher,S/ 164.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso para Bebé NUBY con Tapa 300ml,S/ 26.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Libro de Cocina INSTANT Crips Mini,S/ 99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén C/Tapa TRAMONTINA Paris 24cm Rojo,S/ 89.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén C/Tapa TRAMONTINA Paris 26cm Negro,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set CLASS&WORK Papa Notebook + Lapicero,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Bolsa 200g,Cocktail con Nueces VIVA LA FRUTA Bolsa 200g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+Botella 355ml,Jugo de Fruta HOOP Almango Botella 355ml,S/ 7.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla con Tapa de Vidrio OSTER CKSTGR300605...,S/ 379 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cuaderno MINERVA Cuadriculado Anillado Univers...,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cacerola ARCUISINE C/Tapa Roja 2L,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Roja Orange: Árbol de...,S/ 329.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Roja Orange: Árbol de...,S/ 159.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Envase de vidrio con tapa roja 14x7cm Orange,S/ 5.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Envase de vidrio con tapa verde 14x7cm Orange,S/ 5.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Roja Orange: Árbol de...,S/ 229.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja 28 litros Navidad transparente con tapa R...,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Standard Aro ...,S/ 16.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Dorada Orange: Árbol ...,S/ 159.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Polinplast: Balde industrial Promart 20 ...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Silla Deco Rita Blanco,S/ 169 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tira 10m de 300 con luz Led Fría Orange,S/ 31.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight adosable Orange Redondo 18W Luz Fría,S/ 17.43 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Roja Orange: Árbol de...,S/ 269.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Dorada Orange: Árbol ...,S/ 229.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Ventilador de Techo Orange 5 Aspas Plafón Luz ...,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot caja octogonal Opalux 12W 12.2cm Luz fría...,S/ 18.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Plegable para Alimentos,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight adosable Orange Cuadrado 12W Luz Frí...,S/ 13.93 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Sifón Jet Pre...,S/ 23.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para Microondas Chef multiusos grande Rey...,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Ciega Circular Blanco Luzzini Electric,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canasta Plastico Tipo Yute Nº 20 con Tapa - Co...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sarten wok con tapa 30cm Nova,S/ 94.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta cubierto llano con tapa,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Lubricante Multi Flexi Tapa 9 oz WD-40,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador de frutas modular M,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ventilador de techo Orange Sorrento 52"" 2 luce...",S/ 369 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico Pesado Blanc...,S/ 50.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cacerola Professional sin tapa N20,S/ 249.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Prensador de papas,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 40W Naranja Luz Fría,S/ 71.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón Geometrico 24W Rojo Luz Fría,S/ 62.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 30W Celeste Luz Fría,S/ 54.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 40W Celeste Luz Fría,S/ 77 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 20W Morado Luz Fría,S/ 52.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 40W Morado Luz Fría,S/ 87.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 20W Celeste Luz Fría,S/ 52.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pack x 3 Led GU10 4W Luz fría Orange,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ventilador de techo Orange Génova 52"" 5 palas",S/ 399 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ventilador de techo Orange Siena 30"" 3 luces 5...",S/ 279 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ventilador de techo Orange Amalfi 42"" 3 luces ...",S/ 279 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bulbo led E27 15W Luz fría x3u,S/ 15.92 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Globo E27 15W Luz Fría,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 3/4 mixto - Agua fría,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tope de puerta rígido niquelado con tapa negra,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Haya x 100 unidad...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Roja x 100 unidad...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Rosado Bebé x 100...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Wengue x 100 unid...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Peral x 100 unida...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión x 100 unidades,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Marrón x 100 unid...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Gris Oscuro x 100...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Gris Claro x 100 ...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Cerezo x 100 unid...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Blanca x 100 unid...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión x 100und.,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para tornillo a presión Almendra x 100 un...,S/ 0.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa de balde industrial,S/ 9.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa para válvula de paso 25 x 25 cm,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa de registro 20 x 20 cm,S/ 36.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo x 5m 1 simple presion - Agua fría,S/ 22.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo x 5m 3/4 roscado - Agua fría Tuboplast,S/ 22 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 1/2 simple presion - Agua fría,S/ 2.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 roscado - Agua fría,S/ 3.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Curva 90° 1/2 simple presion - Agua fría,S/ 3.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 simple presion - Agua fría,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 1 simple presion - Agua fría,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 3/4 simple presion - Agua fría,S/ 2.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 3/4 simple presion - Agua fría,S/ 2.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 1/2 simple presion - Agua fría,S/ 1.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 simple presion - Agua fría,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 3/4 a 1/2 simple presion - Agua fría,S/ 2.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 3/4 simple presion - Agua fría,S/ 3.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 3/4 simple presion - Agua fría,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 1/2 simple presion - Agua fría,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 1/2 simple presion - Agua fría,S/ 2.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 3/4 mixto - Agua fría,S/ 3.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1/2 mixto - Agua fría,S/ 2.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 3/4 mixto - Agua fría,S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 1/2 mixto - Agua fría,S/ 2 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 2 simple presion - Agua fría,S/ 10.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 1/2 simple presion - Agua fría,S/ 8.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 2 simple presion - Agua fría,S/ 13 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 2 a 1 simple presion - Agua fría,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo x 1m 1/2 roscado - Agua fría,S/ 15.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 1 1/4 mixto - Agua fría,S/ 1 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 3/4 roscado - Agua fría,S/ 4.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 roscado - Agua fría,S/ 6.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 3/4 roscado - Agua fría,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 160mm alcantarillado - Agua fría,S/ 34 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Curva 90° 1 simple presion - Agua fría,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 2 a 3/4 simple presion - Agua fría,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 1/4 simple presion - Agua fría,S/ 1 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Enchufe polarizado 2 patas Leviton,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala para construcción con mango de madera 1.3...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala para construcción con mango de plástico 1...,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Curva 90° 3/4 simple presion - Agua fría,S/ 5.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Curva 90° 1/2 simple presion - Agua fría,S/ 3.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 1/2 a 1/2 simple presion - Agua fr...,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 1/2 a 3/4 simple presion - Agua fr...,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bushing 1 a 3/4 roscado - Agua fría,S/ 7.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bushing 1 a 1/2 roscado - Agua fría,S/ 5.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 1 1/2 simple presion - Agua fría,S/ 8.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 2 mixto - Agua fría,S/ 9.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 1 1/2 mixto - Agua fría,S/ 6.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pata de cabra 3/4 x 30,S/ 20.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 3/4 mixto - Agua fría,S/ 1.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 2 simple presion - Agua fría,S/ 24.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 1/2 simple presion - Agua fría,S/ 14.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 1 simple presion - Agua fría,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 1/2 simple presion - Agua fría,S/ 1.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 3/4 simple presion - Agua fría,S/ 2.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 roscado - Agua fría,S/ 4 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 3/4 roscado - Agua fría,S/ 3.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1/2 roscado - Agua fría,S/ 2.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Flotador frutas tropicales,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Cubo 28W E27 Luz Fría,S/ 35.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Cubo 18W E27 Luz Fría,S/ 27.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Sensor E27 9W Luz Fría,S/ 35.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Ufo Lightech E27 15W 15cm Luz Fría,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Ufo Lightech E27 20W 20cm Luz Fría,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Bulbo E27 15W Luz Fría,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Bio 4.3 litros con tapa Blanco Marmol,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Bio 2.6 litros con tapa,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja organizadora con tapa y broche #160 92.4L,S/ 94.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador para ducha Orange Napa Cromado,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Caja de herramientas con tapa panal 14""",S/ 31.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Caja de herramientas con tapa organizadora 22""",S/ 73.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala angosta con mango de madera,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala ancha con mango de madera Tramontina,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tacho Pedal con tapa de caída lenta 12 litros,S/ 81.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tacho Artur con tapa negra 18L - Color Aleator...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Congeladora Ventus tapa de vidrio inclinado 30...,"S/ 1,999 un",plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa de Registro Galo Adhesiva Abs 30x25cm Bla...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Luzzini Electric: 10 Tapas Ciega Rectang...,S/ 19 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Luzzini Electric: 10 Tapas Ciega Circula...,S/ 25 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Philips Ecohome E27 13W Luz Fría - 3 ...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Baño Trebol Boné: Taza para inodoro Rapi...,S/ 289.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Luces de Navidad 120 leds Blanca Fría 12m Exte...,S/ 31.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vela Papá Noel Sentado con Árbol Colección Roj...,S/ 7.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Gz Ligthing 2 en 1 Redondo 24W L...,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Gz Ligthing Adosable Redondo 24W...,S/ 45.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED Gz Ligthing Caja Octogonal 10W Luz Fr...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED Gz Ligthing Caja Octogonal 10W Luz Fr...,S/ 30.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Gz Ligthing Empotrable Redondo 4...,S/ 84.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Gz Ligthing Adosable Redondo 12W...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED Gz Ligthing Mini 4W Luz Fría White,S/ 22.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Gz Ligthing Adosable Redondo 6W ...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED Gz Ligthing Mini 4W Luz Fría Silver,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED Gz Ligthing Caja Octogonal 8W Luz Frí...,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pack x 2 Panel Led Luminika 48w 60x60 Luz Fría,S/ 110.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Papelera Orange 5L con tapa Bamboo Blanco,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Baño Trebol Blanco: Taza para inodoro Ra...,S/ 258.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Baño Trebol Blanco: Taza para inodoro Ra...,S/ 258.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Baño Trebol Blanco: Taza para inodoro Ra...,S/ 316.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Luces de navidad 80 leds Blanca Fría 8m Exteri...,S/ 19.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Luces de navidad 180 leds Blanca Fría 18m Exte...,S/ 39.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bola de nieve Papa Noel Regalo Verde 9.3cm Col...,S/ 12.76 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bolsa de regalos Papá Noel 50x70cm Colección R...,S/ 16.76 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cadena ligera Copos de Nieve 195cm Luz Fría Or...,S/ 11.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bola de nieve Papa Noel Árbol 9cm Colección Ro...,S/ 12.76 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Inflable Papa Noel saliendo de taza 180cm Oran...,S/ 119.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bola de nieve Papa Noel Chimenea con luz Led C...,S/ 17.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tira 10m de 200 luces navideñas con luz Led Fr...,S/ 15.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Navideño Colección Dorada Orange: Árbol ...,S/ 269.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta Tissues Orange Negro con tapa Bambú 24cm...,S/ 11.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta Tissues Orange Blanco con tapa Bambú 24c...,S/ 11.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta Tissues Orange Gris con tapa Bambú 24cm ...,S/ 11.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tubo 3/4"" 5m Agua Fría sin rosca Matusita Tigr...",S/ 13.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento de inodoro redondo Pesado Caída Lenta ...,S/ 42.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento de inodoro redondo Liviano Fiori Blanc...,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Niple 1/2"" Agua Fría con rosca Matusita Tigre",S/ 1.44 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Unión 1/2"" Agua Fría sin rosca Matusita Tigre",S/ 0.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Unión 1"" Agua Fría con rosca Matusita Tigre",S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapón Macho 3/4"" Agua Fría con rosca Matusita ...",S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Unión 3/4"" Agua Fría sin rosca Matusita Tigre",S/ 2.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 90° 1/2"" Agua Fría sin rosca Matusita Tig...",S/ 1.15 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapón Hembra 3/4"" Agua Fría sin rosca Matusita...",S/ 1.75 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Adaptador 3/4"" Agua Fría Mixto Matusita Tigre",S/ 1.25 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapón Macho 1/2"" Agua Fría con rosca Matusita ...",S/ 1.65 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapón Hembra 1"" Agua Fría sin rosca Matusita T...",S/ 2.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ramal Tee 1/2"" Agua Fría con rosca Matusita Ti...",S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Ramal Tee 1"" Agua Fría con rosca Matusita Tigr...",S/ 6.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapón Hembra 1/2"" Agua Fría sin rosca Matusita...",S/ 1.17 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 90° 3/4"" Agua Fría con rosca Matusita Tig...",S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Unión 3/4"" Agua Fría con rosca Matusita Tigre",S/ 3.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 90° 1"" Agua Fría sin rosca Matusita Tigre",S/ 4.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 45° 1/2"" Agua Fría sin rosca Matusita Tig...",S/ 2.45 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Adaptador 1/2"" Agua Fría Mixto Matusita Tigre",S/ 0.65 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 90° 1/2"" Agua Fría con rosca Matusita Tig...",S/ 1.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Codo 90° 3/4"" Agua Fría sin rosca Matusita Tig...",S/ 3.25 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Arrocera Imaco RC36 Acero 1300W 3.6L Negr...,S/ 229.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla al Carbón Meat Master con Tapa de Dos...,S/ 449 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala Cuchara Puño y Mango Fibra de Vidrio Trup...,S/ 36.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa goteras Rojo 7.5cmx5m Rollo 6mm,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Smart Box 2.3 litros con tapa Reyplast,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Smart Box 5.5 litros con tapa y rejilla Reypla...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Smart Box 3.6 litros con tapa Reyplast,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Smart Box 4.8 litros con tapa Reyplast,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa goteras Aluminio 7.5cmx5m Rollo 6mm,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Arenero para Gatos Diseño Casa con Pala PVC Gr...,S/ 199.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Ciega Rectangular Blanco Luzzini Electric,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Ventilador de Techo Orange 3 Aspas con Foco Ti...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Ventilador de Techo Orange 5 Aspas Foco LED Lu...,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led 36W 30x120 Luz Fría Bellalux,S/ 104.04 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector led 200W Luz Fría IP65 Bellalux,S/ 279.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Slim Redondo 18W Luz Fría Negro Bell...,S/ 28.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector led 150W Luz Fría IP65 Bellalux,S/ 209.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Slim Redondo 12W Luz fría Blanco Bel...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Slim Redondo 18W Luz Fría Blanco Bel...,S/ 26.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Caja de registro con tapa amarilla gel Thor,S/ 36.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led Essential 40w 60x60 Luz fría Philips,S/ 127.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Unión soquet 1"" agua fría mixto Pavco",S/ 3.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Opalux Slim 100w IP66 Luz Fría,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Adosado Gz Ligthing Redondo Negro 24...,S/ 46.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Opalux Slim 50w IP66 Luz Fría,S/ 64.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight LED Dixon Adosable 24W Policarbonato...,S/ 54.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot caja octogonal Opalux 10W 12.2cm Luz fría...,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot caja octogonal Opalux 8W 12.2cm Luz fría ...,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Philips BVP150 G2 30w 2550 lumen...,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Philips BVP150 G2 10w 850 lumens...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Adosable Eglo Grimasola 25w Luz Fría,S/ 269 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Philips BVP150 G2 20W 1700 lúmen...,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Manguera Flex 15m 3 capas Verde con acople y b...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Orange 30w Negro Luz Fría,S/ 31.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector Led Philips BVP 150 100w IP65 Plásti...,S/ 207 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector Led Philips BVP 150 50w IP65 Plástic...,S/ 105 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED Orange 100w Negro Luz Fría,S/ 105 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Orange E27 18w Luz Fría,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Orange E27 15w Luz Fría,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Orange E27 30w Luz Fría,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique exterior led Tortuga Philips 20w Luz f...,S/ 54.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique exterior led Luminika Ovalado 12w Luz ...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Dispensador cobertor asiento de inodoro,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED 30W Luz Fría G3,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón LED UFO 30W Morado Luz Fría,S/ 54.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique LED Tortuga rectangular Blanco 20W Luz...,S/ 84.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED 50W Luz Fría G3,S/ 89.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta cubierto llano con tapa mármol,S/ 19.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique LED Tortuga ovalado Blanco 20W Luz Frí...,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set x 2 peladores de verduras y frutas,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Philips TrueForce E27 30w Luz Fría x ...,S/ 74.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Philips E27 15w Luz Fría x 2u.,S/ 78.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo Led Ledvance T8 G13 8w Luz Fría,S/ 14.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Taza y tanque Punta Sal + Asiento para i...,S/ 216.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,COMBO Inodoro One Piece Buzios con asiento Val...,S/ 471 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Azucarero con tapa 240ml Orange,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapa de Tanque de agua 18"" Negro Rotoplas",S/ 77.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Philips ESS E27 7.5w Luz Fría,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Philips Octagonal Empotrable 6w Luz ...,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tacho de cocina grande con tapa,S/ 22.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot Led Tramontina 6500k Cuadrado 3w Luz Fría,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Manguera de jardín 4 capas 10m con acoples y s...,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector Led Eco Ip65 Luz Fría 100w Lightech,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight Led Cuadrado Adosado Luz Fría 18w,S/ 30.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector Led Eco Ip65 Luz Fría 50w Lightech,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tacho con caída lenta Rojo 12 litros,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tacho de pedal con tapa soft close 10 litros,S/ 99.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper de vidrio Rectangular Hermetico con tapa...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper de vidrio Rectangular Refractario con ta...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper de vidrio Rectangular Hermetico con tapa...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper de vidrio Rectangular Refractario con ta...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Trinche para Paja/jardin 4 Dientes Home Tools,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco led alto poder Ballet T100 30w luz fría,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco led alto poder Ballet T140 50w luz fría,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot Led Saturno Dorado para Caja Octogonal 6w...,S/ 32.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot led Saturno Plateado para caja Octogonal ...,S/ 32.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led empotrable deco redondo 12w luz fría,S/ 41.56 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot Led Saturno Blanco para Caja Octagonal 6w...,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led empotrable deco redondo 6w luz fría,S/ 30.51 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led adosable Elegant redondo 24w luz frí...,S/ 55.16 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco led sensor smart Senstar 2 9w luz fría,S/ 45.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco led sensor Smart Senstar 3 9w luz fría,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led adosable Elegant redondo 6w luz fría,S/ 28.81 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led adosable Elegant redondo 12w luz frí...,S/ 37.31 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led empotrable deco redondo 18w luz fría,S/ 50.91 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot Led Saturno Negro para Caja Octagonal 6w ...,S/ 32.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot led dirigible 360° Eagle Eye 7w luz fría,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco led alto poder Ballet T120 40w luz fría,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led adosable Elegant redondo 36w luz frí...,S/ 110.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led adosable Elegant cuadrado 36w luz fr...,S/ 112.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot caja octogonal Philips 6W 10.5cm Luz fría...,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Inca con tapa 2.3 litros,S/ 31.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Clean Boné Me...,S/ 62.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico plástico Boné...,S/ 43.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Llave de agua fria al mueble IN 149 Teka,S/ 186 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Colgador de metal pantalón con revestimiento 5...,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala pesada recta de 2mm,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot emp led p/caja octogonal 14W silver Luz f...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Llave de agua fría al mueble In 151 Teka,S/ 196 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro parrillero tapa roja chico,S/ 489 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro parrillero tapa roja grande,S/ 789 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro parrillero tapa roja mediano,S/ 589 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Recolector de fruta Combisystem Gardena,S/ 121.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala de mano Estrecha Gardena,S/ 21 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico Universal Bl...,S/ 67.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique LED Tortuga Negro 20W Luz Fría,S/ 64.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Universal Bla...,S/ 55 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico caída lenta ...,S/ 67.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta cubierto llano con tapa crema,S/ 19.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Colador frutas y verduras,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sarten Wok antiadherente c/tapa Redblue 28cm,S/ 94.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister vidrio redo tapa bambú 700ml,S/ 15.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Canister vidrio redo tapa bambú 500ml,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight empotrable redondo 12W Luz Fría,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight adosable Orange Cuadrado 6W Luz Fría,S/ 12.53 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Máquina para hacer helado de fruta Bffm024 Neg...,S/ 129 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra Alaska 2.80 litros con tapa,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sartén N30 + Tapa + Mango Grillcorp,S/ 299 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper cuadrado 38 Pure Box Active c/tapa Orang...,S/ 18.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper rectangular 197 Cl Pure Box Active con t...,S/ 32.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper cuadrada 38 Cl Pure Box Active con tapa ...,S/ 18.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taper Cuadrada 76 Cl Pure Box Activ con tapa N...,S/ 20.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Placa doble hermética baquelita c/tapa vertica...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador de tapas de ollas,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Wiz Wifi Gu10 4.9W Luz Fría y Cálida,S/ 41.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Sarten wok con tapa 28cm Nova,S/ 89 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector led Pro 200W luz fría 22000lm IP65,S/ 399 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector led Pro 100W luz fría 11000lm IP65,S/ 219 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cable pasa corriente 1300 Amp - 5.0m,S/ 134.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set brocas pala 6pzs,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cincel pala SDS Plus 250mm,S/ 23.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 42,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 43,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mascarilla de 4 capas para niños,S/ 0.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 44,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 39,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 40,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 41,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 38,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Calzado de seguridad Warrior Ppa Talla 37,S/ 129.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra c/tapa Quadro Luminarc 1.7 litros,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel led RC048 60x60 Luz Fría 36W,S/ 146.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Canaleta PVC,S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Luminika E27 20W Luz Fría,S/ 54.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Luminika E27 15W Luz Fría,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco LED Ufo Luminika E27 30W Luz Fría,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reflector LED 10W Luz Fría G3,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight adosable Orange Redondo 12W Luz Fría,S/ 13.93 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 3/4 roscado - Agua fría,S/ 3.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 1 roscado - Agua fría,S/ 4.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 3/4 roscado - Agua fría,S/ 3.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1/2 simple presion - Agua fría,S/ 2.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 roscado - Agua fría,S/ 6 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 3/4 simple presion - Agua fría,S/ 1.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 20mm,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 32mm,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 18mm,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 16mm,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 14mm,S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Broca de pala profesional para madera 22mm,S/ 13.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tablero Empotrable PVC con tapa 8 polos,S/ 33.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tablero Empotrable PVC con tapa 12 polos,S/ 45.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pala de punta 1kg,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafon Led 20W Luz Fría,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 2 simple presion - Agua fría,S/ 13 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 2 mixto - Agua fría,S/ 9.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Tapa universal para complementos 4""",S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Gang 1.2mm,S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Ciega Cuadrada 1.2 mm,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Accesorio Tapa Final 32x12 mm,S/ 2.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Accesorio Tapa Final 40x25mm,S/ 3.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Accesorio Tapa Final 20x12mm,S/ 1.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón led 20W IP65 Silver Luz fría,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón hielo 12W led Luz fría,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión universal 1/2 simple presion - Agua fría,S/ 2.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador 3/4 mixto - Agua fría,S/ 1.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 2 a 1 simple presion - Agua fría,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 1/2 a 1 simple presion - Agua fría,S/ 5.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Rodo paso mármol con tapa x 2.40 metros,S/ 33.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico Vainsa Bali ...,S/ 59.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico Vainsa Bali ...,S/ 51.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado Melamine Modern Blanc...,S/ 140 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado plástico Stella Blanc...,S/ 92 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Inodoro One Piece Mediterráneo + Asiento Blanc...,S/ 581 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Inodoro One Piece Buzios botón superior + Asie...,S/ 335 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Inodoro One Piece Mediterráneo + Asiento Boné ...,S/ 609 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo Resina Sifón Boné Mela...,S/ 74.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Pesado Blanco...,S/ 46.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro elongado Resina Premium Boné M...,S/ 131.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Estándar Aro ...,S/ 16.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento para inodoro Pentaflux Elongado Vainsa,S/ 89.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento inodoro redondo plástico Sifón Jet Pre...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED dirigible Lightech Redondo 5W 10.5cm ...,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED dirigible Lightech Cuadrado 7W 10.5cm...,S/ 26.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Spot LED dirigible Lightech Redondo 7W 10.5cm ...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Ufo Lightech Silver E27 65W 30cm Luz ...,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón UFO E27 Luz fría 18W,S/ 74.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plafón UFO E-27 48W Luz fría,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel LED 48W 60x60cm 4370 lúmenes Luz fría Li...,S/ 76.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Downlight empotrable cuadrado 12W Luz Fría,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Panel LED 48W 30x120cm 4320 lúmenes Luz fría L...,S/ 84.91 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Aplique exterior LED Cubo Blanco 12W Luz Fría,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Carrito para frutas y verduras Gris,S/ 76.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Carrito para frutas y verduras,S/ 76.41 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Carrito p/ frutas y verduras,S/ 67.91 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pata Aspa Muhle Acero 38x38 250kg,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Repuesto de tapa para galonera,S/ 20.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Silla Deco Rita Negro,S/ 169 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Silla Deco Rita Rojo,S/ 169 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Foco Led Ufo Lightech E27 50W 30cm Luz Fría,S/ 139.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 1 roscado - Agua fría,S/ 4.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 3/4 simple presion - Agua fría,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bushing 1 a 1/2 roscado - Agua fría,S/ 5.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 1/2 simple presion - Agua fría,S/ 2.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bushing 1 a 3/4 roscado - Agua fría,S/ 7.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 45° 1 simple presion - Agua fría,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Codo 90° 2 simple presion - Agua fría,S/ 14.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 3/4 simple presion - Agua fría,S/ 3.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 3/4 a 1/2 simple presion - Agua fría,S/ 2.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón hembra 1/2 roscado - Agua fría,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 3/4 a 1/2 roscado - Agua fría,S/ 3.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 3/4 roscado - Agua fría,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 3/4 roscado - Agua fría,S/ 6.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reducción 1 a 1/2 simple presion - Agua fría,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 roscado - Agua fría,S/ 6.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 1 roscado - Agua fría,S/ 3.70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo x 5m 2 simple presion - Agua fría,S/ 62.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1/2 roscado - Agua fría,S/ 3.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapón macho 1/2 roscado - Agua fría,S/ 1.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tubo x 5m 2 roscado - Agua fría,S/ 83.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 3/4 simple presion - Agua fría,S/ 3.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1/2 simple presion - Agua fría,S/ 1 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1/2 roscado - Agua fría,S/ 2.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 1 1/2 simple presion - Agua fría,S/ 8.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 3/4 simple presion - Agua fría,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 3/4 roscado - Agua fría,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Unión 2 simple presion - Agua fría,S/ 10.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 simple presion - Agua fría,S/ 7.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 1 1/2 simple presion - Agua fría,S/ 14.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tee 2 simple presion - Agua fría,S/ 24.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa de Centro Prom Patas,S/ 249 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla Cilindrica Mr. Grill con Tapa Deluxe,S/ 279.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pijama Para Niño Circus Papá E Hijo,S/ 29.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Juguete Señora Cara De Papa Potato Head,S/ 39.96 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Señor Cara De Papa Playskool F3244,S/ 39.56 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set Tapers Vidrio con Tapa 3 Piezas,S/ 29.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Dc Batman Role Play Black Adam,S/ 49.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Espátula Pampa Acero,S/ 35.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pinza de Carne Pampa 37cm Acero,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa de Centro Nórdica Patas Marrones,S/ 219 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa de Lado Vidrio con Patas,S/ 199 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vestido Largo Mujer Rita Hypnotic,S/ 79.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Toalla De Playa Microfibra Frutas 80Cm X 160Cm,S/ 39.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeco Señor Cara De Papa,S/ 49.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Blusa Mujer Pepa Sin Mangas Hypnotic,S/ 69.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adorno De Navidad Gold Bola Capas 8Cm,S/ 9.97 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Reloj Digital Señor Cara De Papa Disney Pixar,S/ 18.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set De Juego Polly Pocket Carrito Bocadillos F...,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pijama Corazón Para Bebe Niña Baby Circus 2 Pi...,S/ 24.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chompa Cardigan Zafin Mujer Capa,S/ 49.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeca Barbie Pop Reveal Frutas Chelsea,S/ 69.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chupón Ortodóntico con Tapa Para Bebé Nuby,S/ 10.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Juego De Mesa Goliath No Despiertes A Papa,S/ 109 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Diamond Painting Maka Always Frida,S/ 65 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cacerola con Tapa 18 cm,S/ 71.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Colchoneta Inflable Bestway Frutas Lounge,S/ 59.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador con Tapa Frigider Gris 84.5 Oz,S/ 24.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso Para Bebé Nuby 360 Con Tapa Rosado 300 ML,S/ 27.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso Para Bebé Nuby 360 Con Tapa Azul 300 ML,S/ 27.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Vaso Para Bebé Nuby 360 Con Tapa 300 ML,S/ 27.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla 20 con Tapa 20 cm,S/ 77.94 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla Meat Master con Tapa Dos Niv Prem - N...,S/ 599 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Parrilla Meat Master con Tapa De Dos Niv-Negro,S/ 449 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Didáctico Grupo De Comida Frutas Y Verduras 5 ...,S/ 45.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Peluche Gabbys Dollhouse Pandy Patas,S/ 139.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Pyrex Easy Grab Molde Pan 1.4Lt C/Tapa,S/ 54.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla acero inoxidable Milenium Tapa Acero N°24,S/ 219.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Didáctico Abaco De Madera Modelo Frutas,S/ 139 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Camión Toyng A Escala 1:16 Fricción Con Luces ...,S/ 69.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chupón Dr Browns Prevent Brilla En La Oscurida...,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chupón Dr Browns Prevent Brilla En La Oscurida...,S/ 44.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapas De Viaje Dr Browns Para Biberones Boca A...,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chupón Dr Browns Prevent Brilla En La Oscurida...,S/ 28.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set De 3 Tapas De Viaje Dr Browns Boca Estrech...,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Muñeca Encanto 7.5 Cm Pepa,S/ 19.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro Parrillero Tapa Roja Grande,S/ 789 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro Parrillero Tapa Roja Mediano,S/ 589 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro Parrillero Tapa Roja Chico,S/ 489 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cilindro Parrillero Tapa Roja Mini,S/ 389 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set Tapers con Tapa 5 Piezas,S/ 49.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador de Frigider con Tapa Gris 111 oz,S/ 34.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta Huevos Frigider con Tapa Gris 18,S/ 19.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Señora Cara De Papa Playskool F3245,S/ 39.56 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento Animales Para El Inodoro Dreambaby,S/ 49.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Enchufes 2 Pines + Llave Blister 6U,S/ 11.95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Wok Con Tapa 28Cm,S/ 119.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mph Ts4 Señor Cara De Papa Buzz E3068,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mph Ts4 Señor Cara De Papa Woody E3068,S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Conjunto Comedor Madesa Jaíne Mesa Tapa Madera...,S/ 829 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Juego de Comedor Madesa Medelin Mesa Tapa Made...,S/ 849 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa Auxiliar para Sala,S/ 110 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Medias Largas Diseño Patas de Gallina/Pollo - ...,S/ 14.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Funda para Mueble de 3 Personas Color Gris,S/ 76 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Starlyf - Protectores para Patas de las Silla,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set 10 Cajas Organizador de Zapatos reforzado ...,S/ 89 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Juego de Comedor Madesa Cali Mesa Tapa Madera ...,S/ 659 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cortador Picador De Papas y Verduras De Acero ...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Contenedor de Aluminio Rectangular (100 uds) -...,S/ 228.80 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Máquina eléctrica para hacer helado de fruta,S/ 119 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Escurridor Soporte Expandible de Fregadero par...,S/ 25.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador Protector de Maquillaje Cosméticos...,S/ 26.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cocina de Mesa 2 Hornillas Portatil a Gas Estu...,S/ 109.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Medias Largas Diseño Patas de Gallina/Pollo - ...,S/ 14.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cortador Rallador De Frutas Picador Verduras M...,S/ 38 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Chupón Alimentador Para Fruta de Bebé 3 en 1 A...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Lápiz Universal Capacitivo para Apple/Iphone/I...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento Estable Inodoro Escalera La Sonaja Pot...,S/ 129 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Conjunto Comedor Habana Madesa Mesa Tapa Mader...,S/ 629 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Arenero para Gatos Diseño Casa Cool Cat con Pa...,S/ 199.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Exprimidor de Naranjas Cítricos y Frutas Eléct...,S/ 52 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set De 4 Patas Anti Vibración Para Muebles O M...,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Inodoro Portátil Celeste,S/ 64 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Suplemento Aguaje + Crema Quemador Tapa Amaril...,S/ 99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cama para Mascotas Peggy color Marrón TU MESIT...,S/ 409.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Medias Largas Diseño Patas de Gallina/Pollo - ...,S/ 14.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Haori Túnica de One Piece de Zoro Adulto,S/ 64.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Rodillo Masajeador Facial Esferas Frías Rosado,S/ 34.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento para inodoro infantil blanco Drembaby ...,S/ 49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set de 2 Copas para Capuccino o Bebidas Frias,S/ 19.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Recolector de frutas truper sin mango,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bowl Negro para Gato,S/ 34 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bowl Blanco para Gato,S/ 34.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Estante para Juguetes Gris,S/ 312 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizador de Refrigerador Multiusos con Asa ...,S/ 29.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Trio de Tomatodos 2L 1L y 300 ml para el Traba...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Haori Túnica de Demon Slayer de Zenitsu A...,S/ 64.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa Central compatible con Aro Kia 58mm (jueg...,S/ 99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,EATEX 12 recipientes de vidrio con tapas hermé...,S/ 265 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Olla Arrocera de 3.6 Litros con Tapa de Vidrio...,S/ 219 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Baño Arenero Belén Bandeja con Tapa Frontal Ab...,S/ 129.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taza My Sign con Diseño Papi te Quiero un Huev...,S/ 29 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taza My Sign con Diseño Papá Genial 11onz,S/ 29 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Taza My Sign con Diseño Papi te Quiero como Ca...,S/ 29 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Set de Frutas Bigjigs para Cortar con Mandil ...,S/ 130 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Medias Pack x 3 pares Frutas,S/ 19 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,100 Mascarillas KN95 5 Capas - Certificaciones...,S/ 599 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mascarilla KN95 - 5 Capas,S/ 25 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mascarilla KN95 - Niños - 5 Capas,S/ 25 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mascarilla KN95 - 7 Capas,S/ 30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mascarilla descartable Burana Safety SOS de 3 ...,S/ 85 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa de Casino Pata de Piña Cuadrada,"S/ 1,716 un",plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Señora y señora Cara de Papa Hasbro Mr. Potato...,S/ 120 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Mesa de ajedrez de 4 patas,"S/ 1,239 un",plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Escurridor con Tapa para Platos - Color Negro,S/ 210 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Frasco De Vidrio con Tapa de Madera 15cm,S/ 24 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Bint Hooran Eau De Parfum mujer con notas fres...,S/ 195 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,BrüMate Era - Vaso térmico con asa y pajilla s...,S/ 305 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Organizadoras Con Tapa y Varillas Caja De Alma...,S/ 20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Adaptador Rótulo Zapata Fría A Tornillo Univer...,S/ 58.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa De Valvula Para Neumatico - Ford,S/ 30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa De Valvula Para Neumatico - Subaru,S/ 30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tapa De Válvula Para Neumáticos - Mercedes Ben...,S/ 30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Novela Grafica Muerte de Superman ECC Tapa Dur...,S/ 152.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Ventilador de Techo 3 Aspas con Foco Tipo LED ...,S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cocina a Gas de 4H Tapa de Vidrio Indurama Bil...,S/ 665 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cesta Canasta con Tapa Pequeña de 23cm x 17cm...,S/ 14.89 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Articulos de Aseo para Gatos Hartz Pala de Are...,S/ 16.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Lampa cuchara, Pala carbonera Truper",S/ 69.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Saco Capa Abrigo Largo con Capucha Mujer,S/ 79 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Abrigo Blazer Manga Cero para Mujer Capa Larga,S/ 69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Saco y Capa para Mujer con Capucha -Moda Casua...,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Manga Corta Chaleco para Mujer,S/ 69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Chaleco Largo Delantero en Punta Manga Ce...,S/ 69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Saco y Capa para Mujer con Capucha -Moda Casua...,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Jarra de Vidrio con Tapa Acrílico 1700 ml,S/ 24.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Tetera Recta de Vidrio con Tapa de Bambú 1000 ...,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Plato de Vidrio para Dulces con Tapa Forma de ...,S/ 14.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,50 Cajas de Bocaditos con Tapa para Repostería...,S/ 75 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,100 Cajas de Bocaditos sin Tapa para Reposterí...,S/ 70 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Cesto de Mimbre Arknsas con Tapa,S/ 220 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Dispensador de Agua Electrolux EA11SR Fría y C...,S/ 699 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Asiento Estable Inodoro La Sonaja Baby Seat Ad...,S/ 99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Baby Brezza Formula Pro Advanced – Embudo y ta...,S/ 308 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Porta Rollos de Tela Negro,S/ 28 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,"Pata de cabra 75 cm barreta para desencofrar, ...",S/ 49.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Lampa cuchara pala mediano Truper,S/ 39.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Saco y Capa para Mujer con Capucha -Moda Casua...,S/ 79.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Polera Con Capucha Modelo Para el mejor papá,S/ 95 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716
+,Capa Larga Saco con Capucha para Mujer de Paño...,S/ 79 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-04 01:07:34.632716

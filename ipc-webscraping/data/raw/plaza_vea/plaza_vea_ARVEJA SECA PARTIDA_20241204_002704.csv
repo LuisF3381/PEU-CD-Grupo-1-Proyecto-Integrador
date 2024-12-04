@@ -1,0 +1,999 @@
+unit,description,price,website,search_term,scrape_timestamp
+Presentación 1 kg aprox.,Plátano de Seda,S/ 2.60 x kg,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 900g,Avena QUAKER Tradicional Bolsa 900g,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.25 kg aprox.,Arveja,S/ 6.19 x kg,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos BELLS Bolsa 20Kg,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Arverja Partida BELL'S Bolsa 500g,S/ 3.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 500g,Arverja Congelada BELL'S Bolsa 500g,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 660g,Jabón en Barra Antibacterial PROTEX Avena 6x11...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 200g,Lechuga Seda Hidropónica BELL'S Bolsa 200g,S/ 3.39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 540g,Pan de Molde UNIÓN Multisemillas y Avena Bolsa...,S/ 10.89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 900g,Avena Clásica 3 OSITOS Premium Bolsa 900g,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 10Kg,Arena para Gatos KLINKAT 100% Natural Bolsa 10...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos BELLS Bolsa 10Kg,S/ 16.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 360g,Jabón en Barra PALMOLIVE Avena y Azucar 3x120g,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 400g,Papa Seca BELL'S Bolsa 400g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 900g,Avena Natural SANTA CATALINA Bolsa 900g,S/ 9.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Arveja Verde COSTEÑO Bolsa 500g,S/ 4.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 750ml,Jabón Líquido BALLERINA Avena Doypack 750ml,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Arveja Partida TESORO DEL CAMPO Bolsa 500g,S/ 3.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 400g,Cereal UNIÓN Granola con miel de abeja Doypack...,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+110g,Jabón en Barra PROTEX Avena 3x110g,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos COOL CAT Bolsa 10Kg,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Frutos Secos VILLA NATURA Cocktail Premium Bol...,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1kg,Avena Precocida BELL'S Bolsa 1Kg,S/ 9.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 900g,Quinua Avena 3 OSITOS Bolsa 900g,S/ 11.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos KLINKAT 100% Natural Bolsa 20...,S/ 54.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 3un,Jabón de Tocador JOHNSONS Almendra y Avena Bar...,S/ 11.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Avena QUAKER Tradicional Bolsa 500g,S/ 8.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Avena Integral GRANO DE ORO Bolsa 500g,S/ 5.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Piqueo VALLE ALTO Frutos secos con almendras B...,S/ 6.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 300g,Miel de abeja LA REYNA OXAPAMPA Frasco 300Gr,S/ 19.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1kg,Avena GRANO DE ORO Bolsa 1Kg,S/ 10.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 1L,Jabón Líquido Antibacterial BACTERION Avena y ...,S/ 14.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 850g,Avena con Quinua QUAKER Bolsa 850g,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 2un,Pack Vino Rosé TABERNERO Gran Rosé Semi Seco B...,S/ 30.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos BELLS Bolsa 5Kg,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Avena SANTA CATALINA Natural Bolsa 500g,S/ 4.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 72un,Pañales para Bebé BABYSEC Premium XXG Paquete ...,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón de Tocador BALANZÉ BÁSICOS Avena Paquete...,S/ 5.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 120g,Jabón en Barra PALMOLIVE Avena y Azúcar 6x120g,S/ 19.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 2un,Bebida de Avena NATURES HEART Caja 946ml Paque...,S/ 18.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+800ml,Jabón Liquido PROTEX Avena 800ml,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 1000g,Saca Sarro DIAMANTE Especial para Inodoros y M...,S/ 7.59 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Tocador REXONA Antibacterial Avena 110g ...,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 400g,Arveja Precocida GREEN FOOD Bolsa 400g,S/ 7.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Papa Seca TESORO DEL CAMPO Bolsa 500g,S/ 7.69 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack Avena QUAKER Tradicional Bolsa 900g x2un,S/ 27.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Sobre 10g,Hongos secos BELL'S Sobre 10Gr,S/ 2 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1Kg,Avena BELL'S Bolsa 1Kg,S/ 9.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 1100g,Miel de Abeja LA REYNA OXAPAMPA Frasco 1100g,S/ 51.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 600g,Miel de abeja LA REYNA OXAPAMPA Frasco 600Gr,S/ 30.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lechuga MANANTIALES Seda Hidropónica,S/ 3.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 5Kg,Arena para Gatos KLINKATBolsa 5Kg,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 280g,Avena SANTA CATALINA con Quinua Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 280g,Maca Avena SANTA CATALINA Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 400g,Mix de Arveja y Zanahoria Precocida Congelada ...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 180g,Avena de Chocolate 3 OSITOS Bolsa 180g,S/ 5.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 600g,Miel de abeja BELL'S Miel de abeja natural Fra...,S/ 29.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 125g,Levadura Seca Instantánea SAF INSTANT Caja 125...,S/ 6 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Avena con Cereales Andinos Premium 3 OSITOS Bo...,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 5Kg,Arena para Gatos COOL CAT Bolsa 5Kg,S/ 11.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 946ml,Bebida de Avena NATURE'S HEART Caja 946ml,S/ 10.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Arveja Verde VALLENORTE Bolsa 500g,S/ 4.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 400g,Avena Integral MI TIERRA sin Gluten Bolsa 400g,S/ 11.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Quinua Avena Premium 3 OSITOS Bolsa 270g,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 370g,Quinua Avena GRANO DE ORO Hojuelas Precocidas ...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 400g,Harina de Avena MI TIERRA Sin Gluten Bolsa 400...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 70un,Pañales para Bebé HUGGIES Active Sec XXXG Paqu...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 280g,Kiwicha Avena SANTA CATALINA Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 370g,Maca Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 22 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 370g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Avena BELL'S Bolsa 500g,S/ 4.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 175g,Miel de Abeja LA REYNA DE OXAPAMPA Frasco 175g,S/ 16.19 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 330g,Avena QUAKER con Maca Bolsa 330g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 330g,Jabón Bebé JOHNSON'S Avena Tripack 330g,S/ 17.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé TABERNERO Gran Rosé Semi Seco Botell...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 100g,Galletas DEL PARAISO Avena & Manzana 100g,S/ 2.89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 72un,Pañales para Bebé BABYSEC Premium XG Paquete72...,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 200g,Queso Paria LA MATILDE Paquete 200g,S/ 13.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto VIÑA VIEJA Malbec Semi Seco Botella...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 13g,Hongos Secos con Laurel TOÑA Bolsa 13g,S/ 3.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 250g,Avena Clásica 3 OSITOS Bolsa 250g,S/ 5.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 175g,Miel de Abeja BELL'S Miel de Abeja Natural Fra...,S/ 9.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Avena con Manzana SANTA CATALINA Bolsa 150g,S/ 5.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 200g,Avena QUAKER Tradicional Bolsa 200g,S/ 4.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 370g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 330g,Avena QUAKER con Chía y Algarrobo Bolsa 330g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 1.5Kg,Avena con Hojuela sin Gluten LA PURITA Frasco ...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 330g,Avena con Quinua QUAKER Bolsa 330g,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 253g,Cereal en Barra NATURA VALLEY Crunchy Miel y A...,S/ 22.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 20g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack Pañales para Bebé HUGGIES Active Sec XXXG...,S/ 113.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bandeja 100g,Ají Panca Seco BELL'S Bandeja 100g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 74un,Pañales para Bebé HUGGIES Active Sec XXG Paque...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 700ml,Limpiador de Baño FÁCIL Quita Saca Sarro y Óxi...,S/ 11.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 400ml,Jabón para Bebé JOHNSON'S BABY Baño Líquido Av...,S/ 31.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 300g,Crema de Tratamiento NUTRIBELA Nutrición Seco ...,S/ 14 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 350g,Avena QUAKER Hojuelas de Avena Instantánea Caj...,S/ 9.29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 221ml,Jabón Líquido Antibacterial PROTEX Avena 221ml,S/ 8.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Crema de Arvejas ACSUR Bolsa 150g,S/ 3.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.2 kg aprox.,Queso Paria BONLÉ,S/ 11.58,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.5 kg aprox.,Queso Paria Madurado LA MATILDE x kg,S/ 32.95,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante TABERNERO Semi Seco Especial Botella...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Avena Instantánea Regular BELL'S Bolsa 270g,S/ 3.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Galletas Integrales LIGERITAS de Avena Bolsa 1...,S/ 6.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 1un,Máquina de Afeitar Recargable GILLETTE Venus E...,S/ 32.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Maca Avena Premium 3 OSITOS Bolsa 270g,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 880g,Jabón en Barra PROTEX Avena + Prebiótico 8x110...,S/ 28 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 280g,Avena SANTA CATALINA Algarrobina Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 200g,Miel de Abeja LA FLORENCIA 200g,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos BELLS Bolsa 3Kg,S/ 5.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 58un,Pañales para Bebé BABYSEC Súper Premium M Paqu...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 500ml,Miel de Abeja OLIVOS DEL SUR Botella 500ml,S/ 26.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 800g,Avena con Hojuela sin Gluten LA PURITA Bolsa 8...,S/ 18 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 100g,Piqueo BELL'S Frutos Secos Maíz del Cusco Bols...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 1.25L,Gel de Ducha INSTITUTO ESPAÑOL Para Piel Seca ...,S/ 32.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto SANTIAGO QUEIROLO Malbec Seco Botel...,S/ 16.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Blanco TABERNERO Gran Blanco Semi Seco Bo...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 300g,Harina de Avena Integral LA CASA MARIMIEL Doyp...,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 2un,Repuestos Para Afeitar GILLETTE Venus Especial...,S/ 32.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 1.3Kg,Enrollado de Pollo BELL'S con Jamón Queso Toci...,S/ 38.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Mix de Frutos Secos VILLA NATURA Pasión Mix Bo...,S/ 10.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 74un,Pañales para Bebé HUGGIES Active Sec XG Paquet...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack Pañales para Bebé HUGGIES Active Sec XXG ...,S/ 113.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 400g,Avena Mix Canela y Berries AMARU Superfood Doy...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bandeja 300g,Arverja Desvainada BELL'S Bandeja 300g,S/ 10.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 370g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa 3...,S/ 4.19 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Avena Clásica 3 OSITOS Bolsa 100g,S/ 1.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bandeja 100g,Ají Marisol Seco BELL'S Bandeja 100g,S/ 7.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Avena Clásica 3 OSITOS Bolsa 500g,S/ 9.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 235g,Fideo MOLITALIA Pastina Bolsa 235g,S/ 2.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.2 kg aprox.,Plátano de Seda,S/ 2.89 x kg,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Blanco BODEGAS PRADO Nabuc Semi Seco Bote...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 21Kg,Alimento Seco para Perros DOGUI Adultos Bolsa ...,S/ 149.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 290g,Avena QUAKER con sabor a Chocolate Bolsa 290g,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 410g,Mantequilla de Maní SPREAD con Miel de Abeja F...,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Avena con Chocolate SANTA CATALINA Bolsa 150g,S/ 5.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón de Tocador NIVEA Avena - Barra 125g Pack...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 1L,Bebida de Avena ORASI Caja 1L,S/ 14.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Soft Milk (Piel Seca) - F...,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 32un,Toallas Femeninas ALWAYS Nocturna Seca G Paque...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Chocol...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 56un,Pañales para Bebé BABYSEC Super Premium Talla ...,S/ 40.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Anís NAJAR Seco Especial Botella 750ml,S/ 36.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto TABERNERO Gran Tinto Semi Seco Bote...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo sin sal' Cabello Seco PANTENE Keratina...,S/ 20.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 250g,Fideo al Vapor CHOUNG LEE Seco Bolsa 250g,S/ 4.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 20un,Pañales para Bebé BABYSEC Super Premium Recién...,S/ 15.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé HACIENDA CASA INKA Semi Seco Botella...,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 900g,Avena Integral GRANO DE ORO Hoja Gruesa Pote 9...,S/ 17.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Vaso 160g,Yogurt TIGO Premium Natural con Miel de Abeja ...,S/ 5.19 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 100g,Avena SANTA CATALINA Bolsa 100g,S/ 1.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 600ml,Gel de Baño Avena BABARIA Frasco 600ml,S/ 20.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 650ml,Saca Grasa SELECTA Eco-Amigable Spray 650ml,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.55 kg aprox.,Queso Paria COSTUMBRES PERUANAS,S/ 38.06,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 52un,Pañales para Bebé BABYSEC Súper Premium G Paqu...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Avena Quinua SANTA CATALINA Bolsa 500g,S/ 6.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 2un,Vino Tinto VIÑA VIEJA Borgoña Semi Seco Botell...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Milk Nutritiva (Piel Extr...,S/ 36.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 3un,Pack Toalla Higiénica ALWAYS Cubierta Seca Noc...,S/ 51.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack Toalla Higiénica ALWAYS Cubierta Seca Noc...,S/ 34.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 72un,Pañales para Bebé BABYSEC Premium Hipoalergéni...,S/ 60.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco,Cuidado y limpieza mascota HARTZ Shampoo para ...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 750ml,Gel de Ducha INSTITUTO ESPAÑOL Avena Natural F...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Avena SANTA CATALINA Maca y Avena Bolsa 150g,S/ 2.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 35g,Hojuelas de Avena con Plátano BELL'S Bolsa 35g,S/ 1 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 1500ml,Pack Vino Rosé VIÑA VIEJA Semi Seco Botella 75...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto HACIENDO CASA INKA Borgoña Semi Sec...,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.55 kg aprox.,Queso Paria CHUGUR,S/ 32.95,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 300g,Cereal GRANO DE ORO Salvado de Avena Doypack 3...,S/ 9.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Quinua Avena SANTA CATALINA Bolsa 150g,S/ 2.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 3Kg,Arena para Gatos COOL CAT 3Kg,S/ 8.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 350ml,Jabón Líquido BALLERINA Natural Avena Botella ...,S/ 8 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 80g,Harina de Avena BELL'S Vainilla Bolsa 80g,S/ 1.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 200g,Galletas Surtidas COLOMBINA Paquete 200g,S/ 7.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Milk Nutritiva (Piel Extr...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé TABERNERO Tuyo Semi Seco Botella 750...,S/ 16.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo sin sal' Cabello Seco PANTENE Keratina...,S/ 30.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Avena Natural SANTA CATALINA Bolsa 250g,S/ 3.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 750ml,Jabón para Bebé en Gel SIMOND'S Avena Frasco 7...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Cava MARIA AMOROS Semi Seco Botella 750ml,S/ 44.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Lata 473ml,Vino Tinto VIÑA VIEJA Malbec Semi Seco Lata 47...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 32un,Toallas Maxi Protección Seca ALWAYS Paquete 32...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 410g,Golosinas Surtidas ARCOR Bolsón Piñatero Bolsa...,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 170g,Quinua Avena GRANO DE ORO Hojuelas Precocidas ...,S/ 2.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 500g,Arveja Verde Partida INCATRAIL Bolsa 500g,S/ 4.29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Leche Limpiadora Facial Suave Piel Seca NIVEA ...,S/ 25.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Avena Instantánea BELL'S Manzana y Canela Bols...,S/ 7.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 60un,Pañales para Bebé HUGGIES Active Sec Talla P P...,S/ 35.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante VIÑA VIEJA Napoleón Demi Sec Botella...,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 380g,Avena Precocida BELL'S Bolsa 380g,S/ 4 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón de Tocador NIVEA Avena - Barra 125g Pack...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 80g,Harina de Avena BELL'S Piña Bolsa 80g,S/ 1.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Lata 473ml,Vino Rosé VIÑA VIEJA Semi Seco Lata 473ml,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack BABYSEC Pañales para Bebé Premium XXG Paq...,S/ 125.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Avena y Kiwicha SANTA CATALINA Bolsa 150g,S/ 2.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 180g,"Barra de Avena, Quinua y Arándanos VITALMAX Pa...",S/ 14.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1Kg,Alimento Seco para Gatos FRISKIES Adultos Sele...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trapeador BOREAL Para Piso Saca Brillo,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 2un,Comida para Perros RAMBALA Adulto Orejas de Ce...,S/ 9 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé VIÑA VIEJA Semi seco Botella 750ml,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 68un,Pañales para Bebé HUGGIES Active Sec Talla M P...,S/ 50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack Pañales para Bebé HUGGIES Active Sec XG P...,S/ 113.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto Gran Tinto HACIENDA CASA INKA Seco ...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 750ml,Gel de Ducha con Avena LEA Frasco 750ml,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto VIÑA VIEJA Gran Borgoña Semi Seco B...,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 6un,Bandas Depilatorias Corporales DEPILÉ Piel Sec...,S/ 20.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 8Kg,Alimento Seco para Perros DOGUI Cachorros 8kg,S/ 68.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 170g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 2.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 38un,Pañales para Bebé BABYSEC Súper Premium XXG Pa...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bandeja 750ml,Espumante PANAKA Semi Seco Botella 750ml,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 80g,Harina de Avena BELL'S Sabor a Fresa Bolsa 80g,S/ 1.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 400ml,Jabon Liquido AROMASENSE Avena Frasco 400ml,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pizarra CLASS&WORK Borrado en Seco DDM,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Lata 425g,Arvejas FRUTO DE ORO Lata 425g,S/ 5.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 13g,Hongos Secos TOÑA Bolsa 13g,S/ 3.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 295ml,Crema Corporal CETAPHIL Pro Piel Seca Frasco 2...,S/ 105 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 8un,Toallas Femeninas Seca ALWAYS Talla M Paquete ...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Blanco E. COPELLO Moscato Semi Seco Botel...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.55 kg aprox.,Queso Paria con Orégano EL ARTESANO,S/ 38.45,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Soft Milk (Piel Seca) - F...,S/ 36.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 400g,Galletas Surtidas COLOMBINA Navidad Caja 400g,S/ 16.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.55 kg aprox.,Queso Paria EL ARTESANO,S/ 38.45,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Milk Nutritiva (Piel Extr...,S/ 23.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 20un,Caja Curitas Transpiel Surtidas 20un,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 68un,Pañales para Bebé BABYSEC Premium M Paquete 68...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 42un,Pañales para Bebé BABYSEC Súper Premium XG Paq...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Sobre 10g,Hongos Secos 4 ESTACIONES Sobre 10g,S/ 4.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 300g,Hojuelas de Avena con Semilla MILLER'S Vive Do...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chocotejas y Tejas Surtidas HELENA Caja 180g,S/ 31 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto E. COPELLO Tinto Semi Seco Botella ...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 400ml,Crema Corporal para Bebé JOHNSON'S BABY Líquid...,S/ 36.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 150ml,Desodorante para mujer Spray NIVEA Invisible B...,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pan de Molde con Avena ORNO Bolsa 600g,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 270g,Avena Instantánea BELL'S Chocolate Bolsa 270g,S/ 7.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 58un,Pañales HUGGIES Hiper Active Sec Talla G Paque...,S/ 52.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal NIVEA Soft Milk (Piel Seca) - F...,S/ 23.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 1100g,Miel de Abeja CALLEJÓN DE HUAYLAS Silvestre Fr...,S/ 62.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 250g,Chifles Cancha y Carne Seca EL ARTESANO Artich...,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 58un,Pañales para Bebé BABYSEC Premium G Paquete 58...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 150g,Queso Oveja Curado MARQUES DEL CASTILLO con tr...,S/ 26.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 0.25 kg aprox.,Queso Manchego de Oveja SPANISH CHESSE,S/ 32.48,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Spray 177ml,Loción Sea Spray SUM BUM Texturizing Frasco 17...,S/ 74.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 500g,Avena Mix MAMALAMA Aguaymanto Linaza Doypack 5...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante Clásico OCUCAJE Semi Seco Botella 75...,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto NAVARRO CORREAS Partida Limitada Bo...,S/ 44.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 1L,Jabón Líquido SIMOND'S Glicerina Avena Frasco ...,S/ 40.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé OCUCAJE Rosé Semi Seco Botella 750ml,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 150g,Queso de Oveja Curado MARQUÉS DEL CASTILLO Paq...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Vaso 45g,Avena Instantánea de Chocolate BELL'S Vaso 45g,S/ 3.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 500g,Avena Mix MAMALAMA Cranberry con Chía Doypack ...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 62un,Pañales para Bebé BABYSEC Premium Talla P Paqu...,S/ 40.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 240g,Avena NATURANDES 7 Semillas Doypack 240g,S/ 9.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Orejas de Gato GABBYS DOLLHOUSE 6067373,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Licor MR JIGGER Triple Sec Botella 750ml,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Empaque 1un,Seda Dental REACH Regular 50mts,S/ 14.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno DECO HOME Caja Surtida,S/ 5.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Lata 241g,Conserva VALLE FERTIL Arvejitas verdes Lata 24...,S/ 7.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 1L,Bebida de Avena ORASI UHT Caja 1L,S/ 16.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto VIÑA VIEJA Malbec Semi Seco Botella...,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Ron FLOR DE CAÑA Extra Seco 4 años Botella 750...,S/ 43.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 480g,Sirope sabor a Miel de Abeja SPITZE Botella 48...,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 300g,Miel de Abeja CALLEJÓN DE HUAYLAS Floración Si...,S/ 22.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante TACAMA Semi Seco Celebración Botella...,S/ 34.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 400un,Avena Mix Mango y Chocolate +NUTRI Co Caja 400...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Magic Color Setx12 + Moldes STANDFORD 11...,S/ 21.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Lata 425g,Conserva VALLE FERTIL Arvejitas verdes Lata 42...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto TABERNERO Tuyo Borgoña Semi Seco Bo...,S/ 16.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Partido de Baloncesto HUANGER 707-112,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Vaso 45g,Avena Instantánea de Frutos Rojos BELL'S Vaso ...,S/ 3.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 430g,Mezcla para Galletas de Avena LA IBÉRICA con C...,S/ 19.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 65g,Hojuelas de Avena Instantánea DYFFERENT Canela...,S/ 4.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 600g,Avena Proteína NATURANDES Doypack 600g,S/ 26.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 1.5L,Vino Tinto VIÑA VIEJA Gran Borgoña Semi Seco B...,S/ 34 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 700g,Miel de Abeja Pura HUAGAL Oxapampa Frasco 700g,S/ 61.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 7.5Kg,Alimento Seco para Gatos FRISKIES Adultos Mar ...,S/ 105.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chocotejas Surtidas HELENA Caja 180g,S/ 33.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 800ml,Crema para Bebé JOHNSON'S BABY Avena Botella 8...,S/ 55.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack BABYSEC Pañales para Bebé Premium XG Paqu...,S/ 125.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 50ml,Desodorante para mujer Roll On NIVEA Invisible...,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Orejas Mágicas Musicales GABBY'S DOLLHOUSE 606...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante CHANDON Demi Sec Botella 750ml,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto HACIENDA CASA INKA Semi Seco Botell...,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 500g,Miel de Abeja CALLEJÓN DE HUAYLAS Floración Si...,S/ 36.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 400ml,Shampoo HERBAL ESSENCES Bio:Renew 6X Aloe & Se...,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 150g,"Queso de Vaca, Oveja y Cabra MARQUÉS DEL CASTI...",S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 700ml,Licor BARDINET Triple Sec naranja Botella 700m...,S/ 60.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Vaso 45g,Avena Instantánea de Manzana y Canela BELL'S V...,S/ 3.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1Kg,Alimento Seco para Gatos FRISKIES Gatitos Poll...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto E. COPELLO Borgoña Semi Seco Botell...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vela Con Tapa DECO HOME Surtida Acuar Rom,S/ 5.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Facial POND'S Clarant B3 Piel Seca Frasc...,S/ 25.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Sanitaria MIMASKOT Bolsa 10Kg,S/ 26.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 500g,Miel de Abeja Pura HUAGAL Oxapampa Frasco 500g,S/ 45 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Sachet 58g,"Arroz con Pollo, Seco o Aguadito PROVENZAL Sac...",S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 350g,Avena MILLER'S en Hojuelas sabor Natural Doypa...,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Rosé E. COPELLO Semi Seco Botella 750ml,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Pack HERBAL ESSENCES Bio:Renew Aloe & Sea Kelp...,S/ 51.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 8Kg,Alimento Seco para Perros DOGUI Adultos 8kg,S/ 68.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto OCUCAJE Borgoña Semi Seco Botella 7...,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Tetrapack 200ml,Crema Batida ASTURIANA Tetrapack 200ml,S/ 9.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 300g,Hojuelas de Avena con Semilla MILLER'S Vive co...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 65g,Hojuelas de Avena Instantánea DYFFERENT Coco P...,S/ 4.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tejas Surtidas HELENA Caja 180g,S/ 31 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 2un,Avena Mix MAMALAMA Cacao + Maca do 500g,S/ 20.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pote 65g,Hojuelas de Avena Instantánea DYFFERENT Cranbe...,S/ 4.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 122g,Shampoo HASK en Seco Charcoal Frasco 122ml,S/ 47.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego de Mesa SCRABBLE Original Mattel Colabor...,S/ 119.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chocotejas Surtidas HELENA Caja 300g,S/ 56.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 170g,Avena Precocida BELL'S Bolsa 170g,S/ 2.79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Cava CODORNÍU Clásico Semi Sec Botella 750ml,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Cava PERELADA Semi Sec Botella 750ml,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto OVEJA BLACK Malbec Botella 750ml,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal SIMOND'S Dermocream Avenas Orgá...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 3Kg,Alimento Seco para Perros DOGUI Adultos 3kg,S/ 31 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco ml,Espuma Antipulgas para Perros BOBBY Baño Seco ...,S/ 11.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 48un,Pañales para Bebé BABYSEC Premium XG Paquete 4...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 400g,Avena Mix AMARU FOODS Chocoplátano Doypack 400...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Espumante E. COPELLO Semi Seco Botella 750ml,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Facial POND'S Clarant B3 Piel Seca Frasc...,S/ 35.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Manualidades ARTI CREATIVO Arena MágIca Sandy ...,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Rama DEO HOME Surtida 55cm,S/ 3.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 600g,Panetón Artesanal con Frutos Secos LA FLORENCI...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1.5Kg,Alimento Seco para Perros DOGUI Adultos 1.5kg,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 340ml,Crema Corporal SIMOND'S Mi Primera Crema Avena...,S/ 32.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tejas Surtidas HELENA Caja 300g,S/ 56.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 120g,Polen de Abeja HUAGAL Multifloral Oxapampa Fra...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 400un,Avena Mix Frutos Rojos +NUTRI Co Caja 400g,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 300g,Hojuelas de Avena con Semilla MILLER'S Vive co...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete De Playa De Arena 14Pcs,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Sanitaria MIMASKOT Bolsa 5Kg,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 340ml,Jabón Líquido SIMOND'S Mi Primer Jabón Micelar...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 6un,Banda Depilatoria Corporal VEET Cera Fría Piel...,S/ 42.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 180g,Chocolate LA IBÉRICA PASTILLAS SURTIDAS De lec...,S/ 34.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 180g,"Barra de Avena, Quinua y Nibs VITALMAX Paquete...",S/ 14.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 3Kg,Alimento Seco para Perros DOGUI Cachorros 3kg,S/ 31 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Magica Natural Setx6 + Moldes STANDFORD ...,S/ 29.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 500g,Miel CALLEJÓN DE HUAYLAS Miel de Abejas y Euca...,S/ 40.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa de Arena OXFORD 5Kg,S/ 141.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa de Arena OXFORD 10Kg,S/ 207.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa de Arena OXFORD 20Kg,S/ 286.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa de Arena OXFORD 15Kg,S/ 185.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolígrafos PILOT Tinta Seca BP-S Blíster 4un,S/ 15.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pentacombo IMACO Licuadora + Olla arrocera + H...,S/ 299 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 200ml,Shampoo en Seco URBAN CARE Hawaiian Monoi Para...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 200ml,Shampoo en Seco URBAN CARE Paradise Jungle Fra...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 200ml,Shampoo en Seco URBAN CARE Hello Cherry Berry ...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 200ml,Shampoo en Seco URBAN CARE Coco Frasco 200ml,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto OVEJA BLACK Blend Botella 750ml,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto OVEJA BLACK Cabernet Sauvignon Bote...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Botella 750ml,Vino Tinto OVEJA BLACK Malbec Botella 750ml,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 200g,"Fortificante Smuti +NUTRICO Sabor a Avena, Cho...",S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vela Con Tapa DECO HOME Surtida Brisa Natural,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Apaga El Fuego HOT WHEELS,S/ 149.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Radio Control Abeja NUOJIA TOYS 128A-33,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sanguinaccio con Frutos Secos LA GENOVESA 220g,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa de Arena de Entrenmiento MU GROUP 814782,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mordedor PLAYGRO Abeja 2pcs,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Display 54g,Gomitas Surtidas FUN DIPPERZ Display 54g,S/ 6.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Frasco 295ml,Jabón Corporal Líquido CETHAPHIL Pro Piel Seca...,S/ 110.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Partido de Baloncesto HUANGER 707-110,S/ 12.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Bolsa 1.5Kg,Alimento Seco para Perros DOGUI Cachorros 1.5k...,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 150g,Queso Oveja con Aceite EL GRAN CARDENAL Paquet...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Libro de Cocina INSTANT Crips Mini,S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista de Juguete HOT WHEELS Arena de Demolició...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Pack 3un,Pack Avena QUAKER Tradicional Bolsa 900g Paque...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista de Juguete HOT WHEELS Monster Trucks Are...,S/ 149.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sacapuntas ARTESCO Pastello c/ Saca Puntas de ...,S/ 5 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Caja 400un,Avena Mix Manzana y Canela +NUTRI Co Caja 400g,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Doypack 400g,Avena Mix AMARU FOODS Lucumango Doypack 400g,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete Gatea y Persigue SKIP HOP Abeja,S/ 229 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Paquete 44un,Pañales para Bebé BABYSEC Premium XXG Paquete ...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Deshumedecedor Bola Seca + Recambio 400 g.,S/ 37 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha Record seca Classic,S/ 62 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reloj de Arena Retro Cristal con Soporte Mader...,S/ 17.94 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reja de seguridad de aluminio plegable para be...,S/ 299 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura pisos y azulejos base Beige Arena 946m...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reloj de arena decorativo de vidrio Colección ...,S/ 15.96 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tubo visor de tanque 2700L Nicoll,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tanque de agua Arena Promart 1100 litros + Kit...,S/ 699 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reloj de Arena Retro Premium con Soporte Mader...,S/ 35.94 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bouquet flores secas Casa de Aves Orange,S/ 7.47 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reja de seguridad de MDF plegable para bebés y...,S/ 159.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,COMBO Tanque Deca Omega Plus Blanco + Taza Dec...,S/ 129 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Manometro a presión Seco 0 a 6 BAR Giro,S/ 6.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pertiga aluminio 5mt,S/ 584 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pertiga aluminio 3m,S/ 439 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cortina de tela Arena 140x250cm,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Recortador de barba, nariz, oreja y cejas Trav...",S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Deshumedecedor Mini Bola Seca Dúo Bouquet,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Cerrojo con oreja Zincado 5/8""x8""",S/ 29.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Colgador Oreja 1""",S/ 0.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Codo de oreja met 1/2 cpvc - agua caliente,S/ 4.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Espejo para baño Sebas 56 x 38 cm,S/ 57.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector lavadora/Seca cabezal c/cierre hasta...,S/ 110 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector lavadora/Seca cabezal c/cierre hasta...,S/ 94.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector lavadora/Sec universal c/cierre hast...,S/ 96.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector lavadora/Sec universal c/cierre hast...,S/ 85.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego de alicates saca seguros x4 piezas,S/ 76.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Llave saca filtro metálica 3 1/2""",S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cuerdas elásticas surtidas,S/ 34.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Decorativo Gales + Uv Arena - ...,S/ 754 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Decorativo Obi Arena Bonno,S/ 296 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Decorativo Brent Arena Bonno -...,"S/ 1,120 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Banco Fijo para Bar Misuri Polipropileno Arena...,S/ 338 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,COMBO Bticino: 10 Tomacorrientes Universal Dob...,S/ 319 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,COMBO Bticino: 5 Tomacorrientes Universal Dobl...,S/ 159.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 2.5 m²,Piso Vinílico Spc Sena Marrón 0.5x22.5x123.5cm...,S/ 71.96 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 2.5 m²,Piso Vinílico Spc Sena Gris 0.5x22.5x123.5cm 2...,S/ 71.96 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vincha Surtida Muñecos Navideños Colección Roj...,S/ 4.76 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 0.09 m²,Fachaleta Spazio Arena 60x15cm 0.36m2,S/ 554.44 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set x 50 Bolas Surtidas Doradas de Árbol Colec...,S/ 19.96 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 1.44 m²,Piso Gress Marmolizado Calacata Sebas Blanco V...,S/ 36.90 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 1.44 m²,Piso Marmolizado Gris Seda 60x60cm 1.44m2 Oran...,S/ 45.90 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla diseño Fija Kiro Arena Bonno,S/ 201 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Valvula Tipo Flotador Nicoll,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla diseño Ali Tela Arena Bonno,S/ 418 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla diseño Buhl Ii Arena Bonno,S/ 373 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Decorativa Brent Polipropileno...,S/ 345 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Banco Bar Berlin 75cm Arena,S/ 587 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maceta Cerámica Zaia 20 Arena Latte,S/ 42.21 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maceta Cerámica Zaia 15 Arena Latte,S/ 26.01 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tomacorriente Duplex Universal Lt Arena Matix ...,S/ 60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cojín de terraza Arena 40x40,S/ 34.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sombrilla lateral Avea Giro 360° 290cm Blanco,S/ 599 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cojín decorativo 45x45cm Honeycumb Arena,S/ 36.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla Teca con brazos tipo Madera,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tanque de agua Arena Promart 600 litros + Kit ...,S/ 499 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tanque de agua Arena Promart 2700 litros + Kit...,"S/ 1,199 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Serrucho de Poda para Pertiga 14"" Bahco",S/ 95.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reja de seguridad de MDF plegable para bebés y...,S/ 149.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Piscina Inflable Cuadrada Bestway Sea Captain ...,S/ 199.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena sanitaria envase de 4kg Limón,S/ 59.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena sanitaria envase de 4kg Lavanda,S/ 59.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tijera de altura pertiga Combisystem,S/ 474.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo cosmético Avena 70ml,S/ 47.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aspirador en húmedo y seco Gas LSFC Bosch,"S/ 2,839 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Urinario Seco Urrea,S/ 933 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Hoja Montaraz para madera seca y verde 30""",S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lavatorio Sena Blanco Urrea,S/ 229 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pedestal Sena Blanco Urrea,S/ 110.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 2x50a,S/ 32.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x32a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x25a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x50a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 2x25a,S/ 25.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 2x32a,S/ 25.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 2x63a,S/ 34.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x63a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x20a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x80a,S/ 259.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x15a,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor T/riel 3x100a,S/ 259.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor diferencial 2x25a,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor diferencial 2x40a,S/ 118.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maceta con Plato Inca Arena 28.5x24cm,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maceta con Plato Egipcio Arena 31x29cm,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lubricante cadena seco Bike WD-40,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lubricante seco de grafito 5.50oz,S/ 45.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lubricante en seco 9.30oz,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+Presentación 1 caja rinde 2.22 m²,Piso Laminado AC3 8 mm Teca Caja:2.22 m2,S/ 42.75 x m²,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Moldura reductora Teca 12x44x900mm,S/ 23.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Moldura T Tecal 10x44x900mm,S/ 23.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1/2"" con oreja de 2mm x4 unidade...",S/ 2.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 3"" con 2 orejas de 2mm",S/ 4.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 3"" con oreja de 2mm",S/ 4 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1/4"" con oreja de 0.9mm",S/ 0.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1 1/4"" con 2 orejas de 2mm",S/ 1.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 3/4"" con oreja de.2mm x4 unidade...",S/ 3.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 3/4"" con 2 orejas de 2mm",S/ 1.10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1 1/2"" con oreja de 2mm",S/ 2.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1"" con 2 orejas de 2 mm",S/ 1.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1/2"" con oreja de 2mm",S/ 0.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 2 1/2"" con oreja de 2mm",S/ 3.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 2"" con oreja de 2mm",S/ 2.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 2 1/2"" con 2 orejas de 2mm",S/ 3.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1 1/2"" con 2 orejas de 2mm",S/ 2.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 2"" con 2 orejas de 2mm",S/ 2.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 1/2"" con 2 orejas de 2mm",S/ 0.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 3/4"" con oreja de 2mm",S/ 1 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Abrazadera de 4"" con 2 orejas de 2mm",S/ 4 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Reja de seguridad a presión para bebés y masco...,S/ 290 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tablero de Melamina Duratex 7x8D 18mm Arena,S/ 183.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llave de Lavatorio Machimpex Arena Baja Plata ...,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aplique Arena 40 cm E27,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Puntas con parada de profundidad PZ2 x2u,S/ 13.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tanque Deca Omega Plus Blanco,S/ 100 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Placa ciega Arena Bticino,S/ 11.13 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tomacorriente universal doble Arena Bticino,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Interruptor doble Arena Bticino,S/ 31.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Toma schuko 16A Arena Bticino,S/ 34 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tomacorriente duplex universal LT Arena Bticin...,S/ 41.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Toma teléfono RJ11 Arena Bticino,S/ 3.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tomacorriente universal simple Arena Bticino,S/ 23.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Toma RJ-45 CAT6 Arena Bticino,S/ 33.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lija al agua y al seco A275 228x280MM P80,S/ 2.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lija al agua y al seco A275 228x280mm P150,S/ 2.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno niño con oveja 21cm,S/ 15.92 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego alicate saca seguro 4 piezas,S/ 61.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector para oreja EY23-1Y,S/ 22.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector para oreja EI23-1R,S/ 23.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Disco diamantado para pulir 115mm seco,S/ 45.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aceite de Teca Varathane 3.785 litros litros,S/ 351.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mesa De Juegos Little Tikes Spinning Seas Wate...,S/ 189 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo Hombre Ponle Arena Hypnotic,S/ 29.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Mágina Kinetic Sand Bolsita De 57 Gramos...,S/ 3.46 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Playset Cat Excava Y Construye Con 2 Vehiculos...,S/ 77.94 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Mesa De Actividades Para Niños Dolu Arena, Agu...",S/ 79.96 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Muneca Barbie Fashionista Surtida Fbr37,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Playset Cat Excava Y Construye Con 2 Vehiculos...,S/ 47.97 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno De Árbol Navidad Blanca Estrella Rejas ...,S/ 8.47 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Blusa Hypnotic Mujer Manga Larga Abeja,S/ 69.96 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido Largo Amc Mujer Abeja,S/ 149 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Blusa Hypnotic Mujer Manga Larga Sea,S/ 79.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo Para Niña Circus Basta Abeja,S/ 14.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Blusa Para Niña Circus Manga Larga Abeja,S/ 59.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Ropa De Baño Para Bebé Niña Baby Circus Abeja ...,S/ 59.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Luminaria Colg Ravena Blanco Rectangular,S/ 425.12 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Velas Art Amphora Color Arena Cristal,S/ 100.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Luminaria Colgante Ravena Blanco Circular,"S/ 2,309.19 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido Para Bebe Niña Baby Circus Abeja Fp Ma...,S/ 59.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido Para Bebe Niña Baby Circus Abeja Fp Ma...,S/ 59.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Florero Niveles Arena 17cm,S/ 29.97 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Blusa Para Bebe Niña Baby Circus Manga Larga A...,S/ 49.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Blusa Para Teen Niña Zubito Silk Shinny,S/ 49.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mini Figura Stitch Surtida 46260,S/ 10.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mini Figura Disney Surtida 33300,S/ 10.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Maleta Dura Sandor 2.0 24"" Mediana Avena",S/ 649 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Maleta Dura Sandor 2.0 28"" Grande Avena",S/ 749 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Maleta Dura Sandor 2.0 19"" Cabina Avena",S/ 549 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Gimnasio Para Bebes Fisher Price Piano Patada ...,S/ 289.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mochila Skip Hop Con Arnes Zoo Abeja,S/ 69.96 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo Para Niña Circus Pitas Abeja Peach,S/ 9.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Juego Kinetic Sand Caja De Arena Verde,S/ 79.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Juego Kinetic Sand Caja De Arena Morado,S/ 79.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Magica Kinetic Sand Verde,S/ 69.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Magica Kinetic Sand Morado,S/ 69.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Magica Kinetic Sand Azul,S/ 69.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Juego Kinetic Sand Fabrica De Arena,S/ 59.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cheeky Hypnotic Print Patitas,S/ 10.97 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete Gabbys Dollhouse Orejas De Gato,S/ 29.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vaso para Bebé Nuby Easy Sip Celeste con Rojo,S/ 27.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vaso para Bebé Nuby 9 Onzas/27Oml 0% Bpa Azul,S/ 27.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista De Juguete Hot Wheels Arena Demolición T...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Orejas Mágicas Musicales Gabbys Dollhouse,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Chupones Dr Browns Tigre Y Abejas 6-18M,S/ 48.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Chupones Dr Browns Conejo Y Abejas 0-6M,S/ 48.95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista De Juguete Hot Wheels Arena De Demolició...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista De Juguete Hot Wheels Arena De Demolició...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista De Juguete Hot Wheels Arena Demolición D...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Warmies Oveja Grande,S/ 149.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego De Comedor Ravena 6 Sillas,"S/ 4,799 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Depiladora en húmedo y seco Philips BRE710/00,S/ 449.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pista Mounstro Tormenta Arena Teamsterz,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete Gatea Y Persigue Abeja,S/ 229 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Practipañal Secos - Bolsa 20 UN,S/ 7.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar La Roche Posay Anthelios UVMun...,S/ 114.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar La Roche Posay Anthelios UVMun...,S/ 114.59 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar Facial Eucerin Oil Control Toq...,S/ 99.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales Adultos Talla M Secos Premium - Bolsa ...,S/ 67.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Premium Talla G - B...,S/ 67.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Active Talla M - Bo...,S/ 49.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Pants Talla G - Bol...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego de 76 piezas machos y tarrajas saca rosc...,S/ 186.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Manga de Brazo Proteccion UV Seda Protectora N...,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para madera 100G,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bravery Alimento Seco Gato Adulto Esterilizado...,S/ 96.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha Alisadora Remington Silk Profesional S...,S/ 209 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón de Glicerina Avena - Barra 100 G,S/ 2.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Seguro Para Bicicletas/ Moto/Carriolas/Rejas S...,S/ 19 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector de Cama Secos Extra Grande,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Toallas Húmedas para Adultos Secos - Bolsa 64 ...,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Active Talla G - Bo...,S/ 54.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para madera 200G,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Pants Talla M - Bol...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar Niños Eucerin Sensitive Protec...,S/ 126 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Loción Hidratante CeraVe para Piel Seca - Fras...,S/ 99.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Termómetro Ambiental Cuenta Ovejas,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para madera Bees Max 510G,S/ 135 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Malla de Seguridad Plegable Portátil y Resiste...,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maquina Parrila Para Yoguis Hot Dogs y Chorizo...,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Smart Card Reader Lector Usb Dni Electronico B...,S/ 39.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Malla de Seguridad Plegable Portátil y Resiste...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos Granulada con Carbón Activado...,S/ 10 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar Corporal Eucerin Crema-Gel Toq...,S/ 114.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha Alisadora Remington Wet2Straight S27A ...,S/ 155 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Google Nest Hub (2.ª generación, arena)",S/ 499 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonic Frontiers Nintendo Switch Euro,S/ 179 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonic Origins Plus Nintendo Switch Latam,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos Tipo Perlas con Carbón Activa...,S/ 12 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Collar para Parejas de Escalera al Cielo Doram...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gatos Tipo Perlas Aromatizada Manza...,S/ 14 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Forever Artic Sea 60 Capsulas,S/ 169 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Para Gatos Perlas Bolsa X 20kg - 100% Ab...,S/ 44 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Malla de Seguridad Plegable Portátil y Resiste...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo para Perro Hipoalergénico Vetlinex Ave...,S/ 20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para madera Bees Max 310G,S/ 86 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos Con Cable X2 Pro Con Aislamiento De ...,S/ 53.89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,36 Hilo Tubino Colores Surtidas Hilos para Cos...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pad Mouse Primus 32x27cm Edicion Star Wars Man...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Lavanda de 5 Kg ...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego Sonic Superstars Nintendo Switch Latam,S/ 205 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bravery Alimento Seco Para Gato Adulto Pollo 2...,S/ 93.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aspiradora Sopladora para Seco y Húmedo 1200W ...,S/ 472.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos Para Computadora Usb Con Cable Cance...,S/ 88 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora AquaTouch Philips S1223/41 Seco y H...,S/ 199 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Dispensador de Cereal y Alimentos Secos,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Seco en Espuma para Perros y Gatos Pet...,S/ 26.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañales para Adultos Secos Clásico Talla G - B...,S/ 23.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Sanitaria Para Gatos Bolsa X 20kg Granul...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Hipoalergénico para Perros y Gatos Fru...,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Batería Seca Recargable 12V 7A Dimax BAT-12V7A...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Medias Algodón Socks Abeja Rayas negro amarill...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Líquido Mossy Avena - Frasco 500 ML,S/ 5.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Smartpet Esfera Talla Única,S/ 99.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Faja Body Reloj de Arena con Broches Reduce Me...,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calefactor Eléctrico para Sauna Seca Modelo SA...,"S/ 3,800 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jean Básico Cintura Dalia para Mujer Parada 11...,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Depiladora en Humedo y Seco Philips BRE652_00 ...,S/ 654 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pantalon Pitillo Hombre Parada 111 Figo,S/ 119.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack 2 Miel de Abeja La Poderosa 1 Kg,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bravery Alimento Seco Gato Adulto Esterilizado...,S/ 244 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jean Básico Cintura Laly para Mujer Parada 111,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para cuero 85G,S/ 36 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maquina RAF Para Hacer Yoguis Parrila Hot Dogs...,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal Coco y Avena 450Gr y 150Gr,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena De Gato Viva Verde Vida Descomplicada 4K...,S/ 71.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Avena Coloidal y Aloe Vera Naturcien p...,S/ 23.53 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Alisadora Babyliss BABNT9564TPE Nano Titanium ...,S/ 349 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón de Avena 80g - La Cooper,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jean Básico Recto Hombre Richard Parada 111,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Rasurador Afeitador Depilador Nariz Oreja Ceja...,S/ 12 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Loción Hidratante Eucerin pH5 Piel Seca y Sens...,S/ 117.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón De Avena Dr. Zaidman - Barra 80 G,S/ 3.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Molino de Café Eléctrico Frutos Secos Condimen...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Protector Solar Corporal Spray Eucerin Transpa...,S/ 101.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chaleco de Peso Everlast 10 kg de Arena,S/ 72 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Fruta Partida Playland Madera Set 7,S/ 108.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack x 2 Waterless Lavado al Seco Wips 1 Galón,S/ 220 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Waterless Lavado al Seco Wips 1 Galón + All P...,S/ 220 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido BBLUBS Ovejas,S/ 95 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Artesanal Shaya Almendra y Miel - Piel S...,S/ 15 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Artesanal Shaya Avena y Arroz,S/ 15 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Artesanal Shaya Avena,S/ 15 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete para Perros Multipet Sea Shammies Cang...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete para Perros Multipet Sea Shammies Pez ...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Taza My Sign con Diseño Oveja Viajera 11onz,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vincha BBLUBS Arena Beige,S/ 23 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lavado al seco - Waterless 1 GL,S/ 110 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lavado al seco - Waterless 710 ML,S/ 35 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tobillera/muñequera Ajustable Con Peso Arena S...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tobillera/muñequera Ajustable Con Peso Arena S...,S/ 25 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tobillera/muñequera Ajustable Con Peso Arena S...,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tobillera/muñequera Ajustable Con Peso Arena S...,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tobillera/muñequera Ajustable Con Peso Arena S...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Swiss Arabian Areej Al Sheila - Fragancia EDP ...,S/ 369 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolso Kylie con múltiples bolsillos Arena,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolso Mía multiuso porta tablet Arena,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 Verde,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 - Rosado,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 - Rosado,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 Verde,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 Verde,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca pelusa VGR V-813 - Rosado,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Nothing Auriculares Nothing Oreja (Abierto) Co...,S/ 929 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Para Gato Sonqocat 5kg,S/ 14 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Para Gato Granulada Don Leo 5kg,S/ 9 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack X2 Bolsas De Arena Para Gato Sonqocat De ...,S/ 21 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Para Gato Perlada Aroma Lavanda Sonqo Ca...,S/ 16 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack X2 Bolsas De Arena Para Gato Granulada Do...,S/ 17 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack X2 Bolsas De Arena Para Gato Perlada Arom...,S/ 26.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audífonos Nothing Nothing Oreja (a) Cancelació...,S/ 605 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Auriculares Nothing Oreja 2 Audífonos Intraura...,S/ 939 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audífonos Nothing Oreja (palo) Resistente al A...,S/ 415 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set de Mascara y Snorkel Pike Sea Bestway Azul,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set de Mascara y Snorkel Pike Sea Bestway Rojo,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Esterilizador de Biberones 5 en 1 Esteriliza y...,S/ 229 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Articulos de Aseo para Gatos Hartz Pala de Are...,S/ 16.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Gravitrax Starter Kit Set Básico de Punto de P...,S/ 339 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha Seca Pesada Clasica I1700,S/ 189 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calzoncillo Reutilizable Para Macho Extra Segu...,S/ 65.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set De Herramientas Y Lonchera 2 En 1 SONIC Th...,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set de Herramientas y Lonchera 2 en 1 The Hedg...,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena De Gato Con Bentonina Y Carbon Activado ...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Origens Arena Super Premium Con Aroma A Eucali...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sharpie Puntas Surtidas 24Ct,S/ 119.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chaleco Frío Refrigerante Contra Golpe De Calo...,S/ 41 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Chaleco Frío Refrigerante Contra Golpe De Calo...,S/ 41 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Balsamo De Cera De Abeja Para Mascota 40 Gr,S/ 37.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calzoncillo Reutilizable Para Macho Extra Segu...,S/ 62 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calzoncillo Reutilizable Para Macho Extra Segu...,S/ 48.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calzoncillo Reutilizable Para Macho Extra Segu...,S/ 75.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Calzoncillo Reutilizable Para Macho Extra Segu...,S/ 54.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo Manga Corta Rising Dragon La Fashion - Ar...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bozal Máscara para Perros de Cara Plana Talla ...,S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bozal Máscara para Perros de Cara Plana Talla ...,S/ 94 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Recortador portátil para vellos nasales y orej...,S/ 28 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Ventilador USB con Orejas de Gatito para Ofici...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Ventilador Espejo Portátil Diseño Paltita,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena para Gato Cute Cat con Bentonita 20kg,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bozal Máscara para Perros de Cara Plana Talla ...,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Partidor de Pastillas Con Almacenamiento,S/ 25 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena Sanitaria para Gatitos Sahara Baby Powde...,S/ 150 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Banda Shopdisney Para Cabello con Orejas de Mi...,S/ 55 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Disco Turbo Diamantado Corte Seco humedo 110mm...,S/ 45 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolso con Diseño Abeja,S/ 113 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jogger para Mujer Parada111 Ally,S/ 159.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA MÁGICA CON MOLDES,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bozal Máscara para Perros de Cara Plana Talla ...,S/ 54 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bozal Máscara para Perros de Cara Plana Talla ...,S/ 67 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arenero Con Luz Led Para Gatos Contra Bacteria...,S/ 118 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tienda de Juego Didáctico Rompecabezas Fruta P...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Escultura Pareja de Abrazo,S/ 169 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Funda Cojin Marble Arena Saten 45x45 cm,S/ 70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,LanzaDados Cthulhu 3D GEEKS PERU PLA Seda Mult...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja PortaDados 3D GEEKS PERU PLA Seda Multico...,S/ 42 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pareja de Gnomos Muñecos de Navidad Barba y Tr...,S/ 119 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Depiladora Inalambrica Philips BRE715 en Seco ...,S/ 419 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Gorro Con Oreja Para Natacion - RM,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cubeta Eficaz de Arena Rosado y Naranja Y+Post...,S/ 129.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arenero Cerrado con Orejas y Pala Cernidora Ro...,S/ 106.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Antifaz de Sueño con Orejas en Color Gris Y+Ag...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Gorro Con Oreja Para Natacion - NZ,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja de Gatos Blanco Marron Satinado ...,S/ 280 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Ciclo de vida de la abeja chanitos biologia mo...,S/ 35 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Paquete Perdida de Peso Tono Beige Y+Post-it a...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Estante Practico para Secar en Acero Y+Gift St...,S/ 63.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca Filo Compacto de Color Rojo Y+Post-it adh...,S/ 47.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Hongos Seco Shitake 100gr Touku,S/ 20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Hongos Seco Wenyi 1kg Auricula Judae Sofit,S/ 188 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Hongos Seco Wenyi 100gr Auricula Judae,S/ 20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Jabón Artesanal de Avena ABI NATURE,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Set de Cocina Portátil 3 en 1 Mochila y Área d...,S/ 99.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack Manta de Apego y Muñeco Sonaja para Bebés...,S/ 89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Manta de Apego Muñeco de Compañía para Bebés B...,S/ 109 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack Manta de Apego y Muñeco Sonaja para Bebés...,S/ 89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cool Mat (Manta Refrigerante) Evita Golpe de C...,S/ 80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Facil de Limpiar Amarillo Y+Post...,S/ 193.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Normal A Seca Limpiado...,S/ 169.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche South Park Cartman 20cm Kidrobot,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja un Solo Corazon 23x8x24 cm,S/ 229.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja Nuestro Eje Ivory Mate 22x16x25 ...,S/ 350 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Comedor Mobiliari + 4 Sillas Arena,"S/ 2,599 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cubeta Compacta de Arena Verde y Plomo Y+Post-...,S/ 129.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido Corto Casual de Hilo Color Arena,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo de Hilo Sin Mangas Mujer Color Arena,S/ 45 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Carrito Abeja Interactivo para Gatos Juguete I...,S/ 54.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vaso con Oreja de 340ML Transparente Y+Banderi...,S/ 99.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lampara de Oso para Secar Uñas en Verde Agua Y...,S/ 103.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lampara para Secar Esmalte en Rosado Y+Sticker...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Facil de Lavar Celeste Y+Post-it...,S/ 133.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine para Mascotas Saca Pulgas Tono Azul Y+Pa...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Seca,S/ 175 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Limón de 5 Kg co...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Bebé de 5 Kg con...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Sandia de 5 Kg c...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Manzana de 5 Kg ...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Rosas de 5 Kg co...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arena PREMIUM para gato aroma Café de 5 Kg con...,S/ 18.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Normal A Seca Limpiado...,S/ 169.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Seca,S/ 175 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Seca,S/ 175 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutian Para Piel Normal A Seca,S/ 209.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Normal A Seca Limpiado...,S/ 169.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Guirnalda de Luces de 8 Abejas con Luces LED C...,S/ 130.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para cuero Bees Max 510gr,S/ 137 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutian Para Piel Normal A Seca,S/ 209.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutian Para Piel Normal A Seca,S/ 209.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Trio Cerave Rutina Piel Seca,S/ 175 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST ORIGINAL 2.10 KG,S/ 40.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST SMART PELLETS 2.50 K...,S/ 50.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST UNIVERSAL 5.5 KG,S/ 60.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST ORIGINAL 4.30 KG,S/ 76.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST ORIGINAL 8.60 KG,S/ 144.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST SMART PELLETS 10 KG,S/ 174.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST SENSITIVE 7.20 KG,S/ 140.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,ARENA PARA GATO CATS BEST SENSITIVE 2.90 KG,S/ 60.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Facil de Limpiar Celeste Y+Post-...,S/ 193.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Facil de Limpiar en Plomo Y+Post...,S/ 189.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Caja de Arena Facil de Limpiar en Rosado Y+Pos...,S/ 193.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolso Tote Bag Jane Arena,S/ 62.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aretes Pendientes De Drenaje Linfático Perdid...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja Tu y Yo Dorado Plata 22x07x25 cm...,S/ 320 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja Somos Uno Ivory 18x9x26 cm,S/ 250 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja de elefantes Plata Mate,S/ 199.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vestido de Hilo Corto y Casual Color Arena,S/ 79 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"Bolsa de arena de peso para estudio, vídeo, so...",S/ 51 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Antifaz Gel Diseño Ojos y Orejas Mostaza Y+Pap...,S/ 43.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Polo de Hilo Sin Mangas Color Arena para Mujer,S/ 45 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aretes Pendientes De Drenaje Linfático Perdida...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Adorno Pareja Somos Uno Blanco 18x9x26 cm,S/ 250 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado Mecánico Gamer T-dagger Arena Rainbow ...,S/ 114.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonajero Reloj de Arena con Osito Estimulación...,S/ 49.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sillón de Oficina Giratoria Boss Gerente Eco A...,S/ 600 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,MANOMETRO SECO BERKLIN,S/ 65.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Antifaz de Sueño con Orejas en Color Rosado Y+...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha Vapor y Seco Electrolux Experience ESI...,S/ 199 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,"LEGO Icons - Centro de flores secas, colección...",S/ 285 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Accesorios Oreja de Conejo,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora Recortador Enchen Para Vello Nasal ...,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Secadora de cabello Whiteline camel 3 temperat...,S/ 59 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Neewer 4 Pack Bolsas De Arena De Alta Resisten...,S/ 160 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Riqueza Lord Tigre Lao Hu 2...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Proteccion Leon Guardian Fo...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Abundancia Buey Niu 2pza Fa...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Riqueza Raton Qian Mo 2pza ...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Abundancia Dragon Qilin 2pz...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Salud Leopardo Golden Feng ...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aretes Pendientes De Drenaje Linfático Perdid...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aretes Pendientes De Drenaje Linfático Perdida...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aretes Pendientes De Drenaje Linfático Perdida...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Auriculares JBL Tour Pro 2 - Auriculares inalá...,"S/ 1,899 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Auriculares JBL Wave Flex - Auriculares inalám...,S/ 499 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Auriculares JBL Endurance Race - Auriculares i...,S/ 499 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Almohada para Parejas Memory Foam Descanso de ...,S/ 129 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pistola Arroja Saetas en Color Anaranjado Y+St...,S/ 53.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Llaveros de Pareja Abundancia Dragon Genbu 2pz...,S/ 27 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cubeta Eficaz de Arena Rosado y Naranja Y+Post...,S/ 129.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pelota Masticable con Patitas en Tono Azul Y+P...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arenero para Gatos Compacto para Colocar Arena...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Paw De Patada Azul Por Unidad Real Fitenss Pe...,S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Paw De Patada Rojo Por Unidad Real Fitenss Per...,S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Paw De Patada Amarillo Por Unidad Real Fitens...,S/ 99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA RGB T-TGK321P-RGB-SP PI...,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack Echo Dot 5ta Generación Alexa Deep Sea Az...,S/ 258.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA RGB T-TGK321P-RGB-SP PI...,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA Rainbow T-TGK321W-BR WH...,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA RGB T-TGK321B-RGB-SP BL...,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA Rainbow T-TGK321-BR BLA...,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine de Macotas Saca Pulgas Tono Blanco Y+Pap...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tabla con Patitas Redonda de Tono Madera Y+Pos...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arenero para Gatos Compacto de Arena 40x33x11 ...,S/ 53.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Tabla con Patitas Redonda de Tono Madera Y+Pos...,S/ 119.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base Circular de Madera con Patitas de 39cm,S/ 83.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Camisa Dexmen Seda Con Diseño Beige,S/ 43 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Camisa Dexmen Seda Con Diseño Negro,S/ 43 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Camisa Dexmen Seda Con Diseño Blanco,S/ 43 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Camisa Dexmen Seda Palmera Celeste,S/ 59 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Camisa Dexmen Seda Con Diseño Azul,S/ 43 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Body de Manga Larga con Encaje de Seda Lenceri...,S/ 75.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Neewer 4 Piezas Saco De Arena Que Se Puede Uti...,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Saca Filo Compacto de Color Rojo Y+Post-it adh...,S/ 47.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base Redonda de Madera con Patitas de 39cm Y+A...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base en Forma Circular con Patitas de 39cm Y+P...,S/ 93.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base Circular de Madera con Patitas de 44cm,S/ 93.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base en Forma Circular con Patitas de 44cm Y+P...,S/ 103.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base de Madera Forma Redonda con Patitas de 39...,S/ 99.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base de Madera Forma Redonda con Patitas de 44...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Base Redonda de Madera con Patitas de 44cm Y+A...,S/ 99.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha A Vapor Y Seco Efficient Esi10 + Freid...,S/ 199 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juguete Sonaja Musical Abeja Musical con Luces,S/ 37 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA RGB T-TGK321B-RGB-SP BL...,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA Rainbow T-TGK321-BR BLA...,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger ARENA Rainbow T-TGK321W-BR WH...,S/ 165 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonic X Shadow Generations Playstation 5 Latam,S/ 215 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,NEEWER 6 Paquete Saco De Arena Negro Tarea Pes...,S/ 260 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos Innovadores con Orejas de Gato Pop I...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha de Ropa a Vapor y Seco Experience ESI8...,S/ 209 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maleta Mediana Dukap Royal Arena - RYMAR,S/ 139 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maleta Grande Dukap Royal Arena - RYGAR,S/ 189 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,LEGO 75390 Meca Ala-X de Luke Skywalker™,S/ 90.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Short Dexmen Seda Blanco,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Short Dexmen Seda Negro,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Short Dexmen Seda Celeste,S/ 49 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack Manta de Apego y Juguete Sonaja Oveja Ant...,S/ 89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonic X Shadow Generations Nintendo Switch Lat...,S/ 209 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maletas de Viaje Set de 3 Dukap Royal Arena - ...,S/ 399 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maleta de Cabina Dukap Royal Arena - RYPAR,S/ 149 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine Saca Pulgas para Mascotas Tono Verde Y+P...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine para Mascotas Fino Saca Pulgas de Color ...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine Fino Saca Pulgas de Color Azul,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plato Duo Compacto de Orejas Color Celeste Y+S...,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos con Orejas de Gatito en Color Lila Y...,S/ 97.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos Modernos con Orejas de Gato Pop It e...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audifonos Funcionales con Orejas de Gato Pop I...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Audífono Inalámbrico Gato Bluetooth Auricular ...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Casco Auditivos con Orejas en Rosado Y+Post-it...,S/ 113.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pelota Masticable con Patitas en Verde Y+Papel...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pelota Masticable con Patitas en Tono Rojo Y+P...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pelota Masticable con Patitas en Rosado Y+Pape...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plato Duo Compacto de Orejas Color Verde Y+Sti...,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine Fino Saca Pulgas de Color Verde,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine Fino Saca Pulgas para Macotas Color Blan...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peine Portatil Saca Pulgas de Color Azul Y+Age...,S/ 37.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Seccional Arena Izquierdo,"S/ 1,733 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pack de 5 Mascarillas Facial Colageno Dermal T...,S/ 24.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo para mascotas AVENA COSMETIC PETS 250 ...,S/ 24.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo y acondicionador para mascotas AVENA C...,S/ 29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vinilo Decorativo Stickart Pareja Cebras Media...,S/ 75 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Casaca Tommy Hilfiger bomber acolchada de tela...,S/ 555.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja V-90 Mujer,S/ 746.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Campo Mujer,S/ 872.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Deportivas Mujer,S/ 925.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Dekkan Mujer,S/ 867.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Recife Mujer,"S/ 1,005.90 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Venturi de Entrenamiento Mujer,S/ 989.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Impala Mujer,S/ 872.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Rio Branoc Mujer,S/ 943.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Esplar Mujer,S/ 925.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Altas Wata II Mujer,S/ 657.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Urca Hombre,S/ 735.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Tenis Hombre,S/ 818.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja V-15 Hombre,"S/ 1,032.90 un",plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Altas Wata II Hombre,S/ 616.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Condor 2,S/ 578.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Urca mod 2 Hombre,S/ 925.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatillas Veja Volley Hombre,S/ 678.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Alicate Perforador Saca Bocado Remache Cuero O...,S/ 59 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger Arena TGK321W RGB Switch Brow...,S/ 155.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vinilo Decorativo Stickart Pareja De Aves Pequ...,S/ 75 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vinilo Decorativo Stickart Pareja De Aves Medi...,S/ 89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Vinilo Decorativo Stickart Pareja Cebras Peque...,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plato Duo Compacto de Orejas Color Azul Y+Stic...,S/ 33.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Arenero Cerrado Felino con Diseño Orejas Diseñ...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha a Vapor y Seco Electrolux Efficient ES...,S/ 119 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plato Pet para Alimentos Secos Talla XXXL Y+Ag...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Botella Saca Corcho Pequeño 4 piezas en Color ...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,NEEWER 4 Pack ND2-ND32 (1-5 Paradas)/ND64-ND51...,S/ 210 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha A Vapor Y Seco Efficient Esi10 + Freid...,S/ 209 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Figura Coleccionable SEGA Mino Ashira Kaijuu N...,S/ 194.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sonic Origins Plus Playstation 5 Latam,S/ 135 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Case iPhone 8 Plus 7 Plus Targus SENA Quilted ...,S/ 69 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Secador de Cabello eléctrico Multifuncional 2e...,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Limpiador patitas para perro - Rosado Grande,S/ 39.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Limpiador patitas para perro - Celeste Grande,S/ 24.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Ultra hidrat urea 10% 450Gr y 150Gr Acla...,S/ 55 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Crema Corporal Coco y Avena 450Gr y 150Gr + Ja...,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Maletín Transportador Expandible Para Mascotas...,S/ 162 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 56.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 39.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 69.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 49.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pañal Reutilizabe Incontinencia Hembra Calzón...,S/ 77.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha en seco Philips DST0520,S/ 89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora en Seco o Húmedo Philips S3122 seri...,S/ 399 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora en Seco o Húmedo Philips S5880 tecn...,S/ 599 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Baño Seco Antipulgas para Perros Natur Control...,S/ 29.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Aspiradora para Seco y Húmedo 20V 7.5 Litros B...,S/ 578.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Planta Bolaverde Oreja de Elefante o Filodendr...,S/ 55 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Bolsa Eliminadora de Arena,S/ 295 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,30 Ampollas Piel Seca Martiderm Proteos Hydra ...,S/ 365 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,10 Ampollas Piel Seca Martiderm Proteos Hydra ...,S/ 155 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mascarilla Hidratante Piel Seca Martiderm Hidr...,S/ 141 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mesa de TV Clásica Martina 1 puerta color Blan...,S/ 799.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mesa de TV Clásica Martina 1 puerta color Negr...,S/ 799.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Kiro Arena MobelArt,S/ 358 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Juego de Alicates Saca Seguros 4 Piezas Total...,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Wednesday Merlina 20cm Kidrobot,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche El Conjuro Annabelle 20cm Kidrobot,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Avatar Aang 20cm Kidrobot,S/ 79.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Saw El Juego del Miedo Billy 20cm Kidr...,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Scream Ghost Face 20cm Kidrobot,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Máquina Ruido Blanco 30 sonidos para bebé + la...,S/ 259 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Balsamo Hidrantate de Cera de Abeja Paw Pet,S/ 39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Hipoalegenico De Avena Wellness Brands...,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Hipoalegenico De Avena Brands 1 Lt,S/ 109.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Mochila Nomatic Navigator Rs Sling Arena 1L,S/ 489 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Silla de Diseño Buhl II Arena MobelArt,S/ 182.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Banco fijo para Bar Berlín Polipropileno Arena...,S/ 790 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Peluche Sonic Erizo Zapatillas 59cm Sega Toy F...,S/ 275 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Lámpara Osram Eca 250W 120V Paquete de 6,S/ 289 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sea Of Stars Playstation 5 Latam,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Sea Of Stars Playstation 4 Latam,S/ 185 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura ECOACRILICO MATE 1 Galón Arena,S/ 110 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Papel de Fondo sin Costuras Savage 23 Sea Gree...,S/ 519 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Case Nillkin Bevel Leather Para IPAD 10.9 2020,S/ 129.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado T-Dagger Arena TGK321B RGB Switch Red ...,S/ 155.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatos Casuales Mujer TOP MODEL TMC-029 (35-3...,S/ 199.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura ECODURABLE 1 Galón Arena,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura MATE 1 Galón Blanco Arena,S/ 94 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura ECOSATINADO 1 Galón Arena,S/ 97.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura LATEX 1 Galón Arena,S/ 51.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Shampoo Dokyto Avena Sin Sal 300 ml,S/ 32 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,LEGO 71817 Meca de Poder Elemental de Lloyd,S/ 111.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,LEGO 60428 Meca de Construcción Espacial,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura de Arena de Colores - Transporte,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Pintura de Arena de Colores - Animales,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora Philips Seco o Humedo USB X3021-00 ...,S/ 259 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Afeitadora Eléctrica Philips S5880_20 seco y h...,S/ 545 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Plancha en Seco Philips DST0520_20,S/ 69 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Zapatera con Gabinete Liverpool Color Arena,S/ 500 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para cuero 170G,S/ 65 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Cera de abeja para cuero 310G,S/ 89.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Perfil en L para Wall Panel Color Seda Norte D...,S/ 23 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357
+,Teclado Gamer T-Dagger Arena Rainbow Spanish T...,S/ 125 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-04 00:27:04.770357

@@ -1,0 +1,980 @@
+unit,description,price,website,search_term,scrape_timestamp
+Paquete 370g,Pack Jamón Pizza BRAEDT Queso Edam Paquete 370...,S/ 12.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Edam LAIVE Paquete 440g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Pop Corn COSTEÑO Bolsa 500g,S/ 4.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 180g,Queso Crema PHILADELPHIA Brick Original Paquet...,S/ 12 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco SBELT,S/ 10.35,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco sin Lactosa LAIVE,S/ 10.77,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Pop Corn BELL'S Bolsa 500g,S/ 4.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.4 kg aprox.,Queso Fresco BONLÉ,S/ 14.36,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 300g,Pack Mixto Queso Edam + Jamón Americano LAIVE ...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco GLORIA Paquete 250g,S/ 11.37,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Edam BRAEDT Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.5 kg aprox.,Maíz Morado x Kg,S/ 7.99 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Mozzarella en Bola BONLÉ Paquete 250g,S/ 12.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Fresco BELL'S Paquete 300g PVEA,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 21g,Galletas de Maíz SALMAS Horneadas Caja 216g,S/ 12.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Edam BRAEDT Paquete 440g,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Gouda BRAEDT Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 35g,Queso Parmesano Rallado BONLÉ Paquete 35g,S/ 4.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Edam LAIVE Sin Lactosa Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 35g,Queso Parmesano Rallado LAIVE Paquete 35g,S/ 4.59 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Galletas Saladas RITZ sabor Queso Paquete 6un,S/ 4.79 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.35 kg aprox.,Panceta de Cerdo con Hueso y Piel EL BUEN CORT...,S/ 24.89 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 250g,Queso Mozzarella para Pizza BELL'S SELECCIÓN B...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 136g,Queso Fundido BONLÉ Sabor Cheddar Paquete 136g,S/ 6.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco LAIVE,S/ 10.65,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 340g,Pack Mixto Jamón Pizza y Queso Edam OTTO KUNZ ...,S/ 14.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Edam BELLS Paquete 440g,S/ 19.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 150g,Queso Crema PHILADELPHIA Soft Original Pote 15...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Edam LAIVE Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 227g,Queso Crema BELL'S Caja 227g,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Fresco Pasteurizado Light BELL'S Paquete...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 227g,Queso Cheddar LAIVE Paquete 227g,S/ 11.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Mozzarella LAIVE Paquete 250g,S/ 12.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Mozzarella BRAEDT Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 35g,Queso Parmesano BELL'S Paquete 35g,S/ 4.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Mozzarella Light LAIVE Sbelt Paquete 250...,S/ 13.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1kg,Harina de Maíz Blanco P.A.N. Precocida Bolsa 1...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 150g,Queso Crema PHILADELPHIA Soft Light Pote 150g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Gouda BRAEDT Tamaño Familiar Paquete 440...,S/ 20.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 338g,Pack Jamón Sándwich + Queso Edam SAN FERNANDO ...,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.45 kg aprox.,Queso Fresco GLORIA Paquete 400g,S/ 16.16,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Parmesano PIAMONTE Paquete 200g,S/ 13.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Tortillas de Maíz TOSTITOS con Sal Bolsa 200g,S/ 9 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 136g,Queso Fundido BONLÉ Sabor Natural Paquete 136g,S/ 6.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 225g,Queso Cottage PLUSA Paquete 225g,S/ 11.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Edam BELLS Paquete 180g,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Queso Edam GLORIA Paquete 500g,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Mozzarella Laminado BELLS Paquete 440g,S/ 19.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Canchita Pop Corn TESORO VERDE Plaza Vea ...,S/ 4.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1Kg,Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas ...,S/ 22 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Edam BELLS Paquete 250g,S/ 12.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco Artesanal LAIVE,S/ 11.55,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 227g,Queso Parmesano Rallado KRAFT Frasco 226g,S/ 31.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack Mixto BRAEDT Jamón York + Queso Gouda 340...,S/ 14.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 190g,Palitos de Maíz CHIZITOS Bolsa 190g,S/ 6.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Piqueos Horneados CHEETOS Mega Queso Bolsa 200...,S/ 7.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 126g,Galletas de Maíz SALMAS Horneadas con Granos y...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Galletas de Maíz SALMAS Horneadas con Camote y...,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 100g,Queso Parmesano Rallado UNO Paquete 100g,S/ 10.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 150g,Piqueo BELL'S Tortilla de maíz natural Bolsa 1...,S/ 3.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 227g,Queso Crema BELL'S Pote 227g,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 135g,Papas INKA CHIPS Queso & Cebolla Bolsa 135g,S/ 7.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Siu Mai DELI FREEZE de Pollo Caja 12un,S/ 13.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Siu Mai DELI FREEZE de Cerdo Caja 12un,S/ 13.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 170g,Queso Cheddar LAIVE Paquete 170g,S/ 8.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Edam Light LAIVE Molde 1Kg,S/ 13.75,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco Light BONLÉ,S/ 10.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Envase 150g,Queso Crema Light DELICE Pote 150g,S/ 9.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.196 kg aprox.,Panceta de Cerdo con Hueso sin Piel EL BUEN CO...,S/ 29.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 85g,Queso Parmesano Rallado KRAFT Frasco 85g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 260g,Tortillas de Maíz NACHOS Mixtas Bolsa 260g,S/ 12.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 340g,Pack Jamón Pizzero + Queso EDAM Paquete 340g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.45 kg aprox.,Queso Fresco GLORIA Sin Lactosa Paquete 400g,S/ 16.65,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 190g,Tortillas de Maíz DORITOS Queso Atrevido Bolsa...,S/ 9 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Andino LAIVE Paquete 180g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Mozzarella LAIVE Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.469 kg aprox.,Panceta EL BUEN CORTE sin Hueso con Piel,S/ 34.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Pop Corn TESORO DEL CAMPO Bolsa 500g,S/ 4.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 120g,Palitos de Maíz CHEESE TRIS Queso Bolsa 120g,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 500g,Ravioles 4 Quesos BELL'S Paquete 500g,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Andino LA MATILDE Paquete 200g,S/ 13.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Mozzarella BELLS Paquete 180g,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 400g,Maíz Chullpi BELL'S Bolsa 400g,S/ 6.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.35 kg aprox.,Queso Fresco Andino PLUSA,S/ 14.84,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Parmesano LAIVE,S/ 28,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 250g,Queso Crema PIAMONTE Cabaña Light Pote 250g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Crema PRESIDENT Paquete 190g,S/ 10.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 425g,Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 300g,Queso CHUGUR Mantecoso Paquete 300g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 840g,Cereal ANGEL Aritos de Maíz Trigo y Miel Bolsa...,S/ 22 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Gouda LAIVE Paquete 180g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Botella 1L,Aceite de Maíz BASSO Botella 1L,S/ 14.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 9.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Tortillas de Maíz MEXI NACHOS Bolsa 100g,S/ 4.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 109g,Papas PRINGLES Queso Lata 109g,S/ 8.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso sin Lactosa TRES OSCOS Paquete 200g,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 90g,Queso Fundido LAIVE Paquete 90g,S/ 5.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Gouda GLORIA Tajadas Paquete 180g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 150g,Tortilla de Maíz BELL'S Picante Bolsa 150g,S/ 3.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 255g,Tortilla de Maíz TÍA ROSA Bolsa 255g,S/ 11.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 80g,Crema con Queso Natural BELL'S Paquete 80g,S/ 2.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 440g,Queso Mozzarella BRAEDT Tamaño Familiar Paquet...,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 90g,Galletas de Maíz SALMAS Horneadas Caja 90g,S/ 8.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 250g,Queso Edam GLORIA Paquete 250g,S/ 15.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Parmesano LA PAULINA,S/ 19.65,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 80g,Queso crema LA FLORENCIA Sabor Jamón 80g,S/ 2.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Paria LA MATILDE Paquete 200g,S/ 13.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 250g,Queso Edam BONLÉ Paquete 250g,S/ 14.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.4 kg aprox.,Queso Fresco de Vaca DUMAN,S/ 19.96,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 80g,Queso Crema LAIVE Finas Hierbas Sachet 80g,S/ 3 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Barra 190g,Queso Crema DELICE Barra 190g,S/ 10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 180g,Palitos de Queso Mozzarella DELICE Paquete 180...,S/ 14.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Mozzarella Paquete 250g,S/ 12.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 80g,Queso Fundido BONLÉ Sabor Natural Sachet 80g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 2un,Pack Papas LAY´S Clásicas Bolsa 150g + DORITOS...,S/ 13.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 20g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 80g,Queso Fundido BONLÉ Sabor Jamón Sachet 80g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 70g,Maíz Pop Corn BELL'S Dulce Bolsa 70g,S/ 2.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 455g,Queso Crema Natural DELICE Pote 455g,S/ 20.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Ricotta DUMAN Paquete 250g,S/ 8.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 260g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 11.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Pop Corn VALLENORTE Bolsa 500g,S/ 5.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Danbo LAIVE Paquete 180g,S/ 13.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Cereal ANGEL Hojuelas de maíz azucaradas Bolsa...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 150g,Queso Emmental Slices PRESIDENT Bandeja 150g,S/ 14.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Paria BONLÉ,S/ 11.58,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1kg,Harina de Maíz Amarillo P.A.N. Precocida Bolsa...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 400ml,Shampoo AMARAS Raíces y Puntas Felices Frasco ...,S/ 12 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 1000g,Máscara de Tratamiento 2 en 1 SKALA Mais Cacho...,S/ 52.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.5 kg aprox.,Queso Paria Madurado LA MATILDE x kg,S/ 32.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 500g,Capellitis 4 Quesos BELL'S Paquete 500g,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Mozzarella Rallada DELICE Paquete 200g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 45g,Tortillas de Maíz DORITOS Queso Atrevido Bolsa...,S/ 2.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Gouda PRESIDENT Paquete 150g,S/ 10.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Ravioles Rellenos de Queso Ricotta LA FLORENCI...,S/ 13.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 240g,Queso Mozzarella en Bola DUMAN Paquete 240g,S/ 17.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Galletas de Maíz MINI SALMITAS Horneadas Caja ...,S/ 9.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Ricotta FLORALP,S/ 7.35,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1K,Harina MORIXE de Maiz Blanco Bolsa 1Kg,S/ 6.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 2un,Pack Humita Blanca con Queso COCINA PLUS Bande...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 120g,Queso Fundido HAPPY COW Paquete 120g,S/ 11.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 185g,Queso Edam BONLÉ Bolsa 185g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Piqueo BELL'S Frutos Secos Maíz del Cusco Bols...,S/ 4.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 180g,Piqueos CHEETOS Queso Picante Bolsa 180g,S/ 8.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Queso Crema UNTADELLI con Queso y Aceituna Sac...,S/ 3.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 12un,Tortilla de Maíz SANIITO Bolsa 12un,S/ 10.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 226g,Queso Mozarella KRAFT Paquete 226g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 140g,Cereal VITAPLUS Maíz con miel Bolsa 140Gr,S/ 3.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 185g,Queso Edam GLORIA Paquete 185g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 110g,Queso Rulo de Cabra MARQUÉS DEL CASTILLO con E...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 1.3Kg,Enrollado de Pollo BELL'S con Jamón Queso Toci...,S/ 38.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 80g,Queso Crema Natural LAIVE Paquete 80g,S/ 3.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 95ml,Sérum Revitalizador PANTENE Pro-V Miracles Equ...,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Envase 150g,Queso Crema Regular DELICE Pote 150g,S/ 9.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Parmesano BONLÉ,S/ 21.48,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Galletas Integrales FIBRA LIGHT Bocaditos de S...,S/ 9.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Piqueos CHEETOS Mega Queso Bolsa 90g,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 184g,Maíz Dulce FRUTO DE ORO Lata 184g,S/ 4.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 220g,Tortillas de Maíz Clásicos BUCKY Nachos Bolsa ...,S/ 9.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Bocconcini DUMAN Paquete 250g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 150g,Queso Crema Gourmet DELICE con Cabanossi & Chi...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1kg,Maíz Morado Deshidratado GUVA Bolsa 1kg,S/ 15.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Queso Crema UNTADELLI con Tocino Sachet 80g,S/ 3.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Maasdam PRESIDENT Paquete 150g,S/ 12.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Bajo en Sal TRES OSCOS Paquete 250g,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 227g,Queso Cremoso Rectangular LAIVE Sachet 227g,S/ 10.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 227g,Queso Cottage DELICE Paquete 227g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 60ml,Serum AMARAS Raíces y Puntas Felices Frasco 60...,S/ 18.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Piqueos CHEETOS Queso Picante Bolsa 90g,S/ 5.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso TRES OSCOS Paquete 250g,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.45 kg aprox.,Queso Fresco de Vaca Light DUMAN Paquete 400g,S/ 27.68,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Edam PRESIDENT Paquete 150g,S/ 10.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 400g,Pan de Queso FORNO DE MINAS Bolsa 400g,S/ 19.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 260ml,Acondicionador AMARAS Raíces y Puntas Felices ...,S/ 8.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Manchego de Cabra DUMAN,S/ 35.50,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Boliyuca Queso DELIFREEZE Caja 12un,S/ 14.49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Empaque 100g,Queso Azul Danés LE FROMELIER Empaque 100g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 55g,"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa ...",S/ 2.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 250g,Queso Crema PIAMONTE Cabaña Normal Pote 250g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Crema Gourmet DELICE con Espinaca & Toci...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Gouda MILKUNZ,S/ 12.18,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Chocol...,S/ 15.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Sticks de Quinua MAMALAMA Queso Cheddar 100% N...,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mezcla de Quesos Madurados Cheddar & Monterey ...,S/ 13.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 140g,Queso Fundido Triángulo PRÉSIDENT Pote 140g,S/ 13.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 250g,Crema para Peinar 3 en 1 SKALA Mais Cachos Fra...,S/ 35.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Mozzarella DUMAN Fior Di Latte Paquete 2...,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Vaso 69g,Sopa Instantánea NISSIN Cup Noodles Sabor a Qu...,S/ 6 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Tortillas de Maíz DORITOS Queso Atrevido Bolsa...,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 475ml,Acondicionador AMARAS Raíces y Puntas Felices ...,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 85g,Maíz Pop Corn PLANET POP Sabor Natural Bolsa 8...,S/ 3.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 140g,Queso Crema fundido LA BONNE VACHE Paquete 140...,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Chips de Maíz Morado PERUNACHOS Bolsa 90g,S/ 4.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 260g,Macaroni & Cheese KRAFT Tres Quesos Caja 206g,S/ 6.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 8un,Tortilla de Maíz SANIITO Bolsa 8un,S/ 11.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Galletas para Perros GNAWLERS en forma de Hues...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Botella 900ml,Aceite de Maíz ARCOR Botella 900ml,S/ 26 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Paria COSTUMBRES PERUANAS,S/ 38.06,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 6un,Pan Artesanal Congelado PANCITOS DEL SUR Relle...,S/ 24.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Empaque 180g,Tamal de Maíz CASA VERDE Gourmet Empaque 180g,S/ 5.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 1un,Quiche de Poro y Queso HOME CHEF Caja 1un,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 530g,Queso Bocconcini DELICE Paquete 530g,S/ 17.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 110g,Queso Rulo de Cabra MARQUÉS DEL CASTILLO con M...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 125g,Queso Brie PRESIDENT Paquete 125g,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 180g,Queso Mozzarella GLORIA Paquete 180g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 300ml,Shampoo AMARAS Raíces y Puntas Felices Frasco ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 2.6 kg aprox.,Panceta en Tiras sin Hueso y con Piel SAN FERN...,S/ 40.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 2.6 kg aprox.,Panceta en Tiras con Hueso y con Piel SAN FERN...,S/ 34.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 190g,Tortillas de Maíz DORITOS Queso Fuego Bolsa 19...,S/ 9 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 300ml,Shampoo Equilibrante PANTENE Pro-V Miracles Eq...,S/ 20.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 10un,Tortillas de Maíz EL TACO Bolsa 10un,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Tortillas de Maíz Picantes MEXINACHOS Bolsa 90...,S/ 4.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Maíz Mote Precocido GUVA Bolsa 500g,S/ 8.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.6 kg aprox.,Queso Suizo EL ARTESANO,S/ 41.94,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 2.366 kg aprox.,Panceta de Cerdo sin Hueso sin Piel El EL BUEN...,S/ 34.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Paria CHUGUR,S/ 32.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 6un,Pan Artesanal Congelado PANCITOS DEL SUR Relle...,S/ 24.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 64g,Sazonador de Pop Corn COSTEÑO Sabor a Queso F...,S/ 11.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 250g,Queso Mozzarella Rallada DUMAN Paquete 250g,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.1 kg aprox.,Queso Fresco Descremado Triple Zero GLORIA Sli...,S/ 4.39,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.18 kg aprox.,Queso Parmesano DELICE,S/ 17.80,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Gouda COSTUMBRES PERUANAS,S/ 14.12,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Burrata DUMAN Fior Di Latte Paquete 200g,S/ 33 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Queso Crema UNTADELLI Natural Sachet 80g,S/ 3.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Tortillas de Maíz TAKIS Blue Bolsa 200g,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mezcla Rallada de Queso Triple Cheddar KRAFT P...,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Doypack 30g,Aceitunas Verdes sin Hueso CALÉ Doypack 30g,S/ 1.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Sachet 40g,Queso Rallado LA SERENÍSIMA Sobre 40g,S/ 5.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Puffs Queso Agrillado SIETE DRAGONES Bolsa 100...,S/ 6.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 65g,Piqueo BELL'S Tortilla de Maíz Bolsa 65g,S/ 2.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.45 kg aprox.,Queso Fresco de Cabra DUMAN Paquete 400g,S/ 40.50,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Fresco de Vaca Deslactosado DUMAN x Kg,S/ 16.17,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 500g,Queso Fresco FLORALP Paquete 500g,S/ 21 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 105g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 5.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 250g,Gel Líquido Vegano SKALA Mais Cachos Frasco 25...,S/ 45.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Brie PRÉSIDENT,S/ 27.24,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 2un,Pack PANTENE Shampoo Pro-V Miracles Equilibrio...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 150g,Queso Provolone con Orégano AURICCHIO Caja 150...,S/ 20.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 300g,Queso Gouda LA CAMPESINA Paquete 300g,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 55g,Palitos con Queso EDITH Bolsa 55g,S/ 3.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Tipo Americano KRAFT en Tajadas Paquete ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1un,Pan Artesanal Relleno de Queso Empaque 1un,S/ 3 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Gouda BONLÉ,S/ 11,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Cereal LA COSECHA Hojuelas de Maíz Bolsa 200g,S/ 4.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.1 kg aprox.,Queso Edam BONLÉ Molde x kg,S/ 4.90,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Parmesano Rallado KRAFT Paquete 170g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 300g,Queso Edam en Cubos LA CAMPESINA Paquete 300g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Parmesano GRAN BIRAGHI Paquete 200g,S/ 31.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Tequeños de Queso y Jamón BELL'S Caja 12un,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 325ml,Shampoo SKALA Expert Mais Cachos Frasco 325ml,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 227g,Queso Suizo KRAFT Laminado Paquete 227g,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 125g,Queso Bocconcini DUMAN Paquete 125g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 3un,Huesos de Ganado Vacuno BELL'S Bolsa x 3und,S/ 8.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Azul Danés ST CLEMENS,S/ 27.98,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 150g,Conserva de Maíz BELL'S Lata 150g,S/ 3.79 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 6un,Cerveza de Maíz PUM PUM Lata 310ml Paquete 6un,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Tortillas de Maíz DORITOS Dinamita Limón Bolsa...,S/ 9 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pan con Hamburguesa Queso y Tocino x un,S/ 7.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Tequeños TEQUEMANIA con Queso Caja x 360g,S/ 18.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Novandino DELICE con Sauco Paquete 150g,S/ 16.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 85g,Maíz Pop Corn PLANET POP Mantequilla Bolsa 85g,S/ 3.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 370g,Aceitunas Verdes en Conserva VALDEPORRES Manza...,S/ 8.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 5un,Barra Aguaymanto y Maíz Morado SIETE DRAGONES ...,S/ 18.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 65g,Piqueo BELL'S Tortilla de Maíz Picante Bolsa 6...,S/ 2.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 198g,Queso Mozzarella KRAFT Slim Cut Paquete 198g,S/ 12.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Cheddar en Tajadas PRESIDENT Paquete 200...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.6 kg aprox.,Queso Andino El ARTESANO,S/ 41.94,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 450g,Queso Oxoandino FLORALP Paquete 450g,S/ 25 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Crema Gourmet DELICE con Pecanas Paquete...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 180g,Nachos Sabor a Queso BUCKY Bolsa 180g,S/ 8.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Piqueo INKA CORN Maíz gigante Cusco original B...,S/ 6 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 3un,Maíz Pop Corn PLANET POP Mantequilla Paquete 3...,S/ 10.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Brie FLORALP,S/ 26.73,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Botella 680g,Jarabe de Maíz SPITZE Glucofácil Botella 860g,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Doypack 30g,Aceitunas Negras sin Hueso CALÉ Doypack 30g,S/ 1.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.05 kg aprox.,Queso Fresco DE CADA DÍA,S/ 53.55,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 140g,Galletas con Queso Parmesano NANCY NATUR Caja ...,S/ 8.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 500g,Raviolitos DON ITALO de Queso Paquete 500g,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 3un,Pack PANTENE Shampoo Pro-V Miracles Equilibrio...,S/ 46.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Chips de Maíz PERUNACHOS Multigrain Bolsa 90g,S/ 6.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Cereal GOLDEN FOODS Hojuelas de Maíz Bolsa 500...,S/ 8.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 125g,Queso Camembert PRESIDENT Paquete 125g,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 35g,Tortillas de Maíz DORITOS Dinamita Limón Taque...,S/ 2.49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 400g,Sorrentinos de Jamón y Queso BELL'S Bolsa 400g,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Tortillas de Queso DORITOS Dinamita Bolsa 80g,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 220g,Tortillas de Maíz Picante BUCKY Nachos Bolsa 2...,S/ 9.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 500g,Queso Belpaese FLORALP Paquete 500g,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Andino Terrandina DE CADA DÍA,S/ 15.47,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla de Quesos DECO HOME Negro Urbana Industr...,S/ 13.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Parmesano Rallado FLORALP,S/ 17.10,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Envase de Plastico 150g,Maíz Tostado BELL'S Táper 150g,S/ 5.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 140g,Queso Crema BELL'S Aceituna & Espinaca Pote 14...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 180g,Queso Gouda LA CAMPESINA Paquete 180g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 40g,Puffs Queso Agrillado SIETE DRAGONES Bolsa 40g,S/ 3.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Queso Azul de Valdeón PICOS DE EUROPA Paquete ...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 225g,Queso Edam PRÉSIDENT Cheese Wedge Envase 225g,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 120g,Cereal BIO MACA Bolitas de maíz con chocolate ...,S/ 3.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 110g,Queso Rulo Cabra MARQUES DEL CASTILLO con Piña...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 1L,Shampoo HEAD & SHOULDERS Fuerza de Raíz Frasco...,S/ 45.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Paria con Orégano EL ARTESANO,S/ 38.45,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mezcla de Queso Rallado Mozzarella y Parmesano...,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Crema Novandino DELICE con Aguaymanto Pa...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Piqueo INKA CORN Maíz Gigante Cusco Picante Bo...,S/ 6.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 2.6 kg aprox.,Panceta en Tiras sin Hueso y sin Piel SAN FERN...,S/ 43.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Tipo Suizo El Toro CHUGUR,S/ 32.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Paria EL ARTESANO,S/ 38.45,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maleta de viaje Luggage TRAVEL 4 Blanco Hueso ...,S/ 109 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 10un,Huesos de Ganado Vacuno BELL'S Bolsa x 10und,S/ 16.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 510ml,Shampoo Equilibrante PANTENE Pro-V Miracles Eq...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Palitos de Queso Mozzarella KRAFT Paquete 340g,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 200g,Cereal LA PURITA Maíz Morado Caja 200g,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Piqueo INKA CORN Maíz gigante frito Bolsa 500G...,S/ 24.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.2 kg aprox.,Queso Edam MILKUNZ,S/ 13.58,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.35 kg aprox.,Queso Gruyère EL ARTESANO,S/ 24.46,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 227g,Queso Cheddar KRAFT Madurado en láminas Paquet...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 150g,Queso Oveja Curado MARQUES DEL CASTILLO con tr...,S/ 26.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 180g,Queso Edam LA CAMPESINA Paquete 180g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 198g,Queso Mozzarella KRAFT Rallada Paquete 198g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Manchego de Oveja SPANISH CHESSE,S/ 32.48,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 110g,Queso Rulo de Cabra Natural MARQUES DEL CASTIL...,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Tortillas de Maíz TAKIS Original Bolsa 90g,S/ 5.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 400g,Chorizo Parrillero con Queso BRAEDT Paquete 40...,S/ 17.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 6un,Pan Artesanal Congelado PANCITOS DEL SUR Relle...,S/ 24.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Tortillas de Maíz TAKIS Fuego Bolsa 90g,S/ 5.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso de Oveja Curado MARQUÉS DEL CASTILLO Paq...,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 100g,Tortillas de Maíz DORITOS Flamin Hot Bolsa 100...,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Madurado Provolone KRAFT Paquete 227g,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 150g,Queso Emmental en Tajadas FRICO Paquete 150g,S/ 13.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Tortillas de Maíz TAKIS Explosión Bolsa 200g,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 1000g,Máscara de Tratamiento 2 en 1 SKALA Expert Mai...,S/ 52.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 56g,Tortillas de Maíz TAKIS Fuego Bolsa 56g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.35 kg aprox.,Queso Maasdam JANDAMMER,S/ 31.85,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 150g,Queso Provolone con Ceramico AURICCHIO Caja 15...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 80g,Queso Pelati GRAN BIRAGUI Paquete 80g,S/ 14.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 900g,Pack Quesos Regionales DE CADA DÍA Paquete 900...,S/ 59.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 250ml,Acondicionador Hidratante para Cabello Mixto P...,S/ 20.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Gouda FRICO Paquete 150g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 56g,Tortillas de Maíz TAKIS Original Bolsa 56g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso de Cabra Semicurado MARQUÉS DEL CASTILLO...,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 56g,Tortillas de Maíz TAKIS Explosión Bolsa 56g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 140g,Queso Gourmet BELL'S Cabanossi Pote 140g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 400g,Maíz Cancha Cusco BELL'S Bolsa 400g,S/ 6.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 150g,Piqueo VALLEALTO Maíz maní y almendras Bolsa 1...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triple de Pollo con Jamón y Queso,S/ 6.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1Kg,Capellitis 4 Quesos BELL'S Bolsa 1Kg,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.1 kg aprox.,Queso Mozzarella BONLÉ Molde x kg,S/ 5,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.1 kg aprox.,Queso Edam Sandwich Kg,S/ 4.09,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 2un,Pack PANTENE Shampoo Pro-V Miracles Equilibrio...,S/ 33.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 300g,Pack Quesos Gourmet LA CAMPESINA Caja 300g,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 120ml,Retocador de Raíces SCHWARZKOPF Castaño Frasco...,S/ 32.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 425g,Maíz Mote KUSKI Desgranado Bolsa 425g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Emmental PRÉSIDENT Paquete 200g,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 85g,Maíz Pop Corn PLANET POP Extra Mantequilla Bol...,S/ 3.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 46un,Mix Mini Bocaditos LA FLORENCIA Bandeja 46un,S/ 43.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 150g,Queso Provolone con Pimienta AURICCHIO Caja 15...,S/ 20.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.45 kg aprox.,Queso Andino LA MATILDE,S/ 28.13,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 125g,Maíz Andino FORTE GOLPE con Maca Bolsa 125g,S/ 3.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Brie Blue ILE DE FRANCE Paquete 125g,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 220g,Queso Emmental PAYSAN BRETON Paquete 220g,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 300g,Queso Gouda en Cubos LA CAMPESINA Paquete 300g,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 500g,Pan de Queso Asado FORNO DE MINAS Bolsa 500g,S/ 32.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Enrollado de Jamón y Queso EL CEDRO 1un,S/ 7.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Maasdam FRICO Paquete 150g,S/ 12.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triple de Queso Huevo y Jamón EL CEDRO 1un,S/ 7.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Gouda Finas Hierbas COSTUMBRES PERUANAS,S/ 20.98,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 120g,Queso Fundido BRIDEL Paquete 120g,S/ 11.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Azul MILKUNZ,S/ 26.25,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 120g,Piqueo BELL'S Maíz Gigante Clásico Bolsa 120g,S/ 5.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Parmesano en Cuña BRAEDT,S/ 25.50,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Mozzarella MILKUNZ,S/ 16.23,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 12un,Tequeños de Queso BELL'S Caja 12un,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Parmesano GRAN BIRAGHI Snack Bolsa 100g,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,"Queso de Vaca, Oveja y Cabra MARQUÉS DEL CASTI...",S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Gouda Natural JANDAMMER x kg,S/ 28.80,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 510ml,Acondicionador Hidratante para Cabello Mixto P...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 150g,Queso Crema de Cabra Miel y Trufas DUMAN Frasc...,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso para Hamburguesa en Tajadas PRESIDENT 20...,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Ibérico Tres leches SPANISH CHESSE,S/ 31.73,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 100ml,Retocador de Raíces en Aerosol KOLESTON Negro ...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 650ml,Shampoo HEAD & SHOULDERS Crece Fuerte desde la...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso de Cabra con Pimiento SPANISH CHESSE,S/ 40.73,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 120ml,Retocador de Raíces SCHWARZKOPF Negro Frasco 1...,S/ 32.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 120g,Piqueo BELL'S Maíz Gigante Picante Bolsa 120g,S/ 5.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 340g,Conserva de Maíz BELL'S Lata 340g,S/ 7 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 425g,Maíz Cancha KUSKI Bolsa 425g,S/ 11.30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Parmesano UNO,S/ 27.50,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.05 kg aprox.,Queso con Huacatay y Rocoto DE CADA DÍA,S/ 53.55,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Gouda Pimienta COSTUMBRES PERUANAS,S/ 20.98,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 425g,Maíz Chullpi KUSKI Bolsa 425g,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 350g,Lasagna DON ITALO de Jamón y Queso Caja 350g,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 80g,Tortillas de Queso DORITOS Dinamita Limón Bols...,S/ 5 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 2un,Pack Tortillas de Maíz TOSTITOS con Sal Bolsa ...,S/ 17 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 3un,Pack Hojuelas de Maiz TOSTITOS Original Con Sa...,S/ 24 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Chips BUCKY Cheese Queso Bolsa 200g,S/ 5.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1 kg aprox.,Asasado de Tira sin Hueso OREGON FOOD'S x kg,S/ 150.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Ahumado Natural JANDAMMER x Kg,S/ 27.30,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 150g,Queso Edam FRICO Paquete 150g,S/ 11.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 300g,Queso Edam LA CAMPESINA Paquete 300g,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Tortillas de Maíz TOSTITOS Redondos Bolsa 200g,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 375ml,Shampoo H&S Crece Fuerte desde la Raíz Frasco ...,S/ 18.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Gouda LA CAMPESINA en Bloque Paquete 200...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 200g,Dip de Alcachofa y Espinaca con Queso CASA VER...,S/ 9.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.5 kg aprox.,Queso Andino DE CADA DÍA,S/ 30.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 300g,Flakes Orgánico ECOANDINO Maíz Morado Caja 300...,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bandeja 453g,Tabla de Quesos CRACKER BARREL Bandeja 453g,S/ 48.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Hueso mediano resistente,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Botella 750ml,Vino Blanco ANDELUNA Raíces Chardonnay Botella...,S/ 40.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Carrito Bocadillos Flamingo POLLY POCKET,S/ 109.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 370g,Aceitunas en Conserva VALDEPORRES Verdes sin H...,S/ 15.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 240g,Aceituna Manzanilla VALDEPORRES sin Hueso Fras...,S/ 10.60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Soga Masticable Vd / Azul Hueso,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 300g,Queso Tipo Suizo Blondeteler PIAMONTE Paquete ...,S/ 21.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Pecorino Romano ZANETTI Paquete 200g,S/ 36.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 250g,Pasta Maíz Amarillo EL DORADO Spaghetti Bolsa ...,S/ 14.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Tybo PIAMONTE Paquete 200g,S/ 12.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso de Cabra EL BOSQUE,S/ 25.68,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maleta de viaje Luggage TRAVEL 4 Blanco Hueso ...,S/ 159 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maleta de viaje Luggage TRAVEL 4 Blanco Hueso ...,S/ 129 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 4un,Hamburguesa Angus Rellena de Queso Cheddar BON...,S/ 54.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 125g,Crema de Queso Camembert PRÉSIDENT Pote 125g,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 300g,Queso Gouda Light LA CAMPESINA Paquete 300g,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 1un,Hueso Mediano de Ganado Vacuno BELL'S Bolsa x ...,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 1L,Queso Helado EL ROCOTO Pote 1L,S/ 42.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.5 kg aprox.,Queso Cuartirolo EL ARTESANO,S/ 34.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 300g,Queso Danbo LA CAMPESINA Paquete 300G,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso de Mezcla Ibérico MARQUES DEL CASTILLO c...,S/ 26.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Hueso/Soga - Tugging Bone,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 90g,Tortillas de Maíz DORITOS Queso Fuego Bolsa 90...,S/ 5.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 250g,Queso Parmesano Rallado ZANETTI Frasco 250g,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 370g,Aceitunas en Conserva VALDEPORRES Verdes con H...,S/ 9.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 1Kg,Harina Precocida DOÑAREPA Maíz Blanco Paquete ...,S/ 9.80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bocadillos Tropicales POLLY POCKET,S/ 119.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.35 kg aprox.,Queso Ahumado Picante JANDAMMER,S/ 34.13,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 300g,Pack Surtido de Quesos Regionales LA CAMPESINA...,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Ahumado con Jamón JANDAMMER x Kg,S/ 30.30,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 150g,Tortilla de Maíz BELL'S Sabor Cebolla Lata 150...,S/ 4.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 3un,Palomitas de Maíz PLANET POP Mantequilla Extre...,S/ 10.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Queso Edam LA CAMPESINA en Bloque Paquete 200g,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Envoltura 1un,Enrollado de Jamón y Queso LA FLORENCIA 1un,S/ 6.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Provolone CHUGUR,S/ 18.73,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Brick CHUGUR,S/ 41.20,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 250g,Queso Camembert FLORALP Paquete 250g,S/ 31 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1.05 kg aprox.,Queso Provolone MILKUNZ x kg,S/ 103.95,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.25 kg aprox.,Queso Gouda Ahumado COSTUMBRES PERUANAS,S/ 20.98,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Frasco 120ml,Retocador de Raíces SCHWARZKOPF Castaño Oscuro...,S/ 32.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 1un,Tinte Para Cabello KOLESTON Retoque Raíz 20 Ne...,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 425g,Maíz Pescorunto KUSKI Bolsa 425g,S/ 9.89 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 125g,Crema de Queso Emmental PRÉSIDENT Pote 125g,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pote 125g,Crema de Queso Brie PRÉSIDENT Pote 125g,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Queso Crema Azul PRESIDENT Pote 125g,S/ 22.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks para Perros FRIENDLY DOG Huesos Minis P...,S/ 16.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1 kg aprox.,Queso de Cabra Semicurado RABEL x Kg,S/ 149.90,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 248g,Conserva de Maíz Tierno Entero GOYA Lata 248g,S/ 7.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 120g,Nachos Sabor a Queso BUCKY Bolsa 120g,S/ 5.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 200g,Maíz Expandido Pop Corn BUCKY Sabor a Mantequi...,S/ 7 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 2un,Whisky THE GLENLIVET Founder's Reserve Botella...,S/ 129.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Hueso jumbo resistente,S/ 44.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso con Comino JANDAMMER x Kg,S/ 32.70,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.3 kg aprox.,Queso Edam JANDAMMER x Kg,S/ 29.40,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Lata 1un,Bocaditos para Gatos YAMIS Sabores Marinos Lat...,S/ 10.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Gorgonzola Dulce AURICCHIO Paquete 200g,S/ 48.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Grana Padano AURICCHIO Paquete 200g,S/ 36.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Provolone Dulce Media Luna AURICCHIO Paq...,S/ 30.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 200g,Queso Parmesano Reggiano AURICCHIO Paquete 200...,S/ 48.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Paquete 270g,Queso Provolone Dulce AURICCHIO Paquete 270g,S/ 36.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Botella 750ml,Vino Tinto ANDELUNA Raíces Malbec Botella 750m...,S/ 40.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Bolsa 35g,Tortillas de Queso DORITOS Dinamita Bolsa 35g,S/ 2.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 3 kg aprox.,Queso Gruyère Suizo EMMI x kg,S/ 839.70,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 150g,Queso Oveja con Aceite EL GRAN CARDENAL Paquet...,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Caja 150g,Queso Cabra y Vaca Vino Ribera del Duero EL GR...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Pack 6un,Cerveza de Raíz TRES CRUCES Pum Pum 6 Pack Lat...,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 0.55 kg aprox.,Queso Parrillero EL ARTESANO,S/ 38.45,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 2.6 kg aprox.,Panceta en Tiras con Hueso y sin Piel SAN FERN...,S/ 38.90 x kg,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina para hacer palomitas de maiz mini Pelo...,S/ 119 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina para Pop Corn Holstein,S/ 119.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1 caja rinde 1.44 m²,Piso Porcelanato Liso Hueso Nano Trad 60x60cm ...,S/ 24.90 x m²,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maceta Cerámica Zaia 20 Hueso Crema,S/ 42.21 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pared Lineare Plus Hueso 30x60 2.18m2,S/ 65.18 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+Presentación 1 caja rinde 2.23 m²,Piso cerámico marmolizado Grecia Hueso 45x45 2...,S/ 25.50 x m²,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Fragua Sikaceram Pe Hueso x 1kg,S/ 8.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Decopapel Lino Hueso 0.53x9.5m,S/ 59.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set De Juego Polly Pocket Carrito Bocadillos F...,S/ 109.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzón Madison Mujer Hipster Tres Flores,S/ 10.97 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzón Bikini Madison Tres Flores,S/ 8.97 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego De Mesa M&V Games Taco Reves Cabra Queso...,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego De Mesa M&V Games Taco Gato Cabra Queso ...,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzón Cheeky Encaje Hypnotic Hueso Animal Pri...,S/ 10.97 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Marco De Fotos Horizontal Hueso 10 cm x 15 cm,S/ 14.97 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Marco De Fotos Clásico Hueso 10 cm x 15 cm,S/ 9.95 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Difeel Biotin Estimulador de la raíz - 75ML De...,S/ 40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Cachinhos Skala...,S/ 40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Plegable Malla + Rampa Revers...,S/ 445 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Puff Palmo Burbuja Grande Ultracuero Hueso,S/ 500 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Mesa Taco Gato Cabra Queso Pizza,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botin para Mujer ARIANA AV24-667 Hueso,S/ 169 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Reemplazo Comodidad para Meta Quest 2,S/ 94.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de 3 Mini Cuchillos para Queso con Mango d...,S/ 22.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Meta Quest 3S 128GB,"S/ 1,885 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Combo T-dagger Teclado + Mouse Main Force Whit...,S/ 169.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina Pop Corn Canchita Palomitas de Maíz Si...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 64 ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 64 ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 64 ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 64 ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 64 ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 38 ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 38 ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 23 ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 23 ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 38 ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 23 ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 38 ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 23 ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 23 ...,S/ 10.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Turbante de Lana RB Detalles Especiales Modelo...,S/ 20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Rallador Manual de Queso,S/ 20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Falda Denim Anika Celeste Maiz Medio,S/ 129.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,50 Cajas de Bocaditos con Tapa para Repostería...,S/ 75 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,100 Cajas de Bocaditos sin Tapa para Reposterí...,S/ 70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Medidor De Humedad Para Granos Arroz Trigo Ceb...,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,50 Cajas de Bocaditos sin Tapa para Repostería,S/ 40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mochila Impermeable Maiv Star Beige,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Lentes de Sol Unisex Modelo Pink Ink Mai Tais,S/ 139 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Accesorios Fundas Premium 70 X 95 Mm 64 Pcs 10...,S/ 14 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Lentes de Sol Unisex Modelo Pink Ink Mai Tais,S/ 139 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatilla Deportiva para Mujer Nike Quest 5 DD...,S/ 299.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Funda Cojin Suede Hueso Tacto Cuero 45x45 cm,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Minoxin 60ml + Shampoo Raiz De Ginseng ...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Creze Max Formen 60ml + Shampoo Raiz De...,S/ 73 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Creze Max Formen 60ml + Shampoo Raiz De...,S/ 73 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Minoxidil 5mg Caps 60 + Shampoo Raiz De Ginsen...,S/ 136 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaida Sin Sal 250ml + Shampoo Raiz...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Minoxidil 5mg Caps 60 + Shampoo Raiz De Ginsen...,S/ 136 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Minoxin 60ml + Shampoo Raiz De Ginseng ...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaspa Sin Sal 350ml + Shampoo Raiz...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Celeste Y+Post-...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Transportadora de Mascotas Color Hueso Y+Post-...,S/ 89.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mat con Gel de Enfriamiento Pet Cool Refrigera...,S/ 95 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Minoxin 60ml + Shampoo Raiz De Ginseng ...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaspa Sin Sal 350ml + Shampoo Raiz...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaida Sin Sal 250ml + Shampoo Raiz...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Minoxidil 5mg Caps 60 + Shampoo Raiz De Ginsen...,S/ 136 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Creze Max Formen 60ml + Shampoo Raiz De...,S/ 73 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Minoxin 60ml + Shampoo Raiz De Ginseng ...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Locion Creze Max Formen 60ml + Shampoo Raiz De...,S/ 73 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Minoxidil 5mg Caps 60 + Shampoo Raiz De Ginsen...,S/ 136 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaida Sin Sal 250ml + Shampoo Raiz...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaspa Sin Sal 350ml + Shampoo Raiz...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Anticaida Sin Sal 250ml + Shampoo Raiz...,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Finasteride 1mg X 60 Capsulas + Shampoo Raiz D...,S/ 112 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Shampoo Sin Sal Ketozinc 350ml+ Shampoo Raiz D...,S/ 118 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Finasteride 1mg X 60 Capsulas + Shampoo Raiz D...,S/ 112 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa con Protector de Forma Hueso Rosado Y+Re...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3S 128GB,"S/ 1,899 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3S 128GB ...,"S/ 2,019 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3 512GB P...,"S/ 2,919 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3S 128GB ...,"S/ 2,199 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3S 128GB ...,"S/ 1,959 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3 512GB,"S/ 2,849 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Gafas de Realidad Virtual Meta Quest 3 512GB P...,"S/ 2,989 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Finasteride 1mg X 60 Capsulas + Shampoo Raiz D...,S/ 112 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 114 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Finasteride 1Mg X 60 Capsulas + Shampoo Raiz D...,S/ 112 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 78 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Cachinhos Skala...,S/ 78 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Seccional Kil + Banqueta Baúl de Regalo Hueso,"S/ 1,649 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cuerda Practica para Mascotas Matiz Rojo Y+Reg...,S/ 53.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Didactico y Divertido de Color Amarillo,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,"Pack Det. Liq. Lavanda, Suav. de telas Cotton,...",S/ 80 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Recreativo para Perro Verde Agua Y+Post-...,S/ 53.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Flexible en Forma de Hueso Tono Rosado,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Rojo Y+Post-it ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Azul Y+Post-it ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Finasteride 1Mg X 60 Capsulas + Shampoo Raiz D...,S/ 112 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Verde Y+Post-it...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Rosado Y+Post-i...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Morado Y+Post-i...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Led en Co...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Celeste Y+Post-...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Divertido en Forma de Hueso Celeste Y+...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Divertido en Forma de Hueso Rosado Y+A...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Recreativo para Perro en Rosado Y+Post-i...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Flexible en Forma de Hueso Tono Celest...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Recreativo para Perro en Celeste Y+Post-...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cartera Transportadora en Forma de Leon Color ...,S/ 66.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cartera Resistente para Gatos de Color Hueso Y...,S/ 73.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cartera con Orificio de Paseo de Color Hueso Y...,S/ 79.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Body Board para Niños en Matiz Negro Y+Papel d...,S/ 197.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cartera de Paseo para Mascota Color Hueso Y+Pa...,S/ 76.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cabecera Box Weymi Queen Capitoné - Beige Hues...,S/ 589 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Compacto de Color Amarillo Y+Regalo Stic...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Clasico de Color Amarillo Y+Papel de Reg...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Compacto con Huellitas de Color Azul Y+R...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit de Huesos Lavable en Color Azul Y+Post-it ...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Clasico de Color Azul Y+Papel de Regalo,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Didactico y Divertido de Color Azul,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Moderno de Color Amarillo Y+Regalo Agend...,S/ 36.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Moderno para Mascota de Color Azul Y+Reg...,S/ 36.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cabecera Box Weymi 2 Plazas Plano - Beige Hues...,S/ 424 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pelota con Diseño de Huesos para Perro en Colo...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Arnes Elegante para Canes de Matiz Rosado Y+Pa...,S/ 59.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Dynamatte Boom Long lasting Matte Lipstick Mai...,S/ 74.49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho y Protector Tipo Hueso de Per...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho y Protector Tipo Hueso de Per...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Recreativo para Perro en Rojo Y+Post-it ...,S/ 53.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho y Protector Tipo Hueso de Per...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho y Protector Tipo Hueso de Per...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho y Protector Tipo Hueso de Per...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho con Protector Tipo Hueso Pet ...,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho con Protector Tipo Hueso Pet ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Desecho Protector Tipo Hueso Pet en B...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Desgranador Manual De Maíz,S/ 22.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Madera y Marmol Lux para Quesos & Charc...,S/ 279 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Combo de Olla para Hacer Popcorn 22cm + Maiz P...,S/ 146.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Combo de Olla para Hacer Popcorn 20cm + Maiz P...,S/ 111.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina Pop Corn Canchita Palomitas de Maíz Si...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Kit De 4 Piezas Para Queso,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 114 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Cachinhos Skala...,S/ 78 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Crema Tratamiento Capilar Mais Lisos Skala 100...,S/ 78 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Rebanadora Eléctrica Raf R8800 200w Queso Jamó...,S/ 329.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Meta Quest 3S 256GB,"S/ 2,429 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de 3 Tenedores de Queso,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina Pop Corn Canchita Palomitas de Maíz Si...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Yamis para Gato Bocaditos Sabor Pollo 6...,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Yamis para Gato Bocaditos Sabor Marino ...,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Yamis para Gato Bocaditos Sabor Carne 6...,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Platillo de Caninos Doble en Matiz Verde Y+Pos...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Recipiente con Diseno de Hueso Celeste Y+Post-...,S/ 47.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatillas Urbanas Mujer Adidas HOOPS-3.0-BOLD...,S/ 289 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,"Funko Disney Hocus Pocus-Set: Sarah con araña,...",S/ 221 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Pet Mediano en Forma de Hueso Anch...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Recreativo para Perro en Limon Y+Post-it...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Celeste Y+St...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Ancho para Pet Colo...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Forma de Hueso con Diseño de Puntitos ...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Flexible en Forma de Hueso Tono Verde ...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla de Quesos & Charcuteria Bandeja Atelier ...,S/ 109 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla de Quesos & Charcuteria con Pizarra Extr...,S/ 95 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla de Quesos & Charcuteria Bandeja Atelier ...,S/ 109 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pantalon Jean Bagui Dexmen Hueso,S/ 109 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete en Forma Hueso para Perros en Multicol...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Divertido en Forma de Hueso Verde Limo...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Azul Y+Stick...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes en Forma de Huesos para Perro A...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Alicate Perforador Saca Bocado Remache Cuero O...,S/ 59 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botas para Mujer Daisy Shoes Texanas Modelo Ev...,S/ 109.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete en Diseño de Hueso de Color Celeste Y+...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Didactico de Hueso Multicolor Y+Papel ...,S/ 39.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Ancho para Pet Colo...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de 3 Cucharones Rayador de Queso,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set Juguetes de Huesos en Azul Y+Agendita,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pelota con Diseño de Huesos para Perro en Mora...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pelota con Diseño de Huesos para Perro en Anar...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete en Forma Hueso de Jebe en Color Celest...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete en Forma de Hueso de Jebe en Verde Ama...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Verde Y+Stic...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Rosado Y+Sti...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Rojo Y+Stick...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Celeste Y+St...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Azul Y+Stick...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Ancho para Mascotas...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Ancho para Mascota ...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Duo Compacto de Hueso Color Azul Y+Stick...,S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Doble Forma de Hueso Ancho para Mascotas...,S/ 33.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para perro antiansiedad Hueso Cuadrado V...,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para perro antiansiedad Hueso Cuadrado c...,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato para perro antiansiedad Hueso Cuadrado c...,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatilla Urbana Para Mujer ARIANA CP24I2-310 ...,S/ 149 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatera con Asiento Maiza Blanco DIBA Muebles,S/ 499.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botas para Mujer ARIANA AV24-1134 Hueso,S/ 189 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botas para Mujer ARIANA AV24-628 Hueso,S/ 209 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Barra Transversal de Queso Proaim,S/ 819 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bocaditos Rex Deli Twist Perros Sabor Tocino A...,S/ 17.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pintura ECOSATINADO 1 Galón Blanco Hueso,S/ 97.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pintura ECOPINTOR 1 Galón Maíz,S/ 38 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss Ka24-SUNI Hueso,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss Ka24-SOL Hueso,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss KA24-SILA Hueso,S/ 209 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss Ka24-PIA Hueso,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss Ka24-OXPUA Hueso,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapato De Dama Par&ss Ka24-MAE Hueso,S/ 199 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Colchoneta Refrigerante para Mascotas Perros y...,S/ 75 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set 2 Juguetes Pet de Hueso para Perro Azul,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Don Fermin Cordero Rostizado Bocados Pequeños ...,S/ 22 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Don Fermin Cordero Rostizado Bocados Pequeños ...,S/ 7 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,"Juguete Masticable para Perro, Maíz Interactiv...",S/ 37.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Figura Coleccionable de Jujutsu Kaisen Jukon N...,S/ 99.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Figura Coleccionable de Hatsune Miku Racing 20...,S/ 109.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Applaws Pechuga De Pollo Con Queso - Alimento ...,S/ 52.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Applaws Pechuga De Pollo Con Queso - Alimento ...,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Applaws Filete De Atún Con Queso - Alimento Pa...,S/ 9.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Applaws Filete De Atún Con Queso - Alimento Ga...,S/ 52.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Applaws Filete De Atún Con Queso - Alimento Ga...,S/ 104.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Meta Quest 3 Yoges Correa Para La Cabeza con B...,S/ 150.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,"Accesorio VR Para Meta Quest 3, Culata de Pist...",S/ 150.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Correa de Repuesto Para Auriculares Oculus Que...,S/ 133.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Amvr Face Cover Pad Facial Interface Compatibl...,S/ 193.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silicone Cover for Meta/Oculus Quest 3 - Black,S/ 133.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Meta Quest 2 VR - Marco de Interfaz Facial Ext...,S/ 127.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Meta Quest 3 ZyberVR Correa Para La Cabeza - R...,S/ 116.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Viyisi Battery Pack for Oculus Quest 2 - 5000m...,S/ 146.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Oculus Quest 3/2/Rift S Yoges Accesorios Compa...,S/ 142.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,AMVR Vr Para Juegos de Realidad Virtual de Pes...,S/ 211.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Sandalisa Mujer FOOTLOOSE FCH-CP054 (35-40) MA...,S/ 119.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Holders Para Lentes Mujer Color Hueso,S/ 28 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Goma para Mascotas Perro Hueso Rosa...,S/ 10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Escritorio Mesa Infantil Multifuncional con 1 ...,S/ 650 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Falda Cargo Maia,S/ 129 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mascarilla facial de aloe vera y maíz dulce Wo...,S/ 57.05 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa Infantil Pizarra con 1 Silla Peru Import...,S/ 449 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set Grande Lux de Acacia Tabla para Quesos & C...,S/ 155 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla de Quesos + Set de Cubiertos + 3 Platos ...,S/ 238.16 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Rayador de Queso Manual R21,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Rayador de Queso Manual R21,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Lentes De Realidad Virtual Meta Quest 3 128gb,"S/ 2,599 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,720 Bolsas popó mascota 48 Rollos 100% compost...,S/ 139 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,180 Bolsas popó mascota 12Rollos 100% compost/...,S/ 39 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,360 Bolsas popó mascota 24Rollos 100% compost/...,S/ 69 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Sala Alto Hogar Maie 3 1 1 Turquesa,"S/ 1,899 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Sala Alto Hogar Maie 3 1 1 Negro,"S/ 1,899 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Sala Alto Hogar Maie 3 1 1 Gris,"S/ 1,899 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Sala Alto Hogar Maie 3 1 1 Beige,"S/ 1,899 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla para Quesos & Charcuteria de Madera Prem...,S/ 85 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Tablas Premium x 2 pc para Quesos & Cha...,S/ 179 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Filamento 3D PLA 1KG 1.75mm Flibox Hueso,S/ 100 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Llavero Hecho a Mano Qala Diseño Perro Labrado...,S/ 25 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Sala Sam 3-2-1 Color Hueso,"S/ 2,299 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Cuchara y Tenedor de Acero Maíz,S/ 16.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Sofá Vintage de 3 cuerpos AZYA Muebles Hueso,S/ 799 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla para Quesos de Madera y Piedra con Cuchi...,S/ 220 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Cuchillos de Acero para Quesos Embutido...,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 14 Pro Max - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 14 Pro - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 14 Plus - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 14 - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 13 Pro Max - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 13 Pro - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 13 - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 12 o 12 Pro - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Case Silicona Para Iphone 11 - HUESO,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Devils Jungle (siete raices) para mujer Amazon...,S/ 59 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botines para Mujer FOOTLOOSE FB-009 PU Hueso,S/ 169.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botines para Mujer FOOTLOOSE AC-003 PU Hueso,S/ 189.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Antiansiedad Cuadrado Rojo,S/ 14 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Antiansiedad Cuadrado Verde,S/ 14 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla Premium Grande Cuadrada para Quesos & Ch...,S/ 159 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla Premium para Quesos & Charcuteria de Mad...,S/ 149 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina para Elaborar Palomitas de Maiz Pop Co...,S/ 140 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Smartwatch Hw3 Ultra max BLANCO HUESO,S/ 145 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina Pop Corn RAF 2L 1200W Máquina para Pal...,S/ 59.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Butaca Will Maiz Hys,"S/ 1,589 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Colgante A Bordo Dog Lover Khurmi Scottish Bei...,S/ 30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Sofa 3 Cuerpos Curlis Maiz Hys,"S/ 1,699 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla Redonda Grande para Quesos & Charcuteria...,S/ 149 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Tablas para Quesos Premium de Bambú c...,S/ 119 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tabla Premium para Quesos & Charcuteria de Mad...,S/ 149 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Filamento Impresora 3D PLA+ 1.75mm 1kg Esun Bl...,S/ 68 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatillas Tenis para Mujer Adidas IE9987 Cour...,S/ 259.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Zapatillas Tenis para Hombre Puma 394666 02 Ca...,S/ 250 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botas para Mujer ARIANA AV23-422A Blanco Hueso,S/ 249 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botas para Niña de Cuero PAR&SS MV23-LUA Blanc...,S/ 129 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bajo de 4 Cuerdas de Escala Corta Ibanez Gsrm2...,"S/ 1,449 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Guitarra Acústica de Nylon Cordoba Protégé C1 ...,"S/ 1,629 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Guitarra Acústica Clásica de Nylon Cordoba Pro...,"S/ 1,389 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Guitarra Acústica Clásica de Nylon Cordoba Pro...,"S/ 1,769 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Colgante Trupán Dog Lover Khurmi Scottish Beig...,S/ 30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Llavero Dog Lover Khurmi Scottish Beige/Maiz H...,S/ 20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Imán Dog Lover Khurmi Scottish Beige/Maiz Hech...,S/ 20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matiz Turques...,S/ 33.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matiz Azul,S/ 73.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Azafate Redondo para Bocaditos 40 cm,S/ 53 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de 3 Fuentes para Piqueo Bocadillos con Ac...,S/ 99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Sistema de Ventilacion Bobo VR F2 Meta Quest 2,S/ 279 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set de Accesorios Corazon Rosado Meta Quest 2,S/ 54.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Set Accesorios Premiun Meta Quest 2,S/ 114 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Protector para Mandos Diseño Espinas Meta Ques...,S/ 54.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Protector de Mandos Edicion Camuflaje Meta Que...,S/ 64.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Protector de Mandos Corazon Meta Quest 2 Rosad...,S/ 54.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Protector de Lentes Meta Quest 2,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pistolas para Mandos Meta Quest 2,S/ 94.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Oculus Link 5M Meta Quest 2,S/ 449 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Estacion de Carga para Meta Quest 2,S/ 269 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Correa de Powerbank Meta Quest 2,S/ 54.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Correa Bobo VR M2 Pro,S/ 449 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cable Link 5M para Meta Quest 2 Plus,S/ 119 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Audifonos Sonido 3D para Meta Quest 2 Blancos,S/ 64.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Audifonos Sonido 3D AMVR para Meta Quest 2,S/ 74.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Antigolpes para Mando Meta Quest 2,S/ 44.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Almohadilla Antideslizante para Cabeza Meta Qu...,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matiz Anaranja...,S/ 63 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete en Forma de Queso Para Gato PetSafe Ch...,S/ 179.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Hueso Grande 1Un,S/ 26.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Hueso Mediano 1Un,S/ 19.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Mini Huesos 7Un,S/ 24.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Hueso Pequeño 1Un,S/ 14.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Dental Mini Huesos De ...,S/ 28.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matiz Turquesa,S/ 63 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matiz Anaranj...,S/ 33.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Rodillo Removedor de Pelos Y Pack x2 Huesos Ca...,S/ 21.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Mascotas Diseños Pet Cojín Hueso,S/ 23 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Para Perro Dingo Mini Huesos 21Un,S/ 69.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina para Hacer Palomitas de Maíz con Dispe...,S/ 59.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina para Hacer Palomitas de Maíz con Cesta...,S/ 64.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matices Multic...,S/ 63 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matices Multi...,S/ 33.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matiz Negro,S/ 63 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matiz Negro,S/ 33.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matiz Azul,S/ 99.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Portatil Soporta 90 kg de Matiz Rojo,S/ 99.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Asiento Telescopico Ajustable de Matiz Rojo,S/ 73.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete Hueso de goma chillón con cuerda cacho...,S/ 24 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Auto Cepillado con Pasta Dental para Per...,S/ 56 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Polo Elenex Cool Hueso,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juegos De Mesa Taco Reves Cabra Queso Pizza Bl...,S/ 65 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Audio-Technica Consumidor ATH-SQ1TW True auric...,S/ 609 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Cojin Hueso para Cuello / Rodilla/ Pie en Colo...,S/ 35 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Comida para Perros Adultos Hills Science Diet ...,S/ 319.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Comida para Perros Adultos Hills Science Diet ...,S/ 319.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Comida para Perros Adultos Hills Science Diet ...,S/ 119.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Comida para Perro Adulto +7Años Hills Science ...,S/ 299.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bolsa de Bocadillos Golosinas Chuckit Bolsa pa...,S/ 64.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina de Pop Corn Palomitas de Maiz,S/ 79 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack Triángulo Plegable Clásico + Rampa Revers...,S/ 640 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Evolutivo + Rampa Reversible ...,S/ 657.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Plegable Malla + Rampa Reversible + ...,S/ 640 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack Triángulo Plegable Malla + Rampa Reversib...,S/ 640 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Balancín Waldorf De Raiz Antivuelco Tonos Past...,S/ 287.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juego de Equilibrio Multifuncional De Raiz Nat...,S/ 445 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Librero Iriel De Raiz Natural,S/ 496.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Plegable Clásico + Rampa Reversible ...,S/ 640 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Plegable Clásico + Rampa Reve...,S/ 445 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa y Silla Cubo Mediana De Raiz Doble Funció...,S/ 483.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Espejo Montessori Con Barra de Apoyo De Raiz c...,S/ 358.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Evolutivo + Rampa Reversible ...,S/ 657.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Silla Cubo De Raiz Dos Alturas,S/ 158.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Estante de Libros De Raiz Nube Brune,S/ 349.10 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguetero Infantil De Raiz Dos Niveles,S/ 329.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa y Silla Cubo Personal De Raiz Doble Funci...,S/ 358.70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Multifuncional Estático + Rampa Reve...,S/ 617.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack Triángulo Evolutivo + Rampa Reversible + ...,S/ 890 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack Triángulo Evolutivo + Rampa Reversible + ...,S/ 890 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Plegable Clásico + Rampa Reve...,S/ 445 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Balancín Waldorf De Raiz Antivuelco Arco Iris,S/ 287.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Estático Pequeño + Rampa Reve...,S/ 617.40 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Triángulo Pikler Plegable Malla + Rampa Revers...,S/ 445 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Detective nocturno 3x Quest 3m Visión nocturna...,"S/ 1,449 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Peluche Disney Store Mickey Mouse The Main Att...,S/ 139.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Galaxy Audio TQ8X Traveler Quest 8&quot; 150W ...,"S/ 2,659 un",plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Hueso con Nudo para Mascota Biobudd...,S/ 60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Hueso con Nudo para Mascota Biobudd...,S/ 60 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Mediano para Mascota Biobuddy Verde,S/ 55 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Jumbo para Mascota Biobuddy Naranja,S/ 85 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Jumbo para Mascota Biobuddy Verde,S/ 85 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Mediano para Mascota Biobuddy Naranja,S/ 55 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Carnaza para Perros,S/ 34.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Juguete de Jebe Hueso Rosado,S/ 53 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato Pequeño en Forma de Hueso Celeste,S/ 23 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato en Forma de Hueso para Perro Celeste,S/ 33 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Plato de Perro con Forma de Hueso Celeste S,S/ 39 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,"Set Básico para Azulejos 3 pzs (ACZ 85 MT4, AI...",S/ 129.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Plástico Hueso Rosado,S/ 36 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Jebe Hueso Verde Amarillento,S/ 21 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Lentes de Sol Unisex Modelo Beverly Peach Mai ...,S/ 139 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Lentes de Sol Unisex Modelo Watermelon Geode M...,S/ 139 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Duna/Blanco 3 Cajon...,S/ 339.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Blanco 2 Cajones,S/ 319.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Duna/Blanco 2 Cajon...,S/ 319.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Blanco 1 Cajón,S/ 309.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Blanco 3 Cajones,S/ 339 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Noche Moderna Maia Duna/Blanco 1 Cajón,S/ 309.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bralette Fam Lingerie Bralette Vintage De Enca...,S/ 99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bralette Fam Lingerie Bralette Vintage De Enca...,S/ 99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Bralette Fam Lingerie Bralette Vintage De Enca...,S/ 99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzon Fam Lingerie Boxer Vintage De Encaje Co...,S/ 49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzon Fam Lingerie Boxer Vintage De Encaje Co...,S/ 49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Calzon Fam Lingerie Boxer Vintage De Encaje Co...,S/ 49 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Polo De Hombre Idakoos Got Mai Tai ?,S/ 59 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Polo De Hombre Idakoos Got Mai Tai?,S/ 59 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Combo Licuadora Portátil Recargable con USB + ...,S/ 45.50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,3 Mascarilla Facial de Aloe Vera y Maiz Dulce ...,S/ 109 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,2 Mascarilla Facial de Aloe Vera y Maiz Dulce ...,S/ 74.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mascarilla Facial de Aloe Vera y Maiz Dulce 30...,S/ 39.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Placa de Identificación para Perro Hueso Vinta...,S/ 32 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Placa de Identificación para Perro Hueso Vinta...,S/ 32 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 50 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 55 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 16 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 70.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 52.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 44.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 15 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 72.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 15 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 18 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 75 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 23.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 18 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 25.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 68 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 72.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 45 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 16 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 27.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Snacks Deshidratados para Perros Mister Pet Hu...,S/ 68.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Máquina para hacer Maíz Pop Corn libre de Acei...,S/ 109.20 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina Pop Corn Palomita de Maiz Sin Aceite,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 4 Jebe Masticable Hueso Celeste,S/ 70 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Hueso de Goma Mascotas Rosado,S/ 61 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Hueso de Goma con Púas Celeste,S/ 51 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Goma Masticable de Hueso Celeste,S/ 57 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Juguete de Jebe Hueso Verde Amarillento,S/ 63 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pack 3 Hueso de Goma Mascotas Verde Amarillent...,S/ 55 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Jebe Masticable Hueso Celeste,S/ 21 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Jebe Para Perro Forma de Hueso Verde Amarillen...,S/ 23 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso de Goma Forma de Hueso Verde Amarillento,S/ 19 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Goma en Forma de Hueso Verde Amarillento,S/ 17 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso de Goma con Púas Verde Amarillento,S/ 48 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Goma Masticable de Hueso Rosado,S/ 34 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Jebe Masticable Hueso Rosado,S/ 30 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso Dental de Goma Para Mascota Plantation,S/ 18 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Jebe Hueso Plantation Rubber,S/ 45 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso de Goma Forma de Hueso Plantation Rubber,S/ 43 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Goma en Forma de Hueso Plantation Rubber,S/ 41 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso de Goma con Púas Plantation Rubber,S/ 39 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete de Plástico Hueso Celeste,S/ 27 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Goma Masticable de Hueso Celeste,S/ 25 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros - Hueso de Látex para Cach...,S/ 29 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros - Lick Mat en Forma de Hue...,S/ 31 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros - Hueso Bone Appetit M,S/ 41 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros - S-Bone Gigwi - Hueso en ...,S/ 35 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros - Hueso Refrigerante,S/ 23 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tajador Westmark de Queso Slicer Gallant,S/ 69.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Tocador Contemporáneo Laiz Marrón 126cm,S/ 685.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Velador Contemporáneo Laiz Marrón 110cm,S/ 319.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Desgranador de Maíz,S/ 49.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Porta Cuchillos para Cajones Modelo Lineal Aho...,S/ 29.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Pelador de Maiz Multifuncional,S/ 15 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maquina Palomitas de Maiz Pop Corn,S/ 54.99 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Juguete para Perros Multipet Hueso de Soga 38 ...,S/ 15.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso C/Grip y Sonido para Perro Rojo,S/ 19.89 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso C/Grip y Sonido para Perro Anaranjado,S/ 19.89 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Hueso C/Grip y Sonido para Perro Azul,S/ 19.89 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Mesa de Centro Mai Negro,S/ 459.90 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Polo Algodón Barda Gabriela con Tull Color Hue...,S/ 69 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Botín Maia Tacón Alto Gmapiel 7182,S/ 299 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601
+,Maïa Bag Tejida The Ecobag Company Algodón Bla...,S/ 29 un,plaza_vea,BOCADITOS DE MAÍZ Y QUESO,2024-12-04 01:04:15.302601

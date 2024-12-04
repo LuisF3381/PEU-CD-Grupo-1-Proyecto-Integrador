@@ -1,0 +1,998 @@
+unit,description,price,website,search_term,scrape_timestamp
+Caja 2100g,Fórmula Infantil SIMILAC 3 HMO Caja 2100g,S/ 194.30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Paquete 8un,Formula Láctea NAN 3 Crecimiento Lata 390g Paq...,S/ 40.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 1.4Kg,Fórmula Infantil SIMILAC Total Comfort Caja 1....,S/ 275.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Paquete 8un,Formula Láctea NAN 2 Bebés Lata 390g Paquete 8...,S/ 47.20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Botella 1000g,Desatorador para Baños DIAMANTE Fórmula Especi...,S/ 12.89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Paquete 6un,Fórmula Láctea de Crecimiento NAN 3 Lata 390g ...,S/ 31 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 800g,Fórmula Infantil SIMILAC 3 HMO Lata 800g,S/ 81.70 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 1kg,Fórmula Infantil ENFAMIL Confort Premium Caja ...,S/ 195.10 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Paquete 180g,Galletas para Perros GNAWLERS en forma de Hues...,S/ 9.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Bolsa 145g,Marshmallow COLOMBINA Millows sabores frutados...,S/ 4.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 850g,Fórmula Nutricional GLUCERNA Vainilla para Dia...,S/ 137.69 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 1.65kg,Fórmula Infantil ENFAMIL Premium 1 Caja 1.65Kg,S/ 298.70 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 820g,Fórmula Infantil SIMILAC Total Comfort Lata 8...,S/ 177.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 390g,Fórmula Láctea de Crecimiento NAN 3 Lata 390g,S/ 6.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Paquete 6un,Fórmula Láctea NAN 2 Bebés Lata 390g Paquete 6...,S/ 37.10 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Bolsa 145g,Marshmallow COLOMBINA Millows sabores frutados...,S/ 4.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Botella 1000g,Desatorados para Cocinas DIAMANTE Fórmula Espe...,S/ 12.89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 800g,Fórmula Infantil SIMILAC 1 HMO Lata 800g,S/ 165.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 375g,Fórmula Infantil ENFAMIL Confort Premium Lata ...,S/ 78.10 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 390g,Fórmula Láctea NAN 2 Bebés Lata 390g,S/ 6.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama PET STAR en forma de Cueva para Gatos,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 800g,Fórmula Infantil SIMILAC 2 HMO Lata 800g,S/ 158.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete PET STAR en forma de Pez para Gatos,S/ 5.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 1.65kg,Fórmula Infantil ENFAMIL 2 Caja 1.65Kg,S/ 281.80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Bolsa 1.05Kg,Papas Prefritas BEM BRASIL con Forma de Carita...,S/ 12.49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 850g,Fórmula Infantil ENFAMIL 1 Promental Lata 850g,S/ 180.20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 850g,Fórmula Infantil MFGM ENFAMIL Confort Premium ...,S/ 163.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Limpiador de Pantallas BINNER Fórmula Antiestá...,S/ 24.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 1800g,Fórmula Infantil SIMILAC 2 HMO Lata 1800g,S/ 291.80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 400g,Fórmula Infantil en Polvo INFANZIA Biomilk 2 C...,S/ 79.80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Building Block Technik Fórmula 1 SPEED SHIFT 2...,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 400g,Fórmula Infantil en Polvo INFANZIA Biomilk Caj...,S/ 84 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 400g,Fórmula Infantil en Polvo INFANZIA Biomilk 3 C...,S/ 50.20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato DECO HOME C/Forma Madera Acacia,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Bolsa 145g,Marshmallow COLOMBINA Millows sabores Frutado ...,S/ 4.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojines VIVA HOME Unicornio Forma Dis2,S/ 15.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Caja 80g,Chocolate LA IBÉRICA CORAZÓN Negro en forma de...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cubetera en Forma de Fresa VIVA HOME,S/ 8.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cubetera en Forma de Piñas VIVA HOME,S/ 8.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Lata 850g,Fórmula Infantil ENFAMIL 2 Premium Lata 850g,S/ 168.70 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Tubo 250ml,Shampoo Fórmula Vegana URBAN CARE Ácido Hialur...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Tubo 250ml,Shampoo Fórmula Vegana URBAN CARE Twisted Curl...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojines VIVA HOME Dino Forma Surt,S/ 17.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojines VIVA HOME Unicornio Forma Dis1,S/ 15.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Botella 750ml,Vino Tinto LATENTE Blend Botella 750ml,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Botella 750ml,Vino Tinto LATENTE Reserva de Familia Malbec B...,S/ 64.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+Botella 750ml,Vino Tinto LATENTE Malbec Botella 750ml,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rompecabezas DISNEY con 5 Figuras Forma Mickey...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Clasificador De Formas PLAYGRO Hipopotamo Flot...,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Encaje BABY EINSTEIN Formas Sensorial...,S/ 149 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gimnasio BRIGHT STARTS 5 en 1 Tu Forma de Juga...,S/ 489 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bolso Pañalero SKIP HOP Forma Mauve Mist,S/ 429 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Limpiador de Tapiz y Alfombra FORMULA 1,S/ 25.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cera en Pasta FORMULA 1 Carnauba 8oz,S/ 28 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cera Líquida FORMULA 1 16oz,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Crema Protectora de Cueros FORMULA 1 16oz,S/ 35 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Silicona Protectora FORMULA 1 New Car 10oz,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Shampoo FORMULA 1 con Cera Carnaiba 16oz,S/ 20.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Silicona Protectora FORMULA 1 Vainilla 10oz,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cera Líquida FORMULA 1 Negro 160z,S/ 36 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Libro Infantil INCABOOKS Para Crecer - Aprende...,S/ 20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de jabón forma Árbol Colección Roj...,S/ 7.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set x 3 colgantes Dorados forma Árbol Colecció...,S/ 3.16 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tabla de madera en forma de árbol Colección Na...,S/ 17.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Puf Mostaza en forma de hongo Orange,S/ 59.94 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojín navideño forma Pinguino 40x49cm Colecció...,S/ 27.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojín navideño forma Perro 46x38cm Colección R...,S/ 23.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set x 2 cajas cartón Navideña forma Reno Colec...,S/ 3.16 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojín Bordado Forma de Bastón Navideño 45cm Co...,S/ 15.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Adorno de árbol Forma Árbol 6.5x3x8cm Colecció...,S/ 4.76 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Protector Auto Nuevo 10 onzas,S/ 34.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cera liquida caranuba 16 onzas,S/ 45.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cera Carnauba en pasta 12 onzas,S/ 58.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set x 6 Velas en forma de pino Dorado Colecció...,S/ 11.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato forma de Estrella 18x2cm Orange,S/ 11.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Colgante de árbol Formas Variadas 11cm Colecci...,S/ 3.96 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Adorno de árbol forma Estrella 7.7x3x8cm Colec...,S/ 4.76 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Funda parrilla grande,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Minnie Mouse Cantante 14633,S/ 149 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gancho en Forma de L de Color Dorado,S/ 30.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Perchero Mate en Forma V Más Casa Perú,S/ 25.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Perchero en Forma de Check de 45 Grados,S/ 21.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Mickey Mouse Cantante 14619,S/ 149 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Aries Forma Irregular,S/ 349.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Serrano Forma Rombo,S/ 139.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Blue Forma Irregular,S/ 324.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Otto Forma Irregular,S/ 259.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sonajero Suave En Forma De Helado Para Bebe Me...,S/ 145 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sonajero Suave En Forma De té de Burbujas Para...,S/ 65.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Clasificador De Formas Playgro Hipopótamo,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bolso Pañalero Skip Hop 9M203710 Forma Mauve M...,S/ 300.30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Para Bebe Baby Einstein Encaje De Form...,S/ 149 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set De Juego Playdoh 20 Piezas Formas Divertid...,S/ 49.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Puntero Laser Rojo Alta Potencia Recargable Mú...,S/ 18.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,LEGO 76919 Coche de Carreras de Fórmula 1 McLa...,S/ 199 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gallina Hervidora Eléctrica de Huevos,S/ 23.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador de dedo con velcro férula digita...,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portafolleto de Acrilico A4 forma de T - Porta...,S/ 35.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Clasificación Formas Sensoriales para ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Con Sonido En Forma De Gato Para Masco...,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Burbujero en Forma de Cangrejo + Máquina...,S/ 69.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Hervidor de Huevos al Vapor en Forma de Gallin...,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bozal Para Perro en Forma de Canasta Talla 3,S/ 24.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piano Moderno en Forma de Leon en Multicolor,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bozal para Perros con Forma de Pato Talla S,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cepillo de Vapor para Gatos y Perros Forma de ...,S/ 24 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 4,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Molde Cortador de Galletas en Forma de Corazón...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Blemil Plus Confort Fórmula de Fácil Digestión...,S/ 94.30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,AeroChamber Plus Lactante - Caja 1 UN,S/ 146 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rompecabezas de Formas Voilà S520F,S/ 45 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de Trenes Bigjigs En Forma de Ocho BJT012,S/ 230 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aretes de Plata para Mujer con Cristal Swarovs...,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aretes de Plata para Mujer con Cristal Swarovs...,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aretes de Plata para Mujer con Cristal Swarovs...,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Esponja de maquillaje U Beauty forma diamante ...,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Esponja de maquillaje U Beauty forma diamante ...,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Stress Fórmula con Vitamina C de Alta Potencia...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Stress Fórmula B Complex 60 Tabs + Gluconato d...,S/ 109.80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de 3 Cestas Maceta Multifuncional Colgante...,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Vidrio para Dulces con Tapa Forma de ...,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Baby Brezza Formula Pro Advanced – Embudo y ta...,S/ 308 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Apilador de formas giratorias Chanitos Cunita ...,S/ 69 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,LÁMPARA DE ESCRITORIO EN FORMA DE PULPO,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Férula Palmar Larga Argym Talla S Iz...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gimnasio 5 en 1 Tu Forma de Jugar a la Pelota ...,S/ 244 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Trampolín Saltarín Hexagonal C Timon Agarre Ma...,S/ 320 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Termo en forma de Neumáticos,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Férula Palmar Larga Argym Talla L De...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alfombra para Sillas de Oficina Forma Octogona...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Chanchito Verde,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Abridor de Botellas con Forma de Lanzador Dive...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alfombra para Dormitorio en Forma de Osa Marca...,S/ 62 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Chanchito Acero,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alfombra para Sillas de Oficina Forma Octogona...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gimnasio 5 en 1 Tu Forma de Jugar a la Pelota ...,S/ 244 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Férula Palmar Larga Argym Talla XL I...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Twice Monograph Formula Of Love Kpop Photobook...,S/ 249.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Hervidor de Huevos al vapor en Forma de Gallin...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Funko Pop Dragon Ball - Freezer Forma Final #1...,S/ 69 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta con Espacio Forma Eliptica Y+Regalo Lig...,S/ 383.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Audifonos Forma de Gato en Color Rojo Y+Sticke...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,"S/ 1,227.90 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Divertida en Forma de Fresita Y+Ligas d...,S/ 193.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seguro Para Flotador En Forma De Tallarín,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Especiero Funcional de Forma Cuadrado Y+Bander...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Condimentero Moderno de 16 Frascos en Acero Fo...,S/ 93.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tubo de Gym en Forma de C Color Negro Y+Post-i...,S/ 83.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Condimentero de Forma Rectangular Set de 4 Y+R...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bolsa con Protector de Forma Hueso Rosado Y+Re...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Joyero de Tocador en Forma de Gatito,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cubo Clasificador de Formas Diversión y Apren...,S/ 69.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pony Musical Multifuncional con Xilófono y Jue...,S/ 89.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Forma de Flor para Liquidos Blanco...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Giratorio en Forma de Flor de 9kg ...,S/ 139.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Condimentero Ergonomico en Forma Cuadrado Y+Pa...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Audifonos Forma de Gato en Color Verde Y+Stick...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara En Forma De Logo Minegraft,S/ 280 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara Con Forma De Estrella Paladone,S/ 230 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara En Forma De Vela Con Cambio De Color E...,S/ 180 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara De Escritorio En Forma De X Wing Star ...,S/ 340 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara De Escritorio En Forma De Batwing Batm...,S/ 340 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lampara En Forma De Caja Barbie,S/ 280 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Vaso con Formas en Transparente Y+Regalo Ligas...,S/ 109.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,S/ 107.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera Ergonomica en Forma de Animal de Azul...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bebedero de Forma Circular Color Blanco Y+Post...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimolla Grand...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador de Gatos Entretenido en Forma de C,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Color Plomo Tal...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Dinamico en Forma de Langosta Y+Ligas...,S/ 179.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Flexible en Forma de Hueso Tono Rosado,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Animalista Color Verde Y+Gift...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Ovni para Per...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu Talla M en Plomo Y+...,S/ 126.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Balde Forma de Cono 7x17cm Amarillo Y+Envoltor...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Manzana para ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,S/ 633.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Platillo en Forma de Tostada Azul Y+Post-it ad...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Balde Forma de Cono 12x12cm Amarillo Y+Envolto...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador de Gran Diseño en Forma de Sandia Y+R...,S/ 183.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,S/ 546.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Mani Resistente en Color A...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimolla Grand...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Celda 1ª Forma Bandai Spirits colección Dragon...,S/ 415 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Funcional en Forma de Tortuga Y+Post-...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portajabon Moderna en Forma de Ballena de Colo...,S/ 26.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta con Forma Capitan del Mar Y+Regalo Liga...,S/ 419.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Divertida Forma Capitan del Mar Y+Ligas...,S/ 409.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Divertida en Forma de Delfin Y+Ligas de...,S/ 229.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta para Ambiente Calido Forma Eliptico Y+L...,S/ 373.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Juvenil en Forma de Delfin Y+Regalo Lig...,S/ 236.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Relajante en Forma de Delfin Y+Post-it ...,S/ 213.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pileta Suave en Forma de Helado Y+Regalo Ligas...,S/ 186.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina en Forma de Caracol para Diversion Inf...,S/ 153.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Taper Multiuso con Forma de Piezas Multicolor ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Pesa Rosado Y+Ag...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Forma de Flor para Granos 6kg Verd...,S/ 163.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Pesa Verde Agua ...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Masticador en Forma de Pesa con Puas T...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Forma de Flor para Granos 9kg Blan...,S/ 163.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Forma de Flor para Granos 6kg Blan...,S/ 163.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimolla Grand...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aceitero en Forma de Botella de Vidrio Pico 30...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Forma de Flor para Granos 9kg Verd...,S/ 163.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Suave Forma de Perro con Sonido de Col...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Led en Co...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pequeño de Caucho Forma de Chirimolla ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Audifonos Forma de Gato en Color Rosado Y+Stic...,S/ 83.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil Caucho Forma de Chirimolla Di...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Hueso Celeste Y+...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Hueso Rosado Y+A...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Flexible en Forma de Hueso Tono Celest...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Hueso con Luz Led e...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho Pequeño en Forma Chirimoya d...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pequeño de Caucho Forma de Chirimolla ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche con Forma de Perro Didactico Color Nar...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pato Marron con Rosado Y+P...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Adorable en Forma de Perro Naranja Y+P...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche con Forma de Sapo Divertido Color Verd...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche en Forma de Chancho Resistente en Colo...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pato Marron con Rosado Y+P...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cartera Transportadora en Forma de Leon Tono P...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cartera Transportadora en Forma de Leon Color ...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Audifonos Forma de Gato en Color Plomo Y+Stick...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu en Verde Agua Talla...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu en Rojo Talla L Y+S...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Color Rojo Tall...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M en Colo...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla S Diseño ...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu en Azul Rey Talla L...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla S Diseño ...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu en Plomo Talla L Y+...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bola de Hierba en Forma de Tortuga para Gatos ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M Color A...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Mascotas Acolchonada en Forma Iglu Talla ...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Color Azul Rey ...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M Color V...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M Color P...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu Talla M en Azul Rey...,S/ 126.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla S en Colo...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M en Colo...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Color Verde Agu...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pequeño de Caucho Forma de Chirimolla ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pequeño de Caucho Forma de Chirimolla ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Cerrada Forma de Iglu Talla M en Guinda Y...,S/ 126.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cama Acolchonada en Forma Iglu Talla M Color G...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Piña para Mascotas Color A...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente con Forma de Pina Amarillo ...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Azafate Forma Circular de Color Marron Y+Post-...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Collar de Cadena Pandora Collier Triple Piedra...,S/ 499.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Carro en Forma de Escabadora para Niñ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Aro de Sirena para Niños ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Aro de Frutas para Nadar ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cartera Transportadora en Forma de Leon Tono R...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador de Gatos en Forma Platano Marron Y+Pa...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador de Carton para Gatos con Forma de Pez...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Aro de Dinosaurio para Ni...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Fuente con Forma Rectangular de Celeste Y+Rega...,S/ 156.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Fuente de Forma Rectangular Color Rosado Y+Reg...,S/ 156.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador de Carton Resistente en Forma de Elef...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase de 3 Unidades con Forma Multicolor Y+Re...,S/ 76.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Funcional en Forma de Moto Y+Post-it ...,S/ 109.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,S/ 316.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Comodo Ligero con Forma de Sandia Y+L...,S/ 209.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador con Forma de Ala para Piscinas Multic...,S/ 193.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Taper con Forma de Piezas Multicolor Y+Regalo ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma Rectangular para Agua Circular e...,S/ 593.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable Piscina Forma Girasol 142x142cm Y+Lig...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Funcional en Forma de Sandia Y+Post-i...,S/ 193.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma para Agua Circular en Celeste,S/ 609.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Funcional en Forma de Llama Y+Post-it...,S/ 163.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Comodo con Forma de Unicornio Y+Ligas...,S/ 179.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Rectangular Forma para Agua Circular e...,S/ 529.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Funcional en Forma de Tiburon Y+Post-...,S/ 109.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Recife Forma para Agua Circular en Mul...,S/ 76.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Animalista Color Rosado Y+Gif...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnes para Gato en Forma de Alas en Celeste Y+...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Limpiador en Forma de Cilindro en Color Rosado...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador con Asa en Forma de Estrella para Niñ...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Frotador para Gatos en Forma de C Y+Post-it Ad...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de Agua en Forma de Gato en Tono R...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Ovni para Per...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de Agua en Forma de Gato en Color ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pesa Canino Amarillo Y+Pap...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Masticador en Forma de Pesa para Masco...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cartera Transportadora en Forma de Leon Tono V...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Fuente con Forma Circular de Color Azul Acero ...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Manzana para ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pelota Interactiva con Sonidos y Forma...,S/ 49.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Iglesia Con Cantantes Ac973 Floripa,S/ 276.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina de Forma Rectangular Resistente en Ana...,S/ 199.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma de Oceano Amplia en Multicolor,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma de Ollita Circular de Color Cele...,S/ 193.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Rectangular Forma para Agua Circular e...,"S/ 1,103.90 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Dinamico en Forma de Fresa Y+Ligas de...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable Didactico Forma de Pato Y+Regalo Liga...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Corta Uña con Lima en Forma de Alicate de Colo...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Dinamico en Forma de Moto Y+Ligas de ...,S/ 119.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Aro de Pez para Nadar de ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de Agua en Forma de Gato en Color ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Aro de Piña para Nadar de...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador con Asa de Forma de Estrella para Niñ...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Pesa Color Rojo ...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Platillo en Forma de Tostada Rojo Y+Post-it ad...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Segura de Forma Redonda en Azul Y+Rega...,S/ 469.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma de Ollita Circular de Color Cele...,S/ 146.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable Piscina Para Niño Forma de Pato Y+Lig...,S/ 67.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Carro de Bombero para Nad...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cartera Transportadora en Forma de Leon Color ...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Masticador en Forma de Pesa con Puas T...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Fuerte de Forma Honguito Multicolor Y+...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable Piscina Forma Helado 198X107cm Y+Liga...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotante Dinamico en Forma de Langosta Y+Ligas...,S/ 133.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de Agua en Forma de Gato en Color ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piscina Forma de Ollita Circular de Color Cele...,S/ 269.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gym de Gato en Forma de Casa de Dos Pisos de C...,S/ 176.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gym de Gato en Forma de Casa de Dos Pisos de C...,S/ 176.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Limpiador en Forma de Cilindro en Color Celest...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Platillo en Forma de Tostada Naranja Y+Post-it...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera Divertida en Forma de Ballena de Colo...,S/ 26.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Fuente de Forma Circular Pet de Color Verde Y+...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato en Forma de Cangrejo Rosado Oscuro Y+Pap...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera Minimalista en Forma de Ballena de Co...,S/ 26.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alcancía para Niños en forma de Dino,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Fuente Compacta en Forma de Corazon Rosado Y+R...,S/ 173.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arenero para Gatos en Forma Cerrada Color Rosa...,S/ 123.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alcancía para Niños en forma de Cangrejo,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador de Agua en Forma de Ovni en Tono C...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arenero para Gatos Forma Semicerrado Color Ver...,S/ 97.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alcancía para Niñas en forma de Dino,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Vaso en forma de lente Canon 24-105,S/ 57 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Manzana para ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Emparejamiento de Formas de Oso,S/ 119.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Encaje de Formas Educativo 18 Pieza...,S/ 49.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cubo de Formas en Malla,S/ 39.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cubo de Encastre de Formas para Bebés,S/ 79.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de Juguetes Educativos para Clasificación ...,S/ 69.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Educativo de Enlace con Formas Geométr...,S/ 99.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rompecabezas Montessori con Formas de Espejo H...,S/ 80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Madera HAPE Clasificador de Formas ...,S/ 130 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Madera HAPE Caracol de Arrastre Car...,S/ 206 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gym de Dos pisos en Forma de Casa para Gato de...,S/ 176.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de 3 Cucharones en Forma de Hoja,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de 3 Servilleteros en Forma de Cisne,S/ 21.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete En Forma De Ballena Para Mascotas,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Lanza Dardos en Forma de Tiburon para ...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mordedor en forma de Helado,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Almohada en Forma de U para Bebe,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mordedor en Forma de Fruta,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Comedero Forma Bidon Compacto para Perros en V...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rodillo de Amasar en forma de T,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete En Forma De Estrella Para Mascotas,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete En Forma De Circulo Para Mascotas,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estante Infantil Forma de Elefante Popi - AMOR...,S/ 629.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojin Forma Ever After High Royal 35 x 40 cm,S/ 12.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego Cepillos Boon Varios Colores,S/ 155 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador en Forma de Barril de Arroz y Cere...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Cuerdas Sensorial Forma de Ovni par...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador en Forma de Barril de Arroz y Cere...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguetes de Forma de Bichos Multicolor Y+Stick...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Animal en Color Rojo Y+Sti...,S/ 83.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato en Forma de Cangrejo en Color Rosado Y+P...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete para Gatos Forma de Palta Verde Y+Post...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Caja con Forma Gatuna en Color Rosado Y+Papel ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Orejitas para Gato Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Waflera Forma de 4 Corazones en Color Negro,S/ 153.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Columnas para Encajar Formas de Peces Y+Agendi...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobogan de 4 pisos Forma de oso Multicolor Y+P...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mordedor con Forma de Control Remoto para Bebé...,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Canasta en Forma Circular de Mimbre Color Marr...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Canasta en Forma Circular de Mimbre Color Marr...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tambor Musical en Forma de Tren para Niños Mul...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Goma en Forma de Galleta Oreo Color...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jenga con Forma Rectangular de Tono Madera Y+S...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Base en Forma Circular con Patitas de 39cm Y+P...,S/ 93.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Base en Forma Circular con Patitas de 44cm Y+P...,S/ 103.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Pesas Talla M Co...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Base de Madera Forma Redonda con Patitas de 39...,S/ 99.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Base de Madera Forma Redonda con Patitas de 44...,S/ 109.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Formas Geometricas Multicolor Y+Pap...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Ovalada de Tono Marron Y+Post...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego Funcional de Letras Encajables Forma Oso...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Ovalada de Tono Marron Y+Post...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Envase con Forma Circular de Tono Marron Y+Pos...,S/ 66.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil Caucho Forma de Chirimolla Di...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Formas Encajables para Niños Multicolor Y+Post...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Encaje de Figuras en Forma de Oso en Color Mar...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Encaje Eucativo de Forma Oso Marron Y+Papel de...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jarra Forma Tetera con Filtro Transparente Y+P...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Puntero Laser Tupetshop en Forma de Boligrafo ...,S/ 18 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Mascota Forma de Chirimoya Tono Ros...,S/ 90.89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñeco en Forma de Osito Pet en Mostaza Y+Post...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pesa para Cachorros en Roj...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Forma de Avion Inflable en Rojo Y+Pap...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Forma de Pez Inflable Amarillo Y+Pape...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Galleta Color Negro Y+Pape...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Neewer 12.5cm En Forma De V Triple 3 Soporte U...,S/ 90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,NEEWER L Shape Grip Para Nikon Z FC Empuñadura...,S/ 185 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Duradero con Forma de Pato Pet en Colo...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Mediano en Forma de Hueso Anch...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Comedero Forma Bidon Compacto para Perros en P...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala Formal Lisa 3-2-1,"S/ 3,179 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Ancho para Pet Colo...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Dispensador Portatil en Forma de Manzana para ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Mani para Perros en Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil de Caucho Forma de Chirimolla...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil de Caucho Forma de Chirimolla...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete para Gatos Forma de Palta Verde Y+Post...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido de Forma de Galleta Color Ne...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Forma de Hueso con Diseño de Puntitos ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido Forma de Pollo en Talla L Y+...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Sandia para Mascota Color ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Flexible en Forma de Hueso Tono Verde ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mini Waflera Forma Circular Moderno en Diseño ...,S/ 76.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Mani para Perros en Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alfombra de Baño en Forma de Pez 42x62,S/ 21.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Ovalada en Color Azul Y+Papel de ...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Rectangular en Color Rojo Y+Papel...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Parlante Lampara con Forma de Luna Divertido e...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Parlante Lampara Alegre con Forma de Luna en C...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador de Forma Circular con Asa en Color An...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Ovalada en Color Verde Y+Papel de...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aceitero en Forma de Botella de Vidrio Pico 30...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Orejitas para Gato Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Piano para Niños Forma de Camion de Bomberos R...,S/ 57.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cesta en Forma Rectangular con Tapa en Marron ...,S/ 316.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cesta en Forma Rectangular con Tela Marron Y+A...,S/ 149.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Rectangular en Color Celeste Y+Pa...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera Ergonomica en Forma de Animal de Azul...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Mediano en Forma de Gato en Am...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Ovalada en Color Marron Y+Papel d...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Mediano en Forma de Gato en Co...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Mediano en Forma de Gato en Co...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Ceramica en Forma de Pan Tostada de C...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Ovalada en Color Rosado Y+Papel d...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pesa para Cachorros Azul Y...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma Hueso para Perros en Multicol...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pera en Rojo Chico Y+Papel...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Pera en Rojo Grande Y+Pape...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Hueso Verde Limo...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Divertido en Forma de Sandia Color Roj...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Orejitas para Gato Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Delgado para Pet Co...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Rectangular en Color Rosado Y+Pap...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Versatil Forma de Huella Talla XXXL Y+Pa...,S/ 63.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Limpiador en Forma de Cilindro en Color Verde ...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego Moderno Encajables Forma de Osito Y+Pape...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Conejo de Amarillo Y+Post-...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Encaje Geometrico de 4 Formas en Caja de Color...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Duradero en Forma de Pato Pet en Color...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche en Forma de Chancho Resistente en Colo...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche en Forma de Pato Funcional Pet de Colo...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Duradero con Soga Pet en Forma de Perr...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Varias Formas en Multicolor Y+Post-it...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñeco en Forma de Elefante Pet en Verde Y+Pos...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil Caucho Forma de Chirimolla Di...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Portatil de Caucho Forma de Chirimolla...,S/ 36.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente en Forma de Hueso para Perr...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Maceta Moderna y Practica en Forma cubo Y+Post...,S/ 56.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimolla Grand...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimoya Grande...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Chirimolla Grand...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho en Forma de Pesas Talla M Co...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Mediano en Forma de Gato en Co...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Apuntador en Forma de Color Rojo Y+Agendita,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tapete Forma Ovalada en Color Plomo Y+Papel de...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Condimentero Espacioso de Forma Cuadrada en Gr...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Escritorio Nacion Muebles Risco Forma de L Col...,S/ 699 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala Formal 3-2-1,"S/ 2,947 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador con Forma de Pajaro de Rosado Y+Papel...,S/ 283.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Util con Forma de Florcita de Celeste...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador de Forma Circular con Asa en los Lado...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Divertido en Forma de Piña Y+Stickers,S/ 169.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Playa en Forma de Sandia Y+Agend...,S/ 83.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set 2 Juguetes en Forma de Huesos para Perro A...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable en Forma de Cisne Rojo Y+Pap...,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Moderno y Divertido con Forma de Dona...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche de Mascota Forma Elefente en Color Ver...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche de Mascota Forma de Oso Color Mostaza ...,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Suave de Forma de Chancho Rosado Y+Age...,S/ 53.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobogan de 4 pisos Forma de oso Multicolor Y+P...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Parlante en Forma de Calavera Color Variado,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de PVC con Forma de Sandia Rojo Y+Pape...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Ancho para Pet Colo...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Orejitas para Gato Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Orejitas para Gato Color ...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Adorno Cascada en forma de Tetera,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche en Forma de Chancho de Color Rosado,S/ 46.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Resistente con Forma de Color Amarillo...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma Hueso de Jebe en Color Celest...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Hueso de Jebe en Verde Ama...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho Pequeño Forma Chirimolla de ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete con Forma de Hamburguesa Amarillo Y+Pa...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato para Mascotas en Forma de Hueso Pequeño ...,S/ 27.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Forma de Circunferencia de Color Rosado ...,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Ancho para Mascotas...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Ancho para Mascota ...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnes en Forma de Chaleco de Anaranjado Y+Agen...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador Util de Gatos con Forma Cuadrada de C...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aceitero en Forma de Botella de Vidrio Pico 50...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Azafate Forma Circular de Color Marron Y+Post-...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Moderno en Forma de Cocodrilo de Colo...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable en Forma de Cisne Blanco Y+P...,S/ 143.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Forma de Carro Inflable Celeste Y+Pap...,S/ 73.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador Forma Baul en Amarillo Y+Papel de ...,S/ 113.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Caja Practica con Forma de Gato en Color Rosad...,S/ 47.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Caja Organizadora en Forma de Gato en Color Ro...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Caja con Espejo y Forma de Gato en Color Amari...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"Rascador para Gatos en Forma de L con Campana,...",S/ 185 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Forma de Hueso Ancho para Mascotas...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador para Gatos en Forma de Laptop con Rat...,S/ 52 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Duradero en Forma de Pato Pet en Color...,S/ 43.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Masticador en Forma de Pesa con Puas V...,S/ 33.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Xilófono en Forma de Animalitos,S/ 24.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara de Mesa en Forma de Animalitos para Ni...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de 6 Copas de Vidrio para Postre Helado Fo...,S/ 32.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cojin ortopedico forma u espuma viscoelastica ...,S/ 63.20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Playseat Formula Asiento de Carreras Intellige...,"S/ 18,539 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cepillo de Vapor para Gatos y Perros Forma de ...,S/ 24 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cepillo de Vapor para Gatos y Perros Forma de ...,S/ 24 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cepillo de Vapor para Gatos y Perros Forma de ...,S/ 24 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Molde Cortador de Galletas en Forma de Flor 5 ...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Molde Cortador de Galletas en Forma de Estrell...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Molde Cortador de Galletas en Forma Redonda x4...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Regla Métrica Francesa en Forma de Ropa Moda R...,S/ 209 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ampolla Todo tipo de piel Fórmula N°10 SPF30 H...,S/ 374 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ampolla Todo tipo de piel Fórmula N°10 SPF30 H...,S/ 82 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gorra New Era Formula 1-Red Bull 9Fifty 197373...,S/ 149.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Kit de 2 Luces Bescor Fp 900 Bi Color Led Cont...,"S/ 3,309 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Silicona en Forma de Cangrejo,S/ 34.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,LEGO 42169 NEOM McLaren Formula E Race Car,S/ 399 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Purificador de Aire con Forma de Florero Mader...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Purificador de Aire con Forma de Florero Mader...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Gorra New Era Formula 1-Mclaren Racing Origina...,S/ 129.95 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Turmeric Formula frasco 60 capsulas 500 mg,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Andador con Actividades en Forma de Elefante,S/ 89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ventilador Portatil en Forma de Oso,S/ 32.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Baúl forma de Casita para Niños color Blanco/D...,S/ 599.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Camisa Formal Oxford Hombre Cambridge Classics,S/ 149 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason Natural - 3 Stress Formu...,S/ 249.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,ZAPATERA DE 4 NIVELES EN FORMA DE X,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Perro Caucho Forma Pesa Talla L Dis...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Perro Caucho Forma Pesa Talla L Dis...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estabilizador Smart UPS 8 Tomas 2200VA / 1200W...,"S/ 1,100 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mueble Seccional Ficus en forma de L color Bla...,"S/ 4,200 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"Juguete Masticable para Perro, Cepillo con For...",S/ 32.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Perro Caucho Forma Pesa Talla L Dis...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho Forma Pesas Talla M Rosado,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho Forma Pesas Talla M Rojo,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete de Caucho Forma Pesas Talla M Azul,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Vitaminas Mason Natural - Stress Formula With ...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason Natural- 2 Arginine 500 ...,S/ 334.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason Natural - Arginine 500 M...,S/ 169.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason Natural - 2 Stress Formu...,S/ 169.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason Natural - 2 Stress Formu...,S/ 344.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Vitaminas Mason - Stress Formula With Zi...,S/ 174.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Taza de Cerámica en Forma de Calavera,S/ 44.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mini Nivel De Burbuja Portátil Con Alambre Col...,S/ 67.43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mini Nivel De Burbuja Portátil Con Alambre Col...,S/ 67.43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Sensorial Forma de Cubo Zoo,S/ 48.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego Educativo Maletín Magnético Números y Fo...,S/ 129.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Figura Funko de Cantante Duki con Caja y Base ...,S/ 180 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ganchos de Cocina en Forma de Papa,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguetes Sensorial en Forma de Cubo,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera BiLateral Talla L ortopédica con Fér...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera BiLateral Talla M ortopédica con Fér...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera BiLateral Talla XL ortopédica con Fé...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rodillera Articulada Talla XL con Férulas Late...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ventilador De Mesa Escitorio Lámpara Portátil ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante hilo de ratán en forma de bol...,S/ 129 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante de 3 unidades con forma de bo...,S/ 279 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante de 3 unidades con forma de bo...,S/ 279 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Catnip Caramelo en Bolita para Gatos x...,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Catnip Caramelo en Bolita para Gatos x...,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Catnip Caramelo en Bolita para Gatos x...,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 1,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 2,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 3,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 5,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Digital de Stack Talla 0,S/ 30 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Consola Playstation 5 Slim Lectora de Discos +...,"S/ 2,409 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Box Rosas mas Collar y Aretes Caja en Forma de...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ramo de Flores Caja Rosada en Forma de Corazon...,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pinza Amperímetro Termómetro Infrarrojo En For...,S/ 255.32 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cámara de Seguridad Espía en forma de Astronau...,S/ 130 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante de 3 unidades con forma de tr...,S/ 299 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante de 3 unidades con forma de cu...,S/ 299 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara colgante de 3 unidades con forma de tr...,S/ 299 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Collar Victoria Cruz corto combinación de form...,S/ 528 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arete de Plata 925 en forma de Argolla con Gem...,S/ 119 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego Didáctico Rompecabezas formas Geométrica...,S/ 37 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Interactivo de Baño con Ducha en Forma...,S/ 70 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tazón Anti-Estrés para Mascota Forma de Corazó...,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Piscina Inflable Intex Diseño Acuario + ...,S/ 425 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Piscina Intex Ovalada para Niños + Flota...,S/ 248.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador de Piscina Intex en Forma de Tortuga,S/ 110 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Molde Bandeja para Hielo de Silicona forma de ...,S/ 9.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seguro Para Flotador En Forma De Tallarín Azul...,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set de 6 Copas Champagne Forma Flauta 140ml,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Linterna Frontal Streamlight Twin Task Usb Emp...,S/ 609 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seguro Para Flotador En Forma De Tallarín,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador Forma de Pétalos,S/ 75.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Libro Didactico Infantil Princesa Disney Forma...,S/ 57 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Brocha Kabuki Mágica de Maquillaje en Forma de...,S/ 15 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Libro Cajón de Sueños Poesía Ilustrada Nube co...,S/ 84 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pack 2 Rompecabezas - Vocales Formas Números ...,S/ 44 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla M Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pack 2 Rompecabezas - Vocales Formas Números y...,S/ 44 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera ortopédica doble férula de aluminio ...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla S Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lentes de Sol Lolita para niñas en forma de co...,S/ 25 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego De Mesa Asociación De Formas,S/ 46.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla XL La...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla S Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla M Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla L Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla L Lad...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Férula Corrector de Licra Para Juanete Hallux ...,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Para Dardos Con Forma De Elefante Para...,S/ 32.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Túnel Rosado,S/ 84.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bubble blaster lanza burbujas en forma de pist...,S/ 159.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Torre Arcoíris Apilable Con Formas,S/ 48.05 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Xilófono Bus Encaje de Formas,S/ 99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Balancín en forma de animales,S/ 39.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de madera en forma de circuito,S/ 41.05 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Didáctico Montessori de Madera en Forma de Lab...,S/ 40.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Circuito Didáctico Espacial con Formas Números...,S/ 48.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bus de Madera encaje Números y Formas,S/ 53.05 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,1000 Piezas Gancho para Cortina Tipo Z en Form...,S/ 119 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador de dedo con velcro férula digita...,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador de dedo con velcro férula digita...,S/ 22 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de rodar pelotas en forma de oso para be...,S/ 40.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de rodar pelotas en forma de gato para b...,S/ 51.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tablero Montessori números y círculos en forma...,S/ 46.55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego didáctico obstáculo en forma de oso,S/ 39.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego didáctico obstáculo en forma de mariquit...,S/ 38.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego didáctico obstáculo en forma de mariposa,S/ 45.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pulsera de Piedras Naturales Fortuna,S/ 80 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mochila para Niños en Forma de Hongo,S/ 90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Corrector De Juanete Férula Endereza y Alivia ...,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Stelatopia Aceite Lavante Mustela - Frasco 500...,S/ 153.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Formas Home Imperial Beige,"S/ 3,199 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Formas Home Vasco Gris Beige,"S/ 4,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofá de 3 Cuerpos Amarilis Gris Beige,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala Formas Home Have Gris,"S/ 2,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Formas Home Mirai Confortable Camell...,"S/ 3,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofá Seccional Formas Home Hamil Beige Claro,"S/ 3,100 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala Formas Home Katy 3-2-1 Azul,"S/ 3,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mug Taza Termica Forma de Lente Camara Fotogra...,S/ 35 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Ballena Porta Jabón Azul,S/ 8.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Humidificador Forma de Foco,S/ 59.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpos jesy FormasHome Plomo Celeste,"S/ 2,645 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpos Centauri FormasHome Gris,"S/ 3,800 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpor Berna FormasHome Naranja,"S/ 3,600 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpor Berna FormasHome Marron,"S/ 3,600 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo Olga FormasHome Beige,"S/ 3,700 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo Milan FormasHome Turqueza ...,"S/ 4,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo Kiara FormasHome Gris Cabe...,"S/ 4,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo Frida FormasHome Negro Cab...,"S/ 5,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo Bela FormasHome Gris Cabe...,"S/ 3,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho Abril FormasHome Plata,"S/ 3,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Lámpara Solar Foco Sensor Movimiento Forma Cám...,S/ 44 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador de carton para gatos en forma de pesc...,S/ 65 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Pelotas de catnip en forma de pez para gatos- ...,S/ 35 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Carcasa para Pc de Factor de Forma Pequeño Fra...,"S/ 1,389 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Volante Add On Formula de Thrustmaster Edición...,"S/ 2,489 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aretes en Forma de Cruz Bañado en Oro Dorado,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aretes en Forma de Cruz Bañado en Oro Plata,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Soporte de Extensión Camvate y Mango de Madera...,S/ 409 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador Corrector de Juanete Branson Tal...,S/ 45 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador Corrector de Juanete Branson Tal...,S/ 45 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inmovilizador Corrector de Juanete Branson Tal...,S/ 45 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Baby Brezza Formula Pro Advanced WiFi,"S/ 3,609 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Waflera Doble Severin WA-2106 antiadherente 12...,S/ 189 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Cortador Multifuncional de Verduras de M...,S/ 180.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Zapatillas Running para Mujer Reebok HP9330 La...,S/ 279.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estuche Holder de Aurela Forma de Zorrillo con...,S/ 20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estuche Holder de Aurela Forma de Mona Morada ...,S/ 20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Clásica Estanteria forma escalera Andy color D...,S/ 529.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Conector de Panel Neutrik Cat6A Rj45 Hembra co...,S/ 249 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rompecabezas Armable 3D Rueda de la Fortuna Ni...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla XL Izq...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla XL Der...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla S Izqu...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla M Izqu...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla M Dere...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla L Dere...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla S Dere...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tobillera con Estabilizador Argym Talla L Izqu...,S/ 55 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Linterna Frontal Nitecore Hc30 de Doble Forma,S/ 419 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cámara de Red para Exteriores Vivotek Ib9369 F...,S/ 959 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bolsa Ideal para Dormir de Forma Delgada,S/ 166.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ordenador de Escritorio de Factor de Forma Peq...,"S/ 13,729 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sillon Puff Inflable en Forma Pelota de Futbol,S/ 109.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sillon Puff Inflable en Forma Pelota de Basket,S/ 109.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Calefactor en Forma de Astronauta,S/ 79.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato en Forma de Manzana para Bebe,S/ 39.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Ordenador de Sobremesa Hp Z2 G9 Workstation de...,"S/ 9,249 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Computadora de Escritorio Dell Optiplex 7000 d...,"S/ 7,729 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Computadora de Escritorio Dell Optiplex 5000 e...,"S/ 7,049 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Computadora de Escritorio de Factor de Forma P...,"S/ 6,469 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Computadora de Escritorio de Factor de Forma P...,"S/ 4,289 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete en Forma de Queso Para Gato PetSafe Ch...,S/ 179.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Rosa con Bebedero para Mascotas en Forma...,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Morado con Bebedero para Mascotas en For...,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Morado en Forma de Corazon,S/ 23 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Saco Azul de Dormir en Forma Delgada,S/ 193.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Kit de Pernos en Forma de Ojo Jbl 229 00009 01...,S/ 459 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Vaso Portavela en Forma de Cubo Libbey 10.10 C...,S/ 14.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 7.9 cm,S/ 8.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 15.24 cm,S/ 37.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 12.7 cm,S/ 32.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 10.16 cm,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Morral mini cartera en forma de Palta,S/ 21.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estantes con 3 Cajones formashome Tifton Negro,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estante Americano formashome Marron oscuro,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estante Lauren 3 Niveles formashome Duna Negro,"S/ 1,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Aragon 3 Cuerpos FormasHome Verde,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Aragon 3 Cuerpos FormasHome Rojo,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Aragon 3 Cuerpos FormasHome Azul,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Chesterfield Bangot 3 Cuerpos FormasHome ...,"S/ 4,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Aragon3 Cuerpos FormasHome Gris Oscuro,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa Chesterfield Bangot 3 Cuerpos FormasHome ...,"S/ 4,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Otra FormasHome Gris Claro,"S/ 3,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 3 Cuerpos Otra FormasHome Beige,"S/ 3,199 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Bodo FormasHome Negro,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Roni FormasHome Gris Oscuro,"S/ 1,599 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 cuerpos Lokka FormasHome Azul,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 3 Cuerpos Otra FormasHome Gris Claro,"S/ 3,199 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Otra FormasHome Negro,"S/ 3,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Roni FormasHome Azul,"S/ 1,599 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 cuerpos Lokka FormasHome Verde,"S/ 1,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Roni FormasHome Tabaco,"S/ 1,599 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Lass FormasHome Gris Claro,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Amanda FormasHomeNegro,"S/ 2,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho Dayana FormasHome Gris Oscur...,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Belén Universal FormasHome Gris Clar...,"S/ 4,200 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Garner FormasHome Gris Claro,"S/ 2,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Garner FormasHome Camello,"S/ 2,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Belén Universal FormasHome Azul,"S/ 4,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho Beker FormasHome Rojo,"S/ 2,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho Dayana FormasHome Rojo,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho Olivia FormasHome Acero,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho Dayana FormasHome Azul,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho Dayana FormasHome Naranja,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho Beker FormasHome Gris Oscuro,"S/ 2,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho Dalia FormasHome Gris Cabece...,"S/ 4,890 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Roni FormasHome Verde,"S/ 1,599 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Bodo FormasHome Beige,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Bodo FormasHome Granate,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Lass FormasHome Azul,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa de 2 Cuerpos Bodo FormasHome Azul,"S/ 1,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Amanda FormasHome Plata,"S/ 2,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Lass FormasHome Verde,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Garner FormasHome Azul,"S/ 2,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Amanda FormasHome Rojo,"S/ 2,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formas home Luanda chocolate,"S/ 4,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala formas home Chesterfield Gris,"S/ 6,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formas home Bodo Azul,"S/ 2,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala formas home Gaborone Verde,"S/ 3,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formas home Fenes Chocolate,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formas home Lokka Azul,"S/ 4,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formas home Lokka verde,"S/ 4,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala formas home Chesterfield negro,"S/ 6,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala formas home Novo Beige,"S/ 6,599 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3 -2-1 Ceniza,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Turquesa,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3-2-1 Gris,"S/ 4,300 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Verde,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Negro,"S/ 4,300 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Gris Osc...,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Morado,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Azul,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de Sala formas home Gitega Beige,"S/ 3,699 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3-2-1 Verde,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Verde,"S/ 2,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Naranja,"S/ 2,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Gris,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Azul,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3 -2-1 Naranja,"S/ 4,300 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3 -2-1 Amarillo,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Gris,"S/ 4,300 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Azul,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3-2-1 Rojo,"S/ 2,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3-2-1 Azul,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Elit02 3-2-1 Amarillo,"S/ 4,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Negro,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Turquesa,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Tang 3 -2-1 Turquesa,"S/ 2,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Rojo,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Mostaza,"S/ 3,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Gris oscu...,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Lian 3-2-1 Rojo,"S/ 2,499 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juego de sala formashome Linda 3-2-1 Verde,"S/ 2,399 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Suave Peluche de Felpa en Forma de Jirafa,S/ 57 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche en Forma de Jirafa con Material Felpa,S/ 37 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Piscina en Forma de Unicornio co...,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable para Piscina Forma de Unicor...,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable en Forma de Unicornio Multic...,S/ 53 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Unicornio para Piscina Di...,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Unicornio para Niños Dive...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Unicornio con Diseño Mult...,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Subwoofer de Paisaje en Forma de Hongo Jbl Pro...,"S/ 2,809 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Altavoz Paisajístico Jbl Control 88M de 8 Coax...,"S/ 2,669 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Pet Rosado en Forma de Corazon,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Pet Morado en Forma de Corazon,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Pet Celeste en Forma de Corazon,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Rosa en Forma de Corazon para Masc...,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Rosa en Forma de Corazon,S/ 53 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Pet Celeste en Forma de Corazon,S/ 23 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Morado en Forma de Corazon para Ma...,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Doble Celeste en Forma de Corazon para M...,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Celeste con Bebedero para Mascotas en Fo...,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador Estante Forma Triangular para Dorm...,S/ 53.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tomatodo en Forma de Cámara,S/ 75.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pescado Eléctrico para Gatos,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sartén Antiadherente de 4 Divisiones en forma ...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Silicona Forma de Cangrejo,S/ 69.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco S Azul 1 X...,S/ 45.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco M Vazul 2 ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco L Rosa 2 X...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco S Rosa 1 X...,S/ 45.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco L Azul 2 X...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Xl Azul 3 ...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Set para Vino 5 Piezas Forma de Botella,S/ 42.40 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Physics Accident Formul...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Pizza Formula,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Maxine With Improved Fo...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Parlante Portatil En Forma de Carro-ROJO,S/ 145 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Máquina para hacer Wafles Waflera Eléctrica en...,S/ 34.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Maquina Eléctrica hasta 5 Wafles en Forma de C...,S/ 79.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete para Animales Domesticos en Forma de J...,S/ 67 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portafolleto de Acrilico A6 Forma de T Portame...,S/ 15.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portafolleto de Acrilico A5 forma de T - Porta...,S/ 24.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portafolleto de Acrilico A5 forma de L - Porta...,S/ 25.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portafolleto de Acrilico A4 forma de L - Porta...,S/ 35.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Xl Rosa 3....,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Muñequera Estabilizadora 2 férulas Talla XL La...,S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Formula 1 2015 Playstation 4 Latam,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 10,079 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 10,079 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 7,239 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 13,139 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Goma Borrador En Forma De Dona Animalito Unic...,S/ 22.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Goma Borrador de Dona Animalito Osito,S/ 38.16 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Goma Borrador En Forma De Dona Animalito Perri...,S/ 22.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Goma Borrador En Forma De Dona Animalito - Gat...,S/ 22.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sartén Antiadherente Forma de Corazón 4 Divisi...,S/ 49.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rodillo Forma de U para Masajear,S/ 29.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 10.10 cm,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 10.16 cm,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 12.7 cm,S/ 42.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 15.24 cm,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Portavela en Forma de Cubo Libbey 7.9 cm,S/ 10.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Structural Formula Tetr...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Hervidor de Huevos en Forma de Gallina +...,S/ 48.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Hielera en forma de esferas,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sartén Antiadherente 4 Divisiones Forma de Cor...,S/ 89.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable para Piscina Forma de Arco,S/ 153 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable en Forma de Arco,S/ 137 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Niños en Forma de Arco,S/ 133 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Piña para Piscina,S/ 143 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Piscina en Forma de Piña,S/ 137 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Piña para Niños,S/ 129 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Inflable de Piscina en Forma de Piña,S/ 123 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Niños en Forma de Piña,S/ 129 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Piña,S/ 123 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Anillo Hinchado Minnie 56 cm,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador de Aro para Niñas,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Formula para Reducir el Stress Nature Miracle ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Laxante Natural con Semillas de Moringa,S/ 170 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Juguete Pelota para Perros Jw en Forma Arácnid...,S/ 64.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador de joyas en forma de corazón - So...,S/ 49.75 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador de joyas en forma de corazón - Sw...,S/ 19.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable de Minnie para Piscina 56 cm,S/ 79 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Bestway Anillo Inflable Minnie para Niñas,S/ 57 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Inflable para Niñas de Minnie,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Minnie Aro de Disney,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Minnie Bestway para Piscina,S/ 53 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador Aro Minnie 56cm,S/ 49 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Aro Flotador Minnie de Disney,S/ 57 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Cerdito,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Ballena,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 18,559 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,REFERENCIA DE LA REFERENCIA DE ELAC ALTANTE PE...,"S/ 4,629 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Humificador Forma de Huevo,S/ 49.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tomatodo en Forma de Dona,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jabonera en Forma de Ballena Porta Jabón Rosad...,S/ 8.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 9,429 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Estación de trabajo de factor de forma pequeño...,"S/ 8,469 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"Andycine C7S 7 ""3G-SDI/HDMI Monitor de pantall...","S/ 1,959 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho formashome Malaga,"S/ 2,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional izquierdo formashome Malaga,"S/ 2,799 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional derecho formashome Lima,"S/ 2,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo formashome Broken,"S/ 2,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo formashome Erick,"S/ 2,999 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpos formashome lena,"S/ 2,450 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Izquierdo formashome Lima,"S/ 2,899 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 2 Cuerpos formashome Merida,"S/ 2,590 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho formashome Lorian Abatible,"S/ 4,299 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Seccional Derecho Kabul FormasHomeGris Cabecer...,"S/ 5,980 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 2 Cuerpos formashome Rina,"S/ 2,200 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sofa 3 Cuerpos formashome Cielo,"S/ 2,199 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Sartén Antiadherente 4 Divisiones Forma de Cor...,S/ 29 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato Pequeño en Forma de Hueso Celeste,S/ 23 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato en Forma de Hueso para Perro Celeste,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Plato de Perro con Forma de Hueso Celeste S,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Mineral para Roedores en Forma de Fruta,S/ 9 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Cepillo de diente Limpieza 360 en forma De U -...,S/ 20 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Esther With Improved Fo...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Fencing With Improved F...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Polo de Hombre Idakoos Baxter With Improved Fo...,S/ 59 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alberca Easy Set Forma Cangrejo 183 cm x 51 cm,S/ 277 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alberca para Niños Inflable con Forma Cangrejo,S/ 257 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Tomatodo en forma de Celular,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Joyero en Forma de Gato,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador para Piscina en Forma de Circulo Disn...,S/ 39 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Circulo Princesas Niñas,S/ 33 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flotador en Forma de Circulo Princesas Disney,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Hervidor de Huevos Forma Gallina + Licua...,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rodillo en Forma de U para Masajes Corporal,S/ 39.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Espejo Joyero Organizador de Tocador en Forma ...,S/ 65 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Combo Colgador Ajustable para Tapa + Tomatodo ...,S/ 69.99 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"FeelWorld T7 Plus Monitor en cámara IPS de 7"" ...","S/ 1,089 un",plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"PlayMais Mini Mosaic ""Fórmula 1""",S/ 60 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,"PlayMais Mini Mosaic ""Fórmula 1""",S/ 18 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Florero en Forma de Pecera Libbey 20.96 cm. x ...,S/ 73 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 44.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 54.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Arnés Para Perro En Forma De H Doco Signature ...,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Burbujero en Forma de Cangrejo,S/ 59.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alcancía Infantil forma de Lata Diversos Model...,S/ 15.89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Alcancía Infantil forma de Lata Diversos Model...,S/ 19.89 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Carro Fórmula 1 55215 Clementoni,S/ 239.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Flores de Bach Fórmula para Mascotas en gotas ...,S/ 45 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Organizador de Estructura en Forma H,S/ 107 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Caja Fuerte En Forma De Libro,S/ 49.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Peluche Cojín en forma de Hamburguesa,S/ 29.90 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,F1 22 Formula Playstation 5 Latam,S/ 209 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Brocha Magica de Maquillaje Kabuki en Forma d...,S/ 12.50 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador Circular en Forma de S,S/ 54 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Rascador para Gatos de Cartón en Forma de Ola,S/ 41 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jebe Para Perro Forma de Hueso Verde Amarillen...,S/ 23 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Hueso de Goma Forma de Hueso Verde Amarillento,S/ 19 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Goma en Forma de Hueso Verde Amarillento,S/ 17 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Jebe Para Perro Forma de HuesoPlantation Rubbe...,S/ 47 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
+,Hueso de Goma Forma de Hueso Plantation Rubber,S/ 43 un,plaza_vea,FÓRMULA PARA LACTANTES,2024-12-03 23:22:56.972521
