@@ -19,7 +19,7 @@
             <price>div.Showcase__salePrice</price>
             <pagination 
                 next_page_selector="span.pagination__item.page-number.active + span.pagination__item.page-number" 
-                max_pages="20"
+                max_pages="2"
                 scroll = "1"
             />
             <limit>900</limit>

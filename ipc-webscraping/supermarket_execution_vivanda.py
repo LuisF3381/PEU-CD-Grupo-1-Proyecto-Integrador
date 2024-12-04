@@ -8,6 +8,8 @@ from scrapers.selenium_scraper import WebScraper_Selenium
 # Funcion para el user agent
 from selenium.webdriver.chrome.options import Options
 
+import datetime
+
 def generar_opts():
     # Definimos el User Agent en Selenium utilizando la clase Options
     opts = Options()
@@ -38,12 +40,21 @@ def generar_opts():
         "189.240.60.168:9090",
         "116.107.105.191:12003",
         "116.203.135.164:8090",
+        "103.169.187.35:6080",
+        "116.203.56.216:3128",
+        "116.203.135.164:8090",
+        "92.113.144.119:8080",
+        "189.240.60.168:9090",
+        "45.8.21.29:47381",
+        "181.233.62.9:999"
     ]
     
     # Seleccionar un proxy aleatorio
     proxy = random.choice(proxies)
-    opts.add_argument(f'--proxy-server={proxy}')
-    
+    #opts.add_argument(f'--proxy-server={proxy}')
+    #opts.add_argument("--headless=new")
+    opts.add_argument("--window-size=800,600")
+
     # Configuraciones adicionales de seguridad
     opts.add_argument("--disable-blink-features=AutomationControlled")
     opts.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -53,25 +64,31 @@ def generar_opts():
 
 
 # Definmos en hilos y ejecutamos
+current_date = datetime.datetime.now().strftime("%Y_%m_%d")
+
 
 # Obtener la ruta absoluta del archivo
 current_dir = os.path.dirname(__file__)  # Directorio actual del script
-config_path = os.path.join(current_dir, 'config_websites', 'tottus.xml')
-output_path = os.path.join(current_dir, 'data', 'raw','tottus')
+config_path = os.path.join(current_dir, 'config_websites', 'vivanda.xml')
+output_path = os.path.join(current_dir, 'data', 'raw','vivanda', current_date)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')
 
 
-"""
-aux = pd.read_csv(config_path)
+
+
+aux = pd.read_csv(csv_path)
 print(aux["CLASIFICACION"])
+
+"""
+opts = generar_opts()
 
 # DEfinimos el objeto scraper
 scraper = WebScraper_Selenium(config_path, opts)
 
 
 raw_data_file = scraper.scrape_and_save(
-        'tottus', 
-        'BEBIDA HIDRATANTE',
+        'metro', 
+        'PANETÓN',
         output_path
         )
 """
@@ -88,7 +105,7 @@ def scrape_term(termino):
         
         # Intentar scraping
         raw_data_file = scraper.scrape_and_save(
-            'tottus',
+            'vivanda',
             termino,
             output_path
         )
@@ -122,8 +139,11 @@ logging.basicConfig(level=logging.INFO,
 aux = pd.read_csv(csv_path)
 print(aux["CLASIFICACION"])
 
+#scrape_term("leche")
+
+
 # Usar ThreadPoolExecutor para ejecutar scraping en paralelo
-with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
     # Mapear la función de scraping a todos los términos
     resultados = list(executor.map(scrape_term, aux["CLASIFICACION"]))
 
@@ -139,3 +159,4 @@ if fallidos:
     print("\nDetalles de fallos:")
     for fallo in fallidos:
         print(f"Término: {fallo['termino']}, Error: {fallo['error']}")
+        

@@ -7,6 +7,7 @@ from scrapers.selenium_scraper import WebScraper_Selenium
 
 # Funcion para el user agent
 from selenium.webdriver.chrome.options import Options
+import datetime
 
 def generar_opts():
     # Definimos el User Agent en Selenium utilizando la clase Options
@@ -52,7 +53,7 @@ def generar_opts():
     #opts.add_argument(f'--proxy-server={proxy}')
     #opts.add_argument("--headless=new")
     opts.add_argument("--window-size=800,600")
-
+    
     # Configuraciones adicionales de seguridad
     opts.add_argument("--disable-blink-features=AutomationControlled")
     opts.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -62,11 +63,13 @@ def generar_opts():
 
 
 # Definmos en hilos y ejecutamos
+current_date = datetime.datetime.now().strftime("%Y_%m_%d")
+
 
 # Obtener la ruta absoluta del archivo
 current_dir = os.path.dirname(__file__)  # Directorio actual del script
-config_path = os.path.join(current_dir, 'config_websites', 'vivanda.xml')
-output_path = os.path.join(current_dir, 'data', 'raw','vivanda')
+config_path = os.path.join(current_dir, 'config_websites', 'tottus.xml')
+output_path = os.path.join(current_dir, 'data', 'raw','tottus', current_date)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')
 
 
@@ -83,7 +86,7 @@ scraper = WebScraper_Selenium(config_path, opts)
 
 raw_data_file = scraper.scrape_and_save(
         'metro', 
-        'PANETÓN',
+        'UVA NEGRA',
         output_path
         )
 """
@@ -100,7 +103,7 @@ def scrape_term(termino):
         
         # Intentar scraping
         raw_data_file = scraper.scrape_and_save(
-            'vivanda',
+            'tottus',
             termino,
             output_path
         )
@@ -154,4 +157,3 @@ if fallidos:
     print("\nDetalles de fallos:")
     for fallo in fallidos:
         print(f"Término: {fallo['termino']}, Error: {fallo['error']}")
-        

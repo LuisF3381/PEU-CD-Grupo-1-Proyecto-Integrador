@@ -18,7 +18,7 @@
             <price>span.copy10.primary</price>
             <pagination 
                 next_page_selector="#testId-pagination-bottom-arrow-right:not([disabled])" 
-                max_pages="10"
+                max_pages="2"
             />
             <limit>900</limit>
         </selectors>

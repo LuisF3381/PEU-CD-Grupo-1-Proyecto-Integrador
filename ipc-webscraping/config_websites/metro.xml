@@ -10,7 +10,7 @@
             <!-- Click en el boton de busqueda -->
             <action type="enter" selector="input[placeholder='¿Que buscas hoy?']" />
             <!-- Haciendo clicks en el boton de ver mas-->
-            <action type="click" optional="true" rep = "All" selector="button.vtex-button.bw1.ba.fw5.v-mid.relative.pa0.lh-solid.br2.min-h-small.t-action--small.bg-action-primary.b--action-primary.c-on-action-primary.hover-bg-action-primary.hover-b--action-primary.hover-c-on-action-primary.pointer" />
+            <action type="click" optional="true" rep = "1" selector="button.vtex-button.bw1.ba.fw5.v-mid.relative.pa0.lh-solid.br2.min-h-small.t-action--small.bg-action-primary.b--action-primary.c-on-action-primary.hover-bg-action-primary.hover-b--action-primary.hover-c-on-action-primary.pointer" />
             <!-- Haciendo scroll top-->
             <action type="scroll-top" selector ="" />
             <!-- Haciendo scroll down-->

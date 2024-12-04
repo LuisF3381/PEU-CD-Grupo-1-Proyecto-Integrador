@@ -8,6 +8,8 @@ from scrapers.selenium_scraper import WebScraper_Selenium
 # Funcion para el user agent
 from selenium.webdriver.chrome.options import Options
 
+import datetime
+
 def generar_opts():
     # Definimos el User Agent en Selenium utilizando la clase Options
     opts = Options()
@@ -61,12 +63,15 @@ def generar_opts():
 
 
 # Definmos en hilos y ejecutamos
+current_date = datetime.datetime.now().strftime("%Y_%m_%d")
+
 
 # Obtener la ruta absoluta del archivo
 current_dir = os.path.dirname(__file__)  # Directorio actual del script
 config_path = os.path.join(current_dir, 'config_websites', 'plaza_vea.xml')
-output_path = os.path.join(current_dir, 'data', 'raw','plaza_vea')
+output_path = os.path.join(current_dir, 'data', 'raw','plaza_vea', current_date)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')
+
 
 
 

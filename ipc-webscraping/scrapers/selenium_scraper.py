@@ -108,7 +108,7 @@ class WebScraper_Selenium:
             element.send_keys(Keys.RETURN)
         elif action.get('type') == 'scroll':
             print("haciendo scroll down")
-            self.scroll_gradually(0.5, 100)
+            self.scroll_gradually(0.5, 115)
         elif action.get('type') == 'scroll-top':
             print("haciendo scroll top")
             self.driver.execute_script("window.scrollTo(0, 0);")     
@@ -146,6 +146,20 @@ class WebScraper_Selenium:
                             
                         except Exception as e:
                             break  # Sale del ciclo cuando no encuentra el elemento
+                elif action.get("rep") and action.get("rep").isdigit():
+                    print("tamo aqui mi lidel")
+                    for _ in range(int(action.get("rep"))):
+                        try:
+                            # Ejecutamos la acción de acuerdo al tipo
+                            self.perform_action(element, action, search_term)
+                            # Comportamiento aleatorio
+                            time.sleep(random.uniform(COTA_MINIMA_TIEMPO, COTA_MAXIMA_TIEMPO))
+                            # Verificamos si el elemento sigue presente
+                            element = WebDriverWait(self.driver, 30).until(
+                                EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                            )
+                        except Exception as e:
+                            break
                 else:
                     # Si no es 'All', solo ejecutamos la acción una vez
                     self.perform_action(element, action, search_term)
