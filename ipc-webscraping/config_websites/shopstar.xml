@@ -8,7 +8,7 @@
             <!-- Click en el boton de busqueda -->
             <action type="enter" selector="input[placeholder='Buscar aquí']" />
             <!-- Haciendo clicks en el boton de ver mas-->
-            <action type="click" rep = "All" selector="div.vtex-button__label.flex.items-center.justify-center.h-100.ph5" />
+            <action type="click" optional="true" rep = "All" selector="div.vtex-button__label.flex.items-center.justify-center.h-100.ph5" />
             <!-- Haciendo scroll top-->
             <action type="scroll-top" selector ="" />
             <!-- Haciendo scroll down-->
