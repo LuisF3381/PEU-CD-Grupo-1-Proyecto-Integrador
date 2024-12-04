@@ -1,10 +1,8 @@
 import json
-import requests
-from datetime import datetime
+from curl_cffi import requests
 from time import sleep
 import pandas as pd
 
-COLUMNS = ["Nombre", "precio", "website", "scrape_timestamp"]
 BASE_HEADERS = {
     "accept": "*/*",
     "accept-language": "es",
@@ -17,14 +15,20 @@ BASE_HEADERS = {
     "sec-fetch-site": "same-origin",
     "Referer": "https://www.pedidosya.com.pe/cadenas/pedidosya-market",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+    "Connection": "keep-alive",
 }
 MARKET_URL_API = "https://www.pedidosya.com.pe/chains-landing/api/offer/3679"
 VENDOR_URL_API = "https://www.pedidosya.com.pe/groceries/web/v1/vendors/{0}"
 CATEGORY_ENDPOINT = "/categories"
-PRODUCT_ENDPOINT = "/products?categoryId={0}&limit=20&page={1}"
+PRODUCT_ENDPOINT = "/products?categoryId={0}&limit=100&page={1}"
 BASE_URL_API = "https://www.pedidosya.com.pe"
-
+SHORT_PAUSE = 3
+NORMAL_PAUSE = 1
+LARGE_PAUSE = 60
+LOW_BOUND = 3
+SESSION = requests.Session()
+UPPER_BOUND = 15
 """
 {'id': 225411,
   'name': 'PedidosYa Market - Surquillo',
@@ -45,7 +49,7 @@ class PedidosYaScraper:
         self.path = path
 
     def extract_information(self, url, headers):
-        response = requests.get(url, headers=headers)
+        response = SESSION.get(url, headers=headers, impersonate="chrome")
         return response.json()
 
     def extract(self):
@@ -57,38 +61,42 @@ class PedidosYaScraper:
         category_info = self.extract_information(
             self.vendor_url + self.category_endpoint, BASE_HEADERS
         )
-        category_id_list = [cat["global_id"] for cat in category_info["categories"]]
-
+        category_list = [[cat["global_id"], cat["name"]] for cat in category_info["categories"]]
         list_products = []
-        for cat in category_id_list:
+        for cat_id, cat_name in category_list:
             is_not_last_page = True
             page = 0
-
             while is_not_last_page:
                 try:
                     response = self.extract_information(
-                        self.vendor_url + self.product_endpoint.format(cat, page),
+                        self.vendor_url + self.product_endpoint.format(cat_id, page),
                         BASE_HEADERS,
                     )
-
                     if response["lastPage"]:
                         is_not_last_page = False
                     else:
                         page += 1
                         list_products.extend(
                             [
-                                [prod["name"], prod["pricing"]["beforePrice"]]
+                                {
+                                    "Market_name": "Pedidos Ya Lince",
+                                    "Category_name": cat_name,
+                                    "Product_name": prod["name"],
+                                    "Product_description": prod["description"],
+                                    "Product_price": prod["pricing"]["beforePrice"]
+                                }
                                 for prod in response["items"]
                             ]
                         )
-
                 except Exception as e:
                     print(e)
                     break
+            sleep(LARGE_PAUSE)
+
         return list_products
 
     def save_data(self, data):
-        self.data = pd.DataFrame(data, columns=COLUMNS[:2])
+        self.data = pd.DataFrame(data)
         if len(self.data) > 0:
             self.data["website"] = "Pedidos Ya"
             self.data["scrape_timestamp"] = str(pd.Timestamp.now())
