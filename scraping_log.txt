@@ -9720,3 +9720,4389 @@ Stacktrace:
 2024-12-04 14:01:16,736 - INFO - Scraping exitoso para t�rmino: BEBIDA HIDRATANTE
 2024-12-04 14:01:46,277 - INFO - Scraping exitoso para t�rmino: REFRESCO ENVASADO (FLUIDO)
 2024-12-04 14:01:59,430 - INFO - Scraping exitoso para t�rmino: BEBIDA DE FRUTA ENVASADA
+2024-12-04 17:52:36,922 - INFO - ====== WebDriver manager ======
+2024-12-04 17:52:36,924 - INFO - ====== WebDriver manager ======
+2024-12-04 17:52:36,932 - INFO - ====== WebDriver manager ======
+2024-12-04 17:52:36,933 - INFO - ====== WebDriver manager ======
+2024-12-04 17:52:38,567 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,590 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,617 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,694 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,738 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,739 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,754 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:52:38,835 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 17:52:38,848 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 17:52:38,859 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 17:52:38,864 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 17:54:23,209 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5b4add7fc34a <unknown>
+#1 0x5b4add3126e0 <unknown>
+#2 0x5b4add3613e6 <unknown>
+#3 0x5b4add361681 <unknown>
+#4 0x5b4add3a6b04 <unknown>
+#5 0x5b4add38548d <unknown>
+#6 0x5b4add3a3ed7 <unknown>
+#7 0x5b4add385203 <unknown>
+#8 0x5b4add353cc0 <unknown>
+#9 0x5b4add354c9e <unknown>
+#10 0x5b4add7c9d3b <unknown>
+#11 0x5b4add7cdcc2 <unknown>
+#12 0x5b4add7b6b6c <unknown>
+#13 0x5b4add7ce837 <unknown>
+#14 0x5b4add79c10f <unknown>
+#15 0x5b4add7eb5a8 <unknown>
+#16 0x5b4add7eb770 <unknown>
+#17 0x5b4add7fb1c6 <unknown>
+#18 0x7531fbe9ca94 <unknown>
+#19 0x7531fbf29c3c <unknown>
+
+2024-12-04 17:54:30,219 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5911bee7c34a <unknown>
+#1 0x5911be9926e0 <unknown>
+#2 0x5911be9e13e6 <unknown>
+#3 0x5911be9e1681 <unknown>
+#4 0x5911bea26b04 <unknown>
+#5 0x5911bea0548d <unknown>
+#6 0x5911bea23ed7 <unknown>
+#7 0x5911bea05203 <unknown>
+#8 0x5911be9d3cc0 <unknown>
+#9 0x5911be9d4c9e <unknown>
+#10 0x5911bee49d3b <unknown>
+#11 0x5911bee4dcc2 <unknown>
+#12 0x5911bee36b6c <unknown>
+#13 0x5911bee4e837 <unknown>
+#14 0x5911bee1c10f <unknown>
+#15 0x5911bee6b5a8 <unknown>
+#16 0x5911bee6b770 <unknown>
+#17 0x5911bee7b1c6 <unknown>
+#18 0x7e8425a9ca94 <unknown>
+#19 0x7e8425b29c3c <unknown>
+
+2024-12-04 17:55:02,069 - INFO - Scraping exitoso para término: ARROZ A GRANEL
+2024-12-04 17:55:02,074 - INFO - ====== WebDriver manager ======
+2024-12-04 17:55:03,259 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:55:03,397 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:55:03,472 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 17:55:08,687 - INFO - Scraping exitoso para término: MAÍZ MORADO
+2024-12-04 17:55:08,687 - INFO - ====== WebDriver manager ======
+2024-12-04 17:55:09,441 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:55:09,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 17:55:09,676 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:01:00,796 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-04 18:01:00,851 - INFO - ====== WebDriver manager ======
+2024-12-04 18:01:00,861 - INFO - Scraping exitoso para término: MAÍZ REVENTÓN (POP CORN)
+2024-12-04 18:01:00,865 - INFO - ====== WebDriver manager ======
+2024-12-04 18:01:03,272 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:01:03,301 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:01:03,516 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:01:03,516 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:01:03,638 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:01:03,679 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:02:22,011 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56a981f3a34a <unknown>
+#1 0x56a981a506e0 <unknown>
+#2 0x56a981a9f3e6 <unknown>
+#3 0x56a981a9f681 <unknown>
+#4 0x56a981ae4b04 <unknown>
+#5 0x56a981ac348d <unknown>
+#6 0x56a981ae1ed7 <unknown>
+#7 0x56a981ac3203 <unknown>
+#8 0x56a981a91cc0 <unknown>
+#9 0x56a981a92c9e <unknown>
+#10 0x56a981f07d3b <unknown>
+#11 0x56a981f0bcc2 <unknown>
+#12 0x56a981ef4b6c <unknown>
+#13 0x56a981f0c837 <unknown>
+#14 0x56a981eda10f <unknown>
+#15 0x56a981f295a8 <unknown>
+#16 0x56a981f29770 <unknown>
+#17 0x56a981f391c6 <unknown>
+#18 0x72abe929ca94 <unknown>
+#19 0x72abe9329c3c <unknown>
+
+2024-12-04 18:02:26,214 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5e02f08b134a <unknown>
+#1 0x5e02f03c76e0 <unknown>
+#2 0x5e02f04163e6 <unknown>
+#3 0x5e02f0416681 <unknown>
+#4 0x5e02f045bb04 <unknown>
+#5 0x5e02f043a48d <unknown>
+#6 0x5e02f0458ed7 <unknown>
+#7 0x5e02f043a203 <unknown>
+#8 0x5e02f0408cc0 <unknown>
+#9 0x5e02f0409c9e <unknown>
+#10 0x5e02f087ed3b <unknown>
+#11 0x5e02f0882cc2 <unknown>
+#12 0x5e02f086bb6c <unknown>
+#13 0x5e02f0883837 <unknown>
+#14 0x5e02f085110f <unknown>
+#15 0x5e02f08a05a8 <unknown>
+#16 0x5e02f08a0770 <unknown>
+#17 0x5e02f08b01c6 <unknown>
+#18 0x7e166929ca94 <unknown>
+#19 0x7e1669329c3c <unknown>
+
+2024-12-04 18:02:48,708 - INFO - Scraping exitoso para término: HARINA DE TRIGO PREPARADA
+2024-12-04 18:02:48,711 - INFO - ====== WebDriver manager ======
+2024-12-04 18:02:49,165 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:02:49,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:02:49,420 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:03:09,431 - INFO - Scraping exitoso para término: MAÍZ SECO CANCHA
+2024-12-04 18:03:09,435 - INFO - ====== WebDriver manager ======
+2024-12-04 18:03:09,726 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:09,953 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:10,018 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:03:10,816 - INFO - Scraping exitoso para término: TRIGO MORÓN
+2024-12-04 18:03:10,816 - INFO - ====== WebDriver manager ======
+2024-12-04 18:03:11,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:11,710 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:11,801 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:03:43,575 - INFO - Scraping exitoso para término: QUINUA ENTERA
+2024-12-04 18:03:43,577 - INFO - ====== WebDriver manager ======
+2024-12-04 18:03:44,004 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:44,093 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:03:44,172 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:04:28,963 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d8b2d31934a <unknown>
+#1 0x5d8b2ce2f6e0 <unknown>
+#2 0x5d8b2ce7e3e6 <unknown>
+#3 0x5d8b2ce7e681 <unknown>
+#4 0x5d8b2cec3b04 <unknown>
+#5 0x5d8b2cea248d <unknown>
+#6 0x5d8b2cec0ed7 <unknown>
+#7 0x5d8b2cea2203 <unknown>
+#8 0x5d8b2ce70cc0 <unknown>
+#9 0x5d8b2ce71c9e <unknown>
+#10 0x5d8b2d2e6d3b <unknown>
+#11 0x5d8b2d2eacc2 <unknown>
+#12 0x5d8b2d2d3b6c <unknown>
+#13 0x5d8b2d2eb837 <unknown>
+#14 0x5d8b2d2b910f <unknown>
+#15 0x5d8b2d3085a8 <unknown>
+#16 0x5d8b2d308770 <unknown>
+#17 0x5d8b2d3181c6 <unknown>
+#18 0x77d1cea9ca94 <unknown>
+#19 0x77d1ceb29c3c <unknown>
+
+2024-12-04 18:05:00,790 - INFO - Scraping exitoso para término: HARINA DE MAÍZ BLANCO
+2024-12-04 18:05:00,790 - INFO - ====== WebDriver manager ======
+2024-12-04 18:05:01,611 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:05:01,703 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:05:01,776 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:06:13,135 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59da9c40534a <unknown>
+#1 0x59da9bf1b6e0 <unknown>
+#2 0x59da9bf6a3e6 <unknown>
+#3 0x59da9bf6a681 <unknown>
+#4 0x59da9bfafb04 <unknown>
+#5 0x59da9bf8e48d <unknown>
+#6 0x59da9bfaced7 <unknown>
+#7 0x59da9bf8e203 <unknown>
+#8 0x59da9bf5ccc0 <unknown>
+#9 0x59da9bf5dc9e <unknown>
+#10 0x59da9c3d2d3b <unknown>
+#11 0x59da9c3d6cc2 <unknown>
+#12 0x59da9c3bfb6c <unknown>
+#13 0x59da9c3d7837 <unknown>
+#14 0x59da9c3a510f <unknown>
+#15 0x59da9c3f45a8 <unknown>
+#16 0x59da9c3f4770 <unknown>
+#17 0x59da9c4041c6 <unknown>
+#18 0x7a36b3a9ca94 <unknown>
+#19 0x7a36b3b29c3c <unknown>
+
+2024-12-04 18:06:49,729 - INFO - Scraping exitoso para término: HARINA DE TRIGO SIN PREPARAR
+2024-12-04 18:06:49,729 - INFO - ====== WebDriver manager ======
+2024-12-04 18:06:50,893 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:06:51,035 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:06:51,163 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:08:04,386 - INFO - Scraping exitoso para término: AVENA A GRANEL
+2024-12-04 18:08:04,396 - INFO - ====== WebDriver manager ======
+2024-12-04 18:08:05,654 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:08:05,712 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:08:05,800 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:09:12,399 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5c0c7d73b34a <unknown>
+#1 0x5c0c7d2516e0 <unknown>
+#2 0x5c0c7d2a03e6 <unknown>
+#3 0x5c0c7d2a0681 <unknown>
+#4 0x5c0c7d2e5b04 <unknown>
+#5 0x5c0c7d2c448d <unknown>
+#6 0x5c0c7d2e2ed7 <unknown>
+#7 0x5c0c7d2c4203 <unknown>
+#8 0x5c0c7d292cc0 <unknown>
+#9 0x5c0c7d293c9e <unknown>
+#10 0x5c0c7d708d3b <unknown>
+#11 0x5c0c7d70ccc2 <unknown>
+#12 0x5c0c7d6f5b6c <unknown>
+#13 0x5c0c7d70d837 <unknown>
+#14 0x5c0c7d6db10f <unknown>
+#15 0x5c0c7d72a5a8 <unknown>
+#16 0x5c0c7d72a770 <unknown>
+#17 0x5c0c7d73a1c6 <unknown>
+#18 0x7051d689ca94 <unknown>
+#19 0x7051d6929c3c <unknown>
+
+2024-12-04 18:09:37,528 - INFO - Scraping exitoso para término: PAN CARACOL
+2024-12-04 18:09:37,539 - INFO - ====== WebDriver manager ======
+2024-12-04 18:09:37,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:09:38,046 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:09:38,154 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:10:46,579 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59fe592d134a <unknown>
+#1 0x59fe58de76e0 <unknown>
+#2 0x59fe58e363e6 <unknown>
+#3 0x59fe58e36681 <unknown>
+#4 0x59fe58e7bb04 <unknown>
+#5 0x59fe58e5a48d <unknown>
+#6 0x59fe58e78ed7 <unknown>
+#7 0x59fe58e5a203 <unknown>
+#8 0x59fe58e28cc0 <unknown>
+#9 0x59fe58e29c9e <unknown>
+#10 0x59fe5929ed3b <unknown>
+#11 0x59fe592a2cc2 <unknown>
+#12 0x59fe5928bb6c <unknown>
+#13 0x59fe592a3837 <unknown>
+#14 0x59fe5927110f <unknown>
+#15 0x59fe592c05a8 <unknown>
+#16 0x59fe592c0770 <unknown>
+#17 0x59fe592d01c6 <unknown>
+#18 0x7854e609ca94 <unknown>
+#19 0x7854e6129c3c <unknown>
+
+2024-12-04 18:10:57,991 - INFO - Scraping exitoso para término: HARINA SIETE SEMILLAS O MIXTAS
+2024-12-04 18:10:57,991 - INFO - ====== WebDriver manager ======
+2024-12-04 18:10:58,449 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:10:58,537 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:10:58,584 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:11:09,578 - INFO - Scraping exitoso para término: AVENA ENVASADA
+2024-12-04 18:11:09,579 - INFO - ====== WebDriver manager ======
+2024-12-04 18:11:10,076 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:11:10,220 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:11:10,347 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:11:23,278 - INFO - Scraping exitoso para término: PAN CIABATTA
+2024-12-04 18:11:23,278 - INFO - ====== WebDriver manager ======
+2024-12-04 18:11:23,978 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:11:24,203 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:11:24,353 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:12:17,072 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5c2202b8634a <unknown>
+#1 0x5c220269c6e0 <unknown>
+#2 0x5c22026eb3e6 <unknown>
+#3 0x5c22026eb681 <unknown>
+#4 0x5c2202730b04 <unknown>
+#5 0x5c220270f48d <unknown>
+#6 0x5c220272ded7 <unknown>
+#7 0x5c220270f203 <unknown>
+#8 0x5c22026ddcc0 <unknown>
+#9 0x5c22026dec9e <unknown>
+#10 0x5c2202b53d3b <unknown>
+#11 0x5c2202b57cc2 <unknown>
+#12 0x5c2202b40b6c <unknown>
+#13 0x5c2202b58837 <unknown>
+#14 0x5c2202b2610f <unknown>
+#15 0x5c2202b755a8 <unknown>
+#16 0x5c2202b75770 <unknown>
+#17 0x5c2202b851c6 <unknown>
+#18 0x73af3aa9ca94 <unknown>
+#19 0x73af3ab29c3c <unknown>
+
+2024-12-04 18:12:31,543 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x6237a462334a <unknown>
+#1 0x6237a41396e0 <unknown>
+#2 0x6237a41883e6 <unknown>
+#3 0x6237a4188681 <unknown>
+#4 0x6237a41cdb04 <unknown>
+#5 0x6237a41ac48d <unknown>
+#6 0x6237a41caed7 <unknown>
+#7 0x6237a41ac203 <unknown>
+#8 0x6237a417acc0 <unknown>
+#9 0x6237a417bc9e <unknown>
+#10 0x6237a45f0d3b <unknown>
+#11 0x6237a45f4cc2 <unknown>
+#12 0x6237a45ddb6c <unknown>
+#13 0x6237a45f5837 <unknown>
+#14 0x6237a45c310f <unknown>
+#15 0x6237a46125a8 <unknown>
+#16 0x6237a4612770 <unknown>
+#17 0x6237a46221c6 <unknown>
+#18 0x7e7aaa29ca94 <unknown>
+#19 0x7e7aaa329c3c <unknown>
+
+2024-12-04 18:12:46,066 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x6042e37df34a <unknown>
+#1 0x6042e32f56e0 <unknown>
+#2 0x6042e33443e6 <unknown>
+#3 0x6042e3344681 <unknown>
+#4 0x6042e3389b04 <unknown>
+#5 0x6042e336848d <unknown>
+#6 0x6042e3386ed7 <unknown>
+#7 0x6042e3368203 <unknown>
+#8 0x6042e3336cc0 <unknown>
+#9 0x6042e3337c9e <unknown>
+#10 0x6042e37acd3b <unknown>
+#11 0x6042e37b0cc2 <unknown>
+#12 0x6042e3799b6c <unknown>
+#13 0x6042e37b1837 <unknown>
+#14 0x6042e377f10f <unknown>
+#15 0x6042e37ce5a8 <unknown>
+#16 0x6042e37ce770 <unknown>
+#17 0x6042e37de1c6 <unknown>
+#18 0x75938ee9ca94 <unknown>
+#19 0x75938ef29c3c <unknown>
+
+2024-12-04 18:13:03,106 - INFO - Scraping exitoso para término: PAN DE YEMA
+2024-12-04 18:13:03,111 - INFO - ====== WebDriver manager ======
+2024-12-04 18:13:03,570 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:13:03,637 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:13:03,691 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:13:18,446 - INFO - Scraping exitoso para término: PAN FRANCÉS
+2024-12-04 18:13:18,446 - INFO - ====== WebDriver manager ======
+2024-12-04 18:13:19,174 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:13:19,285 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:13:19,353 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:14:09,804 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5aec12cca34a <unknown>
+#1 0x5aec127e06e0 <unknown>
+#2 0x5aec1282f3e6 <unknown>
+#3 0x5aec1282f681 <unknown>
+#4 0x5aec12874b04 <unknown>
+#5 0x5aec1285348d <unknown>
+#6 0x5aec12871ed7 <unknown>
+#7 0x5aec12853203 <unknown>
+#8 0x5aec12821cc0 <unknown>
+#9 0x5aec12822c9e <unknown>
+#10 0x5aec12c97d3b <unknown>
+#11 0x5aec12c9bcc2 <unknown>
+#12 0x5aec12c84b6c <unknown>
+#13 0x5aec12c9c837 <unknown>
+#14 0x5aec12c6a10f <unknown>
+#15 0x5aec12cb95a8 <unknown>
+#16 0x5aec12cb9770 <unknown>
+#17 0x5aec12cc91c6 <unknown>
+#18 0x7c6b3c29ca94 <unknown>
+#19 0x7c6b3c329c3c <unknown>
+
+2024-12-04 18:14:30,714 - INFO - Scraping exitoso para término: PAN DE MOLDE
+2024-12-04 18:14:30,715 - INFO - ====== WebDriver manager ======
+2024-12-04 18:14:31,433 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:14:31,516 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:14:31,559 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:15:00,463 - ERROR - Error scraping wong: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59fcbdc8834a <unknown>
+#1 0x59fcbd79e6e0 <unknown>
+#2 0x59fcbd7affbb <unknown>
+#3 0x59fcbd7aed45 <unknown>
+#4 0x59fcbd7a4d39 <unknown>
+#5 0x59fcbd7a4e65 <unknown>
+#6 0x59fcbd7a30a0 <unknown>
+#7 0x59fcbd7a6c3e <unknown>
+#8 0x59fcbd830f6c <unknown>
+#9 0x59fcbd811462 <unknown>
+#10 0x59fcbd82fed7 <unknown>
+#11 0x59fcbd811203 <unknown>
+#12 0x59fcbd7dfcc0 <unknown>
+#13 0x59fcbd7e0c9e <unknown>
+#14 0x59fcbdc55d3b <unknown>
+#15 0x59fcbdc59cc2 <unknown>
+#16 0x59fcbdc42b6c <unknown>
+#17 0x59fcbdc5a837 <unknown>
+#18 0x59fcbdc2810f <unknown>
+#19 0x59fcbdc775a8 <unknown>
+#20 0x59fcbdc77770 <unknown>
+#21 0x59fcbdc871c6 <unknown>
+#22 0x72f20e29ca94 <unknown>
+#23 0x72f20e329c3c <unknown>
+
+2024-12-04 18:15:00,951 - INFO - Scraping exitoso para término: TOSTADAS (MOLDE)
+2024-12-04 18:15:00,953 - INFO - ====== WebDriver manager ======
+2024-12-04 18:15:01,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:15:01,558 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:15:01,644 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:15:03,913 - INFO - Scraping exitoso para término: BIZCOCHOS
+2024-12-04 18:15:03,914 - INFO - ====== WebDriver manager ======
+2024-12-04 18:15:04,350 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:15:04,432 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:15:04,525 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:16:07,440 - INFO - Scraping exitoso para término: PAN INTEGRAL
+2024-12-04 18:16:07,446 - INFO - ====== WebDriver manager ======
+2024-12-04 18:16:07,849 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:07,913 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:07,960 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:16:10,571 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5fa09445a34a <unknown>
+#1 0x5fa093f706e0 <unknown>
+#2 0x5fa093fbf3e6 <unknown>
+#3 0x5fa093fbf681 <unknown>
+#4 0x5fa094004b04 <unknown>
+#5 0x5fa093fe348d <unknown>
+#6 0x5fa094001ed7 <unknown>
+#7 0x5fa093fe3203 <unknown>
+#8 0x5fa093fb1cc0 <unknown>
+#9 0x5fa093fb2c9e <unknown>
+#10 0x5fa094427d3b <unknown>
+#11 0x5fa09442bcc2 <unknown>
+#12 0x5fa094414b6c <unknown>
+#13 0x5fa09442c837 <unknown>
+#14 0x5fa0943fa10f <unknown>
+#15 0x5fa0944495a8 <unknown>
+#16 0x5fa094449770 <unknown>
+#17 0x5fa0944591c6 <unknown>
+#18 0x7140f7e9ca94 <unknown>
+#19 0x7140f7f29c3c <unknown>
+
+2024-12-04 18:16:37,373 - ERROR - Error scraping wong: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5aee24b3d34a <unknown>
+#1 0x5aee246536e0 <unknown>
+#2 0x5aee24664fbb <unknown>
+#3 0x5aee24663d45 <unknown>
+#4 0x5aee24659d39 <unknown>
+#5 0x5aee246580a0 <unknown>
+#6 0x5aee2465b968 <unknown>
+#7 0x5aee2465b9f3 <unknown>
+#8 0x5aee246a410a <unknown>
+#9 0x5aee24696fee <unknown>
+#10 0x5aee246c6462 <unknown>
+#11 0x5aee24696a18 <unknown>
+#12 0x5aee246c662e <unknown>
+#13 0x5aee246e4ed7 <unknown>
+#14 0x5aee246c6203 <unknown>
+#15 0x5aee24694cc0 <unknown>
+#16 0x5aee24695c9e <unknown>
+#17 0x5aee24b0ad3b <unknown>
+#18 0x5aee24b0ecc2 <unknown>
+#19 0x5aee24af7b6c <unknown>
+#20 0x5aee24b0f837 <unknown>
+#21 0x5aee24add10f <unknown>
+#22 0x5aee24b2c5a8 <unknown>
+#23 0x5aee24b2c770 <unknown>
+#24 0x5aee24b3c1c6 <unknown>
+#25 0x76029d29ca94 <unknown>
+#26 0x76029d329c3c <unknown>
+
+2024-12-04 18:16:37,931 - INFO - Scraping exitoso para término: GALLETAS RELLENAS
+2024-12-04 18:16:37,933 - INFO - ====== WebDriver manager ======
+2024-12-04 18:16:38,462 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:38,590 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:38,657 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:16:40,269 - INFO - Scraping exitoso para término: GALLETAS BAÑADAS
+2024-12-04 18:16:40,274 - INFO - ====== WebDriver manager ======
+2024-12-04 18:16:41,357 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:41,429 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:16:41,510 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:17:54,493 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5b47ac58434a <unknown>
+#1 0x5b47ac09a6e0 <unknown>
+#2 0x5b47ac0e93e6 <unknown>
+#3 0x5b47ac0e9681 <unknown>
+#4 0x5b47ac12eb04 <unknown>
+#5 0x5b47ac10d48d <unknown>
+#6 0x5b47ac12bed7 <unknown>
+#7 0x5b47ac10d203 <unknown>
+#8 0x5b47ac0dbcc0 <unknown>
+#9 0x5b47ac0dcc9e <unknown>
+#10 0x5b47ac551d3b <unknown>
+#11 0x5b47ac555cc2 <unknown>
+#12 0x5b47ac53eb6c <unknown>
+#13 0x5b47ac556837 <unknown>
+#14 0x5b47ac52410f <unknown>
+#15 0x5b47ac5735a8 <unknown>
+#16 0x5b47ac573770 <unknown>
+#17 0x5b47ac5831c6 <unknown>
+#18 0x77cc0269ca94 <unknown>
+#19 0x77cc02729c3c <unknown>
+
+2024-12-04 18:19:14,990 - INFO - Scraping exitoso para término: GALLETAS SALADAS
+2024-12-04 18:19:14,990 - INFO - ====== WebDriver manager ======
+2024-12-04 18:19:15,837 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:19:15,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:19:15,985 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:20:25,501 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x589ec9cbe34a <unknown>
+#1 0x589ec97d46e0 <unknown>
+#2 0x589ec98233e6 <unknown>
+#3 0x589ec9823681 <unknown>
+#4 0x589ec9868b04 <unknown>
+#5 0x589ec984748d <unknown>
+#6 0x589ec9865ed7 <unknown>
+#7 0x589ec9847203 <unknown>
+#8 0x589ec9815cc0 <unknown>
+#9 0x589ec9816c9e <unknown>
+#10 0x589ec9c8bd3b <unknown>
+#11 0x589ec9c8fcc2 <unknown>
+#12 0x589ec9c78b6c <unknown>
+#13 0x589ec9c90837 <unknown>
+#14 0x589ec9c5e10f <unknown>
+#15 0x589ec9cad5a8 <unknown>
+#16 0x589ec9cad770 <unknown>
+#17 0x589ec9cbd1c6 <unknown>
+#18 0x7b0814c9ca94 <unknown>
+#19 0x7b0814d29c3c <unknown>
+
+2024-12-04 18:20:28,813 - INFO - Scraping exitoso para término: GALLETAS DULCES
+2024-12-04 18:20:28,818 - INFO - ====== WebDriver manager ======
+2024-12-04 18:20:29,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:20:29,866 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:20:29,925 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:21:01,930 - INFO - Scraping exitoso para término: PANETÓN
+2024-12-04 18:21:01,937 - INFO - ====== WebDriver manager ======
+2024-12-04 18:21:02,390 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:21:02,695 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:21:02,777 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:22:31,515 - INFO - Scraping exitoso para término: PASTELES SALADOS
+2024-12-04 18:22:31,541 - INFO - ====== WebDriver manager ======
+2024-12-04 18:22:32,412 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:22:32,486 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:22:32,548 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:23:05,828 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5ec3da84034a <unknown>
+#1 0x5ec3da3566e0 <unknown>
+#2 0x5ec3da35c4a3 <unknown>
+#3 0x5ec3da35e968 <unknown>
+#4 0x5ec3da35e9f3 <unknown>
+#5 0x5ec3da3a01c1 <unknown>
+#6 0x5ec3da3c9462 <unknown>
+#7 0x5ec3da399a18 <unknown>
+#8 0x5ec3da3c962e <unknown>
+#9 0x5ec3da3e7ed7 <unknown>
+#10 0x5ec3da3c9203 <unknown>
+#11 0x5ec3da397cc0 <unknown>
+#12 0x5ec3da398c9e <unknown>
+#13 0x5ec3da80dd3b <unknown>
+#14 0x5ec3da811cc2 <unknown>
+#15 0x5ec3da7fab6c <unknown>
+#16 0x5ec3da812837 <unknown>
+#17 0x5ec3da7e010f <unknown>
+#18 0x5ec3da82f5a8 <unknown>
+#19 0x5ec3da82f770 <unknown>
+#20 0x5ec3da83f1c6 <unknown>
+#21 0x7046d389ca94 <unknown>
+#22 0x7046d3929c3c <unknown>
+
+2024-12-04 18:23:06,195 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA LARGA
+2024-12-04 18:23:06,196 - INFO - ====== WebDriver manager ======
+2024-12-04 18:23:06,793 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:23:06,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:23:07,003 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:23:46,978 - INFO - Scraping exitoso para término: PASTELES DULCES
+2024-12-04 18:23:46,979 - INFO - ====== WebDriver manager ======
+2024-12-04 18:23:47,845 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:23:47,923 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:23:48,005 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:28:16,475 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA CORTA
+2024-12-04 18:28:16,492 - INFO - ====== WebDriver manager ======
+2024-12-04 18:28:18,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:28:18,344 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:28:18,413 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:28:24,634 - INFO - Scraping exitoso para término: TORTA (ENTERA)
+2024-12-04 18:28:24,647 - INFO - ====== WebDriver manager ======
+2024-12-04 18:28:25,247 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:28:25,461 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:28:25,539 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:29:46,181 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d839b13b34a <unknown>
+#1 0x5d839ac516e0 <unknown>
+#2 0x5d839aca03e6 <unknown>
+#3 0x5d839aca0681 <unknown>
+#4 0x5d839ace5b04 <unknown>
+#5 0x5d839acc448d <unknown>
+#6 0x5d839ace2ed7 <unknown>
+#7 0x5d839acc4203 <unknown>
+#8 0x5d839ac92cc0 <unknown>
+#9 0x5d839ac93c9e <unknown>
+#10 0x5d839b108d3b <unknown>
+#11 0x5d839b10ccc2 <unknown>
+#12 0x5d839b0f5b6c <unknown>
+#13 0x5d839b10d837 <unknown>
+#14 0x5d839b0db10f <unknown>
+#15 0x5d839b12a5a8 <unknown>
+#16 0x5d839b12a770 <unknown>
+#17 0x5d839b13a1c6 <unknown>
+#18 0x780b7689ca94 <unknown>
+#19 0x780b76929c3c <unknown>
+
+2024-12-04 18:30:37,039 - INFO - Scraping exitoso para término: CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS
+2024-12-04 18:30:37,039 - INFO - ====== WebDriver manager ======
+2024-12-04 18:30:37,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:30:37,659 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:30:37,713 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:30:49,921 - INFO - Scraping exitoso para término: CHULETA DE CERDO
+2024-12-04 18:30:49,933 - INFO - ====== WebDriver manager ======
+2024-12-04 18:30:50,858 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:30:50,993 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:30:51,160 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:31:53,003 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5f511c28d34a <unknown>
+#1 0x5f511bda36e0 <unknown>
+#2 0x5f511bdf23e6 <unknown>
+#3 0x5f511bdf2681 <unknown>
+#4 0x5f511be37b04 <unknown>
+#5 0x5f511be1648d <unknown>
+#6 0x5f511be34ed7 <unknown>
+#7 0x5f511be16203 <unknown>
+#8 0x5f511bde4cc0 <unknown>
+#9 0x5f511bde5c9e <unknown>
+#10 0x5f511c25ad3b <unknown>
+#11 0x5f511c25ecc2 <unknown>
+#12 0x5f511c247b6c <unknown>
+#13 0x5f511c25f837 <unknown>
+#14 0x5f511c22d10f <unknown>
+#15 0x5f511c27c5a8 <unknown>
+#16 0x5f511c27c770 <unknown>
+#17 0x5f511c28c1c6 <unknown>
+#18 0x77460ae9ca94 <unknown>
+#19 0x77460af29c3c <unknown>
+
+2024-12-04 18:32:07,786 - INFO - Scraping exitoso para término: CEREALES PROCESADOS SIMPLES (HOJUELAS)
+2024-12-04 18:32:07,788 - INFO - ====== WebDriver manager ======
+2024-12-04 18:32:08,117 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x6073bab5e34a <unknown>
+#1 0x6073ba6746e0 <unknown>
+#2 0x6073ba6c33e6 <unknown>
+#3 0x6073ba6c3681 <unknown>
+#4 0x6073ba708b04 <unknown>
+#5 0x6073ba6e748d <unknown>
+#6 0x6073ba705ed7 <unknown>
+#7 0x6073ba6e7203 <unknown>
+#8 0x6073ba6b5cc0 <unknown>
+#9 0x6073ba6b6c9e <unknown>
+#10 0x6073bab2bd3b <unknown>
+#11 0x6073bab2fcc2 <unknown>
+#12 0x6073bab18b6c <unknown>
+#13 0x6073bab30837 <unknown>
+#14 0x6073baafe10f <unknown>
+#15 0x6073bab4d5a8 <unknown>
+#16 0x6073bab4d770 <unknown>
+#17 0x6073bab5d1c6 <unknown>
+#18 0x71ad1729ca94 <unknown>
+#19 0x71ad17329c3c <unknown>
+
+2024-12-04 18:32:08,160 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:32:08,234 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:32:08,351 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:33:09,218 - INFO - Scraping exitoso para término: LOMO DE CERDO
+2024-12-04 18:33:09,220 - INFO - ====== WebDriver manager ======
+2024-12-04 18:33:09,487 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:09,544 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:09,613 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:33:11,448 - INFO - Scraping exitoso para término: PANCETA (CARNE DE CERDO)
+2024-12-04 18:33:11,449 - INFO - ====== WebDriver manager ======
+2024-12-04 18:33:12,278 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:12,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:13,261 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:33:22,002 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x611b7de7734a <unknown>
+#1 0x611b7d98d6e0 <unknown>
+#2 0x611b7d9dc3e6 <unknown>
+#3 0x611b7d9dc681 <unknown>
+#4 0x611b7da21b04 <unknown>
+#5 0x611b7da0048d <unknown>
+#6 0x611b7da1eed7 <unknown>
+#7 0x611b7da00203 <unknown>
+#8 0x611b7d9cecc0 <unknown>
+#9 0x611b7d9cfc9e <unknown>
+#10 0x611b7de44d3b <unknown>
+#11 0x611b7de48cc2 <unknown>
+#12 0x611b7de31b6c <unknown>
+#13 0x611b7de49837 <unknown>
+#14 0x611b7de1710f <unknown>
+#15 0x611b7de665a8 <unknown>
+#16 0x611b7de66770 <unknown>
+#17 0x611b7de761c6 <unknown>
+#18 0x71d6fe69ca94 <unknown>
+#19 0x71d6fe729c3c <unknown>
+
+2024-12-04 18:33:35,579 - ERROR - Error scraping wong: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59c0b972234a <unknown>
+#1 0x59c0b92386e0 <unknown>
+#2 0x59c0b9249fbb <unknown>
+#3 0x59c0b9248d45 <unknown>
+#4 0x59c0b923ed39 <unknown>
+#5 0x59c0b923d0a0 <unknown>
+#6 0x59c0b9240968 <unknown>
+#7 0x59c0b92409f3 <unknown>
+#8 0x59c0b928910a <unknown>
+#9 0x59c0b927bfee <unknown>
+#10 0x59c0b92ab462 <unknown>
+#11 0x59c0b927ba18 <unknown>
+#12 0x59c0b92ab62e <unknown>
+#13 0x59c0b92c9ed7 <unknown>
+#14 0x59c0b92ab203 <unknown>
+#15 0x59c0b9279cc0 <unknown>
+#16 0x59c0b927ac9e <unknown>
+#17 0x59c0b96efd3b <unknown>
+#18 0x59c0b96f3cc2 <unknown>
+#19 0x59c0b96dcb6c <unknown>
+#20 0x59c0b96f4837 <unknown>
+#21 0x59c0b96c210f <unknown>
+#22 0x59c0b97115a8 <unknown>
+#23 0x59c0b9711770 <unknown>
+#24 0x59c0b97211c6 <unknown>
+#25 0x78318069ca94 <unknown>
+#26 0x783180729c3c <unknown>
+
+2024-12-04 18:33:35,904 - INFO - Scraping exitoso para término: COSTILLA DE CERDO
+2024-12-04 18:33:35,908 - INFO - ====== WebDriver manager ======
+2024-12-04 18:33:36,240 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:36,405 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:33:36,472 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:34:20,009 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5897c129834a <unknown>
+#1 0x5897c0dae6e0 <unknown>
+#2 0x5897c0dfd3e6 <unknown>
+#3 0x5897c0dfd681 <unknown>
+#4 0x5897c0e42b04 <unknown>
+#5 0x5897c0e2148d <unknown>
+#6 0x5897c0e3fed7 <unknown>
+#7 0x5897c0e21203 <unknown>
+#8 0x5897c0defcc0 <unknown>
+#9 0x5897c0df0c9e <unknown>
+#10 0x5897c1265d3b <unknown>
+#11 0x5897c1269cc2 <unknown>
+#12 0x5897c1252b6c <unknown>
+#13 0x5897c126a837 <unknown>
+#14 0x5897c123810f <unknown>
+#15 0x5897c12875a8 <unknown>
+#16 0x5897c1287770 <unknown>
+#17 0x5897c12971c6 <unknown>
+#18 0x7546c529ca94 <unknown>
+#19 0x7546c5329c3c <unknown>
+
+2024-12-04 18:34:29,752 - INFO - Scraping exitoso para término: PIERNA (CARNE DE CERDO)
+2024-12-04 18:34:29,760 - INFO - ====== WebDriver manager ======
+2024-12-04 18:34:30,598 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:34:30,680 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:34:30,812 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:34:48,931 - INFO - Scraping exitoso para término: BISTEC DE VACUNO
+2024-12-04 18:34:48,944 - INFO - ====== WebDriver manager ======
+2024-12-04 18:34:49,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:34:49,586 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:34:49,689 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:35:56,081 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x640a31ad234a <unknown>
+#1 0x640a315e86e0 <unknown>
+#2 0x640a316373e6 <unknown>
+#3 0x640a31637681 <unknown>
+#4 0x640a3167cb04 <unknown>
+#5 0x640a3165b48d <unknown>
+#6 0x640a31679ed7 <unknown>
+#7 0x640a3165b203 <unknown>
+#8 0x640a31629cc0 <unknown>
+#9 0x640a3162ac9e <unknown>
+#10 0x640a31a9fd3b <unknown>
+#11 0x640a31aa3cc2 <unknown>
+#12 0x640a31a8cb6c <unknown>
+#13 0x640a31aa4837 <unknown>
+#14 0x640a31a7210f <unknown>
+#15 0x640a31ac15a8 <unknown>
+#16 0x640a31ac1770 <unknown>
+#17 0x640a31ad11c6 <unknown>
+#18 0x76f6f049ca94 <unknown>
+#19 0x76f6f0529c3c <unknown>
+
+2024-12-04 18:36:42,205 - INFO - Scraping exitoso para término: CARNE DE CARNERO
+2024-12-04 18:36:42,218 - INFO - ====== WebDriver manager ======
+2024-12-04 18:36:43,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:36:43,307 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:36:43,367 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:37:50,930 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5cb0f23e534a <unknown>
+#1 0x5cb0f1efb6e0 <unknown>
+#2 0x5cb0f1f4a3e6 <unknown>
+#3 0x5cb0f1f4a681 <unknown>
+#4 0x5cb0f1f8fb04 <unknown>
+#5 0x5cb0f1f6e48d <unknown>
+#6 0x5cb0f1f8ced7 <unknown>
+#7 0x5cb0f1f6e203 <unknown>
+#8 0x5cb0f1f3ccc0 <unknown>
+#9 0x5cb0f1f3dc9e <unknown>
+#10 0x5cb0f23b2d3b <unknown>
+#11 0x5cb0f23b6cc2 <unknown>
+#12 0x5cb0f239fb6c <unknown>
+#13 0x5cb0f23b7837 <unknown>
+#14 0x5cb0f238510f <unknown>
+#15 0x5cb0f23d45a8 <unknown>
+#16 0x5cb0f23d4770 <unknown>
+#17 0x5cb0f23e41c6 <unknown>
+#18 0x7b119c69ca94 <unknown>
+#19 0x7b119c729c3c <unknown>
+
+2024-12-04 18:38:03,580 - INFO - Scraping exitoso para término: CHURRASCO DE VACUNO
+2024-12-04 18:38:03,585 - INFO - ====== WebDriver manager ======
+2024-12-04 18:38:04,188 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:38:04,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:38:04,386 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:39:29,367 - INFO - Scraping exitoso para término: SANCOCHADO DE VACUNO
+2024-12-04 18:39:29,370 - INFO - ====== WebDriver manager ======
+2024-12-04 18:39:30,088 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:39:30,191 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:39:30,305 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:40:30,702 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x58953bfc834a <unknown>
+#1 0x58953bade6e0 <unknown>
+#2 0x58953bb2d3e6 <unknown>
+#3 0x58953bb2d681 <unknown>
+#4 0x58953bb72b04 <unknown>
+#5 0x58953bb5148d <unknown>
+#6 0x58953bb6fed7 <unknown>
+#7 0x58953bb51203 <unknown>
+#8 0x58953bb1fcc0 <unknown>
+#9 0x58953bb20c9e <unknown>
+#10 0x58953bf95d3b <unknown>
+#11 0x58953bf99cc2 <unknown>
+#12 0x58953bf82b6c <unknown>
+#13 0x58953bf9a837 <unknown>
+#14 0x58953bf6810f <unknown>
+#15 0x58953bfb75a8 <unknown>
+#16 0x58953bfb7770 <unknown>
+#17 0x58953bfc71c6 <unknown>
+#18 0x7a8b2509ca94 <unknown>
+#19 0x7a8b25129c3c <unknown>
+
+2024-12-04 18:40:31,026 - INFO - Scraping exitoso para término: CARNE MOLIDA DE VACUNO
+2024-12-04 18:40:31,028 - INFO - ====== WebDriver manager ======
+2024-12-04 18:40:31,508 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:40:31,603 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:40:31,657 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:41:02,993 - INFO - Scraping exitoso para término: ALAS DE POLLO
+2024-12-04 18:41:02,994 - INFO - ====== WebDriver manager ======
+2024-12-04 18:41:03,758 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:41:03,899 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:41:16,924 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:41:32,251 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5dae0199834a <unknown>
+#1 0x5dae014ae6e0 <unknown>
+#2 0x5dae014fd3e6 <unknown>
+#3 0x5dae014fd681 <unknown>
+#4 0x5dae01542b04 <unknown>
+#5 0x5dae0152148d <unknown>
+#6 0x5dae0153fed7 <unknown>
+#7 0x5dae01521203 <unknown>
+#8 0x5dae014efcc0 <unknown>
+#9 0x5dae014f0c9e <unknown>
+#10 0x5dae01965d3b <unknown>
+#11 0x5dae01969cc2 <unknown>
+#12 0x5dae01952b6c <unknown>
+#13 0x5dae0196a837 <unknown>
+#14 0x5dae0193810f <unknown>
+#15 0x5dae019875a8 <unknown>
+#16 0x5dae01987770 <unknown>
+#17 0x5dae019971c6 <unknown>
+#18 0x7cf14249ca94 <unknown>
+#19 0x7cf142529c3c <unknown>
+
+2024-12-04 18:42:06,142 - INFO - Scraping exitoso para término: CARNE PARA GUISO DE VACUNO
+2024-12-04 18:42:06,143 - INFO - ====== WebDriver manager ======
+2024-12-04 18:42:06,448 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:42:06,614 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:42:06,665 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:42:20,614 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5830a789934a <unknown>
+#1 0x5830a73af6e0 <unknown>
+#2 0x5830a73fe3e6 <unknown>
+#3 0x5830a73fe681 <unknown>
+#4 0x5830a7443b04 <unknown>
+#5 0x5830a742248d <unknown>
+#6 0x5830a7440ed7 <unknown>
+#7 0x5830a7422203 <unknown>
+#8 0x5830a73f0cc0 <unknown>
+#9 0x5830a73f1c9e <unknown>
+#10 0x5830a7866d3b <unknown>
+#11 0x5830a786acc2 <unknown>
+#12 0x5830a7853b6c <unknown>
+#13 0x5830a786b837 <unknown>
+#14 0x5830a783910f <unknown>
+#15 0x5830a78885a8 <unknown>
+#16 0x5830a7888770 <unknown>
+#17 0x5830a78981c6 <unknown>
+#18 0x7d927b09ca94 <unknown>
+#19 0x7d927b129c3c <unknown>
+
+2024-12-04 18:42:41,202 - INFO - Scraping exitoso para término: PECHUGA DE POLLO
+2024-12-04 18:42:41,209 - INFO - ====== WebDriver manager ======
+2024-12-04 18:42:41,703 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:42:41,783 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:42:41,850 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:43:18,800 - INFO - Scraping exitoso para término: PIERNA DE POLLO
+2024-12-04 18:43:18,801 - INFO - ====== WebDriver manager ======
+2024-12-04 18:43:19,574 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:43:19,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:43:19,792 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:44:24,274 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a0baff5b34a <unknown>
+#1 0x5a0bafa716e0 <unknown>
+#2 0x5a0bafac03e6 <unknown>
+#3 0x5a0bafac0681 <unknown>
+#4 0x5a0bafb05b04 <unknown>
+#5 0x5a0bafae448d <unknown>
+#6 0x5a0bafb02ed7 <unknown>
+#7 0x5a0bafae4203 <unknown>
+#8 0x5a0bafab2cc0 <unknown>
+#9 0x5a0bafab3c9e <unknown>
+#10 0x5a0baff28d3b <unknown>
+#11 0x5a0baff2ccc2 <unknown>
+#12 0x5a0baff15b6c <unknown>
+#13 0x5a0baff2d837 <unknown>
+#14 0x5a0bafefb10f <unknown>
+#15 0x5a0baff4a5a8 <unknown>
+#16 0x5a0baff4a770 <unknown>
+#17 0x5a0baff5a1c6 <unknown>
+#18 0x755d6b49ca94 <unknown>
+#19 0x755d6b529c3c <unknown>
+
+2024-12-04 18:45:05,144 - INFO - Scraping exitoso para término: GALLINA EVISCERADA
+2024-12-04 18:45:05,146 - INFO - ====== WebDriver manager ======
+2024-12-04 18:45:06,953 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:45:07,227 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:45:07,314 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:45:08,900 - INFO - Scraping exitoso para término: MENUDENCIA DE POLLO
+2024-12-04 18:45:08,907 - INFO - ====== WebDriver manager ======
+2024-12-04 18:45:09,768 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:45:09,856 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:45:09,941 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:46:16,707 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x57b2c07bb34a <unknown>
+#1 0x57b2c02d16e0 <unknown>
+#2 0x57b2c03203e6 <unknown>
+#3 0x57b2c0320681 <unknown>
+#4 0x57b2c0365b04 <unknown>
+#5 0x57b2c034448d <unknown>
+#6 0x57b2c0362ed7 <unknown>
+#7 0x57b2c0344203 <unknown>
+#8 0x57b2c0312cc0 <unknown>
+#9 0x57b2c0313c9e <unknown>
+#10 0x57b2c0788d3b <unknown>
+#11 0x57b2c078ccc2 <unknown>
+#12 0x57b2c0775b6c <unknown>
+#13 0x57b2c078d837 <unknown>
+#14 0x57b2c075b10f <unknown>
+#15 0x57b2c07aa5a8 <unknown>
+#16 0x57b2c07aa770 <unknown>
+#17 0x57b2c07ba1c6 <unknown>
+#18 0x7268a4a9ca94 <unknown>
+#19 0x7268a4b29c3c <unknown>
+
+2024-12-04 18:46:17,074 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5bd9c6f3a34a <unknown>
+#1 0x5bd9c6a506e0 <unknown>
+#2 0x5bd9c6a9f3e6 <unknown>
+#3 0x5bd9c6a9f681 <unknown>
+#4 0x5bd9c6ae4b04 <unknown>
+#5 0x5bd9c6ac348d <unknown>
+#6 0x5bd9c6ae1ed7 <unknown>
+#7 0x5bd9c6ac3203 <unknown>
+#8 0x5bd9c6a91cc0 <unknown>
+#9 0x5bd9c6a92c9e <unknown>
+#10 0x5bd9c6f07d3b <unknown>
+#11 0x5bd9c6f0bcc2 <unknown>
+#12 0x5bd9c6ef4b6c <unknown>
+#13 0x5bd9c6f0c837 <unknown>
+#14 0x5bd9c6eda10f <unknown>
+#15 0x5bd9c6f295a8 <unknown>
+#16 0x5bd9c6f29770 <unknown>
+#17 0x5bd9c6f391c6 <unknown>
+#18 0x70f5c8a9ca94 <unknown>
+#19 0x70f5c8b29c3c <unknown>
+
+2024-12-04 18:46:42,382 - INFO - Scraping exitoso para término: BOFE DE RES
+2024-12-04 18:46:42,386 - INFO - ====== WebDriver manager ======
+2024-12-04 18:46:42,724 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:46:42,817 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:46:42,927 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:46:50,068 - INFO - Scraping exitoso para término: HÍGADO DE RES
+2024-12-04 18:46:50,069 - INFO - ====== WebDriver manager ======
+2024-12-04 18:46:50,611 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:46:50,707 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:46:50,781 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:47:45,028 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x55807257d34a <unknown>
+#1 0x5580720936e0 <unknown>
+#2 0x5580720e23e6 <unknown>
+#3 0x5580720e2681 <unknown>
+#4 0x558072127b04 <unknown>
+#5 0x55807210648d <unknown>
+#6 0x558072124ed7 <unknown>
+#7 0x558072106203 <unknown>
+#8 0x5580720d4cc0 <unknown>
+#9 0x5580720d5c9e <unknown>
+#10 0x55807254ad3b <unknown>
+#11 0x55807254ecc2 <unknown>
+#12 0x558072537b6c <unknown>
+#13 0x55807254f837 <unknown>
+#14 0x55807251d10f <unknown>
+#15 0x55807256c5a8 <unknown>
+#16 0x55807256c770 <unknown>
+#17 0x55807257c1c6 <unknown>
+#18 0x71ae09e9ca94 <unknown>
+#19 0x71ae09f29c3c <unknown>
+
+2024-12-04 18:48:12,524 - INFO - Scraping exitoso para término: MONDONGO DE RES
+2024-12-04 18:48:12,525 - INFO - ====== WebDriver manager ======
+2024-12-04 18:48:12,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:48:12,981 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:48:13,032 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:48:25,875 - INFO - Scraping exitoso para término: POLLO EVISCERADO
+2024-12-04 18:48:25,910 - INFO - ====== WebDriver manager ======
+2024-12-04 18:48:26,430 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:48:26,845 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:48:26,913 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:49:27,180 - INFO - Scraping exitoso para término: PAVO EVISCERADO
+2024-12-04 18:49:27,181 - INFO - ====== WebDriver manager ======
+2024-12-04 18:49:27,507 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:49:27,674 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:49:27,722 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:49:33,672 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5df37a10434a <unknown>
+#1 0x5df379c1a6e0 <unknown>
+#2 0x5df379c693e6 <unknown>
+#3 0x5df379c69681 <unknown>
+#4 0x5df379caeb04 <unknown>
+#5 0x5df379c8d48d <unknown>
+#6 0x5df379cabed7 <unknown>
+#7 0x5df379c8d203 <unknown>
+#8 0x5df379c5bcc0 <unknown>
+#9 0x5df379c5cc9e <unknown>
+#10 0x5df37a0d1d3b <unknown>
+#11 0x5df37a0d5cc2 <unknown>
+#12 0x5df37a0beb6c <unknown>
+#13 0x5df37a0d6837 <unknown>
+#14 0x5df37a0a410f <unknown>
+#15 0x5df37a0f35a8 <unknown>
+#16 0x5df37a0f3770 <unknown>
+#17 0x5df37a1031c6 <unknown>
+#18 0x78bea369ca94 <unknown>
+#19 0x78bea3729c3c <unknown>
+
+2024-12-04 18:49:48,411 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x57aa6b8a434a <unknown>
+#1 0x57aa6b3ba6e0 <unknown>
+#2 0x57aa6b4093e6 <unknown>
+#3 0x57aa6b409681 <unknown>
+#4 0x57aa6b44eb04 <unknown>
+#5 0x57aa6b42d48d <unknown>
+#6 0x57aa6b44bed7 <unknown>
+#7 0x57aa6b42d203 <unknown>
+#8 0x57aa6b3fbcc0 <unknown>
+#9 0x57aa6b3fcc9e <unknown>
+#10 0x57aa6b871d3b <unknown>
+#11 0x57aa6b875cc2 <unknown>
+#12 0x57aa6b85eb6c <unknown>
+#13 0x57aa6b876837 <unknown>
+#14 0x57aa6b84410f <unknown>
+#15 0x57aa6b8935a8 <unknown>
+#16 0x57aa6b893770 <unknown>
+#17 0x57aa6b8a31c6 <unknown>
+#18 0x78071fe9ca94 <unknown>
+#19 0x78071ff29c3c <unknown>
+
+2024-12-04 18:50:18,186 - INFO - Scraping exitoso para término: JAMÓN DEL PAÍS
+2024-12-04 18:50:18,186 - INFO - ====== WebDriver manager ======
+2024-12-04 18:50:18,575 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:50:18,651 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:50:18,716 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:50:30,104 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x55dfbcec734a <unknown>
+#1 0x55dfbc9dd6e0 <unknown>
+#2 0x55dfbca2c3e6 <unknown>
+#3 0x55dfbca2c681 <unknown>
+#4 0x55dfbca71b04 <unknown>
+#5 0x55dfbca5048d <unknown>
+#6 0x55dfbca6eed7 <unknown>
+#7 0x55dfbca50203 <unknown>
+#8 0x55dfbca1ecc0 <unknown>
+#9 0x55dfbca1fc9e <unknown>
+#10 0x55dfbce94d3b <unknown>
+#11 0x55dfbce98cc2 <unknown>
+#12 0x55dfbce81b6c <unknown>
+#13 0x55dfbce99837 <unknown>
+#14 0x55dfbce6710f <unknown>
+#15 0x55dfbceb65a8 <unknown>
+#16 0x55dfbceb6770 <unknown>
+#17 0x55dfbcec61c6 <unknown>
+#18 0x7306cfe9ca94 <unknown>
+#19 0x7306cff29c3c <unknown>
+
+2024-12-04 18:51:05,083 - INFO - Scraping exitoso para término: HOT DOG
+2024-12-04 18:51:05,086 - INFO - ====== WebDriver manager ======
+2024-12-04 18:51:05,521 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:05,604 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:05,673 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:51:16,530 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x602a223fb34a <unknown>
+#1 0x602a21f116e0 <unknown>
+#2 0x602a21f603e6 <unknown>
+#3 0x602a21f60681 <unknown>
+#4 0x602a21fa5b04 <unknown>
+#5 0x602a21f8448d <unknown>
+#6 0x602a21fa2ed7 <unknown>
+#7 0x602a21f84203 <unknown>
+#8 0x602a21f52cc0 <unknown>
+#9 0x602a21f53c9e <unknown>
+#10 0x602a223c8d3b <unknown>
+#11 0x602a223cccc2 <unknown>
+#12 0x602a223b5b6c <unknown>
+#13 0x602a223cd837 <unknown>
+#14 0x602a2239b10f <unknown>
+#15 0x602a223ea5a8 <unknown>
+#16 0x602a223ea770 <unknown>
+#17 0x602a223fa1c6 <unknown>
+#18 0x716a1589ca94 <unknown>
+#19 0x716a15929c3c <unknown>
+
+2024-12-04 18:51:52,167 - INFO - Scraping exitoso para término: TOCINO AHUMADO
+2024-12-04 18:51:52,171 - INFO - ====== WebDriver manager ======
+2024-12-04 18:51:52,562 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:52,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:52,709 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:51:56,501 - INFO - Scraping exitoso para término: JAMONADA
+2024-12-04 18:51:56,502 - INFO - ====== WebDriver manager ======
+2024-12-04 18:51:57,132 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:57,214 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:51:57,296 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:52:07,140 - INFO - Scraping exitoso para término: CHORIZO
+2024-12-04 18:52:07,143 - INFO - ====== WebDriver manager ======
+2024-12-04 18:52:07,692 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:52:08,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:52:08,615 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:52:56,779 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x617d41dfb34a <unknown>
+#1 0x617d419116e0 <unknown>
+#2 0x617d419603e6 <unknown>
+#3 0x617d41960681 <unknown>
+#4 0x617d419a5b04 <unknown>
+#5 0x617d4198448d <unknown>
+#6 0x617d419a2ed7 <unknown>
+#7 0x617d41984203 <unknown>
+#8 0x617d41952cc0 <unknown>
+#9 0x617d41953c9e <unknown>
+#10 0x617d41dc8d3b <unknown>
+#11 0x617d41dcccc2 <unknown>
+#12 0x617d41db5b6c <unknown>
+#13 0x617d41dcd837 <unknown>
+#14 0x617d41d9b10f <unknown>
+#15 0x617d41dea5a8 <unknown>
+#16 0x617d41dea770 <unknown>
+#17 0x617d41dfa1c6 <unknown>
+#18 0x77c0ecc9ca94 <unknown>
+#19 0x77c0ecd29c3c <unknown>
+
+2024-12-04 18:53:06,658 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5874c8f9334a <unknown>
+#1 0x5874c8aa96e0 <unknown>
+#2 0x5874c8af83e6 <unknown>
+#3 0x5874c8af8681 <unknown>
+#4 0x5874c8b3db04 <unknown>
+#5 0x5874c8b1c48d <unknown>
+#6 0x5874c8b3aed7 <unknown>
+#7 0x5874c8b1c203 <unknown>
+#8 0x5874c8aeacc0 <unknown>
+#9 0x5874c8aebc9e <unknown>
+#10 0x5874c8f60d3b <unknown>
+#11 0x5874c8f64cc2 <unknown>
+#12 0x5874c8f4db6c <unknown>
+#13 0x5874c8f65837 <unknown>
+#14 0x5874c8f3310f <unknown>
+#15 0x5874c8f825a8 <unknown>
+#16 0x5874c8f82770 <unknown>
+#17 0x5874c8f921c6 <unknown>
+#18 0x7bf4bbc9ca94 <unknown>
+#19 0x7bf4bbd29c3c <unknown>
+
+2024-12-04 18:53:25,092 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5726c9cb434a <unknown>
+#1 0x5726c97ca6e0 <unknown>
+#2 0x5726c98193e6 <unknown>
+#3 0x5726c9819681 <unknown>
+#4 0x5726c985eb04 <unknown>
+#5 0x5726c983d48d <unknown>
+#6 0x5726c985bed7 <unknown>
+#7 0x5726c983d203 <unknown>
+#8 0x5726c980bcc0 <unknown>
+#9 0x5726c980cc9e <unknown>
+#10 0x5726c9c81d3b <unknown>
+#11 0x5726c9c85cc2 <unknown>
+#12 0x5726c9c6eb6c <unknown>
+#13 0x5726c9c86837 <unknown>
+#14 0x5726c9c5410f <unknown>
+#15 0x5726c9ca35a8 <unknown>
+#16 0x5726c9ca3770 <unknown>
+#17 0x5726c9cb31c6 <unknown>
+#18 0x72f86529ca94 <unknown>
+#19 0x72f865329c3c <unknown>
+
+2024-12-04 18:53:44,523 - INFO - Scraping exitoso para término: BONITO
+2024-12-04 18:53:44,530 - INFO - ====== WebDriver manager ======
+2024-12-04 18:53:44,879 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:44,934 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:45,005 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:53:54,254 - INFO - Scraping exitoso para término: CABALLA
+2024-12-04 18:53:54,254 - INFO - ====== WebDriver manager ======
+2024-12-04 18:53:54,992 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:55,092 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:55,183 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:53:56,720 - INFO - Scraping exitoso para término: MILANESA
+2024-12-04 18:53:56,720 - INFO - ====== WebDriver manager ======
+2024-12-04 18:53:57,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:57,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:53:57,786 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:54:46,769 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x576afce9634a <unknown>
+#1 0x576afc9ac6e0 <unknown>
+#2 0x576afc9fb3e6 <unknown>
+#3 0x576afc9fb681 <unknown>
+#4 0x576afca40b04 <unknown>
+#5 0x576afca1f48d <unknown>
+#6 0x576afca3ded7 <unknown>
+#7 0x576afca1f203 <unknown>
+#8 0x576afc9edcc0 <unknown>
+#9 0x576afc9eec9e <unknown>
+#10 0x576afce63d3b <unknown>
+#11 0x576afce67cc2 <unknown>
+#12 0x576afce50b6c <unknown>
+#13 0x576afce68837 <unknown>
+#14 0x576afce3610f <unknown>
+#15 0x576afce855a8 <unknown>
+#16 0x576afce85770 <unknown>
+#17 0x576afce951c6 <unknown>
+#18 0x71383a69ca94 <unknown>
+#19 0x71383a729c3c <unknown>
+
+2024-12-04 18:55:02,765 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x62316f81734a <unknown>
+#1 0x62316f32d6e0 <unknown>
+#2 0x62316f37c3e6 <unknown>
+#3 0x62316f37c681 <unknown>
+#4 0x62316f3c1b04 <unknown>
+#5 0x62316f3a048d <unknown>
+#6 0x62316f3beed7 <unknown>
+#7 0x62316f3a0203 <unknown>
+#8 0x62316f36ecc0 <unknown>
+#9 0x62316f36fc9e <unknown>
+#10 0x62316f7e4d3b <unknown>
+#11 0x62316f7e8cc2 <unknown>
+#12 0x62316f7d1b6c <unknown>
+#13 0x62316f7e9837 <unknown>
+#14 0x62316f7b710f <unknown>
+#15 0x62316f8065a8 <unknown>
+#16 0x62316f806770 <unknown>
+#17 0x62316f8161c6 <unknown>
+#18 0x71b7c049ca94 <unknown>
+#19 0x71b7c0529c3c <unknown>
+
+2024-12-04 18:55:14,966 - INFO - Scraping exitoso para término: CORVINA
+2024-12-04 18:55:14,971 - INFO - ====== WebDriver manager ======
+2024-12-04 18:55:15,316 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:15,387 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:15,437 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:55:30,688 - INFO - Scraping exitoso para término: JUREL
+2024-12-04 18:55:30,688 - INFO - ====== WebDriver manager ======
+2024-12-04 18:55:31,455 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:31,532 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:31,624 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:55:43,248 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x578e7b65334a <unknown>
+#1 0x578e7b1696e0 <unknown>
+#2 0x578e7b16f4a3 <unknown>
+#3 0x578e7b171968 <unknown>
+#4 0x578e7b1719f3 <unknown>
+#5 0x578e7b1ba10a <unknown>
+#6 0x578e7b1aeb22 <unknown>
+#7 0x578e7b1dc462 <unknown>
+#8 0x578e7b1aca18 <unknown>
+#9 0x578e7b1dc62e <unknown>
+#10 0x578e7b1faed7 <unknown>
+#11 0x578e7b1dc203 <unknown>
+#12 0x578e7b1aacc0 <unknown>
+#13 0x578e7b1abc9e <unknown>
+#14 0x578e7b620d3b <unknown>
+#15 0x578e7b624cc2 <unknown>
+#16 0x578e7b60db6c <unknown>
+#17 0x578e7b625837 <unknown>
+#18 0x578e7b5f310f <unknown>
+#19 0x578e7b6425a8 <unknown>
+#20 0x578e7b642770 <unknown>
+#21 0x578e7b6521c6 <unknown>
+#22 0x74fba629ca94 <unknown>
+#23 0x74fba6329c3c <unknown>
+
+2024-12-04 18:55:43,741 - INFO - Scraping exitoso para término: MERLUZA
+2024-12-04 18:55:43,747 - INFO - ====== WebDriver manager ======
+2024-12-04 18:55:44,473 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:44,533 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:55:44,591 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:56:02,759 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x6256bd12534a <unknown>
+#1 0x6256bcc3b6e0 <unknown>
+#2 0x6256bcc414a3 <unknown>
+#3 0x6256bcc43968 <unknown>
+#4 0x6256bcc439f3 <unknown>
+#5 0x6256bcc8c10a <unknown>
+#6 0x6256bcc80b22 <unknown>
+#7 0x6256bccae462 <unknown>
+#8 0x6256bcc7ea18 <unknown>
+#9 0x6256bccae62e <unknown>
+#10 0x6256bcccced7 <unknown>
+#11 0x6256bccae203 <unknown>
+#12 0x6256bcc7ccc0 <unknown>
+#13 0x6256bcc7dc9e <unknown>
+#14 0x6256bd0f2d3b <unknown>
+#15 0x6256bd0f6cc2 <unknown>
+#16 0x6256bd0dfb6c <unknown>
+#17 0x6256bd0f7837 <unknown>
+#18 0x6256bd0c510f <unknown>
+#19 0x6256bd1145a8 <unknown>
+#20 0x6256bd114770 <unknown>
+#21 0x6256bd1241c6 <unknown>
+#22 0x78e1b5e9ca94 <unknown>
+#23 0x78e1b5f29c3c <unknown>
+
+2024-12-04 18:56:03,143 - INFO - Scraping exitoso para término: PERICO
+2024-12-04 18:56:03,155 - INFO - ====== WebDriver manager ======
+2024-12-04 18:56:03,643 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:56:03,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:56:03,945 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:56:29,996 - INFO - Scraping exitoso para término: HAMBURGUESA
+2024-12-04 18:56:29,999 - INFO - ====== WebDriver manager ======
+2024-12-04 18:56:30,624 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:56:30,677 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:56:30,737 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:56:48,250 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5c5ce98a534a <unknown>
+#1 0x5c5ce93bb6e0 <unknown>
+#2 0x5c5ce940a3e6 <unknown>
+#3 0x5c5ce940a681 <unknown>
+#4 0x5c5ce944fb04 <unknown>
+#5 0x5c5ce942e48d <unknown>
+#6 0x5c5ce944ced7 <unknown>
+#7 0x5c5ce942e203 <unknown>
+#8 0x5c5ce93fccc0 <unknown>
+#9 0x5c5ce93fdc9e <unknown>
+#10 0x5c5ce9872d3b <unknown>
+#11 0x5c5ce9876cc2 <unknown>
+#12 0x5c5ce985fb6c <unknown>
+#13 0x5c5ce9877837 <unknown>
+#14 0x5c5ce984510f <unknown>
+#15 0x5c5ce98945a8 <unknown>
+#16 0x5c5ce9894770 <unknown>
+#17 0x5c5ce98a41c6 <unknown>
+#18 0x790ace89ca94 <unknown>
+#19 0x790ace929c3c <unknown>
+
+2024-12-04 18:57:08,226 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64551c1d734a <unknown>
+#1 0x64551bced6e0 <unknown>
+#2 0x64551bd3c3e6 <unknown>
+#3 0x64551bd3c681 <unknown>
+#4 0x64551bd81b04 <unknown>
+#5 0x64551bd6048d <unknown>
+#6 0x64551bd7eed7 <unknown>
+#7 0x64551bd60203 <unknown>
+#8 0x64551bd2ecc0 <unknown>
+#9 0x64551bd2fc9e <unknown>
+#10 0x64551c1a4d3b <unknown>
+#11 0x64551c1a8cc2 <unknown>
+#12 0x64551c191b6c <unknown>
+#13 0x64551c1a9837 <unknown>
+#14 0x64551c17710f <unknown>
+#15 0x64551c1c65a8 <unknown>
+#16 0x64551c1c6770 <unknown>
+#17 0x64551c1d61c6 <unknown>
+#18 0x71134f29ca94 <unknown>
+#19 0x71134f329c3c <unknown>
+
+2024-12-04 18:57:39,037 - ERROR - Error scraping wong: Message: 
+
+2024-12-04 18:57:39,373 - INFO - Scraping exitoso para término: TILAPIA - PESCA CONTINENTAL - DE RÍO
+2024-12-04 18:57:39,380 - INFO - ====== WebDriver manager ======
+2024-12-04 18:57:39,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:57:39,910 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:57:39,965 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:57:57,007 - ERROR - Error scraping wong: Message: 
+
+2024-12-04 18:57:57,381 - INFO - Scraping exitoso para término: TRUCHA - PESCA CONTINENTAL - DE RÍO
+2024-12-04 18:57:57,382 - INFO - ====== WebDriver manager ======
+2024-12-04 18:57:57,736 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:57:57,787 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:57:57,887 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 18:58:49,866 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a372762834a <unknown>
+#1 0x5a372713e6e0 <unknown>
+#2 0x5a372718d3e6 <unknown>
+#3 0x5a372718d681 <unknown>
+#4 0x5a37271d2b04 <unknown>
+#5 0x5a37271b148d <unknown>
+#6 0x5a37271cfed7 <unknown>
+#7 0x5a37271b1203 <unknown>
+#8 0x5a372717fcc0 <unknown>
+#9 0x5a3727180c9e <unknown>
+#10 0x5a37275f5d3b <unknown>
+#11 0x5a37275f9cc2 <unknown>
+#12 0x5a37275e2b6c <unknown>
+#13 0x5a37275fa837 <unknown>
+#14 0x5a37275c810f <unknown>
+#15 0x5a37276175a8 <unknown>
+#16 0x5a3727617770 <unknown>
+#17 0x5a37276271c6 <unknown>
+#18 0x7556cce9ca94 <unknown>
+#19 0x7556ccf29c3c <unknown>
+
+2024-12-04 18:59:53,122 - INFO - Scraping exitoso para término: FILETE DE PESCADO EN CONSERVA
+2024-12-04 18:59:53,135 - INFO - ====== WebDriver manager ======
+2024-12-04 18:59:54,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:59:55,048 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 18:59:55,128 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:00:11,618 - INFO - Scraping exitoso para término: LIZA
+2024-12-04 19:00:11,623 - INFO - ====== WebDriver manager ======
+2024-12-04 19:00:12,330 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:00:12,425 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:00:12,575 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:00:40,941 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61dcc083334a <unknown>
+#1 0x61dcc03496e0 <unknown>
+#2 0x61dcc034f4a3 <unknown>
+#3 0x61dcc0351968 <unknown>
+#4 0x61dcc03519f3 <unknown>
+#5 0x61dcc03990a7 <unknown>
+#6 0x61dcc038f64d <unknown>
+#7 0x61dcc03bc462 <unknown>
+#8 0x61dcc038ca18 <unknown>
+#9 0x61dcc03bc62e <unknown>
+#10 0x61dcc03daed7 <unknown>
+#11 0x61dcc03bc203 <unknown>
+#12 0x61dcc038acc0 <unknown>
+#13 0x61dcc038bc9e <unknown>
+#14 0x61dcc0800d3b <unknown>
+#15 0x61dcc0804cc2 <unknown>
+#16 0x61dcc07edb6c <unknown>
+#17 0x61dcc0805837 <unknown>
+#18 0x61dcc07d310f <unknown>
+#19 0x61dcc08225a8 <unknown>
+#20 0x61dcc0822770 <unknown>
+#21 0x61dcc08321c6 <unknown>
+#22 0x76162f09ca94 <unknown>
+#23 0x76162f129c3c <unknown>
+
+2024-12-04 19:00:41,660 - INFO - Scraping exitoso para término: LECHE FRESCA PASTEURIZADA
+2024-12-04 19:00:41,682 - INFO - ====== WebDriver manager ======
+2024-12-04 19:00:42,108 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:00:42,261 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:00:42,339 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:01:09,739 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56b90946534a <unknown>
+#1 0x56b908f7b6e0 <unknown>
+#2 0x56b908fca3e6 <unknown>
+#3 0x56b908fca681 <unknown>
+#4 0x56b90900fb04 <unknown>
+#5 0x56b908fee48d <unknown>
+#6 0x56b90900ced7 <unknown>
+#7 0x56b908fee203 <unknown>
+#8 0x56b908fbccc0 <unknown>
+#9 0x56b908fbdc9e <unknown>
+#10 0x56b909432d3b <unknown>
+#11 0x56b909436cc2 <unknown>
+#12 0x56b90941fb6c <unknown>
+#13 0x56b909437837 <unknown>
+#14 0x56b90940510f <unknown>
+#15 0x56b9094545a8 <unknown>
+#16 0x56b909454770 <unknown>
+#17 0x56b9094641c6 <unknown>
+#18 0x76777a69ca94 <unknown>
+#19 0x76777a729c3c <unknown>
+
+2024-12-04 19:01:47,788 - INFO - Scraping exitoso para término: TROZO DE PESCADO EN CONSERVA
+2024-12-04 19:01:47,790 - INFO - ====== WebDriver manager ======
+2024-12-04 19:01:48,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:01:48,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:01:48,106 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:02:29,571 - ERROR - Error scraping wong: Message: 
+Stacktrace:
+#0 0x612ae6c3a34a <unknown>
+#1 0x612ae67506e0 <unknown>
+#2 0x612ae679f3e6 <unknown>
+#3 0x612ae679f681 <unknown>
+#4 0x612ae67e4b04 <unknown>
+#5 0x612ae67c348d <unknown>
+#6 0x612ae67e1ed7 <unknown>
+#7 0x612ae67c3203 <unknown>
+#8 0x612ae6791cc0 <unknown>
+#9 0x612ae6792c9e <unknown>
+#10 0x612ae6c07d3b <unknown>
+#11 0x612ae6c0bcc2 <unknown>
+#12 0x612ae6bf4b6c <unknown>
+#13 0x612ae6c0c837 <unknown>
+#14 0x612ae6bda10f <unknown>
+#15 0x612ae6c295a8 <unknown>
+#16 0x612ae6c29770 <unknown>
+#17 0x612ae6c391c6 <unknown>
+#18 0x7c2fe629ca94 <unknown>
+#19 0x7c2fe6329c3c <unknown>
+
+2024-12-04 19:02:29,828 - INFO - Scraping exitoso para término: LECHE EVAPORADA
+2024-12-04 19:02:29,829 - INFO - ====== WebDriver manager ======
+2024-12-04 19:02:30,130 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:02:30,192 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:02:30,253 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:02:54,340 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x59f10078634a <unknown>
+#1 0x59f10029c6e0 <unknown>
+#2 0x59f1002a24a3 <unknown>
+#3 0x59f1002a4968 <unknown>
+#4 0x59f1002a49f3 <unknown>
+#5 0x59f1002e61c1 <unknown>
+#6 0x59f10030f462 <unknown>
+#7 0x59f1002dfa18 <unknown>
+#8 0x59f10030f62e <unknown>
+#9 0x59f10032ded7 <unknown>
+#10 0x59f10030f203 <unknown>
+#11 0x59f1002ddcc0 <unknown>
+#12 0x59f1002dec9e <unknown>
+#13 0x59f100753d3b <unknown>
+#14 0x59f100757cc2 <unknown>
+#15 0x59f100740b6c <unknown>
+#16 0x59f100758837 <unknown>
+#17 0x59f10072610f <unknown>
+#18 0x59f1007755a8 <unknown>
+#19 0x59f100775770 <unknown>
+#20 0x59f1007851c6 <unknown>
+#21 0x7e40d769ca94 <unknown>
+#22 0x7e40d7729c3c <unknown>
+
+2024-12-04 19:02:54,756 - INFO - Scraping exitoso para término: FÓRMULA PARA LACTANTES
+2024-12-04 19:02:54,757 - INFO - ====== WebDriver manager ======
+2024-12-04 19:02:55,097 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:02:55,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:02:55,203 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:03:06,802 - INFO - Scraping exitoso para término: CHOROS (CON VALVA)
+2024-12-04 19:03:06,803 - INFO - ====== WebDriver manager ======
+2024-12-04 19:03:07,545 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:03:07,790 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:03:07,882 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:04:01,199 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x575e43df134a <unknown>
+#1 0x575e439076e0 <unknown>
+#2 0x575e439563e6 <unknown>
+#3 0x575e43956681 <unknown>
+#4 0x575e4399bb04 <unknown>
+#5 0x575e4397a48d <unknown>
+#6 0x575e43998ed7 <unknown>
+#7 0x575e4397a203 <unknown>
+#8 0x575e43948cc0 <unknown>
+#9 0x575e43949c9e <unknown>
+#10 0x575e43dbed3b <unknown>
+#11 0x575e43dc2cc2 <unknown>
+#12 0x575e43dabb6c <unknown>
+#13 0x575e43dc3837 <unknown>
+#14 0x575e43d9110f <unknown>
+#15 0x575e43de05a8 <unknown>
+#16 0x575e43de0770 <unknown>
+#17 0x575e43df01c6 <unknown>
+#18 0x7a10d829ca94 <unknown>
+#19 0x7a10d8329c3c <unknown>
+
+2024-12-04 19:04:16,546 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d0657a3534a <unknown>
+#1 0x5d065754b6e0 <unknown>
+#2 0x5d065759a3e6 <unknown>
+#3 0x5d065759a681 <unknown>
+#4 0x5d06575dfb04 <unknown>
+#5 0x5d06575be48d <unknown>
+#6 0x5d06575dced7 <unknown>
+#7 0x5d06575be203 <unknown>
+#8 0x5d065758ccc0 <unknown>
+#9 0x5d065758dc9e <unknown>
+#10 0x5d0657a02d3b <unknown>
+#11 0x5d0657a06cc2 <unknown>
+#12 0x5d06579efb6c <unknown>
+#13 0x5d0657a07837 <unknown>
+#14 0x5d06579d510f <unknown>
+#15 0x5d0657a245a8 <unknown>
+#16 0x5d0657a24770 <unknown>
+#17 0x5d0657a341c6 <unknown>
+#18 0x710c09a9ca94 <unknown>
+#19 0x710c09b29c3c <unknown>
+
+2024-12-04 19:04:38,329 - INFO - Scraping exitoso para término: GRATED DE PESCADO EN CONSERVA
+2024-12-04 19:04:38,338 - INFO - ====== WebDriver manager ======
+2024-12-04 19:04:38,992 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:39,461 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:39,531 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:04:47,731 - INFO - Scraping exitoso para término: LECHE FRESCA UHT
+2024-12-04 19:04:47,735 - INFO - ====== WebDriver manager ======
+2024-12-04 19:04:48,240 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:48,312 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:48,386 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:04:50,888 - INFO - Scraping exitoso para término: ALIMENTO LACTEO EN POLVO
+2024-12-04 19:04:50,888 - INFO - ====== WebDriver manager ======
+2024-12-04 19:04:51,974 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:52,098 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:04:52,187 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:05:39,383 - ERROR - Error scraping wong: Message: 
+Stacktrace:
+#0 0x58f54844634a <unknown>
+#1 0x58f547f5c6e0 <unknown>
+#2 0x58f547fab3e6 <unknown>
+#3 0x58f547fab681 <unknown>
+#4 0x58f547ff0b04 <unknown>
+#5 0x58f547fcf48d <unknown>
+#6 0x58f547feded7 <unknown>
+#7 0x58f547fcf203 <unknown>
+#8 0x58f547f9dcc0 <unknown>
+#9 0x58f547f9ec9e <unknown>
+#10 0x58f548413d3b <unknown>
+#11 0x58f548417cc2 <unknown>
+#12 0x58f548400b6c <unknown>
+#13 0x58f548418837 <unknown>
+#14 0x58f5483e610f <unknown>
+#15 0x58f5484355a8 <unknown>
+#16 0x58f548435770 <unknown>
+#17 0x58f5484451c6 <unknown>
+#18 0x73eec2e9ca94 <unknown>
+#19 0x73eec2f29c3c <unknown>
+
+2024-12-04 19:05:39,646 - INFO - Scraping exitoso para término: YOGUR DE LECHE ENTERA
+2024-12-04 19:05:39,649 - INFO - ====== WebDriver manager ======
+2024-12-04 19:05:40,122 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:05:40,199 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:05:40,286 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:05:43,463 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x638d15fd934a <unknown>
+#1 0x638d15aef6e0 <unknown>
+#2 0x638d15b3e3e6 <unknown>
+#3 0x638d15b3e681 <unknown>
+#4 0x638d15b83b04 <unknown>
+#5 0x638d15b6248d <unknown>
+#6 0x638d15b80ed7 <unknown>
+#7 0x638d15b62203 <unknown>
+#8 0x638d15b30cc0 <unknown>
+#9 0x638d15b31c9e <unknown>
+#10 0x638d15fa6d3b <unknown>
+#11 0x638d15faacc2 <unknown>
+#12 0x638d15f93b6c <unknown>
+#13 0x638d15fab837 <unknown>
+#14 0x638d15f7910f <unknown>
+#15 0x638d15fc85a8 <unknown>
+#16 0x638d15fc8770 <unknown>
+#17 0x638d15fd81c6 <unknown>
+#18 0x7c6ab4a9ca94 <unknown>
+#19 0x7c6ab4b29c3c <unknown>
+
+2024-12-04 19:05:57,341 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5bf9c237934a <unknown>
+#1 0x5bf9c1e8f6e0 <unknown>
+#2 0x5bf9c1ede3e6 <unknown>
+#3 0x5bf9c1ede681 <unknown>
+#4 0x5bf9c1f23b04 <unknown>
+#5 0x5bf9c1f0248d <unknown>
+#6 0x5bf9c1f20ed7 <unknown>
+#7 0x5bf9c1f02203 <unknown>
+#8 0x5bf9c1ed0cc0 <unknown>
+#9 0x5bf9c1ed1c9e <unknown>
+#10 0x5bf9c2346d3b <unknown>
+#11 0x5bf9c234acc2 <unknown>
+#12 0x5bf9c2333b6c <unknown>
+#13 0x5bf9c234b837 <unknown>
+#14 0x5bf9c231910f <unknown>
+#15 0x5bf9c23685a8 <unknown>
+#16 0x5bf9c2368770 <unknown>
+#17 0x5bf9c23781c6 <unknown>
+#18 0x7ac92409ca94 <unknown>
+#19 0x7ac924129c3c <unknown>
+
+2024-12-04 19:06:16,328 - INFO - Scraping exitoso para término: MEZCLA LÁCTEA EVAPORADA
+2024-12-04 19:06:16,329 - INFO - ====== WebDriver manager ======
+2024-12-04 19:06:16,955 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:17,056 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:17,147 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:06:37,815 - ERROR - Error scraping wong: Message: 
+
+2024-12-04 19:06:39,315 - INFO - Scraping exitoso para término: LECHE / BEBIDAS DE PRODUCTOS VEGETALES
+2024-12-04 19:06:39,325 - INFO - ====== WebDriver manager ======
+2024-12-04 19:06:39,885 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:39,987 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:40,152 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:06:45,274 - ERROR - Error scraping wong: Message: 
+
+2024-12-04 19:06:46,594 - INFO - Scraping exitoso para término: YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA
+2024-12-04 19:06:46,595 - INFO - ====== WebDriver manager ======
+2024-12-04 19:06:47,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:47,590 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:06:47,693 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:07:31,446 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x562ff956034a <unknown>
+#1 0x562ff90766e0 <unknown>
+#2 0x562ff90c53e6 <unknown>
+#3 0x562ff90c5681 <unknown>
+#4 0x562ff910ab04 <unknown>
+#5 0x562ff90e948d <unknown>
+#6 0x562ff9107ed7 <unknown>
+#7 0x562ff90e9203 <unknown>
+#8 0x562ff90b7cc0 <unknown>
+#9 0x562ff90b8c9e <unknown>
+#10 0x562ff952dd3b <unknown>
+#11 0x562ff9531cc2 <unknown>
+#12 0x562ff951ab6c <unknown>
+#13 0x562ff9532837 <unknown>
+#14 0x562ff950010f <unknown>
+#15 0x562ff954f5a8 <unknown>
+#16 0x562ff954f770 <unknown>
+#17 0x562ff955f1c6 <unknown>
+#18 0x7ef8b1a9ca94 <unknown>
+#19 0x7ef8b1b29c3c <unknown>
+
+2024-12-04 19:08:07,830 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56031d49234a <unknown>
+#1 0x56031cfa86e0 <unknown>
+#2 0x56031cff73e6 <unknown>
+#3 0x56031cff7681 <unknown>
+#4 0x56031d03cb04 <unknown>
+#5 0x56031d01b48d <unknown>
+#6 0x56031d039ed7 <unknown>
+#7 0x56031d01b203 <unknown>
+#8 0x56031cfe9cc0 <unknown>
+#9 0x56031cfeac9e <unknown>
+#10 0x56031d45fd3b <unknown>
+#11 0x56031d463cc2 <unknown>
+#12 0x56031d44cb6c <unknown>
+#13 0x56031d464837 <unknown>
+#14 0x56031d43210f <unknown>
+#15 0x56031d4815a8 <unknown>
+#16 0x56031d481770 <unknown>
+#17 0x56031d4911c6 <unknown>
+#18 0x79c55f29ca94 <unknown>
+#19 0x79c55f329c3c <unknown>
+
+2024-12-04 19:08:09,319 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5745c659734a <unknown>
+#1 0x5745c60ad6e0 <unknown>
+#2 0x5745c60fc3e6 <unknown>
+#3 0x5745c60fc681 <unknown>
+#4 0x5745c6141b04 <unknown>
+#5 0x5745c612048d <unknown>
+#6 0x5745c613eed7 <unknown>
+#7 0x5745c6120203 <unknown>
+#8 0x5745c60eecc0 <unknown>
+#9 0x5745c60efc9e <unknown>
+#10 0x5745c6564d3b <unknown>
+#11 0x5745c6568cc2 <unknown>
+#12 0x5745c6551b6c <unknown>
+#13 0x5745c6569837 <unknown>
+#14 0x5745c653710f <unknown>
+#15 0x5745c65865a8 <unknown>
+#16 0x5745c6586770 <unknown>
+#17 0x5745c65961c6 <unknown>
+#18 0x7861e089ca94 <unknown>
+#19 0x7861e0929c3c <unknown>
+
+2024-12-04 19:08:27,637 - INFO - Scraping exitoso para término: LECHE CONDENSADA
+2024-12-04 19:08:27,651 - INFO - ====== WebDriver manager ======
+2024-12-04 19:08:28,419 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:08:28,490 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:08:28,551 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:08:39,959 - INFO - Scraping exitoso para término: QUESO FRESCO DE VACA
+2024-12-04 19:08:39,962 - INFO - ====== WebDriver manager ======
+2024-12-04 19:08:40,479 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:08:40,583 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:08:40,672 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:09:42,113 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x61f99bb1534a <unknown>
+#1 0x61f99b62b6e0 <unknown>
+#2 0x61f99b67a3e6 <unknown>
+#3 0x61f99b67a681 <unknown>
+#4 0x61f99b6bfb04 <unknown>
+#5 0x61f99b69e48d <unknown>
+#6 0x61f99b6bced7 <unknown>
+#7 0x61f99b69e203 <unknown>
+#8 0x61f99b66ccc0 <unknown>
+#9 0x61f99b66dc9e <unknown>
+#10 0x61f99bae2d3b <unknown>
+#11 0x61f99bae6cc2 <unknown>
+#12 0x61f99bacfb6c <unknown>
+#13 0x61f99bae7837 <unknown>
+#14 0x61f99bab510f <unknown>
+#15 0x61f99bb045a8 <unknown>
+#16 0x61f99bb04770 <unknown>
+#17 0x61f99bb141c6 <unknown>
+#18 0x79182fe9ca94 <unknown>
+#19 0x79182ff29c3c <unknown>
+
+2024-12-04 19:09:59,742 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x590d66dd134a <unknown>
+#1 0x590d668e76e0 <unknown>
+#2 0x590d669363e6 <unknown>
+#3 0x590d66936681 <unknown>
+#4 0x590d6697bb04 <unknown>
+#5 0x590d6695a48d <unknown>
+#6 0x590d66978ed7 <unknown>
+#7 0x590d6695a203 <unknown>
+#8 0x590d66928cc0 <unknown>
+#9 0x590d66929c9e <unknown>
+#10 0x590d66d9ed3b <unknown>
+#11 0x590d66da2cc2 <unknown>
+#12 0x590d66d8bb6c <unknown>
+#13 0x590d66da3837 <unknown>
+#14 0x590d66d7110f <unknown>
+#15 0x590d66dc05a8 <unknown>
+#16 0x590d66dc0770 <unknown>
+#17 0x590d66dd01c6 <unknown>
+#18 0x70dd89c9ca94 <unknown>
+#19 0x70dd89d29c3c <unknown>
+
+2024-12-04 19:10:12,397 - INFO - Scraping exitoso para término: QUESO MANTECOSO
+2024-12-04 19:10:12,397 - INFO - ====== WebDriver manager ======
+2024-12-04 19:10:14,090 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:14,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:14,349 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:10:44,584 - INFO - Scraping exitoso para término: QUESO EDAM
+2024-12-04 19:10:44,585 - INFO - ====== WebDriver manager ======
+2024-12-04 19:10:45,100 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:45,232 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:45,243 - ERROR - Error scraping wong: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x58b50246a34a <unknown>
+#1 0x58b501f806e0 <unknown>
+#2 0x58b501f91fbb <unknown>
+#3 0x58b501f90d45 <unknown>
+#4 0x58b501f86d39 <unknown>
+#5 0x58b501f86e65 <unknown>
+#6 0x58b501f850a0 <unknown>
+#7 0x58b501f88c3e <unknown>
+#8 0x58b502012f6c <unknown>
+#9 0x58b501ff3462 <unknown>
+#10 0x58b502011ed7 <unknown>
+#11 0x58b501ff3203 <unknown>
+#12 0x58b501fc1cc0 <unknown>
+#13 0x58b501fc2c9e <unknown>
+#14 0x58b502437d3b <unknown>
+#15 0x58b50243bcc2 <unknown>
+#16 0x58b502424b6c <unknown>
+#17 0x58b50243c837 <unknown>
+#18 0x58b50240a10f <unknown>
+#19 0x58b5024595a8 <unknown>
+#20 0x58b502459770 <unknown>
+#21 0x58b5024691c6 <unknown>
+#22 0x70bfb6a9ca94 <unknown>
+#23 0x70bfb6b29c3c <unknown>
+
+2024-12-04 19:10:45,297 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:10:45,885 - INFO - Scraping exitoso para término: HUEVOS DE GALLINA
+2024-12-04 19:10:45,886 - INFO - ====== WebDriver manager ======
+2024-12-04 19:10:46,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:46,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:10:46,519 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:11:14,498 - INFO - Scraping exitoso para término: QUESO PARIA
+2024-12-04 19:11:14,498 - INFO - ====== WebDriver manager ======
+2024-12-04 19:11:14,760 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:11:14,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:11:14,866 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:13:58,908 - INFO - Scraping exitoso para término: YOGUR MIXTO EN VASO
+2024-12-04 19:13:58,917 - INFO - ====== WebDriver manager ======
+2024-12-04 19:13:59,353 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:13:59,508 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:13:59,573 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:14:28,256 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5a460e8c034a <unknown>
+#1 0x5a460e3d66e0 <unknown>
+#2 0x5a460e3dc4a3 <unknown>
+#3 0x5a460e3de968 <unknown>
+#4 0x5a460e3de9f3 <unknown>
+#5 0x5a460e4201c1 <unknown>
+#6 0x5a460e449462 <unknown>
+#7 0x5a460e419a18 <unknown>
+#8 0x5a460e44962e <unknown>
+#9 0x5a460e467ed7 <unknown>
+#10 0x5a460e449203 <unknown>
+#11 0x5a460e417cc0 <unknown>
+#12 0x5a460e418c9e <unknown>
+#13 0x5a460e88dd3b <unknown>
+#14 0x5a460e891cc2 <unknown>
+#15 0x5a460e87ab6c <unknown>
+#16 0x5a460e892837 <unknown>
+#17 0x5a460e86010f <unknown>
+#18 0x5a460e8af5a8 <unknown>
+#19 0x5a460e8af770 <unknown>
+#20 0x5a460e8bf1c6 <unknown>
+#21 0x7945b0e9ca94 <unknown>
+#22 0x7945b0f29c3c <unknown>
+
+2024-12-04 19:14:28,558 - INFO - Scraping exitoso para término: MARGARINA ENVASADA
+2024-12-04 19:14:28,567 - INFO - ====== WebDriver manager ======
+2024-12-04 19:14:29,091 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:14:29,165 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:14:29,244 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:15:30,561 - INFO - Scraping exitoso para término: ACEITE DE OLIVA
+2024-12-04 19:15:30,566 - INFO - ====== WebDriver manager ======
+2024-12-04 19:15:31,795 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:15:31,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:15:32,014 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:16:41,966 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x65089909434a <unknown>
+#1 0x650898baa6e0 <unknown>
+#2 0x650898bf93e6 <unknown>
+#3 0x650898bf9681 <unknown>
+#4 0x650898c3eb04 <unknown>
+#5 0x650898c1d48d <unknown>
+#6 0x650898c3bed7 <unknown>
+#7 0x650898c1d203 <unknown>
+#8 0x650898bebcc0 <unknown>
+#9 0x650898becc9e <unknown>
+#10 0x650899061d3b <unknown>
+#11 0x650899065cc2 <unknown>
+#12 0x65089904eb6c <unknown>
+#13 0x650899066837 <unknown>
+#14 0x65089903410f <unknown>
+#15 0x6508990835a8 <unknown>
+#16 0x650899083770 <unknown>
+#17 0x6508990931c6 <unknown>
+#18 0x7c630489ca94 <unknown>
+#19 0x7c6304929c3c <unknown>
+
+2024-12-04 19:17:19,063 - INFO - Scraping exitoso para término: MANDARINA
+2024-12-04 19:17:19,065 - INFO - ====== WebDriver manager ======
+2024-12-04 19:17:19,476 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:17:19,561 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:17:19,611 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:18:15,657 - INFO - Scraping exitoso para término: ACEITE VEGETAL ENVASADO
+2024-12-04 19:18:15,658 - INFO - ====== WebDriver manager ======
+2024-12-04 19:18:16,009 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:18:16,106 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:18:16,153 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:18:47,527 - INFO - Scraping exitoso para término: MANTEQUILLA ENVASADA
+2024-12-04 19:18:47,536 - INFO - ====== WebDriver manager ======
+2024-12-04 19:18:48,512 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:18:48,962 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:18:49,097 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:19:28,365 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x63a0b3acd34a <unknown>
+#1 0x63a0b35e36e0 <unknown>
+#2 0x63a0b36323e6 <unknown>
+#3 0x63a0b3632681 <unknown>
+#4 0x63a0b3677b04 <unknown>
+#5 0x63a0b365648d <unknown>
+#6 0x63a0b3674ed7 <unknown>
+#7 0x63a0b3656203 <unknown>
+#8 0x63a0b3624cc0 <unknown>
+#9 0x63a0b3625c9e <unknown>
+#10 0x63a0b3a9ad3b <unknown>
+#11 0x63a0b3a9ecc2 <unknown>
+#12 0x63a0b3a87b6c <unknown>
+#13 0x63a0b3a9f837 <unknown>
+#14 0x63a0b3a6d10f <unknown>
+#15 0x63a0b3abc5a8 <unknown>
+#16 0x63a0b3abc770 <unknown>
+#17 0x63a0b3acc1c6 <unknown>
+#18 0x7bfa79a9ca94 <unknown>
+#19 0x7bfa79b29c3c <unknown>
+
+2024-12-04 19:20:01,520 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5c1531b3b34a <unknown>
+#1 0x5c15316516e0 <unknown>
+#2 0x5c15316a03e6 <unknown>
+#3 0x5c15316a0681 <unknown>
+#4 0x5c15316e5b04 <unknown>
+#5 0x5c15316c448d <unknown>
+#6 0x5c15316e2ed7 <unknown>
+#7 0x5c15316c4203 <unknown>
+#8 0x5c1531692cc0 <unknown>
+#9 0x5c1531693c9e <unknown>
+#10 0x5c1531b08d3b <unknown>
+#11 0x5c1531b0ccc2 <unknown>
+#12 0x5c1531af5b6c <unknown>
+#13 0x5c1531b0d837 <unknown>
+#14 0x5c1531adb10f <unknown>
+#15 0x5c1531b2a5a8 <unknown>
+#16 0x5c1531b2a770 <unknown>
+#17 0x5c1531b3a1c6 <unknown>
+#18 0x7c7010a9ca94 <unknown>
+#19 0x7c7010b29c3c <unknown>
+
+2024-12-04 19:20:31,771 - INFO - Scraping exitoso para término: NARANJA DE MESA
+2024-12-04 19:20:31,773 - INFO - ====== WebDriver manager ======
+2024-12-04 19:20:32,909 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:20:33,028 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:20:33,110 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:21:27,229 - INFO - Scraping exitoso para término: NARANJA DE JUGO
+2024-12-04 19:21:27,233 - INFO - ====== WebDriver manager ======
+2024-12-04 19:21:27,727 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:21:27,836 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:21:27,925 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:21:57,947 - INFO - Scraping exitoso para término: LIMÓN
+2024-12-04 19:21:57,949 - INFO - ====== WebDriver manager ======
+2024-12-04 19:21:58,292 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:21:58,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:21:58,465 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:22:21,942 - INFO - Scraping exitoso para término: MARACUYÁ
+2024-12-04 19:22:21,981 - INFO - ====== WebDriver manager ======
+2024-12-04 19:22:22,700 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:22:22,827 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:22:22,895 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:27:22,564 - INFO - Scraping exitoso para término: DURAZNO HUAYCO
+2024-12-04 19:27:22,903 - INFO - ====== WebDriver manager ======
+2024-12-04 19:27:24,371 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:27:25,548 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:27:25,625 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:28:12,869 - INFO - Scraping exitoso para término: MANZANA IMPORTADA
+2024-12-04 19:28:12,875 - INFO - ====== WebDriver manager ======
+2024-12-04 19:28:13,155 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:13,287 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:13,348 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:28:16,380 - INFO - Scraping exitoso para término: MANZANA CORRIENTE
+2024-12-04 19:28:16,384 - INFO - ====== WebDriver manager ======
+2024-12-04 19:28:17,065 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:17,333 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:17,410 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:28:26,348 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64e43ab8f34a <unknown>
+#1 0x64e43a6a56e0 <unknown>
+#2 0x64e43a6f43e6 <unknown>
+#3 0x64e43a6f4681 <unknown>
+#4 0x64e43a739b04 <unknown>
+#5 0x64e43a71848d <unknown>
+#6 0x64e43a736ed7 <unknown>
+#7 0x64e43a718203 <unknown>
+#8 0x64e43a6e6cc0 <unknown>
+#9 0x64e43a6e7c9e <unknown>
+#10 0x64e43ab5cd3b <unknown>
+#11 0x64e43ab60cc2 <unknown>
+#12 0x64e43ab49b6c <unknown>
+#13 0x64e43ab61837 <unknown>
+#14 0x64e43ab2f10f <unknown>
+#15 0x64e43ab7e5a8 <unknown>
+#16 0x64e43ab7e770 <unknown>
+#17 0x64e43ab8e1c6 <unknown>
+#18 0x702243c9ca94 <unknown>
+#19 0x702243d29c3c <unknown>
+
+2024-12-04 19:28:40,075 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x560c5445b34a <unknown>
+#1 0x560c53f716e0 <unknown>
+#2 0x560c53f774a3 <unknown>
+#3 0x560c53f79968 <unknown>
+#4 0x560c53f799f3 <unknown>
+#5 0x560c53fbb1c1 <unknown>
+#6 0x560c53fe4462 <unknown>
+#7 0x560c53fb4a18 <unknown>
+#8 0x560c53fe462e <unknown>
+#9 0x560c54002ed7 <unknown>
+#10 0x560c53fe4203 <unknown>
+#11 0x560c53fb2cc0 <unknown>
+#12 0x560c53fb3c9e <unknown>
+#13 0x560c54428d3b <unknown>
+#14 0x560c5442ccc2 <unknown>
+#15 0x560c54415b6c <unknown>
+#16 0x560c5442d837 <unknown>
+#17 0x560c543fb10f <unknown>
+#18 0x560c5444a5a8 <unknown>
+#19 0x560c5444a770 <unknown>
+#20 0x560c5445a1c6 <unknown>
+#21 0x72961829ca94 <unknown>
+#22 0x729618329c3c <unknown>
+
+2024-12-04 19:28:40,529 - INFO - Scraping exitoso para término: PALTA FUERTE / MAYAR
+2024-12-04 19:28:40,542 - INFO - ====== WebDriver manager ======
+2024-12-04 19:28:40,554 - INFO - Scraping exitoso para término: MANZANA DELICIA
+2024-12-04 19:28:40,624 - INFO - ====== WebDriver manager ======
+2024-12-04 19:28:40,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:41,055 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:41,097 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:41,139 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:41,174 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:28:41,204 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:28:55,507 - INFO - Scraping exitoso para término: MANZANA ISRAEL
+2024-12-04 19:28:55,507 - INFO - ====== WebDriver manager ======
+2024-12-04 19:28:56,099 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:56,190 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:28:56,261 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:29:25,214 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5912f9c7a34a <unknown>
+#1 0x5912f97906e0 <unknown>
+#2 0x5912f97df3e6 <unknown>
+#3 0x5912f97df681 <unknown>
+#4 0x5912f9824b04 <unknown>
+#5 0x5912f980348d <unknown>
+#6 0x5912f9821ed7 <unknown>
+#7 0x5912f9803203 <unknown>
+#8 0x5912f97d1cc0 <unknown>
+#9 0x5912f97d2c9e <unknown>
+#10 0x5912f9c47d3b <unknown>
+#11 0x5912f9c4bcc2 <unknown>
+#12 0x5912f9c34b6c <unknown>
+#13 0x5912f9c4c837 <unknown>
+#14 0x5912f9c1a10f <unknown>
+#15 0x5912f9c695a8 <unknown>
+#16 0x5912f9c69770 <unknown>
+#17 0x5912f9c791c6 <unknown>
+#18 0x75ab7c89ca94 <unknown>
+#19 0x75ab7c929c3c <unknown>
+
+2024-12-04 19:29:50,632 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64ac2a13d34a <unknown>
+#1 0x64ac29c536e0 <unknown>
+#2 0x64ac29ca23e6 <unknown>
+#3 0x64ac29ca2681 <unknown>
+#4 0x64ac29ce7b04 <unknown>
+#5 0x64ac29cc648d <unknown>
+#6 0x64ac29ce4ed7 <unknown>
+#7 0x64ac29cc6203 <unknown>
+#8 0x64ac29c94cc0 <unknown>
+#9 0x64ac29c95c9e <unknown>
+#10 0x64ac2a10ad3b <unknown>
+#11 0x64ac2a10ecc2 <unknown>
+#12 0x64ac2a0f7b6c <unknown>
+#13 0x64ac2a10f837 <unknown>
+#14 0x64ac2a0dd10f <unknown>
+#15 0x64ac2a12c5a8 <unknown>
+#16 0x64ac2a12c770 <unknown>
+#17 0x64ac2a13c1c6 <unknown>
+#18 0x7eab42e9ca94 <unknown>
+#19 0x7eab42f29c3c <unknown>
+
+2024-12-04 19:29:52,895 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x622eee98c34a <unknown>
+#1 0x622eee4a26e0 <unknown>
+#2 0x622eee4f13e6 <unknown>
+#3 0x622eee4f1681 <unknown>
+#4 0x622eee536b04 <unknown>
+#5 0x622eee51548d <unknown>
+#6 0x622eee533ed7 <unknown>
+#7 0x622eee515203 <unknown>
+#8 0x622eee4e3cc0 <unknown>
+#9 0x622eee4e4c9e <unknown>
+#10 0x622eee959d3b <unknown>
+#11 0x622eee95dcc2 <unknown>
+#12 0x622eee946b6c <unknown>
+#13 0x622eee95e837 <unknown>
+#14 0x622eee92c10f <unknown>
+#15 0x622eee97b5a8 <unknown>
+#16 0x622eee97b770 <unknown>
+#17 0x622eee98b1c6 <unknown>
+#18 0x7bae4c29ca94 <unknown>
+#19 0x7bae4c329c3c <unknown>
+
+2024-12-04 19:30:02,069 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a508ace834a <unknown>
+#1 0x5a508a7fe6e0 <unknown>
+#2 0x5a508a84d3e6 <unknown>
+#3 0x5a508a84d681 <unknown>
+#4 0x5a508a892b04 <unknown>
+#5 0x5a508a87148d <unknown>
+#6 0x5a508a88fed7 <unknown>
+#7 0x5a508a871203 <unknown>
+#8 0x5a508a83fcc0 <unknown>
+#9 0x5a508a840c9e <unknown>
+#10 0x5a508acb5d3b <unknown>
+#11 0x5a508acb9cc2 <unknown>
+#12 0x5a508aca2b6c <unknown>
+#13 0x5a508acba837 <unknown>
+#14 0x5a508ac8810f <unknown>
+#15 0x5a508acd75a8 <unknown>
+#16 0x5a508acd7770 <unknown>
+#17 0x5a508ace71c6 <unknown>
+#18 0x72e5aec9ca94 <unknown>
+#19 0x72e5aed29c3c <unknown>
+
+2024-12-04 19:30:08,636 - INFO - Scraping exitoso para término: PAPAYA
+2024-12-04 19:30:08,636 - INFO - ====== WebDriver manager ======
+2024-12-04 19:30:09,170 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:09,278 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:09,371 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:30:18,348 - INFO - Scraping exitoso para término: PLÁTANO DE LA ISLA
+2024-12-04 19:30:18,359 - INFO - ====== WebDriver manager ======
+2024-12-04 19:30:19,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:19,189 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:19,299 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:30:20,531 - INFO - Scraping exitoso para término: PLÁTANO BISCOCHO
+2024-12-04 19:30:20,535 - INFO - ====== WebDriver manager ======
+2024-12-04 19:30:21,388 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:21,537 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:21,619 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:30:30,866 - INFO - Scraping exitoso para término: PLÁTANO DE SEDA
+2024-12-04 19:30:30,867 - INFO - ====== WebDriver manager ======
+2024-12-04 19:30:31,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:31,470 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:30:31,618 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:31:17,739 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5eb382b0134a <unknown>
+#1 0x5eb3826176e0 <unknown>
+#2 0x5eb3826663e6 <unknown>
+#3 0x5eb382666681 <unknown>
+#4 0x5eb3826abb04 <unknown>
+#5 0x5eb38268a48d <unknown>
+#6 0x5eb3826a8ed7 <unknown>
+#7 0x5eb38268a203 <unknown>
+#8 0x5eb382658cc0 <unknown>
+#9 0x5eb382659c9e <unknown>
+#10 0x5eb382aced3b <unknown>
+#11 0x5eb382ad2cc2 <unknown>
+#12 0x5eb382abbb6c <unknown>
+#13 0x5eb382ad3837 <unknown>
+#14 0x5eb382aa110f <unknown>
+#15 0x5eb382af05a8 <unknown>
+#16 0x5eb382af0770 <unknown>
+#17 0x5eb382b001c6 <unknown>
+#18 0x73f6bea9ca94 <unknown>
+#19 0x73f6beb29c3c <unknown>
+
+2024-12-04 19:31:30,361 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x55db3a8fb34a <unknown>
+#1 0x55db3a4116e0 <unknown>
+#2 0x55db3a4603e6 <unknown>
+#3 0x55db3a460681 <unknown>
+#4 0x55db3a4a5b04 <unknown>
+#5 0x55db3a48448d <unknown>
+#6 0x55db3a4a2ed7 <unknown>
+#7 0x55db3a484203 <unknown>
+#8 0x55db3a452cc0 <unknown>
+#9 0x55db3a453c9e <unknown>
+#10 0x55db3a8c8d3b <unknown>
+#11 0x55db3a8cccc2 <unknown>
+#12 0x55db3a8b5b6c <unknown>
+#13 0x55db3a8cd837 <unknown>
+#14 0x55db3a89b10f <unknown>
+#15 0x55db3a8ea5a8 <unknown>
+#16 0x55db3a8ea770 <unknown>
+#17 0x55db3a8fa1c6 <unknown>
+#18 0x71934469ca94 <unknown>
+#19 0x719344729c3c <unknown>
+
+2024-12-04 19:31:30,384 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59954370e34a <unknown>
+#1 0x5995432246e0 <unknown>
+#2 0x5995432733e6 <unknown>
+#3 0x599543273681 <unknown>
+#4 0x5995432b8b04 <unknown>
+#5 0x59954329748d <unknown>
+#6 0x5995432b5ed7 <unknown>
+#7 0x599543297203 <unknown>
+#8 0x599543265cc0 <unknown>
+#9 0x599543266c9e <unknown>
+#10 0x5995436dbd3b <unknown>
+#11 0x5995436dfcc2 <unknown>
+#12 0x5995436c8b6c <unknown>
+#13 0x5995436e0837 <unknown>
+#14 0x5995436ae10f <unknown>
+#15 0x5995436fd5a8 <unknown>
+#16 0x5995436fd770 <unknown>
+#17 0x59954370d1c6 <unknown>
+#18 0x7389b509ca94 <unknown>
+#19 0x7389b5129c3c <unknown>
+
+2024-12-04 19:31:53,325 - INFO - Scraping exitoso para término: UVA NEGRA
+2024-12-04 19:31:53,327 - INFO - ====== WebDriver manager ======
+2024-12-04 19:31:53,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:31:53,679 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:31:53,796 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:32:05,335 - ERROR - Error scraping wong: Message: 
+
+2024-12-04 19:32:05,875 - INFO - Scraping exitoso para término: UVA BLANCA
+2024-12-04 19:32:05,876 - INFO - ====== WebDriver manager ======
+2024-12-04 19:32:06,003 - INFO - Scraping exitoso para término: PLÁTANO VERDE - INGUIRI O BELLACO
+2024-12-04 19:32:06,017 - INFO - ====== WebDriver manager ======
+2024-12-04 19:32:06,486 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:32:06,555 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:32:06,570 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:32:06,627 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:32:06,662 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:32:06,724 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:33:15,608 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x651afa66f34a <unknown>
+#1 0x651afa1856e0 <unknown>
+#2 0x651afa1d43e6 <unknown>
+#3 0x651afa1d4681 <unknown>
+#4 0x651afa219b04 <unknown>
+#5 0x651afa1f848d <unknown>
+#6 0x651afa216ed7 <unknown>
+#7 0x651afa1f8203 <unknown>
+#8 0x651afa1c6cc0 <unknown>
+#9 0x651afa1c7c9e <unknown>
+#10 0x651afa63cd3b <unknown>
+#11 0x651afa640cc2 <unknown>
+#12 0x651afa629b6c <unknown>
+#13 0x651afa641837 <unknown>
+#14 0x651afa60f10f <unknown>
+#15 0x651afa65e5a8 <unknown>
+#16 0x651afa65e770 <unknown>
+#17 0x651afa66e1c6 <unknown>
+#18 0x79f007a9ca94 <unknown>
+#19 0x79f007b29c3c <unknown>
+
+2024-12-04 19:33:25,788 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d0bd54e634a <unknown>
+#1 0x5d0bd4ffc6e0 <unknown>
+#2 0x5d0bd504b3e6 <unknown>
+#3 0x5d0bd504b681 <unknown>
+#4 0x5d0bd5090b04 <unknown>
+#5 0x5d0bd506f48d <unknown>
+#6 0x5d0bd508ded7 <unknown>
+#7 0x5d0bd506f203 <unknown>
+#8 0x5d0bd503dcc0 <unknown>
+#9 0x5d0bd503ec9e <unknown>
+#10 0x5d0bd54b3d3b <unknown>
+#11 0x5d0bd54b7cc2 <unknown>
+#12 0x5d0bd54a0b6c <unknown>
+#13 0x5d0bd54b8837 <unknown>
+#14 0x5d0bd548610f <unknown>
+#15 0x5d0bd54d55a8 <unknown>
+#16 0x5d0bd54d5770 <unknown>
+#17 0x5d0bd54e51c6 <unknown>
+#18 0x76ea3649ca94 <unknown>
+#19 0x76ea36529c3c <unknown>
+
+2024-12-04 19:34:02,200 - INFO - Scraping exitoso para término: GRANADILLA
+2024-12-04 19:34:02,334 - INFO - ====== WebDriver manager ======
+2024-12-04 19:34:04,094 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:34:04,541 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:34:04,631 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:35:08,838 - INFO - Scraping exitoso para término: MANGO
+2024-12-04 19:35:08,846 - INFO - ====== WebDriver manager ======
+2024-12-04 19:35:09,270 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:35:09,574 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:35:09,629 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:35:15,922 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56953235b34a <unknown>
+#1 0x569531e716e0 <unknown>
+#2 0x569531ec03e6 <unknown>
+#3 0x569531ec0681 <unknown>
+#4 0x569531f05b04 <unknown>
+#5 0x569531ee448d <unknown>
+#6 0x569531f02ed7 <unknown>
+#7 0x569531ee4203 <unknown>
+#8 0x569531eb2cc0 <unknown>
+#9 0x569531eb3c9e <unknown>
+#10 0x569532328d3b <unknown>
+#11 0x56953232ccc2 <unknown>
+#12 0x569532315b6c <unknown>
+#13 0x56953232d837 <unknown>
+#14 0x5695322fb10f <unknown>
+#15 0x56953234a5a8 <unknown>
+#16 0x56953234a770 <unknown>
+#17 0x56953235a1c6 <unknown>
+#18 0x71de1be9ca94 <unknown>
+#19 0x71de1bf29c3c <unknown>
+
+2024-12-04 19:35:18,281 - INFO - Scraping exitoso para término: ARÁNDANOS
+2024-12-04 19:35:18,285 - INFO - ====== WebDriver manager ======
+2024-12-04 19:35:19,009 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:35:19,083 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:35:19,166 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:36:01,787 - INFO - Scraping exitoso para término: MELÓN
+2024-12-04 19:36:01,792 - INFO - ====== WebDriver manager ======
+2024-12-04 19:36:02,014 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:02,073 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:02,135 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:36:17,598 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x639ff235934a <unknown>
+#1 0x639ff1e6f6e0 <unknown>
+#2 0x639ff1ebe3e6 <unknown>
+#3 0x639ff1ebe681 <unknown>
+#4 0x639ff1f03b04 <unknown>
+#5 0x639ff1ee248d <unknown>
+#6 0x639ff1f00ed7 <unknown>
+#7 0x639ff1ee2203 <unknown>
+#8 0x639ff1eb0cc0 <unknown>
+#9 0x639ff1eb1c9e <unknown>
+#10 0x639ff2326d3b <unknown>
+#11 0x639ff232acc2 <unknown>
+#12 0x639ff2313b6c <unknown>
+#13 0x639ff232b837 <unknown>
+#14 0x639ff22f910f <unknown>
+#15 0x639ff23485a8 <unknown>
+#16 0x639ff2348770 <unknown>
+#17 0x639ff23581c6 <unknown>
+#18 0x7fe1db09ca94 <unknown>
+#19 0x7fe1db129c3c <unknown>
+
+2024-12-04 19:36:30,957 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56b31659334a <unknown>
+#1 0x56b3160a96e0 <unknown>
+#2 0x56b3160f83e6 <unknown>
+#3 0x56b3160f8681 <unknown>
+#4 0x56b31613db04 <unknown>
+#5 0x56b31611c48d <unknown>
+#6 0x56b31613aed7 <unknown>
+#7 0x56b31611c203 <unknown>
+#8 0x56b3160eacc0 <unknown>
+#9 0x56b3160ebc9e <unknown>
+#10 0x56b316560d3b <unknown>
+#11 0x56b316564cc2 <unknown>
+#12 0x56b31654db6c <unknown>
+#13 0x56b316565837 <unknown>
+#14 0x56b31653310f <unknown>
+#15 0x56b3165825a8 <unknown>
+#16 0x56b316582770 <unknown>
+#17 0x56b3165921c6 <unknown>
+#18 0x768b8da9ca94 <unknown>
+#19 0x768b8db29c3c <unknown>
+
+2024-12-04 19:36:37,106 - INFO - Scraping exitoso para término: FRESA
+2024-12-04 19:36:37,112 - INFO - ====== WebDriver manager ======
+2024-12-04 19:36:37,542 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:37,734 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:37,837 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:36:46,398 - INFO - Scraping exitoso para término: PEPINO
+2024-12-04 19:36:46,398 - INFO - ====== WebDriver manager ======
+2024-12-04 19:36:46,898 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:46,964 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:36:47,043 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:37:00,061 - INFO - Scraping exitoso para término: PERA DE AGUA
+2024-12-04 19:37:00,068 - INFO - ====== WebDriver manager ======
+2024-12-04 19:37:00,522 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:37:00,579 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:37:00,637 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:37:49,875 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5dc68f3ea34a <unknown>
+#1 0x5dc68ef006e0 <unknown>
+#2 0x5dc68ef4f3e6 <unknown>
+#3 0x5dc68ef4f681 <unknown>
+#4 0x5dc68ef94b04 <unknown>
+#5 0x5dc68ef7348d <unknown>
+#6 0x5dc68ef91ed7 <unknown>
+#7 0x5dc68ef73203 <unknown>
+#8 0x5dc68ef41cc0 <unknown>
+#9 0x5dc68ef42c9e <unknown>
+#10 0x5dc68f3b7d3b <unknown>
+#11 0x5dc68f3bbcc2 <unknown>
+#12 0x5dc68f3a4b6c <unknown>
+#13 0x5dc68f3bc837 <unknown>
+#14 0x5dc68f38a10f <unknown>
+#15 0x5dc68f3d95a8 <unknown>
+#16 0x5dc68f3d9770 <unknown>
+#17 0x5dc68f3e91c6 <unknown>
+#18 0x797ca9c9ca94 <unknown>
+#19 0x797ca9d29c3c <unknown>
+
+2024-12-04 19:37:54,282 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x61eb3f28934a <unknown>
+#1 0x61eb3ed9f6e0 <unknown>
+#2 0x61eb3edee3e6 <unknown>
+#3 0x61eb3edee681 <unknown>
+#4 0x61eb3ee33b04 <unknown>
+#5 0x61eb3ee1248d <unknown>
+#6 0x61eb3ee30ed7 <unknown>
+#7 0x61eb3ee12203 <unknown>
+#8 0x61eb3ede0cc0 <unknown>
+#9 0x61eb3ede1c9e <unknown>
+#10 0x61eb3f256d3b <unknown>
+#11 0x61eb3f25acc2 <unknown>
+#12 0x61eb3f243b6c <unknown>
+#13 0x61eb3f25b837 <unknown>
+#14 0x61eb3f22910f <unknown>
+#15 0x61eb3f2785a8 <unknown>
+#16 0x61eb3f278770 <unknown>
+#17 0x61eb3f2881c6 <unknown>
+#18 0x72f6bcc9ca94 <unknown>
+#19 0x72f6bcd29c3c <unknown>
+
+2024-12-04 19:38:12,513 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64b729c9834a <unknown>
+#1 0x64b7297ae6e0 <unknown>
+#2 0x64b7297fd3e6 <unknown>
+#3 0x64b7297fd681 <unknown>
+#4 0x64b729842b04 <unknown>
+#5 0x64b72982148d <unknown>
+#6 0x64b72983fed7 <unknown>
+#7 0x64b729821203 <unknown>
+#8 0x64b7297efcc0 <unknown>
+#9 0x64b7297f0c9e <unknown>
+#10 0x64b729c65d3b <unknown>
+#11 0x64b729c69cc2 <unknown>
+#12 0x64b729c52b6c <unknown>
+#13 0x64b729c6a837 <unknown>
+#14 0x64b729c3810f <unknown>
+#15 0x64b729c875a8 <unknown>
+#16 0x64b729c87770 <unknown>
+#17 0x64b729c971c6 <unknown>
+#18 0x771b0809ca94 <unknown>
+#19 0x771b08129c3c <unknown>
+
+2024-12-04 19:38:27,670 - INFO - Scraping exitoso para término: TUNA
+2024-12-04 19:38:27,673 - INFO - ====== WebDriver manager ======
+2024-12-04 19:38:28,017 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:38:28,079 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:38:28,132 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:39:13,076 - INFO - Scraping exitoso para término: SANDÍA
+2024-12-04 19:39:13,101 - INFO - ====== WebDriver manager ======
+2024-12-04 19:39:14,837 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:39:14,934 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:39:15,098 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:39:35,758 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5602a2a6234a <unknown>
+#1 0x5602a25786e0 <unknown>
+#2 0x5602a25c73e6 <unknown>
+#3 0x5602a25c7681 <unknown>
+#4 0x5602a260cb04 <unknown>
+#5 0x5602a25eb48d <unknown>
+#6 0x5602a2609ed7 <unknown>
+#7 0x5602a25eb203 <unknown>
+#8 0x5602a25b9cc0 <unknown>
+#9 0x5602a25bac9e <unknown>
+#10 0x5602a2a2fd3b <unknown>
+#11 0x5602a2a33cc2 <unknown>
+#12 0x5602a2a1cb6c <unknown>
+#13 0x5602a2a34837 <unknown>
+#14 0x5602a2a0210f <unknown>
+#15 0x5602a2a515a8 <unknown>
+#16 0x5602a2a51770 <unknown>
+#17 0x5602a2a611c6 <unknown>
+#18 0x7d482849ca94 <unknown>
+#19 0x7d4828529c3c <unknown>
+
+2024-12-04 19:40:11,457 - INFO - Scraping exitoso para término: DURAZNO EN CONSERVA
+2024-12-04 19:40:11,467 - INFO - ====== WebDriver manager ======
+2024-12-04 19:40:12,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:12,091 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:12,182 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:40:14,782 - INFO - Scraping exitoso para término: PASAS
+2024-12-04 19:40:14,785 - INFO - ====== WebDriver manager ======
+2024-12-04 19:40:15,293 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:15,385 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:15,450 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:40:28,420 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x6131fb95134a <unknown>
+#1 0x6131fb4676e0 <unknown>
+#2 0x6131fb4b63e6 <unknown>
+#3 0x6131fb4b6681 <unknown>
+#4 0x6131fb4fbb04 <unknown>
+#5 0x6131fb4da48d <unknown>
+#6 0x6131fb4f8ed7 <unknown>
+#7 0x6131fb4da203 <unknown>
+#8 0x6131fb4a8cc0 <unknown>
+#9 0x6131fb4a9c9e <unknown>
+#10 0x6131fb91ed3b <unknown>
+#11 0x6131fb922cc2 <unknown>
+#12 0x6131fb90bb6c <unknown>
+#13 0x6131fb923837 <unknown>
+#14 0x6131fb8f110f <unknown>
+#15 0x6131fb9405a8 <unknown>
+#16 0x6131fb940770 <unknown>
+#17 0x6131fb9501c6 <unknown>
+#18 0x7e636869ca94 <unknown>
+#19 0x7e6368729c3c <unknown>
+
+2024-12-04 19:40:44,352 - ERROR - Error scraping wong: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5f5e9829334a <unknown>
+#1 0x5f5e97da96e0 <unknown>
+#2 0x5f5e97dbafbb <unknown>
+#3 0x5f5e97db9d45 <unknown>
+#4 0x5f5e97dafd39 <unknown>
+#5 0x5f5e97dafe65 <unknown>
+#6 0x5f5e97dae0a0 <unknown>
+#7 0x5f5e97db1c3e <unknown>
+#8 0x5f5e97e3bf6c <unknown>
+#9 0x5f5e97e1c462 <unknown>
+#10 0x5f5e97e3aed7 <unknown>
+#11 0x5f5e97e1c203 <unknown>
+#12 0x5f5e97deacc0 <unknown>
+#13 0x5f5e97debc9e <unknown>
+#14 0x5f5e98260d3b <unknown>
+#15 0x5f5e98264cc2 <unknown>
+#16 0x5f5e9824db6c <unknown>
+#17 0x5f5e98265837 <unknown>
+#18 0x5f5e9823310f <unknown>
+#19 0x5f5e982825a8 <unknown>
+#20 0x5f5e98282770 <unknown>
+#21 0x5f5e982921c6 <unknown>
+#22 0x7d6a1729ca94 <unknown>
+#23 0x7d6a17329c3c <unknown>
+
+2024-12-04 19:40:44,940 - INFO - Scraping exitoso para término: ESPINACA
+2024-12-04 19:40:45,028 - INFO - ====== WebDriver manager ======
+2024-12-04 19:40:45,443 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:45,584 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:40:45,676 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:41:23,724 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59e96083f34a <unknown>
+#1 0x59e9603556e0 <unknown>
+#2 0x59e9603a43e6 <unknown>
+#3 0x59e9603a4681 <unknown>
+#4 0x59e9603e9b04 <unknown>
+#5 0x59e9603c848d <unknown>
+#6 0x59e9603e6ed7 <unknown>
+#7 0x59e9603c8203 <unknown>
+#8 0x59e960396cc0 <unknown>
+#9 0x59e960397c9e <unknown>
+#10 0x59e96080cd3b <unknown>
+#11 0x59e960810cc2 <unknown>
+#12 0x59e9607f9b6c <unknown>
+#13 0x59e960811837 <unknown>
+#14 0x59e9607df10f <unknown>
+#15 0x59e96082e5a8 <unknown>
+#16 0x59e96082e770 <unknown>
+#17 0x59e96083e1c6 <unknown>
+#18 0x71c76229ca94 <unknown>
+#19 0x71c762329c3c <unknown>
+
+2024-12-04 19:41:53,905 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a42cd11934a <unknown>
+#1 0x5a42ccc2f6e0 <unknown>
+#2 0x5a42ccc7e3e6 <unknown>
+#3 0x5a42ccc7e681 <unknown>
+#4 0x5a42cccc3b04 <unknown>
+#5 0x5a42ccca248d <unknown>
+#6 0x5a42cccc0ed7 <unknown>
+#7 0x5a42ccca2203 <unknown>
+#8 0x5a42ccc70cc0 <unknown>
+#9 0x5a42ccc71c9e <unknown>
+#10 0x5a42cd0e6d3b <unknown>
+#11 0x5a42cd0eacc2 <unknown>
+#12 0x5a42cd0d3b6c <unknown>
+#13 0x5a42cd0eb837 <unknown>
+#14 0x5a42cd0b910f <unknown>
+#15 0x5a42cd1085a8 <unknown>
+#16 0x5a42cd108770 <unknown>
+#17 0x5a42cd1181c6 <unknown>
+#18 0x75aef4a9ca94 <unknown>
+#19 0x75aef4b29c3c <unknown>
+
+2024-12-04 19:41:56,632 - INFO - Scraping exitoso para término: APIO
+2024-12-04 19:41:56,634 - INFO - ====== WebDriver manager ======
+2024-12-04 19:41:56,966 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:41:57,099 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:41:57,165 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:41:57,176 - INFO - Scraping exitoso para término: PECANAS
+2024-12-04 19:41:57,179 - INFO - ====== WebDriver manager ======
+2024-12-04 19:41:57,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:41:57,476 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:41:57,522 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:43:13,583 - INFO - Scraping exitoso para término: PIÑA
+2024-12-04 19:43:13,584 - INFO - ====== WebDriver manager ======
+2024-12-04 19:43:13,803 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:13,883 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:13,936 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:43:16,855 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a3cf3dd634a <unknown>
+#1 0x5a3cf38ec6e0 <unknown>
+#2 0x5a3cf393b3e6 <unknown>
+#3 0x5a3cf393b681 <unknown>
+#4 0x5a3cf3980b04 <unknown>
+#5 0x5a3cf395f48d <unknown>
+#6 0x5a3cf397ded7 <unknown>
+#7 0x5a3cf395f203 <unknown>
+#8 0x5a3cf392dcc0 <unknown>
+#9 0x5a3cf392ec9e <unknown>
+#10 0x5a3cf3da3d3b <unknown>
+#11 0x5a3cf3da7cc2 <unknown>
+#12 0x5a3cf3d90b6c <unknown>
+#13 0x5a3cf3da8837 <unknown>
+#14 0x5a3cf3d7610f <unknown>
+#15 0x5a3cf3dc55a8 <unknown>
+#16 0x5a3cf3dc5770 <unknown>
+#17 0x5a3cf3dd51c6 <unknown>
+#18 0x7abdc929ca94 <unknown>
+#19 0x7abdc9329c3c <unknown>
+
+2024-12-04 19:43:17,689 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64022023034a <unknown>
+#1 0x64021fd466e0 <unknown>
+#2 0x64021fd953e6 <unknown>
+#3 0x64021fd95681 <unknown>
+#4 0x64021fddab04 <unknown>
+#5 0x64021fdb948d <unknown>
+#6 0x64021fdd7ed7 <unknown>
+#7 0x64021fdb9203 <unknown>
+#8 0x64021fd87cc0 <unknown>
+#9 0x64021fd88c9e <unknown>
+#10 0x6402201fdd3b <unknown>
+#11 0x640220201cc2 <unknown>
+#12 0x6402201eab6c <unknown>
+#13 0x640220202837 <unknown>
+#14 0x6402201d010f <unknown>
+#15 0x64022021f5a8 <unknown>
+#16 0x64022021f770 <unknown>
+#17 0x64022022f1c6 <unknown>
+#18 0x790e2469ca94 <unknown>
+#19 0x790e24729c3c <unknown>
+
+2024-12-04 19:43:36,753 - INFO - Scraping exitoso para término: LECHUGA
+2024-12-04 19:43:36,768 - INFO - ====== WebDriver manager ======
+2024-12-04 19:43:37,290 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:37,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:37,536 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:43:47,510 - INFO - Scraping exitoso para término: COLIFLOR
+2024-12-04 19:43:47,517 - INFO - ====== WebDriver manager ======
+2024-12-04 19:43:48,518 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:48,643 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:48,750 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:43:56,342 - INFO - Scraping exitoso para término: BRÓCOLI
+2024-12-04 19:43:56,388 - INFO - ====== WebDriver manager ======
+2024-12-04 19:43:57,805 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:57,941 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:43:58,113 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:44:26,447 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56e508fd434a <unknown>
+#1 0x56e508aea6e0 <unknown>
+#2 0x56e508b393e6 <unknown>
+#3 0x56e508b39681 <unknown>
+#4 0x56e508b7eb04 <unknown>
+#5 0x56e508b5d48d <unknown>
+#6 0x56e508b7bed7 <unknown>
+#7 0x56e508b5d203 <unknown>
+#8 0x56e508b2bcc0 <unknown>
+#9 0x56e508b2cc9e <unknown>
+#10 0x56e508fa1d3b <unknown>
+#11 0x56e508fa5cc2 <unknown>
+#12 0x56e508f8eb6c <unknown>
+#13 0x56e508fa6837 <unknown>
+#14 0x56e508f7410f <unknown>
+#15 0x56e508fc35a8 <unknown>
+#16 0x56e508fc3770 <unknown>
+#17 0x56e508fd31c6 <unknown>
+#18 0x700ac7e9ca94 <unknown>
+#19 0x700ac7f29c3c <unknown>
+
+2024-12-04 19:44:56,167 - INFO - Scraping exitoso para término: AJÍ PIMIENTO
+2024-12-04 19:44:56,168 - INFO - ====== WebDriver manager ======
+2024-12-04 19:44:56,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:44:56,502 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:44:56,571 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:45:10,312 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5faf30fc434a <unknown>
+#1 0x5faf30ada6e0 <unknown>
+#2 0x5faf30b293e6 <unknown>
+#3 0x5faf30b29681 <unknown>
+#4 0x5faf30b6eb04 <unknown>
+#5 0x5faf30b4d48d <unknown>
+#6 0x5faf30b6bed7 <unknown>
+#7 0x5faf30b4d203 <unknown>
+#8 0x5faf30b1bcc0 <unknown>
+#9 0x5faf30b1cc9e <unknown>
+#10 0x5faf30f91d3b <unknown>
+#11 0x5faf30f95cc2 <unknown>
+#12 0x5faf30f7eb6c <unknown>
+#13 0x5faf30f96837 <unknown>
+#14 0x5faf30f6410f <unknown>
+#15 0x5faf30fb35a8 <unknown>
+#16 0x5faf30fb3770 <unknown>
+#17 0x5faf30fc31c6 <unknown>
+#18 0x774af389ca94 <unknown>
+#19 0x774af3929c3c <unknown>
+
+2024-12-04 19:45:38,644 - INFO - Scraping exitoso para término: ZAPALLO MACRE
+2024-12-04 19:45:38,645 - INFO - ====== WebDriver manager ======
+2024-12-04 19:45:39,184 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:45:39,277 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:45:39,341 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:46:51,041 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64b59bc9234a <unknown>
+#1 0x64b59b7a86e0 <unknown>
+#2 0x64b59b7f73e6 <unknown>
+#3 0x64b59b7f7681 <unknown>
+#4 0x64b59b83cb04 <unknown>
+#5 0x64b59b81b48d <unknown>
+#6 0x64b59b839ed7 <unknown>
+#7 0x64b59b81b203 <unknown>
+#8 0x64b59b7e9cc0 <unknown>
+#9 0x64b59b7eac9e <unknown>
+#10 0x64b59bc5fd3b <unknown>
+#11 0x64b59bc63cc2 <unknown>
+#12 0x64b59bc4cb6c <unknown>
+#13 0x64b59bc64837 <unknown>
+#14 0x64b59bc3210f <unknown>
+#15 0x64b59bc815a8 <unknown>
+#16 0x64b59bc81770 <unknown>
+#17 0x64b59bc911c6 <unknown>
+#18 0x76f8eb69ca94 <unknown>
+#19 0x76f8eb729c3c <unknown>
+
+2024-12-04 19:47:46,062 - INFO - Scraping exitoso para término: PEPINILLO
+2024-12-04 19:47:46,075 - INFO - ====== WebDriver manager ======
+2024-12-04 19:47:47,213 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:47:47,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:47:47,526 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:48:58,105 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x60fcd2b2934a <unknown>
+#1 0x60fcd263f6e0 <unknown>
+#2 0x60fcd268e3e6 <unknown>
+#3 0x60fcd268e681 <unknown>
+#4 0x60fcd26d3b04 <unknown>
+#5 0x60fcd26b248d <unknown>
+#6 0x60fcd26d0ed7 <unknown>
+#7 0x60fcd26b2203 <unknown>
+#8 0x60fcd2680cc0 <unknown>
+#9 0x60fcd2681c9e <unknown>
+#10 0x60fcd2af6d3b <unknown>
+#11 0x60fcd2afacc2 <unknown>
+#12 0x60fcd2ae3b6c <unknown>
+#13 0x60fcd2afb837 <unknown>
+#14 0x60fcd2ac910f <unknown>
+#15 0x60fcd2b185a8 <unknown>
+#16 0x60fcd2b18770 <unknown>
+#17 0x60fcd2b281c6 <unknown>
+#18 0x7681c809ca94 <unknown>
+#19 0x7681c8129c3c <unknown>
+
+2024-12-04 19:49:24,380 - ERROR - Error en scraping para término AJÍ AMARILLO (VERDE / ESCABECHE): Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/wong/2024_12_04/wong_AJÍ AMARILLO (VERDE '
+2024-12-04 19:49:24,386 - INFO - ====== WebDriver manager ======
+2024-12-04 19:49:24,685 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:25,288 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:25,339 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:49:26,087 - INFO - Scraping exitoso para término: TOMATE ITALIANO O MARSANO
+2024-12-04 19:49:26,102 - INFO - ====== WebDriver manager ======
+2024-12-04 19:49:26,654 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:26,909 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:26,959 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:49:28,573 - INFO - Scraping exitoso para término: ARVEJA VERDE
+2024-12-04 19:49:28,577 - INFO - ====== WebDriver manager ======
+2024-12-04 19:49:29,115 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:29,199 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:49:29,302 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:50:29,640 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59f3a35ec34a <unknown>
+#1 0x59f3a31026e0 <unknown>
+#2 0x59f3a31513e6 <unknown>
+#3 0x59f3a3151681 <unknown>
+#4 0x59f3a3196b04 <unknown>
+#5 0x59f3a317548d <unknown>
+#6 0x59f3a3193ed7 <unknown>
+#7 0x59f3a3175203 <unknown>
+#8 0x59f3a3143cc0 <unknown>
+#9 0x59f3a3144c9e <unknown>
+#10 0x59f3a35b9d3b <unknown>
+#11 0x59f3a35bdcc2 <unknown>
+#12 0x59f3a35a6b6c <unknown>
+#13 0x59f3a35be837 <unknown>
+#14 0x59f3a358c10f <unknown>
+#15 0x59f3a35db5a8 <unknown>
+#16 0x59f3a35db770 <unknown>
+#17 0x59f3a35eb1c6 <unknown>
+#18 0x7eda2f49ca94 <unknown>
+#19 0x7eda2f529c3c <unknown>
+
+2024-12-04 19:50:30,388 - ERROR - Error en scraping para término CHOCLO CRIOLLO / SERRANO: Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/wong/2024_12_04/wong_CHOCLO CRIOLLO '
+2024-12-04 19:50:30,397 - INFO - ====== WebDriver manager ======
+2024-12-04 19:50:30,779 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:50:30,926 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:50:30,993 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:50:35,875 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5f162669a34a <unknown>
+#1 0x5f16261b06e0 <unknown>
+#2 0x5f16261ff3e6 <unknown>
+#3 0x5f16261ff681 <unknown>
+#4 0x5f1626244b04 <unknown>
+#5 0x5f162622348d <unknown>
+#6 0x5f1626241ed7 <unknown>
+#7 0x5f1626223203 <unknown>
+#8 0x5f16261f1cc0 <unknown>
+#9 0x5f16261f2c9e <unknown>
+#10 0x5f1626667d3b <unknown>
+#11 0x5f162666bcc2 <unknown>
+#12 0x5f1626654b6c <unknown>
+#13 0x5f162666c837 <unknown>
+#14 0x5f162663a10f <unknown>
+#15 0x5f16266895a8 <unknown>
+#16 0x5f1626689770 <unknown>
+#17 0x5f16266991c6 <unknown>
+#18 0x77d67c89ca94 <unknown>
+#19 0x77d67c929c3c <unknown>
+
+2024-12-04 19:50:58,956 - INFO - Scraping exitoso para término: HABA VERDE
+2024-12-04 19:50:58,972 - INFO - ====== WebDriver manager ======
+2024-12-04 19:50:59,483 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:50:59,572 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:50:59,735 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:51:04,285 - INFO - Scraping exitoso para término: AJO ENTERO
+2024-12-04 19:51:04,301 - INFO - ====== WebDriver manager ======
+2024-12-04 19:51:04,840 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:51:04,914 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:51:05,028 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:51:38,066 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x591d7bf0934a <unknown>
+#1 0x591d7ba1f6e0 <unknown>
+#2 0x591d7ba6e3e6 <unknown>
+#3 0x591d7ba6e681 <unknown>
+#4 0x591d7bab3b04 <unknown>
+#5 0x591d7ba9248d <unknown>
+#6 0x591d7bab0ed7 <unknown>
+#7 0x591d7ba92203 <unknown>
+#8 0x591d7ba60cc0 <unknown>
+#9 0x591d7ba61c9e <unknown>
+#10 0x591d7bed6d3b <unknown>
+#11 0x591d7bedacc2 <unknown>
+#12 0x591d7bec3b6c <unknown>
+#13 0x591d7bedb837 <unknown>
+#14 0x591d7bea910f <unknown>
+#15 0x591d7bef85a8 <unknown>
+#16 0x591d7bef8770 <unknown>
+#17 0x591d7bf081c6 <unknown>
+#18 0x73e72dc9ca94 <unknown>
+#19 0x73e72dd29c3c <unknown>
+
+2024-12-04 19:52:02,301 - INFO - Scraping exitoso para término: BETARRAGA
+2024-12-04 19:52:02,302 - INFO - ====== WebDriver manager ======
+2024-12-04 19:52:02,681 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:52:02,766 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:52:02,848 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:52:11,278 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5aa3feaf934a <unknown>
+#1 0x5aa3fe60f6e0 <unknown>
+#2 0x5aa3fe65e3e6 <unknown>
+#3 0x5aa3fe65e681 <unknown>
+#4 0x5aa3fe6a3b04 <unknown>
+#5 0x5aa3fe68248d <unknown>
+#6 0x5aa3fe6a0ed7 <unknown>
+#7 0x5aa3fe682203 <unknown>
+#8 0x5aa3fe650cc0 <unknown>
+#9 0x5aa3fe651c9e <unknown>
+#10 0x5aa3feac6d3b <unknown>
+#11 0x5aa3feacacc2 <unknown>
+#12 0x5aa3feab3b6c <unknown>
+#13 0x5aa3feacb837 <unknown>
+#14 0x5aa3fea9910f <unknown>
+#15 0x5aa3feae85a8 <unknown>
+#16 0x5aa3feae8770 <unknown>
+#17 0x5aa3feaf81c6 <unknown>
+#18 0x79b7b829ca94 <unknown>
+#19 0x79b7b8329c3c <unknown>
+
+2024-12-04 19:52:38,829 - INFO - Scraping exitoso para término: CEBOLLA CHINA
+2024-12-04 19:52:38,830 - INFO - ====== WebDriver manager ======
+2024-12-04 19:52:39,509 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:52:39,581 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:52:39,644 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:53:12,993 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d0f0745134a <unknown>
+#1 0x5d0f06f676e0 <unknown>
+#2 0x5d0f06fb63e6 <unknown>
+#3 0x5d0f06fb6681 <unknown>
+#4 0x5d0f06ffbb04 <unknown>
+#5 0x5d0f06fda48d <unknown>
+#6 0x5d0f06ff8ed7 <unknown>
+#7 0x5d0f06fda203 <unknown>
+#8 0x5d0f06fa8cc0 <unknown>
+#9 0x5d0f06fa9c9e <unknown>
+#10 0x5d0f0741ed3b <unknown>
+#11 0x5d0f07422cc2 <unknown>
+#12 0x5d0f0740bb6c <unknown>
+#13 0x5d0f07423837 <unknown>
+#14 0x5d0f073f110f <unknown>
+#15 0x5d0f074405a8 <unknown>
+#16 0x5d0f07440770 <unknown>
+#17 0x5d0f074501c6 <unknown>
+#18 0x74d07b09ca94 <unknown>
+#19 0x74d07b129c3c <unknown>
+
+2024-12-04 19:53:39,533 - INFO - Scraping exitoso para término: PORO
+2024-12-04 19:53:39,538 - INFO - ====== WebDriver manager ======
+2024-12-04 19:53:40,299 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:53:40,396 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:53:40,480 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:53:51,796 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56b6a485534a <unknown>
+#1 0x56b6a436b6e0 <unknown>
+#2 0x56b6a43ba3e6 <unknown>
+#3 0x56b6a43ba681 <unknown>
+#4 0x56b6a43ffb04 <unknown>
+#5 0x56b6a43de48d <unknown>
+#6 0x56b6a43fced7 <unknown>
+#7 0x56b6a43de203 <unknown>
+#8 0x56b6a43accc0 <unknown>
+#9 0x56b6a43adc9e <unknown>
+#10 0x56b6a4822d3b <unknown>
+#11 0x56b6a4826cc2 <unknown>
+#12 0x56b6a480fb6c <unknown>
+#13 0x56b6a4827837 <unknown>
+#14 0x56b6a47f510f <unknown>
+#15 0x56b6a48445a8 <unknown>
+#16 0x56b6a4844770 <unknown>
+#17 0x56b6a48541c6 <unknown>
+#18 0x76db1589ca94 <unknown>
+#19 0x76db15929c3c <unknown>
+
+2024-12-04 19:54:56,769 - INFO - Scraping exitoso para término: ZANAHORIA
+2024-12-04 19:54:56,772 - INFO - ====== WebDriver manager ======
+2024-12-04 19:54:58,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:54:58,354 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:54:58,417 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:55:49,411 - INFO - Scraping exitoso para término: VAINITA VERDE (AMERICANA)
+2024-12-04 19:55:49,416 - INFO - ====== WebDriver manager ======
+2024-12-04 19:55:49,706 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:55:49,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:55:49,890 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:56:06,258 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x55da96c0a34a <unknown>
+#1 0x55da967206e0 <unknown>
+#2 0x55da9676f3e6 <unknown>
+#3 0x55da9676f681 <unknown>
+#4 0x55da967b4b04 <unknown>
+#5 0x55da9679348d <unknown>
+#6 0x55da967b1ed7 <unknown>
+#7 0x55da96793203 <unknown>
+#8 0x55da96761cc0 <unknown>
+#9 0x55da96762c9e <unknown>
+#10 0x55da96bd7d3b <unknown>
+#11 0x55da96bdbcc2 <unknown>
+#12 0x55da96bc4b6c <unknown>
+#13 0x55da96bdc837 <unknown>
+#14 0x55da96baa10f <unknown>
+#15 0x55da96bf95a8 <unknown>
+#16 0x55da96bf9770 <unknown>
+#17 0x55da96c091c6 <unknown>
+#18 0x775288c9ca94 <unknown>
+#19 0x775288d29c3c <unknown>
+
+2024-12-04 19:56:30,726 - INFO - Scraping exitoso para término: FRÉJOL CANARIO
+2024-12-04 19:56:30,729 - INFO - ====== WebDriver manager ======
+2024-12-04 19:56:31,067 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:56:31,134 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:56:31,206 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:56:56,722 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5fbc5507a34a <unknown>
+#1 0x5fbc54b906e0 <unknown>
+#2 0x5fbc54bdf3e6 <unknown>
+#3 0x5fbc54bdf681 <unknown>
+#4 0x5fbc54c24b04 <unknown>
+#5 0x5fbc54c0348d <unknown>
+#6 0x5fbc54c21ed7 <unknown>
+#7 0x5fbc54c03203 <unknown>
+#8 0x5fbc54bd1cc0 <unknown>
+#9 0x5fbc54bd2c9e <unknown>
+#10 0x5fbc55047d3b <unknown>
+#11 0x5fbc5504bcc2 <unknown>
+#12 0x5fbc55034b6c <unknown>
+#13 0x5fbc5504c837 <unknown>
+#14 0x5fbc5501a10f <unknown>
+#15 0x5fbc550695a8 <unknown>
+#16 0x5fbc55069770 <unknown>
+#17 0x5fbc550791c6 <unknown>
+#18 0x7786fc69ca94 <unknown>
+#19 0x7786fc729c3c <unknown>
+
+2024-12-04 19:57:13,288 - INFO - Scraping exitoso para término: CEBOLLA DE CABEZA (ROJA)
+2024-12-04 19:57:13,292 - INFO - ====== WebDriver manager ======
+2024-12-04 19:57:13,558 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:57:13,707 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:57:13,779 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:57:26,091 - INFO - Scraping exitoso para término: FRÉJOL PANAMITO
+2024-12-04 19:57:26,092 - INFO - ====== WebDriver manager ======
+2024-12-04 19:57:26,523 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:57:26,579 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:57:26,651 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:57:36,523 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x637566f2e34a <unknown>
+#1 0x637566a446e0 <unknown>
+#2 0x637566a933e6 <unknown>
+#3 0x637566a93681 <unknown>
+#4 0x637566ad8b04 <unknown>
+#5 0x637566ab748d <unknown>
+#6 0x637566ad5ed7 <unknown>
+#7 0x637566ab7203 <unknown>
+#8 0x637566a85cc0 <unknown>
+#9 0x637566a86c9e <unknown>
+#10 0x637566efbd3b <unknown>
+#11 0x637566effcc2 <unknown>
+#12 0x637566ee8b6c <unknown>
+#13 0x637566f00837 <unknown>
+#14 0x637566ece10f <unknown>
+#15 0x637566f1d5a8 <unknown>
+#16 0x637566f1d770 <unknown>
+#17 0x637566f2d1c6 <unknown>
+#18 0x734dc3e9ca94 <unknown>
+#19 0x734dc3f29c3c <unknown>
+
+2024-12-04 19:58:03,046 - INFO - Scraping exitoso para término: ARVEJA SECA PARTIDA
+2024-12-04 19:58:03,051 - INFO - ====== WebDriver manager ======
+2024-12-04 19:58:03,328 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:58:03,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:58:03,446 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:58:09,262 - ERROR - Error scraping wong: Message: 
+Stacktrace:
+#0 0x59a4570bb34a <unknown>
+#1 0x59a456bd16e0 <unknown>
+#2 0x59a456c203e6 <unknown>
+#3 0x59a456c20681 <unknown>
+#4 0x59a456c65b04 <unknown>
+#5 0x59a456c4448d <unknown>
+#6 0x59a456c62ed7 <unknown>
+#7 0x59a456c44203 <unknown>
+#8 0x59a456c12cc0 <unknown>
+#9 0x59a456c13c9e <unknown>
+#10 0x59a457088d3b <unknown>
+#11 0x59a45708ccc2 <unknown>
+#12 0x59a457075b6c <unknown>
+#13 0x59a45708d837 <unknown>
+#14 0x59a45705b10f <unknown>
+#15 0x59a4570aa5a8 <unknown>
+#16 0x59a4570aa770 <unknown>
+#17 0x59a4570ba1c6 <unknown>
+#18 0x7bba0189ca94 <unknown>
+#19 0x7bba01929c3c <unknown>
+
+2024-12-04 19:58:09,730 - INFO - Scraping exitoso para término: LENTEJA
+2024-12-04 19:58:09,739 - INFO - ====== WebDriver manager ======
+2024-12-04 19:58:10,042 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:58:10,102 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:58:10,207 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:59:15,550 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x56c62eff334a <unknown>
+#1 0x56c62eb096e0 <unknown>
+#2 0x56c62eb583e6 <unknown>
+#3 0x56c62eb58681 <unknown>
+#4 0x56c62eb9db04 <unknown>
+#5 0x56c62eb7c48d <unknown>
+#6 0x56c62eb9aed7 <unknown>
+#7 0x56c62eb7c203 <unknown>
+#8 0x56c62eb4acc0 <unknown>
+#9 0x56c62eb4bc9e <unknown>
+#10 0x56c62efc0d3b <unknown>
+#11 0x56c62efc4cc2 <unknown>
+#12 0x56c62efadb6c <unknown>
+#13 0x56c62efc5837 <unknown>
+#14 0x56c62ef9310f <unknown>
+#15 0x56c62efe25a8 <unknown>
+#16 0x56c62efe2770 <unknown>
+#17 0x56c62eff21c6 <unknown>
+#18 0x7f938a69ca94 <unknown>
+#19 0x7f938a729c3c <unknown>
+
+2024-12-04 19:59:22,658 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x556bae39234a <unknown>
+#1 0x556badea86e0 <unknown>
+#2 0x556badef73e6 <unknown>
+#3 0x556badef7681 <unknown>
+#4 0x556badf3cb04 <unknown>
+#5 0x556badf1b48d <unknown>
+#6 0x556badf39ed7 <unknown>
+#7 0x556badf1b203 <unknown>
+#8 0x556badee9cc0 <unknown>
+#9 0x556badeeac9e <unknown>
+#10 0x556bae35fd3b <unknown>
+#11 0x556bae363cc2 <unknown>
+#12 0x556bae34cb6c <unknown>
+#13 0x556bae364837 <unknown>
+#14 0x556bae33210f <unknown>
+#15 0x556bae3815a8 <unknown>
+#16 0x556bae381770 <unknown>
+#17 0x556bae3911c6 <unknown>
+#18 0x7857c889ca94 <unknown>
+#19 0x7857c8929c3c <unknown>
+
+2024-12-04 19:59:47,511 - INFO - Scraping exitoso para término: VERDURA PICADA
+2024-12-04 19:59:47,517 - INFO - ====== WebDriver manager ======
+2024-12-04 19:59:48,539 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:59:48,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:59:48,661 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 19:59:56,883 - INFO - Scraping exitoso para término: ACEITUNA DE BOTIJA
+2024-12-04 19:59:56,891 - INFO - ====== WebDriver manager ======
+2024-12-04 19:59:57,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:59:57,349 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 19:59:57,409 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:00:48,982 - INFO - Scraping exitoso para término: GARBANZO
+2024-12-04 20:00:48,986 - INFO - ====== WebDriver manager ======
+2024-12-04 20:00:49,195 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:00:49,259 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:00:49,345 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:00:57,642 - INFO - Scraping exitoso para término: PALLAR
+2024-12-04 20:00:57,643 - INFO - ====== WebDriver manager ======
+2024-12-04 20:00:58,117 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:00:58,281 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:00:58,672 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:00:59,984 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59a67a2a034a <unknown>
+#1 0x59a679db66e0 <unknown>
+#2 0x59a679e053e6 <unknown>
+#3 0x59a679e05681 <unknown>
+#4 0x59a679e4ab04 <unknown>
+#5 0x59a679e2948d <unknown>
+#6 0x59a679e47ed7 <unknown>
+#7 0x59a679e29203 <unknown>
+#8 0x59a679df7cc0 <unknown>
+#9 0x59a679df8c9e <unknown>
+#10 0x59a67a26dd3b <unknown>
+#11 0x59a67a271cc2 <unknown>
+#12 0x59a67a25ab6c <unknown>
+#13 0x59a67a272837 <unknown>
+#14 0x59a67a24010f <unknown>
+#15 0x59a67a28f5a8 <unknown>
+#16 0x59a67a28f770 <unknown>
+#17 0x59a67a29f1c6 <unknown>
+#18 0x7fb2e729ca94 <unknown>
+#19 0x7fb2e7329c3c <unknown>
+
+2024-12-04 20:01:08,767 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x62a423d5234a <unknown>
+#1 0x62a4238686e0 <unknown>
+#2 0x62a4238b73e6 <unknown>
+#3 0x62a4238b7681 <unknown>
+#4 0x62a4238fcb04 <unknown>
+#5 0x62a4238db48d <unknown>
+#6 0x62a4238f9ed7 <unknown>
+#7 0x62a4238db203 <unknown>
+#8 0x62a4238a9cc0 <unknown>
+#9 0x62a4238aac9e <unknown>
+#10 0x62a423d1fd3b <unknown>
+#11 0x62a423d23cc2 <unknown>
+#12 0x62a423d0cb6c <unknown>
+#13 0x62a423d24837 <unknown>
+#14 0x62a423cf210f <unknown>
+#15 0x62a423d415a8 <unknown>
+#16 0x62a423d41770 <unknown>
+#17 0x62a423d511c6 <unknown>
+#18 0x7e25ce89ca94 <unknown>
+#19 0x7e25ce929c3c <unknown>
+
+2024-12-04 20:01:34,204 - INFO - Scraping exitoso para término: CAMOTE AMARILLO
+2024-12-04 20:01:34,206 - INFO - ====== WebDriver manager ======
+2024-12-04 20:01:35,031 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:01:35,207 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:01:35,356 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:01:59,446 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x601481a3f34a <unknown>
+#1 0x6014815556e0 <unknown>
+#2 0x6014815a43e6 <unknown>
+#3 0x6014815a4681 <unknown>
+#4 0x6014815e9b04 <unknown>
+#5 0x6014815c848d <unknown>
+#6 0x6014815e6ed7 <unknown>
+#7 0x6014815c8203 <unknown>
+#8 0x601481596cc0 <unknown>
+#9 0x601481597c9e <unknown>
+#10 0x601481a0cd3b <unknown>
+#11 0x601481a10cc2 <unknown>
+#12 0x6014819f9b6c <unknown>
+#13 0x601481a11837 <unknown>
+#14 0x6014819df10f <unknown>
+#15 0x601481a2e5a8 <unknown>
+#16 0x601481a2e770 <unknown>
+#17 0x601481a3e1c6 <unknown>
+#18 0x768d41a9ca94 <unknown>
+#19 0x768d41b29c3c <unknown>
+
+2024-12-04 20:02:02,167 - INFO - Scraping exitoso para término: PAPA AMARILLA
+2024-12-04 20:02:02,174 - INFO - ====== WebDriver manager ======
+2024-12-04 20:02:02,561 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:02,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:02,666 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:02:11,707 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5b0572fd534a <unknown>
+#1 0x5b0572aeb6e0 <unknown>
+#2 0x5b0572b3a3e6 <unknown>
+#3 0x5b0572b3a681 <unknown>
+#4 0x5b0572b7fb04 <unknown>
+#5 0x5b0572b5e48d <unknown>
+#6 0x5b0572b7ced7 <unknown>
+#7 0x5b0572b5e203 <unknown>
+#8 0x5b0572b2ccc0 <unknown>
+#9 0x5b0572b2dc9e <unknown>
+#10 0x5b0572fa2d3b <unknown>
+#11 0x5b0572fa6cc2 <unknown>
+#12 0x5b0572f8fb6c <unknown>
+#13 0x5b0572fa7837 <unknown>
+#14 0x5b0572f7510f <unknown>
+#15 0x5b0572fc45a8 <unknown>
+#16 0x5b0572fc4770 <unknown>
+#17 0x5b0572fd41c6 <unknown>
+#18 0x75b41f49ca94 <unknown>
+#19 0x75b41f529c3c <unknown>
+
+2024-12-04 20:02:34,041 - INFO - Scraping exitoso para término: PAPA BLANCA
+2024-12-04 20:02:34,055 - INFO - ====== WebDriver manager ======
+2024-12-04 20:02:34,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:34,405 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:34,469 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:02:47,183 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a96e34d434a <unknown>
+#1 0x5a96e2fea6e0 <unknown>
+#2 0x5a96e30393e6 <unknown>
+#3 0x5a96e3039681 <unknown>
+#4 0x5a96e307eb04 <unknown>
+#5 0x5a96e305d48d <unknown>
+#6 0x5a96e307bed7 <unknown>
+#7 0x5a96e305d203 <unknown>
+#8 0x5a96e302bcc0 <unknown>
+#9 0x5a96e302cc9e <unknown>
+#10 0x5a96e34a1d3b <unknown>
+#11 0x5a96e34a5cc2 <unknown>
+#12 0x5a96e348eb6c <unknown>
+#13 0x5a96e34a6837 <unknown>
+#14 0x5a96e347410f <unknown>
+#15 0x5a96e34c35a8 <unknown>
+#16 0x5a96e34c3770 <unknown>
+#17 0x5a96e34d31c6 <unknown>
+#18 0x7ceae5c9ca94 <unknown>
+#19 0x7ceae5d29c3c <unknown>
+
+2024-12-04 20:02:58,129 - INFO - Scraping exitoso para término: PAPA COLOR
+2024-12-04 20:02:58,130 - INFO - ====== WebDriver manager ======
+2024-12-04 20:02:58,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:58,430 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:02:58,488 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:03:16,389 - INFO - Scraping exitoso para término: PAPA HUAYRO
+2024-12-04 20:03:16,402 - INFO - ====== WebDriver manager ======
+2024-12-04 20:03:16,718 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:03:16,776 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:03:16,857 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:03:20,969 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5b08b4f2b34a <unknown>
+#1 0x5b08b4a416e0 <unknown>
+#2 0x5b08b4a903e6 <unknown>
+#3 0x5b08b4a90681 <unknown>
+#4 0x5b08b4ad5b04 <unknown>
+#5 0x5b08b4ab448d <unknown>
+#6 0x5b08b4ad2ed7 <unknown>
+#7 0x5b08b4ab4203 <unknown>
+#8 0x5b08b4a82cc0 <unknown>
+#9 0x5b08b4a83c9e <unknown>
+#10 0x5b08b4ef8d3b <unknown>
+#11 0x5b08b4efccc2 <unknown>
+#12 0x5b08b4ee5b6c <unknown>
+#13 0x5b08b4efd837 <unknown>
+#14 0x5b08b4ecb10f <unknown>
+#15 0x5b08b4f1a5a8 <unknown>
+#16 0x5b08b4f1a770 <unknown>
+#17 0x5b08b4f2a1c6 <unknown>
+#18 0x7fe3a449ca94 <unknown>
+#19 0x7fe3a4529c3c <unknown>
+
+2024-12-04 20:03:47,061 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5f3d02d7134a <unknown>
+#1 0x5f3d028876e0 <unknown>
+#2 0x5f3d028d63e6 <unknown>
+#3 0x5f3d028d6681 <unknown>
+#4 0x5f3d0291bb04 <unknown>
+#5 0x5f3d028fa48d <unknown>
+#6 0x5f3d02918ed7 <unknown>
+#7 0x5f3d028fa203 <unknown>
+#8 0x5f3d028c8cc0 <unknown>
+#9 0x5f3d028c9c9e <unknown>
+#10 0x5f3d02d3ed3b <unknown>
+#11 0x5f3d02d42cc2 <unknown>
+#12 0x5f3d02d2bb6c <unknown>
+#13 0x5f3d02d43837 <unknown>
+#14 0x5f3d02d1110f <unknown>
+#15 0x5f3d02d605a8 <unknown>
+#16 0x5f3d02d60770 <unknown>
+#17 0x5f3d02d701c6 <unknown>
+#18 0x726768a9ca94 <unknown>
+#19 0x726768b29c3c <unknown>
+
+2024-12-04 20:04:08,106 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x586c60f3d34a <unknown>
+#1 0x586c60a536e0 <unknown>
+#2 0x586c60aa23e6 <unknown>
+#3 0x586c60aa2681 <unknown>
+#4 0x586c60ae7b04 <unknown>
+#5 0x586c60ac648d <unknown>
+#6 0x586c60ae4ed7 <unknown>
+#7 0x586c60ac6203 <unknown>
+#8 0x586c60a94cc0 <unknown>
+#9 0x586c60a95c9e <unknown>
+#10 0x586c60f0ad3b <unknown>
+#11 0x586c60f0ecc2 <unknown>
+#12 0x586c60ef7b6c <unknown>
+#13 0x586c60f0f837 <unknown>
+#14 0x586c60edd10f <unknown>
+#15 0x586c60f2c5a8 <unknown>
+#16 0x586c60f2c770 <unknown>
+#17 0x586c60f3c1c6 <unknown>
+#18 0x7fd40f49ca94 <unknown>
+#19 0x7fd40f529c3c <unknown>
+
+2024-12-04 20:04:15,295 - INFO - Scraping exitoso para término: OLLUCO
+2024-12-04 20:04:15,296 - INFO - ====== WebDriver manager ======
+2024-12-04 20:04:15,554 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:15,620 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:15,829 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:04:26,459 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5fa60466434a <unknown>
+#1 0x5fa60417a6e0 <unknown>
+#2 0x5fa6041c93e6 <unknown>
+#3 0x5fa6041c9681 <unknown>
+#4 0x5fa60420eb04 <unknown>
+#5 0x5fa6041ed48d <unknown>
+#6 0x5fa60420bed7 <unknown>
+#7 0x5fa6041ed203 <unknown>
+#8 0x5fa6041bbcc0 <unknown>
+#9 0x5fa6041bcc9e <unknown>
+#10 0x5fa604631d3b <unknown>
+#11 0x5fa604635cc2 <unknown>
+#12 0x5fa60461eb6c <unknown>
+#13 0x5fa604636837 <unknown>
+#14 0x5fa60460410f <unknown>
+#15 0x5fa6046535a8 <unknown>
+#16 0x5fa604653770 <unknown>
+#17 0x5fa6046631c6 <unknown>
+#18 0x71d4be49ca94 <unknown>
+#19 0x71d4be529c3c <unknown>
+
+2024-12-04 20:04:45,371 - INFO - Scraping exitoso para término: PAPA SECA
+2024-12-04 20:04:45,372 - INFO - ====== WebDriver manager ======
+2024-12-04 20:04:45,794 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:45,877 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:45,928 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:04:48,824 - INFO - Scraping exitoso para término: YUCA
+2024-12-04 20:04:48,826 - INFO - ====== WebDriver manager ======
+2024-12-04 20:04:49,408 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:49,543 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:04:49,660 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:05:14,188 - INFO - Scraping exitoso para término: AZÚCAR BLANCA
+2024-12-04 20:05:14,194 - INFO - ====== WebDriver manager ======
+2024-12-04 20:05:14,465 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:05:15,168 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:05:15,215 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:05:24,455 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x57ae3b0fc34a <unknown>
+#1 0x57ae3ac126e0 <unknown>
+#2 0x57ae3ac613e6 <unknown>
+#3 0x57ae3ac61681 <unknown>
+#4 0x57ae3aca6b04 <unknown>
+#5 0x57ae3ac8548d <unknown>
+#6 0x57ae3aca3ed7 <unknown>
+#7 0x57ae3ac85203 <unknown>
+#8 0x57ae3ac53cc0 <unknown>
+#9 0x57ae3ac54c9e <unknown>
+#10 0x57ae3b0c9d3b <unknown>
+#11 0x57ae3b0cdcc2 <unknown>
+#12 0x57ae3b0b6b6c <unknown>
+#13 0x57ae3b0ce837 <unknown>
+#14 0x57ae3b09c10f <unknown>
+#15 0x57ae3b0eb5a8 <unknown>
+#16 0x57ae3b0eb770 <unknown>
+#17 0x57ae3b0fb1c6 <unknown>
+#18 0x7651c009ca94 <unknown>
+#19 0x7651c0129c3c <unknown>
+
+2024-12-04 20:06:25,074 - INFO - Scraping exitoso para término: AZÚCAR RUBIA
+2024-12-04 20:06:25,075 - INFO - ====== WebDriver manager ======
+2024-12-04 20:06:25,309 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:06:25,395 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:06:25,468 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:06:29,554 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x585c61a5f34a <unknown>
+#1 0x585c615756e0 <unknown>
+#2 0x585c615c43e6 <unknown>
+#3 0x585c615c4681 <unknown>
+#4 0x585c61609b04 <unknown>
+#5 0x585c615e848d <unknown>
+#6 0x585c61606ed7 <unknown>
+#7 0x585c615e8203 <unknown>
+#8 0x585c615b6cc0 <unknown>
+#9 0x585c615b7c9e <unknown>
+#10 0x585c61a2cd3b <unknown>
+#11 0x585c61a30cc2 <unknown>
+#12 0x585c61a19b6c <unknown>
+#13 0x585c61a31837 <unknown>
+#14 0x585c619ff10f <unknown>
+#15 0x585c61a4e5a8 <unknown>
+#16 0x585c61a4e770 <unknown>
+#17 0x585c61a5e1c6 <unknown>
+#18 0x7e7b09e9ca94 <unknown>
+#19 0x7e7b09f29c3c <unknown>
+
+2024-12-04 20:07:35,951 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5a90ae91134a <unknown>
+#1 0x5a90ae4276e0 <unknown>
+#2 0x5a90ae4763e6 <unknown>
+#3 0x5a90ae476681 <unknown>
+#4 0x5a90ae4bbb04 <unknown>
+#5 0x5a90ae49a48d <unknown>
+#6 0x5a90ae4b8ed7 <unknown>
+#7 0x5a90ae49a203 <unknown>
+#8 0x5a90ae468cc0 <unknown>
+#9 0x5a90ae469c9e <unknown>
+#10 0x5a90ae8ded3b <unknown>
+#11 0x5a90ae8e2cc2 <unknown>
+#12 0x5a90ae8cbb6c <unknown>
+#13 0x5a90ae8e3837 <unknown>
+#14 0x5a90ae8b110f <unknown>
+#15 0x5a90ae9005a8 <unknown>
+#16 0x5a90ae900770 <unknown>
+#17 0x5a90ae9101c6 <unknown>
+#18 0x7170d6e9ca94 <unknown>
+#19 0x7170d6f29c3c <unknown>
+
+2024-12-04 20:07:49,578 - INFO - Scraping exitoso para término: MIEL DE ABEJA
+2024-12-04 20:07:49,597 - INFO - ====== WebDriver manager ======
+2024-12-04 20:07:50,371 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:07:50,434 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:07:50,493 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:08:05,563 - INFO - Scraping exitoso para término: CHOCOLATE EN PASTA (TAZA)
+2024-12-04 20:08:05,564 - INFO - ====== WebDriver manager ======
+2024-12-04 20:08:06,105 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:08:06,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:08:06,230 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:10:04,168 - INFO - Scraping exitoso para término: EDULCORANTE
+2024-12-04 20:10:04,178 - INFO - ====== WebDriver manager ======
+2024-12-04 20:10:05,148 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:10:05,503 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:10:05,558 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:10:38,598 - INFO - Scraping exitoso para término: MERMELADA
+2024-12-04 20:10:38,606 - INFO - ====== WebDriver manager ======
+2024-12-04 20:10:39,083 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:10:39,359 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:10:39,446 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:12:52,461 - INFO - Scraping exitoso para término: CHOCOLATE EN TABLETA
+2024-12-04 20:12:52,481 - INFO - ====== WebDriver manager ======
+2024-12-04 20:12:53,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:12:53,608 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:12:53,661 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:13:43,425 - INFO - Scraping exitoso para término: DIVERSAS PRESENTACIONES DE CHOCOLATES
+2024-12-04 20:13:43,432 - INFO - ====== WebDriver manager ======
+2024-12-04 20:13:43,730 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:13:43,866 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:13:43,918 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:13:58,769 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x611eecfea34a <unknown>
+#1 0x611eecb006e0 <unknown>
+#2 0x611eecb4f3e6 <unknown>
+#3 0x611eecb4f681 <unknown>
+#4 0x611eecb94b04 <unknown>
+#5 0x611eecb7348d <unknown>
+#6 0x611eecb91ed7 <unknown>
+#7 0x611eecb73203 <unknown>
+#8 0x611eecb41cc0 <unknown>
+#9 0x611eecb42c9e <unknown>
+#10 0x611eecfb7d3b <unknown>
+#11 0x611eecfbbcc2 <unknown>
+#12 0x611eecfa4b6c <unknown>
+#13 0x611eecfbc837 <unknown>
+#14 0x611eecf8a10f <unknown>
+#15 0x611eecfd95a8 <unknown>
+#16 0x611eecfd9770 <unknown>
+#17 0x611eecfe91c6 <unknown>
+#18 0x74a02409ca94 <unknown>
+#19 0x74a024129c3c <unknown>
+
+2024-12-04 20:14:23,004 - INFO - Scraping exitoso para término: HELADO FAMILIAR
+2024-12-04 20:14:23,009 - INFO - ====== WebDriver manager ======
+2024-12-04 20:14:23,618 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:14:23,738 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:14:23,801 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:16:31,880 - INFO - Scraping exitoso para término: CARAMELOS
+2024-12-04 20:16:31,890 - INFO - ====== WebDriver manager ======
+2024-12-04 20:16:32,295 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:16:32,567 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:16:32,649 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:17:04,786 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5b9ce906f34a <unknown>
+#1 0x5b9ce8b856e0 <unknown>
+#2 0x5b9ce8b8b4a3 <unknown>
+#3 0x5b9ce8b8d968 <unknown>
+#4 0x5b9ce8b8d9f3 <unknown>
+#5 0x5b9ce8bcf1c1 <unknown>
+#6 0x5b9ce8bf8462 <unknown>
+#7 0x5b9ce8bc8a18 <unknown>
+#8 0x5b9ce8bf862e <unknown>
+#9 0x5b9ce8c16ed7 <unknown>
+#10 0x5b9ce8bf8203 <unknown>
+#11 0x5b9ce8bc6cc0 <unknown>
+#12 0x5b9ce8bc7c9e <unknown>
+#13 0x5b9ce903cd3b <unknown>
+#14 0x5b9ce9040cc2 <unknown>
+#15 0x5b9ce9029b6c <unknown>
+#16 0x5b9ce9041837 <unknown>
+#17 0x5b9ce900f10f <unknown>
+#18 0x5b9ce905e5a8 <unknown>
+#19 0x5b9ce905e770 <unknown>
+#20 0x5b9ce906e1c6 <unknown>
+#21 0x73f2ace9ca94 <unknown>
+#22 0x73f2acf29c3c <unknown>
+
+2024-12-04 20:17:05,381 - INFO - Scraping exitoso para término: ALBAHACA
+2024-12-04 20:17:05,384 - INFO - ====== WebDriver manager ======
+2024-12-04 20:17:06,351 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:17:06,443 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:17:06,490 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:17:23,202 - INFO - Scraping exitoso para término: GOMA DE MASCAR
+2024-12-04 20:17:23,258 - INFO - ====== WebDriver manager ======
+2024-12-04 20:17:24,007 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:17:24,340 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:17:24,439 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:18:17,815 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5da1fbaa534a <unknown>
+#1 0x5da1fb5bb6e0 <unknown>
+#2 0x5da1fb60a3e6 <unknown>
+#3 0x5da1fb60a681 <unknown>
+#4 0x5da1fb64fb04 <unknown>
+#5 0x5da1fb62e48d <unknown>
+#6 0x5da1fb64ced7 <unknown>
+#7 0x5da1fb62e203 <unknown>
+#8 0x5da1fb5fccc0 <unknown>
+#9 0x5da1fb5fdc9e <unknown>
+#10 0x5da1fba72d3b <unknown>
+#11 0x5da1fba76cc2 <unknown>
+#12 0x5da1fba5fb6c <unknown>
+#13 0x5da1fba77837 <unknown>
+#14 0x5da1fba4510f <unknown>
+#15 0x5da1fba945a8 <unknown>
+#16 0x5da1fba94770 <unknown>
+#17 0x5da1fbaa41c6 <unknown>
+#18 0x792dfc89ca94 <unknown>
+#19 0x792dfc929c3c <unknown>
+
+2024-12-04 20:18:49,766 - INFO - Scraping exitoso para término: CULANTRO
+2024-12-04 20:18:49,769 - INFO - ====== WebDriver manager ======
+2024-12-04 20:18:50,614 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:18:50,704 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:18:50,797 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:19:57,695 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5f48d1ea934a <unknown>
+#1 0x5f48d19bf6e0 <unknown>
+#2 0x5f48d1a0e3e6 <unknown>
+#3 0x5f48d1a0e681 <unknown>
+#4 0x5f48d1a53b04 <unknown>
+#5 0x5f48d1a3248d <unknown>
+#6 0x5f48d1a50ed7 <unknown>
+#7 0x5f48d1a32203 <unknown>
+#8 0x5f48d1a00cc0 <unknown>
+#9 0x5f48d1a01c9e <unknown>
+#10 0x5f48d1e76d3b <unknown>
+#11 0x5f48d1e7acc2 <unknown>
+#12 0x5f48d1e63b6c <unknown>
+#13 0x5f48d1e7b837 <unknown>
+#14 0x5f48d1e4910f <unknown>
+#15 0x5f48d1e985a8 <unknown>
+#16 0x5f48d1e98770 <unknown>
+#17 0x5f48d1ea81c6 <unknown>
+#18 0x713550c9ca94 <unknown>
+#19 0x713550d29c3c <unknown>
+
+2024-12-04 20:20:33,836 - INFO - Scraping exitoso para término: AJO MOLIDO
+2024-12-04 20:20:33,842 - INFO - ====== WebDriver manager ======
+2024-12-04 20:20:34,936 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:20:35,000 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:20:35,110 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:20:36,379 - INFO - Scraping exitoso para término: HELADO DE CREMA PERSONAL
+2024-12-04 20:20:36,386 - INFO - ====== WebDriver manager ======
+2024-12-04 20:20:37,065 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:20:37,249 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:20:37,375 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:21:11,445 - INFO - Scraping exitoso para término: SAL
+2024-12-04 20:21:11,455 - INFO - ====== WebDriver manager ======
+2024-12-04 20:21:12,030 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:21:12,081 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:21:12,154 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:21:46,392 - INFO - Scraping exitoso para término: HELADO DE HIELO PERSONAL
+2024-12-04 20:21:46,405 - INFO - ====== WebDriver manager ======
+2024-12-04 20:21:46,829 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:21:47,015 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:21:47,098 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:21:57,899 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64a0072b434a <unknown>
+#1 0x64a006dca6e0 <unknown>
+#2 0x64a006e193e6 <unknown>
+#3 0x64a006e19681 <unknown>
+#4 0x64a006e5eb04 <unknown>
+#5 0x64a006e3d48d <unknown>
+#6 0x64a006e5bed7 <unknown>
+#7 0x64a006e3d203 <unknown>
+#8 0x64a006e0bcc0 <unknown>
+#9 0x64a006e0cc9e <unknown>
+#10 0x64a007281d3b <unknown>
+#11 0x64a007285cc2 <unknown>
+#12 0x64a00726eb6c <unknown>
+#13 0x64a007286837 <unknown>
+#14 0x64a00725410f <unknown>
+#15 0x64a0072a35a8 <unknown>
+#16 0x64a0072a3770 <unknown>
+#17 0x64a0072b31c6 <unknown>
+#18 0x7b7001a9ca94 <unknown>
+#19 0x7b7001b29c3c <unknown>
+
+2024-12-04 20:22:20,335 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5f0d82f3e34a <unknown>
+#1 0x5f0d82a546e0 <unknown>
+#2 0x5f0d82aa33e6 <unknown>
+#3 0x5f0d82aa3681 <unknown>
+#4 0x5f0d82ae8b04 <unknown>
+#5 0x5f0d82ac748d <unknown>
+#6 0x5f0d82ae5ed7 <unknown>
+#7 0x5f0d82ac7203 <unknown>
+#8 0x5f0d82a95cc0 <unknown>
+#9 0x5f0d82a96c9e <unknown>
+#10 0x5f0d82f0bd3b <unknown>
+#11 0x5f0d82f0fcc2 <unknown>
+#12 0x5f0d82ef8b6c <unknown>
+#13 0x5f0d82f10837 <unknown>
+#14 0x5f0d82ede10f <unknown>
+#15 0x5f0d82f2d5a8 <unknown>
+#16 0x5f0d82f2d770 <unknown>
+#17 0x5f0d82f3d1c6 <unknown>
+#18 0x7fe6c829ca94 <unknown>
+#19 0x7fe6c8329c3c <unknown>
+
+2024-12-04 20:22:31,035 - INFO - Scraping exitoso para término: CANELA ENTERA
+2024-12-04 20:22:31,036 - INFO - ====== WebDriver manager ======
+2024-12-04 20:22:31,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:22:31,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:22:31,652 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:22:55,493 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5683b776134a <unknown>
+#1 0x5683b72776e0 <unknown>
+#2 0x5683b72c63e6 <unknown>
+#3 0x5683b72c6681 <unknown>
+#4 0x5683b730bb04 <unknown>
+#5 0x5683b72ea48d <unknown>
+#6 0x5683b7308ed7 <unknown>
+#7 0x5683b72ea203 <unknown>
+#8 0x5683b72b8cc0 <unknown>
+#9 0x5683b72b9c9e <unknown>
+#10 0x5683b772ed3b <unknown>
+#11 0x5683b7732cc2 <unknown>
+#12 0x5683b771bb6c <unknown>
+#13 0x5683b7733837 <unknown>
+#14 0x5683b770110f <unknown>
+#15 0x5683b77505a8 <unknown>
+#16 0x5683b7750770 <unknown>
+#17 0x5683b77601c6 <unknown>
+#18 0x7055ba29ca94 <unknown>
+#19 0x7055ba329c3c <unknown>
+
+2024-12-04 20:22:58,405 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5a7fcc92b34a <unknown>
+#1 0x5a7fcc4416e0 <unknown>
+#2 0x5a7fcc4474a3 <unknown>
+#3 0x5a7fcc449c3e <unknown>
+#4 0x5a7fcc4d3f6c <unknown>
+#5 0x5a7fcc4b4462 <unknown>
+#6 0x5a7fcc4d2ed7 <unknown>
+#7 0x5a7fcc4b4203 <unknown>
+#8 0x5a7fcc482cc0 <unknown>
+#9 0x5a7fcc483c9e <unknown>
+#10 0x5a7fcc8f8d3b <unknown>
+#11 0x5a7fcc8fccc2 <unknown>
+#12 0x5a7fcc8e5b6c <unknown>
+#13 0x5a7fcc8fd837 <unknown>
+#14 0x5a7fcc8cb10f <unknown>
+#15 0x5a7fcc91a5a8 <unknown>
+#16 0x5a7fcc91a770 <unknown>
+#17 0x5a7fcc92a1c6 <unknown>
+#18 0x72f93889ca94 <unknown>
+#19 0x72f938929c3c <unknown>
+
+2024-12-04 20:22:59,886 - INFO - Scraping exitoso para término: GLUTAMATO MONOSÓDICO (SAZONADOR)
+2024-12-04 20:22:59,908 - INFO - ====== WebDriver manager ======
+2024-12-04 20:23:00,166 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:00,224 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:00,286 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:23:17,955 - INFO - Scraping exitoso para término: KION (ESPECIAS)
+2024-12-04 20:23:17,958 - INFO - ====== WebDriver manager ======
+2024-12-04 20:23:19,042 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:19,166 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:19,318 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:23:22,879 - INFO - Scraping exitoso para término: ALIMENTOS EN CUBITOS
+2024-12-04 20:23:22,892 - INFO - ====== WebDriver manager ======
+2024-12-04 20:23:23,294 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:23,421 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:23:23,492 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:24:18,304 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5fe0586d534a <unknown>
+#1 0x5fe0581eb6e0 <unknown>
+#2 0x5fe05823a3e6 <unknown>
+#3 0x5fe05823a681 <unknown>
+#4 0x5fe05827fb04 <unknown>
+#5 0x5fe05825e48d <unknown>
+#6 0x5fe05827ced7 <unknown>
+#7 0x5fe05825e203 <unknown>
+#8 0x5fe05822ccc0 <unknown>
+#9 0x5fe05822dc9e <unknown>
+#10 0x5fe0586a2d3b <unknown>
+#11 0x5fe0586a6cc2 <unknown>
+#12 0x5fe05868fb6c <unknown>
+#13 0x5fe0586a7837 <unknown>
+#14 0x5fe05867510f <unknown>
+#15 0x5fe0586c45a8 <unknown>
+#16 0x5fe0586c4770 <unknown>
+#17 0x5fe0586d41c6 <unknown>
+#18 0x7a6d0da9ca94 <unknown>
+#19 0x7a6d0db29c3c <unknown>
+
+2024-12-04 20:24:43,312 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x557c17b0734a <unknown>
+#1 0x557c1761d6e0 <unknown>
+#2 0x557c1766c3e6 <unknown>
+#3 0x557c1766c681 <unknown>
+#4 0x557c176b1b04 <unknown>
+#5 0x557c1769048d <unknown>
+#6 0x557c176aeed7 <unknown>
+#7 0x557c17690203 <unknown>
+#8 0x557c1765ecc0 <unknown>
+#9 0x557c1765fc9e <unknown>
+#10 0x557c17ad4d3b <unknown>
+#11 0x557c17ad8cc2 <unknown>
+#12 0x557c17ac1b6c <unknown>
+#13 0x557c17ad9837 <unknown>
+#14 0x557c17aa710f <unknown>
+#15 0x557c17af65a8 <unknown>
+#16 0x557c17af6770 <unknown>
+#17 0x557c17b061c6 <unknown>
+#18 0x7dbe5449ca94 <unknown>
+#19 0x7dbe54529c3c <unknown>
+
+2024-12-04 20:24:47,008 - INFO - Scraping exitoso para término: SAZONADORES CONCENTRADOS
+2024-12-04 20:24:47,010 - INFO - ====== WebDriver manager ======
+2024-12-04 20:24:47,510 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:24:47,575 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:24:47,654 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:25:13,970 - INFO - Scraping exitoso para término: AJÍ AMARILLO MOLIDO
+2024-12-04 20:25:13,979 - INFO - ====== WebDriver manager ======
+2024-12-04 20:25:14,682 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:25:14,770 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:25:14,853 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:26:31,252 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x556b3223b34a <unknown>
+#1 0x556b31d516e0 <unknown>
+#2 0x556b31da03e6 <unknown>
+#3 0x556b31da0681 <unknown>
+#4 0x556b31de5b04 <unknown>
+#5 0x556b31dc448d <unknown>
+#6 0x556b31de2ed7 <unknown>
+#7 0x556b31dc4203 <unknown>
+#8 0x556b31d92cc0 <unknown>
+#9 0x556b31d93c9e <unknown>
+#10 0x556b32208d3b <unknown>
+#11 0x556b3220ccc2 <unknown>
+#12 0x556b321f5b6c <unknown>
+#13 0x556b3220d837 <unknown>
+#14 0x556b321db10f <unknown>
+#15 0x556b3222a5a8 <unknown>
+#16 0x556b3222a770 <unknown>
+#17 0x556b3223a1c6 <unknown>
+#18 0x70b113c9ca94 <unknown>
+#19 0x70b113d29c3c <unknown>
+
+2024-12-04 20:27:44,023 - INFO - Scraping exitoso para término: ADEREZOS HIDRATADOS
+2024-12-04 20:27:44,026 - INFO - ====== WebDriver manager ======
+2024-12-04 20:27:45,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:27:45,445 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:27:45,608 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:28:28,654 - ERROR - Error en scraping para término HONGO / LAUREL (ESPECIES): Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/wong/2024_12_04/wong_HONGO '
+2024-12-04 20:28:28,657 - INFO - ====== WebDriver manager ======
+2024-12-04 20:28:28,938 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:28:29,069 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:28:29,112 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:28:57,251 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x59acc918e34a <unknown>
+#1 0x59acc8ca46e0 <unknown>
+#2 0x59acc8cf33e6 <unknown>
+#3 0x59acc8cf3681 <unknown>
+#4 0x59acc8d38b04 <unknown>
+#5 0x59acc8d1748d <unknown>
+#6 0x59acc8d35ed7 <unknown>
+#7 0x59acc8d17203 <unknown>
+#8 0x59acc8ce5cc0 <unknown>
+#9 0x59acc8ce6c9e <unknown>
+#10 0x59acc915bd3b <unknown>
+#11 0x59acc915fcc2 <unknown>
+#12 0x59acc9148b6c <unknown>
+#13 0x59acc9160837 <unknown>
+#14 0x59acc912e10f <unknown>
+#15 0x59acc917d5a8 <unknown>
+#16 0x59acc917d770 <unknown>
+#17 0x59acc918d1c6 <unknown>
+#18 0x73935a89ca94 <unknown>
+#19 0x73935a929c3c <unknown>
+
+2024-12-04 20:29:35,846 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5e0ca0ae734a <unknown>
+#1 0x5e0ca05fd6e0 <unknown>
+#2 0x5e0ca064c3e6 <unknown>
+#3 0x5e0ca064c681 <unknown>
+#4 0x5e0ca0691b04 <unknown>
+#5 0x5e0ca067048d <unknown>
+#6 0x5e0ca068eed7 <unknown>
+#7 0x5e0ca0670203 <unknown>
+#8 0x5e0ca063ecc0 <unknown>
+#9 0x5e0ca063fc9e <unknown>
+#10 0x5e0ca0ab4d3b <unknown>
+#11 0x5e0ca0ab8cc2 <unknown>
+#12 0x5e0ca0aa1b6c <unknown>
+#13 0x5e0ca0ab9837 <unknown>
+#14 0x5e0ca0a8710f <unknown>
+#15 0x5e0ca0ad65a8 <unknown>
+#16 0x5e0ca0ad6770 <unknown>
+#17 0x5e0ca0ae61c6 <unknown>
+#18 0x7cbecaa9ca94 <unknown>
+#19 0x7cbecab29c3c <unknown>
+
+2024-12-04 20:30:04,462 - INFO - Scraping exitoso para término: PASTA Y SALSA DE TOMATE
+2024-12-04 20:30:04,483 - INFO - ====== WebDriver manager ======
+2024-12-04 20:30:04,935 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:05,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:05,168 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:30:33,711 - INFO - Scraping exitoso para término: AJÍ PANCA MOLIDO (ESPECIAL)
+2024-12-04 20:30:33,722 - INFO - ====== WebDriver manager ======
+2024-12-04 20:30:34,069 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:34,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:34,291 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:30:34,849 - INFO - Scraping exitoso para término: MAYONESA
+2024-12-04 20:30:34,853 - INFO - ====== WebDriver manager ======
+2024-12-04 20:30:35,181 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:35,286 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:35,380 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:30:50,056 - ERROR - Error scraping wong: Message: 
+Stacktrace:
+#0 0x5f3b075e234a <unknown>
+#1 0x5f3b070f86e0 <unknown>
+#2 0x5f3b071473e6 <unknown>
+#3 0x5f3b07147681 <unknown>
+#4 0x5f3b0718cb04 <unknown>
+#5 0x5f3b0716b48d <unknown>
+#6 0x5f3b07189ed7 <unknown>
+#7 0x5f3b0716b203 <unknown>
+#8 0x5f3b07139cc0 <unknown>
+#9 0x5f3b0713ac9e <unknown>
+#10 0x5f3b075afd3b <unknown>
+#11 0x5f3b075b3cc2 <unknown>
+#12 0x5f3b0759cb6c <unknown>
+#13 0x5f3b075b4837 <unknown>
+#14 0x5f3b0758210f <unknown>
+#15 0x5f3b075d15a8 <unknown>
+#16 0x5f3b075d1770 <unknown>
+#17 0x5f3b075e11c6 <unknown>
+#18 0x71ac33a9ca94 <unknown>
+#19 0x71ac33b29c3c <unknown>
+
+2024-12-04 20:30:50,527 - INFO - Scraping exitoso para término: SILLAO
+2024-12-04 20:30:50,528 - INFO - ====== WebDriver manager ======
+2024-12-04 20:30:51,692 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:51,766 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:30:51,868 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:32:43,050 - INFO - Scraping exitoso para término: AJÍ ROCOTO MOLIDO
+2024-12-04 20:32:43,059 - INFO - ====== WebDriver manager ======
+2024-12-04 20:32:43,564 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:32:43,652 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:32:43,718 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:37:26,263 - INFO - Scraping exitoso para término: GELATINA (PARA PREPARAR)
+2024-12-04 20:37:26,283 - INFO - ====== WebDriver manager ======
+2024-12-04 20:37:27,923 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:28,349 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:28,463 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:37:40,750 - ERROR - Error en scraping para término SOPAS (CONCENTRADAS / INSTANTÁNEAS): Cannot save file into a non-existent directory: '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw/wong/2024_12_04/wong_SOPAS (CONCENTRADAS '
+2024-12-04 20:37:40,755 - INFO - ====== WebDriver manager ======
+2024-12-04 20:37:41,045 - INFO - Scraping exitoso para término: MENESTRAS SANCOCHADAS
+2024-12-04 20:37:41,058 - INFO - ====== WebDriver manager ======
+2024-12-04 20:37:41,410 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:41,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:41,591 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:41,625 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:37:41,689 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:37:41,732 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:40:02,948 - INFO - Scraping exitoso para término: VEGETALES SANCOCHADOS
+2024-12-04 20:40:02,949 - INFO - ====== WebDriver manager ======
+2024-12-04 20:40:03,315 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:40:03,425 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:40:03,516 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:44:33,679 - INFO - Scraping exitoso para término: CHIFLE (BOCADITOS)
+2024-12-04 20:44:34,024 - INFO - ====== WebDriver manager ======
+2024-12-04 20:44:35,277 - INFO - Scraping exitoso para término: BOCADITOS DE MAÍZ Y QUESO
+2024-12-04 20:44:35,293 - INFO - ====== WebDriver manager ======
+2024-12-04 20:44:35,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:36,032 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:37,107 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:37,108 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:37,287 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:44:37,288 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:44:40,668 - INFO - Scraping exitoso para término: PAPA FRITA (BOCADITOS)
+2024-12-04 20:44:40,688 - INFO - ====== WebDriver manager ======
+2024-12-04 20:44:41,386 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:41,608 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:44:41,700 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:45:19,759 - ERROR - Error scraping wong: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5d92d5bf534a <unknown>
+#1 0x5d92d570b6e0 <unknown>
+#2 0x5d92d57114a3 <unknown>
+#3 0x5d92d5713c3e <unknown>
+#4 0x5d92d579df6c <unknown>
+#5 0x5d92d577e462 <unknown>
+#6 0x5d92d579ced7 <unknown>
+#7 0x5d92d577e203 <unknown>
+#8 0x5d92d574ccc0 <unknown>
+#9 0x5d92d574dc9e <unknown>
+#10 0x5d92d5bc2d3b <unknown>
+#11 0x5d92d5bc6cc2 <unknown>
+#12 0x5d92d5bafb6c <unknown>
+#13 0x5d92d5bc7837 <unknown>
+#14 0x5d92d5b9510f <unknown>
+#15 0x5d92d5be45a8 <unknown>
+#16 0x5d92d5be4770 <unknown>
+#17 0x5d92d5bf41c6 <unknown>
+#18 0x7a1c0f49ca94 <unknown>
+#19 0x7a1c0f529c3c <unknown>
+
+2024-12-04 20:45:20,259 - INFO - Scraping exitoso para término: CEBADA TOSTADA SOLUBLE
+2024-12-04 20:45:20,265 - INFO - ====== WebDriver manager ======
+2024-12-04 20:45:21,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:45:21,133 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:45:21,211 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:45:56,307 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5d968f68634a <unknown>
+#1 0x5d968f19c6e0 <unknown>
+#2 0x5d968f1eb3e6 <unknown>
+#3 0x5d968f1eb681 <unknown>
+#4 0x5d968f230b04 <unknown>
+#5 0x5d968f20f48d <unknown>
+#6 0x5d968f22ded7 <unknown>
+#7 0x5d968f20f203 <unknown>
+#8 0x5d968f1ddcc0 <unknown>
+#9 0x5d968f1dec9e <unknown>
+#10 0x5d968f653d3b <unknown>
+#11 0x5d968f657cc2 <unknown>
+#12 0x5d968f640b6c <unknown>
+#13 0x5d968f658837 <unknown>
+#14 0x5d968f62610f <unknown>
+#15 0x5d968f6755a8 <unknown>
+#16 0x5d968f675770 <unknown>
+#17 0x5d968f6851c6 <unknown>
+#18 0x71d9e129ca94 <unknown>
+#19 0x71d9e1329c3c <unknown>
+
+2024-12-04 20:46:19,361 - INFO - Scraping exitoso para término: POP CORN (BOCADITOS)
+2024-12-04 20:46:19,368 - INFO - ====== WebDriver manager ======
+2024-12-04 20:46:19,698 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:46:19,979 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:46:20,039 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:46:26,098 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64403402e34a <unknown>
+#1 0x644033b446e0 <unknown>
+#2 0x644033b933e6 <unknown>
+#3 0x644033b93681 <unknown>
+#4 0x644033bd8b04 <unknown>
+#5 0x644033bb748d <unknown>
+#6 0x644033bd5ed7 <unknown>
+#7 0x644033bb7203 <unknown>
+#8 0x644033b85cc0 <unknown>
+#9 0x644033b86c9e <unknown>
+#10 0x644033ffbd3b <unknown>
+#11 0x644033fffcc2 <unknown>
+#12 0x644033fe8b6c <unknown>
+#13 0x644034000837 <unknown>
+#14 0x644033fce10f <unknown>
+#15 0x64403401d5a8 <unknown>
+#16 0x64403401d770 <unknown>
+#17 0x64403402d1c6 <unknown>
+#18 0x79be8ea9ca94 <unknown>
+#19 0x79be8eb29c3c <unknown>
+
+2024-12-04 20:46:28,706 - INFO - Scraping exitoso para término: CAFÉ TOSTADO MOLIDO
+2024-12-04 20:46:28,707 - INFO - ====== WebDriver manager ======
+2024-12-04 20:46:29,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:46:29,270 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:46:29,392 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:47:05,381 - INFO - Scraping exitoso para término: TÉ NEGRO FILTRANTE
+2024-12-04 20:47:05,386 - INFO - ====== WebDriver manager ======
+2024-12-04 20:47:06,115 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:47:06,211 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:47:06,294 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:47:23,389 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5652b842d34a <unknown>
+#1 0x5652b7f436e0 <unknown>
+#2 0x5652b7f923e6 <unknown>
+#3 0x5652b7f92681 <unknown>
+#4 0x5652b7fd7b04 <unknown>
+#5 0x5652b7fb648d <unknown>
+#6 0x5652b7fd4ed7 <unknown>
+#7 0x5652b7fb6203 <unknown>
+#8 0x5652b7f84cc0 <unknown>
+#9 0x5652b7f85c9e <unknown>
+#10 0x5652b83fad3b <unknown>
+#11 0x5652b83fecc2 <unknown>
+#12 0x5652b83e7b6c <unknown>
+#13 0x5652b83ff837 <unknown>
+#14 0x5652b83cd10f <unknown>
+#15 0x5652b841c5a8 <unknown>
+#16 0x5652b841c770 <unknown>
+#17 0x5652b842c1c6 <unknown>
+#18 0x782aefa9ca94 <unknown>
+#19 0x782aefb29c3c <unknown>
+
+2024-12-04 20:47:43,739 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x6474e9b3a34a <unknown>
+#1 0x6474e96506e0 <unknown>
+#2 0x6474e969f3e6 <unknown>
+#3 0x6474e969f681 <unknown>
+#4 0x6474e96e4b04 <unknown>
+#5 0x6474e96c348d <unknown>
+#6 0x6474e96e1ed7 <unknown>
+#7 0x6474e96c3203 <unknown>
+#8 0x6474e9691cc0 <unknown>
+#9 0x6474e9692c9e <unknown>
+#10 0x6474e9b07d3b <unknown>
+#11 0x6474e9b0bcc2 <unknown>
+#12 0x6474e9af4b6c <unknown>
+#13 0x6474e9b0c837 <unknown>
+#14 0x6474e9ada10f <unknown>
+#15 0x6474e9b295a8 <unknown>
+#16 0x6474e9b29770 <unknown>
+#17 0x6474e9b391c6 <unknown>
+#18 0x71d1ece9ca94 <unknown>
+#19 0x71d1ecf29c3c <unknown>
+
+2024-12-04 20:48:08,865 - INFO - Scraping exitoso para término: HIERBAS PARA INFUSIONES
+2024-12-04 20:48:08,883 - INFO - ====== WebDriver manager ======
+2024-12-04 20:48:09,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:48:09,301 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:48:09,396 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:48:17,032 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5b14d3b2934a <unknown>
+#1 0x5b14d363f6e0 <unknown>
+#2 0x5b14d368e3e6 <unknown>
+#3 0x5b14d368e681 <unknown>
+#4 0x5b14d36d3b04 <unknown>
+#5 0x5b14d36b248d <unknown>
+#6 0x5b14d36d0ed7 <unknown>
+#7 0x5b14d36b2203 <unknown>
+#8 0x5b14d3680cc0 <unknown>
+#9 0x5b14d3681c9e <unknown>
+#10 0x5b14d3af6d3b <unknown>
+#11 0x5b14d3afacc2 <unknown>
+#12 0x5b14d3ae3b6c <unknown>
+#13 0x5b14d3afb837 <unknown>
+#14 0x5b14d3ac910f <unknown>
+#15 0x5b14d3b185a8 <unknown>
+#16 0x5b14d3b18770 <unknown>
+#17 0x5b14d3b281c6 <unknown>
+#18 0x7ad63549ca94 <unknown>
+#19 0x7ad635529c3c <unknown>
+
+2024-12-04 20:48:43,218 - INFO - Scraping exitoso para término: COCOA EN POLVO
+2024-12-04 20:48:43,228 - INFO - ====== WebDriver manager ======
+2024-12-04 20:48:43,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:48:44,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:48:44,088 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:48:55,653 - INFO - Scraping exitoso para término: PRODUCTO ACHOCOLATADO
+2024-12-04 20:48:55,654 - INFO - ====== WebDriver manager ======
+2024-12-04 20:48:56,161 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:48:56,233 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:49:06,020 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:49:19,743 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5c20a842434a <unknown>
+#1 0x5c20a7f3a6e0 <unknown>
+#2 0x5c20a7f893e6 <unknown>
+#3 0x5c20a7f89681 <unknown>
+#4 0x5c20a7fceb04 <unknown>
+#5 0x5c20a7fad48d <unknown>
+#6 0x5c20a7fcbed7 <unknown>
+#7 0x5c20a7fad203 <unknown>
+#8 0x5c20a7f7bcc0 <unknown>
+#9 0x5c20a7f7cc9e <unknown>
+#10 0x5c20a83f1d3b <unknown>
+#11 0x5c20a83f5cc2 <unknown>
+#12 0x5c20a83deb6c <unknown>
+#13 0x5c20a83f6837 <unknown>
+#14 0x5c20a83c410f <unknown>
+#15 0x5c20a84135a8 <unknown>
+#16 0x5c20a8413770 <unknown>
+#17 0x5c20a84231c6 <unknown>
+#18 0x7a82fd69ca94 <unknown>
+#19 0x7a82fd729c3c <unknown>
+
+2024-12-04 20:49:58,112 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x60417cec134a <unknown>
+#1 0x60417c9d76e0 <unknown>
+#2 0x60417ca263e6 <unknown>
+#3 0x60417ca26681 <unknown>
+#4 0x60417ca6bb04 <unknown>
+#5 0x60417ca4a48d <unknown>
+#6 0x60417ca68ed7 <unknown>
+#7 0x60417ca4a203 <unknown>
+#8 0x60417ca18cc0 <unknown>
+#9 0x60417ca19c9e <unknown>
+#10 0x60417ce8ed3b <unknown>
+#11 0x60417ce92cc2 <unknown>
+#12 0x60417ce7bb6c <unknown>
+#13 0x60417ce93837 <unknown>
+#14 0x60417ce6110f <unknown>
+#15 0x60417ceb05a8 <unknown>
+#16 0x60417ceb0770 <unknown>
+#17 0x60417cec01c6 <unknown>
+#18 0x71bd2c49ca94 <unknown>
+#19 0x71bd2c529c3c <unknown>
+
+2024-12-04 20:50:09,011 - INFO - Scraping exitoso para término: AGUA DE MESA SIN GAS
+2024-12-04 20:50:09,014 - INFO - ====== WebDriver manager ======
+2024-12-04 20:50:09,528 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:09,627 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:09,685 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:50:22,222 - INFO - Scraping exitoso para término: CAFÉ INSTANTÁNEO
+2024-12-04 20:50:22,229 - INFO - ====== WebDriver manager ======
+2024-12-04 20:50:22,879 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:22,974 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:23,115 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:50:54,649 - INFO - Scraping exitoso para término: AGUA MINERAL SIN GAS
+2024-12-04 20:50:54,650 - INFO - ====== WebDriver manager ======
+2024-12-04 20:50:55,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:55,520 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:50:55,617 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:51:36,430 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x64f62284934a <unknown>
+#1 0x64f62235f6e0 <unknown>
+#2 0x64f6223ae3e6 <unknown>
+#3 0x64f6223ae681 <unknown>
+#4 0x64f6223f3b04 <unknown>
+#5 0x64f6223d248d <unknown>
+#6 0x64f6223f0ed7 <unknown>
+#7 0x64f6223d2203 <unknown>
+#8 0x64f6223a0cc0 <unknown>
+#9 0x64f6223a1c9e <unknown>
+#10 0x64f622816d3b <unknown>
+#11 0x64f62281acc2 <unknown>
+#12 0x64f622803b6c <unknown>
+#13 0x64f62281b837 <unknown>
+#14 0x64f6227e910f <unknown>
+#15 0x64f6228385a8 <unknown>
+#16 0x64f622838770 <unknown>
+#17 0x64f6228481c6 <unknown>
+#18 0x7e9dc669ca94 <unknown>
+#19 0x7e9dc6729c3c <unknown>
+
+2024-12-04 20:53:28,759 - INFO - Scraping exitoso para término: BEBIDA HIDRATANTE
+2024-12-04 20:53:28,986 - INFO - ====== WebDriver manager ======
+2024-12-04 20:53:30,424 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:53:32,261 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 20:53:32,364 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 20:55:03,733 - INFO - Scraping exitoso para término: BEBIDAS GASEOSAS
+2024-12-04 20:55:33,721 - INFO - Scraping exitoso para término: BEBIDA ENERGIZANTE (FLUIDA)
+2024-12-04 20:56:02,934 - INFO - Scraping exitoso para término: REFRESCO ENVASADO (FLUIDO)
+2024-12-04 20:57:51,255 - INFO - Scraping exitoso para término: BEBIDA DE FRUTA ENVASADA
