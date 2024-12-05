@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <!-- Tambo -->
+    <website name="tambo" base_url="https://www.tambo.pe/">
+        <actions>
+            <!--Cerramos la promo-->
+            <action type="click" selector="div.absolute.h-8.w-8.-right-3.-top-3.primaryBackgroundColor.rounded-full.text-sm.font-semibold.text-white.shadow-sm.flex.justify-center.items-center.cursor-pointer" />
+            
+            <!--Aceptamos las cookies-->
+            <action type="click" selector="button[form='formId']:first-of-type" />
+
+            <!-- Ingresamos el termino de busqueda -->
+            <action type="input" selector="input[placeholder='Buscar productos']" value="{search_term}" />
+            <action type="enter" selector="input[placeholder='Buscar productos']" />
+
+            <!-- Click en cerrar ubicacion?-->
+            <action type="click" optional="true" selector="div.cursor-pointer.underline" />
+
+        </actions>
+        <selectors>
+            <container>div.col-xs-4.col-sm-3.col-md-2.col-lg-2</container>
+            <description>span._3tOb1kUYtBNfge7JfPDU_D.productName</description>
+            <price>div._3cwJgygKLOPOt2029qoP1N.productPrice</price>
+            <limit>40</limit>
+        </selectors>
+    </website>
+</websites>

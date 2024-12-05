@@ -13697,3 +13697,128 @@ Stacktrace:
 2024-12-04 18:20:21,503 - INFO - Scraping exitoso para t�rmino: REFRESCO ENVASADO (FLUIDO)
 2024-12-04 18:20:22,258 - INFO - Scraping exitoso para t�rmino: BEBIDA HIDRATANTE
 2024-12-04 18:20:33,841 - INFO - Scraping exitoso para t�rmino: BEBIDA DE FRUTA ENVASADA
+2024-12-04 23:05:20,753 - INFO - ====== WebDriver manager ======
+2024-12-04 23:05:20,754 - INFO - ====== WebDriver manager ======
+2024-12-04 23:05:20,767 - INFO - ====== WebDriver manager ======
+2024-12-04 23:05:20,771 - INFO - ====== WebDriver manager ======
+2024-12-04 23:05:20,777 - INFO - ====== WebDriver manager ======
+2024-12-04 23:05:21,194 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,218 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,224 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,236 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,251 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,286 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,293 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,300 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,312 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:05:21,331 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:05:21,354 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:05:21,376 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:05:21,388 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:05:21,403 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:07:04,441 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x5bd01639e34a <unknown>
+#1 0x5bd015eb46e0 <unknown>
+#2 0x5bd015f033e6 <unknown>
+#3 0x5bd015f03681 <unknown>
+#4 0x5bd015f48b04 <unknown>
+#5 0x5bd015f2748d <unknown>
+#6 0x5bd015f45ed7 <unknown>
+#7 0x5bd015f27203 <unknown>
+#8 0x5bd015ef5cc0 <unknown>
+#9 0x5bd015ef6c9e <unknown>
+#10 0x5bd01636bd3b <unknown>
+#11 0x5bd01636fcc2 <unknown>
+#12 0x5bd016358b6c <unknown>
+#13 0x5bd016370837 <unknown>
+#14 0x5bd01633e10f <unknown>
+#15 0x5bd01638d5a8 <unknown>
+#16 0x5bd01638d770 <unknown>
+#17 0x5bd01639d1c6 <unknown>
+#18 0x7ba8f449ca94 <unknown>
+#19 0x7ba8f4529c3c <unknown>
+
+2024-12-04 23:07:26,774 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:07:26,924 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:07:27,074 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:07:27,097 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:07:27,097 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:07:27,444 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e1358b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/121c95f14ab25a2074a17f33b516cfec
+2024-12-04 23:07:27,474 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e137b90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f6b30e91d46e3a1654027d1e8f6b5f6e
+2024-12-04 23:07:27,592 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e6e4dd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f6b30e91d46e3a1654027d1e8f6b5f6e
+2024-12-04 23:07:27,596 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e134050>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/f6b30e91d46e3a1654027d1e8f6b5f6e
+2024-12-04 23:07:27,641 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e135610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0a606aa6f1a27072f4cb07a4404608a0
+2024-12-04 23:07:27,642 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e137c50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0a606aa6f1a27072f4cb07a4404608a0
+2024-12-04 23:07:27,717 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e1349e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5b76b6415b9e1af2a48ad6b0fa1b237f
+2024-12-04 23:07:27,717 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e11fa40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/121c95f14ab25a2074a17f33b516cfec
+2024-12-04 23:07:27,739 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e2c2c00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/121c95f14ab25a2074a17f33b516cfec
+2024-12-04 23:07:27,718 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e134770>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0a606aa6f1a27072f4cb07a4404608a0
+2024-12-04 23:07:27,718 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e1373b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5840b68d969f23e8456c9f5a8c82cea0
+2024-12-04 23:07:27,745 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e154230>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5840b68d969f23e8456c9f5a8c82cea0
+2024-12-04 23:07:27,747 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e1544d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5840b68d969f23e8456c9f5a8c82cea0
+2024-12-04 23:07:27,761 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e2c2210>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5b76b6415b9e1af2a48ad6b0fa1b237f
+2024-12-04 23:07:27,762 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74725e477770>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5b76b6415b9e1af2a48ad6b0fa1b237f
+2024-12-04 23:07:28,812 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-04 23:07:29,092 - INFO - Scraping exitoso para término: MAÍZ REVENTÓN (POP CORN)
+2024-12-04 23:07:29,363 - INFO - Scraping exitoso para término: MAÍZ SECO CANCHA
+2024-12-04 23:07:29,442 - INFO - Scraping exitoso para término: MAÍZ MORADO
+2024-12-04 23:07:29,469 - INFO - Scraping exitoso para término: ARROZ A GRANEL
+2024-12-04 23:07:51,010 - INFO - ====== WebDriver manager ======
+2024-12-04 23:07:51,011 - INFO - ====== WebDriver manager ======
+2024-12-04 23:07:51,016 - INFO - ====== WebDriver manager ======
+2024-12-04 23:07:51,939 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:51,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:51,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:52,050 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:52,057 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:52,057 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:07:52,148 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:07:52,150 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:07:52,182 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:09:08,780 - WARNING - Optional action failed: Message: 
+Stacktrace:
+#0 0x608f4179a34a <unknown>
+#1 0x608f412b06e0 <unknown>
+#2 0x608f412ff3e6 <unknown>
+#3 0x608f412ff681 <unknown>
+#4 0x608f41344b04 <unknown>
+#5 0x608f4132348d <unknown>
+#6 0x608f41341ed7 <unknown>
+#7 0x608f41323203 <unknown>
+#8 0x608f412f1cc0 <unknown>
+#9 0x608f412f2c9e <unknown>
+#10 0x608f41767d3b <unknown>
+#11 0x608f4176bcc2 <unknown>
+#12 0x608f41754b6c <unknown>
+#13 0x608f4176c837 <unknown>
+#14 0x608f4173a10f <unknown>
+#15 0x608f417895a8 <unknown>
+#16 0x608f41789770 <unknown>
+#17 0x608f417991c6 <unknown>
+#18 0x7a111609ca94 <unknown>
+#19 0x7a1116129c3c <unknown>
+
+2024-12-04 23:09:36,527 - ERROR - Error scraping tambo: Message: 
+
+2024-12-04 23:09:37,297 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-04 23:09:37,298 - INFO - ====== WebDriver manager ======
+2024-12-04 23:09:38,705 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:09:38,954 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-04 23:09:39,160 - INFO - Driver [/home/luis/.wdm/drivers/chromedriver/linux64/131.0.6778.87/chromedriver] found in cache
+2024-12-04 23:09:56,734 - ERROR - Error scraping tambo: HTTPConnectionPool(host='localhost', port=53573): Read timed out. (read timeout=120)
+2024-12-04 23:10:08,802 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:10:08,810 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f83b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/440dc6b3b0842753e533ed74afa4d861
+2024-12-04 23:10:08,824 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/407e9ce54bb143debdd11deece98384a
+2024-12-04 23:10:08,829 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f85f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/440dc6b3b0842753e533ed74afa4d861
+2024-12-04 23:10:08,839 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f9400>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/440dc6b3b0842753e533ed74afa4d861
+2024-12-04 23:10:08,834 - ERROR - Error scraping tambo: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-04 23:10:08,871 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f9850>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fe73f1f9d9156c6eb534d885359a28fa
+2024-12-04 23:10:08,872 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f9a00>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fe73f1f9d9156c6eb534d885359a28fa
+2024-12-04 23:10:08,872 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f9bb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fe73f1f9d9156c6eb534d885359a28fa
+2024-12-04 23:10:08,873 - INFO - Scraping exitoso para término: MAÍZ REVENTÓN (POP CORN)
+2024-12-04 23:10:08,879 - INFO - Scraping exitoso para término: MAÍZ MORADO
+2024-12-04 23:10:08,880 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228f8800>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/407e9ce54bb143debdd11deece98384a
+2024-12-04 23:10:08,881 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7bb2228be450>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/407e9ce54bb143debdd11deece98384a
+2024-12-04 23:10:08,882 - INFO - Scraping exitoso para término: ARROZ A GRANEL
