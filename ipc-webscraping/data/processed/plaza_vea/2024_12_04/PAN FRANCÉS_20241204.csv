@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
+Presentación 0.42 kg aprox.,Pan Francés x Kg,S/ 7.90 x kg,plaza_vea,PAN FRANCÉS,2024-12-04 12:59:39.734692,0.42,kg,7.9
+Bolsa 550g,Pan Mini Francés LA FLORENCIA Bolsa 550g,S/ 5.90 un,plaza_vea,PAN FRANCÉS,2024-12-04 12:59:39.734692,550.0,g,5.9
+Bolsa 250g,Pan Francés DON MAMINO Precocido Bolsa 250g,S/ 4.50 un,plaza_vea,PAN FRANCÉS,2024-12-04 12:59:39.734692,250.0,g,4.5

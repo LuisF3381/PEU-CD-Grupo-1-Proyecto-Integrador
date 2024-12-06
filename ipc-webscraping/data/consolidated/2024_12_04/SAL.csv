@@ -1,0 +1,410 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
+Sal de Ajos Molido Sobre 16 g,S/ 1.10,metro,SAL,2024-12-04 22:05:19.184229,16.0,g,1.1,metro,,,SAL
+Galletas Saladas FIELD Cream Cracker Paquete 7...,S/ 1.40 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,5.0,g,1.4,plaza_vea,"Paquete 73,5g",,SAL
+Galletas Saladas Ritz Mini 50g,S/ 1.50,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,50.0,g,1.5,metro,,,SAL
+"Galleta RITZ Taco 52,5gr",S/ 1.50,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,5.0,g,1.5,vega,,Ritz,SAL
+Galleta Mini RITZ Bolsa 50gr,S/ 1.50,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,50.0,g,1.5,vega,,Ritz,SAL
+Galletas Saladas RITZ sabor Original Paquete 5...,S/ 1.50 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,5.0,g,1.5,plaza_vea,"Paquete 52,5g",,SAL
+Galletas FIELD Cream Crakers Bolsa 73.5gr,S/ 1.60,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,73.5,g,1.6,vega,,Cream Cracker,SAL
+Galleta Crackelet de Jamón Ahumado de 47 g,S/ 1.60,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,47.0,g,1.6,tottus,,COSTA,SAL
+Galleta SAN JORGE Soda Familiar 75gr,S/ 1.60,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,75.0,g,1.6,vega,,San Jorge,SAL
+Galletas Saladas Ritz Mini 50g,S/ 1.70,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,50.0,g,1.7,wong,,,SAL
+Pasta de Tomate Cuisine & Co Doypack 100 g,S/ 1.70,wong,PASTA Y SALSA DE TOMATE,2024-12-04 20:30:04.424566,100.0,g,1.7,wong,,,SAL
+Pasta de Tomate Cuisine & Co Doypack 100 g,S/ 1.70,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,100.0,g,1.7,metro,,,SAL
+Puré de Tomate Pomarola Concentrado 110 g,S/ 1.80,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,110.0,g,1.8,tottus,,MOLITALIA,SAL
+Salsa de tomate Pomarola clásica 145 g,S/ 1.90,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,145.0,g,1.9,tottus,,MOLITALIA,SAL
+Galletas Saladas Ritz Original 52.5g,S/ 1.90,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,52.5,g,1.9,metro,,,SAL
+Galletas Saladas Ritz Original 52.5g,S/ 1.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,52.5,g,1.9,wong,,,SAL
+Sal de Mesa BELL'S Bolsa 1 Kg,S/ 2 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.0,plaza_vea,Bolsa 1Kg,,SAL
+Sal de Cocina BELL'S Bolsa 1Kg,S/ 2.00,vivanda,SAL,2024-12-04 18:09:00.549217,1.0,kg,2.0,vivanda,,BELL'S,SAL
+Galletas Saladas Ritz 70g,S/ 2.00,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,70.0,g,2.0,wong,,,SAL
+Sal de Cocina Gruesa Cuisine & Co 1kg,S/ 2.00,metro,SAL,2024-12-04 22:05:19.184229,1.0,kg,2.0,metro,,,SAL
+Sal de Mesa Cuisine & Co 1kg,S/ 2.00,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,2.0,wong,,,SAL
+Sal de Cocina Gruesa Cuisine & Co 1kg,S/ 2.00,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,2.0,wong,,,SAL
+Galletas Saladas Ritz 70g,S/ 2.00,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,70.0,g,2.0,metro,,,SAL
+Sal de Cocina BELL'S Bolsa 1Kg,S/ 2 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.0,plaza_vea,Bolsa 1Kg,,SAL
+SAL DE COCINA X 1 KG,S/ 2.10,tottus,SAL,2024-12-04 13:50:23.417372,1.0,kg,2.1,tottus,,TOTTUS,SAL
+SAL DE MESA X 1 KG,S/ 2.10,tottus,SAL,2024-12-04 13:50:23.417372,1.0,kg,2.1,tottus,,TOTTUS,SAL
+Pasta de Tomate B & D 100g,S/ 2.20,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,100.0,g,2.2,metro,,,SAL
+Sal de Mesa Marina Emsal Bolsa 1 kg,S/ 2.40,metro,SAL,2024-12-04 22:05:19.184229,1.0,kg,2.4,metro,,,SAL
+Sal de Cocina Marina Emsal Bolsa 1 kg,S/ 2.40,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,2.4,wong,,,SAL
+Sal de Mesa Marina Emsal Bolsa 1 kg,S/ 2.40,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,2.4,wong,,,SAL
+Sal Marina EMSAL Mesa Bolsa 1Kg,S/ 2.40,vivanda,SAL,2024-12-04 18:09:00.549217,1.0,kg,2.4,vivanda,,EMSAL,SAL
+Sal Marina EMSAL Mesa Bolsa 1Kg,S/ 2.40 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.4,plaza_vea,Bolsa 1kg,,SAL
+Sal EMSAL Cocina Bolsa 1Kg,S/ 2.40,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,2.4,vega,,Emsal,SAL
+Sal de Cocina Marina Emsal Bolsa 1 kg,S/ 2.40,metro,SAL,2024-12-04 22:05:19.184229,1.0,kg,2.4,metro,,,SAL
+Sal de mar para cocina de 1 kg,S/ 2.50,tottus,SAL,2024-12-04 13:50:23.417372,1.0,kg,2.5,tottus,,MARINA,SAL
+Sal LOBOS De mesa fina Pote 125Gr,S/ 2.60,vivanda,SAL,2024-12-04 18:09:00.549217,125.0,g,2.6,vivanda,,LOBOS,SAL
+Sal de Mesa LOBOS Fina Pote 125g,S/ 2.60 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,125.0,g,2.6,plaza_vea,Pote 125g,,SAL
+Galleta SAN JORGE Cracknel Original 140gr,S/ 2.60,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,140.0,g,2.6,vega,,San Jorge,SAL
+Salsa tipo Tamarindo 2 BANDERAS con Pasta de T...,S/ 2.69 un,plaza_vea,PASTA Y SALSA DE TOMATE,2024-12-04 14:31:40.122310,100.0,g,2.69,plaza_vea,Bolsa 100g,,SAL
+Salsa tipo Tamarindo 2 BANDERAS con Pasta de Tomate Bolsa 100g,S/ 2.69,vivanda,PASTA Y SALSA DE TOMATE,2024-12-04 18:13:02.871787,100.0,g,2.69,vivanda,,2BANDERAS,SAL
+Pasta Dental DENTO Herbal Tubo 75ml,S/ 2.80,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,75.0,ml,2.8,vega,,Dento,SAL
+Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,S/ 2.90,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,6.0,g,2.9,metro,,,SAL
+Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,S/ 2.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,6.0,g,2.9,wong,,,SAL
+Papas Fritas Lays Artesanas Sal Marina 34g,S/ 2.90,metro,SAL,2024-12-04 22:05:19.184229,34.0,g,2.9,metro,,,SAL
+Galletas RITZ Taco 52.5g x 2u,S/ 3.00,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,52.5,g,3.0,vega,,Ritz,SAL
+Cancha Chulpi Salada Cuisine & Co Bolsa 100 g,S/ 3.12,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,100.0,g,3.12,wong,,,SAL
+Pasta Dental KOLYNOS Súper Blanco Tubo 60ml,S/ 3.30 11%,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,60.0,ml,3.3,vega,,Kolynos,SAL
+Salsa de tomate Pomarola clásica de 290 g,S/ 3.60,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,290.0,g,3.6,tottus,,MOLITALIA,SAL
+Pasta de Tomate B & D 200g,S/ 3.60,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,200.0,g,3.6,metro,,,SAL
+Galleta SAN JORGE Soda Gourmet 250gr,S/ 3.70,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,250.0,g,3.7,vega,,San Jorge,SAL
+Piqueo BELL'S Chifles Salados Táper 100g,S/ 3.79,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,100.0,g,3.79,vivanda,,BELL'S,SAL
+Sal Fina de Mesa EMSAL Frasco 125g,S/ 3.79,vivanda,SAL,2024-12-04 18:09:00.549217,125.0,g,3.79,vivanda,,EMSAL,SAL
+Sixpack Galletas Saladas Ritz Sabor Original 22.4g,S/ 3.80,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,22.4,g,3.8,wong,,,SAL
+Galletas Saladas RITZ sabor Original Paquete 6...,S/ 3.80 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,120.0,g,3.8,plaza_vea,Paquete 120g,,SAL
+Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,S/ 3.90,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,150.0,g,3.9,metro,,,SAL
+Cancha Chulpi Salada Cuisine & Co Bolsa 100 g,S/ 3.90,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,100.0,g,3.9,metro,,,SAL
+Pasta Dental DENTITO Chicha Morada Tubo 85gr,S/ 4.00,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,85.0,g,4.0,vega,,Dento,SAL
+Sixpack Galletas Saladas Ritz Original 20g,S/ 4.00,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,20.0,g,4.0,wong,,,SAL
+Sixpack Galletas Saladas Ritz Original 20g,S/ 4.00,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,20.0,g,4.0,metro,,,SAL
+Sal BIOSAL Liviana en sodio Frasco 125g,S/ 4.10 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,125.0,g,4.1,plaza_vea,Frasco 125g,,SAL
+Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,S/ 4.10,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,150.0,g,4.1,wong,,,SAL
+Sal Light 125 g,S/ 4.10,tottus,SAL,2024-12-04 13:50:23.417372,125.0,g,4.1,tottus,,BIOSAL,SAL
+Sal BIOSAL Liviana en sodio Frasco 125g,S/ 4.10,vivanda,SAL,2024-12-04 18:09:00.549217,125.0,g,4.1,vivanda,,BIOSAL,SAL
+Piqueo BELL'S Maní salado Bolsa 180Gr,S/ 4.20,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,180.0,g,4.2,vivanda,,BELL'S,SAL
+Maní KARINTO Engalletado Salado Bolsa 100g,S/ 4.20,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,100.0,g,4.2,vivanda,,KARINTO,SAL
+Galletas Soda FIELD Bolsa 6u 32gr,S/ 4.20,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,32.0,g,4.2,vega,,Field,SAL
+Galletas Integral COSTA con Salvado de Trigo Paquete 6u 37g,S/ 4.30,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,37.0,g,4.3,vega,,Costa,SAL
+Piqueo BELL'S Maní Frito Salado Táper 140g,S/ 4.30,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,140.0,g,4.3,vivanda,,BELL'S,SAL
+Galletas COSTA Gretel Manjar Paquete 6u 32g,S/ 4.30,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,32.0,g,4.3,vega,,Costa,SAL
+Galletas COSTA Agua Line Paquete 6u 42g,S/ 4.40,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,42.0,g,4.4,vega,,Costa,SAL
+Galleta RITZ Regular Paquete 6u 20gr,S/ 4.50,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,20.0,g,4.5,vega,,Ritz,SAL
+Galletas Saladas CLUB SOCIAL sabor Original Pa...,S/ 4.50 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,144.0,g,4.5,plaza_vea,Bolsa 144g,,SAL
+Galletas Saladas Sixpack Integral 144 g,S/ 4.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,144.0,g,4.5,tottus,,CLUB SOCIAL,SAL
+Galletas Saladas CLUB SOCIAL Integrales Paquet...,S/ 4.50 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,144.0,g,4.5,plaza_vea,Paquete 144g,,SAL
+Piqueo BELL'S Chifles salados Bolsa 125Gr,S/ 4.59,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,125.0,g,4.59,vivanda,,BELL'S,SAL
+Sal Marina de Mesa EMSAL Ecológica Doypack 500g,S/ 4.59,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,4.59,vivanda,,MARINA,SAL
+Sal Marina de Mesa EMSAL Ecológica Doypack 500...,S/ 4.59 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,4.59,plaza_vea,Doypack 500g,,SAL
+Sixpack Galletas Saladas Club Social Original 24g,S/ 4.60,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,4.6,metro,,,SAL
+Sixpack Galletas Saladas Club Social Integral 24g,S/ 4.60,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,4.6,wong,,,SAL
+Sixpack Galletas Saladas Club Social Integral 24g,S/ 4.60,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,4.6,metro,,,SAL
+Sixpack Galletas Saladas Club Social Original 24g,S/ 4.60,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,4.6,wong,,,SAL
+Galletas Saladas RITZ sabor Queso Paquete 6un,S/ 4.79 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,180.0,g,4.79,plaza_vea,Paquete 180g,,SAL
+Galletas Saladas RITZ Sabor a Queso Bolsa 30g Paquete 6un,S/ 4.79,vivanda,GALLETAS SALADAS,2024-12-04 17:19:05.386670,30.0,g,4.79,vivanda,,NABISCO RITZ,SAL
+Galleta SAN JORGE Soda Paquete 7un,S/ 4.80,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,7.0,un,4.8,vega,,San Jorge,SAL
+Filete de Atún en Agua y Sal Cuisine & Co 140g,S/ 4.80,metro,SAL,2024-12-04 22:05:19.184229,140.0,g,4.8,metro,,,SAL
+PULPA FINAL DE TOMATE X 400 G,S/ 4.90,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,400.0,g,4.9,tottus,,TOTTUS,SAL
+Empanada de Carne De La Casa x un,S/ 4.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,un,4.9,wong,,,SAL
+Empanada de Pollo De La Casa x un,S/ 4.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,un,4.9,wong,,,SAL
+Galletas Saladas DORÉ Paquete 6un,S/ 4.90 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,6.0,un,4.9,plaza_vea,Paquete 6un,,SAL
+Papel Toalla BOREAL Megarollo Paquete 2un,S/ 4.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,2.0,un,4.9,vivanda,,BOREAL,SAL
+Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 4.99,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,30.0,g,4.99,wong,,,SAL
+Piqueo VILLA NATURA Chifles salados Bolsa 150Gr,S/ 5.00,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,150.0,g,5.0,vivanda,,VILLA NATURA,SAL
+Sal Marina Emsal Doypack Ecológico 500Gr,S/ 5.10,metro,SAL,2024-12-04 22:05:19.184229,500.0,g,5.1,metro,,,SAL
+Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 5.20,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,5.2,wong,,,SAL
+Galletas Saladas CLUB SOCIAL sabor Mantequilla...,S/ 5.20 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,144.0,g,5.2,plaza_vea,Paquete 144g,,SAL
+Sólido de Caballa CAMPOMAR en Aceite Vegetal Lata 170g,S/ 5.20,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,170.0,g,5.2,vivanda,,CAMPOMAR,SAL
+Sal de Mesa LOBOS Fina Frasco 500g,S/ 5.29 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,5.29,plaza_vea,Frasco 500g,,SAL
+Tripack Galletas Saladas Ritz Original 52.5g,S/ 5.30,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,52.5,g,5.3,metro,,,SAL
+Tripack Galletas Saladas Ritz Original 52.5g,S/ 5.30,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,52.5,g,5.3,wong,,,SAL
+Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,S/ 5.50,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,150.0,g,5.5,metro,,,SAL
+Filete de Atún en Agua y Sal Cuisine & Co 140g,S/ 5.50,wong,SAL,2024-12-04 20:21:11.436693,140.0,g,5.5,wong,,,SAL
+Galleta Salada Taco 241 g,S/ 5.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,241.0,g,5.5,tottus,,DUCALES,SAL
+Filete de Atún en Agua y Sal Cuisine & Co 140g,S/ 5.50,wong,SAL,2024-12-04 20:21:11.436693,140.0,g,5.5,wong,,,SAL
+Sazonador AJINOMOTO Sobre 250gr,S/ 5.60,vega,SAL,2024-12-04 14:32:21.918867,250.0,g,5.6,vega,,Ajinomoto,SAL
+Sólido de Atún en Agua y Sal Cuisine & Co 140g,S/ 5.60,metro,SAL,2024-12-04 22:05:19.184229,140.0,g,5.6,metro,,,SAL
+Sólido de Atún en Agua y Sal Metro 140g,S/ 5.60,metro,SAL,2024-12-04 22:05:19.184229,140.0,g,5.6,metro,,,SAL
+Galletas Saladas Ducales 241g,S/ 5.70,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,241.0,g,5.7,metro,,,SAL
+Trozos Atún en Aceite Vegetal y Sal 140g,S/ 5.80,tottus,SAL,2024-12-04 13:50:23.417372,140.0,g,5.8,tottus,,FLORIDA,SAL
+Galletas Saladas DORÉ Paquete 230g,S/ 5.80 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,230.0,g,5.8,plaza_vea,Paquete 230g,,SAL
+Sólido de Atún en Agua y Sal Cuisine & Co 140g,S/ 5.80,wong,SAL,2024-12-04 20:21:11.436693,140.0,g,5.8,wong,,,SAL
+Papitas al Hilo LAYS con Sal Bolsa 155gr,S/ 5.80,vega,SAL,2024-12-04 14:32:21.918867,155.0,g,5.8,vega,,Lays,SAL
+Lomos de Atún en Agua y Sal Campomar 150g,S/ 5.80,wong,SAL,2024-12-04 20:21:11.436693,150.0,g,5.8,wong,,,SAL
+Galletas Saladas Doré Paquete 24 g Pack 6 unid,S/ 5.80,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,5.8,metro,,,SAL
+Galletas de Agua SAN JORGE Crackers Bolsa 450g,S/ 5.90,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,450.0,g,5.9,vega,,San Jorge,SAL
+"Triple de Palta, Tomate y Huevo x un",S/ 5.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.0,un,5.9,metro,,,SAL
+Set X 6 Lapices Pastel,S/ 5.90,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,l,5.9,tottus,,OFISCOOL,SAL
+Filete de Atún en Aceite Girasol y Sal Florida 140g,S/ 5.90,wong,SAL,2024-12-04 20:21:11.436693,140.0,g,5.9,wong,,,SAL
+Galletas Saladas Ducales 241g,S/ 5.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,241.0,g,5.9,wong,,,SAL
+Filete de Atún en Aceite Girasol y Sal Florida 140g,S/ 5.90,metro,SAL,2024-12-04 22:05:19.184229,140.0,g,5.9,metro,,,SAL
+Filete de Atún con Agua y Sal PRIMOR Lata 140g,S/ 6.00,vivanda,SAL,2024-12-04 18:09:00.549217,140.0,g,6.0,vivanda,,PRIMOR,SAL
+Galletas Saladas Doré 230g,S/ 6.00,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,230.0,g,6.0,metro,,,SAL
+Sal Fina de Mesa EMSAL Frasco 500g,S/ 6.10,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,6.1,vivanda,,EMSAL,SAL
+Galletas Saladas Doré 230g,S/ 6.20,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,230.0,g,6.2,wong,,,SAL
+Sal Fina De Mesa Marina Emsal Frasco 500 g,S/ 6.30,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,6.3,wong,,,SAL
+Crunch Garbanzo Sal Rosada Pimienta 100 g,S/ 6.30,tottus,SAL,2024-12-04 13:50:23.417372,100.0,g,6.3,tottus,,DYFFERENT,SAL
+Filete De Atún En Agua Y Sal x 150 g,S/ 6.30,tottus,SAL,2024-12-04 13:50:23.417372,150.0,g,6.3,tottus,,CAMPOMAR,SAL
+Lomo De Atún En Agua Y Sal x 150 g,S/ 6.30,tottus,SAL,2024-12-04 13:50:23.417372,150.0,g,6.3,tottus,,CAMPOMAR,SAL
+Sal Fina De Mesa Marina Emsal Frasco 500 g,S/ 6.30,metro,SAL,2024-12-04 22:05:19.184229,500.0,g,6.3,metro,,,SAL
+Pasta Dental ORAL B 3D White Brillant Fresh Tubo 70 g,S/ 6.40,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,70.0,g,6.4,vega,,Oral-B,SAL
+Galletas FIELD Cream Crakers Bolsa 258gr,S/ 6.40,vega,GALLETAS SALADAS,2024-12-04 13:13:06.115905,258.0,g,6.4,vega,,Cream Cracker,SAL
+Filete de atún en agua y sal de 140 g,S/ 6.50,tottus,SAL,2024-12-04 13:50:23.417372,140.0,g,6.5,tottus,,FLORIDA,SAL
+Papas LAY'S Artesanas Sal Marina Bolsa 135g,S/ 6.50,vivanda,SAL,2024-12-04 18:09:00.549217,135.0,g,6.5,vivanda,,LAY'S,SAL
+Papas Artesanas Lay's Sal Marina 135g,S/ 6.50,metro,SAL,2024-12-04 22:05:19.184229,135.0,g,6.5,metro,,,SAL
+Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,S/ 6.50,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,150.0,g,6.5,wong,,,SAL
+Empanada de Pollo Mundo Vegetal 2un,S/ 6.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,2.0,un,6.5,metro,,,SAL
+Pasta Dental COLGATE Triple Acciòn Tubo 75ml,S/ 6.50,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,75.0,ml,6.5,vega,,Colgate,SAL
+Sal Parrillera BELL'S Frasco 500g,S/ 6.60 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,6.6,plaza_vea,Frasco 500g,,SAL
+Galletas Saladas Cream Crackers 258g,S/ 6.60,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,258.0,g,6.6,metro,,,SAL
+Pastel de Jamón OTTO KUNZ Paquete 150g,S/ 6.80,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,150.0,g,6.8,vivanda,,OTTO KUNZ,SAL
+Salsa de Tomate Pomarola Bolognesa de 370 g,S/ 6.85,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,370.0,g,6.85,tottus,,MOLITALIA,SAL
+Galletas Saladas Cream Crackers 258g,S/ 6.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,258.0,g,6.9,wong,,,SAL
+Papel Toalla SCOTT Multiusos 2 en 1 Paquete 2un,S/ 7.00,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,2.0,un,7.0,vivanda,,SUAVE,SAL
+Piqueo TOSTITOS Nachos con Sal Bolsa 200g,S/ 7.20,vega,SAL,2024-12-04 14:32:21.918867,200.0,g,7.2,vega,,TOSTITOS,SAL
+Pasta Dental DENTO Triple Accion + Cepillo Tubo 150 ml,S/ 7.20,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,150.0,ml,7.2,vega,,Dento,SAL
+RESALTADORES MINI PASTEL X 6UN,S/ 7.20,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,un,7.2,tottus,,ARTESCO,SAL
+Piqueo BELL'S Chifles salados Bolsa 220Gr,S/ 7.40,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,220.0,g,7.4,vivanda,,BELL'S,SAL
+Enrollado Vegetariano El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5,metro,,,SAL
+Enrollado de Pollo El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5,metro,,,SAL
+Enrollado Mixto El Cedro 170g,S/ 7.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,170.0,g,7.5,wong,,,SAL
+Enrollado Mixto El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5,metro,,,SAL
+Papel Toalla NOVA Ultra Absorbente Paquete 2un,S/ 7.50,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,2.0,un,7.5,vivanda,,NOVA,SAL
+Enrollado de Lechón El Cedro 170g,S/ 7.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,170.0,g,7.5,wong,,,SAL
+Enrollado Vegetariano El Cedro 170g,S/ 7.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,170.0,g,7.5,wong,,,SAL
+Set de Témperas LAYCONSA Puppy Pastel Paquete 6un,S/ 7.60,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,6.0,un,7.6,vivanda,,LAYCONSA,SAL
+Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 7.70,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,30.0,g,7.7,wong,,,SAL
+Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 7.70,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,30.0,g,7.7,metro,,,SAL
+Papas INKA CHIPS con Sal de Mar Bolsa 135g,S/ 7.80,vivanda,SAL,2024-12-04 18:09:00.549217,135.0,g,7.8,vivanda,,INKA CHIPS,SAL
+Cocktail Con Nueces Sin Sal 150g,S/ 7.90,tottus,SAL,2024-12-04 13:50:23.417372,150.0,g,7.9,tottus,,VILLA NATURA,SAL
+Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata 355ml,S/ 7.90,metro,SAL,2024-12-04 22:05:19.184229,355.0,ml,7.9,metro,,,SAL
+Pack x2 Sixpack Galletas Saladas Ritz Original 20g,S/ 7.90,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,20.0,g,7.9,metro,,,SAL
+Pack x2 Sixpack Galletas Saladas Ritz Original 20g,S/ 7.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,20.0,g,7.9,wong,,,SAL
+Cerveza CANDELARIA Sunset Sal de Maras Lata 35...,S/ 7.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,355.0,ml,7.9,plaza_vea,Lata 355ml,,SAL
+Shampoo BALLERINA Sin Sal Palta y Almendras Frasco 410ml,S/ 8.00 16%,vega,SAL,2024-12-04 14:32:21.918867,410.0,ml,8.0,vega,,Ballerina,SAL
+Sal de Maras Semi Gruesa Oli21 140g,S/ 8.20,wong,SAL,2024-12-04 20:21:11.436693,140.0,g,8.2,wong,,,SAL
+Sal de Maras Molida Oli21 145g,S/ 8.20,wong,SAL,2024-12-04 20:21:11.436693,145.0,g,8.2,wong,,,SAL
+COLORES TRIANG PASTELES X10UN,S/ 8.20,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,10.0,un,8.2,tottus,,ARTESCO,SAL
+Conserva de Pechuga de Pavo ALDELÍS en Agua y Sal Lata 155g,S/ 8.40,vivanda,SAL,2024-12-04 18:09:00.549217,155.0,g,8.4,vivanda,,ALDELÍS,SAL
+Chifle Salado CRICKETS Sabor Leche de Tigre Bolsa 150g,S/ 8.50,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,150.0,g,8.5,vivanda,,CRICKET S,SAL
+Sal Parrillera 750g,S/ 8.50,tottus,SAL,2024-12-04 13:50:23.417372,750.0,g,8.5,tottus,,TOTTUS,SAL
+Sal de Maras ONZA Ají Panca Doypack 400g,S/ 8.70,vivanda,SAL,2024-12-04 18:09:00.549217,400.0,g,8.7,vivanda,,ONZA,SAL
+Sal de Maras ONZA Hierbas Mediterráneas Doypack 250g,S/ 8.70,vivanda,SAL,2024-12-04 18:09:00.549217,250.0,g,8.7,vivanda,,ONZA,SAL
+Sal Parrillera EMSAL Frasco 500g,S/ 8.79,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,8.79,vivanda,,EMSAL,SAL
+Pack Trozos de Atún en Aceite Vegetal CAMPOMAR...,S/ 8.80 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,2.0,un,8.8,plaza_vea,Pack 2un,,SAL
+Sal Fina 600 g,S/ 8.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,8.9,metro,,,SAL
+Palitos Sanissimo Sal de Maras 90g,S/ 8.90,metro,SAL,2024-12-04 22:05:19.184229,90.0,g,8.9,metro,,,SAL
+Sal Gruesa 600 g,S/ 8.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,8.9,metro,,,SAL
+Sal Rosada de Maras PERUVIAN Gruesa Bolsa 500g,S/ 8.90,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,8.9,vivanda,,GOURMET,SAL
+Sal Rosada de Maras Gruesa Doypack 500 g,S/ 8.90,metro,SAL,2024-12-04 22:05:19.184229,500.0,g,8.9,metro,,,SAL
+Palitos de Sal Maras Sannissimo 90 g,S/ 8.90,tottus,SAL,2024-12-04 13:50:23.417372,90.0,g,8.9,tottus,,SANISSIMO,SAL
+Sal Rosada de Maras PERUVIAN Gruesa Bolsa 500g,S/ 8.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,8.9,plaza_vea,Bolsa 500g,,SAL
+"Triple de Palta, Tomate y Huevo x un",S/ 8.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,un,8.9,wong,,,SAL
+Mixtura Sin Sal Viva La Fruta 200g,S/ 8.90,tottus,SAL,2024-12-04 13:50:23.417372,200.0,g,8.9,tottus,,GENERICO,SAL
+Sal ONZA De maras fina Caja 500Gr,S/ 9 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.0,plaza_vea,Caja 500g,,SAL
+Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.00,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,30.0,g,9.0,wong,,,SAL
+Sal ONZA De maras gruesa Caja 500Gr,S/ 9.00,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,9.0,vivanda,,ONZA,SAL
+Sal de Maras con Hierbas Mediterráneas Cuisine & Co Doypack 500 g,S/ 9.10,metro,SAL,2024-12-04 22:05:19.184229,500.0,g,9.1,metro,,,SAL
+Twopack Sixpack Galletas Saladas Club Social Integral 24g,S/ 9.20,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,9.2,metro,,,SAL
+Twopack Sixpack Galletas Saladas Club Social Integral 24g,S/ 9.20,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,9.2,wong,,,SAL
+Twopack Sixpack Galletas Saladas Club Social Original 24g,S/ 9.20,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,9.2,wong,,,SAL
+Aditivo de Lavandería DIAMANTE Sal de Soda Mic...,S/ 9.30 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,3.0,un,9.3,plaza_vea,Paquete 3un,,SAL
+Pack x3 Sal de Soda Diamante Microperlada 100g,S/ 9.30,metro,SAL,2024-12-04 22:05:19.184229,100.0,g,9.3,metro,,,SAL
+Chifles KARINTO Salado Bolsa 150g,S/ 9.30,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,150.0,g,9.3,vivanda,,KARINTO,SAL
+Sal de Ajo 127.6 g,S/ 9.40,tottus,SAL,2024-12-04 13:50:23.417372,127.6,g,9.4,tottus,,BADIA,SAL
+Sal BADIA Ajo Frasco 127.60Gr,S/ 9.40 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,127.6,g,9.4,plaza_vea,Frasco 127.6g,,SAL
+Sal de Ajos Badia 127.6g,S/ 9.40,metro,SAL,2024-12-04 22:05:19.184229,127.6,g,9.4,metro,,,SAL
+Shampoo BALLERINA Sin Sal Palta y Almendras Doypack 750ml,S/ 9.50 26%,vega,SAL,2024-12-04 14:32:21.918867,750.0,ml,9.5,vega,,Ballerina,SAL
+Papel Toalla BOREAL Megarollo Paquete 4un,S/ 9.50,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,4.0,un,9.5,vivanda,,BOREAL,SAL
+Mixtura sin Sal Villa Natura 150g,S/ 9.50,metro,SAL,2024-12-04 22:05:19.184229,150.0,g,9.5,metro,,,SAL
+NILO PLAST PASTEL 20GRX12 + 4 CORTAD,S/ 9.50,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,20.0,g,9.5,tottus,,ARTI CREATIVO,SAL
+Sal de Maras con Ají Panca Cuisine & Co Doypack 500 g,S/ 9.60,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,9.6,wong,,,SAL
+Sal de Maras con Hierbas Mediterráneas Cuisine & Co Doypack 500 g,S/ 9.60,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,9.6,wong,,,SAL
+Maní con Pasas sin Sal Villa Natura 250g,S/ 9.70,metro,SAL,2024-12-04 22:05:19.184229,250.0,g,9.7,metro,,,SAL
+MANTEQUILLA SIN SAL 180 GR BARRA,S/ 9.80,tottus,SAL,2024-12-04 13:50:23.417372,180.0,g,9.8,tottus,,GLORIA,SAL
+Sal Especias 600 g,S/ 9.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,9.9,metro,,,SAL
+Sticks de Quinua Sal de Maras 80 g,S/ 9.90,tottus,SAL,2024-12-04 13:50:23.417372,80.0,g,9.9,tottus,,MAMALAMA,SAL
+Sal de Maras GOURMET Especial Bolsa 500g,S/ 9.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.9,plaza_vea,Bolsa 500g,,SAL
+Sal de Maras Fina Orígenes Doypack 600 g,S/ 9.90,tottus,SAL,2024-12-04 13:50:23.417372,600.0,g,9.9,tottus,,TOTTUS,SAL
+Mantequilla con Sal GLORIA Paquete 180g,S/ 9.90,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,9.9,vivanda,,GLORIA,SAL
+Sal de Maras Gruesa Orígenes Doypack 600 g,S/ 9.90,tottus,SAL,2024-12-04 13:50:23.417372,600.0,g,9.9,tottus,,TOTTUS,SAL
+Sal Rosada de Maras Fina Caja 600 g,S/ 9.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,9.9,metro,,,SAL
+Sal de Maras Gruesa BELL'S Doypack 500g,S/ 9.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.9,plaza_vea,Doypack 500g,,SAL
+Mantequilla sin Sal GLORIA Paquete 180g,S/ 9.90,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,9.9,vivanda,,GLORIA,SAL
+Sal de Maras GOURMET Especial Bolsa 500g,S/ 9.90,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,9.9,vivanda,,GOURMET,SAL
+Salsa para Pastas Filippo Berio Tomate Pesto Frasco 190 g,S/ 9.90,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,190.0,g,9.9,metro,,,SAL
+Sal Rosada de Maras Gruesa Caja 600 g,S/ 9.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,9.9,metro,,,SAL
+Sal Rosada de Maras Fina Caja 600 g,S/ 9.90,wong,SAL,2024-12-04 20:21:11.436693,600.0,g,9.9,wong,,,SAL
+Pretzel con Sal Maras Gourmet 110g,S/ 9.90,metro,SAL,2024-12-04 22:05:19.184229,110.0,g,9.9,metro,,,SAL
+Sal Rosada de Maras Gruesa Caja 600 g,S/ 9.90,wong,SAL,2024-12-04 20:21:11.436693,600.0,g,9.9,wong,,,SAL
+Velas Premium de Cumpleaños Rayadas Pastel MARSHALL & MASON x6un,S/ 9.95,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,6.0,un,9.95,vivanda,,MARSHALL & MASON,SAL
+Sal Parrillera Grano Grueso Cuisine & Co 750g,S/ 9.95,wong,SAL,2024-12-04 20:21:11.436693,750.0,g,9.95,wong,,,SAL
+Sal Rosada de Maras Gruesa Doypack 500 g,S/ 9.95,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,9.95,wong,,,SAL
+Twopack Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.98,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,30.0,g,9.98,wong,,,SAL
+Twopack Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.98,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,30.0,g,9.98,metro,,,SAL
+Sal Parrillera Emsal 500 g,S/ 10,tottus,SAL,2024-12-04 13:50:23.417372,500.0,g,10.0,tottus,,MARINA,SAL
+Almendras con Sal Vallealto 90g,S/ 10.00,metro,SAL,2024-12-04 22:05:19.184229,90.0,g,10.0,metro,,,SAL
+Pack x3 Sixpack Galletas Saladas Ritz Original 20g,S/ 10.10,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,20.0,g,10.1,metro,,,SAL
+Pack x3 Sixpack Galletas Saladas Ritz Original 20g,S/ 10.10,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,20.0,g,10.1,wong,,,SAL
+Galleta Salada TABLA GOURMET Caja 100g,S/ 10.30,vivanda,GALLETAS SALADAS,2024-12-04 17:19:05.386670,100.0,g,10.3,vivanda,,TABLA GOURMET,SAL
+LAPICERO LINER PASTEL X 6UN,S/ 10.40,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,un,10.4,tottus,,STABILO,SAL
+Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.40,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,10.4,metro,,,SAL
+Sazonador AJINOMOTO Sobre 500gr,S/ 10.40,vega,SAL,2024-12-04 14:32:21.918867,500.0,g,10.4,vega,,Ajinomoto,SAL
+Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.40,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,10.4,wong,,,SAL
+Mantequilla con Sal GLORIA Pote 180g,S/ 10.50,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,10.5,vivanda,,GLORIA,SAL
+Piqueos Cocktail VILLA NATURA con Nueces Sin Sal Pote 200g,S/ 10.50,vivanda,SAL,2024-12-04 18:09:00.549217,200.0,g,10.5,vivanda,,VILLA NATURA,SAL
+Pitacrisps Sal De Maras 80g,S/ 10.60,metro,SAL,2024-12-04 22:05:19.184229,80.0,g,10.6,metro,,,SAL
+Pasteles Navideños x 90 g,S/ 10.60,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,90.0,g,10.6,tottus,,COLOMBINA,SAL
+Sal LOBOS Parillera Frasco 750Gr,S/ 10.60,vivanda,SAL,2024-12-04 18:09:00.549217,750.0,g,10.6,vivanda,,LOBOS,SAL
+Pack Néctar FRUGOS DEL VALLE Sabor a Durazno 2...,S/ 10.70 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,2.0,un,10.7,plaza_vea,Pack 2un,,SAL
+Pack Néctar FRUGOS DEL VALLE Sabor a Naranja 2...,S/ 10.70 un,plaza_vea,GALLETAS SALADAS,2024-12-04 13:04:40.580199,2.0,un,10.7,plaza_vea,Pack 2un,,SAL
+Tripack Sixpack Galletas Saladas Club Social Original 24g,S/ 10.80,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,10.8,metro,,,SAL
+Tripack Sixpack Galletas Saladas Club Social Integral 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,10.8,wong,,,SAL
+Tripack Sixpack Galletas Saladas Club Social Original 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,10.8,wong,,,SAL
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,24.0,g,10.8,wong,,,SAL
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,24.0,g,10.8,metro,,,SAL
+Sal de Maras Sabor Ajo Oli21 135g,S/ 10.90,wong,SAL,2024-12-04 20:21:11.436693,135.0,g,10.9,wong,,,SAL
+Sal de Maras Sabor Orégano Oli21 115g,S/ 10.90,wong,SAL,2024-12-04 20:21:11.436693,115.0,g,10.9,wong,,,SAL
+Sal Parrillera Gruesa Lobos Lata 750 g,S/ 10.90,wong,SAL,2024-12-04 20:21:11.436693,750.0,g,10.9,wong,,,SAL
+Sal de Maras con Hierbas Mediterráneas Cuisine & Co Frasco 50 g,S/ 10.90,wong,SAL,2024-12-04 20:21:11.436693,50.0,g,10.9,wong,,,SAL
+Pistachos WONDERFUL Tostados y Salados Bolsa 35g,S/ 10.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,35.0,g,10.9,vivanda,,VALLEALTO,SAL
+Set de Tápers VIVA HOME Tapa Pastel 3un,S/ 10.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,3.0,un,10.9,vivanda,,VIVA HOME,SAL
+Cacahuates Salados SALYSOL Lata 250g,S/ 10.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,250.0,g,10.9,vivanda,,SALYSOL,SAL
+Mixtura sin Sal Villa Natura 250g,S/ 10.90,metro,SAL,2024-12-04 22:05:19.184229,250.0,g,10.9,metro,,,SAL
+Sal de Maras Mix Ajíes Peruanos Oli21 135g,S/ 10.90,wong,SAL,2024-12-04 20:21:11.436693,135.0,g,10.9,wong,,,SAL
+MANTEQUILLA SIN SAL BARRA X 180 GR,S/ 10.90,tottus,SAL,2024-12-04 13:50:23.417372,180.0,g,10.9,tottus,,LAIVE,SAL
+MANTEQUILLA CON SAL BARRA X 180 GR,S/ 10.90,tottus,SAL,2024-12-04 13:50:23.417372,180.0,g,10.9,tottus,,LAIVE,SAL
+Sal de Maras con Hierbas Mediterráneas Cuisine & Co Frasco 50 g,S/ 10.90,metro,SAL,2024-12-04 22:05:19.184229,50.0,g,10.9,metro,,,SAL
+Salsa de Tomate Don Italo 250g,S/ 10.99,wong,PASTA Y SALSA DE TOMATE,2024-12-04 20:30:04.424566,250.0,g,10.99,wong,,,SAL
+Salsa de Tomate Don Italo 250g,S/ 10.99,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,250.0,g,10.99,metro,,,SAL
+Shampoo sin sal con keratina y extracto de macadamia de 400 mL,S/ 11.12,tottus,SAL,2024-12-04 13:50:23.417372,400.0,ml,11.12,tottus,,MURANA,SAL
+Chifles Salados CRICKETS Bolsa 250g,S/ 11.20,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,250.0,g,11.2,vivanda,,CRICKET S,SAL
+Pasta Dental COLGATE Triple Acciòn Tubo 150ml,S/ 11.70,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,150.0,ml,11.7,vega,,Colgate,SAL
+Antiácido SAL DE ANDREWS Polvo efervecente triple acción Caja 12Un,S/ 11.90,vivanda,SAL,2024-12-04 18:09:00.549217,12.0,un,11.9,vivanda,,SAL ANDREWS,SAL
+Helado D'ONOFRIO Peziduri Chocolate Cremoso Pote 900ml,S/ 11.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,900.0,ml,11.9,vivanda,,D'ONOFRIO,SAL
+Mixtura sin Sal Villa Natura 200g,S/ 11.90,metro,SAL,2024-12-04 22:05:19.184229,200.0,g,11.9,metro,,,SAL
+Sal MARAS GOURMET Ahumada Bolsa 600g,S/ 11.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,600.0,g,11.9,plaza_vea,Bolsa 600g,,SAL
+Marcador ARTESCO Dual Brush Pastel Blíster 6un,S/ 11.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,6.0,un,11.9,vivanda,,ARTESCO,SAL
+Sal MARAS GOURMET Ahumada Bolsa 600g,S/ 11.90,vivanda,SAL,2024-12-04 18:09:00.549217,600.0,g,11.9,vivanda,,MARAS GOURMET,SAL
+Sal BIOSAL 50% Menos Sodio Frasco 500g,S/ 11.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,11.9,plaza_vea,Frasco 500g,,SAL
+Sal de Maras con Hierbas Aromáticas Gruesa Frasco 600 g,S/ 11.90,wong,SAL,2024-12-04 20:21:11.436693,600.0,g,11.9,wong,,,SAL
+Sal BIOSAL 50% Menos Sodio Frasco 500g,S/ 11.90,vivanda,SAL,2024-12-04 18:09:00.549217,500.0,g,11.9,vivanda,,BIOSAL,SAL
+Habas Saladas Villa Natura 250g,S/ 12.20,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,250.0,g,12.2,wong,,,SAL
+Antiácido Polvo Efervecente Triple Acción 12 Und,S/ 12.40,tottus,SAL,2024-12-04 13:50:23.417372,12.0,un,12.4,tottus,,SAL DE ANDREWS,SAL
+LAPIZ SWANO PASTEL X 6UN,S/ 12.40,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,un,12.4,tottus,,STABILO,SAL
+Tomate Pelado 400 g,S/ 12.50,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,400.0,g,12.5,tottus,,MUTTI,SAL
+Mantequilla con Sal LAIVE Barra 180g,S/ 12.90,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,12.9,vivanda,,LAIVE,SAL
+Sal Ahumada 600 g,S/ 12.90,wong,SAL,2024-12-04 20:21:11.436693,600.0,g,12.9,wong,,,SAL
+Mantequilla sin Sal LAIVE Barra 180g,S/ 12.90,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,12.9,vivanda,,LAIVE,SAL
+Sal Ahumada 600 g,S/ 12.90,metro,SAL,2024-12-04 22:05:19.184229,600.0,g,12.9,metro,,,SAL
+PLUMONES GLITTER PASTEL X 6UN,S/ 13.20,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,un,13.2,tottus,,ARTESCO,SAL
+Pumones ARTESCO Glitter Pastel Caja 6un,S/ 13.20,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,6.0,un,13.2,vivanda,,ARTESCO,SAL
+Sal Amazónica Gourmet Onza Caja 500g,S/ 13.30,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,13.3,wong,,,SAL
+Concentrado De Tomate 210 g,S/ 13.50,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,210.0,g,13.5,tottus,,MUTTI,SAL
+Chocolate con arándanos y sal innata 100 g,S/ 13.50,tottus,SAL,2024-12-04 13:50:23.417372,100.0,g,13.5,tottus,,,SAL
+Pasta Dental COLGATE Luminous White Carbón Activo Tubo 75ml,S/ 13.50,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,75.0,ml,13.5,vega,,Colgate,SAL
+Chocolate Bitter INNATO Cranberries y Sal Bolsa 100g,S/ 13.80,vivanda,SAL,2024-12-04 18:09:00.549217,100.0,g,13.8,vivanda,,INNATO,SAL
+Sal de Maras Molida Oli21 500g,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,13.9,wong,,,SAL
+MANTEQUILLA CON SAL DEL ESTABLO X 200 GR,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,200.0,g,13.9,tottus,,GENERICO,SAL
+Helado Bombones D'ONOFRIO Pote 18 un,S/ 13.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,18.0,un,13.9,vivanda,,D'ONOFRIO,SAL
+Sal Rosada de Maras Maras Gourmet 1kg,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,13.9,wong,,,SAL
+Smooth Cat Almeja 60 g,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,60.0,g,13.9,tottus,,GNAWLERS,SAL
+Smooth Cat Bonito 60 g,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,60.0,g,13.9,tottus,,GNAWLERS,SAL
+Smooth Cat Salmón 60 g,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,60.0,g,13.9,tottus,,GNAWLERS,SAL
+Smooth Cat Cangrejo 60 g,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,60.0,g,13.9,tottus,,GNAWLERS,SAL
+Smooth Cat Pollo Hígado 60 g,S/ 13.90,tottus,SAL,2024-12-04 13:50:23.417372,60.0,g,13.9,tottus,,GNAWLERS,SAL
+Sal de Maras Molida Oli21 1.25kg,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,1.25,kg,13.9,wong,,,SAL
+Concentrado De Tomate x 1 Kg,S/ 13.90,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,1.0,kg,13.9,tottus,,POMAROLA,SAL
+Cocktail con Nueces Sin Sal Villa Natura Bolsa 250g,S/ 13.90,metro,SAL,2024-12-04 22:05:19.184229,250.0,g,13.9,metro,,,SAL
+Salsa para Pastas Filippo Berio Tomate Pesto Frasco 190 g,S/ 13.90,wong,PASTA Y SALSA DE TOMATE,2024-12-04 20:30:04.424566,190.0,g,13.9,wong,,,SAL
+Sal de Maras Semi Gruesa Oli21 1.25kg,S/ 13.90,metro,SAL,2024-12-04 22:05:19.184229,1.25,kg,13.9,metro,,,SAL
+Sal de Maras Semi Gruesa Oli21 1.25kg,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,1.25,kg,13.9,wong,,,SAL
+Sal de Maras Semi Gruesa Oli21 500g,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,500.0,g,13.9,wong,,,SAL
+Marcador textil Plus Pastel de Marcas Caja de 5 unidades,S/ 13.90,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,5.0,un,13.9,tottus,,FABER CASTELL,SAL
+Sal Rosada de Maras Maras Gourmet Parrillas 1kg,S/ 13.90,wong,SAL,2024-12-04 20:21:11.436693,1.0,kg,13.9,wong,,,SAL
+Mixtura sin Sal VILLA NATURA Bolsa 250g,S/ 14.00,vivanda,SAL,2024-12-04 18:09:00.549217,250.0,g,14.0,vivanda,,VILLA NATURA,SAL
+Piqueos Cocktail VILLA NATURA con Nueces Sin Sal Bolsa 250g,S/ 14.00,vivanda,SAL,2024-12-04 18:09:00.549217,250.0,g,14.0,vivanda,,VILLA NATURA,SAL
+Pasta Dental COLGATE Triple Acciòn Tubo 60ml Paquete 3 un,S/ 14.20,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,60.0,ml,14.2,vega,,Colgate,SAL
+Almendras Saladas Cuisine&Co Pote 200 g,S/ 14.36,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,200.0,g,14.36,wong,,,SAL
+Sal de Maras Gruesa Cuisine & Co Frasco 100 g,S/ 14.40,wong,SAL,2024-12-04 20:21:11.436693,100.0,g,14.4,wong,,,SAL
+Sal de Maras Gruesa Cuisine & Co Frasco 100 g,S/ 14.40,metro,SAL,2024-12-04 22:05:19.184229,100.0,g,14.4,metro,,,SAL
+Pasta Dental COLGATE Triple Acciòn Tubo 100ml Paquete 2 un,S/ 14.50,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,100.0,ml,14.5,vega,,Colgate,SAL
+Galletas Saladas Colussi Aceite de Oliva y Romero 250g,S/ 14.90,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,250.0,g,14.9,wong,,,SAL
+Sal Parrillera Para Pollo Batán 215G,S/ 14.90,metro,SAL,2024-12-04 22:05:19.184229,215.0,g,14.9,metro,,,SAL
+Barra Brava Chocolate Almendra Sal Maras x 200 g,S/ 14.90,tottus,SAL,2024-12-04 13:50:23.417372,200.0,g,14.9,tottus,,AMARU SUPERFOODS,SAL
+SHAMPOO HIDRATACION EXTREMA S/SAL X 300ML,S/ 14.90,tottus,SAL,2024-12-04 13:50:23.417372,300.0,ml,14.9,tottus,,PANTENE,SAL
+Crema a Base de Mantequilla Light con Sal LAIVE Pote 180g,S/ 15.00,vivanda,SAL,2024-12-04 18:09:00.549217,180.0,g,15.0,vivanda,,LAIVE,SAL
+Sal de Maras Gruesa Molinillo Orígenes 100 gr,S/ 15.20,tottus,SAL,2024-12-04 13:50:23.417372,100.0,g,15.2,tottus,,TOTTUS,SAL
+Sal de Maras Gruesa con Hierbas Mediterráneas 40 g,S/ 15.20,tottus,SAL,2024-12-04 13:50:23.417372,40.0,g,15.2,tottus,,TOTTUS,SAL
+Galletas Saladas con Quinua y Finas Hierbas +NUTRI Co Caja 6un,S/ 15.30,vivanda,GALLETAS SALADAS,2024-12-04 17:19:05.386670,6.0,un,15.3,vivanda,,NUTRISHAKE,SAL
+MANTEQUILLA CON SAL X 180 G,S/ 15.40,tottus,SAL,2024-12-04 13:50:23.417372,180.0,g,15.4,tottus,,DANLAC,SAL
+Croissant Mini con Pollo Cuisine & Co 6un,S/ 15.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,6.0,un,15.5,wong,,,SAL
+Tostones con Sal Inka Chips 240g,S/ 15.70,metro,SAL,2024-12-04 22:05:19.184229,240.0,g,15.7,metro,,,SAL
+Sal con Especias para Pollo y Aves Go Chef 120g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,120.0,g,15.9,wong,,,SAL
+Sal MARAS GOURMET con Especies Moledor Frasco 100g,S/ 15.90,vivanda,SAL,2024-12-04 18:09:00.549217,100.0,g,15.9,vivanda,,MARAS GOURMET,SAL
+Sal con Especias para Chancho Go Chef 120g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,120.0,g,15.9,wong,,,SAL
+Sal con Especias para Pescado Go Chef 120g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,120.0,g,15.9,wong,,,SAL
+Sal Fossil River Grillé Pescado Pote 150 gr,S/ 15.90,metro,SAL,2024-12-04 22:05:19.184229,150.0,g,15.9,metro,,,SAL
+Sal con Especias para Carne de Res Go Chef 120g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,120.0,g,15.9,wong,,,SAL
+Sal de Maras con Hierbas Aromáticas Gruesa Frasco 100 g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,100.0,g,15.9,wong,,,SAL
+Sal Rosada de Maras Gruesa Frasco 100 g,S/ 15.90,wong,SAL,2024-12-04 20:21:11.436693,100.0,g,15.9,wong,,,SAL
+Dúo Cocktail Nueces sin Sal 150g + Mixtura 150g Villa Natura,S/ 15.90,metro,SAL,2024-12-04 22:05:19.184229,150.0,g,15.9,metro,,,SAL
+Sal Rosada de Maras Gruesa Frasco 100 g,S/ 15.90,metro,SAL,2024-12-04 22:05:19.184229,100.0,g,15.9,metro,,,SAL
+Sal BIOSAL 50% Menos Sodio Pote 850g,S/ 16.10 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,850.0,g,16.1,plaza_vea,Pote 850g,,SAL
+Sal 850 g,S/ 16.10,tottus,SAL,2024-12-04 13:50:23.417372,850.0,g,16.1,tottus,,BIOSAL,SAL
+Pasta Dental COLGATE Triple Acción Tubo 75ml Paquete 3un,S/ 16.50,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,75.0,ml,16.5,vivanda,,COLGATE,SAL
+Pasta Dental COLGATE Triple Acciòn Tubo 75ml Paquete 3 un,S/ 16.50,vega,PASTELES SALADOS,2024-12-04 13:14:11.418433,75.0,ml,16.5,vega,,Colgate,SAL
+Queso Bajo en Sal TRES OSCOS Paquete 250g,S/ 16.90,vivanda,SAL,2024-12-04 18:09:00.549217,250.0,g,16.9,vivanda,,TRES OSCOS,SAL
+Empanada de Pollo 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,16.9,metro,,,SAL
+Empanada de Carne 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,16.9,metro,,,SAL
+Sazonador AJINOMOTO Sobre 1Kg,S/ 16.90,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,16.9,vega,,Ajinomoto,SAL
+Pack Tortillas de Maíz TOSTITOS con Sal Bolsa ...,S/ 17 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,2.0,un,17.0,plaza_vea,Pack 2un,,SAL
+Chocolate Oscuro 70% Cacao Sal Rosada Domenico Tableta 70 g,S/ 17.00,metro,SAL,2024-12-04 22:05:19.184229,70.0,g,17.0,metro,,,SAL
+Almendras Laminadas Saladas Gozana 70g,S/ 17.00,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,70.0,g,17.0,wong,,,SAL
+Combo: 6 Empanadas Cocktail de Carne + Chicha Naturale Botella 1L,S/ 17.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,l,17.9,wong,,,SAL
+Combo: 6 Empanadas Cocktail de Pollo + Chicha Naturale Botella 1L,S/ 17.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,l,17.9,wong,,,SAL
+Sal de Maras Gruesa ONZA Molinillo Frasco 100g,S/ 18.20,vivanda,SAL,2024-12-04 18:09:00.549217,100.0,g,18.2,vivanda,,ONZA,SAL
+Sal de Maras Gruesa ONZA Molinillo Frasco 100g,S/ 18.20 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,100.0,g,18.2,plaza_vea,Frasco 100g,,SAL
+Almendras Saladas Cuisine&Co Pote 200 g,S/ 18.50,metro,GALLETAS SALADAS,2024-12-04 20:48:14.131221,200.0,g,18.5,metro,,,SAL
+Sal de Maras ONZA Hierbas Mediterráneas Molinillo Frasco 50g,S/ 18.90,vivanda,SAL,2024-12-04 18:09:00.549217,50.0,g,18.9,vivanda,,ONZA,SAL
+Combo: 6 Empanadas Cocktail de Pollo + Gaseosa Botella 1.5L,S/ 18.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,18.9,wong,,,SAL
+Combo: 6 Empanadas Cocktail de Carne + Gaseosa Botella 1.5L,S/ 18.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,18.9,wong,,,SAL
+Sal de Maras ONZA Ají Panca Molinillo Frasco 80g,S/ 18.90,vivanda,SAL,2024-12-04 18:09:00.549217,80.0,g,18.9,vivanda,,ONZA,SAL
+Papel Higiénico SUAVE Premium Paquete 12un,S/ 18.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,12.0,un,18.9,vivanda,,SUAVE,SAL
+Sal de Maras ONZA Ají Panca Molinillo Frasco 8...,S/ 18.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,80.0,g,18.9,plaza_vea,Frasco 80g,,SAL
+Sal de Maras ONZA Hierbas Mediterráneas Molini...,S/ 18.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,50.0,g,18.9,plaza_vea,Frasco 50g,,SAL
+Combo: 4 Enrollados Hot Dog + Gaseosa Botella 1.5L,S/ 18.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,18.9,wong,,,SAL
+Salsa de Tomate Arrabbiata 400 g,S/ 19.80,tottus,PASTA Y SALSA DE TOMATE,2024-12-04 13:54:40.531685,400.0,g,19.8,tottus,,BARILLA,SAL
+Min Pao Salado DELIFREEZE Bolsa 12 un,S/ 19.89,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,12.0,un,19.89,vivanda,,DELIFREEZE,SAL
+Sales y Especias Go Barman Margarita & Michelada Lime 90g,S/ 19.90,metro,SAL,2024-12-04 22:05:19.184229,90.0,g,19.9,metro,,,SAL
+Sales y Especias Go Barman Micheladas & Tequila 90g,S/ 19.90,metro,SAL,2024-12-04 22:05:19.184229,90.0,g,19.9,metro,,,SAL
+Papel Toalla NOVA Ultra Absorbente Paquete 6un,S/ 19.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,6.0,un,19.9,vivanda,,NOVA,SAL
+Mix Sales y Especias GO BARMAN Bloody & Mary L...,S/ 19.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,90.0,g,19.9,plaza_vea,Lata 90g,,SAL
+Sal de Maras Grano Grueso De Maras Para Parrilla Frasco 400 g,S/ 19.90,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,19.9,wong,,,SAL
+Combo: 4 Empanadas Mixtas + Gaseosa Botella 1.5L,S/ 19.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,19.9,wong,,,SAL
+Chocolate Sal De Maras 70% Cacao Quma 70 g,S/ 19.90,tottus,SAL,2024-12-04 13:50:23.417372,70.0,g,19.9,tottus,,,SAL
+Mix Sales y Especias GO BARMAN Margarita & Mic...,S/ 19.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,90.0,g,19.9,plaza_vea,Lata 90g,,SAL
+Sal Rosada de Maras Fina Frasco 400 g,S/ 19.90,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,19.9,wong,,,SAL
+Sales y Especias Go Barman Bloody Mary 90g,S/ 19.90,metro,SAL,2024-12-04 22:05:19.184229,90.0,g,19.9,metro,,,SAL
+Salpimienta Culantro y Limón Badia 227g,S/ 20.10,wong,SAL,2024-12-04 20:21:11.436693,227.0,g,20.1,wong,,,SAL
+Sazonador Pimienta Naranja Badia 184g,S/ 20.10,wong,SAL,2024-12-04 20:21:11.436693,184.0,g,20.1,wong,,,SAL
+Barra de Chocolate Q'UMA Sal de Maras 70% Cacao Caja 70g,S/ 20.20,vivanda,SAL,2024-12-04 18:09:00.549217,70.0,g,20.2,vivanda,,QUMA,SAL
+Pasta Dental Colgate Luminous White 2x75ml,S/ 20.30,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,75.0,ml,20.3,vivanda,,COLGATE,SAL
+Turrón con un Punto de Sal El Almendro 75g,S/ 20.70,wong,SAL,2024-12-04 20:21:11.436693,75.0,g,20.7,wong,,,SAL
+Mantequilla PRESIDENT con Sal Barra 200g,S/ 20.70,vivanda,SAL,2024-12-04 18:09:00.549217,200.0,g,20.7,vivanda,,PRESIDENT,SAL
+Mantequilla PRÉSIDENT sin Sal Barra 200g,S/ 20.70,vivanda,SAL,2024-12-04 18:09:00.549217,200.0,g,20.7,vivanda,,PRESIDENT,SAL
+Sal Cítrica Badia 198g,S/ 20.80,wong,SAL,2024-12-04 20:21:11.436693,198.0,g,20.8,wong,,,SAL
+Combo: 4 Empanadas de Carne + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,21.9,metro,,,SAL
+Sal Gruesa Rosada Legendaria Gourmet 400g,S/ 21.90,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,21.9,wong,,,SAL
+Sal de Maras con Hierbas Aromáticas Gruesa Frasco 400 g,S/ 21.90,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,21.9,wong,,,SAL
+Combo: 4 Empanadas de Pollo + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,21.9,metro,,,SAL
+Chifles Salados CRICKETS Bolsa 500g,S/ 21.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,500.0,g,21.9,vivanda,,CRICKET S,SAL
+Sal de Maras Rosada Fina Onza 400g,S/ 22.90,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,22.9,wong,,,SAL
+Combo 4 Empanadas de Pollo Wong + Gaseosa 1.5 Litros,S/ 22.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,22.9,metro,,,SAL
+Ajo Negro y Sal Rosada Badia 255g,S/ 22.90,wong,SAL,2024-12-04 20:21:11.436693,255.0,g,22.9,wong,,,SAL
+Mantequilla Maní Panlea y Sal de Maras 410g,S/ 24,tottus,SAL,2024-12-04 13:50:23.417372,410.0,g,24.0,tottus,,LA PURITA,SAL
+Sal Amazónica Gourmet Onza 400g,S/ 25.40,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,25.4,wong,,,SAL
+Sal de Maras Gruesa Ahumada Legendaria Frasco 400 g,S/ 26.50,wong,SAL,2024-12-04 20:21:11.436693,400.0,g,26.5,wong,,,SAL
+Papel Higiénico SUAVE Cuidado Completo Doble Hoja Paquete 24un,S/ 26.70,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,24.0,un,26.7,vivanda,,SUAVE,SAL
+Pasta Dental COLGATE Total 12 Clean Mint Tubo 75ml Paquete 3un,S/ 27.10,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,75.0,ml,27.1,vivanda,,COLGATE,SAL
+Aderezo de Tomate Harmless Ketchup 352g,S/ 27.20,metro,PASTA Y SALSA DE TOMATE,2024-12-04 22:11:39.107222,352.0,g,27.2,metro,,,SAL
+Combo: 12 Empanadas Cocktail de Carne + Chicha Naturale Botella 1L,S/ 28.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,l,28.9,wong,,,SAL
+Combo: 12 Empanadas Cocktail de Pollo + Chicha Naturale Botella 1L,S/ 28.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.0,l,28.9,wong,,,SAL
+Papel Higiénico ELITE Ultra Doble Hoja Paquete 12un,S/ 29.30,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,12.0,un,29.3,vivanda,,ELITE,SAL
+Combo: 12 Empanadas Cocktail de Pollo + Gaseosa Botella 1.5L,S/ 29.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,29.5,wong,,,SAL
+Combo: 12 Empanadas Cocktail de Carne + Gaseosa Botella 1.5L,S/ 29.50,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,29.5,wong,,,SAL
+Aderezo de Tomate Harmless Ketchup 352g,S/ 29.80,wong,PASTA Y SALSA DE TOMATE,2024-12-04 20:30:04.424566,352.0,g,29.8,wong,,,SAL
+Combo 6 Empanadas de Pollo Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,30.9,metro,,,SAL
+Combo 6 Empanadas de Carne Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,30.9,metro,,,SAL
+Shampoo sin sal Nutre e Hidrata Pequi & Aguacate 400 ml,S/ 33.90,tottus,SAL,2024-12-04 13:50:23.417372,400.0,ml,33.9,tottus,,HERBAL ESSENCES,SAL
+Combo: Empanada de Lomo + Gaseosa Botella 1.5L,S/ 34.90,wong,PASTELES SALADOS,2024-12-04 18:22:31.506340,1.5,l,34.9,wong,,,SAL
+Resaltador Note Pastel 12 Unidades,S/ 35.30,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,12.0,un,35.3,tottus,,SHARPIE,SAL
+Papel Higiénico SUAVE Esencias Elegance Paquete 32un,S/ 36.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,32.0,un,36.9,vivanda,,SUAVE,SAL
+MULTIMARK SHAKE Y PAINT PASTEL CTN X6UN,S/ 39.90,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,6.0,un,39.9,tottus,,FABER CASTELL,SAL
+Sal Rosada en Bloque 4.3 Kg,S/ 43.40,wong,SAL,2024-12-04 20:21:11.436693,4.3,kg,43.4,wong,,,SAL
+Sixpack Galletas Saladas Ritz 20g + Antipasto La Genovesa 200g,S/ 43.60,wong,GALLETAS SALADAS,2024-12-04 18:19:14.979750,20.0,g,43.6,wong,,,SAL
+Sal Marina y Trufas Negras Badia 255g,S/ 45.60,wong,SAL,2024-12-04 20:21:11.436693,255.0,g,45.6,wong,,,SAL
+Pistacho Tostado y Salado WONDERFUL Bolsa 227g,S/ 45.90,vivanda,PASTELES SALADOS,2024-12-04 17:19:47.021369,227.0,g,45.9,vivanda,,WONDERFUL,SAL
+Tetera Inoxidable 3.2 L Celeste Pastel,S/ 49.90,tottus,PASTELES SALADOS,2024-12-04 13:04:41.704988,3.2,l,49.9,tottus,,CASA JOVEN,SAL
+Pack Maras Gourmet 3un,S/ 49.90,wong,SAL,2024-12-04 20:21:11.436693,3.0,un,49.9,wong,,,SAL
+Sal Belga Especial BONI para Máquinas Lavavaji...,S/ 49.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,4.0,kg,49.9,plaza_vea,Caja 4Kg,,SAL

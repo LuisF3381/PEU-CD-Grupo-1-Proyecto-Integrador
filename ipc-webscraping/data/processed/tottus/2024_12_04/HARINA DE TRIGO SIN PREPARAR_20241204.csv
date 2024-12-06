@@ -1,0 +1,4 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
+MOLITALIA,Harina sin Preparar 1 kg,S/ 6.60,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,1.0,kg,6.6
+TOTTUS,Harina sin Preparar 1 kg,S/ 6.90,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,1.0,kg,6.9
+GENERICO,Harina Pre Tostada Especial Renacer 500 g,S/ 16.90,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,500.0,g,16.9

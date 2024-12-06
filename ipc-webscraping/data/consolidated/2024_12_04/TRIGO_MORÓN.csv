@@ -1,0 +1,331 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
+Cereal VITA PLUSS Trigo con Miel Bolsa 25g,S/ 0.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,25.0,g,0.9,plaza_vea,Bolsa 25g,,TRIGO MORÓN
+Sémola de Trigo Duro BELL'S Bolsa 180g,S/ 1.09,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,180.0,g,1.09,vivanda,,BELL'S,TRIGO MORÓN
+PASTA TRIGO CARACOL CHICO BOL X 235G,S/ 2,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,235.0,g,2.0,tottus,,DON VITTORIO,TRIGO MORÓN
+PASTA TRIGO CODO CHICO BOLSA X 235G,S/ 2,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,235.0,g,2.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Piqueo BELL'S Chicharrón de Trigo Salado Bolsa...,S/ 2.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,50.0,g,2.2,plaza_vea,Bolsa 50g,,TRIGO MORÓN
+Pasta Precocida Trigo Ramen Camaron 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,2.3,tottus,,NISSIN,TRIGO MORÓN
+Pasta Precocida Trigo Ramen Costilla 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,2.3,tottus,,NISSIN,TRIGO MORÓN
+Pasta Precocida Trigo Ramen Verdura 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,2.3,tottus,,NISSIN,TRIGO MORÓN
+"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa ...",S/ 2.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,55.0,g,2.5,plaza_vea,Bolsa 55g,,TRIGO MORÓN
+"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa 55g",S/ 2.70,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,55.0,g,2.7,vivanda,,FRITO LAY,TRIGO MORÓN
+Galletas Salvado de Trigo Fibra Light Bolsa 70 g,S/ 2.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,70.0,g,2.9,metro,,,TRIGO MORÓN
+Galletas Integrales FIBRA LIGHT de Salvado de ...,S/ 2.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,70.0,g,2.9,plaza_vea,Paquete 70g,,TRIGO MORÓN
+Trigo Mote Tesoro del Campo 350g,S/ 2.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,350.0,g,2.9,metro,,,TRIGO MORÓN
+Chicharrón de Trigo Metro Doypack 50 g,S/ 2.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,50.0,g,2.9,metro,,,TRIGO MORÓN
+Galletas Salvado de Trigo Fibra Light Bolsa 70 g,S/ 2.99,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,70.0,g,2.99,wong,,,TRIGO MORÓN
+Yogurt TIGO Mix Vainilla con Cereal Azucarado ...,S/ 3.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,3.2,plaza_vea,Vaso 125g,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Vainilla 140g,S/ 3.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,140.0,g,3.2,metro,,,TRIGO MORÓN
+Yogut Bebible Tigo Durazno 140g,S/ 3.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,140.0,g,3.2,metro,,,TRIGO MORÓN
+Yogurt TIGO Mix Vainilla con Galletas Triturad...,S/ 3.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,3.2,plaza_vea,Vaso 125g,,TRIGO MORÓN
+Yogurt TIGO Mix Bolitas de Chocolate Vaso 125g,S/ 3.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,3.2,plaza_vea,Vaso 125g,,TRIGO MORÓN
+Trigo Rico BELL'S Acaramelado Bolsa 120g,S/ 3.30 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,120.0,g,3.3,plaza_vea,Bolsa 120g,,TRIGO MORÓN
+Chuño UNIVERSAL Bolsa 180gr,S/ 3.30,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,180.0,g,3.3,vega,,Universal,TRIGO MORÓN
+Trigo Mote BELL'S Bolsa 500g,S/ 3.40 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,500.0,g,3.4,plaza_vea,Bolsa 500g,,TRIGO MORÓN
+Trigo Expandido Azucarado Cuisine & Co Clásico 120g,S/ 3.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,120.0,g,3.5,wong,,,TRIGO MORÓN
+Trigo Atómico Original con Miel 150 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,150.0,g,3.5,tottus,,FORTE GOLPE,TRIGO MORÓN
+Trigo Dorado Atómico con Maca 125 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,125.0,g,3.5,tottus,,FORTE GOLPE,TRIGO MORÓN
+Trigo Atómico Light sin Miel 100 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,100.0,g,3.5,tottus,,FORTE GOLPE,TRIGO MORÓN
+Trigo Atómico FORTE GOLPE Dorado con Maca Bols...,S/ 3.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,3.5,plaza_vea,Bolsa 125g,,TRIGO MORÓN
+Trigo Expandido Azucarado Cuisine & Co Acaramelado 120g,S/ 3.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,120.0,g,3.5,metro,,,TRIGO MORÓN
+Trigo Expandido Azucarado Cuisine & Co Clásico 120g,S/ 3.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,120.0,g,3.5,metro,,,TRIGO MORÓN
+Trigo Mote Cuisine & Co 500g,S/ 3.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,3.5,metro,,,TRIGO MORÓN
+Trigo Expandido Azucarado Cuisine & Co Acaramelado 120g,S/ 3.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,120.0,g,3.5,wong,,,TRIGO MORÓN
+Trigo Atómico Surtido Espazial 4 Unidades,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,4.0,un,3.5,tottus,,FORTE GOLPE,TRIGO MORÓN
+Cereal de Trigo con Miel VITA PLUSS Bolsa 140g,S/ 3.60 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,140.0,g,3.6,plaza_vea,Bolsa 140g,,TRIGO MORÓN
+Trigo TESORO DEL CAMPO Bolsa 500g,S/ 3.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,500.0,g,3.7,plaza_vea,Bolsa 500g,,TRIGO MORÓN
+Trigo Mote Tesoro Del Campo Bolsa 500 g,S/ 3.70,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,3.7,metro,,,TRIGO MORÓN
+Trigo Mote Maxima Bolsa 500 g,S/ 3.70,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,3.7,metro,,,TRIGO MORÓN
+Fideos de Pasta de Trigo Tallarín Grueso de 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,3.8,tottus,,NICOLINI,TRIGO MORÓN
+Trigo con Miel Vita Plus Bolsa 140 gr,S/ 3.80,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,140.0,g,3.8,metro,,,TRIGO MORÓN
+Fideos Spaghetti 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,3.8,tottus,,NICOLINI,TRIGO MORÓN
+Fideos Tallarín delgado 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,3.8,tottus,,NICOLINI,TRIGO MORÓN
+Trigo Mote Cuisine & Co 500g,S/ 3.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,3.9,wong,,,TRIGO MORÓN
+Trigo con Miel Vita Plus Bolsa 140 gr,S/ 3.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,140.0,g,3.9,wong,,,TRIGO MORÓN
+Trigo Mote Tesoro Del Campo Bolsa 500 g,S/ 3.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,3.9,wong,,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Vainilla 140g,S/ 3.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,140.0,g,3.9,wong,,,TRIGO MORÓN
+Yogut Bebible Tigo Fresa 140g,S/ 3.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,140.0,g,3.9,wong,,,TRIGO MORÓN
+Galletas Integrales con Salvado de Trigo Bolsa 250 g,S/ 3.99,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,250.0,g,3.99,metro,,,TRIGO MORÓN
+Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 4 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,5.0,un,4.0,plaza_vea,Bolsa 5un,,TRIGO MORÓN
+Fideos Rigatoni 500 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,4.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Yogurt TIGO Mix Bolitas de Chocolate Vaso 125g,S/ 4.00,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,125.0,g,4.0,vivanda,,TIGO,TRIGO MORÓN
+Yogurt TIGO Mix Vainilla con Galletas Trituradas Vaso 125g,S/ 4.00,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,125.0,g,4.0,vivanda,,TIGO,TRIGO MORÓN
+Pan Árabe con Salvado de Trigo 5 Unidades,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,5.0,un,4.0,tottus,,EL CEDRO,TRIGO MORÓN
+PASTA TRIGO FETTUCCINI 450G,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,4.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Pasta de Trigo Linguini Grosso de 450 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,4.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Yogurt TIGO Mix Vainilla con Grageas de Chocol...,S/ 4 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,4.0,plaza_vea,Vaso 125g,,TRIGO MORÓN
+Pasta de trigo Spaghetti bolsa de 450 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,4.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Yogurt TIGO Mix Vainilla con Grageas de Chocolate Confitado Vaso 125g,S/ 4.10,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,125.0,g,4.1,vivanda,,TIGO,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Fresa Botella 285g,S/ 4.10,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,285.0,g,4.1,metro,,,TRIGO MORÓN
+Yogurt Mix Tigo Vainilla C/Galletas Trituradas Vaso 125 g,S/ 4.10,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,125.0,g,4.1,metro,,,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Arándano con Chía Botella 285g,S/ 4.10,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,285.0,g,4.1,metro,,,TRIGO MORÓN
+Yogurt Griego TIGO Fresa Botella 285g,S/ 4.10 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,285.0,g,4.1,plaza_vea,Botella 285g,,TRIGO MORÓN
+Trigo Atómico Dorado Con Maca Golpe Forte Bolsa 125 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,125.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Nuclear 110 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,110.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Atómico Original FORTE GOLPE con Miel Bo...,S/ 4.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,125.0,g,4.2,plaza_vea,Bolsa 125g,,TRIGO MORÓN
+Yogurt Tipo Griego con Arándano & Chía Tigo 160g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Premium Tigo Light Natural Vaso 160 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Atómico Original Forte Golpe Bolsa 125 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,125.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Atómico Forte Golpe Light con Soya Forte Golpe 100 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,100.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Premium Tigo Durazno Vaso 160 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Griego Sensaciones con Tigo Fudge Chocolate 180g,S/ 4.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,180.0,g,4.2,wong,,,TRIGO MORÓN
+Yogurt Premiun Tigo Light Durazno Vaso 160 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Griego Sensaciones con Tigo Fudge Caramel Butterscotch 180g,S/ 4.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,180.0,g,4.2,wong,,,TRIGO MORÓN
+Trigo y Arrocito con Miel 120 g,S/ 4.20,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,120.0,g,4.2,tottus,,VITAPLUS,TRIGO MORÓN
+Fourpack Trigo Atómico con Miel Forte Golpe 25g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,25.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Premium Tigo Light Fresa Vaso 160 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Nuclear Light 110 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,110.0,g,4.2,metro,,,TRIGO MORÓN
+Yogurt Mix Tigo Vainilla con Grageas de chocolate confitado Vaso 125 g,S/ 4.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,125.0,g,4.2,metro,,,TRIGO MORÓN
+Trigo Atómico Dorado Con Maca Golpe Forte Bolsa 125 g,S/ 4.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,125.0,g,4.2,wong,,,TRIGO MORÓN
+Yogurt Griego TIGO Arándano con Chía Pote 160g,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,4.29,plaza_vea,Pote 160g,,TRIGO MORÓN
+Yogurt TIGO Premium Estilo Griego Natural Vaso...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,4.29,plaza_vea,Vaso 160g,,TRIGO MORÓN
+Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,4.29,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Yogurt TIGO Premium Estilo Griego Light Fresa ...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,4.29,plaza_vea,Vaso 160g,,TRIGO MORÓN
+Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,S/ 4.29,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,4.29,vivanda,,BELL'S,TRIGO MORÓN
+Yogurt Griego TIGO Arándano con Chía Pote 160g,S/ 4.29,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,160.0,g,4.29,vivanda,,TIGO,TRIGO MORÓN
+Pan Petipan 600 g,S/ 4.40,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,600.0,g,4.4,tottus,,TOTTUS,TRIGO MORÓN
+Galletas Saladas Sixpack Integral 144 g,S/ 4.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,144.0,g,4.5,tottus,,CLUB SOCIAL,TRIGO MORÓN
+Fourpack Trigo Atómico con Miel Forte Golpe 25g,S/ 4.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,25.0,g,4.5,wong,,,TRIGO MORÓN
+Trigo Mote 500 g,S/ 4.57,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,4.57,tottus,,TOTTUS,TRIGO MORÓN
+Arroz con Miel + Trigo con Miel Vita Pluss Bolsa 125 g Pack 5 unid,S/ 4.60,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,125.0,g,4.6,wong,,,TRIGO MORÓN
+Arroz con Miel + Trigo con Miel Vita Pluss Bolsa 125 g Pack 5 unid,S/ 4.60,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,125.0,g,4.6,metro,,,TRIGO MORÓN
+Trigo Mote Costeño 500g,S/ 4.60,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,4.6,wong,,,TRIGO MORÓN
+Yogurt Griego Sensaciones con Tigo Fudge Caramel Butterscotch 180g,S/ 4.70,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,180.0,g,4.7,metro,,,TRIGO MORÓN
+Yogurt Griego TIGO Sensaciones con Fudge de Ca...,S/ 4.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,180.0,g,4.7,plaza_vea,Pote 180g,,TRIGO MORÓN
+Yogurt Griego TIGO Sensaciones con Fudge de Ch...,S/ 4.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,180.0,g,4.7,plaza_vea,Pote 180g,,TRIGO MORÓN
+Yogurt Griego Sensaciones con Tigo Fudge Cappucino 180g,S/ 4.70,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,180.0,g,4.7,metro,,,TRIGO MORÓN
+Yogurt Griego Sensaciones con Tigo Fudge Chocolate 180g,S/ 4.70,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,180.0,g,4.7,metro,,,TRIGO MORÓN
+Morón Costeño 500g,S/ 4.80,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,4.8,metro,,,TRIGO MORÓN
+Trigo Mote Costeño 500 g,S/ 4.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,4.8,tottus,,COSTENO,TRIGO MORÓN
+TORTILLAS DE TRIGO MEDIANAS 8 UND,S/ 4.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,8.0,un,4.8,tottus,,TOTTUS,TRIGO MORÓN
+Cerveza Cusqueña Trigo Botella 330ml,S/ 4.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,330.0,ml,4.9,wong,,,TRIGO MORÓN
+Cerveza Cusqueña Trigo Lata 355ml,S/ 5.00,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,355.0,ml,5.0,wong,,,TRIGO MORÓN
+Fideos Spaghetti 950 g,S/ 5,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,5.0,tottus,,NICOLINI,TRIGO MORÓN
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 5.10 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,105.0,g,5.1,plaza_vea,Bolsa 105g,,TRIGO MORÓN
+Yogurt TIGO Premium Natural con Algarrobina Va...,S/ 5.19 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,5.19,plaza_vea,Vaso 160g,,TRIGO MORÓN
+Yogurt TIGO Premium Natural con Sirope de Chan...,S/ 5.19 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,5.19,plaza_vea,Vaso 160g,,TRIGO MORÓN
+Yogurt TIGO Parfait Natural con Fresas y Grano...,S/ 5.19 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,155.0,g,5.19,plaza_vea,Vaso 155g,,TRIGO MORÓN
+Yogurt TIGO Premium Natural con Miel de Abeja ...,S/ 5.19 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,160.0,g,5.19,plaza_vea,Vaso 160g,,TRIGO MORÓN
+Yogurt TIGO Parfait Natural con Albaricoque Du...,S/ 5.19 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,155.0,g,5.19,plaza_vea,Vaso 155g,,TRIGO MORÓN
+Yogurt Premium Tigo Durazno Vaso 160 g,S/ 5.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.2,wong,,,TRIGO MORÓN
+Yogurt Premiun Tigo Light Durazno Vaso 160 g,S/ 5.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.2,wong,,,TRIGO MORÓN
+Yogurt Premium Tigo Light Fresa Vaso 160 g,S/ 5.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.2,wong,,,TRIGO MORÓN
+Yogurt Premium Tigo Natural Vaso 160 g,S/ 5.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.2,wong,,,TRIGO MORÓN
+Yogurt Tipo Griego con Arándano & Chía Tigo 160g,S/ 5.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.2,wong,,,TRIGO MORÓN
+Cereal BIO MACA Bio Maca y Trigo Light Paquete...,S/ 5.29 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,2.0,un,5.29,plaza_vea,Paquete 2un,,TRIGO MORÓN
+Pan Árabe Sash con Salvado de Trigo 200 g,S/ 5.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,200.0,g,5.3,tottus,,EL CEDRO,TRIGO MORÓN
+Morón Costeño 500g,S/ 5.30,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,5.3,wong,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con Miel de Abeja Vaso 160 g,S/ 5.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.7,wong,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con Sipore de chancaca Vaso 160 g,S/ 5.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.7,wong,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con crema de Algarrobina Vaso 160 g,S/ 5.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,160.0,g,5.7,wong,,,TRIGO MORÓN
+"Yogurt Natural con Albaricoque, Duraznos y Granol Vaso 155 g",S/ 5.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,155.0,g,5.7,wong,,,TRIGO MORÓN
+Cerveza Cusqueña Trigo Lata 473ml,S/ 5.82,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,473.0,ml,5.82,metro,,,TRIGO MORÓN
+Yogurt Griego TIGO Straal Sabor a Fresa y Chía...,S/ 5.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,150.0,g,5.9,plaza_vea,Pote 150g,,TRIGO MORÓN
+Chilcano TABERNERO BAR Maracuyá Botella 275 ml,S/ 5.90 16%,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,275.0,ml,5.9,vega,,Tabernero,TRIGO MORÓN
+Chilcano Bar TABERNERO Limón Botella 275 ml,S/ 5.90 16%,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,275.0,ml,5.9,vega,,Tabernero,TRIGO MORÓN
+Harina de Trigo NICOLINI Sin Preparar Bolsa 1Kg,S/ 6.10,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,6.1,vivanda,,NICOLINI,TRIGO MORÓN
+Harina de Trigo NICOLINI Sin Preparar Bolsa 1K...,S/ 6.10 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,6.1,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa 1kg,S/ 6.30,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,6.3,vivanda,,MOLITALIA,TRIGO MORÓN
+"Yogurt Griego con Arándano, Chía y Granola Tigo Premium 175g",S/ 6.30,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,175.0,g,6.3,metro,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con Sipore de chancaca Vaso 160 g,S/ 6.40,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,6.4,metro,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con Miel de Abeja Vaso 160 g,S/ 6.40,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,6.4,metro,,,TRIGO MORÓN
+Yogurt Estílo Griego Tigo con crema de Algarrobina Vaso 160 g,S/ 6.40,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,160.0,g,6.4,metro,,,TRIGO MORÓN
+Yogurt TIGO Premium Natural con Sirope de Chancaca Vaso 160g,S/ 6.40,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,160.0,g,6.4,vivanda,,TIGO,TRIGO MORÓN
+Yogurt TIGO Premium Natural con Miel de Abeja Vaso 160g,S/ 6.40,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,160.0,g,6.4,vivanda,,TIGO,TRIGO MORÓN
+Harina de Trigo sin Preparar MOLITALIA sin Pre...,S/ 6.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,6.5,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Yogurt Griego Tigo Straal Natural 150g,S/ 6.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,150.0,g,6.5,wong,,,TRIGO MORÓN
+Cerveza Artesanal Candelaria Trigo Citrus Wit Lata 355ml,S/ 6.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,355.0,ml,6.5,wong,,,TRIGO MORÓN
+Chicharrón de Trigo Metro Bolsa 100 g,S/ 6.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,100.0,g,6.5,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Natural con Fresas y Granola Vaso 155 g,S/ 6.60,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,155.0,g,6.6,metro,,,TRIGO MORÓN
+Cereal COSECHA PARAISO Trigo Entero Bolsa 160g,S/ 6.70,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,160.0,g,6.7,vivanda,,COSECHA DEL PARAÍSO,TRIGO MORÓN
+Salvatrigo GRANO DE ORO Salvado de Trigo Doypa...,S/ 6.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,400.0,g,6.7,plaza_vea,Doypack 400g,,TRIGO MORÓN
+Galleta INTEGRACKER con Salvado de Trigo Paquete 9un,S/ 6.80,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,9.0,un,6.8,vega,,Victoria,TRIGO MORÓN
+Tortillas con Salvado de Trigo Cuisine & Co 12un,S/ 6.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,12.0,un,6.9,metro,,,TRIGO MORÓN
+Harina de Trigo Preparada BELL'S Bolsa 1Kg,S/ 6.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,6.9,vivanda,,BELL'S,TRIGO MORÓN
+Semi Baguette Dulce 420 g,S/ 6.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,420.0,g,6.9,tottus,,TOTTUS,TRIGO MORÓN
+Salvado de Trigo Salvatrigo Doypack 400 g,S/ 6.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,400.0,g,6.9,metro,,,TRIGO MORÓN
+Harina BELL'S De trigo preparada Bolsa 1Kg,S/ 6.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,6.9,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Harina de Trigo NICOLINI Preparada Bolsa 1Kg,S/ 6.99 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,6.99,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Harina de Trigo NICOLINI Preparada Bolsa 1Kg,S/ 6.99,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,6.99,vivanda,,NICOLINI,TRIGO MORÓN
+Harina de Trigo Preparada Nicolini 1kg,S/ 6.99,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.0,kg,6.99,metro,,,TRIGO MORÓN
+Harina de Trigo Preparada Nicolini 1kg,S/ 6.99,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,6.99,wong,,,TRIGO MORÓN
+Fideos Spaghetti 950 g,S/ 7,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,7.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Pasta Trigo Fetuccini 950 g,S/ 7,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,7.0,tottus,,DON VITTORIO,TRIGO MORÓN
+Tortilla de Trigo BELL'S Bolsa 12un,S/ 7.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,12.0,un,7.2,plaza_vea,Bolsa 12un,,TRIGO MORÓN
+Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 7.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,10.0,un,7.2,plaza_vea,Paquete 10un,,TRIGO MORÓN
+Salvado de Trigo Unión Doypack 200 g,S/ 7.30,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,200.0,g,7.3,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Straal Fresa con Chía 150g,S/ 7.30,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,150.0,g,7.3,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Straal Natural 150g,S/ 7.40,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,150.0,g,7.4,metro,,,TRIGO MORÓN
+Cereal AGE Salvado de Trigo Entero Paquete 140g,S/ 7.40,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,140.0,g,7.4,vivanda,,AGE,TRIGO MORÓN
+Galletas Integrackers Integrackers Salvado de Trigo 30g 9un,S/ 7.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,30.0,g,7.5,metro,,,TRIGO MORÓN
+Galletas Integrackers Integrackers Salvado de Trigo 30g 9un,S/ 7.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,30.0,g,7.5,wong,,,TRIGO MORÓN
+Tortillas de Trigo 8 unidades,S/ 7.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,8.0,un,7.5,tottus,,TOTTUS,TRIGO MORÓN
+Pan Árabe Integral EL CEDRO con Salvado de Trigo Bolsa 10un,S/ 7.50,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,10.0,un,7.5,vivanda,,EL CEDRO,TRIGO MORÓN
+Harina de Trigo Integral Doypack 500 g,S/ 7.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,7.7,wong,,,TRIGO MORÓN
+Crissinos Largos Salvado de Trigo Don Mamino Caja 90 g,S/ 7.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,90.0,g,7.9,metro,,,TRIGO MORÓN
+Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,12.0,un,7.9,metro,,,TRIGO MORÓN
+Harina de Trigo Integral Doypack 500 g,S/ 7.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,7.9,metro,,,TRIGO MORÓN
+Tortillas de Trigo Clásicas Rapiditas Wraps Bimbo Paquete 6 unid,S/ 7.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,6.0,un,7.9,metro,,,TRIGO MORÓN
+Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,12.0,un,7.9,metro,,,TRIGO MORÓN
+Tortillas de Trigo 6 unidades,S/ 7.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,7.9,tottus,,TOTTUS,TRIGO MORÓN
+Tostaditas Piqueo Don Mamino Arito salvado de Trigo Caja 85 g,S/ 7.99,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,85.0,g,7.99,metro,,,TRIGO MORÓN
+Harina de Trigo Preparada BLANCA FLOR Bolsa 1K...,S/ 8.49 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,8.49,plaza_vea,Bolsa 1kg,,TRIGO MORÓN
+Tortilla de Trigo BELL'S Bolsa 12un,S/ 8.60,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,12.0,un,8.6,vivanda,,BELL'S,TRIGO MORÓN
+Harina de Trigo Preparada BLANCA FLOR Bolsa 1Kg,S/ 8.70,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,8.7,vivanda,,BLANCA FLOR,TRIGO MORÓN
+Tostaditas Cuadradas Don Mamino Salvado de Trigo Caja 85 g,S/ 8.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,85.0,g,8.9,wong,,,TRIGO MORÓN
+Tostaditas Cuadradas Don Mamino Salvado de Trigo Caja 85 g,S/ 8.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,85.0,g,8.9,metro,,,TRIGO MORÓN
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 9 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,200.0,g,9.0,plaza_vea,Bolsa 200g,,TRIGO MORÓN
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa 200g,S/ 9.00,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,200.0,g,9.0,vivanda,,FRITO LAY,TRIGO MORÓN
+Trigo Acaramelado BELL'S Bolsa 400g,S/ 9.20 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,400.0,g,9.2,plaza_vea,Bolsa 400g,,TRIGO MORÓN
+Salvado de Trigo con Harina de Linaza Grano de Oro Salvamix 250g,S/ 9.60,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,250.0,g,9.6,wong,,,TRIGO MORÓN
+Galletas Integrales LIGERITAS Salvado de Trigo...,S/ 9.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,130.0,g,9.7,plaza_vea,Bolsa 130g,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Arándano con Chía Botella 800g,S/ 9.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,800.0,g,9.9,metro,,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Fresa Botella 800g,S/ 9.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,800.0,g,9.9,metro,,,TRIGO MORÓN
+Salvado De Trigo Entero Cosecha Del Paraíso Bolsa 400 g,S/ 9.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,400.0,g,9.9,metro,,,TRIGO MORÓN
+Sopa de Morón Listíssima 500g,S/ 9.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,9.9,wong,,,TRIGO MORÓN
+Salvado De Trigo Tostado y Molido Cosecha Del Paraíso Bolsa 400 g,S/ 9.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,400.0,g,9.9,metro,,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Arándano con Chía Botella 800g,S/ 9.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,800.0,g,9.9,wong,,,TRIGO MORÓN
+Yogurt Bebible Tigo Sabor Fresa Botella 800g,S/ 9.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,800.0,g,9.9,wong,,,TRIGO MORÓN
+Yogurt Bebible Griego TIGO Arándano y Chía Bot...,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,800.0,g,9.9,plaza_vea,Botella 800g,,TRIGO MORÓN
+Yogurt Bebible Griego TIGO Fresa Botella 800g,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,800.0,g,9.9,plaza_vea,Botella 800g,,TRIGO MORÓN
+Yogurt Bebible Griego TIGO Arándano y Chía Botella 800g,S/ 9.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,800.0,g,9.9,vivanda,,TIGO,TRIGO MORÓN
+Conserva VALLE FERTIL Pimiento morrón Frasco 3...,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,360.0,g,9.9,plaza_vea,Frasco 360g,,TRIGO MORÓN
+Yogurt Griego TIGO Sabor Natural Pote 500g,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,500.0,g,9.9,plaza_vea,Pote 500g,,TRIGO MORÓN
+Tortilla de Trigo Tía Rosa 10un.,S/ 10.00,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,10.0,un,10.0,wong,,,TRIGO MORÓN
+Germen De Trigo Cosecha Paraíso Bolsa 180 g,S/ 10.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,180.0,g,10.2,metro,,,TRIGO MORÓN
+Pack B&D Trío: Mostaza 220g + Ketchup 240g + Mayonesa 95g,S/ 10.39,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,220.0,g,10.39,metro,,,TRIGO MORÓN
+Salvado de Trigo Entero Cosecha del Paraíso 400 g,S/ 10.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,400.0,g,10.5,tottus,,COSECHA DEL PARAISO,TRIGO MORÓN
+Cereales de Trigo con Cacao Chocapic 170g,S/ 10.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,170.0,g,10.5,metro,,,TRIGO MORÓN
+Pan Brioche la Panaderia 400 g,S/ 10.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,400.0,g,10.5,tottus,,TOTTUS,TRIGO MORÓN
+Tortillas de Trigo Clásicas Rapiditas Bimbo 12 unid,S/ 10.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,12.0,un,10.5,wong,,,TRIGO MORÓN
+Tortillas de Trigo El Taco 10un,S/ 10.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,10.0,un,10.5,wong,,,TRIGO MORÓN
+Rapiditas Tortilla de Harina de Trigo Wrap 6 Unidades,S/ 10.70,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,10.7,tottus,,BIMBO,TRIGO MORÓN
+Bebida Alcohólica FOUR LOKO Sabor Purple Lata 473ml,S/ 10.90,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,473.0,ml,10.9,vega,,FOUR LOKO,TRIGO MORÓN
+Comida para Perros ORIGO Pollo Doypack 10un,S/ 10.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,10.0,un,10.9,vivanda,,ORIGO,TRIGO MORÓN
+Bebida Alcohólica FOUR LOKO Sabor Blue Lata 473ml,S/ 10.90,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,473.0,ml,10.9,vega,,FOUR LOKO,TRIGO MORÓN
+Tortilla de Trigo TÍA ROSA Bolsa 260g,S/ 11 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,260.0,g,11.0,plaza_vea,Bolsa 260g,,TRIGO MORÓN
+Tortillas de Trigo Tía Rosa 425g,S/ 11.00,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,425.0,g,11.0,wong,,,TRIGO MORÓN
+Yogurt Tipo Griego Tigo Arándano con Chía 500g,S/ 11.10,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,11.1,metro,,,TRIGO MORÓN
+Yogurt Tipo Griego Tigo Arándano con Chía 500g,S/ 11.10,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,11.1,wong,,,TRIGO MORÓN
+Yogurt Griego Tigo Sabor Natural Sin Azúcar 500g,S/ 11.10,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,11.1,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Sabor Natural 0% Grasas 500g,S/ 11.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,11.2,wong,,,TRIGO MORÓN
+Tortilla de Trigo TÍA ROSA Bolsa 260g,S/ 11.20,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,260.0,g,11.2,vivanda,,BIMBO,TRIGO MORÓN
+Tortilla de Trigo Tía Rosa 10un.,S/ 11.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,10.0,un,11.5,metro,,,TRIGO MORÓN
+Tortillas de Súper Trigo EL TACO Bolsa 10un,S/ 11.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,10.0,un,11.5,plaza_vea,Paquete 10un,,TRIGO MORÓN
+Tortillas de Trigo para Wraps El Taco 10un,S/ 11.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,10.0,un,11.5,wong,,,TRIGO MORÓN
+Cereal ANGEL Capas de trigo con chocolate Bols...,S/ 11.60 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,380.0,g,11.6,plaza_vea,Bolsa 380g,,TRIGO MORÓN
+Salvado de Trigo GRANO DE ORO Pote 350g,S/ 11.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,350.0,g,11.9,vivanda,,GRANO ORO,TRIGO MORÓN
+Cereal COSECHA DEL PARAISO Salvado de trigo Bolsa 400Gr,S/ 11.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,400.0,g,11.9,vivanda,,COSECHA DEL PARAÍSO,TRIGO MORÓN
+Cereal COSECHA DEL PARAISO Salvado de trigo Bo...,S/ 11.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,400.0,g,11.9,plaza_vea,Bolsa 400g,,TRIGO MORÓN
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",S/ 11.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,200.0,g,11.9,metro,,,TRIGO MORÓN
+Pack B&D Trío: Mostaza 200g + Ketchup 200g + Mayonesa 190g,S/ 12.09,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,200.0,g,12.09,metro,,,TRIGO MORÓN
+Salvado De Trigo Crocante Cosecha Paraíso Bolsa 400 g,S/ 12.30,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,400.0,g,12.3,wong,,,TRIGO MORÓN
+Galletas Rellenas Nestlé Choco Trio Chocolate 90g,S/ 12.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,90.0,g,12.5,metro,,,TRIGO MORÓN
+Tortilla De Trigo Tia Rosa 5P 425 gr,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,425.0,g,12.5,tottus,,BIMBO,TRIGO MORÓN
+Cereal Ángel Life Multigrain en Hojuelas de Trigo y Cranberries 300 g,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,300.0,g,12.5,tottus,,ANGEL,TRIGO MORÓN
+Galletas Rellenas Nestlé Choco Trio Cookies and Cream 90g,S/ 12.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,90.0,g,12.5,wong,,,TRIGO MORÓN
+Tortilla de Trigo TÍA ROSA Bolsa 5un,S/ 12.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,5.0,un,12.5,plaza_vea,Bolsa 5un,,TRIGO MORÓN
+Cereal Life Cero Sin Azúcar en Hojuelas de Trigo y Maíz de 300 g,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,300.0,g,12.5,tottus,,ANGEL,TRIGO MORÓN
+Galletas Rellenas Nestlé Choco Trio Chocolate 90g,S/ 12.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,90.0,g,12.5,wong,,,TRIGO MORÓN
+Galletas Rellenas Nestlé Choco Trio Cookies and Cream 90g,S/ 12.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,90.0,g,12.5,metro,,,TRIGO MORÓN
+Corazones de Trigo BELL'S Bolsa 200g,S/ 12.50,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,200.0,g,12.5,vivanda,,BELL'S,TRIGO MORÓN
+Salvado De Trigo Crocante Cosecha Paraíso Bolsa 400 g,S/ 12.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,400.0,g,12.5,metro,,,TRIGO MORÓN
+Tortilla De Trigo Tia Rosa Bolsa 8P 465 gr,S/ 12.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,465.0,g,12.9,tottus,,BIMBO,TRIGO MORÓN
+Cereal de Trigo Cuisine & Co Electro Choc 400g,S/ 12.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,400.0,g,12.9,wong,,,TRIGO MORÓN
+Yogurt Griego TIGO Arándano y Chía Pote 750g,S/ 12.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,750.0,g,12.9,plaza_vea,Pote 750g,,TRIGO MORÓN
+Tortilla de Trigo TÍA ROSA Burrera Bolsa 8un,S/ 12.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,8.0,un,12.9,plaza_vea,Bolsa 8un,,TRIGO MORÓN
+Galleta de Salvado y Ajonjolí Fibralight Pack 2 Unidades,S/ 13,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,2.0,un,13.0,tottus,,FIBERLIGHT,TRIGO MORÓN
+Harina de Trigo Integral Doypack 1 kg,S/ 13.30,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.0,kg,13.3,metro,,,TRIGO MORÓN
+Cereal Kit Kat Trigo Integral Cacao Caja x 210 g,S/ 13.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,210.0,g,13.5,tottus,,NESTLE,TRIGO MORÓN
+"Cereal de Arroz, Trigo, Maíz y Cacao 230g",S/ 13.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,230.0,g,13.5,tottus,,SUBLIME,TRIGO MORÓN
+Tortillas de Trigo Tía Rosa 425g,S/ 13.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,425.0,g,13.5,metro,,,TRIGO MORÓN
+Salvado de Trigo Entero 300g,S/ 13.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,300.0,g,13.9,metro,,,TRIGO MORÓN
+Tortillas de Trigo Integral El Taco 10un,S/ 13.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,10.0,un,13.9,wong,,,TRIGO MORÓN
+Harina de Trigo Integral Doypack 1 kg,S/ 14.20,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,14.2,wong,,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Original 285g,S/ 14.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,285.0,g,14.5,metro,,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Original 285g,S/ 14.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,285.0,g,14.9,wong,,,TRIGO MORÓN
+Germinado de Trigo Age Bandeja 200g,S/ 15.00,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,200.0,g,15.0,wong,,,TRIGO MORÓN
+Salvado de Trigo con Harina de Linaza Salvamix Frasco 750 g,S/ 15.40,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,750.0,g,15.4,metro,,,TRIGO MORÓN
+Yogurt Griego TIGO de Arándano & Chía Pote 1Kg,S/ 15.49,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,15.49,vivanda,,TIGO,TRIGO MORÓN
+Yogurt Griego TIGO de Arándano & Chía Pote 1Kg,S/ 15.49 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,15.49,plaza_vea,Pote 1Kg,,TRIGO MORÓN
+Yogurt Griego Descremado TIGO Sabor Aguaymanto...,S/ 15.49 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,15.49,plaza_vea,Pote 1Kg,,TRIGO MORÓN
+Yogurt Griego TIGO Frutos Rojos Pote 1kg,S/ 15.49,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,1.0,kg,15.49,vivanda,,TIGO,TRIGO MORÓN
+Yogurt Griego Parcialmente Descremado TIGO Sab...,S/ 15.49 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.0,kg,15.49,plaza_vea,Pote 1Kg,,TRIGO MORÓN
+Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,350.0,g,15.7,plaza_vea,Bolsa 350g,,TRIGO MORÓN
+Cereal AGE Salvado de Trigo Molido Bolsa 500g,S/ 15.70,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,500.0,g,15.7,vivanda,,AGE,TRIGO MORÓN
+Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,20.0,g,15.7,plaza_vea,Bolsa 20g,,TRIGO MORÓN
+Cereal ÁNGEL Maíz Trigo y Avena Sabor a Chocol...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,420.0,g,15.7,plaza_vea,Bolsa 420g,,TRIGO MORÓN
+Salvado de Trigo Molido 500g,S/ 15.70,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,15.7,wong,,,TRIGO MORÓN
+Cereal Ángel Meli en Aros de Trigo y Miel 420 g,S/ 15.70,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,420.0,g,15.7,tottus,,ANGEL,TRIGO MORÓN
+Cerveza Blue Moon Belgian White Botella 355ml,S/ 15.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,355.0,ml,15.9,metro,,,TRIGO MORÓN
+PAPILLA LIC TRIGO NAPOLITANA 200G KIGLI,S/ 15.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,200.0,g,15.9,tottus,,,TRIGO MORÓN
+Snack Origo Crunch Cuerno de Res 1un,S/ 15.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,un,15.9,wong,,,TRIGO MORÓN
+Yogurt Griego Sin Azúcar Tigo Premium 1kg,S/ 16.00,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.0,kg,16.0,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Con Arándano y Chía Balde 1 Kg,S/ 16.00,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.0,kg,16.0,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Frutos Rojos 1 kg,S/ 16.00,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.0,kg,16.0,metro,,,TRIGO MORÓN
+Cereal ANGEL Trigo integral de avena y maíz sabor fresa Bolsa 350Gr,S/ 16.10,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,350.0,g,16.1,vivanda,,ANGEL,TRIGO MORÓN
+Cereal ANGEL Capas de trigo con chocolate Bolsa 380Gr,S/ 16.10,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,380.0,g,16.1,vivanda,,ANGEL,TRIGO MORÓN
+Comida para Perros ORIGO Pollo/Pato Doypack 40un,S/ 16.40,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,40.0,un,16.4,vivanda,,ORIGO,TRIGO MORÓN
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",S/ 16.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,350.0,g,16.9,metro,,,TRIGO MORÓN
+Treat Corazón de Pato-Pollo Origo Pet 40un,S/ 16.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,40.0,un,16.9,wong,,,TRIGO MORÓN
+Snack Origo Crunch Orejas de Res 3un,S/ 16.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,3.0,un,16.9,wong,,,TRIGO MORÓN
+Cerveza Blue Moon Belgian White Lata 355ml,S/ 16.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,355.0,ml,16.9,wong,,,TRIGO MORÓN
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",S/ 16.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,350.0,g,16.9,wong,,,TRIGO MORÓN
+Cerveza Blue Moon Belgian White Lata 355ml,S/ 16.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,355.0,ml,16.9,metro,,,TRIGO MORÓN
+Cereal Infatil NESTUM Trigo Miel Caja 350g,S/ 17.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,350.0,g,17.5,plaza_vea,Caja 350g,,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Fresa 1.6kg,S/ 17.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.6,kg,17.9,wong,,,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Arándano con Chía 1.6kg,S/ 17.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.6,kg,17.9,wong,,,TRIGO MORÓN
+Yogurt Griego Bebible TIGO Vainilla y Canela G...,S/ 17.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,1.6,kg,17.9,plaza_vea,Galonera 1.6Kg,,TRIGO MORÓN
+Yogurt Griego 0% Grasas Tigo Premium 1kg,S/ 18.10,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,18.1,wong,,,TRIGO MORÓN
+Yogurt Griego Sin Azúcar Tigo Premium 1kg,S/ 18.10,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,18.1,wong,,,TRIGO MORÓN
+Yogurt Griego Tigo Frutos Rojos 1 kg,S/ 18.30,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,18.3,wong,,,TRIGO MORÓN
+Yogurt Griego 0% Grasas Tigo Premium Mango - Maracuyá 1kg,S/ 18.30,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,18.3,wong,,,TRIGO MORÓN
+Yogurt Griego TIGO Straal Sabor Natural Pote 6...,S/ 18.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,680.0,g,18.9,plaza_vea,Pote 680g,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Frutas 330g,S/ 18.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,330.0,g,18.9,metro,,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Frutas 330g,S/ 18.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,330.0,g,18.9,wong,,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Miel y Almendras 330g,S/ 18.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,330.0,g,18.9,metro,,,TRIGO MORÓN
+Alimento Congelado Pavo Pato Origo Pet 800g,S/ 19.49,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,800.0,g,19.49,wong,,,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Fresa 1.6kg,S/ 19.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.6,kg,19.5,metro,,,TRIGO MORÓN
+Yogurt Bebible Tigo Griego Arándano con Chía 1.6kg,S/ 19.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,1.6,kg,19.5,metro,,,TRIGO MORÓN
+Cereal Infantil en Polvo Nestum Trigo Quinua y Otros Cereales 350g,S/ 19.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,350.0,g,19.9,wong,,,TRIGO MORÓN
+Six Pack de Cerveza Trigo de 310 mL,S/ 19.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,310.0,ml,19.9,tottus,,CUSQUEÑA,TRIGO MORÓN
+Cerveza Blue Moon Belgian White Botella 355ml,S/ 19.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,355.0,ml,19.9,wong,,,TRIGO MORÓN
+Germen De Trigo Cosecha Paraíso Bolsa 500 g,S/ 20.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,20.9,metro,,,TRIGO MORÓN
+Yogurt Griego Tigo Straal Natural 680g,S/ 20.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,680.0,g,20.9,wong,,,TRIGO MORÓN
+Cereal Ángel Life Fibra en Hojuelas de Trigo 560 g,S/ 21.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,560.0,g,21.5,tottus,,ANGEL,TRIGO MORÓN
+Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,840.0,g,21.9,plaza_vea,Bolsa 840g,,TRIGO MORÓN
+Pack x2 Tortilla de Trigo Tía Rosa Paquete 260g,S/ 22.20,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,260.0,g,22.2,metro,,,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo Botella 310ml Paquete 6...,S/ 22.50 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,6.0,un,22.5,plaza_vea,Paquete 6un,,TRIGO MORÓN
+Sixpack Cerveza Cusqueña Trigo Botella 310ml,S/ 22.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,310.0,ml,22.9,wong,,,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo Botella 310ml Paquete 6un,S/ 23.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,310.0,ml,23.9,vivanda,,CUSQUEÑA,TRIGO MORÓN
+Pasta de Trigo Spaghetti N° 3 Agnesi Bolsa 1 Kg,S/ 23.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,23.9,wong,,,TRIGO MORÓN
+Six Pack de Cerveza Trigo de 355 mL,S/ 24.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,355.0,ml,24.5,tottus,,CUSQUEÑA,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Original 570g,S/ 24.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,570.0,g,24.9,wong,,,TRIGO MORÓN
+Cereal de Trigo Integral Fitness Original 570g,S/ 24.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,570.0,g,24.9,metro,,,TRIGO MORÓN
+Germen De Trigo Cosecha Paraíso Bolsa 500 g,S/ 25.30,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,25.3,wong,,,TRIGO MORÓN
+Germen de Trigo Tostado Cosecha del Paraíso 500 g,S/ 25.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,25.5,tottus,,COSECHA DEL PARAISO,TRIGO MORÓN
+Pack x2 Tortillas de Trigo Tía Rosa Paquete 425g,S/ 25.80,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,425.0,g,25.8,metro,,,TRIGO MORÓN
+Sixpack Cerveza Cusqueña Trigo Lata 355ml,S/ 25.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,355.0,ml,25.9,metro,,,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo 6 Pack Lata 355ml,S/ 25.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,6.0,un,25.9,plaza_vea,Paquete 6un,,TRIGO MORÓN
+Sixpack Cerveza Cusqueña Trigo Lata 355ml,S/ 25.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,355.0,ml,25.9,wong,,,TRIGO MORÓN
+Fourpack Cerveza Artesanal Candelaria Trigo Citrus Wit Lata 355ml,S/ 28.00,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,355.0,ml,28.0,metro,,,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo Lata 355ml Paquete 6un,S/ 28.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,355.0,ml,28.9,vivanda,,CUSQUEÑA,TRIGO MORÓN
+Cerveza Artesanal CANDELARIA Trigo Lata 355ml Paquete 4un,S/ 29.10,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,355.0,ml,29.1,vivanda,,CANDELARIA,TRIGO MORÓN
+Pisco SANTIAGO QUEIROLO Acholado Botella 750ml,S/ 29.90,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,750.0,ml,29.9,vega,,Queirolo,TRIGO MORÓN
+Pack x3 Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 310g,S/ 31.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,310.0,g,31.5,wong,,,TRIGO MORÓN
+Tripack Tortillas de Trigo Rapiditas Clásicas 12un,S/ 31.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,12.0,un,31.5,wong,,,TRIGO MORÓN
+Pack x3 Tortillas de Trigo Clásicas Rapiditas Wraps Bimbo Paquete 310g,S/ 31.50,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,310.0,g,31.5,wong,,,TRIGO MORÓN
+Sixpack Cerveza Cusqueña Trigo Lata 473ml,S/ 32.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,473.0,ml,32.5,metro,,,TRIGO MORÓN
+Sixpack Cerveza Artesanal Raymi Trigo Botella 330ml,S/ 34.90,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,330.0,ml,34.9,metro,,,TRIGO MORÓN
+Six Pack Cerveza Trigo Lager 473 mL,S/ 34.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,473.0,ml,34.9,tottus,,CUSQUEÑA,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo Lata 473ml Paquete 6un,S/ 34.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,6.0,un,34.9,plaza_vea,Paquete 6un,,TRIGO MORÓN
+Sixpack Cerveza Artesanal Raymi Trigo Botella 330ml,S/ 34.90,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,330.0,ml,34.9,wong,,,TRIGO MORÓN
+Cerveza CUSQUEÑA Trigo Lata 473ml Paquete 6un,S/ 34.90,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,473.0,ml,34.9,vivanda,,CUSQUEÑA,TRIGO MORÓN
+Germen de Trigo Age 500g,S/ 35.50,metro,TRIGO MORÓN,2024-12-04 20:36:58.511548,500.0,g,35.5,metro,,,TRIGO MORÓN
+Cereales AGE Gérmen de Trigo Paquete 500g,S/ 35.80,vivanda,TRIGO MORÓN,2024-12-04 17:12:25.605624,500.0,g,35.8,vivanda,,AGE,TRIGO MORÓN
+Germen de Trigo Age 500g,S/ 35.80,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,500.0,g,35.8,wong,,,TRIGO MORÓN
+Cerveza PAULANER Trigo 4 Pack Botella 330ml,S/ 37.90 un,plaza_vea,TRIGO MORÓN,2024-12-04 12:54:18.592702,330.0,ml,37.9,plaza_vea,Botella 330ml,,TRIGO MORÓN
+Pisco 4 GALLOS Acholado Botella 700ml,S/ 42.90,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,4.0,g,42.9,vega,,4 Gallos,TRIGO MORÓN
+Alimento Deshidratado Pollo Origo Pet 1kg,S/ 72.89,wong,TRIGO MORÓN,2024-12-04 18:03:10.788921,1.0,kg,72.89,wong,,,TRIGO MORÓN
+Pack Pisco CATEDRATICO Quebranta Botella 750ml + Ginger Ale EVERVESS Botella 1.5L,,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,750.0,ml,,vega,,CATEDRATICO,TRIGO MORÓN
+Pack Pisco CATEDRATICO Acholado Botella 750ml + Ginger Ale EVERVESS Botella 1.5L,,vega,TRIGO MORÓN,2024-12-04 13:00:39.275181,750.0,ml,,vega,,CATEDRATICO,TRIGO MORÓN

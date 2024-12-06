@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
+Presentación 0.42 kg aprox.,Pan Ciabatta x Kg,S/ 7.90 x kg,plaza_vea,PAN CIABATTA,2024-12-04 12:58:45.809957,0.42,kg,7.9
+Bolsa 550g,Pan Mini Ciabatta LA FLORENCIA Bolsa 550g,S/ 5.90 un,plaza_vea,PAN CIABATTA,2024-12-04 12:58:45.809957,550.0,g,5.9
+Bolsa 250g,Pan Ciabatta DON MAMINO Precocido Bolsa 250g,S/ 4.99 un,plaza_vea,PAN CIABATTA,2024-12-04 12:58:45.809957,250.0,g,4.99

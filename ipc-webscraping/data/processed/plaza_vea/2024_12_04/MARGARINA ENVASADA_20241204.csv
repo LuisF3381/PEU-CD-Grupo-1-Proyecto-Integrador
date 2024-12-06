@@ -1,0 +1,58 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
+Presentación 1 kg aprox.,Mandarina Malvacea,S/ 5.70 x kg,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,1.0,kg,5.7
+Bolsa 258g,Galletas SAYON Margarita Bolsa 43g,S/ 4.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,258.0,g,4.4
+Barra 200g,Margarina SELLO DE ORO Barra 200g,S/ 4.30 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,200.0,g,4.3
+Pote 300g,Margarina MANTY Clásica Pote 300g,S/ 5.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,300.0,g,5.5
+Pack 500g,Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,g,5.5
+Barra 90g,Margarina SELLO DE ORO Barra 90g,S/ 2.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,90.0,g,2.9
+Pote 490g,Margarina BELL'S Pote 490g,S/ 7.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,490.0,g,7.5
+Pack 330g,Jabón Palmolive Mandarina y Romero Pack 3x 110...,S/ 9.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,330.0,g,9.9
+Pote 400g,Margarina SELLO DE ORO 0% Grasas Trans Pote 40...,S/ 8.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,400.0,g,8.4
+Pote 450g,Margarina Light DORINA Pote 450g,S/ 11.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,450.0,g,11.5
+Pote 450g,Margarina Clásica DORINA Pote 450g,S/ 11.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,450.0,g,11.5
+Bolsa 235g,Tornillo Especial MOLITALIA Pasta para Ensalad...,S/ 3.10 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,235.0,g,3.1
+Bolsa 250gun,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,250.0,g,4.69
+Pote 900g,Margarina Clásica DORINA Pote 900g,S/ 20.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,900.0,g,20.5
+Bolsa 500g,Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,g,8.9
+Bolsa 150gun,Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,150.0,g,6.59
+Barra 200g,Margarina LAIVE Swis Barra 200g,S/ 4.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,200.0,g,4.8
+Bolsa 500gun,Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,g,6.99
+Pote 240g,Margarina BELL'S Pote 240g,S/ 3.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,240.0,g,3.9
+Botella 500ml,Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,ml,2.0
+Pote 450g,Margarina LAIVE Swis Pote 450g,S/ 11.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,450.0,g,11.4
+Pote 220g,Margarina Light DORINA Pote 220g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,220.0,g,6.9
+Bandeja 500g,Ensalada Rusa BELL'S Bandeja 500g,S/ 9.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,g,9.49
+Bandeja 500g,Ensalada Mixta BELL'S Bandeja 500g,S/ 10.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,g,10.99
+Bolsa 400g,Mix Ensalada Precocida Congelada GREEN FOOD Bo...,S/ 8.20 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,400.0,g,8.2
+Pote 220g,Margarina Clásica DORINA Pote 220g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,220.0,g,6.9
+Bolsa 400g,Ensalada Rusa Precocida GREEN FOOD Bolsa 400g,S/ 7.60 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,400.0,g,7.6
+Caja 1L,Bebida FRUGOS Piña y Mandarina Caja 1L,S/ 4.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,1.0,l,4.5
+Pote 90g,Margarina MANTY Pote 90g,S/ 2.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,90.0,g,2.8
+Táper 150gun,Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,S/ 7.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,150.0,g,7.49
+Pote 200g,Margarina SELLO DE ORO 0% Grasas Trans Pote 20...,S/ 5.20 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,200.0,g,5.2
+Botella 750ml,Bebida Rehidratante GATORADE Sabor a Mandarina...,S/ 3.30 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,750.0,ml,3.3
+Frasco 240g,Mermelada de Mandarina COMPASS Frasco 240g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,240.0,g,6.9
+Envase 100gun,Ensalada Mix Personal BELL'S FRESCOS Envase 10...,S/ 5.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,100.0,g,5.49
+Bandeja 180g,Ensalada Rusa LA FLORENCIA Bandeja 170g,S/ 3.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,180.0,g,3.9
+Botella 500ml,Bebida Rehidratante SPORADE Mandarina Botella ...,S/ 2.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,500.0,ml,2.4
+Bandeja 300g,"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",S/ 5.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,300.0,g,5.99
+Barra 90g,Margarina LAIVE Swis Barra 90g,S/ 3.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,90.0,g,3.5
+Bandeja 120g,Ensalada Mix Mediterráneo VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,120.0,g,11.99
+Frasco 454g,Vinagreta Ranch LUREN para Ensalada Frasco 454...,S/ 8.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,454.0,g,8.4
+Pote 190g,Margarina LA DANESA Pote 190g,S/ 3.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,190.0,g,3.8
+Bandeja 300g,"Ensalada de Piña, Sandía y Melón BELL'S Bandej...",S/ 5.69 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,300.0,g,5.69
+Envase 150gun,Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,S/ 7.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,150.0,g,7.49
+Lata 330ml,Agua Saborizada SAN PELLEGRINO Essenza Sabor a...,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,330.0,ml,6.9
+Bandeja 1un,Ensalada Italiana HOME CHEF Bandeja 1un,S/ 13.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,1.0,un,13.9
+Bandeja 120g,Ensalada Mix Primavera VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,120.0,g,11.99
+Paquete 400g,Ensalada Rusa LA FLORENCIA 400g,S/ 12.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,400.0,g,12.9
+Bandeja 300g,"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",S/ 8.79 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,300.0,g,8.79
+Botella 630ml,Bebida Rehidrantante SUEROX Naranja y Mandarin...,S/ 6.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,630.0,ml,6.5
+Bolsa 1un,Ensalada Power HOME CHEF 1un,S/ 13.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,1.0,un,13.9
+Paquete 1un,Ensalada a la Brasa ALCA FOOD Pequeña x 1un,S/ 12.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,1.0,un,12.9
+Botella 625ml,Rehidratante ELECTROLIFE Sabor a Naranja y Man...,S/ 6 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,625.0,ml,6.0
+Sobre 5g,Salvia 4 ESTACIONES Ensalada Sobre 5g,S/ 4.10 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,5.0,g,4.1
+Pote 12g,Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,S/ 7.70 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,12.0,g,7.7
+Bolsa 145g,Marshmallow COLOMBINA Millows sabores Frutado ...,S/ 4.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,145.0,g,4.9
+Lata 90g,Mix Sales y Especias GO BARMAN Margarita & Mic...,S/ 19.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,90.0,g,19.9
+Sobre 5g,Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,S/ 3.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-04 13:45:34.813066,5.0,g,3.99

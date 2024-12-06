@@ -1,0 +1,38 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
+Paquete 3un,Aditivo de Lavandería DIAMANTE Sal de Soda Mic...,S/ 9.30 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,3.0,un,9.3
+Caja 4Kg,Sal Belga Especial BONI para Máquinas Lavavaji...,S/ 49.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,4.0,kg,49.9
+Frasco 127.6g,Sal BADIA Ajo Frasco 127.60Gr,S/ 9.40 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,127.6,g,9.4
+Lata 355ml,Cerveza CANDELARIA Sunset Sal de Maras Lata 35...,S/ 7.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,355.0,ml,7.9
+Pack 2un,Pack Tortillas de Maíz TOSTITOS con Sal Bolsa ...,S/ 17 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,2.0,un,17.0
+Lata 90g,Mix Sales y Especias GO BARMAN Margarita & Mic...,S/ 19.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,90.0,g,19.9
+Bolsa 90g,Mix Sales y Especias GOR BARMAN Micheladas & T...,S/ 19.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,90.0,g,19.9
+Lata 90g,Mix Sales y Especias GO BARMAN Bloody & Mary L...,S/ 19.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,90.0,g,19.9
+Bolsa 1kg,Sal Marina EMSAL Mesa Bolsa 1Kg,S/ 2.40 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.4
+Bolsa 1kg,Sal Marina EMSAL Cocina Bolsa 1Kg,S/ 2.40 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.4
+Bolsa 1Kg,Sal de Mesa BELL'S Bolsa 1 Kg,S/ 2 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.0
+Bolsa 1Kg,Sal de Cocina BELL'S Bolsa 1Kg,S/ 2 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,1.0,kg,2.0
+Doypack 500g,Sal de Maras Fina BELL'S Doypack 500g,S/ 9.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.9
+Caja 500g,Sal ONZA De maras fina Caja 500Gr,S/ 9 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.0
+Bolsa 500g,Sal Rosada de Maras PERUVIAN Gruesa Bolsa 500g,S/ 8.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,8.9
+Doypack 500g,Sal de Maras Gruesa BELL'S Doypack 500g,S/ 9.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.9
+Doypack 500g,Sal Marina de Mesa EMSAL Ecológica Doypack 500...,S/ 4.59 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,4.59
+Caja 500g,Sal ONZA De maras gruesa Caja 500Gr,S/ 9 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.0
+Pote 125g,Sal de Mesa LOBOS Fina Pote 125g,S/ 2.60 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,125.0,g,2.6
+Frasco 100g,Sal de Maras GOURMET Frasco 100g,S/ 15.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,100.0,g,15.9
+Doypack 250g,Sal de Maras ONZA Hierbas Mediterráneas Doypac...,S/ 8.70 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,250.0,g,8.7
+Frasco 750g,Sal LOBOS Parillera Frasco 750Gr,S/ 10.60 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,750.0,g,10.6
+Frasco 100g,Sal de Maras Gruesa ONZA Molinillo Frasco 100g,S/ 18.20 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,100.0,g,18.2
+Frasco 500g,Sal Fina de Mesa EMSAL Frasco 500g,S/ 5.59 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,5.59
+Frasco 500g,Sal Parrillera BELL'S Frasco 500g,S/ 6.60 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,6.6
+Frasco 500g,Sal Parrillera EMSAL Frasco 500g,S/ 8.79 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,8.79
+Frasco 125g,Sal Fina de Mesa EMSAL Frasco 125g,S/ 3.79 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,125.0,g,3.79
+Frasco 500g,Sal de Mesa LOBOS Fina Frasco 500g,S/ 5.29 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,5.29
+Pote 850g,Sal BIOSAL 50% Menos Sodio Pote 850g,S/ 16.10 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,850.0,g,16.1
+Frasco 500g,Sal BIOSAL 50% Menos Sodio Frasco 500g,S/ 11.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,11.9
+Frasco 125g,Sal BIOSAL Liviana en sodio Frasco 125g,S/ 4.10 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,125.0,g,4.1
+Bolsa 500g,Sal de Maras GOURMET Especial Bolsa 500g,S/ 9.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,500.0,g,9.9
+Frasco 50g,Sal de Maras ONZA Hierbas Mediterráneas Molini...,S/ 18.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,50.0,g,18.9
+Frasco 100g,Sal MARAS GOURMET con Especies Moledor Frasco ...,S/ 15.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,100.0,g,15.9
+Doypack 400g,Sal de Maras ONZA Ají Panca Doypack 400g,S/ 8.70 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,400.0,g,8.7
+Frasco 80g,Sal de Maras ONZA Ají Panca Molinillo Frasco 8...,S/ 18.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,80.0,g,18.9
+Bolsa 600g,Sal MARAS GOURMET Ahumada Bolsa 600g,S/ 11.90 un,plaza_vea,SAL,2024-12-04 14:27:18.876663,600.0,g,11.9

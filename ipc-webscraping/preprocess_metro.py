@@ -89,6 +89,8 @@ def primer_procesamiento(df):
     df = eliminar_filas_sin_unidad(df)
     # Arreglar las unidades
     df = estandarizar_unidades(df)
+    
+    # Extraemos el precio
     df = extraer_precio_numerico(df)
 
     return df
@@ -98,6 +100,7 @@ def primer_procesamiento(df):
 current_dir = os.path.dirname(__file__)  # Directorio actual del script
 input_path = os.path.join(current_dir, 'data', 'raw','metro', CURRENT_DATE)
 output_path = os.path.join(current_dir, 'data', 'processed','metro', CURRENT_DATE)
+os.makedirs(output_path, exist_ok=True)  # Crea la carpeta si no existe
 
 
 # Ahora iteramos para todos los archivos de esa fecha
@@ -111,9 +114,18 @@ for filename in os.listdir(input_path):
         # Primer procesamiento
         df = primer_procesamiento(df)
 
+        # Extraemos el nombre modificado
+        new_name = "_".join(filename.split('_')[1:3])  # Extrae 'ACEITE VEGETAL ENVASADO_20241204'
+
+        # Guardamos el archivo procesado con el nuevo nombre
+        output_file_path = os.path.join(output_path, f'{new_name}.csv')
+        df.to_csv(output_file_path, index=False)
+        
+        print(f'Archivo procesado y guardado en: {output_file_path}')
+
         # Segundo procesamiento
         #print(f'Contents of {filename}:')
-        print(df)
+        #print(df)
         #print()
 
 
