@@ -37503,4 +37503,4 @@ Stacktrace:
 2024-12-06 12:21:55,698 - INFO - Scraping exitoso para t�rmino: BEBIDA ENERGIZANTE (FLUIDA)
 2024-12-06 12:22:10,120 - INFO - Scraping exitoso para t�rmino: BEBIDA HIDRATANTE
 2024-12-06 12:22:30,359 - INFO - Scraping exitoso para t�rmino: REFRESCO ENVASADO (FLUIDO)
-2024-12-06 12:22:43,760 - INFO - Scraping exitoso para t�rmino: BEBIDA DE FRUTA ENVASADA
+2024-12-06 12:22:43,760 - sINFO - Scraping exitoso para t�rmino: BEBIDA DE FRUTA ENVASADA
