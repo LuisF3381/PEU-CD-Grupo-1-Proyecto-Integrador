@@ -1,22 +1,22 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 750g,Pan de Molde BIMBO Integral Bolsa 750g,S/ 12.60 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,750.0,g,12.6
-Bolsa 600g,Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 14.80 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,600.0,g,14.8
-Paquete 10un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 7.20 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,10.0,un,7.2
-Bolsa 500g,Pan de Molde Integral LA FLORENCIA Bolsa 500g,S/ 7.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,7.9
-Bolsa 500g,Pan de Molde Integral BELL'S Mediano Bolsa 500...,S/ 7.40 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,7.4
-Bolsa 560g,Pan Artesano Integral BIMBO Bolsa 560g,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,560.0,g,10.5
-Bolsa 300g,Pan Pita Integral BIMBO Bolsa 300g,S/ 6 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,6.0
-Bolsa 540g,Pan de Molde UNIÓN Granos Integrales Bolsa 540...,S/ 11.40 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,540.0,g,11.4
-Bolsa 360g,Pan de Molde Integral UNIÓN Mediano Bolsa 360g,S/ 8.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,8.39
-Bolsa 360g,Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,10.5
-Bolsa 650g,Pan de Molde Integral BIMBO Sin Bordes Bolsa 6...,S/ 15.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,650.0,g,15.9
-Bolsa 300g,Pan Pita Integral BELL'S Bolsa 300g,S/ 5.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,5.7
-Bolsa 560g,Pan Integral BIMBO Cero Cero Bolsa 560g,S/ 10.80 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,560.0,g,10.8
-Bolsa 380g,Pan Árabe Integral LA FLORENCIA Bolsa 380g,S/ 4.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,380.0,g,4.9
-Bolsa 495g,Pan de Molde Integral UNIÓN Bolsa 495g,S/ 12.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,495.0,g,12.39
-Bolsa 500g,Pan de Molde Integral PYC Mediano Bolsa 500g,S/ 8.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,8.9
-Bolsa 530g,Pan Integral LA FLORENCIA Bolsa 397g,S/ 4.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,530.0,g,4.9
-Bolsa 500g,Pan de Molde Integral 6 Semillas LA FLORENCIA ...,S/ 12.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,12.9
-Bolsa 5un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 4 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,5.0,un,4.0
-Bolsa 480g,Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl...,S/ 17.79 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,17.79
-Bolsa 480g,Pan Integral BIMBO Mediano Bolsa 480g,S/ 10.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,10.7
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 750g,Pan de Molde BIMBO Integral Bolsa 750g,S/ 12.60 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,750.0,g,Pan de Molde BIMBO Integral Bolsa,12.6
+Bolsa 600g,Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 14.80 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,600.0,g,Pan de Molde Integral BIMBO Vital Multicereal,14.8
+Paquete 10un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 7.20 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,10.0,un,Pan Árabe Integral EL CEDRO con Salvado de Tri,7.2
+Bolsa 500g,Pan de Molde Integral LA FLORENCIA Bolsa 500g,S/ 7.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral LA FLORENCIA Bolsa,7.9
+Bolsa 500g,Pan de Molde Integral BELL'S Mediano Bolsa 500...,S/ 7.40 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral BELL'S Mediano Bolsa 500,7.4
+Bolsa 560g,Pan Artesano Integral BIMBO Bolsa 560g,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,560.0,g,Pan Artesano Integral BIMBO Bolsa,10.5
+Bolsa 300g,Pan Pita Integral BIMBO Bolsa 300g,S/ 6 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,Pan Pita Integral BIMBO Bolsa,6.0
+Bolsa 540g,Pan de Molde UNIÓN Granos Integrales Bolsa 540...,S/ 11.40 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,540.0,g,Pan de Molde UNIÓN Granos Integrales Bolsa 540,11.4
+Bolsa 360g,Pan de Molde Integral UNIÓN Mediano Bolsa 360g,S/ 8.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,Pan de Molde Integral UNIÓN Mediano Bolsa,8.39
+Bolsa 360g,Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,Pan de Molde Integral BIMBO Vital Multicereal,10.5
+Bolsa 650g,Pan de Molde Integral BIMBO Sin Bordes Bolsa 6...,S/ 15.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,650.0,g,Pan de Molde Integral BIMBO Sin Bordes Bolsa 6,15.9
+Bolsa 300g,Pan Pita Integral BELL'S Bolsa 300g,S/ 5.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,Pan Pita Integral BELL'S Bolsa,5.7
+Bolsa 560g,Pan Integral BIMBO Cero Cero Bolsa 560g,S/ 10.80 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,560.0,g,Pan Integral BIMBO Cero Cero Bolsa,10.8
+Bolsa 380g,Pan Árabe Integral LA FLORENCIA Bolsa 380g,S/ 4.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,380.0,g,Pan Árabe Integral LA FLORENCIA Bolsa,4.9
+Bolsa 495g,Pan de Molde Integral UNIÓN Bolsa 495g,S/ 12.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,495.0,g,Pan de Molde Integral UNIÓN Bolsa,12.39
+Bolsa 500g,Pan de Molde Integral PYC Mediano Bolsa 500g,S/ 8.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral PYC Mediano Bolsa,8.9
+Bolsa 530g,Pan Integral LA FLORENCIA Bolsa 397g,S/ 4.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,530.0,g,Pan Integral LA FLORENCIA Bolsa,4.9
+Bolsa 500g,Pan de Molde Integral 6 Semillas LA FLORENCIA ...,S/ 12.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral 6 Semillas LA FLORENCIA,12.9
+Bolsa 5un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 4 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,5.0,un,Pan Árabe Integral EL CEDRO con Salvado de Tri,4.0
+Bolsa 480g,Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl...,S/ 17.79 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl,17.79
+Bolsa 480g,Pan Integral BIMBO Mediano Bolsa 480g,S/ 10.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,Pan Integral BIMBO Mediano Bolsa,10.7

@@ -19,13 +19,21 @@ def extraer_volumen(df, archivo_no_procesados="no_procesados.csv"):
     pandas.DataFrame: DataFrame con nuevas columnas de volumen (número y unidad)
     """
     # Expresión regular para capturar volumen
-    regex = r'(\d+(?:\.\d+)?|x)\s*(ml|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|Unidades|un|Un|Porciones)'
+    regex = r'(\d+(?:\.\d+)?|x|X)\s*(ml|ML|mL|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|UNID|Unidades|un|Un|UN|UNIDADES|Porciones|filtrantes|Filtrantes)'
     
     # Extraer número y unidad
     df[['cantidad', 'unidad']] = df['unit'].str.extract(regex)
     
+    # Crear descripción sin unidades y sin puntos suspensivos
+    df['description_no_unit'] = (
+        df['description']
+        .str.replace(regex, '', regex=True)  # Quitar unidades
+        .str.replace(r'\.{3,}', '', regex=True)  # Quitar puntos suspensivos
+        .str.strip()  # Eliminar espacios al inicio y final
+    )
+
     # Reemplazar "x" con 1 en cantidad
-    df['cantidad'] = df['cantidad'].replace('x', 1).astype(float)
+    df['cantidad'] = df['cantidad'].str.lower().replace('x', 1).astype(float)
     
     # Filtrar las filas donde no se encontró volumen o unidad
     no_procesados = df[df['cantidad'].isna() | df['unidad'].isna()]

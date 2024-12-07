@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 500g,Arveja Verde COSTEÑO Bolsa 500g,S/ 4.40 un,plaza_vea,ARVEJA VERDE,2024-12-05 15:31:18.617332,500.0,g,Arveja Verde COSTEÑO Bolsa,4.4
+Bolsa 500g,Arveja Verde VALLENORTE Bolsa 500g,S/ 4.90 un,plaza_vea,ARVEJA VERDE,2024-12-05 15:31:18.617332,500.0,g,Arveja Verde VALLENORTE Bolsa,4.9
+Bolsa 500g,Arveja Verde Partida INCATRAIL Bolsa 500g,S/ 4.29 un,plaza_vea,ARVEJA VERDE,2024-12-05 15:31:18.617332,500.0,g,Arveja Verde Partida INCATRAIL Bolsa,4.29

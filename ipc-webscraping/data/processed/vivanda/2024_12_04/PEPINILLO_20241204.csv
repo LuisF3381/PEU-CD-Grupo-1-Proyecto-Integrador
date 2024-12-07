@@ -1,10 +1,10 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pepinillo sin Pepas VIVA Bandeja x un,VIVA,S/ 8.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,8.9
-Pepinillos Encurtidos VALLE FÉRTIL Gourmet Receta Europea Frasco 680g,VALLE FERTIL,S/ 19.70,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,680.0,g,19.7
-Pepinillos ASPERIO Frasco 370g,ASPERIO,S/ 6.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,6.9
-Pepinillos Encurtidos VALLE FÉRTIL Receta Americana Gourmet Frasco 680g,VALLE FERTIL,S/ 19.70,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,680.0,g,19.7
-Pepinillos en Salmuera OLIVALLE Pote 250g,OLIVALLE,S/ 9.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,250.0,g,9.5
-Pepinillos ASPERIO Sabor Anchoa Frasco 370g,ASPERIO,S/ 8.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,8.5
-Baby Pepinillo BELL'S FRESCOS x un,BELL'S FRESCOS,S/ 3.99,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,3.99
-Salsa Dulce a Base de Pepinillos VALLE FERTIL Relish Gourmet Frasco 340g,VALLE FERTIL,S/ 12.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,340.0,g,12.5
-Rodajas de Pepinillo en Conserva HENGSTENBERG Para Hamburguesas Frasco 330g,HENGSTENBERG,S/ 33.80,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,330.0,g,33.8
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pepinillo sin Pepas VIVA Bandeja x un,VIVA,S/ 8.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,Pepinillo sin Pepas VIVA Bandeja,8.9
+Pepinillos Encurtidos VALLE FÉRTIL Gourmet Receta Europea Frasco 680g,VALLE FERTIL,S/ 19.70,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,680.0,g,Pepinillos Encurtidos VALLE FÉRTIL Gourmet Receta Europea Frasco,19.7
+Pepinillos ASPERIO Frasco 370g,ASPERIO,S/ 6.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,Pepinillos ASPERIO Frasco,6.9
+Pepinillos Encurtidos VALLE FÉRTIL Receta Americana Gourmet Frasco 680g,VALLE FERTIL,S/ 19.70,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,680.0,g,Pepinillos Encurtidos VALLE FÉRTIL Receta Americana Gourmet Frasco,19.7
+Pepinillos en Salmuera OLIVALLE Pote 250g,OLIVALLE,S/ 9.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,250.0,g,Pepinillos en Salmuera OLIVALLE Pote,9.5
+Pepinillos ASPERIO Sabor Anchoa Frasco 370g,ASPERIO,S/ 8.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,Pepinillos ASPERIO Sabor Anchoa Frasco,8.5
+Baby Pepinillo BELL'S FRESCOS x un,BELL'S FRESCOS,S/ 3.99,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,Baby Pepinillo BELL'S FRESCOS,3.99
+Salsa Dulce a Base de Pepinillos VALLE FERTIL Relish Gourmet Frasco 340g,VALLE FERTIL,S/ 12.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,340.0,g,Salsa Dulce a Base de Pepinillos VALLE FERTIL Relish Gourmet Frasco,12.5
+Rodajas de Pepinillo en Conserva HENGSTENBERG Para Hamburguesas Frasco 330g,HENGSTENBERG,S/ 33.80,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,330.0,g,Rodajas de Pepinillo en Conserva HENGSTENBERG Para Hamburguesas Frasco,33.8

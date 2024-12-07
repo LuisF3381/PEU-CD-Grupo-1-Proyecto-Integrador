@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Bolsa de Pino Perfumada 30 L,S/ 7.90,tottus,PIÑA,2024-12-04 13:33:13.389810,30.0,l,7.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Bolsa de Pino Perfumada 30 L,S/ 7.90,tottus,PIÑA,2024-12-04 13:33:13.389810,30.0,l,Bolsa de Pino Perfumada,7.9

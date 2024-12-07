@@ -1,4 +1,4 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-SIBARITA,Salsa de Culantro 100 g,S/ 2.70,tottus,CULANTRO,2024-12-04 13:50:44.509477,100.0,g,2.7
-SIBARITA,Salsa De Culantro Con Espinaca Doypack x 550 g,S/ 12.80,tottus,CULANTRO,2024-12-04 13:50:44.509477,550.0,g,12.8
-TOTTUS,Culantro molido 190 g,S/ 5.30,tottus,CULANTRO,2024-12-04 13:50:44.509477,190.0,g,5.3
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+SIBARITA,Salsa de Culantro 100 g,S/ 2.70,tottus,CULANTRO,2024-12-04 13:50:44.509477,100.0,g,Salsa de Culantro,2.7
+SIBARITA,Salsa De Culantro Con Espinaca Doypack x 550 g,S/ 12.80,tottus,CULANTRO,2024-12-04 13:50:44.509477,550.0,g,Salsa De Culantro Con Espinaca Doypack x,12.8
+TOTTUS,Culantro molido 190 g,S/ 5.30,tottus,CULANTRO,2024-12-04 13:50:44.509477,190.0,g,Culantro molido,5.3

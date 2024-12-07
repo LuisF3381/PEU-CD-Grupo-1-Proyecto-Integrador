@@ -1,66 +1,64 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
-Chocolate COSTA Mecano Chocolate 19gr,S/ 0.80,vega,PECANAS,2024-12-04 14:05:04.806682,19.0,g,0.8,vega,,Costa,PECANAS
-Teja de Pecana Helena 30g,S/ 5.99,metro,PECANAS,2024-12-04 21:39:26.297883,30.0,g,5.99,metro,,,PECANAS
-Chocoteja de Pecana Helena 30g,S/ 5.99,metro,PECANAS,2024-12-04 21:39:26.297883,30.0,g,5.99,metro,,,PECANAS
-Teja de Pecana Helena 30g,S/ 5.99,wong,PECANAS,2024-12-04 19:41:57.167363,30.0,g,5.99,wong,,,PECANAS
-Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,60.0,g,7.9,plaza_vea,Bolsa 60g,,PECANAS
-Pecana Pelada Villa Natura 60g,S/ 7.90,metro,PECANAS,2024-12-04 21:39:26.297883,60.0,g,7.9,metro,,,PECANAS
-Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,metro,PECANAS,2024-12-04 21:39:26.297883,50.0,g,8.5,metro,,,PECANAS
-Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,8.5,wong,,,PECANAS
-Bolitas de Cereal TRUBALLS Pecanas y Naranja D...,S/ 8.80 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,8.8,plaza_vea,Doypack 90g,,PECANAS
-Barras Truballs Pecanas y Naranja 90 g,S/ 11.10,metro,PECANAS,2024-12-04 21:39:26.297883,90.0,g,11.1,metro,,,PECANAS
-Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,80.0,g,11.9,plaza_vea,Bolsa 80g,,PECANAS
-Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co 80g,S/ 11.90,metro,PECANAS,2024-12-04 21:39:26.297883,80.0,g,11.9,metro,,,PECANAS
-Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,11.9,plaza_vea,Bolsa 90g,,PECANAS
-Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 11.90,metro,PECANAS,2024-12-04 21:39:26.297883,500.0,g,11.9,metro,,,PECANAS
-PECANA PELADA BL 100 GR,S/ 12.20,tottus,PECANAS,2024-12-04 13:34:42.292092,100.0,g,12.2,tottus,,VILLA NATURA,PECANAS
-Pecana Acaramelada Cuisine & Co 80g,S/ 12.50,metro,PECANAS,2024-12-04 21:39:26.297883,80.0,g,12.5,metro,,,PECANAS
-Pecana Acaramelada Cuisine & Co 80g,S/ 13.20,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,13.2,wong,,,PECANAS
-Pecana Pelada VALLEALTO Bolsa 90g,S/ 13.40,vivanda,PECANAS,2024-12-04 17:52:15.225790,90.0,g,13.4,vivanda,,VALLEALTO,PECANAS
-Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,metro,PECANAS,2024-12-04 21:39:26.297883,2.0,un,13.52,metro,,,PECANAS
-Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,wong,PECANAS,2024-12-04 19:41:57.167363,2.0,un,13.52,wong,,,PECANAS
-Pecanas Peladas Cuisine&Co Pote 100 g,S/ 13.70,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,13.7,metro,,,PECANAS
-Pecanas Peladas Vallealto 90g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,13.8,wong,,,PECANAS
-Cereal CROSOY Granola manzana pecana y canela Bolsa 380Gr,S/ 14.20,vivanda,PECANAS,2024-12-04 17:52:15.225790,380.0,g,14.2,vivanda,,CROSOY,PECANAS
-Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,380.0,g,14.2,plaza_vea,Bolsa 380g,,PECANAS
-Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 14.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,14.5,vivanda,,VILLA NATURA,PECANAS
-Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 14.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,14.5,vivanda,,VILLA NATURA,PECANAS
-Pecanas Peladas Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,14.9,wong,,,PECANAS
-Pecana Pelada Villa Natura 100g,S/ 14.90,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,14.9,metro,,,PECANAS
-Pecana Caramel Vallealto 100g,S/ 15.50,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,15.5,metro,,,PECANAS
-Pecana Caramel Vallealto 100g,S/ 15.70,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,15.7,wong,,,PECANAS
-Brownie con Pecana D' Abuelas 5un,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,5.0,un,15.9,wong,,,PECANAS
-Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,135.0,g,16.5,vivanda,,VALLEALTO,PECANAS
-Bombones de Tofee con Pecanas Peccanroll 100 g,S/ 16.90,tottus,PECANAS,2024-12-04 13:34:42.292092,100.0,g,16.9,tottus,,HELENA,PECANAS
-Queso Crema Gourmet DELICE con Pecanas Paquete 150g,S/ 16.90,vivanda,PECANAS,2024-12-04 17:52:15.225790,150.0,g,16.9,vivanda,,DELICE,PECANAS
-Bombones HELENA Peccanroll Bitter con Pecanas Caja 100g,S/ 17.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,17.0,vivanda,,HELENA,PECANAS
-Chocolate con Leche y Pecanas Orquídea 35% Cacao 85g,S/ 17.50,wong,PECANAS,2024-12-04 19:41:57.167363,85.0,g,17.5,wong,,,PECANAS
-Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,90.0,g,17.5,vivanda,,ORQUIDEA,PECANAS
-Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,17.5,plaza_vea,Envoltura 90g,,PECANAS
-Bombones HELENA Peccanroll Bitter con Pecanas ...,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,17.5,plaza_vea,Caja 100g,,PECANAS
-Granola Orgánica de Pecanas y Quinua de 300 g,S/ 17.90,tottus,PECANAS,2024-12-04 13:34:42.292092,300.0,g,17.9,tottus,,WASI ORGANICS,PECANAS
-Chocolate con Leche y Pecanas Orquídea 90 g,S/ 17.90,tottus,PECANAS,2024-12-04 13:34:42.292092,90.0,g,17.9,tottus,,ORQUIDEA,PECANAS
-Pecana en Trozos Vallealto 150g,S/ 18.10,metro,PECANAS,2024-12-04 21:39:26.297883,150.0,g,18.1,metro,,,PECANAS
-Pecana en Trozos Vallealto 150g,S/ 18.10,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,18.1,wong,,,PECANAS
-Piqueo VILLA NATURA Pasas Almendras Pecanas Nueces y Anacardos Táper 250g,S/ 19.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,250.0,g,19.0,vivanda,,VILLA NATURA,PECANAS
-Queso De Pecanas 150 g,S/ 19.90,tottus,PECANAS,2024-12-04 13:34:42.292092,150.0,g,19.9,tottus,,DELICE,PECANAS
-Tableta de Chocolate MILKY con Pecanas Paquete...,S/ 19.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,19.9,plaza_vea,Paquete 100g,,PECANAS
-Granola WASI ORGANICS Pecanas Caja 300g,S/ 20.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,300.0,g,20.0,vivanda,,WASI,PECANAS
-Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,20.2,wong,,,PECANAS
-Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,S/ 20.20,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,20.2,metro,,,PECANAS
-Chocolate con Leche y Pecanas 40% Cacao Milky La Ibérica Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,20.2,wong,,,PECANAS
-"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack 300 g",S/ 20.60,wong,PECANAS,2024-12-04 19:41:57.167363,300.0,g,20.6,wong,,,PECANAS
-Queso Crema Gourmet Delice con Pecanas Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,21.8,wong,,,PECANAS
-Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,21.9,plaza_vea,Bolsa 180g,,PECANAS
-Galletas con Pecanas ANA AVELLANA Pote 320g,S/ 24.90,vivanda,PECANAS,2024-12-04 17:52:15.225790,320.0,g,24.9,vivanda,,ANA AVELLANA,PECANAS
-Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 25.10,vivanda,PECANAS,2024-12-04 17:52:15.225790,180.0,g,25.1,vivanda,,VILLA NATURA,PECANAS
-Panetón Integral con Higos y Pecanas Unión Diet Lata 500g,S/ 32.50,metro,PECANAS,2024-12-04 21:39:26.297883,500.0,g,32.5,metro,,,PECANAS
-Chocotejas Britt Pecanas 6un,S/ 32.90,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,32.9,wong,,,PECANAS
-Chocotejas de Pecanas Helena 6un,S/ 33.50,metro,PECANAS,2024-12-04 21:39:26.297883,6.0,un,33.5,metro,,,PECANAS
-Chocotejas de Pecana HELENA Caja 180g,S/ 33.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,33.5,plaza_vea,Caja 180g,,PECANAS
-Chocotejas de Pecana HELENA Caja 180g,S/ 33.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,180.0,g,33.5,vivanda,,HELENA,PECANAS
-Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,350.0,g,39.9,plaza_vea,Bolsa 350g,,PECANAS
-Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 47.90,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,47.9,wong,,,PECANAS
-Pecanas Acarameladas x kg,S/ 125.00 x kg,metro,PECANAS,2024-12-04 21:39:26.297883,1.0,kg,125.0,metro,,,PECANAS
-Pecana Pelada x kg,S/ 149.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,149.0,wong,,,PECANAS
-Pecanas Saladas x kg,S/ 189.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,189.0,wong,,,PECANAS
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Chocolate COSTA Mecano Chocolate 19gr,S/ 0.80,vega,PECANAS,2024-12-04 14:05:04.806682,19.0,g,Chocolate COSTA Mecano Chocolate r,0.8,vega,,Costa,PECANAS
+Teja de Pecana Helena 30g,S/ 5.99,metro,PECANAS,2024-12-04 21:39:26.297883,30.0,g,Teja de Pecana Helena,5.99,metro,,,PECANAS
+Chocoteja de Pecana Helena 30g,S/ 5.99,metro,PECANAS,2024-12-04 21:39:26.297883,30.0,g,Chocoteja de Pecana Helena,5.99,metro,,,PECANAS
+Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,60.0,g,Pecana Pelada VILLA NATURA Bolsa,7.9,plaza_vea,Bolsa 60g,,PECANAS
+Pecana Pelada Villa Natura 60g,S/ 7.90,metro,PECANAS,2024-12-04 21:39:26.297883,60.0,g,Pecana Pelada Villa Natura,7.9,metro,,,PECANAS
+Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,metro,PECANAS,2024-12-04 21:39:26.297883,50.0,g,Chocolate con Leche Milky Pecanas y Pasas 40% Cacao,8.5,metro,,,PECANAS
+Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,Chocolate con Leche Milky Pecanas y Pasas 40% Cacao,8.5,wong,,,PECANAS
+Bolitas de Cereal TRUBALLS Pecanas y Naranja D...,S/ 8.80 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Bolitas de Cereal TRUBALLS Pecanas y Naranja D,8.8,plaza_vea,Doypack 90g,,PECANAS
+Barras Truballs Pecanas y Naranja 90 g,S/ 11.10,metro,PECANAS,2024-12-04 21:39:26.297883,90.0,g,Barras Truballs Pecanas y Naranja,11.1,metro,,,PECANAS
+Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,80.0,g,Piqueo BELL'S Pecanas Peladas Bolsa,11.9,plaza_vea,Bolsa 80g,,PECANAS
+Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co 80g,S/ 11.90,metro,PECANAS,2024-12-04 21:39:26.297883,80.0,g,Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co,11.9,metro,,,PECANAS
+Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90,vivanda,PECANAS,2024-12-04 17:52:15.225790,80.0,g,Piqueo BELL'S Pecanas Peladas Bolsa,11.9,vivanda,,BELL'S,PECANAS
+Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Pecana Pelada VALLEALTO Bolsa,11.9,plaza_vea,Bolsa 90g,,PECANAS
+Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 11.90,metro,PECANAS,2024-12-04 21:39:26.297883,500.0,g,Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co,11.9,metro,,,PECANAS
+PECANA PELADA BL 100 GR,S/ 12.20,tottus,PECANAS,2024-12-04 13:34:42.292092,100.0,g,PECANA PELADA BL R,12.2,tottus,,VILLA NATURA,PECANAS
+Pecana Acaramelada Cuisine & Co 80g,S/ 12.50,metro,PECANAS,2024-12-04 21:39:26.297883,80.0,g,Pecana Acaramelada Cuisine & Co,12.5,metro,,,PECANAS
+Pecana Acaramelada Cuisine & Co 80g,S/ 13.20,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,Pecana Acaramelada Cuisine & Co,13.2,wong,,,PECANAS
+Pecana Pelada VALLEALTO Bolsa 90g,S/ 13.40,vivanda,PECANAS,2024-12-04 17:52:15.225790,90.0,g,Pecana Pelada VALLEALTO Bolsa,13.4,vivanda,,VALLEALTO,PECANAS
+Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,metro,PECANAS,2024-12-04 21:39:26.297883,2.0,un,Pan con Pasas y Pecanas Cuisine & Co,13.52,metro,,,PECANAS
+Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,wong,PECANAS,2024-12-04 19:41:57.167363,2.0,un,Pan con Pasas y Pecanas Cuisine & Co,13.52,wong,,,PECANAS
+Pecanas Peladas Cuisine&Co Pote 100 g,S/ 13.70,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,Pecanas Peladas Cuisine&Co Pote,13.7,metro,,,PECANAS
+Pecanas Peladas Vallealto 90g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,Pecanas Peladas Vallealto,13.8,wong,,,PECANAS
+Cereal CROSOY Granola manzana pecana y canela Bolsa 380Gr,S/ 14.20,vivanda,PECANAS,2024-12-04 17:52:15.225790,380.0,g,Cereal CROSOY Granola manzana pecana y canela Bolsa r,14.2,vivanda,,CROSOY,PECANAS
+Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,380.0,g,Cereal CROSOY Granola manzana pecana y canela,14.2,plaza_vea,Bolsa 380g,,PECANAS
+Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 14.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,Pecanas Peladas VILLA NATURA Bolsa,14.5,vivanda,,VILLA NATURA,PECANAS
+Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 14.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,Piqueos VILLA NATURA Pecanas Peladas Pote,14.5,vivanda,,VILLA NATURA,PECANAS
+Pecanas Peladas Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecanas Peladas Villa Natura,14.9,wong,,,PECANAS
+Pecana Pelada Villa Natura 100g,S/ 14.90,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,Pecana Pelada Villa Natura,14.9,metro,,,PECANAS
+Pecana Caramel Vallealto 100g,S/ 15.50,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,Pecana Caramel Vallealto,15.5,metro,,,PECANAS
+Pecana Caramel Vallealto 100g,S/ 15.70,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecana Caramel Vallealto,15.7,wong,,,PECANAS
+Brownie con Pecana D' Abuelas 5un,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,5.0,un,Brownie con Pecana D' Abuelas,15.9,wong,,,PECANAS
+Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,135.0,g,Pecanas Peladas VALLE ALTO Bolsa,16.5,vivanda,,VALLEALTO,PECANAS
+Bombones de Tofee con Pecanas Peccanroll 100 g,S/ 16.90,tottus,PECANAS,2024-12-04 13:34:42.292092,100.0,g,Bombones de Tofee con Pecanas Peccanroll,16.9,tottus,,HELENA,PECANAS
+Queso Crema Gourmet DELICE con Pecanas Paquete 150g,S/ 16.90,vivanda,PECANAS,2024-12-04 17:52:15.225790,150.0,g,Queso Crema Gourmet DELICE con Pecanas Paquete,16.9,vivanda,,DELICE,PECANAS
+Bombones HELENA Peccanroll Bitter con Pecanas Caja 100g,S/ 17.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,100.0,g,Bombones HELENA Peccanroll Bitter con Pecanas Caja,17.0,vivanda,,HELENA,PECANAS
+Chocolate con Leche y Pecanas Orquídea 35% Cacao 85g,S/ 17.50,wong,PECANAS,2024-12-04 19:41:57.167363,85.0,g,Chocolate con Leche y Pecanas Orquídea 35% Cacao,17.5,wong,,,PECANAS
+Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,90.0,g,Chocolate ORQUIDEA Con pecanas Envoltura,17.5,vivanda,,ORQUIDEA,PECANAS
+Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Chocolate ORQUIDEA Con pecanas Envoltura,17.5,plaza_vea,Envoltura 90g,,PECANAS
+Bombones HELENA Peccanroll Bitter con Pecanas ...,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Bombones HELENA Peccanroll Bitter con Pecanas,17.5,plaza_vea,Caja 100g,,PECANAS
+Granola Orgánica de Pecanas y Quinua de 300 g,S/ 17.90,tottus,PECANAS,2024-12-04 13:34:42.292092,300.0,g,Granola Orgánica de Pecanas y Quinua de,17.9,tottus,,WASI ORGANICS,PECANAS
+Chocolate con Leche y Pecanas Orquídea 90 g,S/ 17.90,tottus,PECANAS,2024-12-04 13:34:42.292092,90.0,g,Chocolate con Leche y Pecanas Orquídea,17.9,tottus,,ORQUIDEA,PECANAS
+Pecana en Trozos Vallealto 150g,S/ 18.10,metro,PECANAS,2024-12-04 21:39:26.297883,150.0,g,Pecana en Trozos Vallealto,18.1,metro,,,PECANAS
+Pecana en Trozos Vallealto 150g,S/ 18.10,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,Pecana en Trozos Vallealto,18.1,wong,,,PECANAS
+Piqueo VILLA NATURA Pasas Almendras Pecanas Nueces y Anacardos Táper 250g,S/ 19.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,250.0,g,Piqueo VILLA NATURA Pasas Almendras Pecanas Nueces y Anacardos Táper,19.0,vivanda,,VILLA NATURA,PECANAS
+Queso De Pecanas 150 g,S/ 19.90,tottus,PECANAS,2024-12-04 13:34:42.292092,150.0,g,Queso De Pecanas,19.9,tottus,,DELICE,PECANAS
+Tableta de Chocolate MILKY con Pecanas Paquete...,S/ 19.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Tableta de Chocolate MILKY con Pecanas Paquete,19.9,plaza_vea,Paquete 100g,,PECANAS
+Granola WASI ORGANICS Pecanas Caja 300g,S/ 20.00,vivanda,PECANAS,2024-12-04 17:52:15.225790,300.0,g,Granola WASI ORGANICS Pecanas Caja,20.0,vivanda,,WASI,PECANAS
+Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,S/ 20.20,metro,PECANAS,2024-12-04 21:39:26.297883,100.0,g,Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta,20.2,metro,,,PECANAS
+"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack 300 g",S/ 20.60,wong,PECANAS,2024-12-04 19:41:57.167363,300.0,g,"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack",20.6,wong,,,PECANAS
+Queso Crema Gourmet Delice con Pecanas Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,Queso Crema Gourmet Delice con Pecanas Molde,21.8,wong,,,PECANAS
+Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,Pecanas Peladas VILLA NATURA Bolsa,21.9,plaza_vea,Bolsa 180g,,PECANAS
+Galletas con Pecanas ANA AVELLANA Pote 320g,S/ 24.90,vivanda,PECANAS,2024-12-04 17:52:15.225790,320.0,g,Galletas con Pecanas ANA AVELLANA Pote,24.9,vivanda,,ANA AVELLANA,PECANAS
+Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 25.10,vivanda,PECANAS,2024-12-04 17:52:15.225790,180.0,g,Pecanas Peladas VILLA NATURA Bolsa,25.1,vivanda,,VILLA NATURA,PECANAS
+Panetón Integral con Higos y Pecanas Unión Diet Lata 500g,S/ 32.50,metro,PECANAS,2024-12-04 21:39:26.297883,500.0,g,Panetón Integral con Higos y Pecanas Unión Diet Lata,32.5,metro,,,PECANAS
+Chocotejas Britt Pecanas 6un,S/ 32.90,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,Chocotejas Britt Pecanas,32.9,wong,,,PECANAS
+Chocotejas de Pecanas Helena 6un,S/ 33.50,metro,PECANAS,2024-12-04 21:39:26.297883,6.0,un,Chocotejas de Pecanas Helena,33.5,metro,,,PECANAS
+Chocotejas de Pecana HELENA Caja 180g,S/ 33.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,Chocotejas de Pecana HELENA Caja,33.5,plaza_vea,Caja 180g,,PECANAS
+Chocotejas de Pecana HELENA Caja 180g,S/ 33.50,vivanda,PECANAS,2024-12-04 17:52:15.225790,180.0,g,Chocotejas de Pecana HELENA Caja,33.5,vivanda,,HELENA,PECANAS
+Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,350.0,g,Pecanas Peladas VILLA NATURA Bolsa,39.9,plaza_vea,Bolsa 350g,,PECANAS
+Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 47.90,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao,47.9,wong,,,PECANAS
+Pecanas Acarameladas x kg,S/ 125.00 x kg,metro,PECANAS,2024-12-04 21:39:26.297883,1.0,kg,Pecanas Acarameladas,125.0,metro,,,PECANAS
+Pecana Pelada x kg,S/ 149.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,Pecana Pelada,149.0,wong,,,PECANAS
+Pecanas Saladas x kg,S/ 189.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,Pecanas Saladas,189.0,wong,,,PECANAS

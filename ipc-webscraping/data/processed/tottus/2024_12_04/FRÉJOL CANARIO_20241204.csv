@@ -1,7 +1,7 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Pack de Menestras Tottus: 500 g de lentejas + 500 g de arvejas + 500 g de frijoles canarios,S/ 16.60,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,16.6
-COSTENO,Frijol Canario Costeño 500 g,S/ 10.40,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,10.4
-TOTTUS,Frijol Canario 500 g,S/ 7.74,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,7.74
-TESORO DEL CAMPO,Frijol Canario x 350 g,S/ 7,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,350.0,g,7.0
-TESORO DEL CAMPO,Frijol Canario 500 g,S/ 9.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,9.2
-CASA VERDE,Frejoles Aderezados x 360 g,S/ 8.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,360.0,g,8.2
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Pack de Menestras Tottus: 500 g de lentejas + 500 g de arvejas + 500 g de frijoles canarios,S/ 16.60,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Pack de Menestras Tottus:  de lentejas +  de arvejas +  de frijoles canarios,16.6
+COSTENO,Frijol Canario Costeño 500 g,S/ 10.40,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Frijol Canario Costeño,10.4
+TOTTUS,Frijol Canario 500 g,S/ 7.74,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Frijol Canario,7.74
+TESORO DEL CAMPO,Frijol Canario x 350 g,S/ 7,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,350.0,g,Frijol Canario x,7.0
+TESORO DEL CAMPO,Frijol Canario 500 g,S/ 9.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Frijol Canario,9.2
+CASA VERDE,Frejoles Aderezados x 360 g,S/ 8.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,360.0,g,Frejoles Aderezados x,8.2

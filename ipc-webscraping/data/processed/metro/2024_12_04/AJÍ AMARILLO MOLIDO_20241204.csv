@@ -1,3 +1,3 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Ají Amarillo Molido Piki 350g,S/ 10.90,metro,AJÍ AMARILLO MOLIDO,2024-12-04 22:08:34.352335,350.0,g,10.9
-Ají Amarillo Molido Piki 1kg,S/ 21.90,metro,AJÍ AMARILLO MOLIDO,2024-12-04 22:08:34.352335,1.0,kg,21.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Ají Amarillo Molido Piki 350g,S/ 10.90,metro,AJÍ AMARILLO MOLIDO,2024-12-04 22:08:34.352335,350.0,g,Ají Amarillo Molido Piki,10.9
+Ají Amarillo Molido Piki 1kg,S/ 21.90,metro,AJÍ AMARILLO MOLIDO,2024-12-04 22:08:34.352335,1.0,kg,Ají Amarillo Molido Piki,21.9

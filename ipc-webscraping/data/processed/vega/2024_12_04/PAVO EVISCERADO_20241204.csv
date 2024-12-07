@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-San Fernando,Vale de Pavo SAN FERNANDO 7kg,S/ 105.90,vega,PAVO EVISCERADO,2024-12-04 13:25:59.591796,7.0,kg,105.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+San Fernando,Vale de Pavo SAN FERNANDO 7kg,S/ 105.90,vega,PAVO EVISCERADO,2024-12-04 13:25:59.591796,7.0,kg,Vale de Pavo SAN FERNANDO,105.9

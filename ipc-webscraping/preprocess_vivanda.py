@@ -19,11 +19,13 @@ def extraer_volumen(df, archivo_no_procesados="no_procesados.csv"):
     pandas.DataFrame: DataFrame con nuevas columnas de volumen (número y unidad)
     """
     # Expresión regular para capturar volumen
-    regex = r'(\d+(?:\.\d+)?|x)\s*(ml|ML|mL|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|UNID|Unidades|un|Un|UN|UNIDADES|Porciones)'
+    regex = r'(\d+(?:\.\d+)?|x|X)\s*(ml|ML|mL|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|UNID|Unidades|un|Un|UN|UNIDADES|Porciones|filtrantes|Filtrantes)'
     
     # Extraer número y unidad
     df[['cantidad', 'unidad']] = df['description'].str.extract(regex)
     
+    df['description_no_unit'] = df['description'].str.replace(regex, '', regex=True).str.strip()
+
     # Reemplazar "x" con 1 en cantidad
     df['cantidad'] = df['cantidad'].str.lower().replace('x', 1).astype(float)
     

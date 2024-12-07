@@ -1,4 +1,4 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-COSTA,Galleta Crackelet de Jamón Ahumado de 47 g,S/ 1.60,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,47.0,g,1.6
-CLUB SOCIAL,Galletas Saladas Sixpack Integral 144 g,S/ 4.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,144.0,g,4.5
-DUCALES,Galleta Salada Taco 241 g,S/ 5.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,241.0,g,5.5
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+COSTA,Galleta Crackelet de Jamón Ahumado de 47 g,S/ 1.60,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,47.0,g,Galleta Crackelet de Jamón Ahumado de,1.6
+CLUB SOCIAL,Galletas Saladas Sixpack Integral 144 g,S/ 4.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,144.0,g,Galletas Saladas Sixpack Integral,4.5
+DUCALES,Galleta Salada Taco 241 g,S/ 5.50,tottus,GALLETAS SALADAS,2024-12-04 13:03:15.866771,241.0,g,Galleta Salada Taco,5.5

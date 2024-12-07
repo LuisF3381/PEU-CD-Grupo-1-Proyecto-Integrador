@@ -1,12 +1,12 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Kion en Polvo Alida Chiang 10g,S/ 5.70,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,10.0,g,5.7
-Kión x kg,S/ 14.99 x kg,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,1.0,kg,14.99
-Kión en Polvo Badía Frasco 1.5 Onzas,S/ 9.60,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,1.5,oz,9.6
-Kión en Polvo Max & Mix Frasco 38 g,S/ 7.50,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,38.0,g,7.5
-Palitos Kion y Ajo Unión 65g,S/ 3.99,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,65.0,g,3.99
-Sixpack Agua Sin Gas Sabor Piña con Kión San Luis Botella 625ml,S/ 11.00,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,11.0
-Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 2.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,2.2
-Sixpack Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 13.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,13.2
-Kombucha Veda Kión y Limón Botella 260ml,S/ 10.75,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,260.0,ml,10.75
-Salsa de Soya con Ajo y Kión Kikko 350ml,S/ 5.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,350.0,ml,5.2
-Té Verde con Kión Bigelow 18un,S/ 26.90,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,18.0,un,26.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Kion en Polvo Alida Chiang 10g,S/ 5.70,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,10.0,g,Kion en Polvo Alida Chiang,5.7
+Kión x kg,S/ 14.99 x kg,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,1.0,kg,Kión,14.99
+Kión en Polvo Badía Frasco 1.5 Onzas,S/ 9.60,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,1.5,oz,Kión en Polvo Badía Frasco,9.6
+Kión en Polvo Max & Mix Frasco 38 g,S/ 7.50,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,38.0,g,Kión en Polvo Max & Mix Frasco,7.5
+Palitos Kion y Ajo Unión 65g,S/ 3.99,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,65.0,g,Palitos Kion y Ajo Unión,3.99
+Sixpack Agua Sin Gas Sabor Piña con Kión San Luis Botella 625ml,S/ 11.00,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,Sixpack Agua Sin Gas Sabor Piña con Kión San Luis Botella,11.0
+Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 2.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,Bebida Sabor Piña con Kión San Luis Botella,2.2
+Sixpack Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 13.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,625.0,ml,Sixpack Bebida Sabor Piña con Kión San Luis Botella,13.2
+Kombucha Veda Kión y Limón Botella 260ml,S/ 10.75,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,260.0,ml,Kombucha Veda Kión y Limón Botella,10.75
+Salsa de Soya con Ajo y Kión Kikko 350ml,S/ 5.20,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,350.0,ml,Salsa de Soya con Ajo y Kión Kikko,5.2
+Té Verde con Kión Bigelow 18un,S/ 26.90,wong,KION (ESPECIAS),2024-12-04 20:23:17.953944,18.0,un,Té Verde con Kión Bigelow,26.9

@@ -1,187 +1,186 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
-Rocoto x unidad,S/ 0.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,0.99,plaza_vea,Paquete 1un,,PORO
-Caigua x unidad,S/ 0.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,0.99,plaza_vea,Paquete 1un,,PORO
-Manzanilla x unidad,S/ 1.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.19,plaza_vea,Paquete 1un,,PORO
-Hierba Luisa x unidad,S/ 1.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.29,plaza_vea,Paquete 1un,,PORO
-Poro Entero un,S/ 1.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.29,plaza_vea,Paquete 1un,,PORO
-Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,PORO,2024-12-04 14:15:10.110674,180.0,g,1.3,vega,,Grano De Oro,PORO
-Hierba Buena x unidad,S/ 1.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.39,plaza_vea,Paquete 1un,,PORO
-Huacatay Atado,S/ 1.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.49,plaza_vea,Paquete 1un,,PORO
-Nabo x unidad,S/ 1.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.49,plaza_vea,Paquete 1un,,PORO
-Poro x un,S/ 1.49,metro,PORO,2024-12-04 21:47:42.402651,1.0,un,1.49,metro,,,PORO
-Fideos Tornillo GRANO DOE ORO Bolsa 250g,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,1.6,vega,,Grano De Oro,PORO
-Fideo GRANO DE ORO Canuto Rayado Bolsa 250gr,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,1.6,vega,,Grano De Oro,PORO
-Zanahoria,S/ 1.68 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,1.68,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Poro x un,S/ 1.79,wong,PORO,2024-12-04 19:53:39.500068,1.0,un,1.79,wong,,,PORO
-Papa Cocktail,S/ 1.80 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,1.8,plaza_vea,Presentación 1 kg aprox.,,PORO
-Choclo Entero un,S/ 1.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.89,plaza_vea,Paquete 1un,,PORO
-Apio Atado,S/ 1.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.89,plaza_vea,Paquete 1un,,PORO
-Cebolla Blanca,S/ 1.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,1.9,plaza_vea,Presentación 1 kg aprox.,,PORO
-Zapallo Macre,S/ 1.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.5,kg,1.99,plaza_vea,Presentación 1.5 kg aprox.,,PORO
-Culantro BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,60.0,g,1.99,plaza_vea,Bolsa 60g,,PORO
-Lechuga Americana BELL's Bolsa 300g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,1.99,plaza_vea,Bolsa 300g,,PORO
-Zapallo Italiano x unidad,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,1.99,plaza_vea,Paquete 1un,,PORO
-Perejil BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,60.0,g,1.99,plaza_vea,Bolsa 60g,,PORO
-Cebolla Roja P x kg,S/ 2.09 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,2.09,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Lechuga Crespa BELL'S,S/ 2.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,2.19,plaza_vea,Paquete 1un,,PORO
-Pepinillo,S/ 2.39 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,2.39,plaza_vea,Presentación 1 kg aprox.,,PORO
-Albahaca BELL'S Bolsa 80g,S/ 2.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,80.0,g,2.49,plaza_vea,Bolsa 80g,,PORO
-Camote Morado,S/ 2.69 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,2.69,plaza_vea,Presentación 1 kg aprox.,,PORO
-Fideos Spaguetti GRANO DE ORO Bolsa 500g,S/ 2.70,vega,PORO,2024-12-04 14:15:10.110674,500.0,g,2.7,vega,,Grano De Oro,PORO
-Camote Amarillo Procesado,S/ 2.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,2.79,plaza_vea,Presentación 1 kg aprox.,,PORO
-Papa Blanca,S/ 2.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,2.79,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,S/ 2.90,vivanda,PORO,2024-12-04 17:58:04.069359,170.0,g,2.9,vivanda,,GRANO ORO,PORO
-Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,PORO,2024-12-04 14:15:10.110674,170.0,g,2.9,vega,,Grano De Oro,PORO
-Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,S/ 2.90,vivanda,PORO,2024-12-04 17:58:04.069359,170.0,g,2.9,vivanda,,GRANO DE ORO,PORO
-Berenjena un,S/ 2.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,2.99,plaza_vea,Paquete 1un,,PORO
-Beterraga x Atado,S/ 2.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,2.99,plaza_vea,Paquete 1un,,PORO
-Papa Blanca Yungay,S/ 3.19 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,3.19,plaza_vea,Presentación 1 kg aprox.,,PORO
-Limón Ácido,S/ 3.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,3.29,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Lechuga Crespa Hidropónica BELL'S Bolsa 200g,S/ 3.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,3.29,plaza_vea,Bolsa 200g,,PORO
-Mix de Emoliente GUVA Bolsa 100g,S/ 3.30 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,100.0,g,3.3,plaza_vea,Bolsa 100g,,PORO
-Pepino Holandés BELL'S,S/ 3.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,3.39,plaza_vea,Paquete 1un,,PORO
-Lechuga Seda Hidropónica BELL'S Bolsa 200g,S/ 3.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,3.39,plaza_vea,Bolsa 200g,,PORO
-Cebolla China BELL'S Bolsa 320g,S/ 3.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,320.0,g,3.49,plaza_vea,Bolsa 320g,,PORO
-Lechuga Crespa Entera VERDE PURO Bolsa 200g,S/ 3.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,3.69,plaza_vea,Bolsa 300g,,PORO
-Papa Cocktail Amarilla,S/ 3.69 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,3.69,plaza_vea,Presentación 1 kg aprox.,,PORO
-Lechuga Roja Hidropónica BELL'S Bolsa 200g,S/ 3.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,3.69,plaza_vea,Bolsa 200g,,PORO
-Coliflor Un,S/ 3.70 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,3.7,plaza_vea,Paquete 1un,,PORO
-Col Corazón,S/ 3.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,3.9,plaza_vea,Paquete 1un,,PORO
-Rabanito BELL'S Bolsa 400g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,3.99,plaza_vea,Bolsa 400g,,PORO
-Espinaca BELL'S Bolsa 350g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,350.0,g,3.99,plaza_vea,Bolsa 350g,,PORO
-Acelga BELL'S Bolsa 300g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,3.99,plaza_vea,Bolsa 300g,,PORO
-Avena GRANO DE ORO Bolsa 370gr,S/ 4.00,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.0,vega,,Grano De Oro,PORO
-Haba Verde,S/ 4.09 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,4.09,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.19,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,4.19,vivanda,,GRANO ORO,PORO
-Limón Tahití x kg,S/ 4.20 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,4.2,plaza_vea,Presentación 1 kg aprox.,,PORO
-Poro Fitz x unid,S/ 4.39,metro,PORO,2024-12-04 21:47:42.402651,1.0,un,4.39,metro,,,PORO
-Espinaca Bebé BELL'S Bolsa 150g,S/ 4.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,150.0,g,4.39,plaza_vea,Bolsa 150g,,PORO
-Yuca,S/ 4.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,4.49,plaza_vea,Presentación 1 kg aprox.,,PORO
-Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,4.5,vivanda,,GRANO DE ORO,PORO
-Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,4.5,vivanda,,GRANO ORO,PORO
-Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,4.5,vivanda,,GRANO ORO,PORO
-Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,4.5,vivanda,,GRANO ORO,PORO
-Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,250.0,g,4.69,plaza_vea,Bolsa 250gun,,PORO
-Avena GRANO DE ORO con Maca en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.8,vega,,Grano De Oro,PORO
-Avena GRANO DE ORO con Quinua en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.8,vega,,Grano De Oro,PORO
-Mix Verduras FRUTO DE ORO Lata 184g,S/ 4.90,vivanda,PORO,2024-12-04 17:58:04.069359,184.0,g,4.9,vivanda,,FRUTO DE ORO,PORO
-Maíz Dulce FRUTO DE ORO Lata 184g,S/ 4.90,vivanda,PORO,2024-12-04 17:58:04.069359,184.0,g,4.9,vivanda,,FRUTO DE ORO,PORO
-Masa para Wantán SAN SEN Bolsa 500g,S/ 4.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,4.9,plaza_vea,Bolsa 500g,,PORO
-Lechuga Americana de Verano VIVA Bolsa Unidad,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,4.99,plaza_vea,Bolsa 1un,,PORO
-Papa Andina Procesada,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,4.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Tomate Redondo x kg,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,4.99,plaza_vea,Presentación 1 kg aprox.,,PORO
-Frejol Chino,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,4.99,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Albahaca Deshojada BELL'S FRESCOS 120g,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,120.0,g,4.99,plaza_vea,Bolsa 120gun,,PORO
-Champiñon Entero BELL'S Bandeja 200g,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,4.99,plaza_vea,Bandeja 200g,,PORO
-Champiñon Picado BELL'S Bandeja 200g,S/ 5.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,5.19,plaza_vea,Bandeja 200g,,PORO
-Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,PORO,2024-12-04 14:15:10.110674,200.0,g,5.2,vega,,Sello De Oro,PORO
-Ají Amarillo x kg,S/ 5.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,5.49,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Fideo Chino SAN SEN Paquete 500g,S/ 5.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,5.49,plaza_vea,Paquete 500g,,PORO
-Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,5.5,plaza_vea,Pack 500g,,PORO
-Avena Integral GRANO DE ORO Bolsa 500g,S/ 5.50,vivanda,PORO,2024-12-04 17:58:04.069359,500.0,g,5.5,vivanda,,GRANO DE ORO,PORO
-Tomate Italiano,S/ 5.60 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,5.6,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Arveja,S/ 6.19 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,6.19,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Pimiento Morrón,S/ 6.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,6.29,plaza_vea,Presentación 0.3 kg aprox.,,PORO
-Champiñones Enteros PACCU Bandeja 200g,S/ 6.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,6.5,plaza_vea,Bandeja 200g,,PORO
-Arverja Congelada BELL'S Bolsa 500g,S/ 6.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,6.5,plaza_vea,Pack 500g,,PORO
-Salvatrigo GRANO DE ORO Salvado de Trigo Doypack 400g,S/ 6.70,vivanda,PORO,2024-12-04 17:58:04.069359,400.0,g,6.7,vivanda,,GRANO ORO,PORO
-Papa Amarilla Tumbay,S/ 6.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,6.79,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Olluco,S/ 6.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,6.79,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Tomate Cherry BELL'S Bandeja,S/ 6.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,6.89,plaza_vea,Paquete 1un,,PORO
-Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90,vivanda,PORO,2024-12-04 17:58:04.069359,425.0,g,6.9,vivanda,,FRUTO DE ORO,PORO
-Zanahoria Congelada BELL'S Bolsa 500g,S/ 6.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,6.9,plaza_vea,Bolsa 500g,,PORO
-Champiñon Entero PACCU Crimmini Bandeja 200g,S/ 6.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,6.99,plaza_vea,Bandeja 200g,,PORO
-Vainita Americana,S/ 6.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,6.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Tomate Italiano BELL'S Bolsa 1Kg,S/ 6.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,6.99,plaza_vea,Bolsa 1Kg,,PORO
-Papa Huayro,S/ 7.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,7.29,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Detergente en Polvo PEROS Tropical Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,7.4,vega,,PEROS,PORO
-Detergente en Polvo PEROS Limón Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,7.4,vega,,PEROS,PORO
-Papa Amarilla Peruanita,S/ 7.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,7.49,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Arveja Precocida GREEN FOOD Bolsa 400g,S/ 7.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,7.5,plaza_vea,Bolsa 400g,,PORO
-Apio VIVA x un,S/ 7.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,7.59,plaza_vea,Paquete 1un,,PORO
-Mix de Lechuga VERDE PURO Bolsa Unidad,S/ 7.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,7.59,plaza_vea,Bolsa 1un,,PORO
-Arúgula VERDE PURO Paquete 160g,S/ 7.60 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,160.0,g,7.6,plaza_vea,Paquete 160g,,PORO
-Holantao,S/ 7.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,7.9,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Maíz Morado x Kg,S/ 7.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,7.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
-Lechuga Entera VERDE PURO,S/ 7.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,7.99,plaza_vea,Paquete 1un,,PORO
-Pimiento Verde,S/ 7.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,7.99,plaza_vea,Presentación 0.3 kg aprox.,,PORO
-Espárragos Verdes BELL'S FRESCOS Paquete 300g,S/ 8 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,8.0,plaza_vea,Paquete 1un,,PORO
-Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,PORO,2024-12-04 14:15:10.110674,400.0,g,8.3,vega,,Sello De Oro,PORO
-Choclo Desgranado BELL'S Bolsa 500g,S/ 8.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,8.49,plaza_vea,Bolsa 500g,,PORO
-Snack para perro adultos de razas pequeñas en bolsa de 42 gr,S/ 8.50,tottus,PORO,2024-12-04 13:40:38.206491,42.0,g,8.5,tottus,,DENTALIFE,PORO
-Espinaca Bebé VERDE PURO Bolsa 180g,S/ 8.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,180.0,g,8.59,plaza_vea,Bolsa 180g,,PORO
-Champiñones Congelados BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,8.9,plaza_vea,Bolsa 500g,,PORO
-Champiñones Enteros FRUTO DE ORO Lata 400g,S/ 8.90,vivanda,PORO,2024-12-04 17:58:04.069359,400.0,g,8.9,vivanda,,FRUTO DE ORO,PORO
-Espinaca VERDE PURO Bolsa 500g,S/ 8.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,8.99,plaza_vea,Bolsa 500g,,PORO
-Cereal GRANO DE ORO Salvado de Avena Doypack 300g,S/ 9.40,vivanda,PORO,2024-12-04 17:58:04.069359,300.0,g,9.4,vivanda,,GRANO DE ORO,PORO
-Bambú en Tajadas FRUTO DE ORO Lata 567g,S/ 9.90,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,9.9,vivanda,,FRUTO DE ORO,PORO
-Kion,S/ 9.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,9.9,plaza_vea,Presentación 0.3 kg aprox.,,PORO
-Papas Prefritas Rizadas AVIKO Bolsa 750g,S/ 9.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,750.0,g,9.9,plaza_vea,Bolsa 750g,,PORO
-Sopa de Verduras BELL'S Bandeja 500g,S/ 9.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,9.99,plaza_vea,Bandeja 500g,,PORO
-Ajos Pelados EL SABOR Arequipeños Bandeja 250g,S/ 9.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,250.0,g,9.99,plaza_vea,Bandeja 250g,,PORO
-Choclo Americano Precocido Congelado GREEN FOO...,S/ 10 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,10.0,plaza_vea,Bolsa 400g,,PORO
-Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,PORO,2024-12-04 14:15:10.110674,1.0,kg,10.5,vega,,Grano De Oro,PORO
-Papa Prefrita Congelada AVIKO Bolsa 1kg,S/ 10.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,10.9,plaza_vea,Bolsa 1Kg,,PORO
-Castaña de Agua FRUTO DE ORO Lata 567g,S/ 10.99,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,10.99,vivanda,,FRUTO DE ORO,PORO
-Cocktail de Frutas FRUTO DE ORO Lata 820g,S/ 11.90,vivanda,PORO,2024-12-04 17:58:04.069359,820.0,g,11.9,vivanda,,FRUTO DE ORO,PORO
-Salvado de Trigo GRANO DE ORO Pote 350g,S/ 11.90,vivanda,PORO,2024-12-04 17:58:04.069359,350.0,g,11.9,vivanda,,GRANO ORO,PORO
-Papa Crinkle Congelada BEM BRASIL Bolsa 1.05kg,S/ 11.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.05,kg,11.9,plaza_vea,Bolsa 1.05Kg,,PORO
-Jabón en Barra Forte 100 g,S/ 11.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,11.9,tottus,,ASEPXIA,PORO
-Brócoli VIVA,S/ 11.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,11.99,plaza_vea,Paquete 1un,,PORO
-Tripack de Jabón de Leche de Coco de 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,12.5,tottus,,DOVE,PORO
-Packx3 Jabón de Tocador Variedades Surtidas 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,12.5,tottus,,DOVE,PORO
-Nísperos en Conserva FRUTO DE ORO Lata 567g,S/ 14.20,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,14.2,vivanda,,FRUTO DE ORO,PORO
-Jabón en Barra Carbón Detox 100 g,S/ 14.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,14.9,tottus,,ASEPXIA,PORO
-Ajo Entero,S/ 14.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,14.99,plaza_vea,Presentación 0.25 kg aprox.,,PORO
-Avena GRANO DE ORO Hojuelas Gruesa Bolsa 900gr,S/ 16.80,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,16.8,vega,,Grano De Oro,PORO
-Snack para perro adultos de razas medianas en bolsa de 119 gr,S/ 17.50,tottus,PORO,2024-12-04 13:40:38.206491,119.0,g,17.5,tottus,,DENTALIFE,PORO
-Lychees en Almíbar FRUTO DE ORO Lata 567g,S/ 18.20,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,18.2,vivanda,,FRUTO DE ORO,PORO
-Zapallo Loche,S/ 18.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.4,kg,18.99,plaza_vea,Presentación 0.4 kg aprox.,,PORO
-Queso Novoandino Prosciuto-poro 150g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,g,19.9,tottus,,DELICE,PORO
-Jabón en Barra Limpieza Prof Unidadesa 6 x 110 g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,110.0,g,19.9,tottus,,PROTEX,PORO
-Snack para perros adultos de razas grandes en bolsa de 196 gr,S/ 20.90,tottus,PORO,2024-12-04 13:40:38.206491,196.0,g,20.9,tottus,,DENTALIFE,PORO
-Queso Crema Gourmet Delice con Prosciutto & Poro Molde 150 g,S/ 21.10,metro,PORO,2024-12-04 21:47:42.402651,150.0,g,21.1,metro,,,PORO
-Queso Crema Gourmet Delice con Prosciutto & Poro Molde 150 g,S/ 21.80,wong,PORO,2024-12-04 19:53:39.500068,150.0,g,21.8,wong,,,PORO
-Espumante RICCADONNA Ruby Botella 200ml,S/ 23.70,vivanda,PORO,2024-12-04 17:58:04.069359,200.0,ml,23.7,vivanda,,CONCHA Y TORO,PORO
-Mascarilla Peel Off Purificante Carbón Detox 30 g,S/ 25.90,tottus,PORO,2024-12-04 13:40:38.206491,30.0,g,25.9,tottus,,ASEPXIA,PORO
-Vino CONCHA Y TORO Reservado Rosé Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,27.9,vivanda,,CONCHA Y TORO,PORO
-Quiche de Poro y Queso HOME CHEF Caja 1un,S/ 27.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,27.9,plaza_vea,Caja 1un,,PORO
-Vino Blanco CONCHA Y TORO Reservado Sauvignon Blanc Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,27.9,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Reservado Carmenere Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,27.9,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Reservado Malbec Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,27.9,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Reservado Sweet Red Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,27.9,vivanda,,CONCHA Y TORO,PORO
-Shampoo Pro-V Bambú Nutre & Crece 750 mL,S/ 30.90,tottus,PORO,2024-12-04 13:40:38.206491,750.0,ml,30.9,tottus,,PANTENE,PORO
-Vino FRONTERA Merlot Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,31.3,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Frontera Sauvignon Blanc Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,31.3,vivanda,,CONCHA Y TORO,PORO
-Vino FRONTERA Carmenere Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,31.3,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Frontera Malbec Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,31.3,vivanda,,CONCHA Y TORO,PORO
-Vino FRONTERA Cabernet Sauvignon Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,31.3,vivanda,,CONCHA Y TORO,PORO
-Bandas Limpieza Profunda Nariz 8 Und,S/ 31.90,tottus,PORO,2024-12-04 13:40:38.206491,8.0,un,31.9,tottus,,BIORE,PORO
-Avena GRANO DE ORO Hojuelas Gruesa Bolsa 5kg,S/ 36.70,vega,PORO,2024-12-04 14:15:10.110674,5.0,kg,36.7,vega,,Grano De Oro,PORO
-Gel Limpiador Equilibrante Piel Gasa 150 mL,S/ 36.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,36.9,tottus,,NIVEA,PORO
-Gel Facial Deep Clean x 150 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,39.2,tottus,,NEUTROGENA,PORO
-Agua Micelar Purified Skin 7 en 1 200 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,200.0,ml,39.2,tottus,,NEUTROGENA,PORO
-Vino FINCA ROTONDO Reserva Cabernet Sauvignon Botella 750ml,S/ 39.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,39.9,vivanda,,CONCHA Y TORO,PORO
-Quiche de Poro con Tocino Don Mamino 650g,S/ 39.99,wong,PORO,2024-12-04 19:53:39.500068,650.0,g,39.99,wong,,,PORO
-Gaseosa BIG COLA Botella 3.03L Paquete 6un,S/ 41.40,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,41.4,vega,,Oro,PORO
-Exfoliante Facial Purified Skin 100 mL,S/ 42.40,tottus,PORO,2024-12-04 13:40:38.206491,100.0,ml,42.4,tottus,,NEUTROGENA,PORO
-Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fabulous Botella 750ml,S/ 49.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,49.9,vivanda,,CONCHA Y TORO,PORO
-Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fantastic Botella 750ml,S/ 49.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,49.9,vivanda,,CONCHA Y TORO,PORO
-Vino Tinto CASILLERO DEL DIABLO Malbec Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Blanco CASILLERO DEL DIABLO Sauvignon Blanc Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Tinto CASILLERO DEL DIABLO Red Blend Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Tinto CASILLERO DEL DIABLO Cabernet Sauvignon Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Blanco CASILLERO DEL DIABLO Chardonnay Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Tinto CASILLERO DEL DIABLO Carmenere Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vino Rosé CASILLERO DEL DIABLO Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,52.2,vivanda,,CONCHA Y TORO,PORO
-Vermouth CINZANO Dry Botella 750ml,S/ 56.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,56.9,vivanda,,CONCHA Y TORO,PORO
-Espumante CINZANO Asti Botella 750ml,S/ 61.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,61.3,vivanda,,CONCHA Y TORO,PORO
-Avena GRANO DE ORO Bolsa 10kg,S/ 69.40,vega,PORO,2024-12-04 14:15:10.110674,10.0,kg,69.4,vega,,Grano De Oro,PORO
-Detergente en Polvo PEROS Floral Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,72.9,vega,,PEROS,PORO
-Detergente en Polvo PEROS Limón Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,72.9,vega,,PEROS,PORO
-Vino Tinto CONCHA Y TORO Diablo Purple Malbec Botella 750ml,S/ 104.40,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,104.4,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO Marqués de Casa Concha Carmenere Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,124.9,vivanda,,CONCHA Y TORO,PORO
-Vino MARQUÉS DE CASA CONCHA Cabernet Sauvignon Reserva Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,124.9,vivanda,,CONCHA Y TORO,PORO
-Vino MARQUÉS DE CASA CONCHA Merlot Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,124.9,vivanda,,CONCHA Y TORO,PORO
-Vino CONCHA Y TORO DON MELCHOR Cabernet Sauvignon Botella 750ml,S/ 999.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,999.9,vivanda,,CONCHA Y TORO,PORO
-Gaseosa ORO Botella 3.03L x 6u,,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,,vega,,Oro,PORO
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Rocoto x unidad,S/ 0.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Rocoto ad,0.99,plaza_vea,Paquete 1un,,PORO
+Caigua x unidad,S/ 0.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Caigua ad,0.99,plaza_vea,Paquete 1un,,PORO
+Manzanilla x unidad,S/ 1.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Manzanilla ad,1.19,plaza_vea,Paquete 1un,,PORO
+Hierba Luisa x unidad,S/ 1.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Hierba Luisa ad,1.29,plaza_vea,Paquete 1un,,PORO
+Poro Entero un,S/ 1.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Poro Entero un,1.29,plaza_vea,Paquete 1un,,PORO
+Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,PORO,2024-12-04 14:15:10.110674,180.0,g,Harina GRANO DE ORO Sin Preparar Paquete r,1.3,vega,,Grano De Oro,PORO
+Hierba Buena x unidad,S/ 1.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Hierba Buena ad,1.39,plaza_vea,Paquete 1un,,PORO
+Huacatay Atado,S/ 1.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Huacatay Atado,1.49,plaza_vea,Paquete 1un,,PORO
+Nabo x unidad,S/ 1.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Nabo ad,1.49,plaza_vea,Paquete 1un,,PORO
+Poro x un,S/ 1.49,metro,PORO,2024-12-04 21:47:42.402651,1.0,un,Poro,1.49,metro,,,PORO
+Fideos Tornillo GRANO DOE ORO Bolsa 250g,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,Fideos Tornillo GRANO DOE ORO Bolsa,1.6,vega,,Grano De Oro,PORO
+Fideo GRANO DE ORO Canuto Rayado Bolsa 250gr,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,Fideo GRANO DE ORO Canuto Rayado Bolsa r,1.6,vega,,Grano De Oro,PORO
+Zanahoria,S/ 1.68 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Zanahoria,1.68,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Poro x un,S/ 1.79,wong,PORO,2024-12-04 19:53:39.500068,1.0,un,Poro,1.79,wong,,,PORO
+Papa Cocktail,S/ 1.80 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Papa Cocktail,1.8,plaza_vea,Presentación 1 kg aprox.,,PORO
+Choclo Entero un,S/ 1.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Choclo Entero un,1.89,plaza_vea,Paquete 1un,,PORO
+Apio Atado,S/ 1.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Apio Atado,1.89,plaza_vea,Paquete 1un,,PORO
+Cebolla Blanca,S/ 1.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Cebolla Blanca,1.9,plaza_vea,Presentación 1 kg aprox.,,PORO
+Zapallo Macre,S/ 1.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.5,kg,Zapallo Macre,1.99,plaza_vea,Presentación 1.5 kg aprox.,,PORO
+Culantro BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,60.0,g,Culantro BELL'S Bolsa,1.99,plaza_vea,Bolsa 60g,,PORO
+Lechuga Americana BELL's Bolsa 300g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,Lechuga Americana BELL's Bolsa,1.99,plaza_vea,Bolsa 300g,,PORO
+Zapallo Italiano x unidad,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Zapallo Italiano ad,1.99,plaza_vea,Paquete 1un,,PORO
+Perejil BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,60.0,g,Perejil BELL'S Bolsa,1.99,plaza_vea,Bolsa 60g,,PORO
+Cebolla Roja P x kg,S/ 2.09 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Cebolla Roja P,2.09,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Lechuga Crespa BELL'S,S/ 2.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Lechuga Crespa BELL'S,2.19,plaza_vea,Paquete 1un,,PORO
+Pepinillo,S/ 2.39 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Pepinillo,2.39,plaza_vea,Presentación 1 kg aprox.,,PORO
+Albahaca BELL'S Bolsa 80g,S/ 2.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,80.0,g,Albahaca BELL'S Bolsa,2.49,plaza_vea,Bolsa 80g,,PORO
+Camote Morado,S/ 2.69 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Camote Morado,2.69,plaza_vea,Presentación 1 kg aprox.,,PORO
+Fideos Spaguetti GRANO DE ORO Bolsa 500g,S/ 2.70,vega,PORO,2024-12-04 14:15:10.110674,500.0,g,Fideos Spaguetti GRANO DE ORO Bolsa,2.7,vega,,Grano De Oro,PORO
+Camote Amarillo Procesado,S/ 2.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Camote Amarillo Procesado,2.79,plaza_vea,Presentación 1 kg aprox.,,PORO
+Papa Blanca,S/ 2.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Papa Blanca,2.79,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,S/ 2.90,vivanda,PORO,2024-12-04 17:58:04.069359,170.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa,2.9,vivanda,,GRANO ORO,PORO
+Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,PORO,2024-12-04 14:15:10.110674,170.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,2.9,vega,,Grano De Oro,PORO
+Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,S/ 2.90,vivanda,PORO,2024-12-04 17:58:04.069359,170.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa,2.9,vivanda,,GRANO DE ORO,PORO
+Berenjena un,S/ 2.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Berenjena un,2.99,plaza_vea,Paquete 1un,,PORO
+Beterraga x Atado,S/ 2.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Beterraga x Atado,2.99,plaza_vea,Paquete 1un,,PORO
+Papa Blanca Yungay,S/ 3.19 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Papa Blanca Yungay,3.19,plaza_vea,Presentación 1 kg aprox.,,PORO
+Limón Ácido,S/ 3.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Limón Ácido,3.29,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Lechuga Crespa Hidropónica BELL'S Bolsa 200g,S/ 3.29 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Lechuga Crespa Hidropónica BELL'S Bolsa,3.29,plaza_vea,Bolsa 200g,,PORO
+Mix de Emoliente GUVA Bolsa 100g,S/ 3.30 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,100.0,g,Mix de Emoliente GUVA Bolsa,3.3,plaza_vea,Bolsa 100g,,PORO
+Pepino Holandés BELL'S,S/ 3.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Pepino Holandés BELL'S,3.39,plaza_vea,Paquete 1un,,PORO
+Lechuga Seda Hidropónica BELL'S Bolsa 200g,S/ 3.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Lechuga Seda Hidropónica BELL'S Bolsa,3.39,plaza_vea,Bolsa 200g,,PORO
+Cebolla China BELL'S Bolsa 320g,S/ 3.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,320.0,g,Cebolla China BELL'S Bolsa,3.49,plaza_vea,Bolsa 320g,,PORO
+Lechuga Crespa Entera VERDE PURO Bolsa 200g,S/ 3.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,Lechuga Crespa Entera VERDE PURO Bolsa,3.69,plaza_vea,Bolsa 300g,,PORO
+Papa Cocktail Amarilla,S/ 3.69 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Papa Cocktail Amarilla,3.69,plaza_vea,Presentación 1 kg aprox.,,PORO
+Lechuga Roja Hidropónica BELL'S Bolsa 200g,S/ 3.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Lechuga Roja Hidropónica BELL'S Bolsa,3.69,plaza_vea,Bolsa 200g,,PORO
+Coliflor Un,S/ 3.70 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Coliflor Un,3.7,plaza_vea,Paquete 1un,,PORO
+Col Corazón,S/ 3.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Col Corazón,3.9,plaza_vea,Paquete 1un,,PORO
+Rabanito BELL'S Bolsa 400g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,Rabanito BELL'S Bolsa,3.99,plaza_vea,Bolsa 400g,,PORO
+Espinaca BELL'S Bolsa 350g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,350.0,g,Espinaca BELL'S Bolsa,3.99,plaza_vea,Bolsa 350g,,PORO
+Acelga BELL'S Bolsa 300g,S/ 3.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,300.0,g,Acelga BELL'S Bolsa,3.99,plaza_vea,Bolsa 300g,,PORO
+Avena GRANO DE ORO Bolsa 370gr,S/ 4.00,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO Bolsa r,4.0,vega,,Grano De Oro,PORO
+Haba Verde,S/ 4.09 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Haba Verde,4.09,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.19,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.19,vivanda,,GRANO ORO,PORO
+Limón Tahití x kg,S/ 4.20 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Limón Tahití,4.2,plaza_vea,Presentación 1 kg aprox.,,PORO
+Poro Fitz x unid,S/ 4.39,metro,PORO,2024-12-04 21:47:42.402651,1.0,un,Poro Fitz,4.39,metro,,,PORO
+Espinaca Bebé BELL'S Bolsa 150g,S/ 4.39 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,150.0,g,Espinaca Bebé BELL'S Bolsa,4.39,plaza_vea,Bolsa 150g,,PORO
+Yuca,S/ 4.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Yuca,4.49,plaza_vea,Presentación 1 kg aprox.,,PORO
+Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5,vivanda,,GRANO DE ORO,PORO
+Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5,vivanda,,GRANO ORO,PORO
+Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5,vivanda,,GRANO ORO,PORO
+Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.50,vivanda,PORO,2024-12-04 17:58:04.069359,370.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5,vivanda,,GRANO ORO,PORO
+Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25,4.69,plaza_vea,Bolsa 250gun,,PORO
+Avena GRANO DE ORO con Maca en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO con Maca en Bolsa r,4.8,vega,,Grano De Oro,PORO
+Avena GRANO DE ORO con Quinua en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,4.8,vega,,Grano De Oro,PORO
+Mix Verduras FRUTO DE ORO Lata 184g,S/ 4.90,vivanda,PORO,2024-12-04 17:58:04.069359,184.0,g,Mix Verduras FRUTO DE ORO Lata,4.9,vivanda,,FRUTO DE ORO,PORO
+Maíz Dulce FRUTO DE ORO Lata 184g,S/ 4.90,vivanda,PORO,2024-12-04 17:58:04.069359,184.0,g,Maíz Dulce FRUTO DE ORO Lata,4.9,vivanda,,FRUTO DE ORO,PORO
+Masa para Wantán SAN SEN Bolsa 500g,S/ 4.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Masa para Wantán SAN SEN Bolsa,4.9,plaza_vea,Bolsa 500g,,PORO
+Lechuga Americana de Verano VIVA Bolsa Unidad,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Lechuga Americana de Verano VIVA Bolsa Unidad,4.99,plaza_vea,Bolsa 1un,,PORO
+Papa Andina Procesada,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Papa Andina Procesada,4.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Tomate Redondo x kg,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Tomate Redondo,4.99,plaza_vea,Presentación 1 kg aprox.,,PORO
+Frejol Chino,S/ 4.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Frejol Chino,4.99,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Albahaca Deshojada BELL'S FRESCOS 120g,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,120.0,g,Albahaca Deshojada BELL'S FRESCOS,4.99,plaza_vea,Bolsa 120gun,,PORO
+Champiñon Entero BELL'S Bandeja 200g,S/ 4.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Champiñon Entero BELL'S Bandeja,4.99,plaza_vea,Bandeja 200g,,PORO
+Champiñon Picado BELL'S Bandeja 200g,S/ 5.19 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Champiñon Picado BELL'S Bandeja,5.19,plaza_vea,Bandeja 200g,,PORO
+Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,PORO,2024-12-04 14:15:10.110674,200.0,g,Margarina SELLO DE ORO Pote r,5.2,vega,,Sello De Oro,PORO
+Ají Amarillo x kg,S/ 5.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Ají Amarillo,5.49,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Fideo Chino SAN SEN Paquete 500g,S/ 5.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Fideo Chino SAN SEN Paquete,5.49,plaza_vea,Paquete 500g,,PORO
+Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Ensalada Jardinera BELL'S Bolsa,5.5,plaza_vea,Pack 500g,,PORO
+Avena Integral GRANO DE ORO Bolsa 500g,S/ 5.50,vivanda,PORO,2024-12-04 17:58:04.069359,500.0,g,Avena Integral GRANO DE ORO Bolsa,5.5,vivanda,,GRANO DE ORO,PORO
+Tomate Italiano,S/ 5.60 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Tomate Italiano,5.6,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Arveja,S/ 6.19 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Arveja,6.19,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Pimiento Morrón,S/ 6.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,Pimiento Morrón,6.29,plaza_vea,Presentación 0.3 kg aprox.,,PORO
+Champiñones Enteros PACCU Bandeja 200g,S/ 6.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Champiñones Enteros PACCU Bandeja,6.5,plaza_vea,Bandeja 200g,,PORO
+Arverja Congelada BELL'S Bolsa 500g,S/ 6.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Arverja Congelada BELL'S Bolsa,6.5,plaza_vea,Pack 500g,,PORO
+Salvatrigo GRANO DE ORO Salvado de Trigo Doypack 400g,S/ 6.70,vivanda,PORO,2024-12-04 17:58:04.069359,400.0,g,Salvatrigo GRANO DE ORO Salvado de Trigo Doypack,6.7,vivanda,,GRANO ORO,PORO
+Papa Amarilla Tumbay,S/ 6.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Papa Amarilla Tumbay,6.79,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Olluco,S/ 6.79 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Olluco,6.79,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Tomate Cherry BELL'S Bandeja,S/ 6.89 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Tomate Cherry BELL'S Bandeja,6.89,plaza_vea,Paquete 1un,,PORO
+Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90,vivanda,PORO,2024-12-04 17:58:04.069359,425.0,g,Maíz Dulce FRUTO DE ORO Lata,6.9,vivanda,,FRUTO DE ORO,PORO
+Zanahoria Congelada BELL'S Bolsa 500g,S/ 6.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Zanahoria Congelada BELL'S Bolsa,6.9,plaza_vea,Bolsa 500g,,PORO
+Champiñon Entero PACCU Crimmini Bandeja 200g,S/ 6.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,200.0,g,Champiñon Entero PACCU Crimmini Bandeja,6.99,plaza_vea,Bandeja 200g,,PORO
+Vainita Americana,S/ 6.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Vainita Americana,6.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Tomate Italiano BELL'S Bolsa 1Kg,S/ 6.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Tomate Italiano BELL'S Bolsa,6.99,plaza_vea,Bolsa 1Kg,,PORO
+Papa Huayro,S/ 7.29 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Papa Huayro,7.29,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Detergente en Polvo PEROS Tropical Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Detergente en Polvo PEROS Tropical Bolsa,7.4,vega,,PEROS,PORO
+Detergente en Polvo PEROS Limón Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Detergente en Polvo PEROS Limón Bolsa,7.4,vega,,PEROS,PORO
+Papa Amarilla Peruanita,S/ 7.49 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Papa Amarilla Peruanita,7.49,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Arveja Precocida GREEN FOOD Bolsa 400g,S/ 7.50 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,Arveja Precocida GREEN FOOD Bolsa,7.5,plaza_vea,Bolsa 400g,,PORO
+Apio VIVA x un,S/ 7.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Apio VIVA,7.59,plaza_vea,Paquete 1un,,PORO
+Mix de Lechuga VERDE PURO Bolsa Unidad,S/ 7.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Mix de Lechuga VERDE PURO Bolsa Unidad,7.59,plaza_vea,Bolsa 1un,,PORO
+Arúgula VERDE PURO Paquete 160g,S/ 7.60 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,160.0,g,Arúgula VERDE PURO Paquete,7.6,plaza_vea,Paquete 160g,,PORO
+Holantao,S/ 7.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Holantao,7.9,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Maíz Morado x Kg,S/ 7.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.5,kg,Maíz Morado,7.99,plaza_vea,Presentación 0.5 kg aprox.,,PORO
+Lechuga Entera VERDE PURO,S/ 7.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Lechuga Entera VERDE PURO,7.99,plaza_vea,Paquete 1un,,PORO
+Pimiento Verde,S/ 7.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,Pimiento Verde,7.99,plaza_vea,Presentación 0.3 kg aprox.,,PORO
+Espárragos Verdes BELL'S FRESCOS Paquete 300g,S/ 8 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Espárragos Verdes BELL'S FRESCOS Paquete,8.0,plaza_vea,Paquete 1un,,PORO
+Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,PORO,2024-12-04 14:15:10.110674,400.0,g,Margarina SELLO DE ORO Pote r,8.3,vega,,Sello De Oro,PORO
+Choclo Desgranado BELL'S Bolsa 500g,S/ 8.49 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Choclo Desgranado BELL'S Bolsa,8.49,plaza_vea,Bolsa 500g,,PORO
+Snack para perro adultos de razas pequeñas en bolsa de 42 gr,S/ 8.50,tottus,PORO,2024-12-04 13:40:38.206491,42.0,g,Snack para perro adultos de razas pequeñas en bolsa de r,8.5,tottus,,DENTALIFE,PORO
+Espinaca Bebé VERDE PURO Bolsa 180g,S/ 8.59 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,180.0,g,Espinaca Bebé VERDE PURO Bolsa,8.59,plaza_vea,Bolsa 180g,,PORO
+Champiñones Congelados BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Champiñones Congelados BELL'S Bolsa,8.9,plaza_vea,Bolsa 500g,,PORO
+Champiñones Enteros FRUTO DE ORO Lata 400g,S/ 8.90,vivanda,PORO,2024-12-04 17:58:04.069359,400.0,g,Champiñones Enteros FRUTO DE ORO Lata,8.9,vivanda,,FRUTO DE ORO,PORO
+Espinaca VERDE PURO Bolsa 500g,S/ 8.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Espinaca VERDE PURO Bolsa,8.99,plaza_vea,Bolsa 500g,,PORO
+Cereal GRANO DE ORO Salvado de Avena Doypack 300g,S/ 9.40,vivanda,PORO,2024-12-04 17:58:04.069359,300.0,g,Cereal GRANO DE ORO Salvado de Avena Doypack,9.4,vivanda,,GRANO DE ORO,PORO
+Bambú en Tajadas FRUTO DE ORO Lata 567g,S/ 9.90,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,Bambú en Tajadas FRUTO DE ORO Lata,9.9,vivanda,,FRUTO DE ORO,PORO
+Kion,S/ 9.90 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.3,kg,Kion,9.9,plaza_vea,Presentación 0.3 kg aprox.,,PORO
+Papas Prefritas Rizadas AVIKO Bolsa 750g,S/ 9.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,750.0,g,Papas Prefritas Rizadas AVIKO Bolsa,9.9,plaza_vea,Bolsa 750g,,PORO
+Sopa de Verduras BELL'S Bandeja 500g,S/ 9.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,500.0,g,Sopa de Verduras BELL'S Bandeja,9.99,plaza_vea,Bandeja 500g,,PORO
+Ajos Pelados EL SABOR Arequipeños Bandeja 250g,S/ 9.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,250.0,g,Ajos Pelados EL SABOR Arequipeños Bandeja,9.99,plaza_vea,Bandeja 250g,,PORO
+Choclo Americano Precocido Congelado GREEN FOO...,S/ 10 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,400.0,g,Choclo Americano Precocido Congelado GREEN FOO,10.0,plaza_vea,Bolsa 400g,,PORO
+Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,PORO,2024-12-04 14:15:10.110674,1.0,kg,Avena GRANO DE ORO Bolsa,10.5,vega,,Grano De Oro,PORO
+Papa Prefrita Congelada AVIKO Bolsa 1kg,S/ 10.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,kg,Papa Prefrita Congelada AVIKO Bolsa,10.9,plaza_vea,Bolsa 1Kg,,PORO
+Castaña de Agua FRUTO DE ORO Lata 567g,S/ 10.99,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,Castaña de Agua FRUTO DE ORO Lata,10.99,vivanda,,FRUTO DE ORO,PORO
+Cocktail de Frutas FRUTO DE ORO Lata 820g,S/ 11.90,vivanda,PORO,2024-12-04 17:58:04.069359,820.0,g,Cocktail de Frutas FRUTO DE ORO Lata,11.9,vivanda,,FRUTO DE ORO,PORO
+Papa Crinkle Congelada BEM BRASIL Bolsa 1.05kg,S/ 11.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.05,kg,Papa Crinkle Congelada BEM BRASIL Bolsa,11.9,plaza_vea,Bolsa 1.05Kg,,PORO
+Jabón en Barra Forte 100 g,S/ 11.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,Jabón en Barra Forte,11.9,tottus,,ASEPXIA,PORO
+Brócoli VIVA,S/ 11.99 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Brócoli VIVA,11.99,plaza_vea,Paquete 1un,,PORO
+Tripack de Jabón de Leche de Coco de 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,Tripack de Jabón de Leche de Coco de,12.5,tottus,,DOVE,PORO
+Packx3 Jabón de Tocador Variedades Surtidas 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,Packx3 Jabón de Tocador Variedades Surtidas,12.5,tottus,,DOVE,PORO
+Nísperos en Conserva FRUTO DE ORO Lata 567g,S/ 14.20,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,Nísperos en Conserva FRUTO DE ORO Lata,14.2,vivanda,,FRUTO DE ORO,PORO
+Jabón en Barra Carbón Detox 100 g,S/ 14.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,Jabón en Barra Carbón Detox,14.9,tottus,,ASEPXIA,PORO
+Ajo Entero,S/ 14.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.25,kg,Ajo Entero,14.99,plaza_vea,Presentación 0.25 kg aprox.,,PORO
+Avena GRANO DE ORO Hojuelas Gruesa Bolsa 900gr,S/ 16.80,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Avena GRANO DE ORO Hojuelas Gruesa Bolsa r,16.8,vega,,Grano De Oro,PORO
+Snack para perro adultos de razas medianas en bolsa de 119 gr,S/ 17.50,tottus,PORO,2024-12-04 13:40:38.206491,119.0,g,Snack para perro adultos de razas medianas en bolsa de r,17.5,tottus,,DENTALIFE,PORO
+Lychees en Almíbar FRUTO DE ORO Lata 567g,S/ 18.20,vivanda,PORO,2024-12-04 17:58:04.069359,567.0,g,Lychees en Almíbar FRUTO DE ORO Lata,18.2,vivanda,,FRUTO DE ORO,PORO
+Zapallo Loche,S/ 18.99 x kg,plaza_vea,PORO,2024-12-04 14:10:26.437365,0.4,kg,Zapallo Loche,18.99,plaza_vea,Presentación 0.4 kg aprox.,,PORO
+Queso Novoandino Prosciuto-poro 150g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,g,Queso Novoandino Prosciuto-poro,19.9,tottus,,DELICE,PORO
+Jabón en Barra Limpieza Prof Unidadesa 6 x 110 g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,110.0,g,Jabón en Barra Limpieza Prof Unidadesa 6 x,19.9,tottus,,PROTEX,PORO
+Snack para perros adultos de razas grandes en bolsa de 196 gr,S/ 20.90,tottus,PORO,2024-12-04 13:40:38.206491,196.0,g,Snack para perros adultos de razas grandes en bolsa de r,20.9,tottus,,DENTALIFE,PORO
+Queso Crema Gourmet Delice con Prosciutto & Poro Molde 150 g,S/ 21.10,metro,PORO,2024-12-04 21:47:42.402651,150.0,g,Queso Crema Gourmet Delice con Prosciutto & Poro Molde,21.1,metro,,,PORO
+Queso Crema Gourmet Delice con Prosciutto & Poro Molde 150 g,S/ 21.80,wong,PORO,2024-12-04 19:53:39.500068,150.0,g,Queso Crema Gourmet Delice con Prosciutto & Poro Molde,21.8,wong,,,PORO
+Espumante RICCADONNA Ruby Botella 200ml,S/ 23.70,vivanda,PORO,2024-12-04 17:58:04.069359,200.0,ml,Espumante RICCADONNA Ruby Botella,23.7,vivanda,,CONCHA Y TORO,PORO
+Mascarilla Peel Off Purificante Carbón Detox 30 g,S/ 25.90,tottus,PORO,2024-12-04 13:40:38.206491,30.0,g,Mascarilla Peel Off Purificante Carbón Detox,25.9,tottus,,ASEPXIA,PORO
+Vino CONCHA Y TORO Reservado Rosé Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Reservado Rosé Botella,27.9,vivanda,,CONCHA Y TORO,PORO
+Quiche de Poro y Queso HOME CHEF Caja 1un,S/ 27.90 un,plaza_vea,PORO,2024-12-04 14:10:26.437365,1.0,un,Quiche de Poro y Queso HOME CHEF Caja,27.9,plaza_vea,Caja 1un,,PORO
+Vino Blanco CONCHA Y TORO Reservado Sauvignon Blanc Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Blanco CONCHA Y TORO Reservado Sauvignon Blanc Botella,27.9,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Reservado Carmenere Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Reservado Carmenere Botella,27.9,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Reservado Malbec Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Reservado Malbec Botella,27.9,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Reservado Sweet Red Botella 750ml,S/ 27.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Reservado Sweet Red Botella,27.9,vivanda,,CONCHA Y TORO,PORO
+Shampoo Pro-V Bambú Nutre & Crece 750 mL,S/ 30.90,tottus,PORO,2024-12-04 13:40:38.206491,750.0,ml,Shampoo Pro-V Bambú Nutre & Crece,30.9,tottus,,PANTENE,PORO
+Vino FRONTERA Merlot Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino FRONTERA Merlot Botella,31.3,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Frontera Sauvignon Blanc Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Frontera Sauvignon Blanc Botella,31.3,vivanda,,CONCHA Y TORO,PORO
+Vino FRONTERA Carmenere Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino FRONTERA Carmenere Botella,31.3,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Frontera Malbec Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Frontera Malbec Botella,31.3,vivanda,,CONCHA Y TORO,PORO
+Vino FRONTERA Cabernet Sauvignon Botella 750ml,S/ 31.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino FRONTERA Cabernet Sauvignon Botella,31.3,vivanda,,CONCHA Y TORO,PORO
+Bandas Limpieza Profunda Nariz 8 Und,S/ 31.90,tottus,PORO,2024-12-04 13:40:38.206491,8.0,un,Bandas Limpieza Profunda Nariz d,31.9,tottus,,BIORE,PORO
+Avena GRANO DE ORO Hojuelas Gruesa Bolsa 5kg,S/ 36.70,vega,PORO,2024-12-04 14:15:10.110674,5.0,kg,Avena GRANO DE ORO Hojuelas Gruesa Bolsa,36.7,vega,,Grano De Oro,PORO
+Gel Limpiador Equilibrante Piel Gasa 150 mL,S/ 36.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,Gel Limpiador Equilibrante Piel Gasa,36.9,tottus,,NIVEA,PORO
+Gel Facial Deep Clean x 150 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,Gel Facial Deep Clean x,39.2,tottus,,NEUTROGENA,PORO
+Agua Micelar Purified Skin 7 en 1 200 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,200.0,ml,Agua Micelar Purified Skin 7 en 1,39.2,tottus,,NEUTROGENA,PORO
+Vino FINCA ROTONDO Reserva Cabernet Sauvignon Botella 750ml,S/ 39.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino FINCA ROTONDO Reserva Cabernet Sauvignon Botella,39.9,vivanda,,CONCHA Y TORO,PORO
+Quiche de Poro con Tocino Don Mamino 650g,S/ 39.99,wong,PORO,2024-12-04 19:53:39.500068,650.0,g,Quiche de Poro con Tocino Don Mamino,39.99,wong,,,PORO
+Gaseosa BIG COLA Botella 3.03L Paquete 6un,S/ 41.40,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,Gaseosa BIG COLA Botella  Paquete,41.4,vega,,Oro,PORO
+Exfoliante Facial Purified Skin 100 mL,S/ 42.40,tottus,PORO,2024-12-04 13:40:38.206491,100.0,ml,Exfoliante Facial Purified Skin,42.4,tottus,,NEUTROGENA,PORO
+Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fabulous Botella 750ml,S/ 49.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fabulous Botella,49.9,vivanda,,CONCHA Y TORO,PORO
+Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fantastic Botella 750ml,S/ 49.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Carnaval Devils Fantastic Botella,49.9,vivanda,,CONCHA Y TORO,PORO
+Vino Tinto CASILLERO DEL DIABLO Malbec Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Malbec Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Blanco CASILLERO DEL DIABLO Sauvignon Blanc Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Blanco CASILLERO DEL DIABLO Sauvignon Blanc Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Tinto CASILLERO DEL DIABLO Red Blend Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Red Blend Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Tinto CASILLERO DEL DIABLO Cabernet Sauvignon Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Cabernet Sauvignon Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Blanco CASILLERO DEL DIABLO Chardonnay Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Blanco CASILLERO DEL DIABLO Chardonnay Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Tinto CASILLERO DEL DIABLO Carmenere Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CASILLERO DEL DIABLO Carmenere Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vino Rosé CASILLERO DEL DIABLO Reserva Botella 750ml,S/ 52.20,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Rosé CASILLERO DEL DIABLO Reserva Botella,52.2,vivanda,,CONCHA Y TORO,PORO
+Vermouth CINZANO Dry Botella 750ml,S/ 56.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vermouth CINZANO Dry Botella,56.9,vivanda,,CONCHA Y TORO,PORO
+Espumante CINZANO Asti Botella 750ml,S/ 61.30,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Espumante CINZANO Asti Botella,61.3,vivanda,,CONCHA Y TORO,PORO
+Avena GRANO DE ORO Bolsa 10kg,S/ 69.40,vega,PORO,2024-12-04 14:15:10.110674,10.0,kg,Avena GRANO DE ORO Bolsa,69.4,vega,,Grano De Oro,PORO
+Detergente en Polvo PEROS Floral Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,Detergente en Polvo PEROS Floral Bolsa,72.9,vega,,PEROS,PORO
+Detergente en Polvo PEROS Limón Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,Detergente en Polvo PEROS Limón Bolsa,72.9,vega,,PEROS,PORO
+Vino Tinto CONCHA Y TORO Diablo Purple Malbec Botella 750ml,S/ 104.40,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino Tinto CONCHA Y TORO Diablo Purple Malbec Botella,104.4,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO Marqués de Casa Concha Carmenere Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO Marqués de Casa Concha Carmenere Botella,124.9,vivanda,,CONCHA Y TORO,PORO
+Vino MARQUÉS DE CASA CONCHA Cabernet Sauvignon Reserva Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino MARQUÉS DE CASA CONCHA Cabernet Sauvignon Reserva Botella,124.9,vivanda,,CONCHA Y TORO,PORO
+Vino MARQUÉS DE CASA CONCHA Merlot Botella 750ml,S/ 124.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino MARQUÉS DE CASA CONCHA Merlot Botella,124.9,vivanda,,CONCHA Y TORO,PORO
+Vino CONCHA Y TORO DON MELCHOR Cabernet Sauvignon Botella 750ml,S/ 999.90,vivanda,PORO,2024-12-04 17:58:04.069359,750.0,ml,Vino CONCHA Y TORO DON MELCHOR Cabernet Sauvignon Botella,999.9,vivanda,,CONCHA Y TORO,PORO
+Gaseosa ORO Botella 3.03L x 6u,,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,Gaseosa ORO Botella  x 6u,,vega,,Oro,PORO

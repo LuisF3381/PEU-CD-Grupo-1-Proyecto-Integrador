@@ -1,17 +1,17 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-NEUTROGENA,Gel Facial Deep Clean x 150 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,39.2
-NEUTROGENA,Exfoliante Facial Purified Skin 100 mL,S/ 42.40,tottus,PORO,2024-12-04 13:40:38.206491,100.0,ml,42.4
-ASEPXIA,Jabón en Barra Forte 100 g,S/ 11.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,11.9
-NIVEA,Gel Limpiador Equilibrante Piel Gasa 150 mL,S/ 36.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,36.9
-ASEPXIA,Mascarilla Peel Off Purificante Carbón Detox 30 g,S/ 25.90,tottus,PORO,2024-12-04 13:40:38.206491,30.0,g,25.9
-ASEPXIA,Jabón en Barra Carbón Detox 100 g,S/ 14.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,14.9
-NEUTROGENA,Agua Micelar Purified Skin 7 en 1 200 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,200.0,ml,39.2
-BIORE,Bandas Limpieza Profunda Nariz 8 Und,S/ 31.90,tottus,PORO,2024-12-04 13:40:38.206491,8.0,un,31.9
-DOVE,Tripack de Jabón de Leche de Coco de 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,12.5
-DELICE,Queso Novoandino Prosciuto-poro 150g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,g,19.9
-DOVE,Packx3 Jabón de Tocador Variedades Surtidas 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,12.5
-PROTEX,Jabón en Barra Limpieza Prof Unidadesa 6 x 110 g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,110.0,g,19.9
-PANTENE,Shampoo Pro-V Bambú Nutre & Crece 750 mL,S/ 30.90,tottus,PORO,2024-12-04 13:40:38.206491,750.0,ml,30.9
-DENTALIFE,Snack para perro adultos de razas medianas en bolsa de 119 gr,S/ 17.50,tottus,PORO,2024-12-04 13:40:38.206491,119.0,g,17.5
-DENTALIFE,Snack para perro adultos de razas pequeñas en bolsa de 42 gr,S/ 8.50,tottus,PORO,2024-12-04 13:40:38.206491,42.0,g,8.5
-DENTALIFE,Snack para perros adultos de razas grandes en bolsa de 196 gr,S/ 20.90,tottus,PORO,2024-12-04 13:40:38.206491,196.0,g,20.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+NEUTROGENA,Gel Facial Deep Clean x 150 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,Gel Facial Deep Clean x,39.2
+NEUTROGENA,Exfoliante Facial Purified Skin 100 mL,S/ 42.40,tottus,PORO,2024-12-04 13:40:38.206491,100.0,ml,Exfoliante Facial Purified Skin,42.4
+ASEPXIA,Jabón en Barra Forte 100 g,S/ 11.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,Jabón en Barra Forte,11.9
+NIVEA,Gel Limpiador Equilibrante Piel Gasa 150 mL,S/ 36.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,ml,Gel Limpiador Equilibrante Piel Gasa,36.9
+ASEPXIA,Mascarilla Peel Off Purificante Carbón Detox 30 g,S/ 25.90,tottus,PORO,2024-12-04 13:40:38.206491,30.0,g,Mascarilla Peel Off Purificante Carbón Detox,25.9
+ASEPXIA,Jabón en Barra Carbón Detox 100 g,S/ 14.90,tottus,PORO,2024-12-04 13:40:38.206491,100.0,g,Jabón en Barra Carbón Detox,14.9
+NEUTROGENA,Agua Micelar Purified Skin 7 en 1 200 mL,S/ 39.20,tottus,PORO,2024-12-04 13:40:38.206491,200.0,ml,Agua Micelar Purified Skin 7 en 1,39.2
+BIORE,Bandas Limpieza Profunda Nariz 8 Und,S/ 31.90,tottus,PORO,2024-12-04 13:40:38.206491,8.0,un,Bandas Limpieza Profunda Nariz d,31.9
+DOVE,Tripack de Jabón de Leche de Coco de 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,Tripack de Jabón de Leche de Coco de,12.5
+DELICE,Queso Novoandino Prosciuto-poro 150g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,150.0,g,Queso Novoandino Prosciuto-poro,19.9
+DOVE,Packx3 Jabón de Tocador Variedades Surtidas 90 g,S/ 12.50,tottus,PORO,2024-12-04 13:40:38.206491,90.0,g,Packx3 Jabón de Tocador Variedades Surtidas,12.5
+PROTEX,Jabón en Barra Limpieza Prof Unidadesa 6 x 110 g,S/ 19.90,tottus,PORO,2024-12-04 13:40:38.206491,110.0,g,Jabón en Barra Limpieza Prof Unidadesa 6 x,19.9
+PANTENE,Shampoo Pro-V Bambú Nutre & Crece 750 mL,S/ 30.90,tottus,PORO,2024-12-04 13:40:38.206491,750.0,ml,Shampoo Pro-V Bambú Nutre & Crece,30.9
+DENTALIFE,Snack para perro adultos de razas medianas en bolsa de 119 gr,S/ 17.50,tottus,PORO,2024-12-04 13:40:38.206491,119.0,g,Snack para perro adultos de razas medianas en bolsa de r,17.5
+DENTALIFE,Snack para perro adultos de razas pequeñas en bolsa de 42 gr,S/ 8.50,tottus,PORO,2024-12-04 13:40:38.206491,42.0,g,Snack para perro adultos de razas pequeñas en bolsa de r,8.5
+DENTALIFE,Snack para perros adultos de razas grandes en bolsa de 196 gr,S/ 20.90,tottus,PORO,2024-12-04 13:40:38.206491,196.0,g,Snack para perros adultos de razas grandes en bolsa de r,20.9

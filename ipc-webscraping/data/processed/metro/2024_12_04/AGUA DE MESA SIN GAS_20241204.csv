@@ -1,17 +1,17 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Agua de Mesa Sin Gas San Luis Caja 20L,S/ 24.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,20.0,l,24.5
-Agua de Mesa Sin Gas San Luis Bidón 7L,S/ 7.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,7.0,l,7.5
-Agua de Mesa Con Gas San Luis Botella 2.5L,S/ 2.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,2.9
-Agua de Mesa Sin Gas Benedictino Botella 3L,S/ 2.70,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,3.0,l,2.7
-Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 2.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,2.9
-Agua de Mesa Sin Gas Pura Vida Botella 3 Lt,S/ 2.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,3.0,l,2.5
-Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 1.70,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,750.0,ml,1.7
-Agua de Mesa sin Gas Benedictino Bidón 7 Lt,S/ 7.10,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,7.0,l,7.1
-Agua de Mesa Cuisine & Co Botella Sport 1L,S/ 1.60,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,1.0,l,1.6
-Agua de Mesa Sin Gas San Luis Botella 1L,S/ 2.80,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,1.0,l,2.8
-Agua de Mesa San Carlos Botella 500ml,S/ 0.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,500.0,ml,0.9
-Pack x15 Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 17.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,750.0,ml,17.9
-Sixpack Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 14.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,14.9
-Twopack Agua de Mesa Sin Gas San Luis Caja 20L,S/ 45.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,20.0,l,45.9
-Sixpack Agua de Mesa Cuisine & Co Botella 2.5L,S/ 10.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,10.9
-Sixpack Agua de Mesa Cuisine & Co Botella 625ml,S/ 5.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,625.0,ml,5.5
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Agua de Mesa Sin Gas San Luis Caja 20L,S/ 24.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,20.0,l,Agua de Mesa Sin Gas San Luis Caja,24.5
+Agua de Mesa Sin Gas San Luis Bidón 7L,S/ 7.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,7.0,l,Agua de Mesa Sin Gas San Luis Bidón,7.5
+Agua de Mesa Con Gas San Luis Botella 2.5L,S/ 2.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,Agua de Mesa Con Gas San Luis Botella,2.9
+Agua de Mesa Sin Gas Benedictino Botella 3L,S/ 2.70,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,3.0,l,Agua de Mesa Sin Gas Benedictino Botella,2.7
+Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 2.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,Agua de Mesa Sin Gas San Luis Botella,2.9
+Agua de Mesa Sin Gas Pura Vida Botella 3 Lt,S/ 2.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,3.0,l,Agua de Mesa Sin Gas Pura Vida Botella t,2.5
+Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 1.70,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,750.0,ml,Agua de Mesa Sin Gas San Luis Botella,1.7
+Agua de Mesa sin Gas Benedictino Bidón 7 Lt,S/ 7.10,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,7.0,l,Agua de Mesa sin Gas Benedictino Bidón t,7.1
+Agua de Mesa Cuisine & Co Botella Sport 1L,S/ 1.60,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,1.0,l,Agua de Mesa Cuisine & Co Botella Sport,1.6
+Agua de Mesa Sin Gas San Luis Botella 1L,S/ 2.80,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,1.0,l,Agua de Mesa Sin Gas San Luis Botella,2.8
+Agua de Mesa San Carlos Botella 500ml,S/ 0.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,500.0,ml,Agua de Mesa San Carlos Botella,0.9
+Pack x15 Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 17.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,750.0,ml,Pack x15 Agua de Mesa Sin Gas San Luis Botella,17.9
+Sixpack Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 14.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,Sixpack Agua de Mesa Sin Gas San Luis Botella,14.9
+Twopack Agua de Mesa Sin Gas San Luis Caja 20L,S/ 45.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,20.0,l,Twopack Agua de Mesa Sin Gas San Luis Caja,45.9
+Sixpack Agua de Mesa Cuisine & Co Botella 2.5L,S/ 10.90,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,2.5,l,Sixpack Agua de Mesa Cuisine & Co Botella,10.9
+Sixpack Agua de Mesa Cuisine & Co Botella 625ml,S/ 5.50,metro,AGUA DE MESA SIN GAS,2024-12-04 22:23:24.773957,625.0,ml,Sixpack Agua de Mesa Cuisine & Co Botella,5.5

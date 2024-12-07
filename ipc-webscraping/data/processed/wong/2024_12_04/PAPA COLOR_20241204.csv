@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Caja Krea Organizador Rueda Transparente Tapa Color Surtido 26L,S/ 20.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,26.0,l,20.0
-Caja Krea Organizador Rueda Transparente Tapa Color Surtido 13L,S/ 14.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,13.0,l,14.5
-Caja Krea Organizadora 26L Rueda Transparente Tapa Color Surtido,S/ 10.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,26.0,l,10.5
-Caja Krea Organizador Transparente Tapa Color 4.5L Surtido,S/ 4.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,4.5,l,4.5
-Caja Organiza Krea Transparente Tapa Color Surtido 6L,S/ 10.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,6.0,l,10.0
-Caja Krea Organizadora 13L Rueda Transparente Tapa Color Surtido,S/ 8.10,wong,PAPA COLOR,2024-12-04 20:02:58.124675,13.0,l,8.1
-Caja Organizador Krea Transparente Tapa Color 4L,S/ 8.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,4.0,l,8.0
-Cafetera Krea Embolo Tapa Color 600ml,S/ 20.39,wong,PAPA COLOR,2024-12-04 20:02:58.124675,600.0,ml,20.39
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Caja Krea Organizador Rueda Transparente Tapa Color Surtido 26L,S/ 20.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,26.0,l,Caja Krea Organizador Rueda Transparente Tapa Color Surtido,20.0
+Caja Krea Organizador Rueda Transparente Tapa Color Surtido 13L,S/ 14.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,13.0,l,Caja Krea Organizador Rueda Transparente Tapa Color Surtido,14.5
+Caja Krea Organizadora 26L Rueda Transparente Tapa Color Surtido,S/ 10.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,26.0,l,Caja Krea Organizadora  Rueda Transparente Tapa Color Surtido,10.5
+Caja Krea Organizador Transparente Tapa Color 4.5L Surtido,S/ 4.50,wong,PAPA COLOR,2024-12-04 20:02:58.124675,4.5,l,Caja Krea Organizador Transparente Tapa Color  Surtido,4.5
+Caja Organiza Krea Transparente Tapa Color Surtido 6L,S/ 10.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,6.0,l,Caja Organiza Krea Transparente Tapa Color Surtido,10.0
+Caja Krea Organizadora 13L Rueda Transparente Tapa Color Surtido,S/ 8.10,wong,PAPA COLOR,2024-12-04 20:02:58.124675,13.0,l,Caja Krea Organizadora  Rueda Transparente Tapa Color Surtido,8.1
+Caja Organizador Krea Transparente Tapa Color 4L,S/ 8.00,wong,PAPA COLOR,2024-12-04 20:02:58.124675,4.0,l,Caja Organizador Krea Transparente Tapa Color,8.0
+Cafetera Krea Embolo Tapa Color 600ml,S/ 20.39,wong,PAPA COLOR,2024-12-04 20:02:58.124675,600.0,ml,Cafetera Krea Embolo Tapa Color,20.39

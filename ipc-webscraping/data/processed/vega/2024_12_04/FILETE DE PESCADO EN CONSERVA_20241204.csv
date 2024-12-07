@@ -1,17 +1,17 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Primor,Filete de Atún PRIMOR en Aceite Vegetal Lata 140g x6u,S/ 32.40 17%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,32.4
-Vega,Filete de Atún VEGA en Aceite Vegetal Lata 150g x6u,S/ 27.00 6%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,27.0
-Gloria,Filete de atún GLORIA Lata 140g x 6u,S/ 35.94,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,35.94
-Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata 140g,S/ 33.60 12%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,33.6
-Vega,Filete de Bonito VEGA en Aceite Vegetal Lata 170gr,S/ 4.20,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,4.2
-Vega,Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,4.4
-Vega,Filete de Atún VEGA en Aceite Vegetal Lata 150g,S/ 4.90,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,4.9
-Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g x12u,S/ 76.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,76.8
-Primor,Filete de Atún PRIMOR en Aceite Vegetal Lata 140g,S/ 5.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,5.8
-Gloria,Filete de atún GLORIA Lata 140g,S/ 5.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,5.8
-Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g,S/ 6.00,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,6.0
-Inca Mar,Filete de Atún INCA MAR en Aceite Vegetal Lata 140gr,S/ 5.50,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,5.5
-Timonel,Filete de atún TIMONEL en Aceite Vegetal 150gr,S/ 5.20,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,5.2
-Vega,Filete de Bonito VEGA en Aceite Vegetal Lata 170gr Pack 6u,S/ 24.60,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,24.6
-Vega,Combo Filete atún VEGA Lata 150g + Spaguetti VEGA Bolsa 500g,S/ 7.50,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,7.5
-Timonel,Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,S/ 11.00,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,2.5,l,11.0
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Primor,Filete de Atún PRIMOR en Aceite Vegetal Lata 140g x6u,S/ 32.40 17%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún PRIMOR en Aceite Vegetal Lata  x6u,32.4
+Vega,Filete de Atún VEGA en Aceite Vegetal Lata 150g x6u,S/ 27.00 6%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,Filete de Atún VEGA en Aceite Vegetal Lata  x6u,27.0
+Gloria,Filete de atún GLORIA Lata 140g x 6u,S/ 35.94,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de atún GLORIA Lata  x 6u,35.94
+Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata 140g,S/ 33.60 12%,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata,33.6
+Vega,Filete de Bonito VEGA en Aceite Vegetal Lata 170gr,S/ 4.20,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,Filete de Bonito VEGA en Aceite Vegetal Lata r,4.2
+Vega,Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,Filete de Caballa VEGA en Aceite Vegetal Lata,4.4
+Vega,Filete de Atún VEGA en Aceite Vegetal Lata 150g,S/ 4.90,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,Filete de Atún VEGA en Aceite Vegetal Lata,4.9
+Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g x12u,S/ 76.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún FLORIDA en Aceite Vegetal Lata  x12u,76.8
+Primor,Filete de Atún PRIMOR en Aceite Vegetal Lata 140g,S/ 5.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún PRIMOR en Aceite Vegetal Lata,5.8
+Gloria,Filete de atún GLORIA Lata 140g,S/ 5.80,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de atún GLORIA Lata,5.8
+Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g,S/ 6.00,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún FLORIDA en Aceite Vegetal Lata,6.0
+Inca Mar,Filete de Atún INCA MAR en Aceite Vegetal Lata 140gr,S/ 5.50,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,140.0,g,Filete de Atún INCA MAR en Aceite Vegetal Lata r,5.5
+Timonel,Filete de atún TIMONEL en Aceite Vegetal 150gr,S/ 5.20,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,Filete de atún TIMONEL en Aceite Vegetal r,5.2
+Vega,Filete de Bonito VEGA en Aceite Vegetal Lata 170gr Pack 6u,S/ 24.60,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,170.0,g,Filete de Bonito VEGA en Aceite Vegetal Lata r Pack 6u,24.6
+Vega,Combo Filete atún VEGA Lata 150g + Spaguetti VEGA Bolsa 500g,S/ 7.50,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,150.0,g,Combo Filete atún VEGA Lata  + Spaguetti VEGA Bolsa,7.5
+Timonel,Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,S/ 11.00,vega,FILETE DE PESCADO EN CONSERVA,2024-12-04 13:39:22.637753,2.5,l,Combo Agua TIMONEL Botella  + Filete de caballa VEGA Lata  + Galleta Soda SAN JORGE Paquete 7u,11.0

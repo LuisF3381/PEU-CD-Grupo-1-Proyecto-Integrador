@@ -1,6 +1,6 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Quinua Blanca Precocida Guva 500g,S/ 9.19,metro,UVA BLANCA,2024-12-04 21:32:44.382461,500.0,g,9.19
-Jugo de Uva Blanco Aurora Botella 1L,S/ 22.50,metro,UVA BLANCA,2024-12-04 21:32:44.382461,1.0,l,22.5
-Jugo de Uva Blanco Aurora Botella 300ml,S/ 65.90,metro,UVA BLANCA,2024-12-04 21:32:44.382461,300.0,ml,65.9
-Ají Panca Deshidratado Guva 100g,S/ 9.00,metro,UVA BLANCA,2024-12-04 21:32:44.382461,100.0,g,9.0
-Silicona Protector UV3 400ml + Limpiador de Llantas Llantax 400ml,S/ 37.99,metro,UVA BLANCA,2024-12-04 21:32:44.382461,400.0,ml,37.99
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Quinua Blanca Precocida Guva 500g,S/ 9.19,metro,UVA BLANCA,2024-12-04 21:32:44.382461,500.0,g,Quinua Blanca Precocida Guva,9.19
+Jugo de Uva Blanco Aurora Botella 1L,S/ 22.50,metro,UVA BLANCA,2024-12-04 21:32:44.382461,1.0,l,Jugo de Uva Blanco Aurora Botella,22.5
+Jugo de Uva Blanco Aurora Botella 300ml,S/ 65.90,metro,UVA BLANCA,2024-12-04 21:32:44.382461,300.0,ml,Jugo de Uva Blanco Aurora Botella,65.9
+Ají Panca Deshidratado Guva 100g,S/ 9.00,metro,UVA BLANCA,2024-12-04 21:32:44.382461,100.0,g,Ají Panca Deshidratado Guva,9.0
+Silicona Protector UV3 400ml + Limpiador de Llantas Llantax 400ml,S/ 37.99,metro,UVA BLANCA,2024-12-04 21:32:44.382461,400.0,ml,Silicona Protector UV3  + Limpiador de Llantas Llantax,37.99

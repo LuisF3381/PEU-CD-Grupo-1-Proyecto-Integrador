@@ -1,4 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Culantro en Pasta Pote 250 g,S/ 8.20,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,8.2
-Culantro en Pasta Wong Pote 250 g,S/ 7.50,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,7.5
-Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack 250 g,S/ 9.80,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,9.8
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Culantro en Pasta Pote 250 g,S/ 8.20,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,Culantro en Pasta Pote,8.2
+Culantro en Pasta Wong Pote 250 g,S/ 7.50,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,Culantro en Pasta Wong Pote,7.5
+Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack 250 g,S/ 9.80,metro,CULANTRO,2024-12-04 22:04:15.959175,250.0,g,Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack,9.8

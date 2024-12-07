@@ -1,14 +1,14 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Galletas CASINO Rellenas con Crema Sabor a Vainilla Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas CASINO rellenas con Crema sabor a Lúcuma Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas Rellenas de Crema BISCOLATA Mood Caja 40g,BISCOLATA MOOD,S/ 4.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,40.0,g,4.2
-Galletas Rellenas con Crema sabor a Coco BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,3.2
-Galletas CASINO Rellenas con Crema Sabor a Fresa Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas CASINO Rellenas con Crema Sabor a Menta Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas CASINO Rellenas con Crema Sabor a Alfajor Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas Rellenas BELL'S Sabor a Chocolate Paquete 6un,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,3.2
-Galletas Rellenas con Crema sabor a Chocolate BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,3.2
-Galletas Rellenas de Crema BISCOLATA Mood Vaso 115g,BISCOLATA MOOD,S/ 9.70,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,115.0,g,9.7
-Galletas Rellenas con Manjar COSTA Chocman Paquete 6un,COSTA,S/ 6.00,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,6.0
-Galletas CASINO Rellenas con Crema Sabor a Chocolate Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,5.3
-Galletas Rellenas con Crema sabor a Fresa BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,3.2
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Galletas CASINO Rellenas con Crema Sabor a Vainilla Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO Rellenas con Crema Sabor a Vainilla Paquete,5.3
+Galletas CASINO rellenas con Crema sabor a Lúcuma Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO rellenas con Crema sabor a Lúcuma Paquete,5.3
+Galletas Rellenas de Crema BISCOLATA Mood Caja 40g,BISCOLATA MOOD,S/ 4.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,40.0,g,Galletas Rellenas de Crema BISCOLATA Mood Caja,4.2
+Galletas Rellenas con Crema sabor a Coco BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,Galletas Rellenas con Crema sabor a Coco BELL'S Paquete,3.2
+Galletas CASINO Rellenas con Crema Sabor a Fresa Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO Rellenas con Crema Sabor a Fresa Paquete,5.3
+Galletas CASINO Rellenas con Crema Sabor a Menta Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO Rellenas con Crema Sabor a Menta Paquete,5.3
+Galletas CASINO Rellenas con Crema Sabor a Alfajor Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO Rellenas con Crema Sabor a Alfajor Paquete,5.3
+Galletas Rellenas BELL'S Sabor a Chocolate Paquete 6un,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas Rellenas BELL'S Sabor a Chocolate Paquete,3.2
+Galletas Rellenas con Crema sabor a Chocolate BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,Galletas Rellenas con Crema sabor a Chocolate BELL'S Paquete,3.2
+Galletas Rellenas de Crema BISCOLATA Mood Vaso 115g,BISCOLATA MOOD,S/ 9.70,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,115.0,g,Galletas Rellenas de Crema BISCOLATA Mood Vaso,9.7
+Galletas Rellenas con Manjar COSTA Chocman Paquete 6un,COSTA,S/ 6.00,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas Rellenas con Manjar COSTA Chocman Paquete,6.0
+Galletas CASINO Rellenas con Crema Sabor a Chocolate Paquete 6un,CASINO,S/ 5.30,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,6.0,un,Galletas CASINO Rellenas con Crema Sabor a Chocolate Paquete,5.3
+Galletas Rellenas con Crema sabor a Fresa BELL'S Paquete 180g,BELL'S,S/ 3.20,vivanda,GALLETAS RELLENAS,2024-12-04 17:18:37.011817,180.0,g,Galletas Rellenas con Crema sabor a Fresa BELL'S Paquete,3.2

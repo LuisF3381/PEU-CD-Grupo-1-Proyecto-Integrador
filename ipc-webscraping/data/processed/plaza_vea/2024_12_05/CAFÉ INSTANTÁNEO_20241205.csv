@@ -1,0 +1,48 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Frasco 170g,Café Instantáneo ALTOMAYO Gourmet Frasco 170g,S/ 28.70 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo ALTOMAYO Gourmet Frasco,28.7
+Lata 190g,Café Instantáneo KIRMA Lata 190g,S/ 22.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,190.0,g,Café Instantáneo KIRMA Lata,22.9
+Doypack 150g,Café Instántaneo Gourmet ALTOMAYO Doypack 150g,S/ 26.50 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,150.0,g,Café Instántaneo Gourmet ALTOMAYO Doypack,26.5
+Frasco 200g,Café Instantáneo NESCAFÉ Fina Selección Frasco...,S/ 29.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,200.0,g,Café Instantáneo NESCAFÉ Fina Selección Frasco,29.9
+Doypack 250g,Café Instantáneo KIRMA Doypack 250g,S/ 28.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,250.0,g,Café Instantáneo KIRMA Doypack,28.9
+Doypack 250g,Café Instantáneo NESCAFÉ Tradición Doypack 250...,S/ 30.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,250.0,g,Café Instantáneo NESCAFÉ Tradición Doypack 250,30.9
+Frasco 170g,Café Instantáneo NESCAFÉ Tradición Frasco 170g,S/ 24.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo NESCAFÉ Tradición Frasco,24.9
+Frasco 180g,Café Instántaneo Intenso CAFETAL Frasco 180g,S/ 30.60 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,180.0,g,Café Instántaneo Intenso CAFETAL Frasco,30.6
+Doypack 150g,Café Instántaneo Clásico ALTOMAYO Doypack 150g,S/ 17.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,150.0,g,Café Instántaneo Clásico ALTOMAYO Doypack,17.9
+Frasco 45g,Café Instantáneo ALTOMAYO Gourmet Frasco 45g,S/ 11.10 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,45.0,g,Café Instantáneo ALTOMAYO Gourmet Frasco,11.1
+Doypack 45g,Café Instantáneo Clásico ALTOMAYO Doypack 45g,S/ 5.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,45.0,g,Café Instantáneo Clásico ALTOMAYO Doypack,5.9
+Frasco 170g,Café Instantáneo ALTOMAYO Descafeinado Frasco ...,S/ 29.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo ALTOMAYO Descafeinado Frasco,29.9
+Frasco 40g,Café Instantáneo NESCAFÉ Descafeinado Frasco 4...,S/ 14.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,40.0,g,Café Instantáneo NESCAFÉ Descafeinado Frasco 4,14.9
+Frasco 180g,Café Instantáneo ALTOMAYO Clásico Frasco 180g,S/ 22.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,180.0,g,Café Instantáneo ALTOMAYO Clásico Frasco,22.9
+Doypack 100g,Café Instantáneo BELL'S Doypack 100g,S/ 9.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo BELL'S Doypack,9.9
+Doypack 150g,Café Instantáneo CAFETAL Doypack 150g,S/ 26.50 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,150.0,g,Café Instantáneo CAFETAL Doypack,26.5
+Frasco 170g,Café Instantáneo MARISCAL Frasco 170g,S/ 23.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo MARISCAL Frasco,23.9
+Doypack 90g,Café Instántaneo Gourmet ALTOMAYO Doypack 90g,S/ 19.20 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,90.0,g,Café Instántaneo Gourmet ALTOMAYO Doypack,19.2
+Frasco 50g,Café Instantáneo NESCAFÉ Tradición Frasco 50g,S/ 14.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo NESCAFÉ Tradición Frasco,14.9
+Frasco 100g,Café Instantáneo Granulado BELL'S Descafeinado...,S/ 15.40 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo Granulado BELL'S Descafeinado,15.4
+Lata 180g,Café Instantáneo BELL'S Lata 180g,S/ 16.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,180.0,g,Café Instantáneo BELL'S Lata,16.9
+Frasco 170g,Café Instantáneo COLCAFÉ Clásico Frasco 170g,S/ 25.50 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo COLCAFÉ Clásico Frasco,25.5
+Frasco 200g,Café Instantáneo BELL'S Granulado Frasco 200g,S/ 21.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,200.0,g,Café Instantáneo BELL'S Granulado Frasco,21.9
+Doypack 170g,Café Instantáneo BELL'S Doypack 170gr,S/ 16.20 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo BELL'S Doypack r,16.2
+Frasco 100g,Café Instantáneo BELL'S Liofilizado Frasco 100...,S/ 13.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo BELL'S Liofilizado Frasco 100,13.9
+Caja 144g,Café Instantáneo NESCAFÉ Vienés Caja 144g,S/ 17.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,144.0,g,Café Instantáneo NESCAFÉ Vienés Caja,17.9
+Frasco 380g,Café Instantáneo COLCAFÉ Todo en 1 Frasco 380g,S/ 21.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,380.0,g,Café Instantáneo COLCAFÉ Todo en 1 Frasco,21.9
+Frasco 100g,Café Instantáneo Granulado BELL'S Frasco 100g,S/ 11.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo Granulado BELL'S Frasco,11.9
+Doypack 80g,Café Instántaneo Clásico ALTOMAYO Doypack 80g,S/ 11 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,80.0,g,Café Instántaneo Clásico ALTOMAYO Doypack,11.0
+Doypack 150g,Café Instantáneo NESCAFÉ Tradición Doypack 150...,S/ 23.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,150.0,g,Café Instantáneo NESCAFÉ Tradición Doypack 150,23.9
+Doypack 100g,Café Instantáneo ALTOMAYO Descafeinado Doypack...,S/ 18.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo ALTOMAYO Descafeinado Doypack,18.9
+Frasco 50g,Café Instantáneo ALTOMAYO Clásico Frasco 50g,S/ 8.10 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo ALTOMAYO Clásico Frasco,8.1
+Frasco 45g,Café Instantáneo ALTOMAYO Descafeinado Frasco ...,S/ 12.40 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,45.0,g,Café Instantáneo ALTOMAYO Descafeinado Frasco,12.4
+Doypack 45g,Café Instantáneo ALTOMAYO Descafeinado Doypack...,S/ 9.80 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,45.0,g,Café Instantáneo ALTOMAYO Descafeinado Doypack,9.8
+Lata 190g,Café Instántaneo Clásico ALTOMAYO Lata 190g,S/ 30.20 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,190.0,g,Café Instántaneo Clásico ALTOMAYO Lata,30.2
+Frasco 170g,Café Instantáneo ALTOMAYO Liofilizado Frasco 1...,S/ 35.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo ALTOMAYO Liofilizado Frasco 1,35.9
+Frasco 50g,Café Instantáneo Granulado BELL'S Frasco 50g,S/ 6.20 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo Granulado BELL'S Frasco,6.2
+Doypack 100g,Café Instantáneo NESCAFÉ Fina Selección Doypac...,S/ 20.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo NESCAFÉ Fina Selección Doypac,20.9
+Frasco 50g,Café Instantáneo Granulado MARISCAL Frasco 50g,S/ 6.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo Granulado MARISCAL Frasco,6.9
+Frasco 45g,Café Instantáneo ALTOMAYO Liofilizado Frasco 4...,S/ 15.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,45.0,g,Café Instantáneo ALTOMAYO Liofilizado Frasco 4,15.9
+Frasco 170g,Café Instantáneo Granulado MARISCAL Frasco 170...,S/ 19.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo Granulado MARISCAL Frasco 170,19.9
+Frasco 50g,Café Instantáneo Liofilizado BELL'S Frasco 50g,S/ 7.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo Liofilizado BELL'S Frasco,7.9
+Doypack 90g,Café Instantáneo Intenso CAFETAL Doypack 90g,S/ 17.80 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,90.0,g,Café Instantáneo Intenso CAFETAL Doypack,17.8
+Frasco 170g,Café Instantáneo en Polvo MARISCAL Frasco 170g,S/ 16.59 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,170.0,g,Café Instantáneo en Polvo MARISCAL Frasco,16.59
+Frasco 50g,Café Instantáneo COLCAFÉ Clásico Frasco 50g,S/ 9.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo COLCAFÉ Clásico Frasco,9.9
+Frasco 50g,Café Instantáneo en Polvo MARISCAL Frasco 50g,S/ 7.70 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,50.0,g,Café Instantáneo en Polvo MARISCAL Frasco,7.7
+Frasco 100g,Café Instantáneo NESCAFÉ Tradición Frasco 100g,S/ 22.90 un,plaza_vea,CAFÉ INSTANTÁNEO,2024-12-05 16:03:03.191071,100.0,g,Café Instantáneo NESCAFÉ Tradición Frasco,22.9

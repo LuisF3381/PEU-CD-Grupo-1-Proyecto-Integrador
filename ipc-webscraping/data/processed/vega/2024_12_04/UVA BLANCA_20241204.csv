@@ -1,20 +1,20 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Blanca Flor,Panetón BLANCA FLOR Caja 900g,S/ 24.90 11%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,900.0,g,24.9
-Blanca Flor,Harina BLANCA FLOR Preparada Paquete 1Kg,S/ 8.00,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,kg,8.0
-Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 2Kg,S/ 17.50 15%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,kg,17.5
-Magia,Detergente en Polvo MAGIA BLANCA Floral Bolsa 2Kg,S/ 17.50 15%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,kg,17.5
-Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 4Kg,S/ 31.50 9%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,4.0,kg,31.5
-Magia,Detergente en Polvo MAGIA BLANCA Floral Bolsa 4Kg,S/ 31.50 9%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,4.0,kg,31.5
-Clorox,Quitamanchas CLOROX Ropa Blanca Botella 1800ml,S/ 20.40 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1800.0,ml,20.4
-Sporade,Bebida Rehidratante SPORADE Uva Botella 500ml x 2u,,vega,UVA BLANCA,2024-12-04 13:57:54.874714,500.0,ml,
-Clorandina,Lavavajilla en Pasta CLORANDINA Uva Pote 1000gr,S/ 6.30,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1000.0,g,6.3
-Vega,Azúcar Blanca VEGA Bolsa 1Kg,S/ 5.10,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,kg,5.1
-Universal,Azúcar Impalpable UNIVERSAL Bolsa 200gr,S/ 3.10,vega,UVA BLANCA,2024-12-04 13:57:54.874714,200.0,g,3.1
-Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 780g,S/ 8.50,vega,UVA BLANCA,2024-12-04 13:57:54.874714,780.0,g,8.5
-Fini,Gomas FINI Regaliz Uva Ácida Bolsa 80gr,S/ 4.20,vega,UVA BLANCA,2024-12-04 13:57:54.874714,80.0,g,4.2
-CABO BLANCO,Ron CABO BLANCO Black Botella 1L,S/ 17.90,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,l,17.9
-Suave,Papel Higiénico SUAVE Cuidado Completo Paquete 2un Plancha 10u,S/ 20.25 22%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,un,20.25
-Kolynos,Pasta Dental KOLYNOS Súper Blanco Tubo 60ml,S/ 3.30 11%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,60.0,ml,3.3
-Gran Chalan,Arroz Extra GRAN CHALAN Bolsa 5 kg,S/ 24.90 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,5.0,kg,24.9
-Faraon,Arroz Extra FARAON Bolsa 5Kg,S/ 26.20 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,5.0,kg,26.2
-Costeño,Arroz Extra COSTEÑO Bolsa 750g,S/ 4.70,vega,UVA BLANCA,2024-12-04 13:57:54.874714,750.0,g,4.7
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Blanca Flor,Panetón BLANCA FLOR Caja 900g,S/ 24.90 11%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,900.0,g,Panetón BLANCA FLOR Caja,24.9
+Blanca Flor,Harina BLANCA FLOR Preparada Paquete 1Kg,S/ 8.00,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,kg,Harina BLANCA FLOR Preparada Paquete,8.0
+Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 2Kg,S/ 17.50 15%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,kg,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa,17.5
+Magia,Detergente en Polvo MAGIA BLANCA Floral Bolsa 2Kg,S/ 17.50 15%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,kg,Detergente en Polvo MAGIA BLANCA Floral Bolsa,17.5
+Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 4Kg,S/ 31.50 9%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,4.0,kg,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa,31.5
+Magia,Detergente en Polvo MAGIA BLANCA Floral Bolsa 4Kg,S/ 31.50 9%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,4.0,kg,Detergente en Polvo MAGIA BLANCA Floral Bolsa,31.5
+Clorox,Quitamanchas CLOROX Ropa Blanca Botella 1800ml,S/ 20.40 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1800.0,ml,Quitamanchas CLOROX Ropa Blanca Botella,20.4
+Sporade,Bebida Rehidratante SPORADE Uva Botella 500ml x 2u,,vega,UVA BLANCA,2024-12-04 13:57:54.874714,500.0,ml,Bebida Rehidratante SPORADE Uva Botella  x 2u,
+Clorandina,Lavavajilla en Pasta CLORANDINA Uva Pote 1000gr,S/ 6.30,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1000.0,g,Lavavajilla en Pasta CLORANDINA Uva Pote r,6.3
+Vega,Azúcar Blanca VEGA Bolsa 1Kg,S/ 5.10,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,kg,Azúcar Blanca VEGA Bolsa,5.1
+Universal,Azúcar Impalpable UNIVERSAL Bolsa 200gr,S/ 3.10,vega,UVA BLANCA,2024-12-04 13:57:54.874714,200.0,g,Azúcar Impalpable UNIVERSAL Bolsa r,3.1
+Magia,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa 780g,S/ 8.50,vega,UVA BLANCA,2024-12-04 13:57:54.874714,780.0,g,Detergente en Polvo MAGIA BLANCA Lavanda Bolsa,8.5
+Fini,Gomas FINI Regaliz Uva Ácida Bolsa 80gr,S/ 4.20,vega,UVA BLANCA,2024-12-04 13:57:54.874714,80.0,g,Gomas FINI Regaliz Uva Ácida Bolsa r,4.2
+CABO BLANCO,Ron CABO BLANCO Black Botella 1L,S/ 17.90,vega,UVA BLANCA,2024-12-04 13:57:54.874714,1.0,l,Ron CABO BLANCO Black Botella,17.9
+Suave,Papel Higiénico SUAVE Cuidado Completo Paquete 2un Plancha 10u,S/ 20.25 22%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,2.0,un,Papel Higiénico SUAVE Cuidado Completo Paquete  Plancha 10u,20.25
+Kolynos,Pasta Dental KOLYNOS Súper Blanco Tubo 60ml,S/ 3.30 11%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,60.0,ml,Pasta Dental KOLYNOS Súper Blanco Tubo,3.3
+Gran Chalan,Arroz Extra GRAN CHALAN Bolsa 5 kg,S/ 24.90 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,5.0,kg,Arroz Extra GRAN CHALAN Bolsa,24.9
+Faraon,Arroz Extra FARAON Bolsa 5Kg,S/ 26.20 4%,vega,UVA BLANCA,2024-12-04 13:57:54.874714,5.0,kg,Arroz Extra FARAON Bolsa,26.2
+Costeño,Arroz Extra COSTEÑO Bolsa 750g,S/ 4.70,vega,UVA BLANCA,2024-12-04 13:57:54.874714,750.0,g,Arroz Extra COSTEÑO Bolsa,4.7

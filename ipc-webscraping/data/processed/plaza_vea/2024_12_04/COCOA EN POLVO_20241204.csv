@@ -1,5 +1,5 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pack 2un,Pack Gaseosa COCA COLA Botella 1L + Empanada d...,S/ 15.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,15.9
-Doypack 250g,Hoja de Coca Natural en Polvo DELISSE Premium ...,S/ 27 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,250.0,g,27.0
-Pack 2un,Pack Gaseosa COCA COLA Sin Azúcar Botella 1L +...,S/ 15.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,15.9
-Pack 2un,Pack Empanada de Pollo + Gaseosa COCA COLA Sin...,S/ 4.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,4.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pack 2un,Pack Gaseosa COCA COLA Botella 1L + Empanada d...,S/ 15.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,Pack Gaseosa COCA COLA Botella  + Empanada d,15.9
+Doypack 250g,Hoja de Coca Natural en Polvo DELISSE Premium ...,S/ 27 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,250.0,g,Hoja de Coca Natural en Polvo DELISSE Premium,27.0
+Pack 2un,Pack Gaseosa COCA COLA Sin Azúcar Botella 1L +...,S/ 15.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,Pack Gaseosa COCA COLA Sin Azúcar Botella  +,15.9
+Pack 2un,Pack Empanada de Pollo + Gaseosa COCA COLA Sin...,S/ 4.90 un,plaza_vea,COCOA EN POLVO,2024-12-04 14:41:26.507796,2.0,un,Pack Empanada de Pollo + Gaseosa COCA COLA Sin,4.9

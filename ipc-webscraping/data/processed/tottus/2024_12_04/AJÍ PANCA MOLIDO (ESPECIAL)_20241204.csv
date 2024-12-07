@@ -1,4 +1,4 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Ají Panca Molido 20 g,S/ 2.10,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,20.0,g,2.1
-TOTTUS,Ají Panca Molido de 50 g,S/ 6,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,50.0,g,6.0
-,Ají Panca Molido Cuatro Estaciones 10 g,S/ 3.70,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,10.0,g,3.7
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Ají Panca Molido 20 g,S/ 2.10,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,20.0,g,Ají Panca Molido,2.1
+TOTTUS,Ají Panca Molido de 50 g,S/ 6,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,50.0,g,Ají Panca Molido de,6.0
+,Ají Panca Molido Cuatro Estaciones 10 g,S/ 3.70,tottus,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 13:53:24.711656,10.0,g,Ají Panca Molido Cuatro Estaciones,3.7

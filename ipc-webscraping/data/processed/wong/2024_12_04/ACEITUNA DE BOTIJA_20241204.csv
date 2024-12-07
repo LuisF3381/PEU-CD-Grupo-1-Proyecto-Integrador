@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Aceitunas Negras Botija Extra 400g,S/ 12.99,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,12.99
-Aceitunas Negras Botija Extra 750g,S/ 27.12,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,750.0,g,27.12
-Aceituna Botija Sin Hueso Huerto Mejia 400g,S/ 14.60,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,14.6
-Aceituna Botija Entera Olivos Del Sur Contenido 850 g,S/ 23.40,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,850.0,g,23.4
-Aceituna Botija Extra Huerto Mejía Pote 400 gr,S/ 14.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,14.0
-Aceituna Botija Deshuesada Olivos del Sur 850g,S/ 30.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,850.0,g,30.0
-Aceituna Botija Deshuesada Olivos del Sur 225g,S/ 15.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,225.0,g,15.0
-Pan de Aceituna Botija L'Artisan x un,S/ 15.50,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,1.0,un,15.5
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Aceitunas Negras Botija Extra 400g,S/ 12.99,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,Aceitunas Negras Botija Extra,12.99
+Aceitunas Negras Botija Extra 750g,S/ 27.12,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,750.0,g,Aceitunas Negras Botija Extra,27.12
+Aceituna Botija Sin Hueso Huerto Mejia 400g,S/ 14.60,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,Aceituna Botija Sin Hueso Huerto Mejia,14.6
+Aceituna Botija Entera Olivos Del Sur Contenido 850 g,S/ 23.40,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,850.0,g,Aceituna Botija Entera Olivos Del Sur Contenido,23.4
+Aceituna Botija Extra Huerto Mejía Pote 400 gr,S/ 14.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,400.0,g,Aceituna Botija Extra Huerto Mejía Pote r,14.0
+Aceituna Botija Deshuesada Olivos del Sur 850g,S/ 30.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,850.0,g,Aceituna Botija Deshuesada Olivos del Sur,30.0
+Aceituna Botija Deshuesada Olivos del Sur 225g,S/ 15.00,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,225.0,g,Aceituna Botija Deshuesada Olivos del Sur,15.0
+Pan de Aceituna Botija L'Artisan x un,S/ 15.50,wong,ACEITUNA DE BOTIJA,2024-12-04 19:59:56.862208,1.0,un,Pan de Aceituna Botija L'Artisan,15.5

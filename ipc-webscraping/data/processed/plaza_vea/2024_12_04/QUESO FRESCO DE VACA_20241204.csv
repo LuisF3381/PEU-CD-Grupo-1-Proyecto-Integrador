@@ -1,4 +1,4 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Presentación 0.4 kg aprox.,Queso Fresco de Vaca DUMAN,S/ 19.96,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.4,kg,19.96
-Presentación 0.45 kg aprox.,Queso Fresco de Vaca Light DUMAN Paquete 400g,S/ 27.68,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.45,kg,27.68
-Presentación 0.3 kg aprox.,Queso Fresco de Vaca Deslactosado DUMAN x Kg,S/ 16.17,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.3,kg,16.17
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 0.4 kg aprox.,Queso Fresco de Vaca DUMAN,S/ 19.96,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.4,kg,Queso Fresco de Vaca DUMAN,19.96
+Presentación 0.45 kg aprox.,Queso Fresco de Vaca Light DUMAN Paquete 400g,S/ 27.68,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.45,kg,Queso Fresco de Vaca Light DUMAN Paquete,27.68
+Presentación 0.3 kg aprox.,Queso Fresco de Vaca Deslactosado DUMAN x Kg,S/ 16.17,plaza_vea,QUESO FRESCO DE VACA,2024-12-04 13:39:33.782527,0.3,kg,Queso Fresco de Vaca Deslactosado DUMAN,16.17

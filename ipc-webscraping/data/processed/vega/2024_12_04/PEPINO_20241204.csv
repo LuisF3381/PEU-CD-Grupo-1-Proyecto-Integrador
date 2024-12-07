@@ -1,6 +1,6 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Friskies,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa 7.5kg,S/ 87.00 8%,vega,PEPINO,2024-12-04 14:01:35.675794,7.5,kg,87.0
-Sapolio,Desinfectante Multiuso SAPOLIO Pino Botella 900ml,S/ 5.50,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,5.5
-Vclean,Limpiador VCLEAN Pino Galón 4L,S/ 10.90,vega,PEPINO,2024-12-04 14:01:35.675794,4.0,l,10.9
-Vclean,Limpiador VCLEAN Pino Botella 900ml,S/ 3.20,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,3.2
-Pinesol,Desinfectante Multiuso PINESOL Pino Botella 900ml,S/ 10.70,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,10.7
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Friskies,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa 7.5kg,S/ 87.00 8%,vega,PEPINO,2024-12-04 14:01:35.675794,7.5,kg,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa,87.0
+Sapolio,Desinfectante Multiuso SAPOLIO Pino Botella 900ml,S/ 5.50,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,Desinfectante Multiuso SAPOLIO Pino Botella,5.5
+Vclean,Limpiador VCLEAN Pino Galón 4L,S/ 10.90,vega,PEPINO,2024-12-04 14:01:35.675794,4.0,l,Limpiador VCLEAN Pino Galón,10.9
+Vclean,Limpiador VCLEAN Pino Botella 900ml,S/ 3.20,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,Limpiador VCLEAN Pino Botella,3.2
+Pinesol,Desinfectante Multiuso PINESOL Pino Botella 900ml,S/ 10.70,vega,PEPINO,2024-12-04 14:01:35.675794,900.0,ml,Desinfectante Multiuso PINESOL Pino Botella,10.7

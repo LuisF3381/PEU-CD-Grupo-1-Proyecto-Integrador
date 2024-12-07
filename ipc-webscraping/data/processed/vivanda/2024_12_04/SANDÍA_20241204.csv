@@ -1,16 +1,16 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Sandía Amarilla x kg,VIVANDA,S/ 3.49,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.0,kg,3.49
-Crema de Tratamiento FRUCTIS Hair Food de Sandía 300ml,FRUCTIS,S/ 25.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,25.7
-Olla Arrocera Multiusos OSTER 1.8L CKSTRC8029M Sandía,OSTER,S/ 209.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.8,l,209.0
-Goma de Mascar TRIDENT Sabor a Sandía Caja 12un,TRIDENT,S/ 32.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,12.0,un,32.9
-Acondicionador FRUCTIS Hair Food de Sandía Frasco 300ml,FRUCTIS,S/ 24.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,24.9
-Licuadora OSTER 1.5L BLSTKAGMPB053 Sandía,OSTER,S/ 249.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.5,l,249.0
-Hervidor Eléctrico OSTER 1.7L BVSTKT4177M-053 Sandía,OSTER,S/ 99.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.7,l,99.0
-Chicle TRIDENT Sin Azúcar sabor Sandía Envase 18un,TRIDENT,S/ 3.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,18.0,un,3.7
-Limpiador Facial 2 en 1 Hidrantante POND'S Extracto de Sandía Frasco 200ml,POND'S,S/ 29.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,200.0,ml,29.9
-Gel Hidratante POND'S Sandía Pote 110g,POND'S,S/ 29.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,110.0,g,29.9
-Mascarilla POND'S Fruity Fresh Sandía Sobre 26g,POND'S,S/ 12.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,26.0,g,12.9
-Shampoo FRUCTIS Hair Food de Sandía Frasco 300ml,FRUCTIS,S/ 24.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,24.9
-Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bolsa 40g,HUBBA BUBBA,S/ 5.50,vivanda,SANDÍA,2024-12-04 17:50:57.466795,40.0,g,5.5
-Sandia Picada BELL'S FRESCOS Bandeja 300g,BELL'S FRESCOS,S/ 5.69,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,g,5.69
-Bebida FRU + Mango Sandia Botella 400ml,FRU +,S/ 5.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,400.0,ml,5.7
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Sandía Amarilla x kg,VIVANDA,S/ 3.49,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.0,kg,Sandía Amarilla,3.49
+Crema de Tratamiento FRUCTIS Hair Food de Sandía 300ml,FRUCTIS,S/ 25.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,Crema de Tratamiento FRUCTIS Hair Food de Sandía,25.7
+Olla Arrocera Multiusos OSTER 1.8L CKSTRC8029M Sandía,OSTER,S/ 209.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.8,l,Olla Arrocera Multiusos OSTER  CKSTRC8029M Sandía,209.0
+Goma de Mascar TRIDENT Sabor a Sandía Caja 12un,TRIDENT,S/ 32.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,12.0,un,Goma de Mascar TRIDENT Sabor a Sandía Caja,32.9
+Acondicionador FRUCTIS Hair Food de Sandía Frasco 300ml,FRUCTIS,S/ 24.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,Acondicionador FRUCTIS Hair Food de Sandía Frasco,24.9
+Licuadora OSTER 1.5L BLSTKAGMPB053 Sandía,OSTER,S/ 249.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.5,l,Licuadora OSTER  BLSTKAGMPB053 Sandía,249.0
+Hervidor Eléctrico OSTER 1.7L BVSTKT4177M-053 Sandía,OSTER,S/ 99.00,vivanda,SANDÍA,2024-12-04 17:50:57.466795,1.7,l,Hervidor Eléctrico OSTER  BVSTKT4177M-053 Sandía,99.0
+Chicle TRIDENT Sin Azúcar sabor Sandía Envase 18un,TRIDENT,S/ 3.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,18.0,un,Chicle TRIDENT Sin Azúcar sabor Sandía Envase,3.7
+Limpiador Facial 2 en 1 Hidrantante POND'S Extracto de Sandía Frasco 200ml,POND'S,S/ 29.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,200.0,ml,Limpiador Facial 2 en 1 Hidrantante POND'S Extracto de Sandía Frasco,29.9
+Gel Hidratante POND'S Sandía Pote 110g,POND'S,S/ 29.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,110.0,g,Gel Hidratante POND'S Sandía Pote,29.9
+Mascarilla POND'S Fruity Fresh Sandía Sobre 26g,POND'S,S/ 12.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,26.0,g,Mascarilla POND'S Fruity Fresh Sandía Sobre,12.9
+Shampoo FRUCTIS Hair Food de Sandía Frasco 300ml,FRUCTIS,S/ 24.90,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,ml,Shampoo FRUCTIS Hair Food de Sandía Frasco,24.9
+Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bolsa 40g,HUBBA BUBBA,S/ 5.50,vivanda,SANDÍA,2024-12-04 17:50:57.466795,40.0,g,Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bolsa,5.5
+Sandia Picada BELL'S FRESCOS Bandeja 300g,BELL'S FRESCOS,S/ 5.69,vivanda,SANDÍA,2024-12-04 17:50:57.466795,300.0,g,Sandia Picada BELL'S FRESCOS Bandeja,5.69
+Bebida FRU + Mango Sandia Botella 400ml,FRU +,S/ 5.70,vivanda,SANDÍA,2024-12-04 17:50:57.466795,400.0,ml,Bebida FRU + Mango Sandia Botella,5.7

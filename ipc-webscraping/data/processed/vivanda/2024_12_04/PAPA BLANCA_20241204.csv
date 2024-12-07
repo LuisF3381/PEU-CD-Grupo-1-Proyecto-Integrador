@@ -1,2 +1,2 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Papa Blanca Yungay x kg,VIVANDA,S/ 4.39,vivanda,PAPA BLANCA,2024-12-04 18:01:50.005389,1.0,kg,4.39
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Papa Blanca Yungay x kg,VIVANDA,S/ 4.39,vivanda,PAPA BLANCA,2024-12-04 18:01:50.005389,1.0,kg,Papa Blanca Yungay,4.39

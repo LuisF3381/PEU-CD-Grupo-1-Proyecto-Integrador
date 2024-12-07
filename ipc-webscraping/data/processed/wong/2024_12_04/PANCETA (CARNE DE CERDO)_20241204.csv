@@ -1,23 +1,23 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Panceta de Cerdo en Tiras con Piel y con Hueso x kg,S/ 30.60 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,30.6
-Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando x kg,S/ 38.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,38.9
-Panceta de Cerdo en Tiras con Piel y Sin Hueso San Fernando x kg,S/ 43.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,43.9
-Panceta de Cerdo en Tiras Sin Piel y Sin Hueso San Fernando x kg,S/ 43.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,43.9
-Panceta de Cerdo en Tiras Sin Piel y con Hueso x kg,S/ 28.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,28.9
-Panceta de Cerdo en Tiras Sin Piel y con Hueso San Fernando x kg,S/ 41.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,41.9
-Panceta de Cerdo con Piel y con Hueso Otto Kunz x kg,S/ 43.20 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,43.2
-Panceta de Cerdo con Piel y con Hueso x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Panceta de Cerdo con Piel y con Hueso en Tiras x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Panceta Sin Piel con Hueso en Tiras x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Panceta de Cerdo Sin Piel y con Hueso x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Panceta de Cerdo Marinada Mediterránea Zimmermann x kg,S/ 45.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,45.9
-Panceta Gaucha Zimmermann x kg,S/ 45.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,45.9
-Panceta de Cerdo Sin Piel y con Hueso Otto Kunz x kg,S/ 43.70 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,43.7
-Panceta de Cerdo Con Piel y Con Hueso Congelado x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Panceta Estílo Caja China x kg,S/ 76.00 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,76.0
-Panceta Horneada Zimmermann x kg,S/ 72.99 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,72.99
-Panceta de Cerdo Kurobuta Sin Piel Sin Hueso SRF x kg,S/ 206.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,206.9
-Panceta de Cerdo Sin Piel y Con Hueso Congelado x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,33.9
-Tira de Panceta Con Piel de Cerdo Duroc Redondos x kg,S/ 38.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,38.9
-Tira de Panceta Sin Piel de Cerdo Duroc Redondos x kg,S/ 39.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,39.9
-Paleta Curada de Cerdo Reserva Cuisine & Co 4kg,S/ 490.00,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,4.0,kg,490.0
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Panceta de Cerdo en Tiras con Piel y con Hueso x kg,S/ 30.60 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras con Piel y con Hueso,30.6
+Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando x kg,S/ 38.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando,38.9
+Panceta de Cerdo en Tiras con Piel y Sin Hueso San Fernando x kg,S/ 43.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras con Piel y Sin Hueso San Fernando,43.9
+Panceta de Cerdo en Tiras Sin Piel y Sin Hueso San Fernando x kg,S/ 43.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras Sin Piel y Sin Hueso San Fernando,43.9
+Panceta de Cerdo en Tiras Sin Piel y con Hueso x kg,S/ 28.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras Sin Piel y con Hueso,28.9
+Panceta de Cerdo en Tiras Sin Piel y con Hueso San Fernando x kg,S/ 41.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo en Tiras Sin Piel y con Hueso San Fernando,41.9
+Panceta de Cerdo con Piel y con Hueso Otto Kunz x kg,S/ 43.20 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo con Piel y con Hueso Otto Kunz,43.2
+Panceta de Cerdo con Piel y con Hueso x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo con Piel y con Hueso,33.9
+Panceta de Cerdo con Piel y con Hueso en Tiras x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo con Piel y con Hueso en Tiras,33.9
+Panceta Sin Piel con Hueso en Tiras x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta Sin Piel con Hueso en Tiras,33.9
+Panceta de Cerdo Sin Piel y con Hueso x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Sin Piel y con Hueso,33.9
+Panceta de Cerdo Marinada Mediterránea Zimmermann x kg,S/ 45.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Marinada Mediterránea Zimmermann,45.9
+Panceta Gaucha Zimmermann x kg,S/ 45.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta Gaucha Zimmermann,45.9
+Panceta de Cerdo Sin Piel y con Hueso Otto Kunz x kg,S/ 43.70 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Sin Piel y con Hueso Otto Kunz,43.7
+Panceta de Cerdo Con Piel y Con Hueso Congelado x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Con Piel y Con Hueso Congelado,33.9
+Panceta Estílo Caja China x kg,S/ 76.00 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta Estílo Caja China,76.0
+Panceta Horneada Zimmermann x kg,S/ 72.99 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta Horneada Zimmermann,72.99
+Panceta de Cerdo Kurobuta Sin Piel Sin Hueso SRF x kg,S/ 206.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Kurobuta Sin Piel Sin Hueso SRF,206.9
+Panceta de Cerdo Sin Piel y Con Hueso Congelado x kg,S/ 33.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Panceta de Cerdo Sin Piel y Con Hueso Congelado,33.9
+Tira de Panceta Con Piel de Cerdo Duroc Redondos x kg,S/ 38.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Tira de Panceta Con Piel de Cerdo Duroc Redondos,38.9
+Tira de Panceta Sin Piel de Cerdo Duroc Redondos x kg,S/ 39.90 x kg,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,1.0,kg,Tira de Panceta Sin Piel de Cerdo Duroc Redondos,39.9
+Paleta Curada de Cerdo Reserva Cuisine & Co 4kg,S/ 490.00,wong,PANCETA (CARNE DE CERDO),2024-12-04 18:33:11.434731,4.0,kg,Paleta Curada de Cerdo Reserva Cuisine & Co,490.0

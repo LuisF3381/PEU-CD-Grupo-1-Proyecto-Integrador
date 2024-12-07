@@ -1,4 +1,4 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Edulcorante BELL'S Baja en Calorías Caja 50un,BELL'S,S/ 13.20,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,50.0,un,13.2
-Edulcorante BELL'S Baja en Calorías Caja 100un,BELL'S,S/ 19.60,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,100.0,un,19.6
-Barras de Chocolate con Edulcorante LA IBÉRICA Milky Bolsa 6un,LA IBERICA,S/ 44.90,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,6.0,un,44.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Edulcorante BELL'S Baja en Calorías Caja 50un,BELL'S,S/ 13.20,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,50.0,un,Edulcorante BELL'S Baja en Calorías Caja,13.2
+Edulcorante BELL'S Baja en Calorías Caja 100un,BELL'S,S/ 19.60,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,100.0,un,Edulcorante BELL'S Baja en Calorías Caja,19.6
+Barras de Chocolate con Edulcorante LA IBÉRICA Milky Bolsa 6un,LA IBERICA,S/ 44.90,vivanda,EDULCORANTE,2024-12-04 18:04:10.564405,6.0,un,Barras de Chocolate con Edulcorante LA IBÉRICA Milky Bolsa,44.9

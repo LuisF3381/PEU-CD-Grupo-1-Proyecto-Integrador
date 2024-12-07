@@ -1,7 +1,7 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Aceituna Botija con Pepa 240 g,S/ 9.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,9.9
-TOTTUS,Aceituna Botija sin Pepa 240 g,S/ 11.30,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,11.3
-OLIVOS DEL SUR,Aceituna Botija Entera 850 g,S/ 23.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,850.0,g,23.9
-OLIVOS DEL SUR,Aceituna Botija Light Entera 300 g,S/ 15.10,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,300.0,g,15.1
-CALE,Aceituna Botija Extra 240 g,S/ 8.50,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,8.5
-EL OLIVAR,Aceitunas Botija 240 g,S/ 8.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,8.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Aceituna Botija con Pepa 240 g,S/ 9.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,Aceituna Botija con Pepa,9.9
+TOTTUS,Aceituna Botija sin Pepa 240 g,S/ 11.30,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,Aceituna Botija sin Pepa,11.3
+OLIVOS DEL SUR,Aceituna Botija Entera 850 g,S/ 23.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,850.0,g,Aceituna Botija Entera,23.9
+OLIVOS DEL SUR,Aceituna Botija Light Entera 300 g,S/ 15.10,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,300.0,g,Aceituna Botija Light Entera,15.1
+CALE,Aceituna Botija Extra 240 g,S/ 8.50,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,Aceituna Botija Extra,8.5
+EL OLIVAR,Aceitunas Botija 240 g,S/ 8.90,tottus,ACEITUNA DE BOTIJA,2024-12-04 13:43:20.149737,240.0,g,Aceitunas Botija,8.9

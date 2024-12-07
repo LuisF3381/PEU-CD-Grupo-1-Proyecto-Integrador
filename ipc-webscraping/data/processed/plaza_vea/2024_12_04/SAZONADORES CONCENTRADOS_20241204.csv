@@ -1,58 +1,58 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Caja 42g,Caldo de Gallina DOÑA GUSTA Concentrado en Pol...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,42.0,g,2.2
-Caja 42g,Caldo de Carne DOÑA GUSTA Concentrado en Polvo...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,42.0,g,2.2
-Frasco 500ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 4.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,ml,4.2
-Paquete 6un,Sazonador AJINOMIX Deli Arroz Paquete 6un,S/ 1.70 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,1.7
-Bolsa 250g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 6.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,250.0,g,6.1
-Bolsa 100g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 2.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,100.0,g,2.9
-Doypack 1.2L,Detergente Líquido ARIEL Doble Poder Concentra...,S/ 24.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.2,l,24.9
-Galonera 3L,Detergente líquido ARIEL Concentrado Galonera ...,S/ 51.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,3.0,l,51.9
-Doypack 110g,Concentrado de Tomate POMAROLA Doypack 110g,S/ 1.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,110.0,g,1.8
-Bolsa 6un,Sazonador SIBARITA Sobre 57g Bolsa 6un,S/ 2.60 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,2.6
-Doypack 1.2L,Detergente Líquido ARIEL Concentrado con Downy...,S/ 24.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.2,l,24.9
-Bolsa 500g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 11.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,11.1
-Botella 4800ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 39.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4800.0,ml,39.9
-Caja 400g,Alitas Sazonadas Buffalo Wings REDONDOS Caja 4...,S/ 14.40 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,400.0,g,14.4
-Botella 1400ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 13.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1400.0,ml,13.9
-Caja 6un,Caldo de Tocino DOÑA GUSTA concentrado en Polv...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,2.2
-Caja 6un,Concentrado en Polvo DOÑA GUSTA caldo sabor a ...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,2.2
-Botella 2800ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 25.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2800.0,ml,25.9
-Sobre 32.4g,Salsa SIBARITA Sazonador sin picante Sobre 32....,S/ 1.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,32.4,g,1.1
-Pack 2un,Pack Detergente Líquido ARIEL Pro Cuidado 3L +...,S/ 91.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,91.8
-Frasco 81g,Sazonador Pops COSTEÑO de Pop Corn Sabor Mante...,S/ 10.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,81.0,g,10.9
-Pack 2un,Pack Suavizante Concentrado Líquido DOWNY Aman...,S/ 44.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,44.8
-Frasco 350ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 3.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,350.0,ml,3.2
-Frasco 99.2g,Sazonador BADIA Completo Frasco 99.20Gr,S/ 9.70 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,99.2,g,9.7
-Sobre 80g,Sazonador Palillo Amarillito SIBARITA Sobre 80...,S/ 6 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,6.0
-Botella 800ml,Detergente Líquido Concentrado ARIEL Doble Pod...,S/ 19.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,800.0,ml,19.5
-Bolsa 500g,Papa Sazonada en Gajos AVIKO Bolsa 500g,S/ 6.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,6.9
-Frasco 160ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 1.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,160.0,ml,1.8
-Paquete 4un,Sazonador AJINOMIX para Chifa Paquete 4un,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,2.2
-Pack 2un,Pack Detergente Líquido ARIEL Concentrado Galo...,S/ 89.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,89.8
-Botella 700ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 8.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,700.0,ml,8.9
-Paquete 4un,Sazonador AJINOMIX Ablanda Sazón Bolsa 44g Paq...,S/ 3.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,3.2
-Frasco 340.2g,Sazonador BADIA Sazón Completa Frasco 340.2g,S/ 26.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,340.2,g,26.9
-Pack 2un,Pack Detergente en Polvo ARIEL Pro Cuidado 2 k...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,43.9
-Bolsa 500g,Sazonador NAKAMITO Glutamato de sodio Bolsa 50...,S/ 7.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,7.5
-Botella 390g,Bebida de Almendras Concentrada LAIVE Botella ...,S/ 6.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,390.0,g,6.5
-Frasco 30ml,Serúm NEUTROGENA Hydro Boost Concentrado Frasc...,S/ 67.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,30.0,ml,67.9
-Sobre 24g,Sazonador SIBARITA Ajos Sobre 24g,S/ 1.79 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,24.0,g,1.79
-Pack 2un,Pack Detergente en Polvo ARIEL Revitacolor 2 k...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,43.9
-Botella 1.8L,Detergente Líquido ARIEL Concentrado Botella 1...,S/ 44.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.8,l,44.5
-Sobre 31.2g,Sazonador SIBARITA Amarillin Salsa de Ají Sobr...,S/ 1.60 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,31.2,g,1.6
-Frasco 64g,Sazonador de Pop Corn COSTEÑO Sabor a Queso F...,S/ 11.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,64.0,g,11.2
-Paquete 6un,Sazonador Ají Panca BELL'S Paquete 6un,S/ 2.09 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,2.09
-Botella 500ml,Detergente Líquido Concentrado PIGEON para Rop...,S/ 39.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,ml,39.9
-Frasco 80g,Salsa SIBARITA Sazonador Frasco 80g,S/ 5.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,5.8
-Pack 2un,Pack Detergente Polvo ARIEL Regular Bolsa 2Kg ...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,43.9
-Lata 210g,Concentrado de Tomate MUTTI Lata 210g,S/ 13.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,210.0,g,13.5
-Frasco 65g,Sazonador Pop Corn BELL'S Sabor a Caramelo Fra...,S/ 10.30 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,65.0,g,10.3
-Pack 2un,Pack Detergente Líquido ARIEL Doble Poder Doyp...,S/ 73.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,73.9
-Bolsa 100g,Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,S/ 1.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,100.0,g,1.9
-Pack 4un,Pack Detergente Líquido ARIEL Doble Poder Doyp...,S/ 111.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,111.9
-Frasco 35.4g,Sazonador BADIA Italiano Frasco 35.4g,S/ 20.30 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,35.4,g,20.3
-Pack 2un,Detergente en Polvo ARIEL Pro Cuidado 2.8kg + ...,S/ 54 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,54.0
-Bolsa 250g,Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,S/ 4.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,250.0,g,4.1
-Frasco 80g,Sazonador Pop Corn BELL'S Sabor a Mantequilla ...,S/ 10.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,10.2
-Tubo 70ml,Tratamiento Concentrado Capilar KATIVA Total P...,S/ 29.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,70.0,ml,29.9
-Caja 130ml,Kit Reconstrucción KATIVA Total Plex Sellante ...,S/ 49.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,130.0,ml,49.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Caja 42g,Caldo de Gallina DOÑA GUSTA Concentrado en Pol...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,42.0,g,Caldo de Gallina DOÑA GUSTA Concentrado en Pol,2.2
+Caja 42g,Caldo de Carne DOÑA GUSTA Concentrado en Polvo...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,42.0,g,Caldo de Carne DOÑA GUSTA Concentrado en Polvo,2.2
+Frasco 500ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 4.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B,4.2
+Paquete 6un,Sazonador AJINOMIX Deli Arroz Paquete 6un,S/ 1.70 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,Sazonador AJINOMIX Deli Arroz Paquete,1.7
+Bolsa 250g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 6.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,250.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,6.1
+Bolsa 100g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 2.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,100.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,2.9
+Doypack 1.2L,Detergente Líquido ARIEL Doble Poder Concentra...,S/ 24.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.2,l,Detergente Líquido ARIEL Doble Poder Concentra,24.9
+Galonera 3L,Detergente líquido ARIEL Concentrado Galonera ...,S/ 51.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,3.0,l,Detergente líquido ARIEL Concentrado Galonera,51.9
+Doypack 110g,Concentrado de Tomate POMAROLA Doypack 110g,S/ 1.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,110.0,g,Concentrado de Tomate POMAROLA Doypack,1.8
+Bolsa 6un,Sazonador SIBARITA Sobre 57g Bolsa 6un,S/ 2.60 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,Sazonador SIBARITA Sobre  Bolsa,2.6
+Doypack 1.2L,Detergente Líquido ARIEL Concentrado con Downy...,S/ 24.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.2,l,Detergente Líquido ARIEL Concentrado con Downy,24.9
+Bolsa 500g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 11.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,11.1
+Botella 4800ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 39.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4800.0,ml,Suavizante Concentrado Líquido DOWNY Amanecer,39.9
+Caja 400g,Alitas Sazonadas Buffalo Wings REDONDOS Caja 4...,S/ 14.40 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,400.0,g,Alitas Sazonadas Buffalo Wings REDONDOS Caja 4,14.4
+Botella 1400ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 13.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1400.0,ml,Suavizante Concentrado Líquido DOWNY Amanecer,13.9
+Caja 6un,Caldo de Tocino DOÑA GUSTA concentrado en Polv...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,Caldo de Tocino DOÑA GUSTA concentrado en Polv,2.2
+Caja 6un,Concentrado en Polvo DOÑA GUSTA caldo sabor a ...,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,Concentrado en Polvo DOÑA GUSTA caldo sabor a,2.2
+Botella 2800ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 25.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2800.0,ml,Suavizante Concentrado Líquido DOWNY Amanecer,25.9
+Sobre 32.4g,Salsa SIBARITA Sazonador sin picante Sobre 32....,S/ 1.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,32.4,g,Salsa SIBARITA Sazonador sin picante Sobre 32,1.1
+Pack 2un,Pack Detergente Líquido ARIEL Pro Cuidado 3L +...,S/ 91.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente Líquido ARIEL Pro Cuidado  +,91.8
+Frasco 81g,Sazonador Pops COSTEÑO de Pop Corn Sabor Mante...,S/ 10.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,81.0,g,Sazonador Pops COSTEÑO de Pop Corn Sabor Mante,10.9
+Pack 2un,Pack Suavizante Concentrado Líquido DOWNY Aman...,S/ 44.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Suavizante Concentrado Líquido DOWNY Aman,44.8
+Frasco 350ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 3.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,350.0,ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B,3.2
+Frasco 99.2g,Sazonador BADIA Completo Frasco 99.20Gr,S/ 9.70 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,99.2,g,Sazonador BADIA Completo Frasco r,9.7
+Sobre 80g,Sazonador Palillo Amarillito SIBARITA Sobre 80...,S/ 6 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,Sazonador Palillo Amarillito SIBARITA Sobre 80,6.0
+Botella 800ml,Detergente Líquido Concentrado ARIEL Doble Pod...,S/ 19.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,800.0,ml,Detergente Líquido Concentrado ARIEL Doble Pod,19.5
+Bolsa 500g,Papa Sazonada en Gajos AVIKO Bolsa 500g,S/ 6.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,Papa Sazonada en Gajos AVIKO Bolsa,6.9
+Frasco 160ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B...,S/ 1.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,160.0,ml,Salsa de Soya KIKKO Siyau Sazonador Oriental B,1.8
+Paquete 4un,Sazonador AJINOMIX para Chifa Paquete 4un,S/ 2.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,Sazonador AJINOMIX para Chifa Paquete,2.2
+Pack 2un,Pack Detergente Líquido ARIEL Concentrado Galo...,S/ 89.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente Líquido ARIEL Concentrado Galo,89.8
+Botella 700ml,Suavizante Concentrado Líquido DOWNY Amanecer ...,S/ 8.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,700.0,ml,Suavizante Concentrado Líquido DOWNY Amanecer,8.9
+Paquete 4un,Sazonador AJINOMIX Ablanda Sazón Bolsa 44g Paq...,S/ 3.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,Sazonador AJINOMIX Ablanda Sazón Bolsa  Paq,3.2
+Frasco 340.2g,Sazonador BADIA Sazón Completa Frasco 340.2g,S/ 26.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,340.2,g,Sazonador BADIA Sazón Completa Frasco,26.9
+Pack 2un,Pack Detergente en Polvo ARIEL Pro Cuidado 2 k...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente en Polvo ARIEL Pro Cuidado 2 k,43.9
+Bolsa 500g,Sazonador NAKAMITO Glutamato de sodio Bolsa 50...,S/ 7.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,g,Sazonador NAKAMITO Glutamato de sodio Bolsa 50,7.5
+Botella 390g,Bebida de Almendras Concentrada LAIVE Botella ...,S/ 6.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,390.0,g,Bebida de Almendras Concentrada LAIVE Botella,6.5
+Frasco 30ml,Serúm NEUTROGENA Hydro Boost Concentrado Frasc...,S/ 67.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,30.0,ml,Serúm NEUTROGENA Hydro Boost Concentrado Frasc,67.9
+Sobre 24g,Sazonador SIBARITA Ajos Sobre 24g,S/ 1.79 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,24.0,g,Sazonador SIBARITA Ajos Sobre,1.79
+Pack 2un,Pack Detergente en Polvo ARIEL Revitacolor 2 k...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente en Polvo ARIEL Revitacolor 2 k,43.9
+Botella 1.8L,Detergente Líquido ARIEL Concentrado Botella 1...,S/ 44.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,1.8,l,Detergente Líquido ARIEL Concentrado Botella 1,44.5
+Sobre 31.2g,Sazonador SIBARITA Amarillin Salsa de Ají Sobr...,S/ 1.60 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,31.2,g,Sazonador SIBARITA Amarillin Salsa de Ají Sobr,1.6
+Frasco 64g,Sazonador de Pop Corn COSTEÑO Sabor a Queso F...,S/ 11.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,64.0,g,Sazonador de Pop Corn COSTEÑO Sabor a Queso F,11.2
+Paquete 6un,Sazonador Ají Panca BELL'S Paquete 6un,S/ 2.09 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,6.0,un,Sazonador Ají Panca BELL'S Paquete,2.09
+Botella 500ml,Detergente Líquido Concentrado PIGEON para Rop...,S/ 39.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,500.0,ml,Detergente Líquido Concentrado PIGEON para Rop,39.9
+Frasco 80g,Salsa SIBARITA Sazonador Frasco 80g,S/ 5.80 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,Salsa SIBARITA Sazonador Frasco,5.8
+Pack 2un,Pack Detergente Polvo ARIEL Regular Bolsa 2Kg ...,S/ 43.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente Polvo ARIEL Regular Bolsa,43.9
+Lata 210g,Concentrado de Tomate MUTTI Lata 210g,S/ 13.50 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,210.0,g,Concentrado de Tomate MUTTI Lata,13.5
+Frasco 65g,Sazonador Pop Corn BELL'S Sabor a Caramelo Fra...,S/ 10.30 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,65.0,g,Sazonador Pop Corn BELL'S Sabor a Caramelo Fra,10.3
+Pack 2un,Pack Detergente Líquido ARIEL Doble Poder Doyp...,S/ 73.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Pack Detergente Líquido ARIEL Doble Poder Doyp,73.9
+Bolsa 100g,Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,S/ 1.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,100.0,g,Sazonador Glutamato Monosódico NAKAMITO Bolsa,1.9
+Pack 4un,Pack Detergente Líquido ARIEL Doble Poder Doyp...,S/ 111.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,4.0,un,Pack Detergente Líquido ARIEL Doble Poder Doyp,111.9
+Frasco 35.4g,Sazonador BADIA Italiano Frasco 35.4g,S/ 20.30 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,35.4,g,Sazonador BADIA Italiano Frasco,20.3
+Pack 2un,Detergente en Polvo ARIEL Pro Cuidado 2.8kg + ...,S/ 54 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,2.0,un,Detergente en Polvo ARIEL Pro Cuidado  +,54.0
+Bolsa 250g,Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,S/ 4.10 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,250.0,g,Sazonador Glutamato Monosódico NAKAMITO Bolsa,4.1
+Frasco 80g,Sazonador Pop Corn BELL'S Sabor a Mantequilla ...,S/ 10.20 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,80.0,g,Sazonador Pop Corn BELL'S Sabor a Mantequilla,10.2
+Tubo 70ml,Tratamiento Concentrado Capilar KATIVA Total P...,S/ 29.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,70.0,ml,Tratamiento Concentrado Capilar KATIVA Total P,29.9
+Caja 130ml,Kit Reconstrucción KATIVA Total Plex Sellante ...,S/ 49.90 un,plaza_vea,SAZONADORES CONCENTRADOS,2024-12-04 14:30:08.306409,130.0,ml,Kit Reconstrucción KATIVA Total Plex Sellante,49.9

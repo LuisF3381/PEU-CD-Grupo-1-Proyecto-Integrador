@@ -1,49 +1,49 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Carne Molida Light EL BUEN CORTE x kg,EL BUEN CORTE,S/ 36.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,36.5
-Carne Molida EL BUEN CORTE x kg,EL BUEN CORTE,S/ 25.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,25.0
-Carne Molida de Pavita x 500g,VIVANDA,S/ 15.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,15.9
-Carne Molida de Cerdo SAN FERNANDO Paquete 500g,SAN FERNANDO,S/ 15.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,15.5
-Carne para Lomo Saltado EL BUEN CORTE x kg,EL BUEN CORTE,S/ 45.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,45.0
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,120.1
-"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa 8kg",DOG CHOW,S/ 124.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,124.8
-"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 3kg",DOG CHOW,S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,44.6
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,120.1
-Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,44.6
-Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa 1Kg,RICOCAT,S/ 14.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,14.5
-Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 2Kg,PURINA ONE,S/ 78.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,2.0,kg,78.8
-Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa 2Kg,PURINA ONE,S/ 61.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,2.0,kg,61.1
-Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch 85g,FELIX,S/ 4.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,85.0,g,4.8
-Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa 6kg,ONE,S/ 187.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,6.0,kg,187.5
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 1.5kg,DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,24.5
-Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,120.6
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,58.8
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,58.8
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 1.5kg,DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,24.5
-"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 1.5kg",DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,24.5
-Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa 3Kg,RICOCAN,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,42.6
-Comida para Perros DOG CHOW Adultos Cena de Carne Pouch 100g,DOG CHOW,S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,4.9
-"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch 100g",DOG CHOW,S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,4.9
-Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa 3Kg,RICOCAN,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,42.6
-Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa 8Kg,RICOCAN,S/ 76.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,76.9
-Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa 9Kg,RICOCAT,S/ 99.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,9.0,kg,99.0
-Comida para Perros RICOCAN Adultos Paté con Carne Lata 330g,RICOCAN,S/ 5.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,330.0,g,5.9
-Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 500g,PURINA ONE,S/ 26.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,26.2
-Lunch Picante de Carne con Arroz LA FLORENCIA 450g,LA FLORENCIA,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,450.0,g,10.9
-Pimienta BADIA Negra molida Frasco 56.7Gr,BADIA,S/ 9.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,56.7,g,9.9
-Empanada de Carne LA FLORENCIA Paquete 4un,LA FLORENCIA,S/ 13.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,4.0,un,13.2
-Pimienta Negra Molida BELL'S Sobre 15g,BELL'S,S/ 2.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,15.0,g,2.5
-Pimienta KARIÑO Negra molida Frasco 40Gr,KARINO,S/ 6.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,40.0,g,6.99
-Salsa de Carne DON ITALO Pote 250g,DON ITALO,S/ 19.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,250.0,g,19.7
-Hamburguesa de Carne La Casera SAN FERNANDO Bolsa 910g,SAN FERNANDO,S/ 12.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,910.0,g,12.6
-Ravioles de Carne y Verdura BELL'S Paquete 500g,BELL'S,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,10.9
-Caldo en cubitos MAGGI Sabor carne Caja 75.2Gr,MAGGI,S/ 4.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,75.2,g,4.5
-Pimienta Negra Molida 4 ESTACIONES Frasco 35g,4ESTACIONES,S/ 4.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,35.0,g,4.99
-Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja 42g,DOÑA GUSTA,S/ 2.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,42.0,g,2.2
-Empanada de Carne LA FLORENCIA 1un,LA FLORENCIA,S/ 3.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,un,3.7
-Sopa Instántanea AJINOMEN Sabor a Carne Bolsa 80g,AJINOMEN,S/ 1.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,80.0,g,1.6
-Canela Molida KARIÑO Sobre 12g,KARINO,S/ 4.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,12.0,g,4.2
-Caldo MAGGI Cubito Sabor Carne 100g Paquete 25un,MAGGI,S/ 5.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,5.5
-Hamburguesa BEST MEATS Carne Angus Caja 4un,BEST MEATS,S/ 60.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,4.0,un,60.0
-Ravioles de Carne LA FLORENCIA 24un,LA FLORENCIA,S/ 14.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,24.0,un,14.2
-Lasagna DON ITALO de Carne Caja 1Kg,DON ITALO,S/ 58.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,58.2
-Ravioles DON ITALO De carne Bandeja 500Gr,DON ITALO,S/ 32.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,32.5
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Carne Molida Light EL BUEN CORTE x kg,EL BUEN CORTE,S/ 36.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,Carne Molida Light EL BUEN CORTE,36.5
+Carne Molida EL BUEN CORTE x kg,EL BUEN CORTE,S/ 25.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,Carne Molida EL BUEN CORTE,25.0
+Carne Molida de Pavita x 500g,VIVANDA,S/ 15.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,Carne Molida de Pavita x,15.9
+Carne Molida de Cerdo SAN FERNANDO Paquete 500g,SAN FERNANDO,S/ 15.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,Carne Molida de Cerdo SAN FERNANDO Paquete,15.5
+Carne para Lomo Saltado EL BUEN CORTE x kg,EL BUEN CORTE,S/ 45.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,Carne para Lomo Saltado EL BUEN CORTE,45.0
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,120.1
+"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa 8kg",DOG CHOW,S/ 124.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa",124.8
+"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 3kg",DOG CHOW,S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa",44.6
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,120.1
+Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa,44.6
+Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa 1Kg,RICOCAT,S/ 14.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa,14.5
+Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 2Kg,PURINA ONE,S/ 78.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,2.0,kg,Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa,78.8
+Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa 2Kg,PURINA ONE,S/ 61.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,2.0,kg,Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa,61.1
+Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch 85g,FELIX,S/ 4.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,85.0,g,Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch,4.8
+Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa 6kg,ONE,S/ 187.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,6.0,kg,Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa,187.5
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 1.5kg,DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,24.5
+Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 8kg,DOG CHOW,S/ 120.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa,120.6
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,58.8
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 3kg,DOG CHOW,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,58.8
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 1.5kg,DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,24.5
+"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 1.5kg",DOG CHOW,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.5,kg,"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa",24.5
+Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa 3Kg,RICOCAN,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa,42.6
+Comida para Perros DOG CHOW Adultos Cena de Carne Pouch 100g,DOG CHOW,S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,Comida para Perros DOG CHOW Adultos Cena de Carne Pouch,4.9
+"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch 100g",DOG CHOW,S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch",4.9
+Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa 3Kg,RICOCAN,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,3.0,kg,Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa,42.6
+Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa 8Kg,RICOCAN,S/ 76.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,8.0,kg,Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa,76.9
+Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa 9Kg,RICOCAT,S/ 99.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,9.0,kg,Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa,99.0
+Comida para Perros RICOCAN Adultos Paté con Carne Lata 330g,RICOCAN,S/ 5.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,330.0,g,Comida para Perros RICOCAN Adultos Paté con Carne Lata,5.9
+Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 500g,PURINA ONE,S/ 26.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa,26.2
+Lunch Picante de Carne con Arroz LA FLORENCIA 450g,LA FLORENCIA,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,450.0,g,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9
+Pimienta BADIA Negra molida Frasco 56.7Gr,BADIA,S/ 9.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,56.7,g,Pimienta BADIA Negra molida Frasco r,9.9
+Empanada de Carne LA FLORENCIA Paquete 4un,LA FLORENCIA,S/ 13.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,4.0,un,Empanada de Carne LA FLORENCIA Paquete,13.2
+Pimienta Negra Molida BELL'S Sobre 15g,BELL'S,S/ 2.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,15.0,g,Pimienta Negra Molida BELL'S Sobre,2.5
+Pimienta KARIÑO Negra molida Frasco 40Gr,KARINO,S/ 6.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,40.0,g,Pimienta KARIÑO Negra molida Frasco r,6.99
+Salsa de Carne DON ITALO Pote 250g,DON ITALO,S/ 19.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,250.0,g,Salsa de Carne DON ITALO Pote,19.7
+Hamburguesa de Carne La Casera SAN FERNANDO Bolsa 910g,SAN FERNANDO,S/ 12.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,910.0,g,Hamburguesa de Carne La Casera SAN FERNANDO Bolsa,12.6
+Ravioles de Carne y Verdura BELL'S Paquete 500g,BELL'S,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,Ravioles de Carne y Verdura BELL'S Paquete,10.9
+Caldo en cubitos MAGGI Sabor carne Caja 75.2Gr,MAGGI,S/ 4.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,75.2,g,Caldo en cubitos MAGGI Sabor carne Caja r,4.5
+Pimienta Negra Molida 4 ESTACIONES Frasco 35g,4ESTACIONES,S/ 4.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,35.0,g,Pimienta Negra Molida 4 ESTACIONES Frasco,4.99
+Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja 42g,DOÑA GUSTA,S/ 2.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,42.0,g,Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja,2.2
+Empanada de Carne LA FLORENCIA 1un,LA FLORENCIA,S/ 3.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,un,Empanada de Carne LA FLORENCIA,3.7
+Sopa Instántanea AJINOMEN Sabor a Carne Bolsa 80g,AJINOMEN,S/ 1.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,80.0,g,Sopa Instántanea AJINOMEN Sabor a Carne Bolsa,1.6
+Canela Molida KARIÑO Sobre 12g,KARINO,S/ 4.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,12.0,g,Canela Molida KARIÑO Sobre,4.2
+Caldo MAGGI Cubito Sabor Carne 100g Paquete 25un,MAGGI,S/ 5.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,100.0,g,Caldo MAGGI Cubito Sabor Carne  Paquete,5.5
+Hamburguesa BEST MEATS Carne Angus Caja 4un,BEST MEATS,S/ 60.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,4.0,un,Hamburguesa BEST MEATS Carne Angus Caja,60.0
+Ravioles de Carne LA FLORENCIA 24un,LA FLORENCIA,S/ 14.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,24.0,un,Ravioles de Carne LA FLORENCIA,14.2
+Lasagna DON ITALO de Carne Caja 1Kg,DON ITALO,S/ 58.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,1.0,kg,Lasagna DON ITALO de Carne Caja,58.2
+Ravioles DON ITALO De carne Bandeja 500Gr,DON ITALO,S/ 32.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-04 17:24:12.071870,500.0,g,Ravioles DON ITALO De carne Bandeja r,32.5

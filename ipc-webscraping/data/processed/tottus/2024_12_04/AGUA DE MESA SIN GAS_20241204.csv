@@ -1,25 +1,25 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Agua de mesa sin gas bidón 7 L,S/ 5.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,5.9
-TOTTUS,Agua De Mesa Sin Gas Caja 20 L,S/ 19.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,19.5
-SAN CARLOS,Agua mineral sin gas en bidón de 20 L,S/ 19.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,19.2
-SAN LUIS,AGUA MESA SIN GAS BOTELLA X 1L,S/ 2.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,1.0,l,2.5
-SAN LUIS,AGUA MESA SIN GAS BOTELLA X 750ML,S/ 1.80,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,750.0,ml,1.8
-CIELO,Agua Mineral sin gas Bidón 20 L,S/ 23.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,23.9
-SAN LUIS,2X Agua Sin Gas Bidon 20L,S/ 51,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,51.0
-SAN MATEO,Agua Mineral Sin Gas 2.5 L,S/ 3.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,3.9
-SAN LUIS,Agua Mineral sin gas 7 L,S/ 7.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,7.5
-SAN LUIS,Pack de Agua sin Gas de 15 unidades,S/ 17.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,15.0,un,17.9
-SAN CARLOS,Sin gas 20 unidades de 500 mL,S/ 12.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,un,12.9
-SAN LUIS,Pack de Agua Sin Gas 6 Unidades 2.5 L,S/ 14.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,14.9
-SAN CARLOS,Agua mineral sin gas de 3 L,S/ 3.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,3.0,l,3.9
-SAN LUIS,Agua Mineral sin gas 20 L,S/ 24.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,24.5
-SAN LUIS,Six Pack Agua sin gas de 750 mL,S/ 8.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,750.0,ml,8.5
-SAN MATEO,Agua Mineral Sin Gas 7 L,S/ 8.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,8.9
-CIELO,Agua Mineral sin gas 2.5 L,S/ 2.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,2.9
-CIELO,Agua Mineral sin gas Bidón Descartable 7 L,S/ 6.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,6.9
-CIELO,Agua Mineral sin gas 625 mL,S/ 1.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,625.0,ml,1.5
-SAN MATEO,Agua Mineral Sin Gas 600 mL,S/ 2.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,600.0,ml,2.2
-SAN LUIS,Agua Mineral sin gas 2.5 L,S/ 3.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,3.2
-CIELO,Agua Mineral sin gas Pack 6 Unidades 625 mL,S/ 6.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,6.9
-SAN MATEO,Agua sin gas Pack 6 Unidades 600 mL,S/ 11.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,11.2
-CIELO,Agua Mineral sin gas con Tapa Deportiva 1 L,S/ 2.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,1.0,l,2.5
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Agua de mesa sin gas bidón 7 L,S/ 5.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,Agua de mesa sin gas bidón,5.9
+TOTTUS,Agua De Mesa Sin Gas Caja 20 L,S/ 19.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,Agua De Mesa Sin Gas Caja,19.5
+SAN CARLOS,Agua mineral sin gas en bidón de 20 L,S/ 19.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,Agua mineral sin gas en bidón de,19.2
+SAN LUIS,AGUA MESA SIN GAS BOTELLA X 1L,S/ 2.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,1.0,l,AGUA MESA SIN GAS BOTELLA X,2.5
+SAN LUIS,AGUA MESA SIN GAS BOTELLA X 750ML,S/ 1.80,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,750.0,ml,AGUA MESA SIN GAS BOTELLA X,1.8
+CIELO,Agua Mineral sin gas Bidón 20 L,S/ 23.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,Agua Mineral sin gas Bidón,23.9
+SAN LUIS,2X Agua Sin Gas Bidon 20L,S/ 51,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,2X Agua Sin Gas Bidon,51.0
+SAN MATEO,Agua Mineral Sin Gas 2.5 L,S/ 3.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,Agua Mineral Sin Gas,3.9
+SAN LUIS,Agua Mineral sin gas 7 L,S/ 7.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,Agua Mineral sin gas,7.5
+SAN LUIS,Pack de Agua sin Gas de 15 unidades,S/ 17.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,15.0,un,Pack de Agua sin Gas de ades,17.9
+SAN CARLOS,Sin gas 20 unidades de 500 mL,S/ 12.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,un,Sin gas ades de,12.9
+SAN LUIS,Pack de Agua Sin Gas 6 Unidades 2.5 L,S/ 14.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,Pack de Agua Sin Gas ades,14.9
+SAN CARLOS,Agua mineral sin gas de 3 L,S/ 3.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,3.0,l,Agua mineral sin gas de,3.9
+SAN LUIS,Agua Mineral sin gas 20 L,S/ 24.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,20.0,l,Agua Mineral sin gas,24.5
+SAN LUIS,Six Pack Agua sin gas de 750 mL,S/ 8.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,750.0,ml,Six Pack Agua sin gas de,8.5
+SAN MATEO,Agua Mineral Sin Gas 7 L,S/ 8.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,Agua Mineral Sin Gas,8.9
+CIELO,Agua Mineral sin gas 2.5 L,S/ 2.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,Agua Mineral sin gas,2.9
+CIELO,Agua Mineral sin gas Bidón Descartable 7 L,S/ 6.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,7.0,l,Agua Mineral sin gas Bidón Descartable,6.9
+CIELO,Agua Mineral sin gas 625 mL,S/ 1.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,625.0,ml,Agua Mineral sin gas,1.5
+SAN MATEO,Agua Mineral Sin Gas 600 mL,S/ 2.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,600.0,ml,Agua Mineral Sin Gas,2.2
+SAN LUIS,Agua Mineral sin gas 2.5 L,S/ 3.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,2.5,l,Agua Mineral sin gas,3.2
+CIELO,Agua Mineral sin gas Pack 6 Unidades 625 mL,S/ 6.90,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,Agua Mineral sin gas Pack ades,6.9
+SAN MATEO,Agua sin gas Pack 6 Unidades 600 mL,S/ 11.20,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,6.0,un,Agua sin gas Pack ades,11.2
+CIELO,Agua Mineral sin gas con Tapa Deportiva 1 L,S/ 2.50,tottus,AGUA DE MESA SIN GAS,2024-12-04 14:00:35.589378,1.0,l,Agua Mineral sin gas con Tapa Deportiva,2.5

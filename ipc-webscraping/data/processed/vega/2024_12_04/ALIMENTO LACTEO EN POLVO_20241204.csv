@@ -1,11 +1,11 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Milo,Alimento Granulado MILO Activ - Go Doypack 350g,S/ 13.90 7%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,350.0,g,13.9
-Milo,Alimento Granulado MILO Activ - Go Doypack 190g,S/ 10.50 4%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,190.0,g,10.5
-Milo,Alimento Granulado MILO Activ-go Lata 380gr,S/ 19.20 4%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,380.0,g,19.2
-Milo,Alimento Granulado MILO Activ - Go Lata 940g,S/ 42.60,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,940.0,g,42.6
-CAT CHOW,Alimento Húmedo para Gatos CAT CHOW Esterilizados Pescado Pouch 85g x2u,S/ 10.40,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,85.0,g,10.4
-Dog Chow,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack 100g x3u,S/ 9.90 28%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,100.0,g,9.9
-Super Can,Alimento Húmedo para Perros SUPER CAN Adultos Guiso en salsa Cordero Lata 290g x2u,S/ 12.00,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,290.0,g,12.0
-Dog Chow,Alimento Húmedo para Perros DOG CHOW Adultos Cordero Doypack 100g x3u,S/ 9.90 28%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,100.0,g,9.9
-Dog Chow,Alimento Húmedo para Perros DOG CHOW High Protein Chicken Lata 368g x2u,S/ 15.90 31%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,368.0,g,15.9
-FELIX,Alimento Húmedo para Gatos FELIX Paté de Salmón Lata 156g x2u,S/ 14.00,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,156.0,g,14.0
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Milo,Alimento Granulado MILO Activ - Go Doypack 350g,S/ 13.90 7%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,350.0,g,Alimento Granulado MILO Activ - Go Doypack,13.9
+Milo,Alimento Granulado MILO Activ - Go Doypack 190g,S/ 10.50 4%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,190.0,g,Alimento Granulado MILO Activ - Go Doypack,10.5
+Milo,Alimento Granulado MILO Activ-go Lata 380gr,S/ 19.20 4%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,380.0,g,Alimento Granulado MILO Activ-go Lata r,19.2
+Milo,Alimento Granulado MILO Activ - Go Lata 940g,S/ 42.60,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,940.0,g,Alimento Granulado MILO Activ - Go Lata,42.6
+CAT CHOW,Alimento Húmedo para Gatos CAT CHOW Esterilizados Pescado Pouch 85g x2u,S/ 10.40,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,85.0,g,Alimento Húmedo para Gatos CAT CHOW Esterilizados Pescado Pouch  x2u,10.4
+Dog Chow,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack 100g x3u,S/ 9.90 28%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,100.0,g,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack  x3u,9.9
+Super Can,Alimento Húmedo para Perros SUPER CAN Adultos Guiso en salsa Cordero Lata 290g x2u,S/ 12.00,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,290.0,g,Alimento Húmedo para Perros SUPER CAN Adultos Guiso en salsa Cordero Lata  x2u,12.0
+Dog Chow,Alimento Húmedo para Perros DOG CHOW Adultos Cordero Doypack 100g x3u,S/ 9.90 28%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,100.0,g,Alimento Húmedo para Perros DOG CHOW Adultos Cordero Doypack  x3u,9.9
+Dog Chow,Alimento Húmedo para Perros DOG CHOW High Protein Chicken Lata 368g x2u,S/ 15.90 31%,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,368.0,g,Alimento Húmedo para Perros DOG CHOW High Protein Chicken Lata  x2u,15.9
+FELIX,Alimento Húmedo para Gatos FELIX Paté de Salmón Lata 156g x2u,S/ 14.00,vega,ALIMENTO LACTEO EN POLVO,2024-12-04 13:42:35.875830,156.0,g,Alimento Húmedo para Gatos FELIX Paté de Salmón Lata  x2u,14.0

@@ -1,10 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
-Apio Atado,S/ 1.89 un,plaza_vea,APIO,2024-12-04 14:01:17.619108,1.0,un,1.89,plaza_vea,Paquete 1un,,APIO
-Apio Atado x un,S/ 1.89,vivanda,APIO,2024-12-04 17:52:24.129259,1.0,un,1.89,vivanda,,VIVANDA,APIO
-Bastones de Apio BELL'S FRESCOS 250g,S/ 3.99,vivanda,APIO,2024-12-04 17:52:24.129259,250.0,g,3.99,vivanda,,BELL'S FRESCOS,APIO
-Bastones de Apio y Zanahoría BELL'S FRESCOS 250g,S/ 3.99,vivanda,APIO,2024-12-04 17:52:24.129259,250.0,g,3.99,vivanda,,BELL'S FRESCOS,APIO
-Apio en Bastones Ecologic 200g,S/ 4.20,wong,APIO,2024-12-04 19:41:56.627172,200.0,g,4.2,wong,,,APIO
-Apio Hipodrónico Ecologic x un,S/ 6.30,metro,APIO,2024-12-04 21:39:00.066093,1.0,un,6.3,metro,,,APIO
-Semillas de Apio en sobre 0.5 gr,S/ 7.40,tottus,APIO,2024-12-04 13:35:26.431802,0.5,g,7.4,tottus,,HORTUS,APIO
-Apio Prelavado Viva 300g,S/ 7.50,metro,APIO,2024-12-04 21:39:00.066093,300.0,g,7.5,metro,,,APIO
-Apio VIVA x un,S/ 7.59 un,plaza_vea,APIO,2024-12-04 14:01:17.619108,1.0,un,7.59,plaza_vea,Paquete 1un,,APIO
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Apio Atado,S/ 1.89 un,plaza_vea,APIO,2024-12-04 14:01:17.619108,1.0,un,Apio Atado,1.89,plaza_vea,Paquete 1un,,APIO
+Apio Atado x un,S/ 1.89,vivanda,APIO,2024-12-04 17:52:24.129259,1.0,un,Apio Atado,1.89,vivanda,,VIVANDA,APIO
+Bastones de Apio BELL'S FRESCOS 250g,S/ 3.99,vivanda,APIO,2024-12-04 17:52:24.129259,250.0,g,Bastones de Apio BELL'S FRESCOS,3.99,vivanda,,BELL'S FRESCOS,APIO
+Bastones de Apio y Zanahoría BELL'S FRESCOS 250g,S/ 3.99,vivanda,APIO,2024-12-04 17:52:24.129259,250.0,g,Bastones de Apio y Zanahoría BELL'S FRESCOS,3.99,vivanda,,BELL'S FRESCOS,APIO
+Apio en Bastones Ecologic 200g,S/ 4.20,wong,APIO,2024-12-04 19:41:56.627172,200.0,g,Apio en Bastones Ecologic,4.2,wong,,,APIO
+Apio Hipodrónico Ecologic x un,S/ 6.30,metro,APIO,2024-12-04 21:39:00.066093,1.0,un,Apio Hipodrónico Ecologic,6.3,metro,,,APIO
+Semillas de Apio en sobre 0.5 gr,S/ 7.40,tottus,APIO,2024-12-04 13:35:26.431802,0.5,g,Semillas de Apio en sobre r,7.4,tottus,,HORTUS,APIO
+Apio VIVA x un,S/ 7.59 un,plaza_vea,APIO,2024-12-04 14:01:17.619108,1.0,un,Apio VIVA,7.59,plaza_vea,Paquete 1un,,APIO

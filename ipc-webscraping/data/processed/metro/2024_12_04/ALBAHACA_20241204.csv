@@ -1,7 +1,7 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Albahaca Ecologic 120g,S/ 4.80,metro,ALBAHACA,2024-12-04 22:02:59.243492,120.0,g,4.8
-Albahaca Hidropónica 80g,S/ 3.00,metro,ALBAHACA,2024-12-04 22:02:59.243492,80.0,g,3.0
-Concentrado de Espinaca y Albahaca Pomarola 110g,S/ 3.50,metro,ALBAHACA,2024-12-04 22:02:59.243492,110.0,g,3.5
-Nachos Horneados Sanissimo Sabor Tomate y Albahaca 160g,S/ 9.90,metro,ALBAHACA,2024-12-04 22:02:59.243492,160.0,g,9.9
-Palitos con Albahaca Edith 55g,S/ 3.30,metro,ALBAHACA,2024-12-04 22:02:59.243492,55.0,g,3.3
-"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",S/ 8.10,metro,ALBAHACA,2024-12-04 22:02:59.243492,115.0,g,8.1
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Albahaca Ecologic 120g,S/ 4.80,metro,ALBAHACA,2024-12-04 22:02:59.243492,120.0,g,Albahaca Ecologic,4.8
+Albahaca Hidropónica 80g,S/ 3.00,metro,ALBAHACA,2024-12-04 22:02:59.243492,80.0,g,Albahaca Hidropónica,3.0
+Concentrado de Espinaca y Albahaca Pomarola 110g,S/ 3.50,metro,ALBAHACA,2024-12-04 22:02:59.243492,110.0,g,Concentrado de Espinaca y Albahaca Pomarola,3.5
+Nachos Horneados Sanissimo Sabor Tomate y Albahaca 160g,S/ 9.90,metro,ALBAHACA,2024-12-04 22:02:59.243492,160.0,g,Nachos Horneados Sanissimo Sabor Tomate y Albahaca,9.9
+Palitos con Albahaca Edith 55g,S/ 3.30,metro,ALBAHACA,2024-12-04 22:02:59.243492,55.0,g,Palitos con Albahaca Edith,3.3
+"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",S/ 8.10,metro,ALBAHACA,2024-12-04 22:02:59.243492,115.0,g,"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva",8.1

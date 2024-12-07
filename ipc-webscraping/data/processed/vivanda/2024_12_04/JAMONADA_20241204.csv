@@ -1,7 +1,7 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Jamonada Polaca CASA EUROPA Paquete 200g,CASA EUROPA,S/ 10.00,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,10.0
-Jamonada Polaca OTTO KUNZ Paquete 180g,OTTO KUNZ,S/ 8.49,vivanda,JAMONADA,2024-12-04 17:29:21.709452,180.0,g,8.49
-Jamonada Especial SALCHICHERÍA ALEMANA Paquete 200g,SALCHICHERÍA ALEMANA,S/ 7.30,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,7.3
-Jamonada de Pavita SAN FERNANDO Paquete 85g,SAN FERNANDO,S/ 2.30,vivanda,JAMONADA,2024-12-04 17:29:21.709452,85.0,g,2.3
-Jamonada Polaca SALCHICHERÍA ALEMANA Paquete 200g,SALCHICHERÍA ALEMANA,S/ 7.70,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,7.7
-Pack Jamonada Especial SUIZA Paquete 400g,LAIVE,S/ 10.90,vivanda,JAMONADA,2024-12-04 17:29:21.709452,400.0,g,10.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Jamonada Polaca CASA EUROPA Paquete 200g,CASA EUROPA,S/ 10.00,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,Jamonada Polaca CASA EUROPA Paquete,10.0
+Jamonada Polaca OTTO KUNZ Paquete 180g,OTTO KUNZ,S/ 8.49,vivanda,JAMONADA,2024-12-04 17:29:21.709452,180.0,g,Jamonada Polaca OTTO KUNZ Paquete,8.49
+Jamonada Especial SALCHICHERÍA ALEMANA Paquete 200g,SALCHICHERÍA ALEMANA,S/ 7.30,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,Jamonada Especial SALCHICHERÍA ALEMANA Paquete,7.3
+Jamonada de Pavita SAN FERNANDO Paquete 85g,SAN FERNANDO,S/ 2.30,vivanda,JAMONADA,2024-12-04 17:29:21.709452,85.0,g,Jamonada de Pavita SAN FERNANDO Paquete,2.3
+Jamonada Polaca SALCHICHERÍA ALEMANA Paquete 200g,SALCHICHERÍA ALEMANA,S/ 7.70,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,Jamonada Polaca SALCHICHERÍA ALEMANA Paquete,7.7
+Pack Jamonada Especial SUIZA Paquete 400g,LAIVE,S/ 10.90,vivanda,JAMONADA,2024-12-04 17:29:21.709452,400.0,g,Pack Jamonada Especial SUIZA Paquete,10.9

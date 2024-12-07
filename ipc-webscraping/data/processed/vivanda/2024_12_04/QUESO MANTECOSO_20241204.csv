@@ -1,2 +1,2 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Queso CHUGUR Mantecoso Paquete 300g,CHUGUR,S/ 21.90,vivanda,QUESO MANTECOSO,2024-12-04 17:39:32.474033,300.0,g,21.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Queso CHUGUR Mantecoso Paquete 300g,CHUGUR,S/ 21.90,vivanda,QUESO MANTECOSO,2024-12-04 17:39:32.474033,300.0,g,Queso CHUGUR Mantecoso Paquete,21.9

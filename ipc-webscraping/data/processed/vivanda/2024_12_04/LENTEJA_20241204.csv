@@ -1,13 +1,13 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Lenteja Bebé BELL'S Bolsa 500g,BELL'S,S/ 5.20,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,5.2
-Lenteja COSTEÑO Bolsa 500g,COSTENO,S/ 6.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,6.6
-Lenteja Bebé VALLENORTE Bolsa 500g,VALLENORTE,S/ 6.50,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,6.5
-Lentejas BELL'S Bolsa 500g,BELL'S,S/ 4.90,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,4.9
-Lenteja VALLENORTE Bolsa 500g,VALLENORTE,S/ 6.30,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,6.3
-Lentejas Listas para Servir LORENZO Doypack 425g,LORENZO,S/ 7.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,425.0,g,7.6
-Lenteja INCATRAIL Bolsa 500g,INCATRAIL,S/ 5.80,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,5.8
-Lenteja Bebé INCATRAIL Bolsa 500g,INCATRAIL,S/ 6.19,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,6.19
-Lentejas con Mantequilla de Maní M&M Bolsa 46.2g,M&M,S/ 4.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,46.2,g,4.6
-Lunch Lentejas Bandeja 500g,LA FLORENCIA,S/ 7.50,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,7.5
-Hamburguesa de Lentejas y Champiñones SANÚA Caja 5un,SANUA,S/ 28.00,vivanda,LENTEJA,2024-12-04 18:00:05.987627,5.0,un,28.0
-Hamburguesa de Lentejas DELLANATURA Caja 400g,DELLANATURA,S/ 20.90,vivanda,LENTEJA,2024-12-04 18:00:05.987627,400.0,g,20.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Lenteja Bebé BELL'S Bolsa 500g,BELL'S,S/ 5.20,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja Bebé BELL'S Bolsa,5.2
+Lenteja COSTEÑO Bolsa 500g,COSTENO,S/ 6.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja COSTEÑO Bolsa,6.6
+Lenteja Bebé VALLENORTE Bolsa 500g,VALLENORTE,S/ 6.50,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja Bebé VALLENORTE Bolsa,6.5
+Lentejas BELL'S Bolsa 500g,BELL'S,S/ 4.90,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lentejas BELL'S Bolsa,4.9
+Lenteja VALLENORTE Bolsa 500g,VALLENORTE,S/ 6.30,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja VALLENORTE Bolsa,6.3
+Lentejas Listas para Servir LORENZO Doypack 425g,LORENZO,S/ 7.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,425.0,g,Lentejas Listas para Servir LORENZO Doypack,7.6
+Lenteja INCATRAIL Bolsa 500g,INCATRAIL,S/ 5.80,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja INCATRAIL Bolsa,5.8
+Lenteja Bebé INCATRAIL Bolsa 500g,INCATRAIL,S/ 6.19,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lenteja Bebé INCATRAIL Bolsa,6.19
+Lentejas con Mantequilla de Maní M&M Bolsa 46.2g,M&M,S/ 4.60,vivanda,LENTEJA,2024-12-04 18:00:05.987627,46.2,g,Lentejas con Mantequilla de Maní M&M Bolsa,4.6
+Lunch Lentejas Bandeja 500g,LA FLORENCIA,S/ 7.50,vivanda,LENTEJA,2024-12-04 18:00:05.987627,500.0,g,Lunch Lentejas Bandeja,7.5
+Hamburguesa de Lentejas y Champiñones SANÚA Caja 5un,SANUA,S/ 28.00,vivanda,LENTEJA,2024-12-04 18:00:05.987627,5.0,un,Hamburguesa de Lentejas y Champiñones SANÚA Caja,28.0
+Hamburguesa de Lentejas DELLANATURA Caja 400g,DELLANATURA,S/ 20.90,vivanda,LENTEJA,2024-12-04 18:00:05.987627,400.0,g,Hamburguesa de Lentejas DELLANATURA Caja,20.9

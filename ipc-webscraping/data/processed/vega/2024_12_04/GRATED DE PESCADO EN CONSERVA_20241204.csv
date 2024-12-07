@@ -1,6 +1,6 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Campomar,Grated de Atún CAMPOMAR en Aceite Vegetal Lata 160g,S/ 3.80,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,160.0,g,3.8
-Vega,Grated de Atún VEGA en Aceite Vegetal Lata 170g x3u,S/ 9.00,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,170.0,g,9.0
-Vega,Grated de Atún VEGA en Aceite Vegetal Lata 170g,S/ 3.80,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,170.0,g,3.8
-Florida,Grated de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 27.60,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,140.0,g,27.6
-Florida,Grated de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 4.60,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,140.0,g,4.6
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Campomar,Grated de Atún CAMPOMAR en Aceite Vegetal Lata 160g,S/ 3.80,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,160.0,g,Grated de Atún CAMPOMAR en Aceite Vegetal Lata,3.8
+Vega,Grated de Atún VEGA en Aceite Vegetal Lata 170g x3u,S/ 9.00,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,170.0,g,Grated de Atún VEGA en Aceite Vegetal Lata  x3u,9.0
+Vega,Grated de Atún VEGA en Aceite Vegetal Lata 170g,S/ 3.80,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,170.0,g,Grated de Atún VEGA en Aceite Vegetal Lata,3.8
+Florida,Grated de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 27.60,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,140.0,g,Grated de Atún FLORIDA en Aceite Vegetal Lata r,27.6
+Florida,Grated de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 4.60,vega,GRATED DE PESCADO EN CONSERVA,2024-12-04 13:39:45.798868,140.0,g,Grated de Atún FLORIDA en Aceite Vegetal Lata r,4.6

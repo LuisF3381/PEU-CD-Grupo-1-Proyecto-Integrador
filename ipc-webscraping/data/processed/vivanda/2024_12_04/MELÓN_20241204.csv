@@ -1,2 +1,2 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Melón Coquito x kg,VIVANDA,S/ 3.70,vivanda,MELÓN,2024-12-04 17:49:37.006117,1.0,kg,3.7
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Melón Coquito x kg,VIVANDA,S/ 3.70,vivanda,MELÓN,2024-12-04 17:49:37.006117,1.0,kg,Melón Coquito,3.7

@@ -1,0 +1,5 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 500g,Pallar BELL'S Bolsa 500g,S/ 5.70 un,plaza_vea,PALLAR,2024-12-05 15:38:38.295577,500.0,g,Pallar BELL'S Bolsa,5.7
+Bolsa 500g,Pallar COSTEÑO Bolsa 500g,S/ 7 un,plaza_vea,PALLAR,2024-12-05 15:38:38.295577,500.0,g,Pallar COSTEÑO Bolsa,7.0
+Bolsa 500g,Pallar TESORO DEL CAMPO Bolsa 500g,S/ 7.80 un,plaza_vea,PALLAR,2024-12-05 15:38:38.295577,500.0,g,Pallar TESORO DEL CAMPO Bolsa,7.8
+Bolsa 500g,Pallar Precocido Bolsa 500g,S/ 7.90 un,plaza_vea,PALLAR,2024-12-05 15:38:38.295577,500.0,g,Pallar Precocido Bolsa,7.9

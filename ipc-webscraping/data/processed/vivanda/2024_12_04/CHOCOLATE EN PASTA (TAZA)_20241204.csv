@@ -1,2 +1,2 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Chocolate para Taza SOL DE CUSCO Pasta Pura Tableta 80g,SOL DEL CUSCO,S/ 13.70,vivanda,CHOCOLATE EN PASTA (TAZA),2024-12-04 18:04:59.460437,80.0,g,13.7
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Chocolate para Taza SOL DE CUSCO Pasta Pura Tableta 80g,SOL DEL CUSCO,S/ 13.70,vivanda,CHOCOLATE EN PASTA (TAZA),2024-12-04 18:04:59.460437,80.0,g,Chocolate para Taza SOL DE CUSCO Pasta Pura Tableta,13.7

@@ -1,11 +1,11 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Arándano Blueberry 500 g,S/ 14.99,metro,FRESA,2024-12-04 21:34:09.161567,500.0,g,14.99
-Fresa Americana Metro x kg,S/ 8.49 x kg,metro,FRESA,2024-12-04 21:34:09.161567,1.0,kg,8.49
-Arándano Intipa Foods Bandeja 150 g,S/ 4.70,metro,FRESA,2024-12-04 21:34:09.161567,150.0,g,4.7
-Fresa Americana 600g,S/ 9.99,metro,FRESA,2024-12-04 21:34:09.161567,600.0,g,9.99
-Arándano Hortifrut 300g,S/ 10.99,metro,FRESA,2024-12-04 21:34:09.161567,300.0,g,10.99
-Zarzamora Hortifrut 100g,S/ 11.99,metro,FRESA,2024-12-04 21:34:09.161567,100.0,g,11.99
-Néctar Light de Fresa con Naranja Ecofresh Botella 1.8L,S/ 19.90,metro,FRESA,2024-12-04 21:34:09.161567,1.8,l,19.9
-Pula de Fresa Agroselva Doypack 250g,S/ 12.99,metro,FRESA,2024-12-04 21:34:09.161567,250.0,g,12.99
-Fresa Deshidratada Natifrut x kg,S/ 260.00 x kg,metro,FRESA,2024-12-04 21:34:09.161567,1.0,kg,260.0
-Refrigerante Verde Simoniz 1 galón y Silicona UV3 Fresa 300ml,S/ 29.90,metro,FRESA,2024-12-04 21:34:09.161567,1.0,g,29.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Arándano Blueberry 500 g,S/ 14.99,metro,FRESA,2024-12-04 21:34:09.161567,500.0,g,Arándano Blueberry,14.99
+Fresa Americana Metro x kg,S/ 8.49 x kg,metro,FRESA,2024-12-04 21:34:09.161567,1.0,kg,Fresa Americana Metro,8.49
+Arándano Intipa Foods Bandeja 150 g,S/ 4.70,metro,FRESA,2024-12-04 21:34:09.161567,150.0,g,Arándano Intipa Foods Bandeja,4.7
+Fresa Americana 600g,S/ 9.99,metro,FRESA,2024-12-04 21:34:09.161567,600.0,g,Fresa Americana,9.99
+Arándano Hortifrut 300g,S/ 10.99,metro,FRESA,2024-12-04 21:34:09.161567,300.0,g,Arándano Hortifrut,10.99
+Zarzamora Hortifrut 100g,S/ 11.99,metro,FRESA,2024-12-04 21:34:09.161567,100.0,g,Zarzamora Hortifrut,11.99
+Néctar Light de Fresa con Naranja Ecofresh Botella 1.8L,S/ 19.90,metro,FRESA,2024-12-04 21:34:09.161567,1.8,l,Néctar Light de Fresa con Naranja Ecofresh Botella,19.9
+Pula de Fresa Agroselva Doypack 250g,S/ 12.99,metro,FRESA,2024-12-04 21:34:09.161567,250.0,g,Pula de Fresa Agroselva Doypack,12.99
+Fresa Deshidratada Natifrut x kg,S/ 260.00 x kg,metro,FRESA,2024-12-04 21:34:09.161567,1.0,kg,Fresa Deshidratada Natifrut,260.0
+Refrigerante Verde Simoniz 1 galón y Silicona UV3 Fresa 300ml,S/ 29.90,metro,FRESA,2024-12-04 21:34:09.161567,1.0,g,Refrigerante Verde Simoniz alón y Silicona UV3 Fresa,29.9

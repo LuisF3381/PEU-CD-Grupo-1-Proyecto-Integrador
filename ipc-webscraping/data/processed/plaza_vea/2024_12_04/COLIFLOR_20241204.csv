@@ -1,3 +1,3 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Paquete 1un,Coliflor Un,S/ 3.70 un,plaza_vea,COLIFLOR,2024-12-04 14:02:51.381083,1.0,un,3.7
-Bolsa 500g,Coliflor Congelada BELL'S Bolsa 500g,S/ 5.49 un,plaza_vea,COLIFLOR,2024-12-04 14:02:51.381083,500.0,g,5.49
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Paquete 1un,Coliflor Un,S/ 3.70 un,plaza_vea,COLIFLOR,2024-12-04 14:02:51.381083,1.0,un,Coliflor Un,3.7
+Bolsa 500g,Coliflor Congelada BELL'S Bolsa 500g,S/ 5.49 un,plaza_vea,COLIFLOR,2024-12-04 14:02:51.381083,500.0,g,Coliflor Congelada BELL'S Bolsa,5.49

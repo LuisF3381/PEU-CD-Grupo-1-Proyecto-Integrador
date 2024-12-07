@@ -1,11 +1,11 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Sello De Oro,Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,200.0,g,5.2
-Manty,Margarina MANTY Clásica Pote 300gr,S/ 5.50 8%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,300.0,g,5.5
-Sello De Oro,Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,400.0,g,8.3
-Manty,Margarina MANTY Pote 90g,S/ 2.80,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,90.0,g,2.8
-Sporade,Pack 12 Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 18.00 32%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,500.0,ml,18.0
-SUEROX,Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml x 12u,S/ 78.00,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,630.0,ml,78.0
-Sayon,Galletas SAYON Margarita Paquete 6u 43g.,S/ 5.20,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,43.0,g,5.2
-Colombina,Marshmallows COLOMBINA Millows Margarita Bolsa 145gr,S/ 4.50,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,145.0,g,4.5
-Sporade,Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 2.00,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,500.0,ml,2.0
-SUEROX,Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml,S/ 6.50,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,630.0,ml,6.5
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Sello De Oro,Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,200.0,g,Margarina SELLO DE ORO Pote r,5.2
+Manty,Margarina MANTY Clásica Pote 300gr,S/ 5.50 8%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,300.0,g,Margarina MANTY Clásica Pote r,5.5
+Sello De Oro,Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,400.0,g,Margarina SELLO DE ORO Pote r,8.3
+Manty,Margarina MANTY Pote 90g,S/ 2.80,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,90.0,g,Margarina MANTY Pote,2.8
+Sporade,Pack 12 Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 18.00 32%,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,500.0,ml,Pack 12 Bebida Rehidratante SPORADE Mandarina Botella,18.0
+SUEROX,Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml x 12u,S/ 78.00,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,630.0,ml,Bebida Rehidratante SUEROX Sabor a Mandarina Botella  x 12u,78.0
+Sayon,Galletas SAYON Margarita Paquete 6u 43g.,S/ 5.20,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,43.0,g,Galletas SAYON Margarita Paquete 6u .,5.2
+Colombina,Marshmallows COLOMBINA Millows Margarita Bolsa 145gr,S/ 4.50,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,145.0,g,Marshmallows COLOMBINA Millows Margarita Bolsa r,4.5
+Sporade,Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 2.00,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.0
+SUEROX,Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml,S/ 6.50,vega,MARGARINA ENVASADA,2024-12-04 13:50:14.619524,630.0,ml,Bebida Rehidratante SUEROX Sabor a Mandarina Botella,6.5

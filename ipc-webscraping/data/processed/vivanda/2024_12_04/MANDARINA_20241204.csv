@@ -1,6 +1,6 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Agua Saborizada SAN PELLEGRINO Essenza Sabor a Mandarina y Fresa Lata 330ml,SAN PELLEGRINO,S/ 8.00,vivanda,MANDARINA,2024-12-04 17:42:29.890676,330.0,ml,8.0
-Bebida Rehidratante GATORADE Mandarina Botella 500ml,GATORADE,S/ 2.90,vivanda,MANDARINA,2024-12-04 17:42:29.890676,500.0,ml,2.9
-Bebida Rehidratante GATORADE Sabor a Mandarina Botella 750ml,GATORADE,S/ 4.90,vivanda,MANDARINA,2024-12-04 17:42:29.890676,750.0,ml,4.9
-Bebida Rehidratante SPORADE Mandarina Botella 500ml,SPORADE,S/ 2.40,vivanda,MANDARINA,2024-12-04 17:42:29.890676,500.0,ml,2.4
-Bebida Rehidrantante SUEROX Naranja y Mandarina Botella 630ml,SUEROX,S/ 6.50,vivanda,MANDARINA,2024-12-04 17:42:29.890676,630.0,ml,6.5
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Agua Saborizada SAN PELLEGRINO Essenza Sabor a Mandarina y Fresa Lata 330ml,SAN PELLEGRINO,S/ 8.00,vivanda,MANDARINA,2024-12-04 17:42:29.890676,330.0,ml,Agua Saborizada SAN PELLEGRINO Essenza Sabor a Mandarina y Fresa Lata,8.0
+Bebida Rehidratante GATORADE Mandarina Botella 500ml,GATORADE,S/ 2.90,vivanda,MANDARINA,2024-12-04 17:42:29.890676,500.0,ml,Bebida Rehidratante GATORADE Mandarina Botella,2.9
+Bebida Rehidratante GATORADE Sabor a Mandarina Botella 750ml,GATORADE,S/ 4.90,vivanda,MANDARINA,2024-12-04 17:42:29.890676,750.0,ml,Bebida Rehidratante GATORADE Sabor a Mandarina Botella,4.9
+Bebida Rehidratante SPORADE Mandarina Botella 500ml,SPORADE,S/ 2.40,vivanda,MANDARINA,2024-12-04 17:42:29.890676,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.4
+Bebida Rehidrantante SUEROX Naranja y Mandarina Botella 630ml,SUEROX,S/ 6.50,vivanda,MANDARINA,2024-12-04 17:42:29.890676,630.0,ml,Bebida Rehidrantante SUEROX Naranja y Mandarina Botella,6.5

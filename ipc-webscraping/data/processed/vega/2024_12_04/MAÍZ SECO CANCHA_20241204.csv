@@ -1,19 +1,19 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Costeño,Maíz Pop Corn COSTEÑO Bolsa 500g,S/ 4.90,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,4.9
-Vega,Cancha con Chifle VEGA Pote 150g,S/ 5.80,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,150.0,g,5.8
-VALLENORTE,Maíz Pop Corn VALLENORTE Bolsa 500gr,S/ 5.30,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,5.3
-Vega,Cancha Chullpi + Chifle Salado VEGA Pote 150g,S/ 4.30,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,150.0,g,4.3
-Villa Natura,Cancha Chulpi VILLA NATURA Bolsa 500gr,S/ 20.00,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,20.0
-SUPER CAT,"Comida para Gatos SUPER CAT Adulto Sardina, Atún y Trucha Bolsa 9 kg",S/ 73.50 43%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,73.5
-Ricocat,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa 9 kg",S/ 73.50 43%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,73.5
-Ricocat,Comida para Gatos RICOCAT Adultos Festival de Sabores Bolsa 15kg,S/ 125.49 37%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,125.49
-Ricocat,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa 15kg",S/ 133.90 32%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,133.9
-Ricocan,Comida Para Perros RICOCAN Adultos Pequeños Cordero y Cereal Bolsa 22Kg,S/ 144.90 31%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,22.0,kg,144.9
-P.A.N.,Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,1.0,kg,8.5
-Dog Chow,Comida para perros DOGCHOW Adultos Razas Medianas y Grandes Bolsa 8kg,S/ 88.50 11%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,8.0,kg,88.5
-Ricocan,Comida Para Perros RICOCAN Adultos Todas las Razas Multisabores Bolsa 15Kg,S/ 98.90 9%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,98.9
-Friskies,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa 7.5kg,S/ 87.00 8%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,7.5,kg,87.0
-Viña Vieja,Vino VIÑA VIEJA Gran Rosé Semi Seco Botella 750ml,S/ 13.90 7%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,750.0,ml,13.9
-CAT CHOW,Comida para Gatos CAT CHOW Adulto Esterilizados Defense Plus Bolsa 8kg,S/ 105.50 3%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,8.0,kg,105.5
-Ricocat,Comida para Gatos RICOCAT Esterilizados Bolsa 9 kg,S/ 80.20 2%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,80.2
-Ricocat,Comida para Gatos RICOCAT Festival de Sabores Bolsa 9 kg,S/ 80.20 2%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,80.2
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Costeño,Maíz Pop Corn COSTEÑO Bolsa 500g,S/ 4.90,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,Maíz Pop Corn COSTEÑO Bolsa,4.9
+Vega,Cancha con Chifle VEGA Pote 150g,S/ 5.80,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,150.0,g,Cancha con Chifle VEGA Pote,5.8
+VALLENORTE,Maíz Pop Corn VALLENORTE Bolsa 500gr,S/ 5.30,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,Maíz Pop Corn VALLENORTE Bolsa r,5.3
+Vega,Cancha Chullpi + Chifle Salado VEGA Pote 150g,S/ 4.30,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,150.0,g,Cancha Chullpi + Chifle Salado VEGA Pote,4.3
+Villa Natura,Cancha Chulpi VILLA NATURA Bolsa 500gr,S/ 20.00,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,500.0,g,Cancha Chulpi VILLA NATURA Bolsa r,20.0
+SUPER CAT,"Comida para Gatos SUPER CAT Adulto Sardina, Atún y Trucha Bolsa 9 kg",S/ 73.50 43%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,"Comida para Gatos SUPER CAT Adulto Sardina, Atún y Trucha Bolsa",73.5
+Ricocat,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa 9 kg",S/ 73.50 43%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa",73.5
+Ricocat,Comida para Gatos RICOCAT Adultos Festival de Sabores Bolsa 15kg,S/ 125.49 37%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,Comida para Gatos RICOCAT Adultos Festival de Sabores Bolsa,125.49
+Ricocat,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa 15kg",S/ 133.90 32%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa",133.9
+Ricocan,Comida Para Perros RICOCAN Adultos Pequeños Cordero y Cereal Bolsa 22Kg,S/ 144.90 31%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,22.0,kg,Comida Para Perros RICOCAN Adultos Pequeños Cordero y Cereal Bolsa,144.9
+P.A.N.,Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5
+Dog Chow,Comida para perros DOGCHOW Adultos Razas Medianas y Grandes Bolsa 8kg,S/ 88.50 11%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,8.0,kg,Comida para perros DOGCHOW Adultos Razas Medianas y Grandes Bolsa,88.5
+Ricocan,Comida Para Perros RICOCAN Adultos Todas las Razas Multisabores Bolsa 15Kg,S/ 98.90 9%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,15.0,kg,Comida Para Perros RICOCAN Adultos Todas las Razas Multisabores Bolsa,98.9
+Friskies,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa 7.5kg,S/ 87.00 8%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,7.5,kg,Comida para Gatos FRISKIES Adulto Selección Especial Bolsa,87.0
+Viña Vieja,Vino VIÑA VIEJA Gran Rosé Semi Seco Botella 750ml,S/ 13.90 7%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,750.0,ml,Vino VIÑA VIEJA Gran Rosé Semi Seco Botella,13.9
+CAT CHOW,Comida para Gatos CAT CHOW Adulto Esterilizados Defense Plus Bolsa 8kg,S/ 105.50 3%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,8.0,kg,Comida para Gatos CAT CHOW Adulto Esterilizados Defense Plus Bolsa,105.5
+Ricocat,Comida para Gatos RICOCAT Esterilizados Bolsa 9 kg,S/ 80.20 2%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,Comida para Gatos RICOCAT Esterilizados Bolsa,80.2
+Ricocat,Comida para Gatos RICOCAT Festival de Sabores Bolsa 9 kg,S/ 80.20 2%,vega,MAÍZ SECO CANCHA,2024-12-04 13:00:36.165238,9.0,kg,Comida para Gatos RICOCAT Festival de Sabores Bolsa,80.2

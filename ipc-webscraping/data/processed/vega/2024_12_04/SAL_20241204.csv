@@ -1,12 +1,12 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Emsal,Sal EMSAL Cocina Bolsa 1Kg,S/ 2.40,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,2.4
-NORSAL,Sal NORSAL Cocina Bolsa 1Kg,S/ 1.60,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,1.6
-Emsal,Sal EMSAL MARINA de mesa en bolsa 1kg,S/ 2.40,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,2.4
-Ballerina,Shampoo BALLERINA Sin Sal Palta y Almendras Doypack 750ml,S/ 9.50 26%,vega,SAL,2024-12-04 14:32:21.918867,750.0,ml,9.5
-Ballerina,Shampoo BALLERINA Sin Sal Palta y Almendras Frasco 410ml,S/ 8.00 16%,vega,SAL,2024-12-04 14:32:21.918867,410.0,ml,8.0
-Ajinomoto,Sazonador AJINOMOTO Sobre 1Kg,S/ 16.90,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,16.9
-Lays,Papitas al Hilo LAYS con Sal Bolsa 155gr,S/ 5.80,vega,SAL,2024-12-04 14:32:21.918867,155.0,g,5.8
-Ajinomoto,Sazonador AJINOMOTO Sobre 250gr,S/ 5.60,vega,SAL,2024-12-04 14:32:21.918867,250.0,g,5.6
-TOSTITOS,Piqueo TOSTITOS Nachos con Sal Bolsa 200g,S/ 7.20,vega,SAL,2024-12-04 14:32:21.918867,200.0,g,7.2
-Tortees,Piqueo TOR-TEES Clásico Bolsa 138gr,S/ 4.90,vega,SAL,2024-12-04 14:32:21.918867,138.0,g,4.9
-Ajinomoto,Sazonador AJINOMOTO Sobre 500gr,S/ 10.40,vega,SAL,2024-12-04 14:32:21.918867,500.0,g,10.4
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Emsal,Sal EMSAL Cocina Bolsa 1Kg,S/ 2.40,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,Sal EMSAL Cocina Bolsa,2.4
+NORSAL,Sal NORSAL Cocina Bolsa 1Kg,S/ 1.60,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,Sal NORSAL Cocina Bolsa,1.6
+Emsal,Sal EMSAL MARINA de mesa en bolsa 1kg,S/ 2.40,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,Sal EMSAL MARINA de mesa en bolsa,2.4
+Ballerina,Shampoo BALLERINA Sin Sal Palta y Almendras Doypack 750ml,S/ 9.50 26%,vega,SAL,2024-12-04 14:32:21.918867,750.0,ml,Shampoo BALLERINA Sin Sal Palta y Almendras Doypack,9.5
+Ballerina,Shampoo BALLERINA Sin Sal Palta y Almendras Frasco 410ml,S/ 8.00 16%,vega,SAL,2024-12-04 14:32:21.918867,410.0,ml,Shampoo BALLERINA Sin Sal Palta y Almendras Frasco,8.0
+Ajinomoto,Sazonador AJINOMOTO Sobre 1Kg,S/ 16.90,vega,SAL,2024-12-04 14:32:21.918867,1.0,kg,Sazonador AJINOMOTO Sobre,16.9
+Lays,Papitas al Hilo LAYS con Sal Bolsa 155gr,S/ 5.80,vega,SAL,2024-12-04 14:32:21.918867,155.0,g,Papitas al Hilo LAYS con Sal Bolsa r,5.8
+Ajinomoto,Sazonador AJINOMOTO Sobre 250gr,S/ 5.60,vega,SAL,2024-12-04 14:32:21.918867,250.0,g,Sazonador AJINOMOTO Sobre r,5.6
+TOSTITOS,Piqueo TOSTITOS Nachos con Sal Bolsa 200g,S/ 7.20,vega,SAL,2024-12-04 14:32:21.918867,200.0,g,Piqueo TOSTITOS Nachos con Sal Bolsa,7.2
+Tortees,Piqueo TOR-TEES Clásico Bolsa 138gr,S/ 4.90,vega,SAL,2024-12-04 14:32:21.918867,138.0,g,Piqueo TOR-TEES Clásico Bolsa r,4.9
+Ajinomoto,Sazonador AJINOMOTO Sobre 500gr,S/ 10.40,vega,SAL,2024-12-04 14:32:21.918867,500.0,g,Sazonador AJINOMOTO Sobre r,10.4

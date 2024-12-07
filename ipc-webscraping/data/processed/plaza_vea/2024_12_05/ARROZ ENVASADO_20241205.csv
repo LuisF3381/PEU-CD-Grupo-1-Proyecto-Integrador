@@ -1,0 +1,96 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 5Kg,Arroz Extra Añejo FARAON Naranja Bolsa 5kg,S/ 27.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra Añejo FARAON Naranja Bolsa,27.2
+Bolsa 5Kg,Arroz Extra COSTEÑO Bolsa 5Kg,S/ 27.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra COSTEÑO Bolsa,27.5
+Bolsa 5kg,Arroz Extra BELL'S Bolsa 5Kg,S/ 20.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra BELL'S Bolsa,20.8
+Bolsa 5Kg,Arroz Extra PAISANA Bolsa 5Kg,S/ 22.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra PAISANA Bolsa,22.9
+Bolsa 750g,Arroz Extra COSTEÑO Bolsa 750g,S/ 4.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra COSTEÑO Bolsa,4.9
+Bolsa 5Kg,Arroz Extra VALLENORTE Gran Reserva Bolsa 5Kg,S/ 27.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra VALLENORTE Gran Reserva Bolsa,27.5
+Vaso 146g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj...,S/ 3.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj,3.1
+Bolsa 5Kg,Arroz Extra GRAN CHALAN Bolsa 5Kg,S/ 25.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra GRAN CHALAN Bolsa,25.1
+Bolsa 5kg,Arroz FARAON Añejo Amarillo G3 Bolsa 5kg,S/ 22.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz FARAON Añejo Amarillo G3 Bolsa,22.7
+Bolsa 5kg,Arroz Superior PAISANA Bolsa 5Kg,S/ 22.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior PAISANA Bolsa,22.9
+Bolsa 750g,Arroz Extra FARAON Bolsa 750g,S/ 4.29 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra FARAON Bolsa,4.29
+Bolsa 750g,Arroz Extra BELL'S Bolsa 750g,S/ 3.79 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra BELL'S Bolsa,3.79
+Bolsa 750g,Arroz Integral BELL'S Bolsa 750g,S/ 4.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Integral BELL'S Bolsa,4.2
+Bolsa 5Kg,Arroz Familiar COSECHA NORTEÑA Bolsa 5Kg,S/ 18.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Familiar COSECHA NORTEÑA Bolsa,18.1
+Paquete 6un,Sazonador AJINOMIX Deli Arroz Paquete 6un,S/ 1.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,6.0,un,Sazonador AJINOMIX Deli Arroz Paquete,1.7
+Bolsa 5Kg,Arroz BELL'S Familiar Bolsa 5Kg,S/ 17.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz BELL'S Familiar Bolsa,17.5
+Bolsa 750g,Arroz Extra VALLENORTE Gran Reserva Bolsa 750g,S/ 4.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra VALLENORTE Gran Reserva Bolsa,4.8
+Bolsa 5kg,Arroz Superior VALLENORTE Bolsa 5Kg,S/ 22.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior VALLENORTE Bolsa,22.9
+Bolsa 5kg,Arroz Integral BELL'S Bolsa 5Kg,S/ 22.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Integral BELL'S Bolsa,22.3
+Bolsa 5kg,Arroz Superior BELL'S Bolsa 5Kg,S/ 19.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior BELL'S Bolsa,19.9
+Bolsa 1kg,Arroz Extra PAISANA Bolsa 1Kg,S/ 5.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,kg,Arroz Extra PAISANA Bolsa,5.3
+Bolsa 1kg,Arroz Añejo Amarillo FARAÓN G3 Bolsa 1Kg,S/ 4.69 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,kg,Arroz Añejo Amarillo FARAÓN G3 Bolsa,4.69
+Lata 822g,Conserva de Durazno en Mitades ACONCAGUA en Al...,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,822.0,g,Conserva de Durazno en Mitades ACONCAGUA en Al,10.9
+Bolsa 5Kg,Arroz Añejo Extra COSTEÑO Bolsa 5Kg,S/ 26.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Añejo Extra COSTEÑO Bolsa,26.9
+Bolsa 750g,Arroz Integral COSTEÑO Bolsa 750g,S/ 5.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Integral COSTEÑO Bolsa,5.4
+Bolsa 750g,Arroz Superior VALLENORTE Bolsa 750g,S/ 3.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Superior VALLENORTE Bolsa,3.99
+Bolsa 750g,Arroz Superior BELL'S Bolsa 750g,S/ 3.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Superior BELL'S Bolsa,3.6
+Bolsa 750g,Arroz Integral VALLENORTE Bolsa 750g,S/ 5.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Integral VALLENORTE Bolsa,5.6
+Bolsa 750g,Arroz BELL'S Familiar Bolsa 750g,S/ 3 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz BELL'S Familiar Bolsa,3.0
+Frasco 430g,Conserva BELL'S Palmitos Enteros en Salmuera F...,S/ 13.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,430.0,g,Conserva BELL'S Palmitos Enteros en Salmuera F,13.9
+Bolsa 1kg,Arroz Superior PAISANA Bolsa 1Kg,S/ 5.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,kg,Arroz Superior PAISANA Bolsa,5.3
+Bolsa 250g,Aceitunas en Conserva BELL'S Botija deshuesada...,S/ 9.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,250.0,g,Aceitunas en Conserva BELL'S Botija deshuesada,9.4
+Bolsa 750g,Arroz Añejo Extra COSTEÑO Bolsa 750g,S/ 4.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Añejo Extra COSTEÑO Bolsa,4.5
+Bolsa 750g,Arroz Parbolizado COSTEÑO Bolsa 750g,S/ 5.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Parbolizado COSTEÑO Bolsa,5.6
+Bolsa 5kg,Arroz Superior COSTEÑO Bolsa 5Kg,S/ 24.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior COSTEÑO Bolsa,24.5
+Bolsa 5Kg,Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K...,S/ 23.49 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K,23.49
+Bolsa 150g,Galletas de Arroz COSTEÑO Dulce Bolsa 150g,S/ 6.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galletas de Arroz COSTEÑO Dulce Bolsa,6.9
+Doypack 150g,Galleta de Arroz COSTEÑO Finas Hierbas Doypack...,S/ 6.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galleta de Arroz COSTEÑO Finas Hierbas Doypack,6.9
+Lata 432g,Conserva VALLE FERTIL Choclo dulce desgranado ...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,432.0,g,Conserva VALLE FERTIL Choclo dulce desgranado,9.9
+Bolsa 750g,Arroz GRAN CHALAN Extra Añejo Bolsa 750gr,S/ 4.29 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz GRAN CHALAN Extra Añejo Bolsa r,4.29
+Bolsa 150g,Galletas de Arroz BELL'S Bolsa 150g,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galletas de Arroz BELL'S Bolsa,6.5
+Lata 248g,Conserva VALLE FERTIL Choclo dulce desgranado ...,S/ 7.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,248.0,g,Conserva VALLE FERTIL Choclo dulce desgranado,7.6
+Bolsa 250g,Aceitunas en Conserva BELL'S Botija entera Bol...,S/ 6.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,250.0,g,Aceitunas en Conserva BELL'S Botija entera Bol,6.1
+Bolsa 750g,Arroz Familiar COSECHA NORTEÑA Bolsa 750g,S/ 3.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Familiar COSECHA NORTEÑA Bolsa,3.1
+Doypack 180g,Aceitunas Enteras en Conserva OLIVALLE Botija ...,S/ 4 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,180.0,g,Aceitunas Enteras en Conserva OLIVALLE Botija,4.0
+Bandeja 450g,Arroz con Pollo LA FLORENCIA Bandeja 450g,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,450.0,g,Arroz con Pollo LA FLORENCIA Bandeja,10.9
+Bolsa 1Kg,Harina de Arroz COSTEÑO Bolsa 1kg,S/ 8.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,kg,Harina de Arroz COSTEÑO Bolsa,8.9
+Bolsa 5Kg,Arroz Superior Añejo VALLENORTE Bolsa 5Kg,S/ 24.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior Añejo VALLENORTE Bolsa,24.9
+Bolsa 750g,Arroz Arborio COSTEÑO Bolsa 750g,S/ 11.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Arborio COSTEÑO Bolsa,11.9
+Lata 290g,Comida para Perros RICOCAN Adulto Todas las Ra...,S/ 5.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,290.0,g,Comida para Perros RICOCAN Adulto Todas las Ra,5.9
+Bolsa 750g,Arroz Extra BELL'S Selección Bolsa 750g,S/ 4.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra BELL'S Selección Bolsa,4.3
+Caja 50g,Galletas BABY MUM Arroz Sabor Manzana Caja 50g,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas BABY MUM Arroz Sabor Manzana Caja,13.99
+Frasco 225g,Rodajas de Jalapeños en Conserva VALLE FERTIL ...,S/ 8.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,225.0,g,Rodajas de Jalapeños en Conserva VALLE FERTIL,8.8
+Bolsa 250g,Aceitunas en Conserva BELL'S Botija en Tiras B...,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,250.0,g,Aceitunas en Conserva BELL'S Botija en Tiras B,6.5
+Bolsa 50g,Galleta de Arroz Clásica COSTEÑO Bolsa 50g,S/ 2 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galleta de Arroz Clásica COSTEÑO Bolsa,2.0
+Doypack 160g,Aceitunas Verdes Deshuesadas OLIVALLE en Conse...,S/ 4.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,160.0,g,Aceitunas Verdes Deshuesadas OLIVALLE en Conse,4.2
+Doypack 500g,Aceitunas en Conserva OLIVOS DEL SUR De aceitu...,S/ 19.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,500.0,g,Aceitunas en Conserva OLIVOS DEL SUR De aceitu,19.5
+Bolsa 750g,Arroz Superior Añejo GRAN CHALAN Bolsa 750g,S/ 4.39 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Superior Añejo GRAN CHALAN Bolsa,4.39
+Frasco 210g,Conserva VALLE FERTIL Espárragos blancos Frasc...,S/ 10.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,210.0,g,Conserva VALLE FERTIL Espárragos blancos Frasc,10.2
+Caja 50g,Galletas de Arroz BABY MUM sabor Fresca Caja 5...,S/ 14.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas de Arroz BABY MUM sabor Fresca Caja 5,14.99
+Bandeja 1un,Lunch Picante de Carne con Arroz LA FLORENCIA ...,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9
+Bandeja 200g,Arroz con Pollo BELL'S Bandeja 200g,S/ 7.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,200.0,g,Arroz con Pollo BELL'S Bandeja,7.7
+Caja 50g,Galletas BABY MUM Arroz Sabor Original Caja 50...,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas BABY MUM Arroz Sabor Original Caja 50,13.99
+Doypack 150g,Galleta de Arroz COSTEÑO Pimienta Doypack 150g,S/ 6.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galleta de Arroz COSTEÑO Pimienta Doypack,6.9
+Frasco 100g,Conserva VALLE FERTIL Alcaparras encurtidas Fr...,S/ 12.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,100.0,g,Conserva VALLE FERTIL Alcaparras encurtidas Fr,12.9
+Bolsa 750g,Arroz Superior Añejo VALLENORTE Bolsa 750g,S/ 4.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Superior Añejo VALLENORTE Bolsa,4.7
+Lata 15oz,Conserva VAN CAMP'S PORK AND BEANS Frijoles co...,S/ 10.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,15.0,oz,Conserva VAN CAMP'S PORK AND BEANS Frijoles co,10.1
+Caja 50g,Galletas de Arroz BABY MUM sabor Zanahoria Caj...,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas de Arroz BABY MUM sabor Zanahoria Caj,13.99
+Frasco 360g,Conserva VALLE FERTIL Pimiento morrón Frasco 3...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,360.0,g,Conserva VALLE FERTIL Pimiento morrón Frasco 3,9.9
+Caja 50g,Galletas TODDLER MUM Arroz Sabor Banana Caja 5...,S/ 14.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas TODDLER MUM Arroz Sabor Banana Caja 5,14.99
+Bandeja 320g,Arroz con Pollo NADU Bandeja 320g,S/ 14.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,320.0,g,Arroz con Pollo NADU Bandeja,14.99
+Doypack 300g,Aceitunas Verdes Deshuesadas en Conserva OLIVO...,S/ 15.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,300.0,g,Aceitunas Verdes Deshuesadas en Conserva OLIVO,15.4
+Frasco 370g,Aceitunas Verdes en Conserva VALDEPORRES Manza...,S/ 8.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,370.0,g,Aceitunas Verdes en Conserva VALDEPORRES Manza,8.9
+Frasco 290g,Conserva VALLE FERTIL Pimiento piquillo Frasco...,S/ 10.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,290.0,g,Conserva VALLE FERTIL Pimiento piquillo Frasco,10.3
+Lata 150g,Conserva de Maíz BELL'S Lata 150g,S/ 3.79 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Conserva de Maíz BELL'S Lata,3.79
+Bandeja 1un,Lunch Arroz Chaufa de Pollo LA FLORENCIA 500g,S/ 8.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Arroz Chaufa de Pollo LA FLORENCIA,8.9
+Bandeja 1un,Lunch Arroz Blanco LA FLORENCIA 500g,S/ 5.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Arroz Blanco LA FLORENCIA,5.5
+Lata 345g,Conserva de Betarraga BELL'S Lata 345g,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,345.0,g,Conserva de Betarraga BELL'S Lata,6.5
+Bolsa 500g,Arroz Integral Riso INCATRAIL Bolsa 500g,S/ 5.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,500.0,g,Arroz Integral Riso INCATRAIL Bolsa,5.2
+Lata 155g,Conserva de Pechuga de Pavo ALDELÍS en Agua y ...,S/ 8.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,155.0,g,Conserva de Pechuga de Pavo ALDELÍS en Agua y,8.4
+Frasco 410g,Conserva VALLE FERTIL Corazón de Alcachofa Fra...,S/ 15.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,410.0,g,Conserva VALLE FERTIL Corazón de Alcachofa Fra,15.3
+Caja 1L,Bebida de Arroz Orasi Caja 1L,S/ 14.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,l,Bebida de Arroz Orasi Caja,14.8
+Lata 360g,Conserva de Zanahoria Rallada BELL'S Lata 360...,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,360.0,g,Conserva de Zanahoria Rallada BELL'S Lata 360,6.5
+Doypack 500g,Aceitunas en Conserva OLIVOS DEL SUR De botija...,S/ 27.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,500.0,g,Aceitunas en Conserva OLIVOS DEL SUR De botija,27.5
+Frasco 680g,Conserva HENGSTENBERG Pepinillo polaca Frasco ...,S/ 32.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,680.0,g,Conserva HENGSTENBERG Pepinillo polaca Frasco,32.9
+Bolsa 250g,Aceitunas en Conserva BELL'S Verdes Enteras Bo...,S/ 6.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,250.0,g,Aceitunas en Conserva BELL'S Verdes Enteras Bo,6.1
+Doypack 300g,Aceitunas Verdes en Conserva OLIVOS DEL SUR En...,S/ 11.39 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,300.0,g,Aceitunas Verdes en Conserva OLIVOS DEL SUR En,11.39
+Lata 820g,Frutas en Conserva FRUTO DE ORO Pera en Mitade...,S/ 11.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,820.0,g,Frutas en Conserva FRUTO DE ORO Pera en Mitade,11.3
+Frasco 210g,Conserva VALLE FERTIL Espárragos verdes Frasco...,S/ 10.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,210.0,g,Conserva VALLE FERTIL Espárragos verdes Frasco,10.2
+Bolsa 35g,Base de Arroz con Pollo PERÚ- PRIDE Bolsa 35g,S/ 6.49 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,35.0,g,Base de Arroz con Pollo PERÚ- PRIDE Bolsa,6.49
+Doypack 270g,Arroz DELGA-C Konjac Bajo en Calorías Doypack ...,S/ 11.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,270.0,g,Arroz DELGA-C Konjac Bajo en Calorías Doypack,11.5
+Lata 418g,Conserva VALLE FÉRTIL Crema de Choclo Desgrana...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,418.0,g,Conserva VALLE FÉRTIL Crema de Choclo Desgrana,9.9
+Lata 241g,Conserva VALLE FERTIL Arvejitas verdes Lata 24...,S/ 7.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,241.0,g,Conserva VALLE FERTIL Arvejitas verdes Lata 24,7.6
+Frasco 185g,Conserva CALÉ TAPENADE Mix de aceitunas Frasco...,S/ 12.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,185.0,g,Conserva CALÉ TAPENADE Mix de aceitunas Frasco,12.9
+Lata 425g,Conserva VALLE FERTIL Arvejitas verdes Lata 42...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,425.0,g,Conserva VALLE FERTIL Arvejitas verdes Lata 42,9.9

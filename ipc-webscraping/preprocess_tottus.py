@@ -5,7 +5,6 @@ import pandas as pd
 CURRENT_DATE = "2024_12_04"
 
 
-
 def extraer_volumen(df, archivo_no_procesados="no_procesados.csv"):
     """
     Extrae volumen de la descripción del producto con soporte para casos implícitos como 'x kg' o 'x ml'.
@@ -19,10 +18,13 @@ def extraer_volumen(df, archivo_no_procesados="no_procesados.csv"):
     pandas.DataFrame: DataFrame con nuevas columnas de volumen (número y unidad)
     """
     # Expresión regular para capturar volumen
-    regex = r'(\d+(?:\.\d+)?|x)\s*(ml|ML|mL|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|UNID|Unidades|un|Un|UN|UNIDADES|Porciones)'
+    regex = r'(\d+(?:\.\d+)?|x|X)\s*(ml|ML|mL|L|lt|g|gr|G|kg|Kg|KG|Kilo|oz|Onzas|Unid|unid|UNID|Unidades|un|Un|UN|UNIDADES|Porciones|filtrantes|Filtrantes)'
     
     # Extraer número y unidad
     df[['cantidad', 'unidad']] = df['description'].str.extract(regex)
+    
+    # Crear descripción sin unidades
+    df['description_no_unit'] = df['description'].str.replace(regex, '', regex=True).str.strip()
     
     # Reemplazar "x" con 1 en cantidad
     df['cantidad'] = df['cantidad'].str.lower().replace('x', 1).astype(float)

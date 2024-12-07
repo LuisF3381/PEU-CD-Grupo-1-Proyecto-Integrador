@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Piki,Rocoto Molido PIKI Doypack 120g,S/ 2.90,vega,AJÍ ROCOTO MOLIDO,2024-12-04 14:37:14.792123,120.0,g,2.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Piki,Rocoto Molido PIKI Doypack 120g,S/ 2.90,vega,AJÍ ROCOTO MOLIDO,2024-12-04 14:37:14.792123,120.0,g,Rocoto Molido PIKI Doypack,2.9

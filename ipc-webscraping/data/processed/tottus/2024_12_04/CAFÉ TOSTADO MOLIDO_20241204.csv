@@ -1,18 +1,18 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Café tostado y molido 200 gr,S/ 11.70,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,200.0,g,11.7
-TOTTUS,Café tostado y molido 500 gr,S/ 19.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,500.0,g,19.9
-ALTOMAYO,Café tostado molido gourmet 450 g,S/ 33.80,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,450.0,g,33.8
-ALTOMAYO,Café tostado molido clásico de 450 g,S/ 23.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,450.0,g,23.5
-ALTOMAYO,CAFE TOSTADO MOLIDO GOURMET X 200 G,S/ 17.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,200.0,g,17.9
-CAFETAL,Café tostado y molido Selecto 900 gr,S/ 34.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,900.0,g,34.5
-SELLO ROJO,Café tostado y molido 425 gr,S/ 23.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,425.0,g,23.9
-,Café Tostado Molido Caffe Notas Chocolate 250 g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,36.5
-CAFETAL,Café tostado y molido Selecto de 454 g,S/ 20.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,454.0,g,20.5
-,Café tostado y molido premium Expreso Caffé de 250 g,S/ 27.40,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,27.4
-,Café Tostado Y Molido Tipo Espresso x 215 g,S/ 29.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,215.0,g,29.5
-CAFFE,Café Tostado Y Molido Selecto Notas Frutos Rojos 250 g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,36.5
-TOTTUS,Café tostado en grano entero de 250 g,S/ 12.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,12.9
-ALTOMAYO,Café Tostado Gourmet en Grano 250g,S/ 25.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,25.5
-CAFFE,Café Tostado Blend Caffé De 500 G,S/ 37.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,500.0,g,37.5
-CAFFE,Café Molido y Tostado Selecto Gourmet 250g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,36.5
-CAFFE,Café Grano Entero Tostado Blend 900 g,S/ 49.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,900.0,g,49.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Café tostado y molido 200 gr,S/ 11.70,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,200.0,g,Café tostado y molido r,11.7
+TOTTUS,Café tostado y molido 500 gr,S/ 19.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,500.0,g,Café tostado y molido r,19.9
+ALTOMAYO,Café tostado molido gourmet 450 g,S/ 33.80,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,450.0,g,Café tostado molido gourmet,33.8
+ALTOMAYO,Café tostado molido clásico de 450 g,S/ 23.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,450.0,g,Café tostado molido clásico de,23.5
+ALTOMAYO,CAFE TOSTADO MOLIDO GOURMET X 200 G,S/ 17.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,200.0,g,CAFE TOSTADO MOLIDO GOURMET X,17.9
+CAFETAL,Café tostado y molido Selecto 900 gr,S/ 34.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,900.0,g,Café tostado y molido Selecto r,34.5
+SELLO ROJO,Café tostado y molido 425 gr,S/ 23.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,425.0,g,Café tostado y molido r,23.9
+,Café Tostado Molido Caffe Notas Chocolate 250 g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café Tostado Molido Caffe Notas Chocolate,36.5
+CAFETAL,Café tostado y molido Selecto de 454 g,S/ 20.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,454.0,g,Café tostado y molido Selecto de,20.5
+,Café tostado y molido premium Expreso Caffé de 250 g,S/ 27.40,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café tostado y molido premium Expreso Caffé de,27.4
+,Café Tostado Y Molido Tipo Espresso x 215 g,S/ 29.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,215.0,g,Café Tostado Y Molido Tipo Espresso x,29.5
+CAFFE,Café Tostado Y Molido Selecto Notas Frutos Rojos 250 g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café Tostado Y Molido Selecto Notas Frutos Rojos,36.5
+TOTTUS,Café tostado en grano entero de 250 g,S/ 12.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café tostado en grano entero de,12.9
+ALTOMAYO,Café Tostado Gourmet en Grano 250g,S/ 25.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café Tostado Gourmet en Grano,25.5
+CAFFE,Café Tostado Blend Caffé De 500 G,S/ 37.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,500.0,g,Café Tostado Blend Caffé De,37.5
+CAFFE,Café Molido y Tostado Selecto Gourmet 250g,S/ 36.50,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,250.0,g,Café Molido y Tostado Selecto Gourmet,36.5
+CAFFE,Café Grano Entero Tostado Blend 900 g,S/ 49.90,tottus,CAFÉ TOSTADO MOLIDO,2024-12-04 13:58:01.446509,900.0,g,Café Grano Entero Tostado Blend,49.9

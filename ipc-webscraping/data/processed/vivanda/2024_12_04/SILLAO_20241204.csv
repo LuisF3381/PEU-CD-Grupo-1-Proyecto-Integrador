@@ -1,9 +1,9 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Sillao BELL'S Botella 500ml,BELL'S,S/ 3.50,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,3.5
-Sillao AJI-NO-SILLAO Botella 500ml,AJINOSILLAO,S/ 4.70,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,4.7
-Sillao AJI-NO-SILLAO Botella 150ml,AJINOSILLAO,S/ 2.40,vivanda,SILLAO,2024-12-04 18:12:59.163818,150.0,ml,2.4
-Sillao BELL'S Botella 250ml,BELL'S,S/ 2.19,vivanda,SILLAO,2024-12-04 18:12:59.163818,250.0,ml,2.19
-Salsa de Sillao LKK Premium Oscuro Botella 500 ml,LKK,S/ 23.65,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,23.65
-Salsa de Sillao LKK Premium Claro Botella 500ml,LKK,S/ 22.10,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,22.1
-Salsa de Sillao LKK Sabor a Champiñones Botella 500 ml,LKK,S/ 22.65,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,22.65
-Salsa de Sillao LKK Claro con Dispensador Botella 150ml,LKK,S/ 35.00,vivanda,SILLAO,2024-12-04 18:12:59.163818,150.0,ml,35.0
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Sillao BELL'S Botella 500ml,BELL'S,S/ 3.50,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,Sillao BELL'S Botella,3.5
+Sillao AJI-NO-SILLAO Botella 500ml,AJINOSILLAO,S/ 4.70,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,Sillao AJI-NO-SILLAO Botella,4.7
+Sillao AJI-NO-SILLAO Botella 150ml,AJINOSILLAO,S/ 2.40,vivanda,SILLAO,2024-12-04 18:12:59.163818,150.0,ml,Sillao AJI-NO-SILLAO Botella,2.4
+Sillao BELL'S Botella 250ml,BELL'S,S/ 2.19,vivanda,SILLAO,2024-12-04 18:12:59.163818,250.0,ml,Sillao BELL'S Botella,2.19
+Salsa de Sillao LKK Premium Oscuro Botella 500 ml,LKK,S/ 23.65,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,Salsa de Sillao LKK Premium Oscuro Botella,23.65
+Salsa de Sillao LKK Premium Claro Botella 500ml,LKK,S/ 22.10,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,Salsa de Sillao LKK Premium Claro Botella,22.1
+Salsa de Sillao LKK Sabor a Champiñones Botella 500 ml,LKK,S/ 22.65,vivanda,SILLAO,2024-12-04 18:12:59.163818,500.0,ml,Salsa de Sillao LKK Sabor a Champiñones Botella,22.65
+Salsa de Sillao LKK Claro con Dispensador Botella 150ml,LKK,S/ 35.00,vivanda,SILLAO,2024-12-04 18:12:59.163818,150.0,ml,Salsa de Sillao LKK Claro con Dispensador Botella,35.0

@@ -1,10 +1,10 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Avena Integral GRANO DE ORO Bolsa 500g,GRANO DE ORO,S/ 5.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,500.0,g,5.5
-Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.19,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,4.19
-Cereal GRANO DE ORO Salvado de Avena Doypack 300g,GRANO DE ORO,S/ 9.40,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,300.0,g,9.4
-Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,GRANO DE ORO,S/ 2.90,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,170.0,g,2.9
-Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,4.5
-Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,4.5
-Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,4.5
-Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO DE ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,4.5
-Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,GRANO ORO,S/ 2.90,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,170.0,g,2.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Avena Integral GRANO DE ORO Bolsa 500g,GRANO DE ORO,S/ 5.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,500.0,g,Avena Integral GRANO DE ORO Bolsa,5.5
+Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.19,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.19
+Cereal GRANO DE ORO Salvado de Avena Doypack 300g,GRANO DE ORO,S/ 9.40,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,300.0,g,Cereal GRANO DE ORO Salvado de Avena Doypack,9.4
+Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,GRANO DE ORO,S/ 2.90,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,170.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa,2.9
+Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,Maca Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5
+Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5
+Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5
+Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO DE ORO,S/ 4.50,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,370.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.5
+Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa 170g,GRANO ORO,S/ 2.90,vivanda,AVENA A GRANEL,2024-12-04 17:14:52.210433,170.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas Bolsa,2.9

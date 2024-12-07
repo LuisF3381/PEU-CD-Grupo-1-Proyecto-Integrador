@@ -1,20 +1,20 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Ricocat,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa 9 kg",S/ 73.50 43%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,9.0,kg,73.5
-Ricocat,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa 15kg",S/ 133.90 32%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,15.0,kg,133.9
-Thor,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa 25kg",S/ 110.90 5%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,25.0,kg,110.9
-Michicat,"Comida para Gatos MICHICAT Pollo, Sardina, Atún Bolsa 9 kg",S/ 59.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,9.0,kg,59.9
-Ricocat,Comida para Gatos RICOCAT Adultos Paté de Higado y Pollo Lata 330g,S/ 6.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,330.0,g,6.5
-Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa 80g x 24u,S/ 45.60,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,80.0,g,45.6
-Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa 80g,S/ 1.60,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,80.0,g,1.6
-Dog Chow,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack 100g x3u,S/ 9.90 28%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,100.0,g,9.9
-Ricocat,Comida para Gatos RICOCAT Adulto Sabor a Pollo 85g,S/ 3.00,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,85.0,g,3.0
-Dog Chow,Comida para Perros DOG CHOW Cachorros Sabor Pollo Doypack 100g x 2u,S/ 9.20,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,100.0,g,9.2
-Ricocat,Comida para Gatos RICOCAT Adulto Paté Sardina y Pollo Lata 330gr,S/ 6.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,330.0,g,6.5
-PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 70gr,S/ 2.80,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,70.0,g,2.8
-Dog Chow,Alimento para Perros DOG CHOW Todas las Razas Sabor a Pollo Molido Lata 368gr,S/ 9.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,368.0,g,9.5
-PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 24gr,S/ 1.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,24.0,g,1.5
-Ricocan,Comida para Perros RICOCAN Adultos Sabor a Trocitos de Pollo y verduras Lata 290gr,S/ 6.00,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,290.0,g,6.0
-Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Vaso 51g,S/ 3.40,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,51.0,g,3.4
-Thor,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa 2 kg",S/ 14.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,2.0,kg,14.5
-DOGUI,Alimento para Perros DOGUI Para Adulto Sabor Pollo y Carne 8kg,S/ 62.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,8.0,kg,62.9
-Ricocat,"Comida para Gatos RICOCAT Pollo, Sardina, Salmón Bolsa 1 kg",S/ 14.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,1.0,kg,14.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Ricocat,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa 9 kg",S/ 73.50 43%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,9.0,kg,"Comida para Gatos SUPER CAT Adulto Carne, Pollo y Leche Bolsa",73.5
+Ricocat,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa 15kg",S/ 133.90 32%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,15.0,kg,"Comida para Gatos RICOCAT Adultos Pollo, Sardina y Salmón Bolsa",133.9
+Thor,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa 25kg",S/ 110.90 5%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,25.0,kg,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa",110.9
+Michicat,"Comida para Gatos MICHICAT Pollo, Sardina, Atún Bolsa 9 kg",S/ 59.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,9.0,kg,"Comida para Gatos MICHICAT Pollo, Sardina, Atún Bolsa",59.9
+Ricocat,Comida para Gatos RICOCAT Adultos Paté de Higado y Pollo Lata 330g,S/ 6.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,330.0,g,Comida para Gatos RICOCAT Adultos Paté de Higado y Pollo Lata,6.5
+Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa 80g x 24u,S/ 45.60,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,80.0,g,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa  x 24u,45.6
+Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa 80g,S/ 1.60,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,80.0,g,Sopa Instantánea AJINOMEN Sabor a Pollo Bolsa,1.6
+Dog Chow,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack 100g x3u,S/ 9.90 28%,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,100.0,g,Alimento Húmedo para Perros DOG CHOW Cachorros Pollo Doypack  x3u,9.9
+Ricocat,Comida para Gatos RICOCAT Adulto Sabor a Pollo 85g,S/ 3.00,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,85.0,g,Comida para Gatos RICOCAT Adulto Sabor a Pollo,3.0
+Dog Chow,Comida para Perros DOG CHOW Cachorros Sabor Pollo Doypack 100g x 2u,S/ 9.20,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,100.0,g,Comida para Perros DOG CHOW Cachorros Sabor Pollo Doypack  x 2u,9.2
+Ricocat,Comida para Gatos RICOCAT Adulto Paté Sardina y Pollo Lata 330gr,S/ 6.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,330.0,g,Comida para Gatos RICOCAT Adulto Paté Sardina y Pollo Lata r,6.5
+PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 70gr,S/ 2.80,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,70.0,g,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa r,2.8
+Dog Chow,Alimento para Perros DOG CHOW Todas las Razas Sabor a Pollo Molido Lata 368gr,S/ 9.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,368.0,g,Alimento para Perros DOG CHOW Todas las Razas Sabor a Pollo Molido Lata r,9.5
+PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 24gr,S/ 1.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,24.0,g,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa r,1.5
+Ricocan,Comida para Perros RICOCAN Adultos Sabor a Trocitos de Pollo y verduras Lata 290gr,S/ 6.00,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,290.0,g,Comida para Perros RICOCAN Adultos Sabor a Trocitos de Pollo y verduras Lata r,6.0
+Ajinomen,Sopa Instantánea AJINOMEN Sabor a Pollo Vaso 51g,S/ 3.40,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,51.0,g,Sopa Instantánea AJINOMEN Sabor a Pollo Vaso,3.4
+Thor,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa 2 kg",S/ 14.50,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,2.0,kg,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa",14.5
+DOGUI,Alimento para Perros DOGUI Para Adulto Sabor Pollo y Carne 8kg,S/ 62.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,8.0,kg,Alimento para Perros DOGUI Para Adulto Sabor Pollo y Carne,62.9
+Ricocat,"Comida para Gatos RICOCAT Pollo, Sardina, Salmón Bolsa 1 kg",S/ 14.90,vega,POLLO EVISCERADO,2024-12-04 13:25:27.785871,1.0,kg,"Comida para Gatos RICOCAT Pollo, Sardina, Salmón Bolsa",14.9

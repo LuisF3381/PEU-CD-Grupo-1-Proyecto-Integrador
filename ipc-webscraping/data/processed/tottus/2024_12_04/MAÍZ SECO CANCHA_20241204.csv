@@ -1,6 +1,6 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Maiz Cancha x 400 gr,S/ 6.43,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,400.0,g,6.43
-TOTTUS,Cancha Chulpi Salada 150g,S/ 6,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,150.0,g,6.0
-TOTTUS,Cancha Chulpi Salada 250g,S/ 9.90,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,250.0,g,9.9
-GRANUTS,Snack de Maíz Tostado con Arándanos Almendras y Maní Salado y Confitado de 180 g,S/ 10.49,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,180.0,g,10.49
-TESORO DEL CAMPO,Maíz Pop Corn 500 g,S/ 5,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,500.0,g,5.0
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Maiz Cancha x 400 gr,S/ 6.43,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,400.0,g,Maiz Cancha x r,6.43
+TOTTUS,Cancha Chulpi Salada 150g,S/ 6,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,150.0,g,Cancha Chulpi Salada,6.0
+TOTTUS,Cancha Chulpi Salada 250g,S/ 9.90,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,250.0,g,Cancha Chulpi Salada,9.9
+GRANUTS,Snack de Maíz Tostado con Arándanos Almendras y Maní Salado y Confitado de 180 g,S/ 10.49,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,180.0,g,Snack de Maíz Tostado con Arándanos Almendras y Maní Salado y Confitado de,10.49
+TESORO DEL CAMPO,Maíz Pop Corn 500 g,S/ 5,tottus,MAÍZ SECO CANCHA,2024-12-04 12:57:00.919842,500.0,g,Maíz Pop Corn,5.0

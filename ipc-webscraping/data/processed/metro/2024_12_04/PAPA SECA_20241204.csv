@@ -1,12 +1,12 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Papa Seca Máxima Bolsa 500 g,S/ 5.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,5.7
-Papa Seca Costeño 500g,S/ 8.20,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,8.2
-Papa Seca Cuisine & Co 500g,S/ 6.10,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,6.1
-Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,7.9
-Arveja Verde Tesoro Del Campo Bolsa 500 g,S/ 3.80,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,3.8
-Arveja Partida Costeño 500g,S/ 3.80,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,3.8
-Alverja Verde Tesoro del Campo Bolsa 350 g,S/ 2.90,metro,PAPA SECA,2024-12-04 21:55:08.837545,350.0,g,2.9
-Arveja Partida Máxima 500g,S/ 3.50,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,3.5
-Arveja Cuisine & Co 500g,S/ 3.50,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,3.5
-Arveja Verde Valle Norte Bolsa 500 g,S/ 4.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,4.7
-Arveja Bolsa 500g,S/ 3.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,3.7
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Papa Seca Máxima Bolsa 500 g,S/ 5.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Papa Seca Máxima Bolsa,5.7
+Papa Seca Costeño 500g,S/ 8.20,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Papa Seca Costeño,8.2
+Papa Seca Cuisine & Co 500g,S/ 6.10,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Papa Seca Cuisine & Co,6.1
+Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Papa Seca Tesoro Del Campo Bolsa,7.9
+Arveja Verde Tesoro Del Campo Bolsa 500 g,S/ 3.80,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Verde Tesoro Del Campo Bolsa,3.8
+Arveja Partida Costeño 500g,S/ 3.80,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Partida Costeño,3.8
+Alverja Verde Tesoro del Campo Bolsa 350 g,S/ 2.90,metro,PAPA SECA,2024-12-04 21:55:08.837545,350.0,g,Alverja Verde Tesoro del Campo Bolsa,2.9
+Arveja Partida Máxima 500g,S/ 3.50,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Partida Máxima,3.5
+Arveja Cuisine & Co 500g,S/ 3.50,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Cuisine & Co,3.5
+Arveja Verde Valle Norte Bolsa 500 g,S/ 4.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Verde Valle Norte Bolsa,4.7
+Arveja Bolsa 500g,S/ 3.70,metro,PAPA SECA,2024-12-04 21:55:08.837545,500.0,g,Arveja Bolsa,3.7

@@ -1,21 +1,21 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Sello De Oro,Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,PORO,2024-12-04 14:15:10.110674,200.0,g,5.2
-Sello De Oro,Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,PORO,2024-12-04 14:15:10.110674,400.0,g,8.3
-Oro,Gaseosa BIG COLA Botella 3.03L Paquete 6un,S/ 41.40,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,41.4
-Oro,Gaseosa ORO Botella 3.03L x 6u,,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,
-Grano De Oro,Fideos Tornillo GRANO DOE ORO Bolsa 250g,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,1.6
-Grano De Oro,Fideos Spaguetti GRANO DE ORO Bolsa 500g,S/ 2.70,vega,PORO,2024-12-04 14:15:10.110674,500.0,g,2.7
-PEROS,Detergente en Polvo PEROS Floral Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,72.9
-Grano De Oro,Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,PORO,2024-12-04 14:15:10.110674,1.0,kg,10.5
-Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,PORO,2024-12-04 14:15:10.110674,170.0,g,2.9
-Grano De Oro,Avena GRANO DE ORO Bolsa 370gr,S/ 4.00,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.0
-PEROS,Detergente en Polvo PEROS Limón Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,72.9
-Grano De Oro,Avena GRANO DE ORO Bolsa 10kg,S/ 69.40,vega,PORO,2024-12-04 14:15:10.110674,10.0,kg,69.4
-PEROS,Detergente en Polvo PEROS Tropical Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,7.4
-Grano De Oro,Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,PORO,2024-12-04 14:15:10.110674,180.0,g,1.3
-PEROS,Detergente en Polvo PEROS Limón Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,7.4
-Grano De Oro,Avena GRANO DE ORO Hojuelas Gruesa Bolsa 900gr,S/ 16.80,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,16.8
-Grano De Oro,Fideo GRANO DE ORO Canuto Rayado Bolsa 250gr,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,1.6
-Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.8
-Grano De Oro,Avena GRANO DE ORO Hojuelas Gruesa Bolsa 5kg,S/ 36.70,vega,PORO,2024-12-04 14:15:10.110674,5.0,kg,36.7
-Grano De Oro,Avena GRANO DE ORO con Maca en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,4.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Sello De Oro,Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,PORO,2024-12-04 14:15:10.110674,200.0,g,Margarina SELLO DE ORO Pote r,5.2
+Sello De Oro,Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,PORO,2024-12-04 14:15:10.110674,400.0,g,Margarina SELLO DE ORO Pote r,8.3
+Oro,Gaseosa BIG COLA Botella 3.03L Paquete 6un,S/ 41.40,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,Gaseosa BIG COLA Botella  Paquete,41.4
+Oro,Gaseosa ORO Botella 3.03L x 6u,,vega,PORO,2024-12-04 14:15:10.110674,3.03,l,Gaseosa ORO Botella  x 6u,
+Grano De Oro,Fideos Tornillo GRANO DOE ORO Bolsa 250g,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,Fideos Tornillo GRANO DOE ORO Bolsa,1.6
+Grano De Oro,Fideos Spaguetti GRANO DE ORO Bolsa 500g,S/ 2.70,vega,PORO,2024-12-04 14:15:10.110674,500.0,g,Fideos Spaguetti GRANO DE ORO Bolsa,2.7
+PEROS,Detergente en Polvo PEROS Floral Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,Detergente en Polvo PEROS Floral Bolsa,72.9
+Grano De Oro,Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,PORO,2024-12-04 14:15:10.110674,1.0,kg,Avena GRANO DE ORO Bolsa,10.5
+Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,PORO,2024-12-04 14:15:10.110674,170.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,2.9
+Grano De Oro,Avena GRANO DE ORO Bolsa 370gr,S/ 4.00,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO Bolsa r,4.0
+PEROS,Detergente en Polvo PEROS Limón Bolsa 15Kg,S/ 72.90,vega,PORO,2024-12-04 14:15:10.110674,15.0,kg,Detergente en Polvo PEROS Limón Bolsa,72.9
+Grano De Oro,Avena GRANO DE ORO Bolsa 10kg,S/ 69.40,vega,PORO,2024-12-04 14:15:10.110674,10.0,kg,Avena GRANO DE ORO Bolsa,69.4
+PEROS,Detergente en Polvo PEROS Tropical Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Detergente en Polvo PEROS Tropical Bolsa,7.4
+Grano De Oro,Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,PORO,2024-12-04 14:15:10.110674,180.0,g,Harina GRANO DE ORO Sin Preparar Paquete r,1.3
+PEROS,Detergente en Polvo PEROS Limón Bolsa 900g,S/ 7.40,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Detergente en Polvo PEROS Limón Bolsa,7.4
+Grano De Oro,Avena GRANO DE ORO Hojuelas Gruesa Bolsa 900gr,S/ 16.80,vega,PORO,2024-12-04 14:15:10.110674,900.0,g,Avena GRANO DE ORO Hojuelas Gruesa Bolsa r,16.8
+Grano De Oro,Fideo GRANO DE ORO Canuto Rayado Bolsa 250gr,S/ 1.60,vega,PORO,2024-12-04 14:15:10.110674,250.0,g,Fideo GRANO DE ORO Canuto Rayado Bolsa r,1.6
+Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,4.8
+Grano De Oro,Avena GRANO DE ORO Hojuelas Gruesa Bolsa 5kg,S/ 36.70,vega,PORO,2024-12-04 14:15:10.110674,5.0,kg,Avena GRANO DE ORO Hojuelas Gruesa Bolsa,36.7
+Grano De Oro,Avena GRANO DE ORO con Maca en Bolsa 370gr,S/ 4.80,vega,PORO,2024-12-04 14:15:10.110674,370.0,g,Avena GRANO DE ORO con Maca en Bolsa r,4.8

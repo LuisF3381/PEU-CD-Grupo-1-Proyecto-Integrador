@@ -1,11 +1,11 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Agua Sin Gas Mineral San Mateo Bidón 7 L,S/ 9.00,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,7.0,l,9.0
-Agua Sin Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,6.0,un,10.8
-Agua Sin Gas Mineral San Mateo Botella 2.5 L,S/ 3.20,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,2.5,l,3.2
-Agua Con Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,6.0,un,10.8
-Agua con Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,600.0,ml,1.8
-Agua Sin Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,600.0,ml,1.8
-Agua Mineral Ozonizada Merrs Rosa Botella 630 ml,S/ 2.99,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,630.0,ml,2.99
-Agua Mineral Con Gas Socosani Botella 500 ml,S/ 1.99,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,500.0,ml,1.99
-Agua Mineral Acqua Panna Botella 750ml,S/ 11.90,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,750.0,ml,11.9
-Agua Mineral con Gas San Pellegrino Botella 250ml,S/ 7.60,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,250.0,ml,7.6
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Agua Sin Gas Mineral San Mateo Bidón 7 L,S/ 9.00,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,7.0,l,Agua Sin Gas Mineral San Mateo Bidón,9.0
+Agua Sin Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,6.0,un,Agua Sin Gas Mineral San Mateo Pack ades de  c/u,10.8
+Agua Sin Gas Mineral San Mateo Botella 2.5 L,S/ 3.20,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,2.5,l,Agua Sin Gas Mineral San Mateo Botella,3.2
+Agua Con Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,6.0,un,Agua Con Gas Mineral San Mateo Pack ades de  c/u,10.8
+Agua con Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,600.0,ml,Agua con Gas Mineral San Mateo Botella,1.8
+Agua Sin Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,600.0,ml,Agua Sin Gas Mineral San Mateo Botella,1.8
+Agua Mineral Ozonizada Merrs Rosa Botella 630 ml,S/ 2.99,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,630.0,ml,Agua Mineral Ozonizada Merrs Rosa Botella,2.99
+Agua Mineral Con Gas Socosani Botella 500 ml,S/ 1.99,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,500.0,ml,Agua Mineral Con Gas Socosani Botella,1.99
+Agua Mineral Acqua Panna Botella 750ml,S/ 11.90,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,750.0,ml,Agua Mineral Acqua Panna Botella,11.9
+Agua Mineral con Gas San Pellegrino Botella 250ml,S/ 7.60,metro,AGUA MINERAL SIN GAS,2024-12-04 22:23:19.422948,250.0,ml,Agua Mineral con Gas San Pellegrino Botella,7.6

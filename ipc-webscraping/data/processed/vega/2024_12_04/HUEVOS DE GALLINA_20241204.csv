@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Fini,Chicle FINI Huevos de Dinos Bolsa 80gr,S/ 4.20,vega,HUEVOS DE GALLINA,2024-12-04 13:48:14.361897,80.0,g,4.2
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Fini,Chicle FINI Huevos de Dinos Bolsa 80gr,S/ 4.20,vega,HUEVOS DE GALLINA,2024-12-04 13:48:14.361897,80.0,g,Chicle FINI Huevos de Dinos Bolsa r,4.2

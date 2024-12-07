@@ -1,7 +1,7 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-GENERICO,Set de 6 copas de helado o postre de cristal capa.200ml,S/ 44,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,200.0,ml,44.0
-GENERICO,Set de 6 copas de helado o postre de cristal capa.355ml,S/ 49,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,355.0,ml,49.0
-GENERICO,Set de 6 copas de helado o postre de cristal capa.360ml,S/ 49,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,360.0,ml,49.0
-GENERICO,Set de 6 copas de helado o postre de cristal capa.238ml,S/ 44,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,238.0,ml,44.0
-GRETAIL,Hielera De Silicona Cubetera Combo 02 Unidades,S/ 34.90,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,2.0,un,34.9
-TRAMONTINA,Juego por 2 tazas para café 110ml doble vidrio -,S/ 89,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,110.0,ml,89.0
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+GENERICO,Set de 6 copas de helado o postre de cristal capa.200ml,S/ 44,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,200.0,ml,Set de 6 copas de helado o postre de cristal capa.,44.0
+GENERICO,Set de 6 copas de helado o postre de cristal capa.355ml,S/ 49,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,355.0,ml,Set de 6 copas de helado o postre de cristal capa.,49.0
+GENERICO,Set de 6 copas de helado o postre de cristal capa.360ml,S/ 49,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,360.0,ml,Set de 6 copas de helado o postre de cristal capa.,49.0
+GENERICO,Set de 6 copas de helado o postre de cristal capa.238ml,S/ 44,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,238.0,ml,Set de 6 copas de helado o postre de cristal capa.,44.0
+GRETAIL,Hielera De Silicona Cubetera Combo 02 Unidades,S/ 34.90,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,2.0,un,Hielera De Silicona Cubetera Combo ades,34.9
+TRAMONTINA,Juego por 2 tazas para café 110ml doble vidrio -,S/ 89,tottus,HELADO DE HIELO PERSONAL,2024-12-04 13:49:43.835240,110.0,ml,Juego por 2 tazas para café  doble vidrio -,89.0
