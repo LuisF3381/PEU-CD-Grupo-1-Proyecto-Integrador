@@ -1,11 +1,11 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Trozos de Atún en Aceite Primor 140g,S/ 5.50,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,5.5
-Trozos de Atún en Aceite Vegetal Cuisine & Co 140g,S/ 5.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,5.1
-Trozos de Atún en Aceite Vegetal Florida 150g,S/ 5.90,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,5.9
-Trozos de Atún en Aceite Vegetal Campomar 150g,S/ 5.90,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,5.9
-Trozos de Jurel en Aceite Vegetal Campomar 170g,S/ 4.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,170.0,g,4.1
-Trozos de Atún en Aceite Real 140g,S/ 6.60,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,6.6
-Trozos de Atún en Aceite Vegetal Cuisine & Co 140g,S/ 5.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,5.1
-Trozos de Bonito Ahumados Natural Fish 170g,S/ 17.40,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,170.0,g,17.4
-Pack x6 Trozos Atún Aceite Vegetal Campomar 150g,S/ 34.80,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,34.8
-Sixpack Trozos de Atún en Aceite Real 140g,S/ 34.20,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,34.2
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Trozos de Atún en Aceite Primor 140g,S/ 5.50,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,Trozos de Atún en Aceite Primor,5.5
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g,S/ 5.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,Trozos de Atún en Aceite Vegetal Cuisine & Co,5.1
+Trozos de Atún en Aceite Vegetal Florida 150g,S/ 5.90,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,Trozos de Atún en Aceite Vegetal Florida,5.9
+Trozos de Atún en Aceite Vegetal Campomar 150g,S/ 5.90,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,Trozos de Atún en Aceite Vegetal Campomar,5.9
+Trozos de Jurel en Aceite Vegetal Campomar 170g,S/ 4.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,170.0,g,Trozos de Jurel en Aceite Vegetal Campomar,4.1
+Trozos de Atún en Aceite Real 140g,S/ 6.60,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,Trozos de Atún en Aceite Real,6.6
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g,S/ 5.10,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,Trozos de Atún en Aceite Vegetal Cuisine & Co,5.1
+Trozos de Bonito Ahumados Natural Fish 170g,S/ 17.40,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,170.0,g,Trozos de Bonito Ahumados Natural Fish,17.4
+Pack x6 Trozos Atún Aceite Vegetal Campomar 150g,S/ 34.80,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,150.0,g,Pack x6 Trozos Atún Aceite Vegetal Campomar,34.8
+Sixpack Trozos de Atún en Aceite Real 140g,S/ 34.20,wong,TROZO DE PESCADO EN CONSERVA,2024-12-04 19:01:47.778406,140.0,g,Sixpack Trozos de Atún en Aceite Real,34.2

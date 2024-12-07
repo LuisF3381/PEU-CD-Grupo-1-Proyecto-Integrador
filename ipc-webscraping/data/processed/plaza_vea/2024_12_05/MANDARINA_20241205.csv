@@ -1,0 +1,3 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1 kg aprox.,Mandarina Malvacea,S/ 5.70 x kg,plaza_vea,MANDARINA,2024-12-05 15:12:15.502592,1.0,kg,Mandarina Malvacea,5.7
+Presentación 1 kg aprox.,Naranja para Jugo,S/ 2.39 x kg,plaza_vea,MANDARINA,2024-12-05 15:12:15.502592,1.0,kg,Naranja para Jugo,2.39

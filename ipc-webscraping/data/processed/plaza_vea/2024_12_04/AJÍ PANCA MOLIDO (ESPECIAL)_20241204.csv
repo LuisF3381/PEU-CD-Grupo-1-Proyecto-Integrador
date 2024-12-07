@@ -1,2 +1,2 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Frasco 250g,Aderezo BELL'S Con ají panca molido y especias...,S/ 5.90 un,plaza_vea,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 14:30:04.360753,250.0,g,5.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Frasco 250g,Aderezo BELL'S Con ají panca molido y especias...,S/ 5.90 un,plaza_vea,AJÍ PANCA MOLIDO (ESPECIAL),2024-12-04 14:30:04.360753,250.0,g,Aderezo BELL'S Con ají panca molido y especias,5.9

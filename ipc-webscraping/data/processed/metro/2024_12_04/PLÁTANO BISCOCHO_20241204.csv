@@ -1,2 +1,2 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Plátano Bizcocho Tipo Exportación x kg,S/ 6.99 x kg,metro,PLÁTANO BISCOCHO,2024-12-04 21:31:20.880708,1.0,kg,6.99
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Plátano Bizcocho Tipo Exportación x kg,S/ 6.99 x kg,metro,PLÁTANO BISCOCHO,2024-12-04 21:31:20.880708,1.0,kg,Plátano Bizcocho Tipo Exportación,6.99

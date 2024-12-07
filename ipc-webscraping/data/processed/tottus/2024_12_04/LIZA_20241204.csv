@@ -1,3 +1,3 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-PARADA 111,JEAN CARGO RECTO MUJER PARADA111 LIZA,S/ 139.90,tottus,LIZA,2024-12-04 13:16:12.234971,111.0,l,139.9
-GENERICO,Cal Comacsa Hidraulica x 35 kg,S/ 91.80,tottus,LIZA,2024-12-04 13:16:12.234971,35.0,kg,91.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+PARADA 111,JEAN CARGO RECTO MUJER PARADA111 LIZA,S/ 139.90,tottus,LIZA,2024-12-04 13:16:12.234971,111.0,l,JEAN CARGO RECTO MUJER PARADAIZA,139.9
+GENERICO,Cal Comacsa Hidraulica x 35 kg,S/ 91.80,tottus,LIZA,2024-12-04 13:16:12.234971,35.0,kg,Cal Comacsa Hidraulica x,91.8

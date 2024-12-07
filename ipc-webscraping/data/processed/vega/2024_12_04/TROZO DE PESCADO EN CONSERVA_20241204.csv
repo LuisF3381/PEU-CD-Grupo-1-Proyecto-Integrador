@@ -1,16 +1,16 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Vega,Trozos de Atún VEGA en Aceite Vegetal Lata 150g x6u,S/ 25.20 9%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,25.2
-Gloria,Trozos de atún GLORIA Lata 140g x6u,,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,
-Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr Pack 6u,S/ 31.80 17%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,31.8
-Campomar,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata 150g x6u,S/ 30.00 18%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,30.0
-Campomar,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata 150g,S/ 5.40,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,5.4
-Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g Pack 6u,S/ 30.60 15%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,30.6
-Vega,Trozos de Atún VEGA en Aceite Vegetal Lata 150g,S/ 4.70,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,4.7
-Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 5.80,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,5.8
-Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr x12u,S/ 72.00,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,72.0
-Inca Mar,Trozos de Atún INCA MAR en Aceite Vegetal Lata 140gr,S/ 5.40,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,5.4
-Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g x12u,S/ 70.80,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,70.8
-Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g,S/ 5.50,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,5.5
-Timonel,Trozos de atún TIMONEL en Aceite Vegetal 150gr,S/ 4.90,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,4.9
-Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata 140g,S/ 33.60 12%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,33.6
-Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g,S/ 6.00,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,6.0
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Vega,Trozos de Atún VEGA en Aceite Vegetal Lata 150g x6u,S/ 25.20 9%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,Trozos de Atún VEGA en Aceite Vegetal Lata  x6u,25.2
+Gloria,Trozos de atún GLORIA Lata 140g x6u,,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de atún GLORIA Lata  x6u,
+Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr Pack 6u,S/ 31.80 17%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún FLORIDA en Aceite Vegetal Lata r Pack 6u,31.8
+Campomar,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata 150g x6u,S/ 30.00 18%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata  x6u,30.0
+Campomar,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata 150g,S/ 5.40,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,Trozos de Atún CAMPOMAR en Aceite Vegetal Lata,5.4
+Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g Pack 6u,S/ 30.60 15%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún PRIMOR en Aceite Vegetal Lata  Pack 6u,30.6
+Vega,Trozos de Atún VEGA en Aceite Vegetal Lata 150g,S/ 4.70,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,Trozos de Atún VEGA en Aceite Vegetal Lata,4.7
+Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr,S/ 5.80,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún FLORIDA en Aceite Vegetal Lata r,5.8
+Florida,Trozos de Atún FLORIDA en Aceite Vegetal Lata 140gr x12u,S/ 72.00,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún FLORIDA en Aceite Vegetal Lata r x12u,72.0
+Inca Mar,Trozos de Atún INCA MAR en Aceite Vegetal Lata 140gr,S/ 5.40,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún INCA MAR en Aceite Vegetal Lata r,5.4
+Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g x12u,S/ 70.80,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún PRIMOR en Aceite Vegetal Lata  x12u,70.8
+Primor,Trozos de Atún PRIMOR en Aceite Vegetal Lata 140g,S/ 5.50,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Trozos de Atún PRIMOR en Aceite Vegetal Lata,5.5
+Timonel,Trozos de atún TIMONEL en Aceite Vegetal 150gr,S/ 4.90,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,150.0,g,Trozos de atún TIMONEL en Aceite Vegetal r,4.9
+Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata 140g,S/ 33.60 12%,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Filete de Atún FLORIDA en Aceite Vegetal Lata Pack 6 lata,33.6
+Florida,Filete de Atún FLORIDA en Aceite Vegetal Lata 140g,S/ 6.00,vega,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:40:09.987940,140.0,g,Filete de Atún FLORIDA en Aceite Vegetal Lata,6.0

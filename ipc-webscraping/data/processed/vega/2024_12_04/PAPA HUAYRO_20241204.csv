@@ -1,21 +1,21 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pringles,Papas PRINGLES Original Lata 104g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,104.0,g,8.9
-PAPI RICAS,Papas PAPI RICAS Sabor Picante Bolsa 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,2.8
-Lays,Papas LAYS Clásicas Bolsa 210gr,S/ 7.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,210.0,g,7.0
-Vega,Papas al Hilo VEGA Bolsa 150gr,S/ 5.20,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,150.0,g,5.2
-Pringles,Papas PRINGLES Sour & Cream Lata 109g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,109.0,g,8.9
-Pringles,Papas PRINGLES Queso Lata 109g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,109.0,g,8.9
-Vega,Papa seca VEGA Bolsa 400g,S/ 4.30,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,400.0,g,4.3
-PAPI RICAS,Papas PAPI RICAS Sabor Picante Bolsa 28gr,S/ 1.50,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,28.0,g,1.5
-Lays,Papas LAYS Ondas Picantes Bolsa 140g,S/ 5.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,140.0,g,5.9
-RIKY TOK,Papas RIKY TOK Ondas Picantes Bolsa 180g,S/ 5.70,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,180.0,g,5.7
-Lays,Papas LAYS Clásicas Bolsa 150g,S/ 5.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,150.0,g,5.8
-Timonel,Papa Seca TIMONEL Bolsa 400gr,S/ 5.10,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,400.0,g,5.1
-RIKY TOK,Papas RIKY TOK Ondas Naturales Bolsa 30g,S/ 1.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,30.0,g,1.0
-INKA CHIPS,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,7.8
-RIKY TOK,Papas RIKY TOK Ondas Picantes Bolsa 30g,S/ 1.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,30.0,g,1.0
-INKA CHIPS,Papas Fritas INKA CHIPS Bolsa 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,7.8
-PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,2.8
-PAPI RICAS,Papas PAPI RICAS Sabor Natural 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,2.8
-Lays,Papas LAYS Clásicas Bolsa 38g,S/ 2.40,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,38.0,g,2.4
-INKA CHIPS,Papas INKA CHIPS Sabor Jalapeño 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,7.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pringles,Papas PRINGLES Original Lata 104g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,104.0,g,Papas PRINGLES Original Lata,8.9
+PAPI RICAS,Papas PAPI RICAS Sabor Picante Bolsa 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,Papas PAPI RICAS Sabor Picante Bolsa r,2.8
+Lays,Papas LAYS Clásicas Bolsa 210gr,S/ 7.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,210.0,g,Papas LAYS Clásicas Bolsa r,7.0
+Vega,Papas al Hilo VEGA Bolsa 150gr,S/ 5.20,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,150.0,g,Papas al Hilo VEGA Bolsa r,5.2
+Pringles,Papas PRINGLES Sour & Cream Lata 109g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,109.0,g,Papas PRINGLES Sour & Cream Lata,8.9
+Pringles,Papas PRINGLES Queso Lata 109g,S/ 8.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,109.0,g,Papas PRINGLES Queso Lata,8.9
+Vega,Papa seca VEGA Bolsa 400g,S/ 4.30,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,400.0,g,Papa seca VEGA Bolsa,4.3
+PAPI RICAS,Papas PAPI RICAS Sabor Picante Bolsa 28gr,S/ 1.50,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,28.0,g,Papas PAPI RICAS Sabor Picante Bolsa r,1.5
+Lays,Papas LAYS Ondas Picantes Bolsa 140g,S/ 5.90,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,140.0,g,Papas LAYS Ondas Picantes Bolsa,5.9
+RIKY TOK,Papas RIKY TOK Ondas Picantes Bolsa 180g,S/ 5.70,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,180.0,g,Papas RIKY TOK Ondas Picantes Bolsa,5.7
+Lays,Papas LAYS Clásicas Bolsa 150g,S/ 5.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,150.0,g,Papas LAYS Clásicas Bolsa,5.8
+Timonel,Papa Seca TIMONEL Bolsa 400gr,S/ 5.10,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,400.0,g,Papa Seca TIMONEL Bolsa r,5.1
+RIKY TOK,Papas RIKY TOK Ondas Naturales Bolsa 30g,S/ 1.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,30.0,g,Papas RIKY TOK Ondas Naturales Bolsa,1.0
+INKA CHIPS,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa,7.8
+RIKY TOK,Papas RIKY TOK Ondas Picantes Bolsa 30g,S/ 1.00,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,30.0,g,Papas RIKY TOK Ondas Picantes Bolsa,1.0
+INKA CHIPS,Papas Fritas INKA CHIPS Bolsa 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,Papas Fritas INKA CHIPS Bolsa,7.8
+PAPI RICAS,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,Papas PAPI RICAS Sabor Pollo a la Brasa Bolsa r,2.8
+PAPI RICAS,Papas PAPI RICAS Sabor Natural 70gr,S/ 2.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,70.0,g,Papas PAPI RICAS Sabor Natural r,2.8
+Lays,Papas LAYS Clásicas Bolsa 38g,S/ 2.40,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,38.0,g,Papas LAYS Clásicas Bolsa,2.4
+INKA CHIPS,Papas INKA CHIPS Sabor Jalapeño 135g,S/ 7.80,vega,PAPA HUAYRO,2024-12-04 14:21:58.401154,135.0,g,Papas INKA CHIPS Sabor Jalapeño,7.8

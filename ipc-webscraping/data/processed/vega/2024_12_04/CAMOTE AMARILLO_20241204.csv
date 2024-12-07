@@ -1,13 +1,13 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Vega,Camote Frito VEGA Bolsa 140g,S/ 4.90,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,140.0,g,4.9
-Vega,Panetón VEGA Bolsa Ziploc 800gr,S/ 14.90 4%,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,800.0,g,14.9
-Emperatriz,Cera Líquida EMPERATRIZ Amarilla Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,10.1
-Piki,Salsa PIKI Ají Amarillo Molido Doypack 350Gr,S/ 9.50,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,350.0,g,9.5
-INKA CHIPS,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,S/ 7.80,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,125.0,g,7.8
-Natuchips,Chips de Camote NATUCHIPS Bolsa 135gr,S/ 7.00,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,135.0,g,7.0
-Vega,Trigo mote VEGA Bolsa 400g,S/ 2.60,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,400.0,g,2.6
-Sapolio,Cera SAPOLIO Amarilla Doypack 300ml,S/ 5.20,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,5.2
-Timonel,Trigo mote TIMONEL Bolsa 400g,S/ 2.90,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,400.0,g,2.9
-Emperatriz,Cera en Pasta EMPERATRIZ Amarilla Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,10.1
-Gloria,Leche GLORIA UHT Niños Caja 1L,S/ 6.00,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,1.0,l,6.0
-Emperatriz,Cera en Pasta EMPERATRIZ Roja Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,10.1
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Vega,Camote Frito VEGA Bolsa 140g,S/ 4.90,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,140.0,g,Camote Frito VEGA Bolsa,4.9
+Vega,Panetón VEGA Bolsa Ziploc 800gr,S/ 14.90 4%,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,800.0,g,Panetón VEGA Bolsa Ziploc r,14.9
+Emperatriz,Cera Líquida EMPERATRIZ Amarilla Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,Cera Líquida EMPERATRIZ Amarilla Doypack,10.1
+Piki,Salsa PIKI Ají Amarillo Molido Doypack 350Gr,S/ 9.50,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,350.0,g,Salsa PIKI Ají Amarillo Molido Doypack r,9.5
+INKA CHIPS,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,S/ 7.80,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,125.0,g,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa r,7.8
+Natuchips,Chips de Camote NATUCHIPS Bolsa 135gr,S/ 7.00,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,135.0,g,Chips de Camote NATUCHIPS Bolsa r,7.0
+Vega,Trigo mote VEGA Bolsa 400g,S/ 2.60,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,400.0,g,Trigo mote VEGA Bolsa,2.6
+Sapolio,Cera SAPOLIO Amarilla Doypack 300ml,S/ 5.20,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,Cera SAPOLIO Amarilla Doypack,5.2
+Timonel,Trigo mote TIMONEL Bolsa 400g,S/ 2.90,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,400.0,g,Trigo mote TIMONEL Bolsa,2.9
+Emperatriz,Cera en Pasta EMPERATRIZ Amarilla Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,Cera en Pasta EMPERATRIZ Amarilla Doypack,10.1
+Gloria,Leche GLORIA UHT Niños Caja 1L,S/ 6.00,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,1.0,l,Leche GLORIA UHT Niños Caja,6.0
+Emperatriz,Cera en Pasta EMPERATRIZ Roja Doypack 300ml,S/ 10.10,vega,CAMOTE AMARILLO,2024-12-04 14:20:21.242563,300.0,ml,Cera en Pasta EMPERATRIZ Roja Doypack,10.1

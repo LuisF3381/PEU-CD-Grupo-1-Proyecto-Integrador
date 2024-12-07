@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Arroz Extra Gran Chalán 5kg,S/ 25.90,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,25.9
-Arroz Extra Gran Chalán 750g,S/ 5.10,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,5.1
-Arroz Superior Gran Chalán 5kg,S/ 23.49,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,23.49
-Arroz Superior Gran Chalán 750g,S/ 4.90,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,4.9
-Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 25.49,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,25.49
-Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.80,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,4.8
-Gran Arroz Pacasmayo Superior 10 kg,S/ 45.50,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,10.0,kg,45.5
-Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,500.0,g,15.2
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Arroz Extra Gran Chalán 5kg,S/ 25.90,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,Arroz Extra Gran Chalán,25.9
+Arroz Extra Gran Chalán 750g,S/ 5.10,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,Arroz Extra Gran Chalán,5.1
+Arroz Superior Gran Chalán 5kg,S/ 23.49,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,Arroz Superior Gran Chalán,23.49
+Arroz Superior Gran Chalán 750g,S/ 4.90,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,Arroz Superior Gran Chalán,4.9
+Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 25.49,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,25.49
+Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.80,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,750.0,g,Arroz Gran Reserva Extra Valle Norte Bolsa,4.8
+Gran Arroz Pacasmayo Superior 10 kg,S/ 45.50,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,10.0,kg,Gran Arroz Pacasmayo Superior,45.5
+Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,metro,ARROZ A GRANEL,2024-12-04 20:33:26.804458,500.0,g,Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet,15.2

@@ -1,16 +1,16 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Empanada de Pollo 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,16.9
-Empanada de Carne 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,16.9
-Empanada de Pollo Mundo Vegetal 2un,S/ 6.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,2.0,un,6.5
-Combo 6 Empanadas de Carne Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,30.9
-Enrollado Vegetariano El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5
-Enrollado de Pollo El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5
-Croissant Mini con Pollo Cuisine & Co 6un,S/ 14.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,6.0,un,14.9
-Combo: 4 Empanadas de Carne + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,21.9
-Combo 4 Empanadas de Carne Wong + Gaseosa 1.5 Litros,S/ 22.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,22.9
-Enrollado Mixto El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5
-Enrollado de Lechón El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,7.5
-"Triple de Palta, Tomate y Huevo x un",S/ 5.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.0,un,5.9
-Combo 6 Empanadas de Pollo Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,30.9
-Combo: 4 Empanadas de Pollo + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,21.9
-Combo 4 Empanadas de Pollo Wong + Gaseosa 1.5 Litros,S/ 22.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,22.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Empanada de Pollo 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,Empanada de Pollo,16.9
+Empanada de Carne 4un,S/ 16.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,4.0,un,Empanada de Carne,16.9
+Empanada de Pollo Mundo Vegetal 2un,S/ 6.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,2.0,un,Empanada de Pollo Mundo Vegetal,6.5
+Combo 6 Empanadas de Carne Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo 6 Empanadas de Carne Metro + Gaseosa itros,30.9
+Enrollado Vegetariano El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,Enrollado Vegetariano El Cedro,7.5
+Enrollado de Pollo El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,Enrollado de Pollo El Cedro,7.5
+Croissant Mini con Pollo Cuisine & Co 6un,S/ 14.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,6.0,un,Croissant Mini con Pollo Cuisine & Co,14.9
+Combo: 4 Empanadas de Carne + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo: 4 Empanadas de Carne + Gaseosa Coca Cola Sin Azúcar,21.9
+Combo 4 Empanadas de Carne Wong + Gaseosa 1.5 Litros,S/ 22.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo 4 Empanadas de Carne Wong + Gaseosa itros,22.9
+Enrollado Mixto El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,Enrollado Mixto El Cedro,7.5
+Enrollado de Lechón El Cedro 170g,S/ 7.50,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,170.0,g,Enrollado de Lechón El Cedro,7.5
+"Triple de Palta, Tomate y Huevo x un",S/ 5.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.0,un,"Triple de Palta, Tomate y Huevo",5.9
+Combo 6 Empanadas de Pollo Metro + Gaseosa 1.5 Litros,S/ 30.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo 6 Empanadas de Pollo Metro + Gaseosa itros,30.9
+Combo: 4 Empanadas de Pollo + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 21.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo: 4 Empanadas de Pollo + Gaseosa Coca Cola Sin Azúcar,21.9
+Combo 4 Empanadas de Pollo Wong + Gaseosa 1.5 Litros,S/ 22.90,metro,PASTELES SALADOS,2024-12-04 20:48:55.910267,1.5,l,Combo 4 Empanadas de Pollo Wong + Gaseosa itros,22.9

@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1.1 kg aprox.,Hígado de Res Importado,S/ 13.90 x kg,plaza_vea,HÍGADO DE RES,2024-12-05 14:49:49.827956,1.1,kg,Hígado de Res Importado,13.9
+Doypack 75g,Comida para Perros WOOF CITY Hígado de Res Doy...,S/ 16.99 un,plaza_vea,HÍGADO DE RES,2024-12-05 14:49:49.827956,75.0,g,Comida para Perros WOOF CITY Hígado de Res Doy,16.99
+Frasco 80g,Comida para Perros PETS REPUBLIC Adulto Hígado...,S/ 15.90 un,plaza_vea,HÍGADO DE RES,2024-12-05 14:49:49.827956,80.0,g,Comida para Perros PETS REPUBLIC Adulto Hígado,15.9

@@ -42053,16 +42053,16 @@ Stacktrace:
 2024-12-07 13:46:13,424 - INFO - Driver downloading response is 200
 2024-12-07 13:46:13,610 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:46:13,627 - INFO - Get LATEST chromedriver version for google-chrome
-2024-12-07 13:46:13,683 - ERROR - Error en scraping para término MAÍZ REVENTÓN (POP CORN): File is not a zip file
+2024-12-07 13:46:13,683 - ERROR - Error en scraping para tï¿½rmino MAï¿½Z REVENTï¿½N (POP CORN): File is not a zip file
 2024-12-07 13:46:13,685 - INFO - ====== WebDriver manager ======
 2024-12-07 13:46:13,724 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:46:13,734 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:46:13,998 - INFO - Driver has been saved in cache [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87]
-2024-12-07 13:46:14,002 - ERROR - Error en scraping para término ARROZ A GRANEL: Message: 'chromedriver.exe' executable may have wrong permissions.
+2024-12-07 13:46:14,002 - ERROR - Error en scraping para tï¿½rmino ARROZ A GRANEL: Message: 'chromedriver.exe' executable may have wrong permissions.
 
 2024-12-07 13:46:14,003 - INFO - ====== WebDriver manager ======
 2024-12-07 13:46:14,023 - INFO - Driver has been saved in cache [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87]
-2024-12-07 13:46:14,028 - ERROR - Error en scraping para término MAÍZ MORADO: Message: 'chromedriver.exe' executable may have wrong permissions.
+2024-12-07 13:46:14,028 - ERROR - Error en scraping para tï¿½rmino MAï¿½Z MORADO: Message: 'chromedriver.exe' executable may have wrong permissions.
 
 2024-12-07 13:46:14,028 - INFO - ====== WebDriver manager ======
 2024-12-07 13:46:14,048 - INFO - Driver has been saved in cache [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87]
@@ -42075,15 +42075,15 @@ Stacktrace:
 2024-12-07 13:46:21,563 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:46:21,587 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:46:21,614 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:47:36,452 - INFO - Scraping exitoso para término: QUINUA ENTERA
-2024-12-07 13:47:36,761 - INFO - Scraping exitoso para término: MAÍZ SECO CANCHA
+2024-12-07 13:47:36,452 - INFO - Scraping exitoso para tï¿½rmino: QUINUA ENTERA
+2024-12-07 13:47:36,761 - INFO - Scraping exitoso para tï¿½rmino: MAï¿½Z SECO CANCHA
 2024-12-07 13:47:40,508 - INFO - ====== WebDriver manager ======
 2024-12-07 13:47:40,836 - INFO - ====== WebDriver manager ======
-2024-12-07 13:47:41,195 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-07 13:47:41,195 - INFO - Scraping exitoso para tï¿½rmino: ARROZ ENVASADO
 2024-12-07 13:47:42,148 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:47:42,164 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:47:42,179 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:47:42,289 - INFO - Scraping exitoso para término: TRIGO MORÓN
+2024-12-07 13:47:42,289 - INFO - Scraping exitoso para tï¿½rmino: TRIGO MORï¿½N
 2024-12-07 13:47:42,414 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:47:42,429 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:47:42,445 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -42145,7 +42145,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:48:52,989 - INFO - Scraping exitoso para término: HARINA DE TRIGO PREPARADA
+2024-12-07 13:48:52,989 - INFO - Scraping exitoso para tï¿½rmino: HARINA DE TRIGO PREPARADA
 2024-12-07 13:48:53,539 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -42171,7 +42171,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:48:54,834 - INFO - Scraping exitoso para término: HARINA DE TRIGO SIN PREPARAR
+2024-12-07 13:48:54,834 - INFO - Scraping exitoso para tï¿½rmino: HARINA DE TRIGO SIN PREPARAR
 2024-12-07 13:48:57,025 - INFO - ====== WebDriver manager ======
 2024-12-07 13:48:58,679 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:48:58,695 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42180,12 +42180,12 @@ Stacktrace:
 2024-12-07 13:49:02,009 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:49:02,034 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:49:02,055 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:49:03,986 - INFO - Scraping exitoso para término: HARINA SIETE SEMILLAS O MIXTAS
+2024-12-07 13:49:03,986 - INFO - Scraping exitoso para tï¿½rmino: HARINA SIETE SEMILLAS O MIXTAS
 2024-12-07 13:49:08,168 - INFO - ====== WebDriver manager ======
 2024-12-07 13:49:09,756 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:49:09,772 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:49:09,787 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:49:18,329 - INFO - Scraping exitoso para término: HARINA DE MAÍZ BLANCO
+2024-12-07 13:49:18,329 - INFO - Scraping exitoso para tï¿½rmino: HARINA DE MAï¿½Z BLANCO
 2024-12-07 13:49:22,364 - INFO - ====== WebDriver manager ======
 2024-12-07 13:49:24,913 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:49:24,928 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42240,22 +42240,22 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:50:06,376 - INFO - Scraping exitoso para término: AVENA ENVASADA
+2024-12-07 13:50:06,376 - INFO - Scraping exitoso para tï¿½rmino: AVENA ENVASADA
 2024-12-07 13:50:10,398 - INFO - ====== WebDriver manager ======
 2024-12-07 13:50:12,019 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:12,038 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:12,073 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:50:14,283 - INFO - Scraping exitoso para término: AVENA A GRANEL
+2024-12-07 13:50:14,283 - INFO - Scraping exitoso para tï¿½rmino: AVENA A GRANEL
 2024-12-07 13:50:18,298 - INFO - ====== WebDriver manager ======
 2024-12-07 13:50:20,025 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:20,060 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:20,091 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:50:20,760 - INFO - Scraping exitoso para término: BIZCOCHOS
+2024-12-07 13:50:20,760 - INFO - Scraping exitoso para tï¿½rmino: BIZCOCHOS
 2024-12-07 13:50:24,764 - INFO - ====== WebDriver manager ======
 2024-12-07 13:50:28,145 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:28,167 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:28,188 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:50:37,035 - INFO - Scraping exitoso para término: PAN CARACOL
+2024-12-07 13:50:37,035 - INFO - Scraping exitoso para tï¿½rmino: PAN CARACOL
 2024-12-07 13:50:41,043 - INFO - ====== WebDriver manager ======
 2024-12-07 13:50:43,886 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:50:43,906 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42310,12 +42310,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:51:23,878 - INFO - Scraping exitoso para término: PAN CIABATTA
+2024-12-07 13:51:23,878 - INFO - Scraping exitoso para tï¿½rmino: PAN CIABATTA
 2024-12-07 13:51:27,942 - INFO - ====== WebDriver manager ======
 2024-12-07 13:51:29,462 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:51:29,481 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:51:29,499 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:51:30,605 - INFO - Scraping exitoso para término: PAN DE YEMA
+2024-12-07 13:51:30,605 - INFO - Scraping exitoso para tï¿½rmino: PAN DE YEMA
 2024-12-07 13:51:30,617 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -42345,8 +42345,8 @@ Stacktrace:
 2024-12-07 13:51:36,334 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:51:36,350 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:51:36,365 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:51:54,597 - INFO - Scraping exitoso para término: PAN FRANCÉS
-2024-12-07 13:51:54,609 - INFO - Scraping exitoso para término: PAN DE MOLDE
+2024-12-07 13:51:54,597 - INFO - Scraping exitoso para tï¿½rmino: PAN FRANCï¿½S
+2024-12-07 13:51:54,609 - INFO - Scraping exitoso para tï¿½rmino: PAN DE MOLDE
 2024-12-07 13:51:58,629 - INFO - ====== WebDriver manager ======
 2024-12-07 13:51:58,629 - INFO - ====== WebDriver manager ======
 2024-12-07 13:52:00,409 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42380,7 +42380,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:52:43,238 - INFO - Scraping exitoso para término: PAN INTEGRAL
+2024-12-07 13:52:43,238 - INFO - Scraping exitoso para tï¿½rmino: PAN INTEGRAL
 2024-12-07 13:52:47,272 - INFO - ====== WebDriver manager ======
 2024-12-07 13:52:49,154 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:52:49,174 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42410,9 +42410,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:53:10,391 - INFO - Scraping exitoso para término: TOSTADAS (MOLDE)
-2024-12-07 13:53:11,507 - INFO - Scraping exitoso para término: PANETÓN
-2024-12-07 13:53:13,313 - INFO - Scraping exitoso para término: GALLETAS BAÑADAS
+2024-12-07 13:53:10,391 - INFO - Scraping exitoso para tï¿½rmino: TOSTADAS (MOLDE)
+2024-12-07 13:53:11,507 - INFO - Scraping exitoso para tï¿½rmino: PANETï¿½N
+2024-12-07 13:53:13,313 - INFO - Scraping exitoso para tï¿½rmino: GALLETAS BAï¿½ADAS
 2024-12-07 13:53:14,578 - INFO - ====== WebDriver manager ======
 2024-12-07 13:53:15,612 - INFO - ====== WebDriver manager ======
 2024-12-07 13:53:16,693 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42425,7 +42425,7 @@ Stacktrace:
 2024-12-07 13:53:25,212 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:53:25,232 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:53:25,253 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:54:01,417 - INFO - Scraping exitoso para término: GALLETAS DULCES
+2024-12-07 13:54:01,417 - INFO - Scraping exitoso para tï¿½rmino: GALLETAS DULCES
 2024-12-07 13:54:05,454 - INFO - ====== WebDriver manager ======
 2024-12-07 13:54:07,171 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:54:07,208 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42480,9 +42480,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:54:31,421 - INFO - Scraping exitoso para término: GALLETAS RELLENAS
-2024-12-07 13:54:31,739 - INFO - Scraping exitoso para término: GALLETAS SALADAS
-2024-12-07 13:54:33,739 - INFO - Scraping exitoso para término: PASTELES DULCES
+2024-12-07 13:54:31,421 - INFO - Scraping exitoso para tï¿½rmino: GALLETAS RELLENAS
+2024-12-07 13:54:31,739 - INFO - Scraping exitoso para tï¿½rmino: GALLETAS SALADAS
+2024-12-07 13:54:33,739 - INFO - Scraping exitoso para tï¿½rmino: PASTELES DULCES
 2024-12-07 13:54:35,483 - INFO - ====== WebDriver manager ======
 2024-12-07 13:54:35,795 - INFO - ====== WebDriver manager ======
 2024-12-07 13:54:36,983 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42495,14 +42495,14 @@ Stacktrace:
 2024-12-07 13:54:45,130 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:54:45,157 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:54:45,183 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:55:19,162 - INFO - Scraping exitoso para término: PASTELES SALADOS
+2024-12-07 13:55:19,162 - INFO - Scraping exitoso para tï¿½rmino: PASTELES SALADOS
 2024-12-07 13:55:23,207 - INFO - ====== WebDriver manager ======
 2024-12-07 13:55:25,139 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:55:25,164 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:55:25,186 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:55:50,743 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA CORTA
-2024-12-07 13:55:51,749 - INFO - Scraping exitoso para término: TORTA (ENTERA)
-2024-12-07 13:55:53,458 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA LARGA
+2024-12-07 13:55:50,743 - INFO - Scraping exitoso para tï¿½rmino: FIDEOS SECOS DE PASTA CORTA
+2024-12-07 13:55:51,749 - INFO - Scraping exitoso para tï¿½rmino: TORTA (ENTERA)
+2024-12-07 13:55:53,458 - INFO - Scraping exitoso para tï¿½rmino: FIDEOS SECOS DE PASTA LARGA
 2024-12-07 13:55:54,763 - INFO - ====== WebDriver manager ======
 2024-12-07 13:55:55,794 - INFO - ====== WebDriver manager ======
 2024-12-07 13:55:56,700 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42515,7 +42515,7 @@ Stacktrace:
 2024-12-07 13:56:02,059 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:56:02,090 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:56:02,113 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:56:36,888 - INFO - Scraping exitoso para término: CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS
+2024-12-07 13:56:36,888 - INFO - Scraping exitoso para tï¿½rmino: CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS
 2024-12-07 13:56:40,907 - INFO - ====== WebDriver manager ======
 2024-12-07 13:56:42,371 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:56:42,386 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42545,9 +42545,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:57:10,705 - INFO - Scraping exitoso para término: CEREALES PROCESADOS SIMPLES (HOJUELAS)
-2024-12-07 13:57:11,761 - INFO - Scraping exitoso para término: CARNE DE CARNERO
-2024-12-07 13:57:11,902 - INFO - Scraping exitoso para término: CHULETA DE CERDO
+2024-12-07 13:57:10,705 - INFO - Scraping exitoso para tï¿½rmino: CEREALES PROCESADOS SIMPLES (HOJUELAS)
+2024-12-07 13:57:11,761 - INFO - Scraping exitoso para tï¿½rmino: CARNE DE CARNERO
+2024-12-07 13:57:11,902 - INFO - Scraping exitoso para tï¿½rmino: CHULETA DE CERDO
 2024-12-07 13:57:14,776 - INFO - ====== WebDriver manager ======
 2024-12-07 13:57:15,838 - INFO - ====== WebDriver manager ======
 2024-12-07 13:57:15,948 - INFO - ====== WebDriver manager ======
@@ -42585,7 +42585,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:57:54,743 - INFO - Scraping exitoso para término: LOMO DE CERDO
+2024-12-07 13:57:54,743 - INFO - Scraping exitoso para tï¿½rmino: LOMO DE CERDO
 2024-12-07 13:57:58,760 - INFO - ====== WebDriver manager ======
 2024-12-07 13:58:00,556 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:58:00,572 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42615,9 +42615,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:58:30,102 - INFO - Scraping exitoso para término: PANCETA (CARNE DE CERDO)
-2024-12-07 13:58:30,180 - INFO - Scraping exitoso para término: COSTILLA DE CERDO
-2024-12-07 13:58:32,092 - INFO - Scraping exitoso para término: PIERNA (CARNE DE CERDO)
+2024-12-07 13:58:30,102 - INFO - Scraping exitoso para tï¿½rmino: PANCETA (CARNE DE CERDO)
+2024-12-07 13:58:30,180 - INFO - Scraping exitoso para tï¿½rmino: COSTILLA DE CERDO
+2024-12-07 13:58:32,092 - INFO - Scraping exitoso para tï¿½rmino: PIERNA (CARNE DE CERDO)
 2024-12-07 13:58:34,135 - INFO - ====== WebDriver manager ======
 2024-12-07 13:58:34,198 - INFO - ====== WebDriver manager ======
 2024-12-07 13:58:35,837 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42630,7 +42630,7 @@ Stacktrace:
 2024-12-07 13:58:43,393 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:58:43,412 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:58:43,442 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 13:59:11,585 - INFO - Scraping exitoso para término: BISTEC DE VACUNO
+2024-12-07 13:59:11,585 - INFO - Scraping exitoso para tï¿½rmino: BISTEC DE VACUNO
 2024-12-07 13:59:15,650 - INFO - ====== WebDriver manager ======
 2024-12-07 13:59:17,304 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:59:17,367 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42660,8 +42660,8 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 13:59:42,334 - INFO - Scraping exitoso para término: CARNE PARA GUISO DE VACUNO
-2024-12-07 13:59:44,970 - INFO - Scraping exitoso para término: CARNE MOLIDA DE VACUNO
+2024-12-07 13:59:42,334 - INFO - Scraping exitoso para tï¿½rmino: CARNE PARA GUISO DE VACUNO
+2024-12-07 13:59:44,970 - INFO - Scraping exitoso para tï¿½rmino: CARNE MOLIDA DE VACUNO
 2024-12-07 13:59:46,397 - INFO - ====== WebDriver manager ======
 2024-12-07 13:59:47,825 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:59:47,843 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42670,7 +42670,7 @@ Stacktrace:
 2024-12-07 13:59:50,820 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:59:50,838 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 13:59:50,856 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:00:00,149 - INFO - Scraping exitoso para término: CHURRASCO DE VACUNO
+2024-12-07 14:00:00,149 - INFO - Scraping exitoso para tï¿½rmino: CHURRASCO DE VACUNO
 2024-12-07 14:00:04,195 - INFO - ====== WebDriver manager ======
 2024-12-07 14:00:06,287 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:00:06,319 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42700,7 +42700,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:00:31,163 - INFO - Scraping exitoso para término: SANCOCHADO DE VACUNO
+2024-12-07 14:00:31,163 - INFO - Scraping exitoso para tï¿½rmino: SANCOCHADO DE VACUNO
 2024-12-07 14:00:35,192 - INFO - ====== WebDriver manager ======
 2024-12-07 14:00:36,821 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:00:36,851 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42730,8 +42730,8 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:00:58,287 - INFO - Scraping exitoso para término: ALAS DE POLLO
-2024-12-07 14:00:58,334 - INFO - Scraping exitoso para término: GALLINA EVISCERADA
+2024-12-07 14:00:58,287 - INFO - Scraping exitoso para tï¿½rmino: ALAS DE POLLO
+2024-12-07 14:00:58,334 - INFO - Scraping exitoso para tï¿½rmino: GALLINA EVISCERADA
 2024-12-07 14:00:59,655 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -42790,17 +42790,17 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:01:28,971 - INFO - Scraping exitoso para término: PECHUGA DE POLLO
+2024-12-07 14:01:28,971 - INFO - Scraping exitoso para tï¿½rmino: PECHUGA DE POLLO
 2024-12-07 14:01:33,013 - INFO - ====== WebDriver manager ======
 2024-12-07 14:01:34,678 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:01:34,699 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:01:34,717 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:01:46,222 - INFO - Scraping exitoso para término: PIERNA DE POLLO
+2024-12-07 14:01:46,222 - INFO - Scraping exitoso para tï¿½rmino: PIERNA DE POLLO
 2024-12-07 14:01:50,238 - INFO - ====== WebDriver manager ======
 2024-12-07 14:01:52,640 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:01:52,670 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:01:52,686 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:02:06,239 - INFO - Scraping exitoso para término: POLLO EVISCERADO
+2024-12-07 14:02:06,239 - INFO - Scraping exitoso para tï¿½rmino: POLLO EVISCERADO
 2024-12-07 14:02:10,255 - INFO - ====== WebDriver manager ======
 2024-12-07 14:02:11,783 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:02:11,798 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42830,7 +42830,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:02:36,773 - INFO - Scraping exitoso para término: PAVO EVISCERADO
+2024-12-07 14:02:36,773 - INFO - Scraping exitoso para tï¿½rmino: PAVO EVISCERADO
 2024-12-07 14:02:39,499 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -42860,12 +42860,12 @@ Stacktrace:
 2024-12-07 14:02:42,313 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:02:42,330 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:02:42,346 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:02:46,302 - INFO - Scraping exitoso para término: MENUDENCIA DE POLLO
+2024-12-07 14:02:46,302 - INFO - Scraping exitoso para tï¿½rmino: MENUDENCIA DE POLLO
 2024-12-07 14:02:50,309 - INFO - ====== WebDriver manager ======
 2024-12-07 14:02:51,999 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:02:52,017 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:02:52,034 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:03:00,648 - INFO - Scraping exitoso para término: BOFE DE RES
+2024-12-07 14:03:00,648 - INFO - Scraping exitoso para tï¿½rmino: BOFE DE RES
 2024-12-07 14:03:01,354 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -42895,12 +42895,12 @@ Stacktrace:
 2024-12-07 14:03:07,183 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:03:07,205 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:03:07,236 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:03:19,110 - INFO - Scraping exitoso para término: HÍGADO DE RES
+2024-12-07 14:03:19,110 - INFO - Scraping exitoso para tï¿½rmino: Hï¿½GADO DE RES
 2024-12-07 14:03:23,173 - INFO - ====== WebDriver manager ======
 2024-12-07 14:03:24,858 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:03:24,889 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:03:24,907 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:03:49,255 - INFO - Scraping exitoso para término: MONDONGO DE RES
+2024-12-07 14:03:49,255 - INFO - Scraping exitoso para tï¿½rmino: MONDONGO DE RES
 2024-12-07 14:03:53,315 - INFO - ====== WebDriver manager ======
 2024-12-07 14:03:54,877 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:03:54,892 - INFO - Get LATEST chromedriver version for google-chrome
@@ -42955,14 +42955,14 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:04:24,367 - INFO - Scraping exitoso para término: CHORIZO
-2024-12-07 14:04:27,844 - INFO - Scraping exitoso para término: HOT DOG
+2024-12-07 14:04:24,367 - INFO - Scraping exitoso para tï¿½rmino: CHORIZO
+2024-12-07 14:04:27,844 - INFO - Scraping exitoso para tï¿½rmino: HOT DOG
 2024-12-07 14:04:28,408 - INFO - ====== WebDriver manager ======
 2024-12-07 14:04:29,969 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:30,016 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:30,032 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
 2024-12-07 14:04:31,909 - INFO - ====== WebDriver manager ======
-2024-12-07 14:04:34,326 - INFO - Scraping exitoso para término: JAMÓN DEL PAÍS
+2024-12-07 14:04:34,326 - INFO - Scraping exitoso para tï¿½rmino: JAMï¿½N DEL PAï¿½S
 2024-12-07 14:04:35,202 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:35,229 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:35,251 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -42995,7 +42995,7 @@ Stacktrace:
 2024-12-07 14:04:41,531 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:41,547 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:04:41,581 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:04:58,765 - INFO - Scraping exitoso para término: JAMONADA
+2024-12-07 14:04:58,765 - INFO - Scraping exitoso para tï¿½rmino: JAMONADA
 2024-12-07 14:05:02,797 - INFO - ====== WebDriver manager ======
 2024-12-07 14:05:04,499 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:05:04,523 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43050,12 +43050,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:05:40,308 - INFO - Scraping exitoso para término: TOCINO AHUMADO
+2024-12-07 14:05:40,308 - INFO - Scraping exitoso para tï¿½rmino: TOCINO AHUMADO
 2024-12-07 14:05:44,345 - INFO - ====== WebDriver manager ======
 2024-12-07 14:05:46,058 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:05:46,097 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:05:46,121 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:05:52,027 - INFO - Scraping exitoso para término: MILANESA
+2024-12-07 14:05:52,027 - INFO - Scraping exitoso para tï¿½rmino: MILANESA
 2024-12-07 14:05:52,124 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -43085,8 +43085,8 @@ Stacktrace:
 2024-12-07 14:05:58,453 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:05:58,484 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:05:58,500 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:06:11,416 - INFO - Scraping exitoso para término: HAMBURGUESA
-2024-12-07 14:06:14,171 - INFO - Scraping exitoso para término: BONITO
+2024-12-07 14:06:11,416 - INFO - Scraping exitoso para tï¿½rmino: HAMBURGUESA
+2024-12-07 14:06:14,171 - INFO - Scraping exitoso para tï¿½rmino: BONITO
 2024-12-07 14:06:15,454 - INFO - ====== WebDriver manager ======
 2024-12-07 14:06:17,768 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:06:17,786 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43120,12 +43120,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:06:53,149 - INFO - Scraping exitoso para término: CABALLA
+2024-12-07 14:06:53,149 - INFO - Scraping exitoso para tï¿½rmino: CABALLA
 2024-12-07 14:06:57,186 - INFO - ====== WebDriver manager ======
 2024-12-07 14:06:58,593 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:06:58,642 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:06:58,657 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:07:07,512 - INFO - Scraping exitoso para término: CORVINA
+2024-12-07 14:07:07,512 - INFO - Scraping exitoso para tï¿½rmino: CORVINA
 2024-12-07 14:07:09,207 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -43180,7 +43180,7 @@ Stacktrace:
 2024-12-07 14:07:13,176 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:07:13,207 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:07:13,232 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:07:34,717 - INFO - Scraping exitoso para término: LIZA
+2024-12-07 14:07:34,717 - INFO - Scraping exitoso para tï¿½rmino: LIZA
 2024-12-07 14:07:38,766 - INFO - ====== WebDriver manager ======
 2024-12-07 14:07:40,232 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:07:40,248 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43212,7 +43212,7 @@ Stacktrace:
 
 2024-12-07 14:07:51,610 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:07:55,169 - INFO - Scraping exitoso para término: JUREL
+2024-12-07 14:07:55,169 - INFO - Scraping exitoso para tï¿½rmino: JUREL
 2024-12-07 14:07:59,202 - INFO - ====== WebDriver manager ======
 2024-12-07 14:08:00,898 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:08:00,926 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43242,12 +43242,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:08:08,591 - INFO - Scraping exitoso para término: MERLUZA
+2024-12-07 14:08:08,591 - INFO - Scraping exitoso para tï¿½rmino: MERLUZA
 2024-12-07 14:08:12,633 - INFO - ====== WebDriver manager ======
 2024-12-07 14:08:14,694 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:08:14,714 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:08:14,733 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:08:24,387 - INFO - Scraping exitoso para término: PERICO
+2024-12-07 14:08:24,387 - INFO - Scraping exitoso para tï¿½rmino: PERICO
 2024-12-07 14:08:28,434 - INFO - ====== WebDriver manager ======
 2024-12-07 14:08:30,522 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:08:30,544 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43329,20 +43329,20 @@ Stacktrace:
 
 2024-12-07 14:09:14,049 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:09:16,303 - INFO - Scraping exitoso para término: TILAPIA - PESCA CONTINENTAL - DE RÍO
+2024-12-07 14:09:16,303 - INFO - Scraping exitoso para tï¿½rmino: TILAPIA - PESCA CONTINENTAL - DE Rï¿½O
 2024-12-07 14:09:20,341 - INFO - ====== WebDriver manager ======
 2024-12-07 14:09:22,325 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:09:22,355 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:09:22,375 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:09:25,189 - INFO - Scraping exitoso para término: CHOROS (CON VALVA)
+2024-12-07 14:09:25,189 - INFO - Scraping exitoso para tï¿½rmino: CHOROS (CON VALVA)
 2024-12-07 14:09:29,198 - INFO - ====== WebDriver manager ======
 2024-12-07 14:09:31,344 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:09:31,368 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:09:31,401 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
 2024-12-07 14:09:33,098 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:09:40,024 - INFO - Scraping exitoso para término: FILETE DE PESCADO EN CONSERVA
-2024-12-07 14:09:40,038 - INFO - Scraping exitoso para término: TRUCHA - PESCA CONTINENTAL - DE RÍO
+2024-12-07 14:09:40,024 - INFO - Scraping exitoso para tï¿½rmino: FILETE DE PESCADO EN CONSERVA
+2024-12-07 14:09:40,038 - INFO - Scraping exitoso para tï¿½rmino: TRUCHA - PESCA CONTINENTAL - DE Rï¿½O
 2024-12-07 14:09:44,089 - INFO - ====== WebDriver manager ======
 2024-12-07 14:09:44,089 - INFO - ====== WebDriver manager ======
 2024-12-07 14:09:46,355 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43351,18 +43351,18 @@ Stacktrace:
 2024-12-07 14:09:46,388 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:09:46,397 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
 2024-12-07 14:09:46,417 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:10:29,322 - INFO - Scraping exitoso para término: GRATED DE PESCADO EN CONSERVA
+2024-12-07 14:10:29,322 - INFO - Scraping exitoso para tï¿½rmino: GRATED DE PESCADO EN CONSERVA
 2024-12-07 14:10:33,354 - INFO - ====== WebDriver manager ======
 2024-12-07 14:10:35,385 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:10:35,400 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:10:35,416 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:10:43,400 - INFO - Scraping exitoso para término: TROZO DE PESCADO EN CONSERVA
+2024-12-07 14:10:43,400 - INFO - Scraping exitoso para tï¿½rmino: TROZO DE PESCADO EN CONSERVA
 2024-12-07 14:10:47,420 - INFO - ====== WebDriver manager ======
 2024-12-07 14:10:50,269 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:10:50,290 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:10:50,311 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:10:59,446 - INFO - Scraping exitoso para término: LECHE FRESCA UHT
-2024-12-07 14:10:59,650 - INFO - Scraping exitoso para término: LECHE FRESCA PASTEURIZADA
+2024-12-07 14:10:59,446 - INFO - Scraping exitoso para tï¿½rmino: LECHE FRESCA UHT
+2024-12-07 14:10:59,650 - INFO - Scraping exitoso para tï¿½rmino: LECHE FRESCA PASTEURIZADA
 2024-12-07 14:11:03,509 - INFO - ====== WebDriver manager ======
 2024-12-07 14:11:03,712 - INFO - ====== WebDriver manager ======
 2024-12-07 14:11:05,563 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43421,15 +43421,15 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:11:48,344 - INFO - Scraping exitoso para término: LECHE EVAPORADA
+2024-12-07 14:11:48,344 - INFO - Scraping exitoso para tï¿½rmino: LECHE EVAPORADA
 2024-12-07 14:11:52,367 - INFO - ====== WebDriver manager ======
 2024-12-07 14:11:54,088 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:11:54,111 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:11:54,137 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:12:13,342 - INFO - Scraping exitoso para término: FÓRMULA PARA LACTANTES
-2024-12-07 14:12:14,624 - INFO - Scraping exitoso para término: ALIMENTO LACTEO EN POLVO
+2024-12-07 14:12:13,342 - INFO - Scraping exitoso para tï¿½rmino: Fï¿½RMULA PARA LACTANTES
+2024-12-07 14:12:14,624 - INFO - Scraping exitoso para tï¿½rmino: ALIMENTO LACTEO EN POLVO
 2024-12-07 14:12:17,368 - INFO - ====== WebDriver manager ======
-2024-12-07 14:12:18,196 - INFO - Scraping exitoso para término: MEZCLA LÁCTEA EVAPORADA
+2024-12-07 14:12:18,196 - INFO - Scraping exitoso para tï¿½rmino: MEZCLA Lï¿½CTEA EVAPORADA
 2024-12-07 14:12:18,726 - INFO - ====== WebDriver manager ======
 2024-12-07 14:12:18,774 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:12:18,789 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43493,10 +43493,10 @@ Stacktrace:
 
 2024-12-07 14:13:27,033 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:13:29,476 - INFO - Scraping exitoso para término: LECHE / BEBIDAS DE PRODUCTOS VEGETALES
-2024-12-07 14:13:30,319 - INFO - Scraping exitoso para término: YOGUR DE LECHE ENTERA
+2024-12-07 14:13:29,476 - INFO - Scraping exitoso para tï¿½rmino: LECHE / BEBIDAS DE PRODUCTOS VEGETALES
+2024-12-07 14:13:30,319 - INFO - Scraping exitoso para tï¿½rmino: YOGUR DE LECHE ENTERA
 2024-12-07 14:13:33,554 - INFO - ====== WebDriver manager ======
-2024-12-07 14:13:33,804 - INFO - Scraping exitoso para término: YOGUR MIXTO EN VASO
+2024-12-07 14:13:33,804 - INFO - Scraping exitoso para tï¿½rmino: YOGUR MIXTO EN VASO
 2024-12-07 14:13:34,383 - INFO - ====== WebDriver manager ======
 2024-12-07 14:13:35,023 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:13:35,039 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43510,7 +43510,7 @@ Stacktrace:
 2024-12-07 14:13:43,617 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
 2024-12-07 14:13:52,521 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:13:56,133 - INFO - Scraping exitoso para término: YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA
+2024-12-07 14:13:56,133 - INFO - Scraping exitoso para tï¿½rmino: YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA
 2024-12-07 14:14:00,164 - INFO - ====== WebDriver manager ======
 2024-12-07 14:14:01,695 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:14:01,711 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43590,9 +43590,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:14:44,505 - INFO - Scraping exitoso para término: QUESO FRESCO DE VACA
+2024-12-07 14:14:44,505 - INFO - Scraping exitoso para tï¿½rmino: QUESO FRESCO DE VACA
 2024-12-07 14:14:48,511 - INFO - ====== WebDriver manager ======
-2024-12-07 14:14:49,149 - INFO - Scraping exitoso para término: LECHE CONDENSADA
+2024-12-07 14:14:49,149 - INFO - Scraping exitoso para tï¿½rmino: LECHE CONDENSADA
 2024-12-07 14:14:49,945 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:14:49,960 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:14:49,985 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -43600,12 +43600,12 @@ Stacktrace:
 2024-12-07 14:14:56,302 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:14:56,323 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:14:56,345 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:15:00,543 - INFO - Scraping exitoso para término: QUESO EDAM
+2024-12-07 14:15:00,543 - INFO - Scraping exitoso para tï¿½rmino: QUESO EDAM
 2024-12-07 14:15:05,118 - INFO - ====== WebDriver manager ======
 2024-12-07 14:15:07,172 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:15:07,193 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:15:07,220 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:15:16,112 - INFO - Scraping exitoso para término: QUESO MANTECOSO
+2024-12-07 14:15:16,112 - INFO - Scraping exitoso para tï¿½rmino: QUESO MANTECOSO
 2024-12-07 14:15:20,132 - INFO - ====== WebDriver manager ======
 2024-12-07 14:15:21,727 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:15:21,766 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43660,27 +43660,27 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:16:01,069 - INFO - Scraping exitoso para término: QUESO PARIA
+2024-12-07 14:16:01,069 - INFO - Scraping exitoso para tï¿½rmino: QUESO PARIA
 2024-12-07 14:16:05,103 - INFO - ====== WebDriver manager ======
 2024-12-07 14:16:06,753 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:06,772 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:06,787 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:16:07,085 - INFO - Scraping exitoso para término: HUEVOS DE GALLINA
+2024-12-07 14:16:07,085 - INFO - Scraping exitoso para tï¿½rmino: HUEVOS DE GALLINA
 2024-12-07 14:16:11,093 - INFO - ====== WebDriver manager ======
 2024-12-07 14:16:13,803 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:13,824 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:13,851 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:16:29,038 - INFO - Scraping exitoso para término: ACEITE VEGETAL ENVASADO
+2024-12-07 14:16:29,038 - INFO - Scraping exitoso para tï¿½rmino: ACEITE VEGETAL ENVASADO
 2024-12-07 14:16:33,196 - INFO - ====== WebDriver manager ======
 2024-12-07 14:16:35,855 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:35,866 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:35,899 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:16:43,425 - INFO - Scraping exitoso para término: ACEITE DE OLIVA
+2024-12-07 14:16:43,425 - INFO - Scraping exitoso para tï¿½rmino: ACEITE DE OLIVA
 2024-12-07 14:16:47,459 - INFO - ====== WebDriver manager ======
 2024-12-07 14:16:49,097 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:49,115 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:16:49,130 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:17:17,927 - INFO - Scraping exitoso para término: MANTEQUILLA ENVASADA
+2024-12-07 14:17:17,927 - INFO - Scraping exitoso para tï¿½rmino: MANTEQUILLA ENVASADA
 2024-12-07 14:17:21,944 - INFO - ====== WebDriver manager ======
 2024-12-07 14:17:23,614 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:17:23,638 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43710,17 +43710,17 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:17:43,110 - INFO - Scraping exitoso para término: LIMÓN
+2024-12-07 14:17:43,110 - INFO - Scraping exitoso para tï¿½rmino: LIMï¿½N
 2024-12-07 14:17:47,116 - INFO - ====== WebDriver manager ======
 2024-12-07 14:17:48,816 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:17:48,832 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:17:48,847 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:17:50,188 - INFO - Scraping exitoso para término: MARGARINA ENVASADA
+2024-12-07 14:17:50,188 - INFO - Scraping exitoso para tï¿½rmino: MARGARINA ENVASADA
 2024-12-07 14:17:54,195 - INFO - ====== WebDriver manager ======
 2024-12-07 14:17:55,646 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:17:55,662 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:17:55,692 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:17:56,144 - INFO - Scraping exitoso para término: MANDARINA
+2024-12-07 14:17:56,144 - INFO - Scraping exitoso para tï¿½rmino: MANDARINA
 2024-12-07 14:18:00,155 - INFO - ====== WebDriver manager ======
 2024-12-07 14:18:03,048 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:18:03,069 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43775,13 +43775,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:18:52,818 - INFO - Scraping exitoso para término: MARACUYÁ
+2024-12-07 14:18:52,818 - INFO - Scraping exitoso para tï¿½rmino: MARACUYï¿½
 2024-12-07 14:18:56,869 - INFO - ====== WebDriver manager ======
 2024-12-07 14:18:58,587 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:18:58,603 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:18:58,618 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:19:00,628 - INFO - Scraping exitoso para término: NARANJA DE JUGO
-2024-12-07 14:19:03,013 - INFO - Scraping exitoso para término: NARANJA DE MESA
+2024-12-07 14:19:00,628 - INFO - Scraping exitoso para tï¿½rmino: NARANJA DE JUGO
+2024-12-07 14:19:03,013 - INFO - Scraping exitoso para tï¿½rmino: NARANJA DE MESA
 2024-12-07 14:19:04,636 - INFO - ====== WebDriver manager ======
 2024-12-07 14:19:06,589 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:19:06,609 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43790,7 +43790,7 @@ Stacktrace:
 2024-12-07 14:19:12,495 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:19:12,520 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:19:12,540 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:19:20,833 - INFO - Scraping exitoso para término: DURAZNO HUAYCO
+2024-12-07 14:19:20,833 - INFO - Scraping exitoso para tï¿½rmino: DURAZNO HUAYCO
 2024-12-07 14:19:24,855 - INFO - ====== WebDriver manager ======
 2024-12-07 14:19:26,725 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:19:26,743 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43820,13 +43820,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:20:03,855 - INFO - Scraping exitoso para término: MANZANA IMPORTADA
+2024-12-07 14:20:03,855 - INFO - Scraping exitoso para tï¿½rmino: MANZANA IMPORTADA
 2024-12-07 14:20:07,888 - INFO - ====== WebDriver manager ======
 2024-12-07 14:20:10,466 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:20:10,482 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:20:10,518 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:20:15,390 - INFO - Scraping exitoso para término: MANZANA CORRIENTE
-2024-12-07 14:20:16,519 - INFO - Scraping exitoso para término: MANZANA DELICIA
+2024-12-07 14:20:15,390 - INFO - Scraping exitoso para tï¿½rmino: MANZANA CORRIENTE
+2024-12-07 14:20:16,519 - INFO - Scraping exitoso para tï¿½rmino: MANZANA DELICIA
 2024-12-07 14:20:19,518 - INFO - ====== WebDriver manager ======
 2024-12-07 14:20:20,622 - INFO - ====== WebDriver manager ======
 2024-12-07 14:20:21,249 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43835,7 +43835,7 @@ Stacktrace:
 2024-12-07 14:20:23,789 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:20:23,812 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:20:23,836 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:20:44,701 - INFO - Scraping exitoso para término: MANZANA ISRAEL
+2024-12-07 14:20:44,701 - INFO - Scraping exitoso para tï¿½rmino: MANZANA ISRAEL
 2024-12-07 14:20:48,748 - INFO - ====== WebDriver manager ======
 2024-12-07 14:20:50,357 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:20:50,388 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43890,13 +43890,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:21:19,547 - ERROR - Error en scraping para término PALTA FUERTE / MAYAR: Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_PALTA FUERTE '
+2024-12-07 14:21:19,547 - ERROR - Error en scraping para tï¿½rmino PALTA FUERTE / MAYAR: Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_PALTA FUERTE '
 2024-12-07 14:21:23,568 - INFO - ====== WebDriver manager ======
 2024-12-07 14:21:25,329 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:21:25,348 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:21:25,367 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:21:32,664 - INFO - Scraping exitoso para término: PLÁTANO BISCOCHO
-2024-12-07 14:21:33,046 - INFO - Scraping exitoso para término: PAPAYA
+2024-12-07 14:21:32,664 - INFO - Scraping exitoso para tï¿½rmino: PLï¿½TANO BISCOCHO
+2024-12-07 14:21:33,046 - INFO - Scraping exitoso para tï¿½rmino: PAPAYA
 2024-12-07 14:21:36,701 - INFO - ====== WebDriver manager ======
 2024-12-07 14:21:37,138 - INFO - ====== WebDriver manager ======
 2024-12-07 14:21:38,888 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43930,7 +43930,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:21:58,004 - INFO - Scraping exitoso para término: PLÁTANO DE LA ISLA
+2024-12-07 14:21:58,004 - INFO - Scraping exitoso para tï¿½rmino: PLï¿½TANO DE LA ISLA
 2024-12-07 14:22:02,027 - INFO - ====== WebDriver manager ======
 2024-12-07 14:22:03,434 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:22:03,465 - INFO - Get LATEST chromedriver version for google-chrome
@@ -43960,7 +43960,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:22:30,672 - INFO - Scraping exitoso para término: PLÁTANO DE SEDA
+2024-12-07 14:22:30,672 - INFO - Scraping exitoso para tï¿½rmino: PLï¿½TANO DE SEDA
 2024-12-07 14:22:34,080 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -43990,24 +43990,24 @@ Stacktrace:
 2024-12-07 14:22:36,414 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:22:36,441 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:22:36,466 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:22:44,626 - INFO - Scraping exitoso para término: UVA BLANCA
+2024-12-07 14:22:44,626 - INFO - Scraping exitoso para tï¿½rmino: UVA BLANCA
 2024-12-07 14:22:48,656 - INFO - ====== WebDriver manager ======
 2024-12-07 14:22:50,597 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:22:50,617 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:22:50,636 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:23:08,550 - INFO - Scraping exitoso para término: UVA NEGRA
+2024-12-07 14:23:08,550 - INFO - Scraping exitoso para tï¿½rmino: UVA NEGRA
 2024-12-07 14:23:12,554 - INFO - ====== WebDriver manager ======
 2024-12-07 14:23:14,238 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:23:14,271 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:23:14,316 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
 2024-12-07 14:23:15,155 - ERROR - Error scraping vivanda: Message: 
 
-2024-12-07 14:23:17,777 - INFO - Scraping exitoso para término: PLÁTANO VERDE - INGUIRI O BELLACO
+2024-12-07 14:23:17,777 - INFO - Scraping exitoso para tï¿½rmino: PLï¿½TANO VERDE - INGUIRI O BELLACO
 2024-12-07 14:23:21,788 - INFO - ====== WebDriver manager ======
 2024-12-07 14:23:23,519 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:23:23,535 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:23:23,578 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:24:00,889 - INFO - Scraping exitoso para término: FRESA
+2024-12-07 14:24:00,889 - INFO - Scraping exitoso para tï¿½rmino: FRESA
 2024-12-07 14:24:04,732 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44034,7 +44034,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
 2024-12-07 14:24:04,960 - INFO - ====== WebDriver manager ======
-2024-12-07 14:24:05,729 - INFO - Scraping exitoso para término: ARÁNDANOS
+2024-12-07 14:24:05,729 - INFO - Scraping exitoso para tï¿½rmino: ARï¿½NDANOS
 2024-12-07 14:24:06,507 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:06,542 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:06,571 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -44042,12 +44042,12 @@ Stacktrace:
 2024-12-07 14:24:12,741 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:12,772 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:12,788 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:24:22,998 - INFO - Scraping exitoso para término: GRANADILLA
+2024-12-07 14:24:22,998 - INFO - Scraping exitoso para tï¿½rmino: GRANADILLA
 2024-12-07 14:24:27,024 - INFO - ====== WebDriver manager ======
 2024-12-07 14:24:28,923 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:28,940 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:28,956 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:24:31,381 - INFO - Scraping exitoso para término: MANGO
+2024-12-07 14:24:31,381 - INFO - Scraping exitoso para tï¿½rmino: MANGO
 2024-12-07 14:24:35,388 - INFO - ====== WebDriver manager ======
 2024-12-07 14:24:36,870 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:24:36,890 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44102,12 +44102,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:25:13,820 - INFO - Scraping exitoso para término: MELÓN
+2024-12-07 14:25:13,820 - INFO - Scraping exitoso para tï¿½rmino: MELï¿½N
 2024-12-07 14:25:17,852 - INFO - ====== WebDriver manager ======
 2024-12-07 14:25:19,305 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:19,336 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:19,352 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:25:19,481 - INFO - Scraping exitoso para término: PEPINO
+2024-12-07 14:25:19,481 - INFO - Scraping exitoso para tï¿½rmino: PEPINO
 2024-12-07 14:25:21,531 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44137,12 +44137,12 @@ Stacktrace:
 2024-12-07 14:25:26,017 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:26,040 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:26,059 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:25:41,812 - INFO - Scraping exitoso para término: PERA DE AGUA
+2024-12-07 14:25:41,812 - INFO - Scraping exitoso para tï¿½rmino: PERA DE AGUA
 2024-12-07 14:25:45,851 - INFO - ====== WebDriver manager ======
 2024-12-07 14:25:47,101 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:47,117 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:47,148 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:25:47,164 - INFO - Scraping exitoso para término: PIÑA
+2024-12-07 14:25:47,164 - INFO - Scraping exitoso para tï¿½rmino: PIï¿½A
 2024-12-07 14:25:51,185 - INFO - ====== WebDriver manager ======
 2024-12-07 14:25:53,554 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:25:53,586 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44197,8 +44197,8 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:26:34,570 - INFO - Scraping exitoso para término: TUNA
-2024-12-07 14:26:34,998 - INFO - Scraping exitoso para término: SANDÍA
+2024-12-07 14:26:34,570 - INFO - Scraping exitoso para tï¿½rmino: TUNA
+2024-12-07 14:26:34,998 - INFO - Scraping exitoso para tï¿½rmino: SANDï¿½A
 2024-12-07 14:26:36,794 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44257,12 +44257,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:27:02,867 - INFO - Scraping exitoso para término: DURAZNO EN CONSERVA
+2024-12-07 14:27:02,867 - INFO - Scraping exitoso para tï¿½rmino: DURAZNO EN CONSERVA
 2024-12-07 14:27:06,959 - INFO - ====== WebDriver manager ======
 2024-12-07 14:27:08,492 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:27:08,507 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:27:08,539 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:27:09,102 - INFO - Scraping exitoso para término: PASAS
+2024-12-07 14:27:09,102 - INFO - Scraping exitoso para tï¿½rmino: PASAS
 2024-12-07 14:27:13,118 - INFO - ====== WebDriver manager ======
 2024-12-07 14:27:15,184 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:27:15,204 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44317,9 +44317,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:27:50,898 - INFO - Scraping exitoso para término: APIO
+2024-12-07 14:27:50,898 - INFO - Scraping exitoso para tï¿½rmino: APIO
 2024-12-07 14:27:54,975 - INFO - ====== WebDriver manager ======
-2024-12-07 14:27:56,177 - INFO - Scraping exitoso para término: PECANAS
+2024-12-07 14:27:56,177 - INFO - Scraping exitoso para tï¿½rmino: PECANAS
 2024-12-07 14:27:56,397 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:27:56,413 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:27:56,435 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -44377,9 +44377,9 @@ Stacktrace:
 2024-12-07 14:28:02,688 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:28:02,704 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:28:02,735 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:28:20,162 - INFO - Scraping exitoso para término: ESPINACA
+2024-12-07 14:28:20,162 - INFO - Scraping exitoso para tï¿½rmino: ESPINACA
 2024-12-07 14:28:24,224 - INFO - ====== WebDriver manager ======
-2024-12-07 14:28:25,070 - INFO - Scraping exitoso para término: LECHUGA
+2024-12-07 14:28:25,070 - INFO - Scraping exitoso para tï¿½rmino: LECHUGA
 2024-12-07 14:28:25,599 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:28:25,615 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:28:25,631 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -44437,22 +44437,22 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:29:02,547 - INFO - Scraping exitoso para término: BRÓCOLI
+2024-12-07 14:29:02,547 - INFO - Scraping exitoso para tï¿½rmino: BRï¿½COLI
 2024-12-07 14:29:06,584 - INFO - ====== WebDriver manager ======
 2024-12-07 14:29:08,322 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:08,340 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:08,360 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:29:15,156 - INFO - Scraping exitoso para término: COLIFLOR
+2024-12-07 14:29:15,156 - INFO - Scraping exitoso para tï¿½rmino: COLIFLOR
 2024-12-07 14:29:19,162 - INFO - ====== WebDriver manager ======
 2024-12-07 14:29:21,978 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:21,989 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:22,005 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:29:34,011 - INFO - Scraping exitoso para término: AJÍ PIMIENTO
+2024-12-07 14:29:34,011 - INFO - Scraping exitoso para tï¿½rmino: AJï¿½ PIMIENTO
 2024-12-07 14:29:38,053 - INFO - ====== WebDriver manager ======
 2024-12-07 14:29:39,647 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:39,667 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:39,685 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:29:40,811 - ERROR - Error en scraping para término AJÍ AMARILLO (VERDE / ESCABECHE): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_AJÍ AMARILLO (VERDE '
+2024-12-07 14:29:40,811 - ERROR - Error en scraping para tï¿½rmino AJï¿½ AMARILLO (VERDE / ESCABECHE): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_AJï¿½ AMARILLO (VERDE '
 2024-12-07 14:29:44,818 - INFO - ====== WebDriver manager ======
 2024-12-07 14:29:46,752 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:29:46,780 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44482,12 +44482,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:30:19,281 - INFO - Scraping exitoso para término: TOMATE ITALIANO O MARSANO
+2024-12-07 14:30:19,281 - INFO - Scraping exitoso para tï¿½rmino: TOMATE ITALIANO O MARSANO
 2024-12-07 14:30:23,319 - INFO - ====== WebDriver manager ======
 2024-12-07 14:30:24,909 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:24,925 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:24,969 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:30:33,472 - INFO - Scraping exitoso para término: ZAPALLO MACRE
+2024-12-07 14:30:33,472 - INFO - Scraping exitoso para tï¿½rmino: ZAPALLO MACRE
 2024-12-07 14:30:34,933 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44517,12 +44517,12 @@ Stacktrace:
 2024-12-07 14:30:39,285 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:39,313 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:39,332 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:30:49,755 - ERROR - Error en scraping para término CHOCLO CRIOLLO / SERRANO: Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_CHOCLO CRIOLLO '
+2024-12-07 14:30:49,755 - ERROR - Error en scraping para tï¿½rmino CHOCLO CRIOLLO / SERRANO: Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_CHOCLO CRIOLLO '
 2024-12-07 14:30:53,788 - INFO - ====== WebDriver manager ======
 2024-12-07 14:30:55,484 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:55,510 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:30:55,532 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:30:58,085 - INFO - Scraping exitoso para término: PEPINILLO
+2024-12-07 14:30:58,085 - INFO - Scraping exitoso para tï¿½rmino: PEPINILLO
 2024-12-07 14:31:02,093 - INFO - ====== WebDriver manager ======
 2024-12-07 14:31:04,351 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:31:04,369 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44552,7 +44552,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:31:36,389 - INFO - Scraping exitoso para término: ARVEJA VERDE
+2024-12-07 14:31:36,389 - INFO - Scraping exitoso para tï¿½rmino: ARVEJA VERDE
 2024-12-07 14:31:40,466 - INFO - ====== WebDriver manager ======
 2024-12-07 14:31:42,017 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:31:42,046 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44582,17 +44582,17 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:31:50,720 - INFO - Scraping exitoso para término: HABA VERDE
+2024-12-07 14:31:50,720 - INFO - Scraping exitoso para tï¿½rmino: HABA VERDE
 2024-12-07 14:31:54,783 - INFO - ====== WebDriver manager ======
 2024-12-07 14:31:57,143 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:31:57,174 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:31:57,189 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:31:59,383 - INFO - Scraping exitoso para término: VAINITA VERDE (AMERICANA)
+2024-12-07 14:31:59,383 - INFO - Scraping exitoso para tï¿½rmino: VAINITA VERDE (AMERICANA)
 2024-12-07 14:32:03,702 - INFO - ====== WebDriver manager ======
 2024-12-07 14:32:05,409 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:32:05,432 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:32:05,463 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:32:08,119 - INFO - Scraping exitoso para término: AJO ENTERO
+2024-12-07 14:32:08,119 - INFO - Scraping exitoso para tï¿½rmino: AJO ENTERO
 2024-12-07 14:32:12,227 - INFO - ====== WebDriver manager ======
 2024-12-07 14:32:14,294 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:32:14,311 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44647,7 +44647,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:32:47,852 - INFO - Scraping exitoso para término: BETARRAGA
+2024-12-07 14:32:47,852 - INFO - Scraping exitoso para tï¿½rmino: BETARRAGA
 2024-12-07 14:32:51,908 - INFO - ====== WebDriver manager ======
 2024-12-07 14:32:53,561 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:32:53,579 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44677,17 +44677,17 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:33:01,360 - INFO - Scraping exitoso para término: CEBOLLA CHINA
+2024-12-07 14:33:01,360 - INFO - Scraping exitoso para tï¿½rmino: CEBOLLA CHINA
 2024-12-07 14:33:05,422 - INFO - ====== WebDriver manager ======
 2024-12-07 14:33:07,750 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:33:07,792 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:33:07,813 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:33:15,835 - INFO - Scraping exitoso para término: CEBOLLA DE CABEZA (ROJA)
+2024-12-07 14:33:15,835 - INFO - Scraping exitoso para tï¿½rmino: CEBOLLA DE CABEZA (ROJA)
 2024-12-07 14:33:19,906 - INFO - ====== WebDriver manager ======
 2024-12-07 14:33:21,578 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:33:21,593 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:33:21,625 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:33:22,911 - INFO - Scraping exitoso para término: PORO
+2024-12-07 14:33:22,911 - INFO - Scraping exitoso para tï¿½rmino: PORO
 2024-12-07 14:33:26,919 - INFO - ====== WebDriver manager ======
 2024-12-07 14:33:29,577 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:33:29,602 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44717,7 +44717,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:34:07,218 - INFO - Scraping exitoso para término: ZANAHORIA
+2024-12-07 14:34:07,218 - INFO - Scraping exitoso para tï¿½rmino: ZANAHORIA
 2024-12-07 14:34:10,889 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44744,7 +44744,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
 2024-12-07 14:34:11,296 - INFO - ====== WebDriver manager ======
-2024-12-07 14:34:12,344 - INFO - Scraping exitoso para término: VERDURA PICADA
+2024-12-07 14:34:12,344 - INFO - Scraping exitoso para tï¿½rmino: VERDURA PICADA
 2024-12-07 14:34:12,734 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:12,749 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:12,767 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -44777,12 +44777,12 @@ Stacktrace:
 2024-12-07 14:34:18,891 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:18,925 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:18,948 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:34:28,521 - INFO - Scraping exitoso para término: FRÉJOL CANARIO
+2024-12-07 14:34:28,521 - INFO - Scraping exitoso para tï¿½rmino: FRï¿½JOL CANARIO
 2024-12-07 14:34:32,546 - INFO - ====== WebDriver manager ======
 2024-12-07 14:34:35,312 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:35,333 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:35,353 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:34:38,931 - INFO - Scraping exitoso para término: FRÉJOL PANAMITO
+2024-12-07 14:34:38,931 - INFO - Scraping exitoso para tï¿½rmino: FRï¿½JOL PANAMITO
 2024-12-07 14:34:42,968 - INFO - ====== WebDriver manager ======
 2024-12-07 14:34:44,483 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:34:44,507 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44812,7 +44812,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:35:17,795 - INFO - Scraping exitoso para término: ARVEJA SECA PARTIDA
+2024-12-07 14:35:17,795 - INFO - Scraping exitoso para tï¿½rmino: ARVEJA SECA PARTIDA
 2024-12-07 14:35:21,811 - INFO - ====== WebDriver manager ======
 2024-12-07 14:35:23,404 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:35:23,423 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44842,7 +44842,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:35:31,170 - INFO - Scraping exitoso para término: GARBANZO
+2024-12-07 14:35:31,170 - INFO - Scraping exitoso para tï¿½rmino: GARBANZO
 2024-12-07 14:35:32,010 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44872,8 +44872,8 @@ Stacktrace:
 2024-12-07 14:35:37,356 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:35:37,378 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:35:37,398 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:35:49,845 - INFO - Scraping exitoso para término: LENTEJA
-2024-12-07 14:35:53,161 - INFO - Scraping exitoso para término: PALLAR
+2024-12-07 14:35:49,845 - INFO - Scraping exitoso para tï¿½rmino: LENTEJA
+2024-12-07 14:35:53,161 - INFO - Scraping exitoso para tï¿½rmino: PALLAR
 2024-12-07 14:35:53,903 - INFO - ====== WebDriver manager ======
 2024-12-07 14:35:55,436 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:35:55,455 - INFO - Get LATEST chromedriver version for google-chrome
@@ -44907,7 +44907,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:36:30,028 - INFO - Scraping exitoso para término: ACEITUNA DE BOTIJA
+2024-12-07 14:36:30,028 - INFO - Scraping exitoso para tï¿½rmino: ACEITUNA DE BOTIJA
 2024-12-07 14:36:30,432 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -44987,13 +44987,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:36:52,952 - INFO - Scraping exitoso para término: CAMOTE AMARILLO
+2024-12-07 14:36:52,952 - INFO - Scraping exitoso para tï¿½rmino: CAMOTE AMARILLO
 2024-12-07 14:36:57,050 - INFO - ====== WebDriver manager ======
 2024-12-07 14:36:58,711 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:36:58,732 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:36:58,753 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:37:03,872 - INFO - Scraping exitoso para término: PAPA BLANCA
-2024-12-07 14:37:07,871 - INFO - Scraping exitoso para término: PAPA AMARILLA
+2024-12-07 14:37:03,872 - INFO - Scraping exitoso para tï¿½rmino: PAPA BLANCA
+2024-12-07 14:37:07,871 - INFO - Scraping exitoso para tï¿½rmino: PAPA AMARILLA
 2024-12-07 14:37:08,372 - INFO - ====== WebDriver manager ======
 2024-12-07 14:37:10,089 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:37:10,120 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45027,7 +45027,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:37:46,671 - INFO - Scraping exitoso para término: PAPA COLOR
+2024-12-07 14:37:46,671 - INFO - Scraping exitoso para tï¿½rmino: PAPA COLOR
 2024-12-07 14:37:50,687 - INFO - ====== WebDriver manager ======
 2024-12-07 14:37:52,403 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:37:52,446 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45082,17 +45082,17 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:38:08,964 - INFO - Scraping exitoso para término: PAPA HUAYRO
+2024-12-07 14:38:08,964 - INFO - Scraping exitoso para tï¿½rmino: PAPA HUAYRO
 2024-12-07 14:38:12,995 - INFO - ====== WebDriver manager ======
 2024-12-07 14:38:14,719 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:38:14,738 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:38:14,760 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:38:24,932 - INFO - Scraping exitoso para término: OLLUCO
+2024-12-07 14:38:24,932 - INFO - Scraping exitoso para tï¿½rmino: OLLUCO
 2024-12-07 14:38:28,979 - INFO - ====== WebDriver manager ======
 2024-12-07 14:38:30,526 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:38:30,556 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:38:30,577 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:38:30,814 - INFO - Scraping exitoso para término: YUCA
+2024-12-07 14:38:30,814 - INFO - Scraping exitoso para tï¿½rmino: YUCA
 2024-12-07 14:38:34,992 - INFO - ====== WebDriver manager ======
 2024-12-07 14:38:37,572 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:38:37,588 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45122,7 +45122,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:39:01,916 - INFO - Scraping exitoso para término: PAPA SECA
+2024-12-07 14:39:01,916 - INFO - Scraping exitoso para tï¿½rmino: PAPA SECA
 2024-12-07 14:39:05,411 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -45202,13 +45202,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:39:25,977 - INFO - Scraping exitoso para término: AZÚCAR BLANCA
+2024-12-07 14:39:25,977 - INFO - Scraping exitoso para tï¿½rmino: AZï¿½CAR BLANCA
 2024-12-07 14:39:29,994 - INFO - ====== WebDriver manager ======
 2024-12-07 14:39:31,664 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:39:31,681 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:39:31,697 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:39:40,399 - INFO - Scraping exitoso para término: AZÚCAR RUBIA
-2024-12-07 14:39:42,264 - INFO - Scraping exitoso para término: EDULCORANTE
+2024-12-07 14:39:40,399 - INFO - Scraping exitoso para tï¿½rmino: AZï¿½CAR RUBIA
+2024-12-07 14:39:42,264 - INFO - Scraping exitoso para tï¿½rmino: EDULCORANTE
 2024-12-07 14:39:44,447 - INFO - ====== WebDriver manager ======
 2024-12-07 14:39:46,081 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:39:46,098 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45267,22 +45267,22 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:40:40,446 - INFO - Scraping exitoso para término: MERMELADA
+2024-12-07 14:40:40,446 - INFO - Scraping exitoso para tï¿½rmino: MERMELADA
 2024-12-07 14:40:44,524 - INFO - ====== WebDriver manager ======
 2024-12-07 14:40:46,012 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:40:46,034 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:40:46,041 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:40:46,542 - INFO - Scraping exitoso para término: MIEL DE ABEJA
+2024-12-07 14:40:46,542 - INFO - Scraping exitoso para tï¿½rmino: MIEL DE ABEJA
 2024-12-07 14:40:50,556 - INFO - ====== WebDriver manager ======
 2024-12-07 14:40:52,868 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:40:52,899 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:40:52,947 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:40:54,419 - INFO - Scraping exitoso para término: CHOCOLATE EN PASTA (TAZA)
+2024-12-07 14:40:54,419 - INFO - Scraping exitoso para tï¿½rmino: CHOCOLATE EN PASTA (TAZA)
 2024-12-07 14:40:58,425 - INFO - ====== WebDriver manager ======
 2024-12-07 14:41:00,448 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:41:00,471 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:41:00,491 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:41:21,625 - INFO - Scraping exitoso para término: CHOCOLATE EN TABLETA
+2024-12-07 14:41:21,625 - INFO - Scraping exitoso para tï¿½rmino: CHOCOLATE EN TABLETA
 2024-12-07 14:41:25,650 - INFO - ====== WebDriver manager ======
 2024-12-07 14:41:27,534 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:41:27,550 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45312,27 +45312,27 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:41:54,198 - INFO - Scraping exitoso para término: DIVERSAS PRESENTACIONES DE CHOCOLATES
+2024-12-07 14:41:54,198 - INFO - Scraping exitoso para tï¿½rmino: DIVERSAS PRESENTACIONES DE CHOCOLATES
 2024-12-07 14:41:58,244 - INFO - ====== WebDriver manager ======
 2024-12-07 14:41:59,923 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:41:59,941 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:41:59,962 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:42:17,671 - INFO - Scraping exitoso para término: GOMA DE MASCAR
+2024-12-07 14:42:17,671 - INFO - Scraping exitoso para tï¿½rmino: GOMA DE MASCAR
 2024-12-07 14:42:21,681 - INFO - ====== WebDriver manager ======
 2024-12-07 14:42:24,353 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:24,377 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:24,399 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:42:27,953 - INFO - Scraping exitoso para término: CARAMELOS
+2024-12-07 14:42:27,953 - INFO - Scraping exitoso para tï¿½rmino: CARAMELOS
 2024-12-07 14:42:31,979 - INFO - ====== WebDriver manager ======
 2024-12-07 14:42:33,929 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:33,960 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:33,976 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:42:35,515 - INFO - Scraping exitoso para término: HELADO FAMILIAR
+2024-12-07 14:42:35,515 - INFO - Scraping exitoso para tï¿½rmino: HELADO FAMILIAR
 2024-12-07 14:42:39,664 - INFO - ====== WebDriver manager ======
 2024-12-07 14:42:41,514 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:41,534 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:42:41,539 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:43:12,241 - INFO - Scraping exitoso para término: HELADO DE CREMA PERSONAL
+2024-12-07 14:43:12,241 - INFO - Scraping exitoso para tï¿½rmino: HELADO DE CREMA PERSONAL
 2024-12-07 14:43:16,288 - INFO - ====== WebDriver manager ======
 2024-12-07 14:43:17,725 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:43:17,757 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45362,7 +45362,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:43:32,967 - INFO - Scraping exitoso para término: HELADO DE HIELO PERSONAL
+2024-12-07 14:43:32,967 - INFO - Scraping exitoso para tï¿½rmino: HELADO DE HIELO PERSONAL
 2024-12-07 14:43:35,157 - WARNING - Optional action failed: Message: 
 Stacktrace:
 	GetHandleVerifier [0x00E83433+25059]
@@ -45392,17 +45392,17 @@ Stacktrace:
 2024-12-07 14:43:38,491 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:43:38,507 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:43:38,523 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:43:43,418 - INFO - Scraping exitoso para término: ALBAHACA
+2024-12-07 14:43:43,418 - INFO - Scraping exitoso para tï¿½rmino: ALBAHACA
 2024-12-07 14:43:47,421 - INFO - ====== WebDriver manager ======
 2024-12-07 14:43:48,978 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:43:49,003 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:43:49,024 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:43:58,115 - INFO - Scraping exitoso para término: CULANTRO
+2024-12-07 14:43:58,115 - INFO - Scraping exitoso para tï¿½rmino: CULANTRO
 2024-12-07 14:44:02,163 - INFO - ====== WebDriver manager ======
 2024-12-07 14:44:03,765 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:44:03,785 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:44:03,804 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:44:22,530 - INFO - Scraping exitoso para término: SAL
+2024-12-07 14:44:22,530 - INFO - Scraping exitoso para tï¿½rmino: SAL
 2024-12-07 14:44:26,536 - INFO - ====== WebDriver manager ======
 2024-12-07 14:44:28,287 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:44:28,318 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45457,12 +45457,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:44:48,195 - INFO - Scraping exitoso para término: AJO MOLIDO
+2024-12-07 14:44:48,195 - INFO - Scraping exitoso para tï¿½rmino: AJO MOLIDO
 2024-12-07 14:44:52,256 - INFO - ====== WebDriver manager ======
 2024-12-07 14:44:53,724 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:44:53,755 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:44:53,771 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:44:57,689 - INFO - Scraping exitoso para término: CANELA ENTERA
+2024-12-07 14:44:57,689 - INFO - Scraping exitoso para tï¿½rmino: CANELA ENTERA
 2024-12-07 14:45:01,727 - INFO - ====== WebDriver manager ======
 2024-12-07 14:45:03,325 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:45:03,333 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45492,8 +45492,8 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:45:35,259 - ERROR - Error en scraping para término HONGO / LAUREL (ESPECIES): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_HONGO '
-2024-12-07 14:45:36,555 - INFO - Scraping exitoso para término: KION (ESPECIAS)
+2024-12-07 14:45:35,259 - ERROR - Error en scraping para tï¿½rmino HONGO / LAUREL (ESPECIES): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_HONGO '
+2024-12-07 14:45:36,555 - INFO - Scraping exitoso para tï¿½rmino: KION (ESPECIAS)
 2024-12-07 14:45:39,286 - INFO - ====== WebDriver manager ======
 2024-12-07 14:45:40,534 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:45:40,551 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45527,12 +45527,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:46:01,837 - INFO - Scraping exitoso para término: ALIMENTOS EN CUBITOS
+2024-12-07 14:46:01,837 - INFO - Scraping exitoso para tï¿½rmino: ALIMENTOS EN CUBITOS
 2024-12-07 14:46:05,879 - INFO - ====== WebDriver manager ======
 2024-12-07 14:46:07,417 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:46:07,442 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:46:07,458 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:46:15,340 - INFO - Scraping exitoso para término: GLUTAMATO MONOSÓDICO (SAZONADOR)
+2024-12-07 14:46:15,340 - INFO - Scraping exitoso para tï¿½rmino: GLUTAMATO MONOSï¿½DICO (SAZONADOR)
 2024-12-07 14:46:19,364 - INFO - ====== WebDriver manager ======
 2024-12-07 14:46:21,492 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:46:21,507 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45562,13 +45562,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:46:51,179 - INFO - Scraping exitoso para término: AJÍ AMARILLO MOLIDO
+2024-12-07 14:46:51,179 - INFO - Scraping exitoso para tï¿½rmino: AJï¿½ AMARILLO MOLIDO
 2024-12-07 14:46:55,188 - INFO - ====== WebDriver manager ======
 2024-12-07 14:46:56,878 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:46:56,894 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:46:56,910 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:47:14,245 - INFO - Scraping exitoso para término: SAZONADORES CONCENTRADOS
-2024-12-07 14:47:17,394 - INFO - Scraping exitoso para término: AJÍ PANCA MOLIDO (ESPECIAL)
+2024-12-07 14:47:14,245 - INFO - Scraping exitoso para tï¿½rmino: SAZONADORES CONCENTRADOS
+2024-12-07 14:47:17,394 - INFO - Scraping exitoso para tï¿½rmino: AJï¿½ PANCA MOLIDO (ESPECIAL)
 2024-12-07 14:47:18,269 - INFO - ====== WebDriver manager ======
 2024-12-07 14:47:19,846 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:47:19,862 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45577,7 +45577,7 @@ Stacktrace:
 2024-12-07 14:47:25,526 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:47:25,550 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:47:25,576 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:47:30,258 - INFO - Scraping exitoso para término: AJÍ ROCOTO MOLIDO
+2024-12-07 14:47:30,258 - INFO - Scraping exitoso para tï¿½rmino: AJï¿½ ROCOTO MOLIDO
 2024-12-07 14:47:34,708 - INFO - ====== WebDriver manager ======
 2024-12-07 14:47:36,900 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:47:36,921 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45607,7 +45607,7 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:48:11,741 - INFO - Scraping exitoso para término: ADEREZOS HIDRATADOS
+2024-12-07 14:48:11,741 - INFO - Scraping exitoso para tï¿½rmino: ADEREZOS HIDRATADOS
 2024-12-07 14:48:15,802 - INFO - ====== WebDriver manager ======
 2024-12-07 14:48:17,379 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:17,410 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45662,13 +45662,13 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:48:35,528 - INFO - Scraping exitoso para término: PASTA Y SALSA DE TOMATE
+2024-12-07 14:48:35,528 - INFO - Scraping exitoso para tï¿½rmino: PASTA Y SALSA DE TOMATE
 2024-12-07 14:48:39,536 - INFO - ====== WebDriver manager ======
 2024-12-07 14:48:41,271 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:41,296 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:41,314 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:48:49,865 - INFO - Scraping exitoso para término: MAYONESA
-2024-12-07 14:48:52,319 - INFO - Scraping exitoso para término: SILLAO
+2024-12-07 14:48:49,865 - INFO - Scraping exitoso para tï¿½rmino: MAYONESA
+2024-12-07 14:48:52,319 - INFO - Scraping exitoso para tï¿½rmino: SILLAO
 2024-12-07 14:48:53,928 - INFO - ====== WebDriver manager ======
 2024-12-07 14:48:55,652 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:55,678 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45677,7 +45677,7 @@ Stacktrace:
 2024-12-07 14:48:59,540 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:59,561 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:48:59,587 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:49:25,241 - INFO - Scraping exitoso para término: GELATINA (PARA PREPARAR)
+2024-12-07 14:49:25,241 - INFO - Scraping exitoso para tï¿½rmino: GELATINA (PARA PREPARAR)
 2024-12-07 14:49:29,304 - INFO - ====== WebDriver manager ======
 2024-12-07 14:49:31,022 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:49:31,038 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45707,19 +45707,19 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:50:01,668 - INFO - Scraping exitoso para término: MENESTRAS SANCOCHADAS
+2024-12-07 14:50:01,668 - INFO - Scraping exitoso para tï¿½rmino: MENESTRAS SANCOCHADAS
 2024-12-07 14:50:05,711 - INFO - ====== WebDriver manager ======
 2024-12-07 14:50:07,561 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:07,580 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:07,586 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:50:15,755 - ERROR - Error en scraping para término SOPAS (CONCENTRADAS / INSTANTÁNEAS): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_SOPAS (CONCENTRADAS '
+2024-12-07 14:50:15,755 - ERROR - Error en scraping para tï¿½rmino SOPAS (CONCENTRADAS / INSTANTï¿½NEAS): Cannot save file into a non-existent directory: 'd:\Users\OSKARQUIROZ\Documents\GitHub\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vivanda\2024_12_07\vivanda_SOPAS (CONCENTRADAS '
 2024-12-07 14:50:19,790 - INFO - ====== WebDriver manager ======
 2024-12-07 14:50:22,040 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:22,065 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:22,085 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:50:34,243 - INFO - Scraping exitoso para término: VEGETALES SANCOCHADOS
+2024-12-07 14:50:34,243 - INFO - Scraping exitoso para tï¿½rmino: VEGETALES SANCOCHADOS
 2024-12-07 14:50:38,684 - INFO - ====== WebDriver manager ======
-2024-12-07 14:50:40,672 - INFO - Scraping exitoso para término: BOCADITOS DE MAÍZ Y QUESO
+2024-12-07 14:50:40,672 - INFO - Scraping exitoso para tï¿½rmino: BOCADITOS DE MAï¿½Z Y QUESO
 2024-12-07 14:50:40,930 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:40,961 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:40,977 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -45727,7 +45727,7 @@ Stacktrace:
 2024-12-07 14:50:47,478 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:47,509 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:50:47,525 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:51:31,014 - INFO - Scraping exitoso para término: PAPA FRITA (BOCADITOS)
+2024-12-07 14:51:31,014 - INFO - Scraping exitoso para tï¿½rmino: PAPA FRITA (BOCADITOS)
 2024-12-07 14:51:35,056 - INFO - ====== WebDriver manager ======
 2024-12-07 14:51:35,293 - WARNING - Optional action failed: Message: 
 Stacktrace:
@@ -45757,17 +45757,17 @@ Stacktrace:
 2024-12-07 14:51:36,712 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:36,743 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:36,766 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:51:38,049 - INFO - Scraping exitoso para término: CHIFLE (BOCADITOS)
+2024-12-07 14:51:38,049 - INFO - Scraping exitoso para tï¿½rmino: CHIFLE (BOCADITOS)
 2024-12-07 14:51:42,054 - INFO - ====== WebDriver manager ======
 2024-12-07 14:51:44,275 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:44,298 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:44,318 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:51:49,172 - INFO - Scraping exitoso para término: POP CORN (BOCADITOS)
+2024-12-07 14:51:49,172 - INFO - Scraping exitoso para tï¿½rmino: POP CORN (BOCADITOS)
 2024-12-07 14:51:53,447 - INFO - ====== WebDriver manager ======
 2024-12-07 14:51:55,139 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:55,164 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:51:55,189 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:52:04,312 - INFO - Scraping exitoso para término: CAFÉ TOSTADO MOLIDO
+2024-12-07 14:52:04,312 - INFO - Scraping exitoso para tï¿½rmino: CAFï¿½ TOSTADO MOLIDO
 2024-12-07 14:52:08,342 - INFO - ====== WebDriver manager ======
 2024-12-07 14:52:12,242 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:52:12,269 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45797,8 +45797,8 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:52:52,559 - INFO - Scraping exitoso para término: CEBADA TOSTADA SOLUBLE
-2024-12-07 14:52:52,981 - INFO - Scraping exitoso para término: CAFÉ INSTANTÁNEO
+2024-12-07 14:52:52,559 - INFO - Scraping exitoso para tï¿½rmino: CEBADA TOSTADA SOLUBLE
+2024-12-07 14:52:52,981 - INFO - Scraping exitoso para tï¿½rmino: CAFï¿½ INSTANTï¿½NEO
 2024-12-07 14:52:56,650 - INFO - ====== WebDriver manager ======
 2024-12-07 14:52:57,057 - INFO - ====== WebDriver manager ======
 2024-12-07 14:52:58,586 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45832,12 +45832,12 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:53:09,305 - INFO - Scraping exitoso para término: TÉ NEGRO FILTRANTE
+2024-12-07 14:53:09,305 - INFO - Scraping exitoso para tï¿½rmino: Tï¿½ NEGRO FILTRANTE
 2024-12-07 14:53:13,328 - INFO - ====== WebDriver manager ======
 2024-12-07 14:53:15,632 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:53:15,652 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:53:15,673 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:53:24,422 - INFO - Scraping exitoso para término: HIERBAS PARA INFUSIONES
+2024-12-07 14:53:24,422 - INFO - Scraping exitoso para tï¿½rmino: HIERBAS PARA INFUSIONES
 2024-12-07 14:53:28,479 - INFO - ====== WebDriver manager ======
 2024-12-07 14:53:30,036 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:53:30,063 - INFO - Get LATEST chromedriver version for google-chrome
@@ -45917,9 +45917,9 @@ Stacktrace:
 	RtlGetFullPathName_UEx [0x774C7F6D+173]
 	RtlGetFullPathName_UEx [0x774C7F3B+123]
 
-2024-12-07 14:54:08,586 - INFO - Scraping exitoso para término: COCOA EN POLVO
+2024-12-07 14:54:08,586 - INFO - Scraping exitoso para tï¿½rmino: COCOA EN POLVO
 2024-12-07 14:54:12,621 - INFO - ====== WebDriver manager ======
-2024-12-07 14:54:14,148 - INFO - Scraping exitoso para término: PRODUCTO ACHOCOLATADO
+2024-12-07 14:54:14,148 - INFO - Scraping exitoso para tï¿½rmino: PRODUCTO ACHOCOLATADO
 2024-12-07 14:54:14,164 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:14,179 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:14,211 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
@@ -45927,22 +45927,22 @@ Stacktrace:
 2024-12-07 14:54:21,132 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:21,148 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:21,164 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:54:22,781 - INFO - Scraping exitoso para término: AGUA DE MESA SIN GAS
+2024-12-07 14:54:22,781 - INFO - Scraping exitoso para tï¿½rmino: AGUA DE MESA SIN GAS
 2024-12-07 14:54:26,786 - INFO - ====== WebDriver manager ======
 2024-12-07 14:54:28,675 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:28,696 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:54:28,719 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:54:59,059 - INFO - Scraping exitoso para término: AGUA MINERAL SIN GAS
+2024-12-07 14:54:59,059 - INFO - Scraping exitoso para tï¿½rmino: AGUA MINERAL SIN GAS
 2024-12-07 14:55:03,101 - INFO - ====== WebDriver manager ======
 2024-12-07 14:55:04,853 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:55:04,869 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:55:04,889 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:55:25,106 - INFO - Scraping exitoso para término: BEBIDAS GASEOSAS
-2024-12-07 14:55:27,714 - INFO - Scraping exitoso para término: BEBIDA ENERGIZANTE (FLUIDA)
+2024-12-07 14:55:25,106 - INFO - Scraping exitoso para tï¿½rmino: BEBIDAS GASEOSAS
+2024-12-07 14:55:27,714 - INFO - Scraping exitoso para tï¿½rmino: BEBIDA ENERGIZANTE (FLUIDA)
 2024-12-07 14:55:29,429 - INFO - ====== WebDriver manager ======
 2024-12-07 14:55:30,945 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:55:30,961 - INFO - Get LATEST chromedriver version for google-chrome
 2024-12-07 14:55:31,008 - INFO - Driver [D:\Users\OSKARQUIROZ\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
-2024-12-07 14:56:07,865 - INFO - Scraping exitoso para término: BEBIDA HIDRATANTE
-2024-12-07 14:56:11,177 - INFO - Scraping exitoso para término: REFRESCO ENVASADO (FLUIDO)
-2024-12-07 14:56:35,380 - INFO - Scraping exitoso para término: BEBIDA DE FRUTA ENVASADA
+2024-12-07 14:56:07,865 - INFO - Scraping exitoso para tï¿½rmino: BEBIDA HIDRATANTE
+2024-12-07 14:56:11,177 - INFO - Scraping exitoso para tï¿½rmino: REFRESCO ENVASADO (FLUIDO)
+2024-12-07 14:56:35,380 - INFO - Scraping exitoso para tï¿½rmino: BEBIDA DE FRUTA ENVASADA

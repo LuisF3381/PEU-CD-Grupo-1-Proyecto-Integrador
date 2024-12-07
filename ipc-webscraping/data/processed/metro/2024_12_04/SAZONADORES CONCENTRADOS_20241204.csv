@@ -1,4 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Concentrado en Polvo Doña Gusta Sabor Gallina 6un,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,6.0,un,2.2
-Concentrado en Polvo Doña Gusta Sabor Carne 6un,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,6.0,un,2.2
-Caldo Concentrado Sabor Tocino Doña Gusta Caja 42 g,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,42.0,g,2.2
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Concentrado en Polvo Doña Gusta Sabor Gallina 6un,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,6.0,un,Concentrado en Polvo Doña Gusta Sabor Gallina,2.2
+Concentrado en Polvo Doña Gusta Sabor Carne 6un,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,6.0,un,Concentrado en Polvo Doña Gusta Sabor Carne,2.2
+Caldo Concentrado Sabor Tocino Doña Gusta Caja 42 g,S/ 2.20,metro,SAZONADORES CONCENTRADOS,2024-12-04 22:07:45.678322,42.0,g,Caldo Concentrado Sabor Tocino Doña Gusta Caja,2.2

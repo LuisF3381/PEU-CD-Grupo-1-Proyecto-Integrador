@@ -1,21 +1,21 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Universal,Gelatina UNIVERSAL Sabor a Naranja Bolsa 130g,S/ 3.50 8%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,130.0,g,3.5
-Fanta,Gaseosa FANTA Naranja 500ml Paquete 12u,S/ 26.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,26.4
-Fanta,Gaseosa FANTA Botella 3L,S/ 6.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,3.0,l,6.9
-Gloria,Bebida GLORIA Naranja Caja 1L,S/ 4.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,1.0,l,4.0
-UMSHA,Gelatina UMSHA Sabor Naranja Bolsa 120g,S/ 3.20,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,120.0,g,3.2
-Gloria,Bebida GLORIA Sabor a Naranja Caja 1.5L x 3u,S/ 17.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,1.5,l,17.4
-Victoria,Galleta MARQUESITA Sabor a Naranja Paquete 6 un,S/ 6.20,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,6.0,un,6.2
-Zuko,Refresco instantáneo ZUKO de Naranja Display 12u Sobre 15gr,S/ 14.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,15.0,g,14.4
-Gloria,"Bebida GLORIA Naranja Caja 1,5L",S/ 5.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,5.0,l,5.0
-Victoria,Galleta CHOMP Sabor a Naranja Paquete 6 un,S/ 5.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,6.0,un,5.4
-Timonel,Gelatina TIMONEL Sabor a Naranja Bolsa 150gr,S/ 3.50,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,150.0,g,3.5
-Victoria,Galleta VICTORIA Tentación Sabor a Naranja Paquete 6u 43gr,S/ 5.30,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,43.0,g,5.3
-Cif,Crema Multiuso CIF Flores Naranja Frasco 750ml,S/ 12.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,750.0,ml,12.9
-Mr Musculo,Sacagrasa MR. MÚSCULO Naranja Gatillo 500ml,S/ 17.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,17.9
-Tabernero,Chilcano TABERNERO Bar Naranja Botella 275ml,S/ 5.90 16%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,275.0,ml,5.9
-Royal,Gelatina ROYAL Sabor a Naranja Bolsa 160gr,S/ 5.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,160.0,g,5.0
-Fanta,Gaseosa FANTA Naranja 500ml,S/ 2.70,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,2.7
-Sapolio,Sacagrasa SAPOLIO Naranja Gatillo 650ml,S/ 11.50,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,650.0,ml,11.5
-Alacena,Mayonesa ALACENA Doypack 850g,S/ 16.90 12%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,850.0,g,16.9
-Alacena,Salsa de Uchucuta ALACENA Doypack 400g,S/ 12.90 4%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,400.0,g,12.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Universal,Gelatina UNIVERSAL Sabor a Naranja Bolsa 130g,S/ 3.50 8%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,130.0,g,Gelatina UNIVERSAL Sabor a Naranja Bolsa,3.5
+Fanta,Gaseosa FANTA Naranja 500ml Paquete 12u,S/ 26.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,Gaseosa FANTA Naranja  Paquete 12u,26.4
+Fanta,Gaseosa FANTA Botella 3L,S/ 6.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,3.0,l,Gaseosa FANTA Botella,6.9
+Gloria,Bebida GLORIA Naranja Caja 1L,S/ 4.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,1.0,l,Bebida GLORIA Naranja Caja,4.0
+UMSHA,Gelatina UMSHA Sabor Naranja Bolsa 120g,S/ 3.20,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,120.0,g,Gelatina UMSHA Sabor Naranja Bolsa,3.2
+Gloria,Bebida GLORIA Sabor a Naranja Caja 1.5L x 3u,S/ 17.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,1.5,l,Bebida GLORIA Sabor a Naranja Caja  x 3u,17.4
+Victoria,Galleta MARQUESITA Sabor a Naranja Paquete 6 un,S/ 6.20,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,6.0,un,Galleta MARQUESITA Sabor a Naranja Paquete,6.2
+Zuko,Refresco instantáneo ZUKO de Naranja Display 12u Sobre 15gr,S/ 14.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,15.0,g,Refresco instantáneo ZUKO de Naranja Display 12u Sobre r,14.4
+Gloria,"Bebida GLORIA Naranja Caja 1,5L",S/ 5.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,5.0,l,"Bebida GLORIA Naranja Caja 1,",5.0
+Victoria,Galleta CHOMP Sabor a Naranja Paquete 6 un,S/ 5.40,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,6.0,un,Galleta CHOMP Sabor a Naranja Paquete,5.4
+Timonel,Gelatina TIMONEL Sabor a Naranja Bolsa 150gr,S/ 3.50,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,150.0,g,Gelatina TIMONEL Sabor a Naranja Bolsa r,3.5
+Victoria,Galleta VICTORIA Tentación Sabor a Naranja Paquete 6u 43gr,S/ 5.30,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,43.0,g,Galleta VICTORIA Tentación Sabor a Naranja Paquete 6u r,5.3
+Cif,Crema Multiuso CIF Flores Naranja Frasco 750ml,S/ 12.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,750.0,ml,Crema Multiuso CIF Flores Naranja Frasco,12.9
+Mr Musculo,Sacagrasa MR. MÚSCULO Naranja Gatillo 500ml,S/ 17.90,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,Sacagrasa MR. MÚSCULO Naranja Gatillo,17.9
+Tabernero,Chilcano TABERNERO Bar Naranja Botella 275ml,S/ 5.90 16%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,275.0,ml,Chilcano TABERNERO Bar Naranja Botella,5.9
+Royal,Gelatina ROYAL Sabor a Naranja Bolsa 160gr,S/ 5.00,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,160.0,g,Gelatina ROYAL Sabor a Naranja Bolsa r,5.0
+Fanta,Gaseosa FANTA Naranja 500ml,S/ 2.70,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,500.0,ml,Gaseosa FANTA Naranja,2.7
+Sapolio,Sacagrasa SAPOLIO Naranja Gatillo 650ml,S/ 11.50,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,650.0,ml,Sacagrasa SAPOLIO Naranja Gatillo,11.5
+Alacena,Mayonesa ALACENA Doypack 850g,S/ 16.90 12%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,850.0,g,Mayonesa ALACENA Doypack,16.9
+Alacena,Salsa de Uchucuta ALACENA Doypack 400g,S/ 12.90 4%,vega,NARANJA DE MESA,2024-12-04 13:52:10.747716,400.0,g,Salsa de Uchucuta ALACENA Doypack,12.9

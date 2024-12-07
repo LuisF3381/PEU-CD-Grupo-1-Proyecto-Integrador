@@ -1,19 +1,19 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-INKA CHIPS,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,S/ 7.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,135.0,g,7.8
-Kariño,Canela Entera KARIÑO Sobre 3g,S/ 0.90,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,3.0,g,0.9
-Kariño,Canela Molida KARIÑO Sobre 4g,S/ 0.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,4.0,g,0.8
-Quaker,Avena QUAKER Original Bolsa 900gr,S/ 11.50 21%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,900.0,g,11.5
-Herbi,Infusiones Té Canela y Clavo HERBI Caja 100 un,S/ 5.60 14%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,100.0,un,5.6
-Vega,Miel de abeja VEGA Frasco 500gr,S/ 20.00 13%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,500.0,g,20.0
-Mc Collins,Infusiones Té Canela y Clavo MC Caja 100 un,S/ 9.50 10%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,100.0,un,9.5
-Universal,Gelatina UNIVERSAL Sabor a Cereza Bolsa 130g,S/ 3.50 8%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,130.0,g,3.5
-Vega,Miel de Abeja VEGA Frasco 250g,S/ 12.90 6%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,250.0,g,12.9
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g Display 12u,S/ 28.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,28.8
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90gr,S/ 2.60,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,2.6
-Del Valle,Infusiones DEL VALLE Te Canela Clavo Caja 25 un,S/ 1.70,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,1.7
-Herbi,Infusiones Té Canela y Clavo HERBI Caja 25 un,S/ 2.30,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,2.3
-Universal,Mazamorra Morada UNIVERSAL Bolsa 150gr,S/ 2.50,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,150.0,g,2.5
-Mc Collins,Infusiones Té Canela y Clavo MC Caja 25 un,S/ 3.50,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,3.5
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g,S/ 2.60,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,2.6
-Vega,Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,170.0,g,4.4
-Don Vittorio,Salsa Roja DON VITTORIO Doypack 200g,S/ 4.20,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,200.0,g,4.2
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+INKA CHIPS,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,S/ 7.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,135.0,g,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa,7.8
+Kariño,Canela Entera KARIÑO Sobre 3g,S/ 0.90,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,3.0,g,Canela Entera KARIÑO Sobre,0.9
+Kariño,Canela Molida KARIÑO Sobre 4g,S/ 0.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,4.0,g,Canela Molida KARIÑO Sobre,0.8
+Quaker,Avena QUAKER Original Bolsa 900gr,S/ 11.50 21%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,900.0,g,Avena QUAKER Original Bolsa r,11.5
+Herbi,Infusiones Té Canela y Clavo HERBI Caja 100 un,S/ 5.60 14%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,100.0,un,Infusiones Té Canela y Clavo HERBI Caja,5.6
+Vega,Miel de abeja VEGA Frasco 500gr,S/ 20.00 13%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,500.0,g,Miel de abeja VEGA Frasco r,20.0
+Mc Collins,Infusiones Té Canela y Clavo MC Caja 100 un,S/ 9.50 10%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,100.0,un,Infusiones Té Canela y Clavo MC Caja,9.5
+Universal,Gelatina UNIVERSAL Sabor a Cereza Bolsa 130g,S/ 3.50 8%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,130.0,g,Gelatina UNIVERSAL Sabor a Cereza Bolsa,3.5
+Vega,Miel de Abeja VEGA Frasco 250g,S/ 12.90 6%,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,250.0,g,Miel de Abeja VEGA Frasco,12.9
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g Display 12u,S/ 28.80,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta  Display 12u,28.8
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90gr,S/ 2.60,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta r,2.6
+Del Valle,Infusiones DEL VALLE Te Canela Clavo Caja 25 un,S/ 1.70,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,Infusiones DEL VALLE Te Canela Clavo Caja,1.7
+Herbi,Infusiones Té Canela y Clavo HERBI Caja 25 un,S/ 2.30,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,Infusiones Té Canela y Clavo HERBI Caja,2.3
+Universal,Mazamorra Morada UNIVERSAL Bolsa 150gr,S/ 2.50,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,150.0,g,Mazamorra Morada UNIVERSAL Bolsa r,2.5
+Mc Collins,Infusiones Té Canela y Clavo MC Caja 25 un,S/ 3.50,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,25.0,un,Infusiones Té Canela y Clavo MC Caja,3.5
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g,S/ 2.60,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta,2.6
+Vega,Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,170.0,g,Filete de Caballa VEGA en Aceite Vegetal Lata,4.4
+Don Vittorio,Salsa Roja DON VITTORIO Doypack 200g,S/ 4.20,vega,CEBOLLA DE CABEZA (ROJA),2024-12-04 14:14:32.984313,200.0,g,Salsa Roja DON VITTORIO Doypack,4.2

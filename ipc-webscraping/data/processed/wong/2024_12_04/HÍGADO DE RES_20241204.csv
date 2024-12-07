@@ -1,6 +1,6 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Hígado de Res Importado Wong x kg,S/ 14.90 x kg,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,14.9
-Hígado de Res Importado Trozado x kg,S/ 14.90 x kg,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,14.9
-Hígado Feteado Schilcayo 1kg,S/ 14.90,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,14.9
-Snack Saludable Woof City Hígado de Res 75g,S/ 16.99,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,75.0,g,16.99
-Natural Home Snacks Deshidratados Hígado de Res Doypack 80 g,S/ 17.59,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,80.0,g,17.59
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Hígado de Res Importado Wong x kg,S/ 14.90 x kg,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,Hígado de Res Importado Wong,14.9
+Hígado de Res Importado Trozado x kg,S/ 14.90 x kg,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,Hígado de Res Importado Trozado,14.9
+Hígado Feteado Schilcayo 1kg,S/ 14.90,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,1.0,kg,Hígado Feteado Schilcayo,14.9
+Snack Saludable Woof City Hígado de Res 75g,S/ 16.99,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,75.0,g,Snack Saludable Woof City Hígado de Res,16.99
+Natural Home Snacks Deshidratados Hígado de Res Doypack 80 g,S/ 17.59,wong,HÍGADO DE RES,2024-12-04 18:46:50.014251,80.0,g,Natural Home Snacks Deshidratados Hígado de Res Doypack,17.59

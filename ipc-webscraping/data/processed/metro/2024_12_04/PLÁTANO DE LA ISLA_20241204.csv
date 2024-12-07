@@ -1,2 +1,2 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Plátano Isla Metro x kg,S/ 5.49 x kg,metro,PLÁTANO DE LA ISLA,2024-12-04 21:31:31.174546,1.0,kg,5.49
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Plátano Isla Metro x kg,S/ 5.49 x kg,metro,PLÁTANO DE LA ISLA,2024-12-04 21:31:31.174546,1.0,kg,Plátano Isla Metro,5.49

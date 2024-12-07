@@ -1,3 +1,3 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pimienta del Ají Cayene Badia 49.6g,S/ 9.60,wong,AJÍ PIMIENTO,2024-12-04 19:44:56.156784,49.6,g,9.6
-Ajo y Pimienta Roja en Agua Badia 907.2g,S/ 14.10,wong,AJÍ PIMIENTO,2024-12-04 19:44:56.156784,907.2,g,14.1
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pimienta del Ají Cayene Badia 49.6g,S/ 9.60,wong,AJÍ PIMIENTO,2024-12-04 19:44:56.156784,49.6,g,Pimienta del Ají Cayene Badia,9.6
+Ajo y Pimienta Roja en Agua Badia 907.2g,S/ 14.10,wong,AJÍ PIMIENTO,2024-12-04 19:44:56.156784,907.2,g,Ajo y Pimienta Roja en Agua Badia,14.1

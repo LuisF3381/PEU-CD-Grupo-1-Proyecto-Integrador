@@ -1,19 +1,19 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Don Vittorio,Fideos Cabello de Ángel DON VITTORIO Bolsa 250g,S/ 2.00,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,250.0,g,2.0
-Vega,Chocolate para Taza TIMONEL Bolsa 90g Caja 50u,S/ 52.00 26%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,52.0
-Savital,Acondicionador SAVITAL con Multióleos y Sábila Frasco 490ml,S/ 11.90 20%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,490.0,ml,11.9
-Savital,Acondicionador SAVITAL con Multivitaminas y Sábila Frasco 490ml,S/ 11.90 20%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,490.0,ml,11.9
-3 Ositos,Avena con Quinua 3 OSITOS Premium 900g,S/ 10.69 14%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,900.0,g,10.69
-Ariel,Detergente Líquido ARIEL con Downy Doypack 1.2L,S/ 24.50 2%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,1.2,l,24.5
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g Display 12u,S/ 28.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,28.8
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90gr,S/ 2.60,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,2.6
-San Mateo,Agua SAN MATEO Con Gas Paquete 15u Botella 600ml,,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,600.0,ml,
-Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g,S/ 2.60,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,2.6
-Globo Pop,Chupete GLOBO POP con Chicle Surtido Bolsa 24un,S/ 7.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,24.0,un,7.8
-Costa,Galletas Integral COSTA con Salvado de Trigo Paquete 6u 37g,S/ 4.30,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,37.0,g,4.3
-Vega,Maní con Pasas VEGA Bolsa 200gr,S/ 5.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,200.0,g,5.5
-Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,170.0,g,2.9
-Costa,Galletas COSTA Choco Chips Paquete 6u 34g.,S/ 4.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,34.0,g,4.5
-Costa,Galletas COSTA Choco Donuts Chocolate con leche Paquete 6u 33g.,S/ 4.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,33.0,g,4.5
-Santa Catalina,Avena SANTA CATALINA con Kiwicha Bolsa 280gr,S/ 4.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,280.0,g,4.8
-Santa Catalina,Avena SANTA CATALINA con Maca Bolsa 280gr,S/ 4.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,280.0,g,4.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Don Vittorio,Fideos Cabello de Ángel DON VITTORIO Bolsa 250g,S/ 2.00,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,250.0,g,Fideos Cabello de Ángel DON VITTORIO Bolsa,2.0
+Vega,Chocolate para Taza TIMONEL Bolsa 90g Caja 50u,S/ 52.00 26%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,Chocolate para Taza TIMONEL Bolsa  Caja 50u,52.0
+Savital,Acondicionador SAVITAL con Multióleos y Sábila Frasco 490ml,S/ 11.90 20%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,490.0,ml,Acondicionador SAVITAL con Multióleos y Sábila Frasco,11.9
+Savital,Acondicionador SAVITAL con Multivitaminas y Sábila Frasco 490ml,S/ 11.90 20%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,490.0,ml,Acondicionador SAVITAL con Multivitaminas y Sábila Frasco,11.9
+3 Ositos,Avena con Quinua 3 OSITOS Premium 900g,S/ 10.69 14%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,900.0,g,Avena con Quinua 3 OSITOS Premium,10.69
+Ariel,Detergente Líquido ARIEL con Downy Doypack 1.2L,S/ 24.50 2%,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,1.2,l,Detergente Líquido ARIEL con Downy Doypack,24.5
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g Display 12u,S/ 28.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta  Display 12u,28.8
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90gr,S/ 2.60,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta r,2.6
+San Mateo,Agua SAN MATEO Con Gas Paquete 15u Botella 600ml,,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,600.0,ml,Agua SAN MATEO Con Gas Paquete 15u Botella,
+Sol Del Cuzco,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g,S/ 2.60,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta,2.6
+Globo Pop,Chupete GLOBO POP con Chicle Surtido Bolsa 24un,S/ 7.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,24.0,un,Chupete GLOBO POP con Chicle Surtido Bolsa,7.8
+Costa,Galletas Integral COSTA con Salvado de Trigo Paquete 6u 37g,S/ 4.30,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,37.0,g,Galletas Integral COSTA con Salvado de Trigo Paquete 6u,4.3
+Vega,Maní con Pasas VEGA Bolsa 200gr,S/ 5.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,200.0,g,Maní con Pasas VEGA Bolsa r,5.5
+Grano De Oro,Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,170.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,2.9
+Costa,Galletas COSTA Choco Chips Paquete 6u 34g.,S/ 4.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,34.0,g,Galletas COSTA Choco Chips Paquete 6u .,4.5
+Costa,Galletas COSTA Choco Donuts Chocolate con leche Paquete 6u 33g.,S/ 4.50,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,33.0,g,Galletas COSTA Choco Donuts Chocolate con leche Paquete 6u .,4.5
+Santa Catalina,Avena SANTA CATALINA con Kiwicha Bolsa 280gr,S/ 4.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,280.0,g,Avena SANTA CATALINA con Kiwicha Bolsa r,4.8
+Santa Catalina,Avena SANTA CATALINA con Maca Bolsa 280gr,S/ 4.80,vega,CHOROS (CON VALVA),2024-12-04 13:38:16.872948,280.0,g,Avena SANTA CATALINA con Maca Bolsa r,4.8

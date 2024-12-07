@@ -1,261 +1,268 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric,WEB,unit,brand,CLASIFICACION
-Kekitos Bipack 55 g,S/ 2.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,55.0,g,2.5,tottus,,TODINNO,PANETÓN
-Kekitos Todinno 2un,S/ 2.50,wong,PANETÓN,2024-12-04 18:21:01.895856,2.0,un,2.5,wong,,,PANETÓN
-Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack 90g,S/ 2.50,wong,PANETÓN,2024-12-04 18:21:01.895856,90.0,g,2.5,wong,,,PANETÓN
-Kekitos Todinno 2un,S/ 2.50,metro,PANETÓN,2024-12-04 20:47:24.788410,2.0,un,2.5,metro,,,PANETÓN
-Panetón BELL'S Chispas de Chocolate Bolsa 90g,S/ 3.10,vivanda,PANETÓN,2024-12-04 17:18:18.343126,90.0,g,3.1,vivanda,,BELL'S,PANETÓN
-Panetón Todinnito con Frutas Confitadas y Pasas 85g,S/ 3.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,85.0,g,3.3,tottus,,TODINNO,PANETÓN
-Panetoncito Chispas Chocolate 90 gr,S/ 3.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,90.0,g,3.5,tottus,,BIMBO,PANETÓN
-Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete 2 unid,S/ 3.50,metro,PANETÓN,2024-12-04 20:47:24.788410,2.0,un,3.5,metro,,,PANETÓN
-Mini Panetón Minions Caja 80g Surtido,S/ 3.50,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,3.5,metro,,,PANETÓN
-Keke Sabor Naranja PYC Kekitos 3un,S/ 3.70,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,3.7,wong,,,PANETÓN
-Panetón GLORIA Mini Bolsa 80g,S/ 3.70,vega,PANETÓN,2024-12-04 13:10:57.158070,80.0,g,3.7,vega,,Gloria,PANETÓN
-Keke Sabor Vainilla PYC Kekitos 3un,S/ 3.70,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,3.7,wong,,,PANETÓN
-Keke Sabor Naranja PYC Kekitos 3un,S/ 3.70,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,3.7,metro,,,PANETÓN
-Keke Sabor Vainilla PYC Kekitos 3un,S/ 3.70,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,3.7,metro,,,PANETÓN
-Keke Bimboletes Chispas Sabor Chocolate 3un,S/ 3.80,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,3.8,wong,,,PANETÓN
-Panetón con Chispas Bimbo Panetoncito Doypack 90g,S/ 3.80,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,3.8,metro,,,PANETÓN
-Bizcocho Chocotoncito Bolsa 80 gr,S/ 3.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,3.9,tottus,,DONOFRIO,PANETÓN
-Keke Bimboletes Chispas Sabor Chocolate 3un,S/ 3.90,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,3.9,metro,,,PANETÓN
-Keke Bimbo Bimbolete Marmoleado 3un,S/ 3.90,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,3.9,metro,,,PANETÓN
-Mini Panetón GLORIA Chocolate Bolsa 90g,S/ 3.99 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,90.0,g,3.99,plaza_vea,Bolsa 90g,,PANETÓN
-Mini Panetón Gloria con Chispas Sabor Chocolate Doypack 90g,S/ 4.00,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,4.0,metro,,,PANETÓN
-Mini Panetón Gloria Doypack 80g,S/ 4.00,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,4.0,metro,,,PANETÓN
-Keke Sabor Vainilla Bimbolete Bimbo Paquete 3 unid,S/ 4.00,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,4.0,wong,,,PANETÓN
-Mini Panetón ARCOR Sapito Bolsa 75g,S/ 4.30,vivanda,PANETÓN,2024-12-04 17:18:18.343126,75.0,g,4.3,vivanda,,ARCOR,PANETÓN
-Mini Panetón ARCOR Sapito Bolsa 75g,S/ 4.30 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,75.0,g,4.3,plaza_vea,Bolsa 75g,,PANETÓN
-Mini Panetón Donofrio Chocotoncito Bolsa 80g,S/ 4.40,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,4.4,metro,,,PANETÓN
-Mini Panetón Donofrio Chocotoncito Bolsa 80g,S/ 4.40,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,4.4,wong,,,PANETÓN
-Mini Panetón Sapito Doypack 75g,S/ 4.50,metro,PANETÓN,2024-12-04 20:47:24.788410,75.0,g,4.5,metro,,,PANETÓN
-Panetón D'onofrio Panetoncito Caja 90g,S/ 4.50,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,4.5,metro,,,PANETÓN
-Mini Panetón Sapito Doypack 75g,S/ 4.50,wong,PANETÓN,2024-12-04 18:21:01.895856,75.0,g,4.5,wong,,,PANETÓN
-Panetón D'onofrio Panetoncito Caja 90g,S/ 4.50,wong,PANETÓN,2024-12-04 18:21:01.895856,90.0,g,4.5,wong,,,PANETÓN
-Panetón con Trozos de Chocolate TODINNO Ciocco...,S/ 4.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,80.0,g,4.6,plaza_vea,Caja 80g,,PANETÓN
-Panetón con Pasas y Frutas Confitadas TODINNIT...,S/ 4.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,85.0,g,4.6,plaza_vea,Caja 85g,,PANETÓN
-Mini Panetón Relleno Bolsa x 80 g,S/ 4.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,4.9,tottus,,BON O BON,PANETÓN
-Mini Panetón Relleno Bon o Bon 80g,S/ 4.90,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,4.9,wong,,,PANETÓN
-Mini Panetón Bauducco Chocolate 80g,S/ 5.10,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,5.1,wong,,,PANETÓN
-Mini Panettone Chocolate Caja X 80 gr,S/ 5.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,5.3,tottus,,BAUDUCCO,PANETÓN
-Mini Panetón Bauducco Chocolate 80g,S/ 5.50,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,5.5,metro,,,PANETÓN
-Brownies Gustozzi Clásicos 3un,S/ 6.60,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,6.6,wong,,,PANETÓN
-Brownies Gustozzi Clásicos 3un,S/ 6.60,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,6.6,metro,,,PANETÓN
-Brownichoc Nutra Bien 4un,S/ 7.50,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,7.5,metro,,,PANETÓN
-Kekitos Gustozzito 3un,S/ 7.50,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,7.5,wong,,,PANETÓN
-Turron de Doña Pepa Gustozzi 3un,S/ 7.50,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,7.5,wong,,,PANETÓN
-Turron de Doña Pepa Gustozzi 3un,S/ 7.50,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,7.5,metro,,,PANETÓN
-Brownies Gustozzi Selección 3un,S/ 8.30,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,8.3,wong,,,PANETÓN
-Pasteles Pingüino Minix Triple Sabor Chocolate 10un,S/ 8.50,metro,PANETÓN,2024-12-04 20:47:24.788410,10.0,un,8.5,metro,,,PANETÓN
-Keke Bimboletes Minix Chispas Sabor Chocolate 10un,S/ 9.30,wong,PANETÓN,2024-12-04 18:21:01.895856,10.0,un,9.3,wong,,,PANETÓN
-Pasteles Pingüino Minix Triple Sabor Chocolate 10un,S/ 9.50,wong,PANETÓN,2024-12-04 18:21:01.895856,10.0,un,9.5,wong,,,PANETÓN
-Panetón BELL'S Bolsa 800g,S/ 10.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,10.2,plaza_vea,Bolsa 800g,,PANETÓN
-Brownie Gustozzi Toppings 3un,S/ 10.30,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,10.3,metro,,,PANETÓN
-Brownie Clásico Nutra Bien 4un,S/ 10.40,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,10.4,metro,,,PANETÓN
-Brownie Chip Nutra Bien 4un,S/ 10.40,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,10.4,metro,,,PANETÓN
-Brownie Nutra Bien Mini 6un,S/ 10.50,metro,PANETÓN,2024-12-04 20:47:24.788410,6.0,un,10.5,metro,,,PANETÓN
-Panetón VEGATTONE Bolsa 750g,S/ 10.50,vega,PANETÓN,2024-12-04 13:10:57.158070,750.0,g,10.5,vega,,VEGATTONE,PANETÓN
-Panetón Tradicional Máxima Doypack 800g,S/ 10.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,10.5,metro,,,PANETÓN
-Panetón Tradicional Máxima Doypack 800g,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,10.9,wong,,,PANETÓN
-Panetón Vegano Bona Stella Chocolate Caja 100g,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,100.0,g,10.9,wong,,,PANETÓN
-Panetón en Bolsa 900 g,S/ 10.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,10.9,tottus,,TOTTUS,PANETÓN
-Brownichoc Nutra Bien 4un,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,4.0,un,10.9,wong,,,PANETÓN
-Keke Naranja Bimbo Paquete 380 g,S/ 11.20,wong,PANETÓN,2024-12-04 18:21:01.895856,380.0,g,11.2,wong,,,PANETÓN
-Panetón Tradicional Metro Bolsa 800g,S/ 11.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,11.5,metro,,,PANETÓN
-Brownie Nutra Bien Mini 6un,S/ 12.90,wong,PANETÓN,2024-12-04 18:21:01.895856,6.0,un,12.9,wong,,,PANETÓN
-Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,wong,PANETÓN,2024-12-04 18:21:01.895856,8.0,un,14.9,wong,,,PANETÓN
-Brownie Chip Nutra Bien 4un,S/ 14.90,wong,PANETÓN,2024-12-04 18:21:01.895856,4.0,un,14.9,wong,,,PANETÓN
-Panetón VEGA Bolsa Ziploc 800gr,S/ 14.90 4%,vega,PANETÓN,2024-12-04 13:10:57.158070,800.0,g,14.9,vega,,Vega,PANETÓN
-Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,metro,PANETÓN,2024-12-04 20:47:24.788410,8.0,un,14.9,metro,,,PANETÓN
-Brownie Clásico Nutra Bien 4un,S/ 14.90,wong,PANETÓN,2024-12-04 18:21:01.895856,4.0,un,14.9,wong,,,PANETÓN
-Blondies Mr Brownie 8un,S/ 14.90,metro,PANETÓN,2024-12-04 20:47:24.788410,8.0,un,14.9,metro,,,PANETÓN
-Panetón BELL'S Chispas de Chocolate 500g,S/ 15.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,15.9,plaza_vea,Caja 500g,,PANETÓN
-Panetón con Gotas Sabor Chocolate Todinno Cioccolato 500g,S/ 16.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,16.9,metro,,,PANETÓN
-Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,S/ 16.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,16.9,wong,,,PANETÓN
-Panetón HH Bolsa x 800 g,S/ 16.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,16.9,tottus,,,PANETÓN
-Panetón Al Cioccolato en Caja 500 g,S/ 17.10,tottus,PANETÓN,2024-12-04 13:02:00.711337,500.0,g,17.1,tottus,,TODINNO,PANETÓN
-Panetón Metro Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 17.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,17.4,metro,,,PANETÓN
-Panetón Metro Bolsa 800g + Gaseosa Coca Cola 1.5L,S/ 17.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,17.4,metro,,,PANETÓN
-Panetón Gloria Doypack 800g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,17.9,metro,,,PANETÓN
-Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,17.9,metro,,,PANETÓN
-Panetón Winter's Choco Chispas Doypack 500g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,17.9,metro,,,PANETÓN
-Panetón Winter's Choco Chispas Doypack 500g,S/ 17.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,17.9,wong,,,PANETÓN
-Panetón con Gotas Sabor Chocolate Chocotón Caja 450g,S/ 18.00,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,18.0,metro,,,PANETÓN
-Panetón con Chispas Sabor Chocolate Cuisine & Co Caja 500g,S/ 18.50,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,18.5,wong,,,PANETÓN
-Bizcocho Dulce Pandulce 490g,S/ 18.60,tottus,PANETÓN,2024-12-04 13:02:00.711337,490.0,g,18.6,tottus,,DONOFRIO,PANETÓN
-Panetón DONOFRIO Chariton Bolsa 750g,S/ 18.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,18.9,plaza_vea,Bolsa 750g,,PANETÓN
-Panetón Clásico LA FLORENCIA Bolsa 600g,S/ 18.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,18.9,vivanda,,LA FLORENCIA,PANETÓN
-Panetón Frutas Confitadas Pasas Bolsa 800 g,S/ 18.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,18.9,tottus,,COSTA,PANETÓN
-Panetón de Lúcuma Ricco's Chocolúcuma Caja 500g,S/ 18.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,18.9,metro,,,PANETÓN
-Panetón Buon Natale Doypack 750g,S/ 18.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,18.9,metro,,,PANETÓN
-Panetón BLANCA FLOR Chocolate Caja 450g,S/ 19.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,19.5,plaza_vea,Caja 450g,,PANETÓN
-Panetón Dolcci Bolsa x 800 g,S/ 19.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,19.9,tottus,,GLORIA,PANETÓN
-Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,S/ 20.00,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,20.0,wong,,,PANETÓN
-Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,S/ 20.00,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,20.0,metro,,,PANETÓN
-Panetón Relleno Chocotón Manjar Blanco Caja 450g,S/ 20.00,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,20.0,wong,,,PANETÓN
-Panetón Chocotón Sabor Chocolate 450g,S/ 20.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,450.0,g,20.3,tottus,,DONOFRIO,PANETÓN
-Panetón Wong Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,20.4,wong,,,PANETÓN
-Panetón Wong Bolsa 800g + Gaseosa Coca Cola 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,20.4,wong,,,PANETÓN
-Panetón Wong Bolsa 800g + Gaseosa Inca Kola 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,20.4,wong,,,PANETÓN
-Panetón D'Gussto Doypack 900g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,20.5,metro,,,PANETÓN
-Panetón Clásico Sayón Doypack 750g,S/ 20.50,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,20.5,wong,,,PANETÓN
-Panetón Clásico Sayón Doypack 750g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,20.5,metro,,,PANETÓN
-Panetón Arcor 450g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,20.5,metro,,,PANETÓN
-Panetón en Bolsa 900 g,S/ 20.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,20.9,tottus,,BIMBO,PANETÓN
-Panetón Frutas Confitadas Pasas Caja 800 g,S/ 20.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,20.9,tottus,,COSTA,PANETÓN
-Panetón WINTERS sin Agregados Bolsa 500g,S/ 20.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,20.9,plaza_vea,Bolsa 500g,,PANETÓN
-Panetón Costa Doypack 800g,S/ 20.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,20.9,wong,,,PANETÓN
-Panetón GLORIA Bolsa 900g,S/ 20.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,20.9,plaza_vea,Bolsa 900g,,PANETÓN
-Panetón Andino Ricco's Kusi Raymi Caja 500g,S/ 21.00,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,21.0,metro,,,PANETÓN
-Panetón Andino Ricco's Kusi Raymi Caja 500g,S/ 21.00,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,21.0,wong,,,PANETÓN
-Panetón GLORIA Bolsa 900gr,S/ 21.50 10%,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,21.5,vega,,Gloria,PANETÓN
-Panetón Sapito 450g,S/ 21.50,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,21.5,wong,,,PANETÓN
-Panetón Bimbo Doypack 900g,S/ 21.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,21.9,metro,,,PANETÓN
-Panetón DONOFRIO Chocotón Bolsa 450g,S/ 21.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,21.9,plaza_vea,Bolsa 450g,,PANETÓN
-Panetón Chocotón LA FLORENCIA Caja 600g,S/ 21.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,21.9,vivanda,,LA FLORENCIA,PANETÓN
-Panetón Integral D'onofrio Doypack 500g,S/ 21.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,21.9,metro,,,PANETÓN
-Panetón Chocotón LA FLORENCIA Caja 600g,S/ 21.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,600.0,g,21.9,plaza_vea,Caja 600g,,PANETÓN
-Panetón Bimbo Doypack 900g,S/ 21.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,21.9,wong,,,PANETÓN
-Pandulce D'Onofrio Doypack 490g,S/ 21.90,wong,PANETÓN,2024-12-04 18:21:01.895856,490.0,g,21.9,wong,,,PANETÓN
-Panetón DONOFRIO Chocotón Bolsa 450g,S/ 21.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,21.9,vivanda,,D'ONOFRIO,PANETÓN
-Panetón Blanca Flor Doypack 900g,S/ 22.30,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,22.3,wong,,,PANETÓN
-Paneton 900 g,S/ 22.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,22.4,tottus,,BLANCA FLOR,PANETÓN
-Panetón Chocoton Relleno Doble Chocolat Caja 450 gr,S/ 22.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,450.0,g,22.5,tottus,,DONOFRIO,PANETÓN
-Panetón Relleno Bon o Bon 450g,S/ 22.50,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,22.5,wong,,,PANETÓN
-Panetón Costa Caja 800g,S/ 22.50,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,22.5,wong,,,PANETÓN
-Panetón Relleno Bon o Bon 450g,S/ 22.50,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,22.5,metro,,,PANETÓN
-Panetón Gloria Pasión Sabor Algarrobina Caja 500g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,22.9,wong,,,PANETÓN
-PANETON CAJA 750 GR,S/ 22.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,750.0,g,22.9,tottus,,BUON NATALE,PANETÓN
-Panetón GLORIA PASION con Chispas de Chocolate Caja 500g,S/ 22.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,500.0,g,22.9,vivanda,,GLORIA,PANETÓN
-Panetón Bimbo Caja 900g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,22.9,wong,,,PANETÓN
-Panetón GLORIA PASION con Chispas de Chocolate...,S/ 22.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,22.9,plaza_vea,Caja 500g,,PANETÓN
-Panetón COSTA Bolsa 800g,S/ 22.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,22.9,plaza_vea,Bolsa 800g,,PANETÓN
-Panetón Gloria Pasión Avellanas Caja 500g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,22.9,wong,,,PANETÓN
-Panetón Pasas Frutas Bolsa 880 gr,S/ 23.20,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,23.2,tottus,,DONOFRIO,PANETÓN
-Panetón Donofrio 880g,S/ 23.50,wong,PANETÓN,2024-12-04 18:21:01.895856,880.0,g,23.5,wong,,,PANETÓN
-Panetón Donofrio 880g,S/ 23.50,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,23.5,metro,,,PANETÓN
-Panetón Bolsa x 900 gr,S/ 23.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,23.5,tottus,,SAN JORGE,PANETÓN
-Panetón GLORIA Caja 900g,S/ 23.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,23.5,plaza_vea,Caja 900g,,PANETÓN
-Panetón Winter's Doypack 800g,S/ 23.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,23.5,metro,,,PANETÓN
-Panetón DONOFRIO Chocotón Caja 450g,S/ 23.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,23.9,vivanda,,D'ONOFRIO,PANETÓN
-Panetón Chocotón DONOFRIO Caja 450gr,S/ 23.90,vega,PANETÓN,2024-12-04 13:10:57.158070,450.0,g,23.9,vega,,Donofrio,PANETÓN
-Panetón Gloria Doypack 900g,S/ 23.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,23.9,wong,,,PANETÓN
-Panetón Gloria Doypack 900g,S/ 23.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,23.9,metro,,,PANETÓN
-Panetón DONOFRIO Chocotón Caja 450g,S/ 23.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,23.9,plaza_vea,Caja 450g,,PANETÓN
-Panetón DONOFRIO Buen Natale Bolsa 750g,S/ 23.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,23.9,plaza_vea,Bolsa 750g,,PANETÓN
-Panetón San Jorge Poessía Doypack 900g,S/ 23.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,23.9,metro,,,PANETÓN
-Panetón Blanca Flor Caja 900g,S/ 24.70,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,24.7,wong,,,PANETÓN
-Panetón Blanca Flor Caja 900g,S/ 24.70,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,24.7,metro,,,PANETÓN
-Panetón Artesanal con Frutos Secos LA FLORENCIA Caja 600g,S/ 24.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,24.9,vivanda,,LA FLORENCIA,PANETÓN
-Panetón Artesanal con Frutos Secos LA FLORENCI...,S/ 24.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,600.0,g,24.9,plaza_vea,Caja 600g,,PANETÓN
-Panetón San Jorge Gran Panetón Caja 900g,S/ 24.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,24.9,metro,,,PANETÓN
-Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,S/ 25.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,25.5,wong,,,PANETÓN
-Panetón Pasas Frutas Caja 880 gr,S/ 25.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,25.5,tottus,,DONOFRIO,PANETÓN
-Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,S/ 25.50,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,25.5,metro,,,PANETÓN
-Gran Panetón SAN JORGE Caja 900g,S/ 25.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,25.6,plaza_vea,Caja 900g,,PANETÓN
-Panetón Buon Natale Caja 750g,S/ 25.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,25.9,metro,,,PANETÓN
-Panetón COSTA Caja 800g,S/ 25.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,25.9,plaza_vea,Caja 800g,,PANETÓN
-Panetón DONOFRIO Caja 880gr,S/ 25.90 16%,vega,PANETÓN,2024-12-04 13:10:57.158070,880.0,g,25.9,vega,,Donofrio,PANETÓN
-Panetón con Trozos de Chocolate POESSIA Bolsa ...,S/ 25.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,25.9,plaza_vea,Bolsa 900g,,PANETÓN
-Panetón Ziplock Poessia 900 gr,S/ 26.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,26.5,tottus,,SAN JORGE,PANETÓN
-Panetón Chocotón DONOFRIO Doble Chocolate Caja 450g,S/ 26.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,26.5,vivanda,,D'ONOFRIO,PANETÓN
-Panetón DONOFRIO de Chocolate Relleno con Manj...,S/ 26.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,26.5,plaza_vea,Caja 450g,,PANETÓN
-PANETON 900G+TODINNITO 85G C/FRUTA CONF,S/ 26.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,26.5,tottus,,TODINNO,PANETÓN
-Panetón Chocotón DONOFRIO Doble Chocolate Caja...,S/ 26.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,26.5,plaza_vea,Caja 450g,,PANETÓN
-Panetón Gloria Caja 900g,S/ 26.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,26.9,metro,,,PANETÓN
-Panetón WINTER'S Bolsa 800g,S/ 27.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,800.0,g,27.5,vivanda,,WINTER'S,PANETÓN
-Panetón WINTER'S Bolsa 800g,S/ 27.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,27.5,plaza_vea,Bolsa 800g,,PANETÓN
-Panetón Unión Doypack 900g,S/ 27.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,27.9,metro,,,PANETÓN
-Panetón Iluminato Doypack 900g,S/ 27.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,27.9,wong,,,PANETÓN
-Panetón Vegano Cuisine & Co Caja 500g,S/ 27.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,27.9,metro,,,PANETÓN
-Panetón Clásico Todinno 900g,S/ 28.00,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,28.0,wong,,,PANETÓN
-Gran Panetón SAN JORGE Caja 900g,S/ 28.10,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,28.1,vivanda,,SAN JORGE,PANETÓN
-Panetón TODINNO Caja 900g + Panetón TODINNITO ...,S/ 28.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,28.5,plaza_vea,Pack 2un,,PANETÓN
-Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,S/ 28.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,28.5,wong,,,PANETÓN
-Panetón Vegano Cuisine & Co Caja 500g,S/ 28.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,28.9,wong,,,PANETÓN
-Panetón TODINNO Bolsa 900g + Panetón TODINNITO...,S/ 28.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,28.9,plaza_vea,Pack 2un,,PANETÓN
-Panetón Integral UNIÓN con Castañas Bolsa 900g,S/ 29.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,29.5,plaza_vea,Bolsa 900g,,PANETÓN
-Panetón TODINNO Bolsa 900g + Panetón TODINNITO Bolsa 85g,S/ 29.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,29.5,vivanda,,TODINNO,PANETÓN
-Panetón Peruano CASA VERDE Caja 80g,S/ 29.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,80.0,g,29.9,plaza_vea,Caja 80g,,PANETÓN
-Panetón D'ONOFRIO Bolsa 880g,S/ 29.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,880.0,g,29.9,vivanda,,D'ONOFRIO,PANETÓN
-Panetón Integral Unión Caja 900g,S/ 30.50,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,30.5,metro,,,PANETÓN
-Panetón Integral Unión Caja 900g,S/ 30.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,30.5,wong,,,PANETÓN
-Panetón con Frutas BAUDUCCO Caja 750g,S/ 30.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,30.9,plaza_vea,Caja 750g,,PANETÓN
-Panetón Iluminato Caja 900g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,31.9,metro,,,PANETÓN
-Panetón con Gotas Sabor Chocolate Bauducco Caja 680g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,680.0,g,31.9,metro,,,PANETÓN
-Panetón D'ONOFRIO Caja 880g,S/ 31.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,880.0,g,31.9,plaza_vea,Caja 880g,,PANETÓN
-Panetón Bauducco Caja 750g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,31.9,metro,,,PANETÓN
-Panetón Integral con Higos y Pecanas Unión Diet Lata 500g,S/ 32.50,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,32.5,metro,,,PANETÓN
-Panetón D'ONOFRIO Caja 880g,S/ 32.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,880.0,g,32.9,vivanda,,D'ONOFRIO,PANETÓN
-Twopack Panetón con Chocolate Blanca Flor Caja 450g,S/ 34.40,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,34.4,wong,,,PANETÓN
-Twopack Panetón con Chocolate Blanca Flor Caja 450g,S/ 34.40,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,34.4,metro,,,PANETÓN
-Panetón San Jorge Gran Panetón Caja 1.5kg,S/ 34.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.5,kg,34.9,wong,,,PANETÓN
-Panetón San Jorge Gran Panetón Caja 1.5kg,S/ 34.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.5,kg,34.9,metro,,,PANETÓN
-Gran Panetón SAN JORGE Caja 1.5Kg,S/ 36.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,1.5,kg,36.9,plaza_vea,Caja 1.5Kg,,PANETÓN
-Panetón TODINNO Lata 900g,S/ 36.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,36.9,plaza_vea,Lata 900g,,PANETÓN
-Panetón GLORIA Lata 900g,S/ 37.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,37.9,plaza_vea,Lata 900g,,PANETÓN
-Gran Panetón SAN JORGE Caja 1.5Kg,S/ 38.00,vivanda,PANETÓN,2024-12-04 17:18:18.343126,1.5,kg,38.0,vivanda,,SAN JORGE,PANETÓN
-Keke de Manzana & Canela No Sugar 472g,S/ 38.00,wong,PANETÓN,2024-12-04 18:21:01.895856,472.0,g,38.0,wong,,,PANETÓN
-Panetón Gloria Lata 900g,S/ 39.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,39.9,metro,,,PANETÓN
-Panetón Donofrio Pasas Frutas Caja 1.3 Kg,S/ 39.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,1.3,kg,39.9,tottus,,D'ONOFRIO,PANETÓN
-Panetón Donofrio Caja 1.3kg,S/ 39.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.3,kg,39.9,wong,,,PANETÓN
-Panetón Cuisine & Co Especial Caja 800g,S/ 40.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,40.9,wong,,,PANETÓN
-Pandoro Dal Colle Doppio Cioccolato Caja 500g,S/ 44.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,44.9,wong,,,PANETÓN
-Choco Panetón Vegano Zana Caja 500g,S/ 49.00,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,49.0,wong,,,PANETÓN
-Pandoro Dal Colle Doppio Cioccolato Caja 500g,S/ 49.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,49.9,metro,,,PANETÓN
-Panettone Schar Sin Gluten Caja 420g,S/ 53.90,wong,PANETÓN,2024-12-04 18:21:01.895856,420.0,g,53.9,wong,,,PANETÓN
-Sixpack Panetón Máxima Tradicional Doypack 800g,S/ 59.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,59.5,metro,,,PANETÓN
-Panetón BELL'S Bolsa 800g Caja 6un,S/ 61 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,61.0,plaza_vea,Caja 6un,,PANETÓN
-Panetón en Bolsa Pack 6 Unidades 900 g,S/ 64.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,6.0,un,64.9,tottus,,TOTTUS,PANETÓN
-Panetón Blanca Flor Doypack 900g + Espumante Chandon Extra Brut 750ml,S/ 72.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,72.9,metro,,,PANETÓN
-Pack Licor de Crema BAILEYS Espresso Créme Bot...,S/ 74.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,74.9,plaza_vea,Pack 2un,,PANETÓN
-Sixpack Panetón Wong Tradicional Bolsa 800g,S/ 74.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,74.9,wong,,,PANETÓN
-Pandoro Balocco Gocciolotto Caja 800g,S/ 88.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,88.9,wong,,,PANETÓN
-Sixpack Panetón Wong Tradicional Bolsa 800g,S/ 89.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,89.4,metro,,,PANETÓN
-Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja 800g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,92.9,wong,,,PANETÓN
-Pandoro Mokaccino Balocco 800g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,92.9,wong,,,PANETÓN
-Panetón Balocco Gianduia Caja 750g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,92.9,wong,,,PANETÓN
-Pandoro Paluani Montecchi Caja 1kg,S/ 93.00,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,93.0,wong,,,PANETÓN
-Panetón Properzi Caja 1kg,S/ 94.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.0,kg,94.9,metro,,,PANETÓN
-Panetón con Chips de Chocolate y Cerezas Properzi Tela 1kg,S/ 94.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.0,kg,94.9,metro,,,PANETÓN
-Panetón con Trozos de Chocolate Properzi Caja 1kg,S/ 94.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.0,kg,94.9,metro,,,PANETÓN
-Panetón Properzi Caja 1kg,S/ 94.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,94.9,wong,,,PANETÓN
-Panetón con Trozos de Chocolate Properzi Caja 1kg,S/ 94.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,94.9,wong,,,PANETÓN
-Panetón con Chips de Chocolate Paluani Caja 750g,S/ 98.00,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,98.0,wong,,,PANETÓN
-Crema de Licor Baileys Espresso Creme Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,109.8,wong,,,PANETÓN
-Crema de Licor Baileys Salted Caramel Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,109.8,wong,,,PANETÓN
-Crema de Licor Baileys Original Irish Cream Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,109.8,wong,,,PANETÓN
-Sixpack Panetón con Chocolate Blanca Flor Caja 450g,S/ 111.40,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,111.4,metro,,,PANETÓN
-Sixpack Panetón con Chocolate Blanca Flor Caja 450g,S/ 111.40,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,111.4,wong,,,PANETÓN
-Tronco de Navidad Relleno de Chocolate Paluani Caramelo 750g,S/ 112.00,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,112.0,wong,,,PANETÓN
-Panetón BIMBO Bolsa 900g Paquete 6un,S/ 117.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,117.6,plaza_vea,Paquete 6un,,PANETÓN
-Sixpack Panetón Clásico Sayón Doypack 750g,S/ 123.00,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,123.0,metro,,,PANETÓN
-Caja 6 Panetón Bolsa 900 g +Todinnito 85g,S/ 132,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,132.0,tottus,,TODINNO,PANETÓN
-Sixpack Panetón Clásico Sayón Caja 750g,S/ 132.00,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,132.0,metro,,,PANETÓN
-Sixpack Panetón Blanca Flor Doypack 900g,S/ 132.20,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,132.2,wong,,,PANETÓN
-Sixpack Panetón Donofrio 880g,S/ 136.80,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,136.8,metro,,,PANETÓN
-Sixpack Panetón Donofrio 880g,S/ 143.40,wong,PANETÓN,2024-12-04 18:21:01.895856,880.0,g,143.4,wong,,,PANETÓN
-Sixpack Panetón Blanca Flor Caja 900g,S/ 146.40,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,146.4,wong,,,PANETÓN
-Panetón TODINNO Caja 900gr + Todinnito Caja 85gr Caja 6u,S/ 148.00 13%,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,148.0,vega,,TODINNO,PANETÓN
-Panetón Milanesse Tre Marie Caja 1kg,S/ 149.00,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,149.0,wong,,,PANETÓN
-Caja x 6 Panetón Caja X 880 gr,S/ 150.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,150.4,tottus,,DONOFRIO,PANETÓN
-Sixpack Panetón D'Onofrio Caja 880g,S/ 150.60,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,150.6,metro,,,PANETÓN
-Panetón DONOFRIO Caja 880gr Caja 6u,S/ 151.50 20%,vega,PANETÓN,2024-12-04 13:10:57.158070,880.0,g,151.5,vega,,Donofrio,PANETÓN
-Gran Panetón SAN JORGE Caja 900g x 6un,S/ 151.80 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,151.8,plaza_vea,Paquete 6un,,PANETÓN
-Caja x 6 Panetón Caja x 900 g + Todinnito 85 g,S/ 156,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,156.0,tottus,,TODINNO,PANETÓN
-Sixpack Panetón D'Onofrio Caja 880g,S/ 158.40,wong,PANETÓN,2024-12-04 18:21:01.895856,880.0,g,158.4,wong,,,PANETÓN
-Panetón GLORIA Minichoco Bolsa 90g x 48un,S/ 158.99 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,48.0,un,158.99,plaza_vea,Paquete 48un,,PANETÓN
-Panetón BLANCA FLOR Caja 900g Paquete 6un,S/ 159.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,5400.0,g,159.6,plaza_vea,Caja 5400g,,PANETÓN
-Caja x 6 Panetón Bolsa x 900 g,S/ 161.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,161.4,tottus,,BIMBO,PANETÓN
-Sixpack Panetón Bimbo Doypack 900g,S/ 167.40,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,167.4,metro,,,PANETÓN
-Caja x 6 Panetón Caja x 900 g,S/ 168,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,168.0,tottus,,BIMBO,PANETÓN
-Pack Panetón TODDINO Caja 900g x 6un + Panetón...,S/ 169.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,169.2,plaza_vea,Pack 2un,,PANETÓN
-Sixpack Panetón Bimbo Caja 900g,S/ 173.40,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,173.4,metro,,,PANETÓN
-Panetón D'ONOFRIO Bolsa 880g Paquete 6un,S/ 176.40 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,176.4,plaza_vea,Paquete 6un,,PANETÓN
-Panetón Perla del Sur Tre Marie Caja 850g,S/ 179.00,wong,PANETÓN,2024-12-04 18:21:01.895856,850.0,g,179.0,wong,,,PANETÓN
-Panetón Al Chocolate Tre Marie Caja 900g,S/ 179.00,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,179.0,wong,,,PANETÓN
-Panetón GLORIA Caja 900g Caja 6un,S/ 179.40 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,179.4,plaza_vea,Caja 6un,,PANETÓN
-Panetón D'ONOFRIO Caja 880g Paquete 6un,S/ 189.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,189.6,plaza_vea,Paquete 6un,,PANETÓN
-Sixpack Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,S/ 198.00,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,198.0,metro,,,PANETÓN
-Mini Panetón COSTA Paquete 48un,S/ 211.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,48.0,un,211.2,plaza_vea,Paquete 48un,,PANETÓN
-Panetón TODDINO Lata 900g Paquete 6un,S/ 252 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,252.0,plaza_vea,Paquete 6un,,PANETÓN
-Panetón Boun Natale Bolsa 750g Caja 6u,,vega,PANETÓN,2024-12-04 13:10:57.158070,750.0,g,,vega,,BOUN NATALE,PANETÓN
-Panetón TODINNO Bolsa 900g + Todinnito Bolsa 85g Caja 6u,,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,,vega,,TODINNO,PANETÓN
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Kekitos Bipack 55 g,S/ 2.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,55.0,g,Kekitos Bipack,2.5,tottus,,TODINNO,PANETÓN
+Kekitos Todinno 2un,S/ 2.50,wong,PANETÓN,2024-12-04 18:21:01.895856,2.0,un,Kekitos Todinno,2.5,wong,,,PANETÓN
+Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack 90g,S/ 2.50,wong,PANETÓN,2024-12-04 18:21:01.895856,90.0,g,Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack,2.5,wong,,,PANETÓN
+Kekitos Todinno 2un,S/ 2.50,metro,PANETÓN,2024-12-04 20:47:24.788410,2.0,un,Kekitos Todinno,2.5,metro,,,PANETÓN
+Panetón BELL'S Chispas de Chocolate Bolsa 90g,S/ 3.10,vivanda,PANETÓN,2024-12-04 17:18:18.343126,90.0,g,Panetón BELL'S Chispas de Chocolate Bolsa,3.1,vivanda,,BELL'S,PANETÓN
+Panetón Todinnito con Frutas Confitadas y Pasas 85g,S/ 3.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,85.0,g,Panetón Todinnito con Frutas Confitadas y Pasas,3.3,tottus,,TODINNO,PANETÓN
+Mini Panetón Minions Caja 80g Surtido,S/ 3.50,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,Mini Panetón Minions Caja  Surtido,3.5,wong,,,PANETÓN
+Panetoncito Chispas Chocolate 90 gr,S/ 3.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,90.0,g,Panetoncito Chispas Chocolate r,3.5,tottus,,BIMBO,PANETÓN
+Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete 2 unid,S/ 3.50,metro,PANETÓN,2024-12-04 20:47:24.788410,2.0,un,Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete,3.5,metro,,,PANETÓN
+Mini Panetón Minions Caja 80g Surtido,S/ 3.50,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,Mini Panetón Minions Caja  Surtido,3.5,metro,,,PANETÓN
+Keke Sabor Naranja PYC Kekitos 3un,S/ 3.70,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Keke Sabor Naranja PYC Kekitos,3.7,wong,,,PANETÓN
+Panetón GLORIA Mini Bolsa 80g,S/ 3.70,vega,PANETÓN,2024-12-04 13:10:57.158070,80.0,g,Panetón GLORIA Mini Bolsa,3.7,vega,,Gloria,PANETÓN
+Keke Sabor Vainilla PYC Kekitos 3un,S/ 3.70,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Keke Sabor Vainilla PYC Kekitos,3.7,wong,,,PANETÓN
+Keke Sabor Naranja PYC Kekitos 3un,S/ 3.70,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Keke Sabor Naranja PYC Kekitos,3.7,metro,,,PANETÓN
+Keke Sabor Vainilla PYC Kekitos 3un,S/ 3.70,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Keke Sabor Vainilla PYC Kekitos,3.7,metro,,,PANETÓN
+Keke Bimboletes Chispas Sabor Chocolate 3un,S/ 3.80,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Keke Bimboletes Chispas Sabor Chocolate,3.8,wong,,,PANETÓN
+Panetón con Chispas Bimbo Panetoncito Doypack 90g,S/ 3.80,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,Panetón con Chispas Bimbo Panetoncito Doypack,3.8,metro,,,PANETÓN
+Bizcocho Chocotoncito Bolsa 80 gr,S/ 3.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,Bizcocho Chocotoncito Bolsa r,3.9,tottus,,DONOFRIO,PANETÓN
+Keke Bimboletes Chispas Sabor Chocolate 3un,S/ 3.90,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Keke Bimboletes Chispas Sabor Chocolate,3.9,metro,,,PANETÓN
+Keke Bimbo Bimbolete Marmoleado 3un,S/ 3.90,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Keke Bimbo Bimbolete Marmoleado,3.9,metro,,,PANETÓN
+Mini Panetón GLORIA Chocolate Bolsa 90g,S/ 3.99 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,90.0,g,Mini Panetón GLORIA Chocolate Bolsa,3.99,plaza_vea,Bolsa 90g,,PANETÓN
+Mini Panetón GLORIA Chocolate Bolsa 90g,S/ 3.99,vivanda,PANETÓN,2024-12-04 17:18:18.343126,90.0,g,Mini Panetón GLORIA Chocolate Bolsa,3.99,vivanda,,GLORIA,PANETÓN
+Mini Panetón GLORIA Bolsa 80g,S/ 3.99,vivanda,PANETÓN,2024-12-04 17:18:18.343126,80.0,g,Mini Panetón GLORIA Bolsa,3.99,vivanda,,GLORIA,PANETÓN
+Mini Panetón Gloria con Chispas Sabor Chocolate Doypack 90g,S/ 4.00,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,Mini Panetón Gloria con Chispas Sabor Chocolate Doypack,4.0,metro,,,PANETÓN
+Mini Panetón Gloria Doypack 80g,S/ 4.00,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,Mini Panetón Gloria Doypack,4.0,metro,,,PANETÓN
+Keke Sabor Vainilla Bimbolete Bimbo Paquete 3 unid,S/ 4.00,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Keke Sabor Vainilla Bimbolete Bimbo Paquete,4.0,wong,,,PANETÓN
+Mini Panetón ARCOR Sapito Bolsa 75g,S/ 4.30,vivanda,PANETÓN,2024-12-04 17:18:18.343126,75.0,g,Mini Panetón ARCOR Sapito Bolsa,4.3,vivanda,,ARCOR,PANETÓN
+Mini Panetón ARCOR Sapito Bolsa 75g,S/ 4.30 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,75.0,g,Mini Panetón ARCOR Sapito Bolsa,4.3,plaza_vea,Bolsa 75g,,PANETÓN
+Mini Panetón Donofrio Chocotoncito Bolsa 80g,S/ 4.40,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,Mini Panetón Donofrio Chocotoncito Bolsa,4.4,metro,,,PANETÓN
+Mini Panetón Donofrio Chocotoncito Bolsa 80g,S/ 4.40,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,Mini Panetón Donofrio Chocotoncito Bolsa,4.4,wong,,,PANETÓN
+Mini Panetón Sapito Doypack 75g,S/ 4.50,metro,PANETÓN,2024-12-04 20:47:24.788410,75.0,g,Mini Panetón Sapito Doypack,4.5,metro,,,PANETÓN
+Panetón D'onofrio Panetoncito Caja 90g,S/ 4.50,metro,PANETÓN,2024-12-04 20:47:24.788410,90.0,g,Panetón D'onofrio Panetoncito Caja,4.5,metro,,,PANETÓN
+Mini Panetón Sapito Doypack 75g,S/ 4.50,wong,PANETÓN,2024-12-04 18:21:01.895856,75.0,g,Mini Panetón Sapito Doypack,4.5,wong,,,PANETÓN
+Panetón D'onofrio Panetoncito Caja 90g,S/ 4.50,wong,PANETÓN,2024-12-04 18:21:01.895856,90.0,g,Panetón D'onofrio Panetoncito Caja,4.5,wong,,,PANETÓN
+Panetón con Trozos de Chocolate TODINNO Ciocco...,S/ 4.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,80.0,g,Panetón con Trozos de Chocolate TODINNO Ciocco,4.6,plaza_vea,Caja 80g,,PANETÓN
+Panetón con Pasas y Frutas Confitadas TODINNIT...,S/ 4.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,85.0,g,Panetón con Pasas y Frutas Confitadas TODINNIT,4.6,plaza_vea,Caja 85g,,PANETÓN
+Mini Panetón Relleno Bolsa x 80 g,S/ 4.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,Mini Panetón Relleno Bolsa x,4.9,tottus,,BON O BON,PANETÓN
+Mini Panetón Relleno Bon o Bon 80g,S/ 4.90,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,Mini Panetón Relleno Bon o Bon,4.9,wong,,,PANETÓN
+Mini Panetón Bauducco Frutas Caja 80g,S/ 5.10,wong,PANETÓN,2024-12-04 18:21:01.895856,80.0,g,Mini Panetón Bauducco Frutas Caja,5.1,wong,,,PANETÓN
+Mini Panettone Chocolate Caja X 80 gr,S/ 5.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,80.0,g,Mini Panettone Chocolate Caja X r,5.3,tottus,,BAUDUCCO,PANETÓN
+Mini Panetón Bauducco Chocolate 80g,S/ 5.50,metro,PANETÓN,2024-12-04 20:47:24.788410,80.0,g,Mini Panetón Bauducco Chocolate,5.5,metro,,,PANETÓN
+Mini Panetón Bolsa x 75 g,S/ 5.70,tottus,PANETÓN,2024-12-04 13:02:00.711337,75.0,g,Mini Panetón Bolsa x,5.7,tottus,,SAPITO,PANETÓN
+Brownies Gustozzi Clásicos 3un,S/ 6.60,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Brownies Gustozzi Clásicos,6.6,wong,,,PANETÓN
+Brownies Gustozzi Clásicos 3un,S/ 6.60,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Brownies Gustozzi Clásicos,6.6,metro,,,PANETÓN
+Brownichoc Nutra Bien 4un,S/ 7.50,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,Brownichoc Nutra Bien,7.5,metro,,,PANETÓN
+Kekitos Gustozzito 3un,S/ 7.50,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Kekitos Gustozzito,7.5,wong,,,PANETÓN
+Turron de Doña Pepa Gustozzi 3un,S/ 7.50,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Turron de Doña Pepa Gustozzi,7.5,wong,,,PANETÓN
+Turron de Doña Pepa Gustozzi 3un,S/ 7.50,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Turron de Doña Pepa Gustozzi,7.5,metro,,,PANETÓN
+Brownies Gustozzi Selección 3un,S/ 8.30,wong,PANETÓN,2024-12-04 18:21:01.895856,3.0,un,Brownies Gustozzi Selección,8.3,wong,,,PANETÓN
+Pasteles Pingüino Minix Triple Sabor Chocolate 10un,S/ 8.50,metro,PANETÓN,2024-12-04 20:47:24.788410,10.0,un,Pasteles Pingüino Minix Triple Sabor Chocolate,8.5,metro,,,PANETÓN
+Pasteles Pingüino Minix Triple Sabor Chocolate 10un,S/ 9.50,wong,PANETÓN,2024-12-04 18:21:01.895856,10.0,un,Pasteles Pingüino Minix Triple Sabor Chocolate,9.5,wong,,,PANETÓN
+Pasteles Gansito Minix 8un,S/ 9.50,wong,PANETÓN,2024-12-04 18:21:01.895856,8.0,un,Pasteles Gansito Minix,9.5,wong,,,PANETÓN
+Panetón BELL'S Bolsa 800g,S/ 10.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,Panetón BELL'S Bolsa,10.2,plaza_vea,Bolsa 800g,,PANETÓN
+Brownie Gustozzi Toppings 3un,S/ 10.30,metro,PANETÓN,2024-12-04 20:47:24.788410,3.0,un,Brownie Gustozzi Toppings,10.3,metro,,,PANETÓN
+Brownie Clásico Nutra Bien 4un,S/ 10.40,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,Brownie Clásico Nutra Bien,10.4,metro,,,PANETÓN
+Brownie Chip Nutra Bien 4un,S/ 10.40,metro,PANETÓN,2024-12-04 20:47:24.788410,4.0,un,Brownie Chip Nutra Bien,10.4,metro,,,PANETÓN
+Brownie Nutra Bien Mini 6un,S/ 10.50,metro,PANETÓN,2024-12-04 20:47:24.788410,6.0,un,Brownie Nutra Bien Mini,10.5,metro,,,PANETÓN
+Panetón VEGATTONE Bolsa 750g,S/ 10.50,vega,PANETÓN,2024-12-04 13:10:57.158070,750.0,g,Panetón VEGATTONE Bolsa,10.5,vega,,VEGATTONE,PANETÓN
+Panetón Tradicional Máxima Doypack 800g,S/ 10.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Tradicional Máxima Doypack,10.5,metro,,,PANETÓN
+Panetón Tradicional Máxima Doypack 800g,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Tradicional Máxima Doypack,10.9,wong,,,PANETÓN
+Panetón Vegano Bona Stella Chocolate Caja 100g,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,100.0,g,Panetón Vegano Bona Stella Chocolate Caja,10.9,wong,,,PANETÓN
+Panetón Vegano Bona Stella Premium Caja 100g,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,100.0,g,Panetón Vegano Bona Stella Premium Caja,10.9,wong,,,PANETÓN
+Panetón en Bolsa 900 g,S/ 10.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Panetón en Bolsa,10.9,tottus,,TOTTUS,PANETÓN
+Brownichoc Nutra Bien 4un,S/ 10.90,wong,PANETÓN,2024-12-04 18:21:01.895856,4.0,un,Brownichoc Nutra Bien,10.9,wong,,,PANETÓN
+Keke Naranja Bimbo Paquete 380 g,S/ 11.20,wong,PANETÓN,2024-12-04 18:21:01.895856,380.0,g,Keke Naranja Bimbo Paquete,11.2,wong,,,PANETÓN
+Panetón Tradicional Metro Bolsa 800g,S/ 11.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Tradicional Metro Bolsa,11.5,metro,,,PANETÓN
+Brownie Nutra Bien Mini 6un,S/ 12.90,wong,PANETÓN,2024-12-04 18:21:01.895856,6.0,un,Brownie Nutra Bien Mini,12.9,wong,,,PANETÓN
+Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,wong,PANETÓN,2024-12-04 18:21:01.895856,8.0,un,Kekes Sabor Limón Mr Brownie,14.9,wong,,,PANETÓN
+Brownie Chip Nutra Bien 4un,S/ 14.90,wong,PANETÓN,2024-12-04 18:21:01.895856,4.0,un,Brownie Chip Nutra Bien,14.9,wong,,,PANETÓN
+Panetón VEGA Bolsa Ziploc 800gr,S/ 14.90 4%,vega,PANETÓN,2024-12-04 13:10:57.158070,800.0,g,Panetón VEGA Bolsa Ziploc r,14.9,vega,,Vega,PANETÓN
+Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,metro,PANETÓN,2024-12-04 20:47:24.788410,8.0,un,Kekes Sabor Limón Mr Brownie,14.9,metro,,,PANETÓN
+Blondies Mr Brownie 8un,S/ 14.90,metro,PANETÓN,2024-12-04 20:47:24.788410,8.0,un,Blondies Mr Brownie,14.9,metro,,,PANETÓN
+Panetón BELL'S Chispas de Chocolate 500g,S/ 15.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,500.0,g,Panetón BELL'S Chispas de Chocolate,15.9,vivanda,,BELL'S,PANETÓN
+Panetón BELL'S Chispas de Chocolate 500g,S/ 15.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,Panetón BELL'S Chispas de Chocolate,15.9,plaza_vea,Caja 500g,,PANETÓN
+Panetón con Gotas Sabor Chocolate Todinno Cioccolato 500g,S/ 16.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón con Gotas Sabor Chocolate Todinno Cioccolato,16.9,metro,,,PANETÓN
+Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,S/ 16.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Winter's Sin Pasas Sin Frutas Doypack,16.9,wong,,,PANETÓN
+Panetón HH Bolsa x 800 g,S/ 16.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,Panetón HH Bolsa x,16.9,tottus,,,PANETÓN
+Panetón Al Cioccolato en Caja 500 g,S/ 17.10,tottus,PANETÓN,2024-12-04 13:02:00.711337,500.0,g,Panetón Al Cioccolato en Caja,17.1,tottus,,TODINNO,PANETÓN
+Panetón Metro Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 17.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Metro Bolsa  + Gaseosa Coca Cola Sin Azúcar,17.4,metro,,,PANETÓN
+Panetón Metro Bolsa 800g + Gaseosa Coca Cola 1.5L,S/ 17.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Metro Bolsa  + Gaseosa Coca Cola,17.4,metro,,,PANETÓN
+Panetón Gloria Doypack 800g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Gloria Doypack,17.9,metro,,,PANETÓN
+Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Winter's Sin Pasas Sin Frutas Doypack,17.9,metro,,,PANETÓN
+Panetón Winter's Choco Chispas Doypack 500g,S/ 17.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Winter's Choco Chispas Doypack,17.9,metro,,,PANETÓN
+Panetón Winter's Choco Chispas Doypack 500g,S/ 17.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Winter's Choco Chispas Doypack,17.9,wong,,,PANETÓN
+Panetón con Gotas Sabor Chocolate Chocotón Caja 450g,S/ 18.00,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Panetón con Gotas Sabor Chocolate Chocotón Caja,18.0,metro,,,PANETÓN
+Panetón con Chispas Sabor Chocolate Cuisine & Co Caja 500g,S/ 18.50,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón con Chispas Sabor Chocolate Cuisine & Co Caja,18.5,wong,,,PANETÓN
+Bizcocho Dulce Pandulce 490g,S/ 18.60,tottus,PANETÓN,2024-12-04 13:02:00.711337,490.0,g,Bizcocho Dulce Pandulce,18.6,tottus,,DONOFRIO,PANETÓN
+Panetón Clásico LA FLORENCIA Bolsa 600g,S/ 18.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,600.0,g,Panetón Clásico LA FLORENCIA Bolsa,18.9,plaza_vea,Bolsa 600g,,PANETÓN
+Panetón DONOFRIO Chariton Bolsa 750g,S/ 18.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,Panetón DONOFRIO Chariton Bolsa,18.9,plaza_vea,Bolsa 750g,,PANETÓN
+Panetón Clásico LA FLORENCIA Bolsa 600g,S/ 18.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,Panetón Clásico LA FLORENCIA Bolsa,18.9,vivanda,,LA FLORENCIA,PANETÓN
+Panetón Frutas Confitadas Pasas Bolsa 800 g,S/ 18.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,Panetón Frutas Confitadas Pasas Bolsa,18.9,tottus,,COSTA,PANETÓN
+Panetón de Lúcuma Ricco's Chocolúcuma Caja 500g,S/ 18.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón de Lúcuma Ricco's Chocolúcuma Caja,18.9,metro,,,PANETÓN
+Panetón Buon Natale Doypack 750g,S/ 18.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Panetón Buon Natale Doypack,18.9,metro,,,PANETÓN
+Panetón BLANCA FLOR Chocolate Caja 450g,S/ 19.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,Panetón BLANCA FLOR Chocolate Caja,19.5,plaza_vea,Caja 450g,,PANETÓN
+Panetón Dolcci Bolsa x 800 g,S/ 19.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,Panetón Dolcci Bolsa x,19.9,tottus,,GLORIA,PANETÓN
+Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,S/ 20.00,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,Panetón Chocotón Relleno Doble Sabor a Chocolate Caja,20.0,wong,,,PANETÓN
+Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,S/ 20.00,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Panetón Chocotón Relleno Doble Sabor a Chocolate Caja,20.0,metro,,,PANETÓN
+Panetón Relleno Chocotón Manjar Blanco Caja 450g,S/ 20.00,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,Panetón Relleno Chocotón Manjar Blanco Caja,20.0,wong,,,PANETÓN
+Panetón Chocotón Sabor Chocolate 450g,S/ 20.30,tottus,PANETÓN,2024-12-04 13:02:00.711337,450.0,g,Panetón Chocotón Sabor Chocolate,20.3,tottus,,DONOFRIO,PANETÓN
+Panetón Wong Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Wong Bolsa  + Gaseosa Coca Cola Sin Azúcar,20.4,wong,,,PANETÓN
+Panetón Wong Bolsa 800g + Gaseosa Coca Cola 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Wong Bolsa  + Gaseosa Coca Cola,20.4,wong,,,PANETÓN
+Panetón Wong Bolsa 800g + Gaseosa Inca Kola 1.5L,S/ 20.40,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Wong Bolsa  + Gaseosa Inca Kola,20.4,wong,,,PANETÓN
+Panetón D'Gussto Doypack 900g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón D'Gussto Doypack,20.5,metro,,,PANETÓN
+Panetón Clásico Sayón Doypack 750g,S/ 20.50,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,Panetón Clásico Sayón Doypack,20.5,wong,,,PANETÓN
+Panetón Clásico Sayón Doypack 750g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Panetón Clásico Sayón Doypack,20.5,metro,,,PANETÓN
+Panetón Arcor 450g,S/ 20.50,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Panetón Arcor,20.5,metro,,,PANETÓN
+Panetón en Bolsa 900 g,S/ 20.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Panetón en Bolsa,20.9,tottus,,BIMBO,PANETÓN
+Panetón Frutas Confitadas Pasas Caja 800 g,S/ 20.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,800.0,g,Panetón Frutas Confitadas Pasas Caja,20.9,tottus,,COSTA,PANETÓN
+Panetón WINTERS sin Agregados Bolsa 500g,S/ 20.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,Panetón WINTERS sin Agregados Bolsa,20.9,plaza_vea,Bolsa 500g,,PANETÓN
+Panetón Costa Doypack 800g,S/ 20.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Costa Doypack,20.9,wong,,,PANETÓN
+Panetón GLORIA Bolsa 900g,S/ 20.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón GLORIA Bolsa,20.9,plaza_vea,Bolsa 900g,,PANETÓN
+Panetón Andino Ricco's Kusi Raymi Caja 500g,S/ 21.00,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Andino Ricco's Kusi Raymi Caja,21.0,metro,,,PANETÓN
+Panetón Andino Ricco's Kusi Raymi Caja 500g,S/ 21.00,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Andino Ricco's Kusi Raymi Caja,21.0,wong,,,PANETÓN
+Panetón GLORIA Bolsa 900gr,S/ 21.50 10%,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,Panetón GLORIA Bolsa r,21.5,vega,,Gloria,PANETÓN
+Panetón Sapito 450g,S/ 21.50,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,Panetón Sapito,21.5,wong,,,PANETÓN
+Panetón Bimbo Doypack 900g,S/ 21.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Bimbo Doypack,21.9,metro,,,PANETÓN
+Panetón DONOFRIO Chocotón Bolsa 450g,S/ 21.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,Panetón DONOFRIO Chocotón Bolsa,21.9,plaza_vea,Bolsa 450g,,PANETÓN
+Panetón Chocotón LA FLORENCIA Caja 600g,S/ 21.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,Panetón Chocotón LA FLORENCIA Caja,21.9,vivanda,,LA FLORENCIA,PANETÓN
+Panetón Integral D'onofrio Doypack 500g,S/ 21.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Integral D'onofrio Doypack,21.9,metro,,,PANETÓN
+Panetón Chocotón LA FLORENCIA Caja 600g,S/ 21.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,600.0,g,Panetón Chocotón LA FLORENCIA Caja,21.9,plaza_vea,Caja 600g,,PANETÓN
+Panetón Bimbo Doypack 900g,S/ 21.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Bimbo Doypack,21.9,wong,,,PANETÓN
+Pandulce D'Onofrio Doypack 490g,S/ 21.90,wong,PANETÓN,2024-12-04 18:21:01.895856,490.0,g,Pandulce D'Onofrio Doypack,21.9,wong,,,PANETÓN
+Panetón DONOFRIO Chocotón Bolsa 450g,S/ 21.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,Panetón DONOFRIO Chocotón Bolsa,21.9,vivanda,,D'ONOFRIO,PANETÓN
+Panetón Blanca Flor Doypack 900g,S/ 22.30,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Blanca Flor Doypack,22.3,wong,,,PANETÓN
+Paneton 900 g,S/ 22.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Paneton,22.4,tottus,,BLANCA FLOR,PANETÓN
+Panetón Chocoton Relleno Doble Chocolat Caja 450 gr,S/ 22.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,450.0,g,Panetón Chocoton Relleno Doble Chocolat Caja r,22.5,tottus,,DONOFRIO,PANETÓN
+Panetón Relleno Bon o Bon 450g,S/ 22.50,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,Panetón Relleno Bon o Bon,22.5,wong,,,PANETÓN
+Panetón Costa Caja 800g,S/ 22.50,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Costa Caja,22.5,wong,,,PANETÓN
+Panetón Relleno Bon o Bon 450g,S/ 22.50,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Panetón Relleno Bon o Bon,22.5,metro,,,PANETÓN
+Panetón Gloria Pasión Sabor Algarrobina Caja 500g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Gloria Pasión Sabor Algarrobina Caja,22.9,wong,,,PANETÓN
+PANETON CAJA 750 GR,S/ 22.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,750.0,g,PANETON CAJA R,22.9,tottus,,BUON NATALE,PANETÓN
+Panetón GLORIA PASION con Chispas de Chocolate Caja 500g,S/ 22.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,500.0,g,Panetón GLORIA PASION con Chispas de Chocolate Caja,22.9,vivanda,,GLORIA,PANETÓN
+Panetón Bimbo Caja 900g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Bimbo Caja,22.9,wong,,,PANETÓN
+Panetón GLORIA PASION con Chispas de Chocolate...,S/ 22.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,500.0,g,Panetón GLORIA PASION con Chispas de Chocolate,22.9,plaza_vea,Caja 500g,,PANETÓN
+Panetón Gloria Pasión Avellanas Caja 500g,S/ 22.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Gloria Pasión Avellanas Caja,22.9,wong,,,PANETÓN
+Panetón Pasas Frutas Bolsa 880 gr,S/ 23.20,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,Panetón Pasas Frutas Bolsa r,23.2,tottus,,DONOFRIO,PANETÓN
+Panetón Donofrio 880g,S/ 23.50,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,Panetón Donofrio,23.5,metro,,,PANETÓN
+Panetón Bolsa x 900 gr,S/ 23.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Panetón Bolsa x r,23.5,tottus,,SAN JORGE,PANETÓN
+Panetón GLORIA Caja 900g,S/ 23.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón GLORIA Caja,23.5,plaza_vea,Caja 900g,,PANETÓN
+Panetón En Caja x 900 g,S/ 23.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Panetón En Caja x,23.5,tottus,,BIMBO,PANETÓN
+Panetón Winter's Doypack 800g,S/ 23.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Panetón Winter's Doypack,23.5,metro,,,PANETÓN
+Panetón DONOFRIO Chocotón Caja 450g,S/ 23.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,Panetón DONOFRIO Chocotón Caja,23.9,vivanda,,D'ONOFRIO,PANETÓN
+Panetón Chocotón DONOFRIO Caja 450gr,S/ 23.90,vega,PANETÓN,2024-12-04 13:10:57.158070,450.0,g,Panetón Chocotón DONOFRIO Caja r,23.9,vega,,Donofrio,PANETÓN
+Panetón Gloria Doypack 900g,S/ 23.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Gloria Doypack,23.9,wong,,,PANETÓN
+Panetón Gloria Doypack 900g,S/ 23.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Gloria Doypack,23.9,metro,,,PANETÓN
+Panetón DONOFRIO Chocotón Caja 450g,S/ 23.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,Panetón DONOFRIO Chocotón Caja,23.9,plaza_vea,Caja 450g,,PANETÓN
+Panetón DONOFRIO Buen Natale Bolsa 750g,S/ 23.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,Panetón DONOFRIO Buen Natale Bolsa,23.9,plaza_vea,Bolsa 750g,,PANETÓN
+Panetón San Jorge Poessía Doypack 900g,S/ 23.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón San Jorge Poessía Doypack,23.9,metro,,,PANETÓN
+Panetón Blanca Flor Caja 900g,S/ 24.70,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Blanca Flor Caja,24.7,wong,,,PANETÓN
+Panetón Blanca Flor Caja 900g,S/ 24.70,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Blanca Flor Caja,24.7,metro,,,PANETÓN
+Panetón Artesanal con Frutos Secos LA FLORENCIA Caja 600g,S/ 24.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,600.0,g,Panetón Artesanal con Frutos Secos LA FLORENCIA Caja,24.9,vivanda,,LA FLORENCIA,PANETÓN
+Panetón D'ONOFRIO Buon Natale Caja 750g,S/ 24.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,Panetón D'ONOFRIO Buon Natale Caja,24.9,plaza_vea,Caja 750g,,PANETÓN
+Panetón Artesanal con Frutos Secos LA FLORENCI...,S/ 24.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,600.0,g,Panetón Artesanal con Frutos Secos LA FLORENCI,24.9,plaza_vea,Caja 600g,,PANETÓN
+Panetón San Jorge Gran Panetón Caja 900g,S/ 24.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón San Jorge Gran Panetón Caja,24.9,metro,,,PANETÓN
+Panetón BLANCA FLOR Caja 900g,S/ 24.90 11%,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,Panetón BLANCA FLOR Caja,24.9,vega,,Blanca Flor,PANETÓN
+Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,S/ 25.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Todinoo Bolsa  + Panetón Todinnito,25.5,wong,,,PANETÓN
+Panetón Pasas Frutas Caja 880 gr,S/ 25.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,Panetón Pasas Frutas Caja r,25.5,tottus,,DONOFRIO,PANETÓN
+Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,S/ 25.50,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Todinoo Bolsa  + Panetón Todinnito,25.5,metro,,,PANETÓN
+Gran Panetón SAN JORGE Caja 900g,S/ 25.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Gran Panetón SAN JORGE Caja,25.6,plaza_vea,Caja 900g,,PANETÓN
+Panetón BLANCA FLOR Bolsa 900g,S/ 25.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,Panetón BLANCA FLOR Bolsa,25.9,vivanda,,BLANCA FLOR,PANETÓN
+Panetón Buon Natale Caja 750g,S/ 25.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Panetón Buon Natale Caja,25.9,metro,,,PANETÓN
+Panetón COSTA Caja 800g,S/ 25.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,Panetón COSTA Caja,25.9,plaza_vea,Caja 800g,,PANETÓN
+Panetón DONOFRIO Caja 880gr,S/ 25.90 16%,vega,PANETÓN,2024-12-04 13:10:57.158070,880.0,g,Panetón DONOFRIO Caja r,25.9,vega,,Donofrio,PANETÓN
+Panetón con Trozos de Chocolate POESSIA Bolsa ...,S/ 25.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón con Trozos de Chocolate POESSIA Bolsa,25.9,plaza_vea,Bolsa 900g,,PANETÓN
+Panetón Ziplock Poessia 900 gr,S/ 26.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Panetón Ziplock Poessia r,26.5,tottus,,SAN JORGE,PANETÓN
+Panetón Chocotón DONOFRIO Doble Chocolate Caja 450g,S/ 26.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,450.0,g,Panetón Chocotón DONOFRIO Doble Chocolate Caja,26.5,vivanda,,D'ONOFRIO,PANETÓN
+Panetón DONOFRIO de Chocolate Relleno con Manj...,S/ 26.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,Panetón DONOFRIO de Chocolate Relleno con Manj,26.5,plaza_vea,Caja 450g,,PANETÓN
+PANETON 900G+TODINNITO 85G C/FRUTA CONF,S/ 26.50,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,PANETON +TODINNITO  C/FRUTA CONF,26.5,tottus,,TODINNO,PANETÓN
+Panetón Chocotón DONOFRIO Doble Chocolate Caja...,S/ 26.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,450.0,g,Panetón Chocotón DONOFRIO Doble Chocolate Caja,26.5,plaza_vea,Caja 450g,,PANETÓN
+Panetón Gloria Caja 900g,S/ 26.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Gloria Caja,26.9,metro,,,PANETÓN
+Panetón WINTER'S Bolsa 800g,S/ 27.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,800.0,g,Panetón WINTER'S Bolsa,27.5,vivanda,,WINTER'S,PANETÓN
+Panetón WINTER'S Bolsa 800g,S/ 27.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,800.0,g,Panetón WINTER'S Bolsa,27.5,plaza_vea,Bolsa 800g,,PANETÓN
+Panetón Unión Doypack 900g,S/ 27.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Unión Doypack,27.9,metro,,,PANETÓN
+Panetón Iluminato Doypack 900g,S/ 27.90,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Iluminato Doypack,27.9,wong,,,PANETÓN
+Panetón Vegano Cuisine & Co Caja 500g,S/ 27.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Vegano Cuisine & Co Caja,27.9,metro,,,PANETÓN
+Panetón Clásico Todinno 900g,S/ 28.00,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Clásico Todinno,28.0,wong,,,PANETÓN
+Gran Panetón SAN JORGE Caja 900g,S/ 28.10,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,Gran Panetón SAN JORGE Caja,28.1,vivanda,,SAN JORGE,PANETÓN
+Panetón TODINNO Caja 900g + Panetón TODINNITO ...,S/ 28.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,Panetón TODINNO Caja  + Panetón TODINNITO,28.5,plaza_vea,Pack 2un,,PANETÓN
+Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,S/ 28.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Pack Panetón Todinno: Caja  + Todinnito Caja,28.5,wong,,,PANETÓN
+Panetón Vegano Cuisine & Co Caja 500g,S/ 28.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Panetón Vegano Cuisine & Co Caja,28.9,wong,,,PANETÓN
+Panetón TODINNO Bolsa 900g + Panetón TODINNITO...,S/ 28.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,Panetón TODINNO Bolsa  + Panetón TODINNITO,28.9,plaza_vea,Pack 2un,,PANETÓN
+Panetón BIMBO Caja 900g,S/ 29.00,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,Panetón BIMBO Caja,29.0,vivanda,,BIMBO,PANETÓN
+Panetón BLANCA FLOR Caja 900g,S/ 29.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,Panetón BLANCA FLOR Caja,29.5,vivanda,,BLANCA FLOR,PANETÓN
+Panetón Integral UNIÓN con Castañas Bolsa 900g,S/ 29.50 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón Integral UNIÓN con Castañas Bolsa,29.5,plaza_vea,Bolsa 900g,,PANETÓN
+Panetón TODINNO Bolsa 900g + Panetón TODINNITO Bolsa 85g,S/ 29.50,vivanda,PANETÓN,2024-12-04 17:18:18.343126,900.0,g,Panetón TODINNO Bolsa  + Panetón TODINNITO Bolsa,29.5,vivanda,,TODINNO,PANETÓN
+Panetón Peruano CASA VERDE Caja 80g,S/ 29.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,80.0,g,Panetón Peruano CASA VERDE Caja,29.9,plaza_vea,Caja 80g,,PANETÓN
+Panetón D'ONOFRIO Bolsa 880g,S/ 29.90,vivanda,PANETÓN,2024-12-04 17:18:18.343126,880.0,g,Panetón D'ONOFRIO Bolsa,29.9,vivanda,,D'ONOFRIO,PANETÓN
+Panetón Integral Unión Caja 900g,S/ 30.50,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Integral Unión Caja,30.5,wong,,,PANETÓN
+Panetón con Frutas BAUDUCCO Caja 750g,S/ 30.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,750.0,g,Panetón con Frutas BAUDUCCO Caja,30.9,plaza_vea,Caja 750g,,PANETÓN
+Panetón Iluminato Caja 900g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Iluminato Caja,31.9,metro,,,PANETÓN
+Panetón con Gotas Sabor Chocolate Bauducco Caja 680g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,680.0,g,Panetón con Gotas Sabor Chocolate Bauducco Caja,31.9,metro,,,PANETÓN
+Panetón D'ONOFRIO Caja 880g,S/ 31.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,880.0,g,Panetón D'ONOFRIO Caja,31.9,plaza_vea,Caja 880g,,PANETÓN
+Panetón Bauducco Caja 750g,S/ 31.90,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Panetón Bauducco Caja,31.9,metro,,,PANETÓN
+Panetón Integral con Higos y Pecanas Unión Diet Lata 500g,S/ 32.50,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Panetón Integral con Higos y Pecanas Unión Diet Lata,32.5,metro,,,PANETÓN
+Twopack Panetón con Chocolate Blanca Flor Caja 450g,S/ 34.40,wong,PANETÓN,2024-12-04 18:21:01.895856,450.0,g,Twopack Panetón con Chocolate Blanca Flor Caja,34.4,wong,,,PANETÓN
+Twopack Panetón con Chocolate Blanca Flor Caja 450g,S/ 34.40,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Twopack Panetón con Chocolate Blanca Flor Caja,34.4,metro,,,PANETÓN
+Panetón San Jorge Gran Panetón Caja 1.5kg,S/ 34.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.5,kg,Panetón San Jorge Gran Panetón Caja,34.9,wong,,,PANETÓN
+Panetón San Jorge Gran Panetón Caja 1.5kg,S/ 34.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.5,kg,Panetón San Jorge Gran Panetón Caja,34.9,metro,,,PANETÓN
+Gran Panetón SAN JORGE Caja 1.5Kg,S/ 36.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,1.5,kg,Gran Panetón SAN JORGE Caja,36.9,plaza_vea,Caja 1.5Kg,,PANETÓN
+Panetón TODINNO Lata 900g,S/ 36.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón TODINNO Lata,36.9,plaza_vea,Lata 900g,,PANETÓN
+Panetón GLORIA Lata 900g,S/ 37.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,900.0,g,Panetón GLORIA Lata,37.9,plaza_vea,Lata 900g,,PANETÓN
+Gran Panetón SAN JORGE Caja 1.5Kg,S/ 38.00,vivanda,PANETÓN,2024-12-04 17:18:18.343126,1.5,kg,Gran Panetón SAN JORGE Caja,38.0,vivanda,,SAN JORGE,PANETÓN
+Panetón Gloria Lata 900g,S/ 39.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Gloria Lata,39.9,metro,,,PANETÓN
+Panetón Donofrio Pasas Frutas Caja 1.3 Kg,S/ 39.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,1.3,kg,Panetón Donofrio Pasas Frutas Caja,39.9,tottus,,D'ONOFRIO,PANETÓN
+Pandoro Properzi Caja 1kg,S/ 39.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,Pandoro Properzi Caja,39.9,wong,,,PANETÓN
+Panetón Donofrio Caja 1.3kg,S/ 39.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.3,kg,Panetón Donofrio Caja,39.9,wong,,,PANETÓN
+Panetón Cuisine & Co Especial Caja 800g,S/ 40.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Panetón Cuisine & Co Especial Caja,40.9,wong,,,PANETÓN
+Pandoro Dal Colle Doppio Cioccolato Caja 500g,S/ 44.90,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Pandoro Dal Colle Doppio Cioccolato Caja,44.9,wong,,,PANETÓN
+Choco Panetón Vegano Zana Caja 500g,S/ 49.00,wong,PANETÓN,2024-12-04 18:21:01.895856,500.0,g,Choco Panetón Vegano Zana Caja,49.0,wong,,,PANETÓN
+Pandoro Dal Colle Doppio Cioccolato Caja 500g,S/ 49.90,metro,PANETÓN,2024-12-04 20:47:24.788410,500.0,g,Pandoro Dal Colle Doppio Cioccolato Caja,49.9,metro,,,PANETÓN
+Panettone Schar Sin Gluten Caja 420g,S/ 53.90,wong,PANETÓN,2024-12-04 18:21:01.895856,420.0,g,Panettone Schar Sin Gluten Caja,53.9,wong,,,PANETÓN
+Sixpack Panetón Máxima Tradicional Doypack 800g,S/ 59.50,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Sixpack Panetón Máxima Tradicional Doypack,59.5,metro,,,PANETÓN
+Panetón BELL'S Bolsa 800g Caja 6un,S/ 61 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón BELL'S Bolsa  Caja,61.0,plaza_vea,Caja 6un,,PANETÓN
+Panetón en Bolsa Pack 6 Unidades 900 g,S/ 64.90,tottus,PANETÓN,2024-12-04 13:02:00.711337,6.0,un,Panetón en Bolsa Pack ades,64.9,tottus,,TOTTUS,PANETÓN
+Panetón Blanca Flor Doypack 900g + Espumante Chandon Extra Brut 750ml,S/ 72.90,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Panetón Blanca Flor Doypack  + Espumante Chandon Extra Brut,72.9,metro,,,PANETÓN
+Pack Licor de Crema BAILEYS Espresso Créme Bot...,S/ 74.90 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,Pack Licor de Crema BAILEYS Espresso Créme Bot,74.9,plaza_vea,Pack 2un,,PANETÓN
+Sixpack Panetón Wong Tradicional Bolsa 800g,S/ 74.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Sixpack Panetón Wong Tradicional Bolsa,74.9,wong,,,PANETÓN
+Pandoro Balocco Gocciolotto Caja 800g,S/ 88.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Pandoro Balocco Gocciolotto Caja,88.9,wong,,,PANETÓN
+Sixpack Panetón Wong Tradicional Bolsa 800g,S/ 89.40,metro,PANETÓN,2024-12-04 20:47:24.788410,800.0,g,Sixpack Panetón Wong Tradicional Bolsa,89.4,metro,,,PANETÓN
+Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja 800g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja,92.9,wong,,,PANETÓN
+Pandoro Mokaccino Balocco 800g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,800.0,g,Pandoro Mokaccino Balocco,92.9,wong,,,PANETÓN
+Panetón Balocco Gianduia Caja 750g,S/ 92.90,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,Panetón Balocco Gianduia Caja,92.9,wong,,,PANETÓN
+Pandoro Paluani Montecchi Caja 1kg,S/ 93.00,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,Pandoro Paluani Montecchi Caja,93.0,wong,,,PANETÓN
+Panetón con Chips de Chocolate y Cerezas Properzi Tela 1kg,S/ 94.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.0,kg,Panetón con Chips de Chocolate y Cerezas Properzi Tela,94.9,metro,,,PANETÓN
+Panetón con Trozos de Chocolate Properzi Caja 1kg,S/ 94.90,metro,PANETÓN,2024-12-04 20:47:24.788410,1.0,kg,Panetón con Trozos de Chocolate Properzi Caja,94.9,metro,,,PANETÓN
+Panetón Properzi Caja 1kg,S/ 94.90,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,Panetón Properzi Caja,94.9,wong,,,PANETÓN
+Panetón con Chips de Chocolate Paluani Caja 750g,S/ 98.00,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,Panetón con Chips de Chocolate Paluani Caja,98.0,wong,,,PANETÓN
+Caja x 6 Panetón Chocotón Caja x 450 g,S/ 107.81,tottus,PANETÓN,2024-12-04 13:02:00.711337,450.0,g,Caja x 6 Panetón Chocotón Caja x,107.81,tottus,,BLANCA FLOR,PANETÓN
+Crema de Licor Baileys Espresso Creme Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,Crema de Licor Baileys Espresso Creme Botella  + Panetón Donofrio,109.8,wong,,,PANETÓN
+Crema de Licor Baileys Salted Caramel Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,Crema de Licor Baileys Salted Caramel Botella  + Panetón Donofrio,109.8,wong,,,PANETÓN
+Crema de Licor Baileys Original Irish Cream Botella 750ml + Panetón Donofrio 880g,S/ 109.80,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,ml,Crema de Licor Baileys Original Irish Cream Botella  + Panetón Donofrio,109.8,wong,,,PANETÓN
+Sixpack Panetón con Chocolate Blanca Flor Caja 450g,S/ 111.40,metro,PANETÓN,2024-12-04 20:47:24.788410,450.0,g,Sixpack Panetón con Chocolate Blanca Flor Caja,111.4,metro,,,PANETÓN
+Tronco de Navidad Relleno de Chocolate Paluani Caramelo 750g,S/ 112.00,wong,PANETÓN,2024-12-04 18:21:01.895856,750.0,g,Tronco de Navidad Relleno de Chocolate Paluani Caramelo,112.0,wong,,,PANETÓN
+Panetón BIMBO Bolsa 900g Paquete 6un,S/ 117.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón BIMBO Bolsa  Paquete,117.6,plaza_vea,Paquete 6un,,PANETÓN
+Sixpack Panetón Clásico Sayón Doypack 750g,S/ 123.00,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Sixpack Panetón Clásico Sayón Doypack,123.0,metro,,,PANETÓN
+Caja 6 Panetón Bolsa 900 g +Todinnito 85g,S/ 132,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Caja 6 Panetón Bolsa  +Todinnito,132.0,tottus,,TODINNO,PANETÓN
+Sixpack Panetón Clásico Sayón Caja 750g,S/ 132.00,metro,PANETÓN,2024-12-04 20:47:24.788410,750.0,g,Sixpack Panetón Clásico Sayón Caja,132.0,metro,,,PANETÓN
+Sixpack Panetón Blanca Flor Doypack 900g,S/ 132.20,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Sixpack Panetón Blanca Flor Doypack,132.2,wong,,,PANETÓN
+Sixpack Panetón Donofrio 880g,S/ 136.80,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,Sixpack Panetón Donofrio,136.8,metro,,,PANETÓN
+Panetón SAN JORGE Bolsa 900g x 6un,S/ 138.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón SAN JORGE Bolsa  x,138.6,plaza_vea,Paquete 6un,,PANETÓN
+Sixpack Panetón Donofrio 880g,S/ 143.40,wong,PANETÓN,2024-12-04 18:21:01.895856,880.0,g,Sixpack Panetón Donofrio,143.4,wong,,,PANETÓN
+Sixpack Panetón Blanca Flor Caja 900g,S/ 146.40,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Sixpack Panetón Blanca Flor Caja,146.4,wong,,,PANETÓN
+Panetón TODINNO Caja 900gr + Todinnito Caja 85gr Caja 6u,S/ 148.00 13%,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,Panetón TODINNO Caja r + Todinnito Caja r Caja 6u,148.0,vega,,TODINNO,PANETÓN
+Panetón Milanesse Tre Marie Caja 1kg,S/ 149.00,wong,PANETÓN,2024-12-04 18:21:01.895856,1.0,kg,Panetón Milanesse Tre Marie Caja,149.0,wong,,,PANETÓN
+Caja x 6 Panetón Caja X 880 gr,S/ 150.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,880.0,g,Caja x 6 Panetón Caja X r,150.4,tottus,,DONOFRIO,PANETÓN
+Sixpack Panetón D'Onofrio Caja 880g,S/ 150.60,metro,PANETÓN,2024-12-04 20:47:24.788410,880.0,g,Sixpack Panetón D'Onofrio Caja,150.6,metro,,,PANETÓN
+Panetón DONOFRIO Caja 880gr Caja 6u,S/ 151.50 20%,vega,PANETÓN,2024-12-04 13:10:57.158070,880.0,g,Panetón DONOFRIO Caja r Caja 6u,151.5,vega,,Donofrio,PANETÓN
+Gran Panetón SAN JORGE Caja 900g x 6un,S/ 151.80 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Gran Panetón SAN JORGE Caja  x,151.8,plaza_vea,Paquete 6un,,PANETÓN
+Caja x 6 Panetón Caja x 900 g + Todinnito 85 g,S/ 156,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Caja x 6 Panetón Caja x  + Todinnito,156.0,tottus,,TODINNO,PANETÓN
+Sixpack Panetón D'Onofrio Caja 880g,S/ 158.40,wong,PANETÓN,2024-12-04 18:21:01.895856,880.0,g,Sixpack Panetón D'Onofrio Caja,158.4,wong,,,PANETÓN
+Panetón GLORIA Minichoco Bolsa 90g x 48un,S/ 158.99 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,48.0,un,Panetón GLORIA Minichoco Bolsa  x,158.99,plaza_vea,Paquete 48un,,PANETÓN
+Panetón BLANCA FLOR Caja 900g Paquete 6un,S/ 159.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,5400.0,g,Panetón BLANCA FLOR Caja  Paquete,159.6,plaza_vea,Caja 5400g,,PANETÓN
+Caja x 6 Panetón Bolsa x 900 g,S/ 161.40,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Caja x 6 Panetón Bolsa x,161.4,tottus,,BIMBO,PANETÓN
+Sixpack Panetón Bimbo Doypack 900g,S/ 167.40,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Sixpack Panetón Bimbo Doypack,167.4,wong,,,PANETÓN
+Sixpack Panetón Bimbo Doypack 900g,S/ 167.40,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Sixpack Panetón Bimbo Doypack,167.4,metro,,,PANETÓN
+Caja x 6 Panetón Caja x 900 g,S/ 168,tottus,PANETÓN,2024-12-04 13:02:00.711337,900.0,g,Caja x 6 Panetón Caja x,168.0,tottus,,BIMBO,PANETÓN
+Pack Panetón TODDINO Caja 900g x 6un + Panetón...,S/ 169.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,2.0,un,Pack Panetón TODDINO Caja  x  + Panetón,169.2,plaza_vea,Pack 2un,,PANETÓN
+Sixpack Panetón Bimbo Caja 900g,S/ 173.40,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Sixpack Panetón Bimbo Caja,173.4,metro,,,PANETÓN
+Panetón D'ONOFRIO Bolsa 880g Paquete 6un,S/ 176.40 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón D'ONOFRIO Bolsa  Paquete,176.4,plaza_vea,Paquete 6un,,PANETÓN
+Panetón Al Chocolate Tre Marie Caja 900g,S/ 179.00,wong,PANETÓN,2024-12-04 18:21:01.895856,900.0,g,Panetón Al Chocolate Tre Marie Caja,179.0,wong,,,PANETÓN
+Panetón GLORIA Caja 900g Caja 6un,S/ 179.40 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón GLORIA Caja  Caja,179.4,plaza_vea,Caja 6un,,PANETÓN
+Panetón D'ONOFRIO Caja 880g Paquete 6un,S/ 189.60 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón D'ONOFRIO Caja  Paquete,189.6,plaza_vea,Paquete 6un,,PANETÓN
+Sixpack Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,S/ 198.00,metro,PANETÓN,2024-12-04 20:47:24.788410,900.0,g,Sixpack Pack Panetón Todinno: Caja  + Todinnito Caja,198.0,metro,,,PANETÓN
+Mini Panetón COSTA Paquete 48un,S/ 211.20 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,48.0,un,Mini Panetón COSTA Paquete,211.2,plaza_vea,Paquete 48un,,PANETÓN
+Panetón TODDINO Lata 900g Paquete 6un,S/ 252 un,plaza_vea,PANETÓN,2024-12-04 13:02:38.033116,6.0,un,Panetón TODDINO Lata  Paquete,252.0,plaza_vea,Paquete 6un,,PANETÓN
+Panetón Boun Natale Bolsa 750g Caja 6u,,vega,PANETÓN,2024-12-04 13:10:57.158070,750.0,g,Panetón Boun Natale Bolsa  Caja 6u,,vega,,BOUN NATALE,PANETÓN
+Panetón TODINNO Bolsa 900g + Todinnito Bolsa 85g Caja 6u,,vega,PANETÓN,2024-12-04 13:10:57.158070,900.0,g,Panetón TODINNO Bolsa  + Todinnito Bolsa  Caja 6u,,vega,,TODINNO,PANETÓN

@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Tuna Roja x kg,S/ 5.99 x kg,wong,TUNA,2024-12-04 19:38:27.653144,1.0,kg,5.99
-Tuna en Trozos Natifrut 280g,S/ 12.69,wong,TUNA,2024-12-04 19:38:27.653144,280.0,g,12.69
-Tuna Andina x kg,S/ 10.49 x kg,wong,TUNA,2024-12-04 19:38:27.653144,1.0,kg,10.49
-Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1.8L,S/ 19.90,wong,TUNA,2024-12-04 19:38:27.653144,1.8,l,19.9
-Cremi Creamy Treats Salmon&Tuna Recipe 5un,S/ 9.30,wong,TUNA,2024-12-04 19:38:27.653144,5.0,un,9.3
-Cremi Creamy Treats Tuna Recipe 5un,S/ 9.30,wong,TUNA,2024-12-04 19:38:27.653144,5.0,un,9.3
-Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1L,S/ 14.90,wong,TUNA,2024-12-04 19:38:27.653144,1.0,l,14.9
-Pulpa de Tuna Agroselva Doypack 250g,S/ 12.99,wong,TUNA,2024-12-04 19:38:27.653144,250.0,g,12.99
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Tuna Roja x kg,S/ 5.99 x kg,wong,TUNA,2024-12-04 19:38:27.653144,1.0,kg,Tuna Roja,5.99
+Tuna en Trozos Natifrut 280g,S/ 12.69,wong,TUNA,2024-12-04 19:38:27.653144,280.0,g,Tuna en Trozos Natifrut,12.69
+Tuna Andina x kg,S/ 10.49 x kg,wong,TUNA,2024-12-04 19:38:27.653144,1.0,kg,Tuna Andina,10.49
+Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1.8L,S/ 19.90,wong,TUNA,2024-12-04 19:38:27.653144,1.8,l,Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella,19.9
+Cremi Creamy Treats Salmon&Tuna Recipe 5un,S/ 9.30,wong,TUNA,2024-12-04 19:38:27.653144,5.0,un,Cremi Creamy Treats Salmon&Tuna Recipe,9.3
+Cremi Creamy Treats Tuna Recipe 5un,S/ 9.30,wong,TUNA,2024-12-04 19:38:27.653144,5.0,un,Cremi Creamy Treats Tuna Recipe,9.3
+Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1L,S/ 14.90,wong,TUNA,2024-12-04 19:38:27.653144,1.0,l,Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella,14.9
+Pulpa de Tuna Agroselva Doypack 250g,S/ 12.99,wong,TUNA,2024-12-04 19:38:27.653144,250.0,g,Pulpa de Tuna Agroselva Doypack,12.99

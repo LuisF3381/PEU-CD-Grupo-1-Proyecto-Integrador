@@ -1,21 +1,21 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Primor,Aceite Vegetal PRIMOR Premium Botella 900L,S/ 9.50 10%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,9.5
-Vega,Aceite VEGA de Soya Botella 900ml,S/ 5.80 6%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,5.8
-Primor,Aceite Vegetal PRIMOR Clásico Botella 900L,S/ 9.10 4%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,9.1
-Cocinero,Aceite Vegetal COCINERO Botella 900L,S/ 8.50 3%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,8.5
-Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml Caja 12u,S/ 139.20,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,139.2
-Vega,Aceite VEGA Botella 900ml Caja 12 und,,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,
-Primor,Aceite Vegetal PRIMOR Clásico Botella 900L x2u,S/ 18.20 21%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,18.2
-Vega,Aceite VEGA de Soya Botella 900ml Pack 3,,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,
-Vega,Aceite de Soya VEGA Botella 500ml,S/ 4.30,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,500.0,ml,4.3
-Deleite,Aceite Vegetal DELEITE Galón 5L,S/ 38.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,38.0
-FRIOL,Aceite FRIOL Soya Balde 18L,S/ 155.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,155.0
-Timonel,Aceite de Oliva TIMONEL Extra Virgen Botella 500ml,S/ 36.40,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,500.0,ml,36.4
-ALPA,Aceite ALPA Soya Galón 5L,S/ 36.50,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,36.5
-Cocinero,Aceite Vegetal COCINERO Galón 5L,S/ 62.10,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,62.1
-Vega,Aceite VEGA Botella 900ml + Azúcar Rubia VEGA 5kg,S/ 28.30,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,28.3
-Vega,Aceite VEGA Soya Balde 18L,S/ 174.40,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,174.4
-Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml x3u,S/ 34.80,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,34.8
-Timonel,Aceite de Oliva TIMONEL Extra Virgen Botella 200ml,S/ 21.20,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,200.0,ml,21.2
-EL PALMERO,Aceite EL PALMERO Balde 18L,S/ 135.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,135.0
-Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml x6u,S/ 69.60,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,69.6
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Primor,Aceite Vegetal PRIMOR Premium Botella 900L,S/ 9.50 10%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,Aceite Vegetal PRIMOR Premium Botella,9.5
+Vega,Aceite VEGA de Soya Botella 900ml,S/ 5.80 6%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite VEGA de Soya Botella,5.8
+Primor,Aceite Vegetal PRIMOR Clásico Botella 900L,S/ 9.10 4%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,Aceite Vegetal PRIMOR Clásico Botella,9.1
+Cocinero,Aceite Vegetal COCINERO Botella 900L,S/ 8.50 3%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,Aceite Vegetal COCINERO Botella,8.5
+Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml Caja 12u,S/ 139.20,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella  Caja 12u,139.2
+Vega,Aceite VEGA Botella 900ml Caja 12 und,,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite VEGA Botella  Caja d,
+Primor,Aceite Vegetal PRIMOR Clásico Botella 900L x2u,S/ 18.20 21%,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,l,Aceite Vegetal PRIMOR Clásico Botella  x2u,18.2
+Vega,Aceite VEGA de Soya Botella 900ml Pack 3,,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite VEGA de Soya Botella  Pack 3,
+Vega,Aceite de Soya VEGA Botella 500ml,S/ 4.30,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,500.0,ml,Aceite de Soya VEGA Botella,4.3
+Deleite,Aceite Vegetal DELEITE Galón 5L,S/ 38.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,Aceite Vegetal DELEITE Galón,38.0
+FRIOL,Aceite FRIOL Soya Balde 18L,S/ 155.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,Aceite FRIOL Soya Balde,155.0
+Timonel,Aceite de Oliva TIMONEL Extra Virgen Botella 500ml,S/ 36.40,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,500.0,ml,Aceite de Oliva TIMONEL Extra Virgen Botella,36.4
+ALPA,Aceite ALPA Soya Galón 5L,S/ 36.50,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,Aceite ALPA Soya Galón,36.5
+Cocinero,Aceite Vegetal COCINERO Galón 5L,S/ 62.10,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,5.0,l,Aceite Vegetal COCINERO Galón,62.1
+Vega,Aceite VEGA Botella 900ml + Azúcar Rubia VEGA 5kg,S/ 28.30,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite VEGA Botella  + Azúcar Rubia VEGA,28.3
+Vega,Aceite VEGA Soya Balde 18L,S/ 174.40,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,Aceite VEGA Soya Balde,174.4
+Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml x3u,S/ 34.80,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella  x3u,34.8
+Timonel,Aceite de Oliva TIMONEL Extra Virgen Botella 200ml,S/ 21.20,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,200.0,ml,Aceite de Oliva TIMONEL Extra Virgen Botella,21.2
+EL PALMERO,Aceite EL PALMERO Balde 18L,S/ 135.00,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,18.0,l,Aceite EL PALMERO Balde,135.0
+Primor,Aceite Vegetal PRIMOR Clásico Botella 900ml x6u,S/ 69.60,vega,ACEITE DE OLIVA,2024-12-04 13:48:49.479489,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella  x6u,69.6

@@ -1,2 +1,2 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 500g,Frejol Panamito VALLENORTE Bolsa 500g,S/ 5.90 un,plaza_vea,FRÉJOL PANAMITO,2024-12-04 14:12:10.031967,500.0,g,5.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 500g,Frejol Panamito VALLENORTE Bolsa 500g,S/ 5.90 un,plaza_vea,FRÉJOL PANAMITO,2024-12-04 14:12:10.031967,500.0,g,Frejol Panamito VALLENORTE Bolsa,5.9

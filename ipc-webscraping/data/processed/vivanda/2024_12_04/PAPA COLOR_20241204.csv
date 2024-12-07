@@ -1,4 +1,4 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Jarra BASA 4.50 L Transparente Con Tapa Color Surtido,BASA,S/ 16.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,4.5,l,16.5
-Jarra con Mezclador BASA 3.50L Transparente Con Tapa Color Surtido,BASA,S/ 17.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,3.5,l,17.5
-Jarra BASA 3.50 L Transparente Con Tapa Color Surtido,BASA,S/ 15.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,3.5,l,15.5
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Jarra BASA 4.50 L Transparente Con Tapa Color Surtido,BASA,S/ 16.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,4.5,l,Jarra BASA  Transparente Con Tapa Color Surtido,16.5
+Jarra con Mezclador BASA 3.50L Transparente Con Tapa Color Surtido,BASA,S/ 17.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,3.5,l,Jarra con Mezclador BASA  Transparente Con Tapa Color Surtido,17.5
+Jarra BASA 3.50 L Transparente Con Tapa Color Surtido,BASA,S/ 15.50,vivanda,PAPA COLOR,2024-12-04 18:02:07.925092,3.5,l,Jarra BASA  Transparente Con Tapa Color Surtido,15.5

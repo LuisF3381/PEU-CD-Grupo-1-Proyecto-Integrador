@@ -1,17 +1,17 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,Trozos De Atún En Aceite Pack 12 x 140 g,S/ 49.90,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,49.9
-TOTTUS,Trozos De Atún x 140 g,S/ 4.30,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,4.3
-PRIMOR,Trozo Atún Aceite Vegetal Lata x 140 g,S/ 6.50,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,6.5
-FLORIDA,Trozos Atún en Aceite Vegetal y Sal 140g,S/ 5.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,5.8
-CAMPOMAR,Trozos de atún en aceite vegetal de 150 g,S/ 5.60,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,150.0,g,5.6
-FRESCOMAR,Trozos De Caballa 170 g,S/ 4.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,4.8
-FRESCOMAR,Trozos De Jurel 170 g,S/ 4.70,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,4.7
-TOTTUS,Six Pack Trozos De Atún En Aceite x 140 g,S/ 24.90,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,24.9
-,D Gussto Trozos Atún Aceite Vegetal 170 g,S/ 5,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,5.0
-FRESCOMAR,Trozos De Atún Aceite Vegetal 170Gr,S/ 5.60,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,5.6
-COMPASS,Trozos De Atún Aceite Vegetal 140 g,S/ 5.10,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,5.1
-REAL,Trozos de atún en aceite de girasol de 140 g,S/ 6.20,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,6.2
-TOTTUS,Trozos de Atún en Aceite Vegetal 170 g,S/ 4.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,4.8
-COMPASS,Trozos De Atún Tripack Aceite Vegetal Lata x 140 g,S/ 14.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,14.8
-D'GUSSTO,D Gussto Trozos Atún Aceite Vegetal 140 g,S/ 5,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,5.0
-,Calamares en Su Tinta Vigilante 115 g,S/ 12.10,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,115.0,g,12.1
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Trozos De Atún En Aceite Pack 12 x 140 g,S/ 49.90,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos De Atún En Aceite Pack 12 x,49.9
+TOTTUS,Trozos De Atún x 140 g,S/ 4.30,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos De Atún x,4.3
+PRIMOR,Trozo Atún Aceite Vegetal Lata x 140 g,S/ 6.50,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozo Atún Aceite Vegetal Lata x,6.5
+FLORIDA,Trozos Atún en Aceite Vegetal y Sal 140g,S/ 5.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos Atún en Aceite Vegetal y Sal,5.8
+CAMPOMAR,Trozos de atún en aceite vegetal de 150 g,S/ 5.60,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,150.0,g,Trozos de atún en aceite vegetal de,5.6
+FRESCOMAR,Trozos De Caballa 170 g,S/ 4.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,Trozos De Caballa,4.8
+FRESCOMAR,Trozos De Jurel 170 g,S/ 4.70,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,Trozos De Jurel,4.7
+TOTTUS,Six Pack Trozos De Atún En Aceite x 140 g,S/ 24.90,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Six Pack Trozos De Atún En Aceite x,24.9
+,D Gussto Trozos Atún Aceite Vegetal 170 g,S/ 5,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,D Gussto Trozos Atún Aceite Vegetal,5.0
+FRESCOMAR,Trozos De Atún Aceite Vegetal 170Gr,S/ 5.60,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,Trozos De Atún Aceite Vegetal r,5.6
+COMPASS,Trozos De Atún Aceite Vegetal 140 g,S/ 5.10,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos De Atún Aceite Vegetal,5.1
+REAL,Trozos de atún en aceite de girasol de 140 g,S/ 6.20,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos de atún en aceite de girasol de,6.2
+TOTTUS,Trozos de Atún en Aceite Vegetal 170 g,S/ 4.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,170.0,g,Trozos de Atún en Aceite Vegetal,4.8
+COMPASS,Trozos De Atún Tripack Aceite Vegetal Lata x 140 g,S/ 14.80,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,Trozos De Atún Tripack Aceite Vegetal Lata x,14.8
+D'GUSSTO,D Gussto Trozos Atún Aceite Vegetal 140 g,S/ 5,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,140.0,g,D Gussto Trozos Atún Aceite Vegetal,5.0
+,Calamares en Su Tinta Vigilante 115 g,S/ 12.10,tottus,TROZO DE PESCADO EN CONSERVA,2024-12-04 13:19:12.123595,115.0,g,Calamares en Su Tinta Vigilante,12.1

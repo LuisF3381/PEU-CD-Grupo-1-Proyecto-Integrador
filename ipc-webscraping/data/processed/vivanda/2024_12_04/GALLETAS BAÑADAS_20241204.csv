@@ -1,6 +1,6 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,4.9
-Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete 6un,VICTORIA,S/ 4.80,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,4.8
-Galletas GLACITAS Bañadas con Sabor a Toffee Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,4.9
-Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete 6un,PICARAS,S/ 6.00,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,6.0
-Galletas GLACITAS Bañadas con Sabor a Fresa Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,4.9
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete,4.9
+Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete 6un,VICTORIA,S/ 4.80,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete,4.8
+Galletas GLACITAS Bañadas con Sabor a Toffee Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,Galletas GLACITAS Bañadas con Sabor a Toffee Paquete,4.9
+Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete 6un,PICARAS,S/ 6.00,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete,6.0
+Galletas GLACITAS Bañadas con Sabor a Fresa Paquete 6un,VICTORIA GLACITAS,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-04 17:17:52.292385,6.0,un,Galletas GLACITAS Bañadas con Sabor a Fresa Paquete,4.9

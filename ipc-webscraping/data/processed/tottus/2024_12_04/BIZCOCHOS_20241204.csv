@@ -1,13 +1,13 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-GLORIA,Bizcocho Chispas De Chocolate x 500 g,S/ 18.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,500.0,g,18.9
-GLORIA,Bizcocho Pasión Avellanas Caja x 500 g,S/ 22.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,500.0,g,22.9
-DONOFRIO,Bizcocho Chocotoncito Bolsa 80 gr,S/ 3.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,80.0,g,3.9
-DONOFRIO,Bizcocho Dulce Pandulce 490g,S/ 18.60,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,490.0,g,18.6
-COSTA,Bizcocho Chocman Black 29 g,S/ 4.20,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,29.0,g,4.2
-COSTA,Bizcocho Chocman Doble Manjar 50g,S/ 9,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,50.0,g,9.0
-COSTA,Bizcocho Chocman Doble Black 53g,S/ 7.20,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,53.0,g,7.2
-COSTA,Bizcocho Chocman Mini Relleno de Manjar 21 g,S/ 13.80,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,21.0,g,13.8
-COSTA,BIZCOCHO CARITAS RELL VAINILLA BOL 28GX6UND,S/ 4.50,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,28.0,g,4.5
-CANCUN,Bizcocho Sabor Chocolate Relleno de Crema 6 Unidades,S/ 4.50,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,6.0,un,4.5
-COSTA,Bizcocho Chocman Relleno Manjar 24g 6 Unidades,S/ 5.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,24.0,g,5.9
-COSTA,Bizcocho Chocman Relleno De Manjar 6 Unidades x 33.5 g,S/ 3.95,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,6.0,un,3.95
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+GLORIA,Bizcocho Chispas De Chocolate x 500 g,S/ 18.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,500.0,g,Bizcocho Chispas De Chocolate x,18.9
+GLORIA,Bizcocho Pasión Avellanas Caja x 500 g,S/ 22.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,500.0,g,Bizcocho Pasión Avellanas Caja x,22.9
+DONOFRIO,Bizcocho Chocotoncito Bolsa 80 gr,S/ 3.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,80.0,g,Bizcocho Chocotoncito Bolsa r,3.9
+DONOFRIO,Bizcocho Dulce Pandulce 490g,S/ 18.60,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,490.0,g,Bizcocho Dulce Pandulce,18.6
+COSTA,Bizcocho Chocman Black 29 g,S/ 4.20,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,29.0,g,Bizcocho Chocman Black,4.2
+COSTA,Bizcocho Chocman Doble Manjar 50g,S/ 9,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,50.0,g,Bizcocho Chocman Doble Manjar,9.0
+COSTA,Bizcocho Chocman Doble Black 53g,S/ 7.20,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,53.0,g,Bizcocho Chocman Doble Black,7.2
+COSTA,Bizcocho Chocman Mini Relleno de Manjar 21 g,S/ 13.80,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,21.0,g,Bizcocho Chocman Mini Relleno de Manjar,13.8
+COSTA,BIZCOCHO CARITAS RELL VAINILLA BOL 28GX6UND,S/ 4.50,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,28.0,g,BIZCOCHO CARITAS RELL VAINILLA BOL XD,4.5
+CANCUN,Bizcocho Sabor Chocolate Relleno de Crema 6 Unidades,S/ 4.50,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,6.0,un,Bizcocho Sabor Chocolate Relleno de Crema ades,4.5
+COSTA,Bizcocho Chocman Relleno Manjar 24g 6 Unidades,S/ 5.90,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,24.0,g,Bizcocho Chocman Relleno Manjar  ades,5.9
+COSTA,Bizcocho Chocman Relleno De Manjar 6 Unidades x 33.5 g,S/ 3.95,tottus,BIZCOCHOS,2024-12-04 12:59:51.512312,6.0,un,Bizcocho Chocman Relleno De Manjar ades x,3.95

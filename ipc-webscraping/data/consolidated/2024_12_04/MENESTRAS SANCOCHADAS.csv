@@ -1,0 +1,236 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Trigo mote VEGA Bolsa 400g,S/ 2.60,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Trigo mote VEGA Bolsa,2.6,vega,,Vega,MENESTRAS SANCOCHADAS
+Arveja VEGA Bolsa 400g,S/ 2.90,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Arveja VEGA Bolsa,2.9,vega,,Vega,MENESTRAS SANCOCHADAS
+Alverja Verde Tesoro del Campo Bolsa 350 g,S/ 2.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,350.0,g,Alverja Verde Tesoro del Campo Bolsa,2.9,metro,,,MENESTRAS SANCOCHADAS
+Arveja Cuisine & Co 500g,S/ 3.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Arveja Cuisine & Co,3.5,metro,,,MENESTRAS SANCOCHADAS
+Arveja Partida Máxima 500g,S/ 3.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Arveja Partida Máxima,3.5,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Cuisine & Co 500g,S/ 3.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maíz Pop Corn Cuisine & Co,3.5,metro,,,MENESTRAS SANCOCHADAS
+Trigo Mote Cuisine & Co 500g,S/ 3.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Trigo Mote Cuisine & Co,3.5,metro,,,MENESTRAS SANCOCHADAS
+Arveja Partida Máxima 500g,S/ 3.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Arveja Partida Máxima,3.5,wong,,,MENESTRAS SANCOCHADAS
+Arveja COSTEÑO Bolsa 500g,S/ 3.50,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,500.0,g,Arveja COSTEÑO Bolsa,3.5,vega,,Costeño,MENESTRAS SANCOCHADAS
+Maíz Pop Corn x 350 g,S/ 3.65,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,350.0,g,Maíz Pop Corn x,3.65,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Trigo Mote Maxima Bolsa 500 g,S/ 3.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Trigo Mote Maxima Bolsa,3.7,metro,,,MENESTRAS SANCOCHADAS
+Trigo Mote Tesoro Del Campo Bolsa 500 g,S/ 3.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Trigo Mote Tesoro Del Campo Bolsa,3.7,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Bolsa 350 g,S/ 3.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,350.0,g,Maíz Pop Corn Bolsa,3.8,metro,,,MENESTRAS SANCOCHADAS
+Arveja Partida Costeño 500g,S/ 3.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Arveja Partida Costeño,3.8,wong,,,MENESTRAS SANCOCHADAS
+Garbanzo VEGA Bolsa 400g,S/ 3.80,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Garbanzo VEGA Bolsa,3.8,vega,,Vega,MENESTRAS SANCOCHADAS
+Arveja Verde Tesoro Del Campo Bolsa 500 g,S/ 3.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Arveja Verde Tesoro Del Campo Bolsa,3.8,metro,,,MENESTRAS SANCOCHADAS
+Arroz Extra Integral 750 g,S/ 3.89,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Extra Integral,3.89,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Arroz Superior 750 g,S/ 3.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Superior,3.9,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Lenteja Bebé VEGA Bolsa 400g,S/ 3.90,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Lenteja Bebé VEGA Bolsa,3.9,vega,,Vega,MENESTRAS SANCOCHADAS
+Trigo Mote Cuisine & Co 500g,S/ 3.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Trigo Mote Cuisine & Co,3.9,wong,,,MENESTRAS SANCOCHADAS
+Arveja partida VALLENORTE Bolsa 500gr,S/ 3.90,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,500.0,g,Arveja partida VALLENORTE Bolsa r,3.9,vega,,VALLENORTE,MENESTRAS SANCOCHADAS
+Arveja Cuisine & Co 500g,S/ 3.99,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Arveja Cuisine & Co,3.99,wong,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Costeño 500g,S/ 4.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maíz Pop Corn Costeño,4.0,metro,,,MENESTRAS SANCOCHADAS
+Arveja Partida 500 g,S/ 4.20,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Arveja Partida,4.2,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Frijol Castilla VEGA Bolsa 400g,S/ 4.30,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Frijol Castilla VEGA Bolsa,4.3,vega,,Vega,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Máxima 500g,S/ 4.30,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maíz Pop Corn Máxima,4.3,metro,,,MENESTRAS SANCOCHADAS
+Arroz Extra Faraón 750 g,S/ 4.40,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Extra Faraón,4.4,tottus,,FARAON,MENESTRAS SANCOCHADAS
+Maiz Pop Corn Paisana Bolsa 500 g,S/ 4.40,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maiz Pop Corn Paisana Bolsa,4.4,metro,,,MENESTRAS SANCOCHADAS
+Arveja Partida Costeño 500 g,S/ 4.40,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Arveja Partida Costeño,4.4,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Arroz Superior Añejo 750 g,S/ 4.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Superior Añejo,4.5,tottus,,VALLENORTE,MENESTRAS SANCOCHADAS
+Trigo Mote 500 g,S/ 4.57,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Trigo Mote,4.57,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Frijol Castilla TIMONEL Bolsa 400g,S/ 4.60,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Frijol Castilla TIMONEL Bolsa,4.6,vega,,Timonel,MENESTRAS SANCOCHADAS
+Maiz Pop Corn 500 g,S/ 4.64,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Maiz Pop Corn,4.64,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Arveja Verde Valle Norte Bolsa 500 g,S/ 4.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Arveja Verde Valle Norte Bolsa,4.7,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Cuisine & Co 500g,S/ 4.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Maíz Pop Corn Cuisine & Co,4.7,wong,,,MENESTRAS SANCOCHADAS
+Lentejón Bolsa 350 g,S/ 4.75,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,350.0,g,Lentejón Bolsa,4.75,metro,,,MENESTRAS SANCOCHADAS
+Morón Costeño 500g,S/ 4.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Morón Costeño,4.8,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Costeño 500 g,S/ 4.80,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Maíz Pop Corn Costeño,4.8,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Lenteja x 350 g,S/ 4.85,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,350.0,g,Lenteja x,4.85,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Arveja Verde Valle Norte Bolsa 500 g,S/ 4.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Arveja Verde Valle Norte Bolsa,4.9,wong,,,MENESTRAS SANCOCHADAS
+Lenteja Máxima 500g,S/ 4.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Máxima,4.9,metro,,,MENESTRAS SANCOCHADAS
+Arroz Extra Costeño 750 g,S/ 4.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Extra Costeño,4.9,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Lentejón Máxima 500g,S/ 4.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lentejón Máxima,4.9,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Tesoro Del Campo Bolsa 500 g,S/ 4.95,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maíz Pop Corn Tesoro Del Campo Bolsa,4.95,metro,,,MENESTRAS SANCOCHADAS
+Garbanzo Maixma Bolsa 500 g,S/ 4.99,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Garbanzo Maixma Bolsa,4.99,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Bolsa 350 g,S/ 5.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,350.0,g,Lenteja Bolsa,5.0,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn 500 g,S/ 5,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Maíz Pop Corn,5.0,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Tesoro Del Campo Bolsa 500 g,S/ 5.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Maíz Pop Corn Tesoro Del Campo Bolsa,5.0,wong,,,MENESTRAS SANCOCHADAS
+Lenteja Cuisine & Co 500g,S/ 5.10,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Cuisine & Co,5.1,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Bebé Cuisine & Co 500g,S/ 5.10,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Bebé Cuisine & Co,5.1,metro,,,MENESTRAS SANCOCHADAS
+Frijol Canario VEGA Bolsa 400g,S/ 5.10,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Frijol Canario VEGA Bolsa,5.1,vega,,Vega,MENESTRAS SANCOCHADAS
+Lenteja Costeño 500g,S/ 5.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lenteja Costeño,5.4,wong,,,MENESTRAS SANCOCHADAS
+Garbanzos Cuisine & Co 500g,S/ 5.40,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Garbanzos Cuisine & Co,5.4,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Bebé Tesoro Del Campo Bolsa 500 g,S/ 5.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Bebé Tesoro Del Campo Bolsa,5.5,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Bebé Tesoro Del Campo Bolsa 500 g,S/ 5.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lenteja Bebé Tesoro Del Campo Bolsa,5.5,wong,,,MENESTRAS SANCOCHADAS
+Arroz Integral 750 g,S/ 5.59,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,750.0,g,Arroz Integral,5.59,tottus,,VALLENORTE,MENESTRAS SANCOCHADAS
+Frijol Panamito Cuisine & Co Bolsa 500 gr,S/ 5.60,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Panamito Cuisine & Co Bolsa r,5.6,wong,,,MENESTRAS SANCOCHADAS
+Frijol Panamito Cuisine & Co Bolsa 500 gr,S/ 5.60,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Panamito Cuisine & Co Bolsa r,5.6,metro,,,MENESTRAS SANCOCHADAS
+Papa Seca 400 g,S/ 5.65,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,400.0,g,Papa Seca,5.65,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Lentejón Cuisine & Co 500g,S/ 5.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lentejón Cuisine & Co,5.7,wong,,,MENESTRAS SANCOCHADAS
+Papa Seca Máxima Bolsa 500 g,S/ 5.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Papa Seca Máxima Bolsa,5.7,metro,,,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Valle Norte Bolsa 500 g,S/ 5.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Maíz Pop Corn Valle Norte Bolsa,5.8,metro,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Incatrail 100g,S/ 5.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,100.0,g,Quinua Blanca Incatrail,5.8,wong,,,MENESTRAS SANCOCHADAS
+Lenteja Tesoro Del Campo Bolsa 500 g,S/ 5.85,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Tesoro Del Campo Bolsa,5.85,metro,,,MENESTRAS SANCOCHADAS
+Frijol Castilla Costeño 500g,S/ 6.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Castilla Costeño,6.0,wong,,,MENESTRAS SANCOCHADAS
+Frijol Castilla Costeño 500g,S/ 6.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Castilla Costeño,6.0,metro,,,MENESTRAS SANCOCHADAS
+Lentejón Tesoro Del Campo Bolsa 500 g,S/ 6.10,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lentejón Tesoro Del Campo Bolsa,6.1,metro,,,MENESTRAS SANCOCHADAS
+Papa Seca Cuisine & Co 500g,S/ 6.10,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Papa Seca Cuisine & Co,6.1,wong,,,MENESTRAS SANCOCHADAS
+Lentejas Bebé Bolsa 500 g,S/ 6.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lentejas Bebé Bolsa,6.2,metro,,,MENESTRAS SANCOCHADAS
+Lenteja 500 g,S/ 6.20,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Lenteja,6.2,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Frijol Panamito Costeño 500g,S/ 6.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Panamito Costeño,6.2,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Valle Norte Bolsa 500 g,S/ 6.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Valle Norte Bolsa,6.2,metro,,,MENESTRAS SANCOCHADAS
+Quinua TIMONEL Bolsa 400gr,S/ 6.30,vega,MENESTRAS SANCOCHADAS,2024-12-04 14:40:19.409296,400.0,g,Quinua TIMONEL Bolsa r,6.3,vega,,Timonel,MENESTRAS SANCOCHADAS
+Frijol Red Kidney Cuisine & Co Bolsa 500 gr,S/ 6.30,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Red Kidney Cuisine & Co Bolsa r,6.3,wong,,,MENESTRAS SANCOCHADAS
+Lenteja Valle Norte Bolsa 500 g,S/ 6.30,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lenteja Valle Norte Bolsa,6.3,wong,,,MENESTRAS SANCOCHADAS
+Frijol Panamito Tesoro Del Campo Bolsa 500 g,S/ 6.30,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Panamito Tesoro Del Campo Bolsa,6.3,metro,,,MENESTRAS SANCOCHADAS
+Lenteja Bebé 500 g,S/ 6.40,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Lenteja Bebé,6.4,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Maíz Pop Corn Valle Norte Bolsa 500 g,S/ 6.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Maíz Pop Corn Valle Norte Bolsa,6.4,wong,,,MENESTRAS SANCOCHADAS
+Lentejón Tesoro Del Campo Bolsa 500 g,S/ 6.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lentejón Tesoro Del Campo Bolsa,6.4,wong,,,MENESTRAS SANCOCHADAS
+Maiz Cancha x 400 gr,S/ 6.43,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,400.0,g,Maiz Cancha x r,6.43,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Frijol Red Kid 500 g,S/ 6.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Frijol Red Kid,6.5,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Lentejas Paisana Bolsa 500 g,S/ 6.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lentejas Paisana Bolsa,6.5,metro,,,MENESTRAS SANCOCHADAS
+Frejol Negro Cuisine & Co 500g,S/ 6.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frejol Negro Cuisine & Co,6.5,metro,,,MENESTRAS SANCOCHADAS
+Lentejas Bebé Bolsa 500 g,S/ 6.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lentejas Bebé Bolsa,6.5,wong,,,MENESTRAS SANCOCHADAS
+Frejol Negro Cuisine & Co 500g,S/ 6.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frejol Negro Cuisine & Co,6.5,wong,,,MENESTRAS SANCOCHADAS
+Mezcla en Polvo PROVENZAL para Sopa Menestrón ...,S/ 6.50 un,plaza_vea,MENESTRAS SANCOCHADAS,2024-12-04 14:35:28.197593,55.0,g,Mezcla en Polvo PROVENZAL para Sopa Menestrón,6.5,plaza_vea,Sachet 55g,,MENESTRAS SANCOCHADAS
+Lenteja Costeño 500g,S/ 6.60,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lenteja Costeño,6.6,metro,,,MENESTRAS SANCOCHADAS
+Garbanzo Costeño 500g,S/ 6.60,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Garbanzo Costeño,6.6,metro,,,MENESTRAS SANCOCHADAS
+Frijol Guinda Costeño 500g,S/ 6.60,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Guinda Costeño,6.6,metro,,,MENESTRAS SANCOCHADAS
+Frijol Castilla Costeño 500 g,S/ 6.60,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Frijol Castilla Costeño,6.6,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Frijol Red Kidney Costeño 500g,S/ 6.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Red Kidney Costeño,6.7,metro,,,MENESTRAS SANCOCHADAS
+Frijol Red Kidney Costeño 500g,S/ 6.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Red Kidney Costeño,6.8,wong,,,MENESTRAS SANCOCHADAS
+Lentejón Costeño 500g,S/ 6.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Lentejón Costeño,6.8,metro,,,MENESTRAS SANCOCHADAS
+Frijol Panamito Tesoro Del Campo Bolsa 500 g,S/ 6.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Panamito Tesoro Del Campo Bolsa,6.9,wong,,,MENESTRAS SANCOCHADAS
+Lentejón Costeño 500g,S/ 6.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Lentejón Costeño,6.9,wong,,,MENESTRAS SANCOCHADAS
+Pallar Cuisine & Co Bolsa 500 gr,S/ 6.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Pallar Cuisine & Co Bolsa r,6.9,wong,,,MENESTRAS SANCOCHADAS
+Pallar Cuisine & Co Bolsa 500 gr,S/ 6.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Pallar Cuisine & Co Bolsa r,6.9,metro,,,MENESTRAS SANCOCHADAS
+Frijol Negro Costeño 500g,S/ 6.99,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Negro Costeño,6.99,wong,,,MENESTRAS SANCOCHADAS
+Pallar Costeño 500g,S/ 7.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Pallar Costeño,7.0,metro,,,MENESTRAS SANCOCHADAS
+Frijol Negro Costeño 500g,S/ 7.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Negro Costeño,7.0,metro,,,MENESTRAS SANCOCHADAS
+Garbanzos Tesoro Del Campo Bolsa 500 g,S/ 7.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Garbanzos Tesoro Del Campo Bolsa,7.0,metro,,,MENESTRAS SANCOCHADAS
+Quinua Máxima 500g,S/ 7.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Quinua Máxima,7.0,metro,,,MENESTRAS SANCOCHADAS
+Frijol Panamito Costeño 500 g,S/ 7,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Frijol Panamito Costeño,7.0,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Frijol Negro Costeño 500 g,S/ 7,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Frijol Negro Costeño,7.0,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Harina de Trigo Preparada 1 kg,S/ 7.10,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,1.0,kg,Harina de Trigo Preparada,7.1,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Frijol Canario Bolsa 350 g,S/ 7.10,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,350.0,g,Frijol Canario Bolsa,7.1,metro,,,MENESTRAS SANCOCHADAS
+Frejol Canario Máxima 500g,S/ 7.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frejol Canario Máxima,7.2,metro,,,MENESTRAS SANCOCHADAS
+Garbanzos 500 g,S/ 7.23,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Garbanzos,7.23,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Frijol Red Kidney Tesoro Del Campo Bolsa 500 g,S/ 7.30,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Red Kidney Tesoro Del Campo Bolsa,7.3,metro,,,MENESTRAS SANCOCHADAS
+Garbanzo Costeño 500 g,S/ 7.40,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Garbanzo Costeño,7.4,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Maíz Pop Corn de 1 kg,S/ 7.42,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,1.0,kg,Maíz Pop Corn de,7.42,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Lentejas Aderezadas Casa Verde 360g,S/ 7.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,360.0,g,Lentejas Aderezadas Casa Verde,7.5,metro,,,MENESTRAS SANCOCHADAS
+Quinua Bicolor Casa Verde 240g,S/ 7.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,240.0,g,Quinua Bicolor Casa Verde,7.5,metro,,,MENESTRAS SANCOCHADAS
+Lentejas Aderezadas Casa Verde 360g,S/ 7.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,360.0,g,Lentejas Aderezadas Casa Verde,7.5,wong,,,MENESTRAS SANCOCHADAS
+Frijol Red Kidney Tesoro Del Campo Bolsa 500 g,S/ 7.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Red Kidney Tesoro Del Campo Bolsa,7.7,wong,,,MENESTRAS SANCOCHADAS
+Garbanzos Bolsa 500 g,S/ 7.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Garbanzos Bolsa,7.7,metro,,,MENESTRAS SANCOCHADAS
+Arveja 1 kg,S/ 7.70,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,1.0,kg,Arveja,7.7,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Pallar Seleccionado 500 g,S/ 7.80,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Pallar Seleccionado,7.8,tottus,,TESORO DEL CAMPO,MENESTRAS SANCOCHADAS
+Lentejas Lorenzo 425g,S/ 7.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Lentejas Lorenzo,7.8,metro,,,MENESTRAS SANCOCHADAS
+Lentejas Lorenzo 425g,S/ 7.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Lentejas Lorenzo,7.8,wong,,,MENESTRAS SANCOCHADAS
+Frijol con Tocino 425 gr,S/ 7.80,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,425.0,g,Frijol con Tocino r,7.8,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Papa Seca Tesoro Del Campo Bolsa,7.9,metro,,,MENESTRAS SANCOCHADAS
+Garbanzos Bolsa 500 g,S/ 7.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Garbanzos Bolsa,7.9,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Aderezados Casa Verde 360g,S/ 8.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,360.0,g,Frejoles Aderezados Casa Verde,8.2,metro,,,MENESTRAS SANCOCHADAS
+Papa Seca Costeño 500g,S/ 8.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Papa Seca Costeño,8.2,metro,,,MENESTRAS SANCOCHADAS
+Frijoles Negros Lorenzo 425g,S/ 8.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frijoles Negros Lorenzo,8.2,metro,,,MENESTRAS SANCOCHADAS
+Frijoles Negros Lorenzo 425g,S/ 8.20,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frijoles Negros Lorenzo,8.2,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Aderezados Casa Verde 360g,S/ 8.20,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,360.0,g,Frejoles Aderezados Casa Verde,8.2,wong,,,MENESTRAS SANCOCHADAS
+Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 8.30,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Papa Seca Tesoro Del Campo Bolsa,8.3,wong,,,MENESTRAS SANCOCHADAS
+Frijol Canario Cuisine & Co 500g,S/ 8.40,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Canario Cuisine & Co,8.4,metro,,,MENESTRAS SANCOCHADAS
+Conserva para Untar Duw Jamón Endiablado El Original 54g,S/ 8.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,54.0,g,Conserva para Untar Duw Jamón Endiablado El Original,8.5,wong,,,MENESTRAS SANCOCHADAS
+Lentejas Preparadas Cuisine & Co 425g,S/ 8.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Lentejas Preparadas Cuisine & Co,8.7,metro,,,MENESTRAS SANCOCHADAS
+Garbanzos en Salmuera Cuisine & Co 425g,S/ 8.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Garbanzos en Salmuera Cuisine & Co,8.7,metro,,,MENESTRAS SANCOCHADAS
+Frijoles con Tocino Cuisine & Co 425g,S/ 8.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frijoles con Tocino Cuisine & Co,8.7,metro,,,MENESTRAS SANCOCHADAS
+Papa Seca Costeño 500g,S/ 8.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Papa Seca Costeño,8.7,wong,,,MENESTRAS SANCOCHADAS
+Pallares en Salmuera Cuisine & Co 425g,S/ 8.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Pallares en Salmuera Cuisine & Co,8.7,metro,,,MENESTRAS SANCOCHADAS
+Pallares en Salmuera Cuisine & Co 425g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Pallares en Salmuera Cuisine & Co,8.8,wong,,,MENESTRAS SANCOCHADAS
+Quinua Tricolor Orgánica Tiyapuy Doypack 340 g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,340.0,g,Quinua Tricolor Orgánica Tiyapuy Doypack,8.8,wong,,,MENESTRAS SANCOCHADAS
+Garbanzos Lorenzo 425g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Garbanzos Lorenzo,8.8,wong,,,MENESTRAS SANCOCHADAS
+Quinua Roja Orgánica Tiyapuy Doypack 340 g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,340.0,g,Quinua Roja Orgánica Tiyapuy Doypack,8.8,wong,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Orgánica Tiyapuy Doypack 340 g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,340.0,g,Quinua Blanca Orgánica Tiyapuy Doypack,8.8,wong,,,MENESTRAS SANCOCHADAS
+Garbanzos Lorenzo 425g,S/ 8.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Garbanzos Lorenzo,8.8,metro,,,MENESTRAS SANCOCHADAS
+Garbanzos en Salmuera Cuisine & Co 425g,S/ 8.80,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Garbanzos en Salmuera Cuisine & Co,8.8,wong,,,MENESTRAS SANCOCHADAS
+Frijoles Colorados Lorenzo 425g,S/ 8.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frijoles Colorados Lorenzo,8.9,wong,,,MENESTRAS SANCOCHADAS
+Frijoles Pintos Lorenzo 425g,S/ 8.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frijoles Pintos Lorenzo,8.9,wong,,,MENESTRAS SANCOCHADAS
+Frijoles Canarios Lorenzo 425g,S/ 8.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frijoles Canarios Lorenzo,8.9,wong,,,MENESTRAS SANCOCHADAS
+Frijol Canario Tesoro Del Campo Bolsa 500 g,S/ 9.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Canario Tesoro Del Campo Bolsa,9.0,metro,,,MENESTRAS SANCOCHADAS
+Frijol Canario Costeño 500g,S/ 9.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Canario Costeño,9.0,wong,,,MENESTRAS SANCOCHADAS
+Frijol Canario Tesoro Del Campo Bolsa 500 g,S/ 9.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Frijol Canario Tesoro Del Campo Bolsa,9.0,wong,,,MENESTRAS SANCOCHADAS
+Frijol Canario Costeño 500g,S/ 9.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frijol Canario Costeño,9.0,metro,,,MENESTRAS SANCOCHADAS
+Lentejas Preparadas Cuisine & Co 425g,S/ 9.10,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Lentejas Preparadas Cuisine & Co,9.1,wong,,,MENESTRAS SANCOCHADAS
+Frejol Canario Bolsa 500 g,S/ 9.20,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Frejol Canario Bolsa,9.2,metro,,,MENESTRAS SANCOCHADAS
+Quinua Cuisine & Co 500g,S/ 9.30,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Quinua Cuisine & Co,9.3,wong,,,MENESTRAS SANCOCHADAS
+Quinua Cuisine & Co 500g,S/ 9.30,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Quinua Cuisine & Co,9.3,metro,,,MENESTRAS SANCOCHADAS
+Menestrón BELL'S FRESCOS Bandeja 500g,S/ 9.40,vivanda,MENESTRAS SANCOCHADAS,2024-12-04 18:14:15.370961,500.0,g,Menestrón BELL'S FRESCOS Bandeja,9.4,vivanda,,BELL'S FRESCOS,MENESTRAS SANCOCHADAS
+Menestrón BELL'S Bandeja 500g,S/ 9.40 un,plaza_vea,MENESTRAS SANCOCHADAS,2024-12-04 14:35:28.197593,500.0,g,Menestrón BELL'S Bandeja,9.4,plaza_vea,Bandeja 500g,,MENESTRAS SANCOCHADAS
+Quinua Perlada Superior Incasur Bolsa 250 gr,S/ 9.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,250.0,g,Quinua Perlada Superior Incasur Bolsa r,9.5,wong,,,MENESTRAS SANCOCHADAS
+Frijoles con Tocino Valle Fértil Salsa de Tomate VF 454 g,S/ 9.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,454.0,g,Frijoles con Tocino Valle Fértil Salsa de Tomate VF,9.7,wong,,,MENESTRAS SANCOCHADAS
+Frijoles con Tocino Valle Fértil Salsa de Tomate VF 454 g,S/ 9.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Frijoles con Tocino Valle Fértil Salsa de Tomate VF,9.7,metro,,,MENESTRAS SANCOCHADAS
+Ganbanzos Valle Fértil 439 g,S/ 9.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,439.0,g,Ganbanzos Valle Fértil,9.7,wong,,,MENESTRAS SANCOCHADAS
+Frijoles Negros en Conserva Valle Fértil 439g,S/ 9.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,439.0,g,Frijoles Negros en Conserva Valle Fértil,9.7,metro,,,MENESTRAS SANCOCHADAS
+Ganbanzos Valle Fértil 439 g,S/ 9.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,439.0,g,Ganbanzos Valle Fértil,9.7,metro,,,MENESTRAS SANCOCHADAS
+Quinua Costeño 500g,S/ 9.80,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Quinua Costeño,9.8,metro,,,MENESTRAS SANCOCHADAS
+Quinua Tesoro Del Campo Bolsa 500 g,S/ 9.85,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,500.0,g,Quinua Tesoro Del Campo Bolsa,9.85,metro,,,MENESTRAS SANCOCHADAS
+Quinua Costeño 500g,S/ 9.89,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,500.0,g,Quinua Costeño,9.89,wong,,,MENESTRAS SANCOCHADAS
+Quinua Costeño 500 g,S/ 9.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Quinua Costeño,9.9,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Frijol Canario Costeño 500 g,S/ 10.40,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Frijol Canario Costeño,10.4,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Picadillo de Carne Jamonilla Tulip 200g,S/ 10.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,200.0,g,Picadillo de Carne Jamonilla Tulip,10.5,wong,,,MENESTRAS SANCOCHADAS
+Salchichas sin Piel Tulip 125g,S/ 10.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,125.0,g,Salchichas sin Piel Tulip,10.5,metro,,,MENESTRAS SANCOCHADAS
+Salchichas sin Piel Tulip 125g,S/ 10.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,125.0,g,Salchichas sin Piel Tulip,10.5,wong,,,MENESTRAS SANCOCHADAS
+Lentejas bebé de 1 kg,S/ 10.51,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,1.0,kg,Lentejas bebé de,10.51,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Huevito de Codorniz Sancochado Bolsa 250 g,S/ 10.99,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,250.0,g,Huevito de Codorniz Sancochado Bolsa,10.99,wong,,,MENESTRAS SANCOCHADAS
+Quinua Perlada Selecta Incasur Bolsa 250 gr,S/ 11.20,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,250.0,g,Quinua Perlada Selecta Incasur Bolsa r,11.2,wong,,,MENESTRAS SANCOCHADAS
+INFUSION HERB SURTIDO CAJA X 20UND,S/ 11.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,20.0,un,INFUSION HERB SURTIDO CAJA X D,11.5,tottus,,NATURES HEART,MENESTRAS SANCOCHADAS
+Quinua Blanca Orígenes 500 g,S/ 11.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Quinua Blanca Orígenes,11.9,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Quinua Perlada Gourmet Incasur Bolsa 250 gr,S/ 11.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,250.0,g,Quinua Perlada Gourmet Incasur Bolsa r,11.9,wong,,,MENESTRAS SANCOCHADAS
+Quinua Perlada Nativa Incasur Bolsa 250 gr,S/ 11.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,250.0,g,Quinua Perlada Nativa Incasur Bolsa r,11.9,wong,,,MENESTRAS SANCOCHADAS
+Quinua Casa Verde Bicolor Lista para Cocinar 375 g,S/ 11.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,375.0,g,Quinua Casa Verde Bicolor Lista para Cocinar,11.9,wong,,,MENESTRAS SANCOCHADAS
+Quinua Roja Orígenes 500 g,S/ 11.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Quinua Roja Orígenes,11.9,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Frejol Canario Essential Everyday 425g,S/ 12.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frejol Canario Essential Everyday,12.0,metro,,,MENESTRAS SANCOCHADAS
+Frejol Canario Essential Everyday 425g,S/ 12.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frejol Canario Essential Everyday,12.0,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Negros en Conserva Essential Everyday 425g,S/ 12.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frejoles Negros en Conserva Essential Everyday,12.0,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Negros en Conserva Essential Everyday 425g,S/ 12.00,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frejoles Negros en Conserva Essential Everyday,12.0,metro,,,MENESTRAS SANCOCHADAS
+Conserva para Untar Duw Jamón Endiablado El Original 115g,S/ 12.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,115.0,g,Conserva para Untar Duw Jamón Endiablado El Original,12.5,wong,,,MENESTRAS SANCOCHADAS
+Conserva para Untar Duw Jamón Endiablado El Original 115g,S/ 12.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,115.0,g,Conserva para Untar Duw Jamón Endiablado El Original,12.5,metro,,,MENESTRAS SANCOCHADAS
+Quinua Roja Vidandina Doypack 454 g,S/ 12.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Quinua Roja Vidandina Doypack,12.5,metro,,,MENESTRAS SANCOCHADAS
+Frijoles Negros en Salmuera Olivos del Sur 425g,S/ 12.70,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frijoles Negros en Salmuera Olivos del Sur,12.7,metro,,,MENESTRAS SANCOCHADAS
+Menestrón con Carne de Res en Semiconserva 750g,S/ 12.90,vivanda,MENESTRAS SANCOCHADAS,2024-12-04 18:14:15.370961,750.0,g,Menestrón con Carne de Res en Semiconserva,12.9,vivanda,,LA FLORENCIA,MENESTRAS SANCOCHADAS
+Frijoles Van Camp's Pork and Beans C/Cerdo y Arvejas Lata 16 Onzas,S/ 13.30,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,16.0,oz,Frijoles Van Camp's Pork and Beans C/Cerdo y Arvejas Lata,13.3,wong,,,MENESTRAS SANCOCHADAS
+Frijoles Van Camp's Pork and Beans C/Cerdo y Arvejas Lata 16 Onzas,S/ 13.30,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,16.0,oz,Frijoles Van Camp's Pork and Beans C/Cerdo y Arvejas Lata,13.3,metro,,,MENESTRAS SANCOCHADAS
+Frijoles con Tocino Olivos del Sur 425g,S/ 13.40,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Frijoles con Tocino Olivos del Sur,13.4,metro,,,MENESTRAS SANCOCHADAS
+Pallares con Tocino Olivos del Sur 425g,S/ 13.40,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Pallares con Tocino Olivos del Sur,13.4,metro,,,MENESTRAS SANCOCHADAS
+Frejoles Carita Goya Lata 439g,S/ 13.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,439.0,g,Frejoles Carita Goya Lata,13.4,wong,,,MENESTRAS SANCOCHADAS
+Lentejas Casa Verde Listas para Comer 750 g,S/ 13.60,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,750.0,g,Lentejas Casa Verde Listas para Comer,13.6,wong,,,MENESTRAS SANCOCHADAS
+Maíz Chulpi Desgranado Kuski Bolsa 425 g,S/ 14.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,425.0,g,Maíz Chulpi Desgranado Kuski Bolsa,14.9,metro,,,MENESTRAS SANCOCHADAS
+Maíz Mote Sierra Exportadora Desgranado Bolsa 425 g,S/ 14.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Maíz Mote Sierra Exportadora Desgranado Bolsa,14.9,wong,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Vidandina Doypack 454 g,S/ 14.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Quinua Blanca Vidandina Doypack,14.9,metro,,,MENESTRAS SANCOCHADAS
+Frejoles Rojos Pequeños en Salsa Goya Lata 425g,S/ 15.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Frejoles Rojos Pequeños en Salsa Goya Lata,15.4,wong,,,MENESTRAS SANCOCHADAS
+Quinua Orgánica Ecoandino 200g,S/ 15.40,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,200.0,g,Quinua Orgánica Ecoandino,15.4,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Negros Goya Lata 439g,S/ 15.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,439.0,g,Frejoles Negros Goya Lata,15.5,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Pintos Goya Lata 439g,S/ 15.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,439.0,g,Frejoles Pintos Goya Lata,15.5,wong,,,MENESTRAS SANCOCHADAS
+Quinua tricolor Vida & Quinua Bolsa 454 g,S/ 15.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,454.0,g,Quinua tricolor Vida & Quinua Bolsa,15.5,wong,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Vidandina Doypack 454 g,S/ 15.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,454.0,g,Quinua Blanca Vidandina Doypack,15.5,wong,,,MENESTRAS SANCOCHADAS
+Frejoles Casa Verde Listos para Comer 750 g,S/ 15.70,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,750.0,g,Frejoles Casa Verde Listos para Comer,15.7,wong,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Orgánica Life de 500 g,S/ 15.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Quinua Blanca Orgánica Life de,15.9,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Pack de Menestras Tottus: 500 g de lentejas + 500 g de arvejas + 500 g de frijoles canarios,S/ 16.60,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,500.0,g,Pack de Menestras Tottus:  de lentejas +  de arvejas +  de frijoles canarios,16.6,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Sopa de Frejoles Negros Goya Lata 425g,S/ 17.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Sopa de Frejoles Negros Goya Lata,17.5,wong,,,MENESTRAS SANCOCHADAS
+Quinua de 1 kg,S/ 17.78,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,1.0,kg,Quinua de,17.78,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Quinua Tricolor Orgánica Vidaandina Bolsa 454 g,S/ 17.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Quinua Tricolor Orgánica Vidaandina Bolsa,17.9,metro,,,MENESTRAS SANCOCHADAS
+Chuño Blanco Kuski Bolsa 425 g,S/ 17.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,425.0,g,Chuño Blanco Kuski Bolsa,17.9,wong,,,MENESTRAS SANCOCHADAS
+Kiwicha Molida 400 g,S/ 18.30,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,400.0,g,Kiwicha Molida,18.3,tottus,,,MENESTRAS SANCOCHADAS
+Quinua Instantánea 400 g,S/ 18.30,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,400.0,g,Quinua Instantánea,18.3,tottus,,,MENESTRAS SANCOCHADAS
+Quinua Blanca Orgánica Vidandina Doypack 454 g,S/ 18.90,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Quinua Blanca Orgánica Vidandina Doypack,18.9,metro,,,MENESTRAS SANCOCHADAS
+Quinua Tricolor Orgánica América Orgánica 340g,S/ 19.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,340.0,g,Quinua Tricolor Orgánica América Orgánica,19.9,wong,,,MENESTRAS SANCOCHADAS
+Verduras para Menestrón Wong Bandeja 700gr,S/ 20.00,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,700.0,g,Verduras para Menestrón Wong Bandeja r,20.0,wong,,,MENESTRAS SANCOCHADAS
+Quinua Blanca en Granos América Orgánica 340g,S/ 20.90,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,340.0,g,Quinua Blanca en Granos América Orgánica,20.9,wong,,,MENESTRAS SANCOCHADAS
+Arroz Extra 5 kg,S/ 21.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Extra,21.5,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Sancochado Punta de Pecho Nacional x kg,S/ 21.90 x kg,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,1.0,kg,Sancochado Punta de Pecho Nacional,21.9,metro,,,MENESTRAS SANCOCHADAS
+Arroz Superior 5 kg,S/ 21.96,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Superior,21.96,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Sancochado de Osobuco Nacional x kg,S/ 22.50 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Sancochado de Osobuco Nacional,22.5,wong,,,MENESTRAS SANCOCHADAS
+Arroz Integral 5 kg,S/ 24.46,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Integral,24.46,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Arroz Superior Costeño 5 kg,S/ 24.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Superior Costeño,24.5,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Arroz Superior Faraón de 5 Kg,S/ 24.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Superior Faraón de,24.9,tottus,,FARAON,MENESTRAS SANCOCHADAS
+Sancochado Punta de Pecho x kg,S/ 24.90 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Sancochado Punta de Pecho,24.9,wong,,,MENESTRAS SANCOCHADAS
+Sancochado Punta de Pecho Nacional x kg,S/ 24.90 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Sancochado Punta de Pecho Nacional,24.9,wong,,,MENESTRAS SANCOCHADAS
+Costillar Parrillero Wong Premium x kg,S/ 24.90 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Costillar Parrillero Wong Premium,24.9,wong,,,MENESTRAS SANCOCHADAS
+Sancochado de Pescuezo x kg,S/ 25.90 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Sancochado de Pescuezo,25.9,wong,,,MENESTRAS SANCOCHADAS
+Sancochado de Osobuco Nacional Porcionado x kg,S/ 25.90 x kg,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,1.0,kg,Sancochado de Osobuco Nacional Porcionado,25.9,wong,,,MENESTRAS SANCOCHADAS
+Pasta De Legumbres Tricolor Macarron x 250 g,S/ 26.90,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,250.0,g,Pasta De Legumbres Tricolor Macarron x,26.9,tottus,,EL DORADO,MENESTRAS SANCOCHADAS
+Arroz Extra Costeño 5 kg,S/ 27.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Extra Costeño,27.5,tottus,,COSTENO,MENESTRAS SANCOCHADAS
+Arroz Gourmet Extra Añejo Gran Chalán de 5 Kg,S/ 27.50,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,5.0,kg,Arroz Gourmet Extra Añejo Gran Chalán de,27.5,tottus,,GRAN CHALAN,MENESTRAS SANCOCHADAS
+Arroz superior de 10 kg,S/ 41.71,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,10.0,kg,Arroz superior de,41.71,tottus,,TOTTUS,MENESTRAS SANCOCHADAS
+Magro de Cerdo Cocido Tulip 454g,S/ 42.50,wong,MENESTRAS SANCOCHADAS,2024-12-04 20:37:41.020017,454.0,g,Magro de Cerdo Cocido Tulip,42.5,wong,,,MENESTRAS SANCOCHADAS
+Magro de Cerdo Cocido Tulip 454g,S/ 42.50,metro,MENESTRAS SANCOCHADAS,2024-12-04 22:14:56.016352,454.0,g,Magro de Cerdo Cocido Tulip,42.5,metro,,,MENESTRAS SANCOCHADAS
+Arroz Extra de 10 kg,S/ 44.05,tottus,MENESTRAS SANCOCHADAS,2024-12-04 13:55:48.521734,10.0,kg,Arroz Extra de,44.05,tottus,,TOTTUS,MENESTRAS SANCOCHADAS

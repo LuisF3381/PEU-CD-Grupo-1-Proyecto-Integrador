@@ -1,33 +1,33 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pack Suiza: Hot Dog 400g + Hot Dog 200g,S/ 12.90,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,12.9
-Hot Dog Zimmermann Paquete 250 g,S/ 7.74,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,7.74
-Hot Dog de Pavita San Fernando paquete 250 g,S/ 7.30,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,7.3
-Hot Dog Braedt Paquete 400 g,S/ 10.90,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,10.9
-Hot Dog de Cerdo Wong 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,5.9
-Pack x3 Hot Dog Braedt 200g,S/ 11.90,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,11.9
-Hot Dog de Pavo Braedt Balance 250g,S/ 8.91,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,8.91
-Hot Dog de Pollo Ahumado San Fernando 220g,S/ 5.70,wong,HOT DOG,2024-12-04 18:51:05.068415,220.0,g,5.7
-Hot Dog de Pollo Braedt Paquete 500 g,S/ 12.90,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,12.9
-Hot Dog Pelado Suiza 200g,S/ 6.50,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,6.5
-Hot Dog Suiza 400g,S/ 10.50,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,10.5
-Hot Dog de Pavo Braedt Balance Paquete 500 g,S/ 19.50,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,19.5
-Pack Hot Dog San Fernando 220g + 440g,S/ 16.90,wong,HOT DOG,2024-12-04 18:51:05.068415,220.0,g,16.9
-Hot Dog de Pollo Wong 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,5.9
-Hot Dog de Cerdo San Fernando 200g,S/ 5.80,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,5.8
-Hot Dog de Cerdo San Fernando 400g,S/ 10.80,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,10.8
-Hot Dog Ahumado Suiza 1kg,S/ 23.30,wong,HOT DOG,2024-12-04 18:51:05.068415,1.0,kg,23.3
-Hot Dog de Pollo Cuisine & Co 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,5.9
-Hot Dog de Cerdo Cuisine & Co 500g,S/ 11.20,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,11.2
-Hot Dog de Pollo Braedt 250g,S/ 8.30,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,8.3
-Hot Dog de Cerdo Cuisine & Co 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,5.9
-Hot Dog Vienesa Salchichería Alemana 250g,S/ 8.50,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,8.5
-Hot Dog de Pollo 250 g,S/ 9.80,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,9.8
-Hot Dog con Pollo Suiza 200g,S/ 5.80,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,5.8
-Hot Dog de Pollo Salchichería Alemana 250g,S/ 7.50,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,7.5
-Hot Dog Braedt 200g,S/ 6.40,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,6.4
-Pan para Hot Dog Bimbo Bolsa 8 unid,S/ 11.50,wong,HOT DOG,2024-12-04 18:51:05.068415,8.0,un,11.5
-Pan para Hot Dog 5un,S/ 2.50,wong,HOT DOG,2024-12-04 18:51:05.068415,5.0,un,2.5
-Pan para Hot Dog Cuisine & Co 8un,S/ 6.90,wong,HOT DOG,2024-12-04 18:51:05.068415,8.0,un,6.9
-Pan Hot Dog Wong Bolsa 6 Unid,S/ 5.49,wong,HOT DOG,2024-12-04 18:51:05.068415,6.0,un,5.49
-Enrolladito de Hot Dog Il Pastificio 20un,S/ 24.90,wong,HOT DOG,2024-12-04 18:51:05.068415,20.0,un,24.9
-Combo: 4 Enrollados Hot Dog + Gaseosa Botella 1.5L,S/ 18.90,wong,HOT DOG,2024-12-04 18:51:05.068415,1.5,l,18.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pack Suiza: Hot Dog 400g + Hot Dog 200g,S/ 12.90,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,Pack Suiza: Hot Dog  + Hot Dog,12.9
+Hot Dog Zimmermann Paquete 250 g,S/ 7.74,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog Zimmermann Paquete,7.74
+Hot Dog de Pavita San Fernando paquete 250 g,S/ 7.30,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pavita San Fernando paquete,7.3
+Hot Dog Braedt Paquete 400 g,S/ 10.90,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,Hot Dog Braedt Paquete,10.9
+Hot Dog de Cerdo Wong 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Cerdo Wong,5.9
+Pack x3 Hot Dog Braedt 200g,S/ 11.90,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,Pack x3 Hot Dog Braedt,11.9
+Hot Dog de Pavo Braedt Balance 250g,S/ 8.91,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pavo Braedt Balance,8.91
+Hot Dog de Pollo Ahumado San Fernando 220g,S/ 5.70,wong,HOT DOG,2024-12-04 18:51:05.068415,220.0,g,Hot Dog de Pollo Ahumado San Fernando,5.7
+Hot Dog de Pollo Braedt Paquete 500 g,S/ 12.90,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,Hot Dog de Pollo Braedt Paquete,12.9
+Hot Dog Pelado Suiza 200g,S/ 6.50,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,Hot Dog Pelado Suiza,6.5
+Hot Dog Suiza 400g,S/ 10.50,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,Hot Dog Suiza,10.5
+Hot Dog de Pavo Braedt Balance Paquete 500 g,S/ 19.50,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,Hot Dog de Pavo Braedt Balance Paquete,19.5
+Pack Hot Dog San Fernando 220g + 440g,S/ 16.90,wong,HOT DOG,2024-12-04 18:51:05.068415,220.0,g,Pack Hot Dog San Fernando  +,16.9
+Hot Dog de Pollo Wong 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pollo Wong,5.9
+Hot Dog de Cerdo San Fernando 200g,S/ 5.80,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,Hot Dog de Cerdo San Fernando,5.8
+Hot Dog de Cerdo San Fernando 400g,S/ 10.80,wong,HOT DOG,2024-12-04 18:51:05.068415,400.0,g,Hot Dog de Cerdo San Fernando,10.8
+Hot Dog Ahumado Suiza 1kg,S/ 23.30,wong,HOT DOG,2024-12-04 18:51:05.068415,1.0,kg,Hot Dog Ahumado Suiza,23.3
+Hot Dog de Pollo Cuisine & Co 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pollo Cuisine & Co,5.9
+Hot Dog de Cerdo Cuisine & Co 500g,S/ 11.20,wong,HOT DOG,2024-12-04 18:51:05.068415,500.0,g,Hot Dog de Cerdo Cuisine & Co,11.2
+Hot Dog de Pollo Braedt 250g,S/ 8.30,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pollo Braedt,8.3
+Hot Dog de Cerdo Cuisine & Co 250g,S/ 5.90,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Cerdo Cuisine & Co,5.9
+Hot Dog Vienesa Salchichería Alemana 250g,S/ 8.50,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog Vienesa Salchichería Alemana,8.5
+Hot Dog de Pollo 250 g,S/ 9.80,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pollo,9.8
+Hot Dog con Pollo Suiza 200g,S/ 5.80,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,Hot Dog con Pollo Suiza,5.8
+Hot Dog de Pollo Salchichería Alemana 250g,S/ 7.50,wong,HOT DOG,2024-12-04 18:51:05.068415,250.0,g,Hot Dog de Pollo Salchichería Alemana,7.5
+Hot Dog Braedt 200g,S/ 6.40,wong,HOT DOG,2024-12-04 18:51:05.068415,200.0,g,Hot Dog Braedt,6.4
+Pan para Hot Dog Bimbo Bolsa 8 unid,S/ 11.50,wong,HOT DOG,2024-12-04 18:51:05.068415,8.0,un,Pan para Hot Dog Bimbo Bolsa,11.5
+Pan para Hot Dog 5un,S/ 2.50,wong,HOT DOG,2024-12-04 18:51:05.068415,5.0,un,Pan para Hot Dog,2.5
+Pan para Hot Dog Cuisine & Co 8un,S/ 6.90,wong,HOT DOG,2024-12-04 18:51:05.068415,8.0,un,Pan para Hot Dog Cuisine & Co,6.9
+Pan Hot Dog Wong Bolsa 6 Unid,S/ 5.49,wong,HOT DOG,2024-12-04 18:51:05.068415,6.0,un,Pan Hot Dog Wong Bolsa,5.49
+Enrolladito de Hot Dog Il Pastificio 20un,S/ 24.90,wong,HOT DOG,2024-12-04 18:51:05.068415,20.0,un,Enrolladito de Hot Dog Il Pastificio,24.9
+Combo: 4 Enrollados Hot Dog + Gaseosa Botella 1.5L,S/ 18.90,wong,HOT DOG,2024-12-04 18:51:05.068415,1.5,l,Combo: 4 Enrollados Hot Dog + Gaseosa Botella,18.9

@@ -1,94 +1,94 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Presentación 0.3 kg aprox.,Pimiento Morrón,S/ 6.29 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.3,kg,6.29
-Presentación 0.25 kg aprox.,Ajo Entero,S/ 14.99 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.25,kg,14.99
-Presentación 0.25 kg aprox.,Ají Amarillo x kg,S/ 5.49 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.25,kg,5.49
-Botella 500ml,Sillao AJI-NO-SILLAO Botella 500ml,S/ 4.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,500.0,ml,4.7
-Doypack 250g,Ají Panca Molido SIBARITA Panquita Doypack 250...,S/ 8.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.4
-Sobre 18g,Pimienta BELL'S Negra molida Sobre 18Gr,S/ 2.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,2.5
-Envase 250g,Ají de la Casa FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Doypack 400g,Crema ALACENA Tarí Base de Ají Doypack 400g,S/ 13.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,400.0,g,13.5
-Bandeja 250g,Ajos Pelados EL SABOR Arequipeños Bandeja 250g,S/ 9.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,9.99
-Bolsa 6un,Pimienta Molida SIBARITA Sobre 21.6g Bolsa 6un,S/ 4.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,6.0,un,4.1
-Caja 100un,Anís MC COLIN'S Caja 100un,S/ 12.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,un,12.4
-Envase 250g,Crema de Ajo FERYMAR Envase 250g,S/ 12.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,12.9
-Bolsa 250g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 6.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,6.1
-Presentación 0.3 kg aprox.,Pimiento Verde,S/ 7.99 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.3,kg,7.99
-Caja 20un,Infusión Anís BELL'S Caja 20un,S/ 3.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,20.0,un,3.2
-Bolsa 100g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,2.9
-Doypack 550g,Ají Amarillo Molido SIBARITA Amarillin Doypack...,S/ 18.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,550.0,g,18.1
-Caja 25un,Anís MC COLIN'S Caja 25un,S/ 4.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,25.0,un,4.2
-Doypack 120g,Ajo Molido PIKI Doypack 120g,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,2.9
-Frasco 56.7g,Pimienta BADIA Negra molida Frasco 56.7Gr,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,9.9
-Frasco 40g,Pimienta KARIÑO Negra molida Frasco 40Gr,S/ 6.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,6.99
-Frasco 85g,Ajo BADIA en Polvo Frasco 85g,S/ 12.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,85.0,g,12.9
-Caja 100un,Anís BELL'S Caja 100un,S/ 11.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,un,11.5
-Doypack 350g,Ajo Molido PIKI Doypack 350g,S/ 12.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,12.1
-Bolsa 500g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 11.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,500.0,g,11.1
-Caja 25un,Anís HORNIMANS Caja 25un,S/ 3.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,25.0,un,3.9
-Sobre 15g,Pimienta BELL'S Negra entera Sobre 15Gr,S/ 2.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,2.5
-Paquete 3un,Condimento SIBARITA Ají especial Paquete 3Un S...,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,3.0,un,3.6
-Paquete 100g,Salsa de Ají SIBARITA Amarillin Paquete 100g,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,3.6
-Frasco 250g,Aderezo BELL'S Con ají panca molido y especias...,S/ 5.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,5.9
-Bolsa 96g,Mezcla para apanar AJI-NO-MIX Apanado Bolsa 96...,S/ 3 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,96.0,g,3.0
-Frasco 280ml,Salsa de Soya AJI-NO-SILLAO Frasco 280ml,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,280.0,ml,3.6
-Frasco 250g,Ají Amarillo en Pasta TRESA Frasco 205g,S/ 5.49 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,5.49
-Doypack 350g,Salsa PIKI Ají amarillo molido Doypack 350g,S/ 8.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,8.69
-Doypack 1kg,Ajo Molido PIKI Doypack 1Kg,S/ 25.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,25.2
-Bandeja 250g,Ajo Entero BELL'S Pelado Bandeja 250g,S/ 14.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,14.99
-Bolsa 100g,Ají especial SIBARITA Sin picante Bolsa 100Gr,S/ 2.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,2.4
-Sobre 18g,Pimentón Molido TOÑA Paprika Sobre 18g,S/ 3.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,3.2
-Doypack 120g,Ají amarillo PIKI Molido Doypack 120g,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,2.9
-Frasco 40g,Ajo KARIÑO Molido Frasco 40Gr,S/ 8.30 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,8.3
-Doypack 120g,Ají panca PIKI Molido Doypack 120Gr,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,2.9
-Envase 250g,Ají Panca FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Doypack 250g,Ají SIBARITA Salsa de ají sin picante Doypack ...,S/ 11.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,11.4
-Doypack 100g,Ají Amarillo Molido RICASA Doypack 100g,S/ 2.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,2.2
-Doypack 300g,Aceituna Verde con Pimiento BELL'S Doypack 300...,S/ 6.79 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,300.0,g,6.79
-Frasco 35g,Pimentón KARIÑO Paprika Frasco 35Gr,S/ 7.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,35.0,g,7.7
-Bolsa 50g,Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 5...,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,50.0,g,3.6
-Botella 150ml,Sillao AJI-NO-SILLAO Botella 150ml,S/ 2.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,150.0,ml,2.4
-Paquete 1un,Anís Atado,S/ 1.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,un,1.99
-Sobre 10g,Pimienta SIBARITA Sobre 10g,S/ 1.39 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,10.0,g,1.39
-Bolsa 65g,"Palitos de Ajonjolí UNIÓN Chia, Kión y Ajo Bol...",S/ 3.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,65.0,g,3.69
-Doypack 350g,Salsa PIKI Ají panca molido Doypack 350g,S/ 8.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,8.69
-Sobre 3un,Salsa SIBARITA Salsa de ají Paquete 3Un sobre ...,S/ 5.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,3.0,un,5.5
-Bandeja 200g,Ajos Picados BELL'S Bandeja 200g,S/ 15.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,200.0,g,15.99
-Sobre 18g,Pimienta TOÑA Negra molida Sobre 18Gr,S/ 3.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,3.7
-Paquete 1un,Ají de Pollo,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,un,9.9
-Envase 250g,Ají Parrillero FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Doypack 550g,Ajo Molido SIBARITA Ajo Siba Doypack 550g,S/ 31.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,550.0,g,31.9
-Botella 350ml,Salsa de Soya KIKKO Mensi con Ajo Botella 350m...,S/ 8.29 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,ml,8.29
-Bandeja 100g,Ají Panca Seco BELL'S Bandeja 100g,S/ 8.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,8.5
-Frasco 40g,Pimienta SIBARITA Negra molida Frasco 40Gr,S/ 10.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,10.69
-Doypack 100g,Ají Panca Molido RICASA Doypack 100g,S/ 2.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,2.2
-Doypack 400g,Ají Criollo BELL'S Doypack 400g,S/ 7.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,400.0,g,7.2
-Envase 250g,Ají Mirasol FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Envase 250g,Ají Limo FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Frasco 240g,Ají Amarillo BELL'S Frasco 240g,S/ 4.29 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,4.29
-Frasco 250g,Ají Panca en Pasta TRESA Frasco 205g,S/ 6.89 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,6.89
-Sobre 18g,Anís KARIÑO Sobre 18g,S/ 3.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,3.1
-Sobre 15g,Pimentón BELL'S Molido Sobre 15Gr,S/ 1.59 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,1.59
-Doypack 1kg,Ají Panca Molido PIKI Doypack 1Kg,S/ 21.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,21.99
-Envase 250g,Ají Especial FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,8.7
-Bandeja 100g,Ají Marisol Seco BELL'S Bandeja 100g,S/ 7.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,7.99
-Pote 56.7g,Pimienta Entera BADIA Molinillo Pote 56.7g,S/ 14.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,14.1
-Bolsa 240g,Aceitunas Verdes EL OLIVAR con Pimiento Bolsa ...,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,9.9
-Sobre 15g,Pimienta Blanca Molida BELL'S Sobre 15g,S/ 3.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,3.1
-Doypack 200g,Ají WALIBI Criollo Doypack 200Gr,S/ 7.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,200.0,g,7.6
-Botella 750ml,Anís NAJAR Semi Dulce Especial Botella 750ml,S/ 36.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,36.9
-Doypack 380g,Ají Criollo LIBBY´S Doypack 380g,S/ 13.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,380.0,g,13.9
-Sobre 15g,Ají panca BELL'S Molido Sobre 15Gr,S/ 1.59 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,1.59
-Botella 60ml,Salsa TABASCO Picante con ajíes rojos Botella ...,S/ 16.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,60.0,ml,16.2
-Doypack 75g,Ají Pollero CASA VERDE Doypack 75g,S/ 4.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,75.0,g,4.7
-Frasco 56.7g,Pimentón BADIA en Polvo Frasco 56.7g,S/ 9.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,9.5
-Sobre 24g,Sazonador SIBARITA Ajos Sobre 24g,S/ 1.79 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,24.0,g,1.79
-Botella 750ml,Anís NAJAR Seco Especial Botella 750ml,S/ 36.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,36.9
-Frasco 49.6g,Pimienta BADIA Roja cayenne Frasco 49.60g,S/ 9.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,49.6,g,9.4
-Frasco 127.6g,Sal BADIA Ajo Frasco 127.60Gr,S/ 9.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,127.6,g,9.4
-Doypack 1kg,Ají Amarillo Molido PIKI Doypack 1Kg,S/ 21.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,21.99
-Botella 750ml,Anís NAJAR Crema Especial Botella 750ml,S/ 41.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,41.9
-Frasco 198.4g,Pimienta Negra BADIA en Polvo Frasco 198.4g,S/ 29.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,198.4,g,29.9
-Frasco 240g,Dip de Hummus con Ajo CASA VERDE Frasco 240g,S/ 11.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,11.9
-Doypack 150g,Galleta de Arroz COSTEÑO Pimienta Doypack 150g,S/ 6.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,150.0,g,6.9
-Sobre 60g,Pimienta 4 ESTACIONES Negra molida Sobre 60Gr,S/ 7.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,60.0,g,7.5
-Sobre 15g,Pimentón KARIÑO Paprika Sobre 15Gr,S/ 4.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,4.2
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 0.3 kg aprox.,Pimiento Morrón,S/ 6.29 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.3,kg,Pimiento Morrón,6.29
+Presentación 0.25 kg aprox.,Ajo Entero,S/ 14.99 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.25,kg,Ajo Entero,14.99
+Presentación 0.25 kg aprox.,Ají Amarillo x kg,S/ 5.49 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.25,kg,Ají Amarillo,5.49
+Botella 500ml,Sillao AJI-NO-SILLAO Botella 500ml,S/ 4.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,500.0,ml,Sillao AJI-NO-SILLAO Botella,4.7
+Doypack 250g,Ají Panca Molido SIBARITA Panquita Doypack 250...,S/ 8.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Panca Molido SIBARITA Panquita Doypack 250,8.4
+Sobre 18g,Pimienta BELL'S Negra molida Sobre 18Gr,S/ 2.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,Pimienta BELL'S Negra molida Sobre r,2.5
+Envase 250g,Ají de la Casa FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají de la Casa FERYMAR Envase,8.7
+Doypack 400g,Crema ALACENA Tarí Base de Ají Doypack 400g,S/ 13.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,400.0,g,Crema ALACENA Tarí Base de Ají Doypack,13.5
+Bandeja 250g,Ajos Pelados EL SABOR Arequipeños Bandeja 250g,S/ 9.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ajos Pelados EL SABOR Arequipeños Bandeja,9.99
+Bolsa 6un,Pimienta Molida SIBARITA Sobre 21.6g Bolsa 6un,S/ 4.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,6.0,un,Pimienta Molida SIBARITA Sobre  Bolsa,4.1
+Caja 100un,Anís MC COLIN'S Caja 100un,S/ 12.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,un,Anís MC COLIN'S Caja,12.4
+Envase 250g,Crema de Ajo FERYMAR Envase 250g,S/ 12.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Crema de Ajo FERYMAR Envase,12.9
+Bolsa 250g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 6.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,6.1
+Presentación 0.3 kg aprox.,Pimiento Verde,S/ 7.99 x kg,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,0.3,kg,Pimiento Verde,7.99
+Caja 20un,Infusión Anís BELL'S Caja 20un,S/ 3.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,20.0,un,Infusión Anís BELL'S Caja,3.2
+Bolsa 100g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,2.9
+Doypack 550g,Ají Amarillo Molido SIBARITA Amarillin Doypack...,S/ 18.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,550.0,g,Ají Amarillo Molido SIBARITA Amarillin Doypack,18.1
+Caja 25un,Anís MC COLIN'S Caja 25un,S/ 4.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,25.0,un,Anís MC COLIN'S Caja,4.2
+Doypack 120g,Ajo Molido PIKI Doypack 120g,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,Ajo Molido PIKI Doypack,2.9
+Frasco 56.7g,Pimienta BADIA Negra molida Frasco 56.7Gr,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,Pimienta BADIA Negra molida Frasco r,9.9
+Frasco 40g,Pimienta KARIÑO Negra molida Frasco 40Gr,S/ 6.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,Pimienta KARIÑO Negra molida Frasco r,6.99
+Frasco 85g,Ajo BADIA en Polvo Frasco 85g,S/ 12.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,85.0,g,Ajo BADIA en Polvo Frasco,12.9
+Caja 100un,Anís BELL'S Caja 100un,S/ 11.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,un,Anís BELL'S Caja,11.5
+Doypack 350g,Ajo Molido PIKI Doypack 350g,S/ 12.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,Ajo Molido PIKI Doypack,12.1
+Bolsa 500g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio...,S/ 11.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,500.0,g,Sazonador AJI-NO-MOTO Umami Glutamato de Sodio,11.1
+Caja 25un,Anís HORNIMANS Caja 25un,S/ 3.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,25.0,un,Anís HORNIMANS Caja,3.9
+Sobre 15g,Pimienta BELL'S Negra entera Sobre 15Gr,S/ 2.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,Pimienta BELL'S Negra entera Sobre r,2.5
+Paquete 3un,Condimento SIBARITA Ají especial Paquete 3Un S...,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,3.0,un,Condimento SIBARITA Ají especial Paquete  S,3.6
+Paquete 100g,Salsa de Ají SIBARITA Amarillin Paquete 100g,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Salsa de Ají SIBARITA Amarillin Paquete,3.6
+Frasco 250g,Aderezo BELL'S Con ají panca molido y especias...,S/ 5.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Aderezo BELL'S Con ají panca molido y especias,5.9
+Bolsa 96g,Mezcla para apanar AJI-NO-MIX Apanado Bolsa 96...,S/ 3 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,96.0,g,Mezcla para apanar AJI-NO-MIX Apanado Bolsa 96,3.0
+Frasco 280ml,Salsa de Soya AJI-NO-SILLAO Frasco 280ml,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,280.0,ml,Salsa de Soya AJI-NO-SILLAO Frasco,3.6
+Frasco 250g,Ají Amarillo en Pasta TRESA Frasco 205g,S/ 5.49 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Amarillo en Pasta TRESA Frasco,5.49
+Doypack 350g,Salsa PIKI Ají amarillo molido Doypack 350g,S/ 8.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,Salsa PIKI Ají amarillo molido Doypack,8.69
+Doypack 1kg,Ajo Molido PIKI Doypack 1Kg,S/ 25.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,Ajo Molido PIKI Doypack,25.2
+Bandeja 250g,Ajo Entero BELL'S Pelado Bandeja 250g,S/ 14.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ajo Entero BELL'S Pelado Bandeja,14.99
+Bolsa 100g,Ají especial SIBARITA Sin picante Bolsa 100Gr,S/ 2.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Ají especial SIBARITA Sin picante Bolsa r,2.4
+Sobre 18g,Pimentón Molido TOÑA Paprika Sobre 18g,S/ 3.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,Pimentón Molido TOÑA Paprika Sobre,3.2
+Doypack 120g,Ají amarillo PIKI Molido Doypack 120g,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,Ají amarillo PIKI Molido Doypack,2.9
+Frasco 40g,Ajo KARIÑO Molido Frasco 40Gr,S/ 8.30 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,Ajo KARIÑO Molido Frasco r,8.3
+Doypack 120g,Ají panca PIKI Molido Doypack 120Gr,S/ 2.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,120.0,g,Ají panca PIKI Molido Doypack r,2.9
+Envase 250g,Ají Panca FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Panca FERYMAR Envase,8.7
+Doypack 250g,Ají SIBARITA Salsa de ají sin picante Doypack ...,S/ 11.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají SIBARITA Salsa de ají sin picante Doypack,11.4
+Doypack 100g,Ají Amarillo Molido RICASA Doypack 100g,S/ 2.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Ají Amarillo Molido RICASA Doypack,2.2
+Doypack 300g,Aceituna Verde con Pimiento BELL'S Doypack 300...,S/ 6.79 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,300.0,g,Aceituna Verde con Pimiento BELL'S Doypack 300,6.79
+Frasco 35g,Pimentón KARIÑO Paprika Frasco 35Gr,S/ 7.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,35.0,g,Pimentón KARIÑO Paprika Frasco r,7.7
+Bolsa 50g,Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 5...,S/ 3.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,50.0,g,Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 5,3.6
+Botella 150ml,Sillao AJI-NO-SILLAO Botella 150ml,S/ 2.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,150.0,ml,Sillao AJI-NO-SILLAO Botella,2.4
+Paquete 1un,Anís Atado,S/ 1.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,un,Anís Atado,1.99
+Sobre 10g,Pimienta SIBARITA Sobre 10g,S/ 1.39 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,10.0,g,Pimienta SIBARITA Sobre,1.39
+Bolsa 65g,"Palitos de Ajonjolí UNIÓN Chia, Kión y Ajo Bol...",S/ 3.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,65.0,g,"Palitos de Ajonjolí UNIÓN Chia, Kión y Ajo Bol",3.69
+Doypack 350g,Salsa PIKI Ají panca molido Doypack 350g,S/ 8.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,g,Salsa PIKI Ají panca molido Doypack,8.69
+Sobre 3un,Salsa SIBARITA Salsa de ají Paquete 3Un sobre ...,S/ 5.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,3.0,un,Salsa SIBARITA Salsa de ají Paquete  sobre,5.5
+Bandeja 200g,Ajos Picados BELL'S Bandeja 200g,S/ 15.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,200.0,g,Ajos Picados BELL'S Bandeja,15.99
+Sobre 18g,Pimienta TOÑA Negra molida Sobre 18Gr,S/ 3.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,Pimienta TOÑA Negra molida Sobre r,3.7
+Paquete 1un,Ají de Pollo,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,un,Ají de Pollo,9.9
+Envase 250g,Ají Parrillero FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Parrillero FERYMAR Envase,8.7
+Doypack 550g,Ajo Molido SIBARITA Ajo Siba Doypack 550g,S/ 31.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,550.0,g,Ajo Molido SIBARITA Ajo Siba Doypack,31.9
+Botella 350ml,Salsa de Soya KIKKO Mensi con Ajo Botella 350m...,S/ 8.29 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,350.0,ml,Salsa de Soya KIKKO Mensi con Ajo Botella 350m,8.29
+Bandeja 100g,Ají Panca Seco BELL'S Bandeja 100g,S/ 8.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Ají Panca Seco BELL'S Bandeja,8.5
+Frasco 40g,Pimienta SIBARITA Negra molida Frasco 40Gr,S/ 10.69 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,40.0,g,Pimienta SIBARITA Negra molida Frasco r,10.69
+Doypack 100g,Ají Panca Molido RICASA Doypack 100g,S/ 2.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Ají Panca Molido RICASA Doypack,2.2
+Doypack 400g,Ají Criollo BELL'S Doypack 400g,S/ 7.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,400.0,g,Ají Criollo BELL'S Doypack,7.2
+Envase 250g,Ají Mirasol FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Mirasol FERYMAR Envase,8.7
+Envase 250g,Ají Limo FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Limo FERYMAR Envase,8.7
+Frasco 240g,Ají Amarillo BELL'S Frasco 240g,S/ 4.29 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,Ají Amarillo BELL'S Frasco,4.29
+Frasco 250g,Ají Panca en Pasta TRESA Frasco 205g,S/ 6.89 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Panca en Pasta TRESA Frasco,6.89
+Sobre 18g,Anís KARIÑO Sobre 18g,S/ 3.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,18.0,g,Anís KARIÑO Sobre,3.1
+Sobre 15g,Pimentón BELL'S Molido Sobre 15Gr,S/ 1.59 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,Pimentón BELL'S Molido Sobre r,1.59
+Doypack 1kg,Ají Panca Molido PIKI Doypack 1Kg,S/ 21.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,Ají Panca Molido PIKI Doypack,21.99
+Envase 250g,Ají Especial FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,250.0,g,Ají Especial FERYMAR Envase,8.7
+Bandeja 100g,Ají Marisol Seco BELL'S Bandeja 100g,S/ 7.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,100.0,g,Ají Marisol Seco BELL'S Bandeja,7.99
+Pote 56.7g,Pimienta Entera BADIA Molinillo Pote 56.7g,S/ 14.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,Pimienta Entera BADIA Molinillo Pote,14.1
+Bolsa 240g,Aceitunas Verdes EL OLIVAR con Pimiento Bolsa ...,S/ 9.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,Aceitunas Verdes EL OLIVAR con Pimiento Bolsa,9.9
+Sobre 15g,Pimienta Blanca Molida BELL'S Sobre 15g,S/ 3.10 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,Pimienta Blanca Molida BELL'S Sobre,3.1
+Doypack 200g,Ají WALIBI Criollo Doypack 200Gr,S/ 7.60 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,200.0,g,Ají WALIBI Criollo Doypack r,7.6
+Botella 750ml,Anís NAJAR Semi Dulce Especial Botella 750ml,S/ 36.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,Anís NAJAR Semi Dulce Especial Botella,36.9
+Doypack 380g,Ají Criollo LIBBY´S Doypack 380g,S/ 13.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,380.0,g,Ají Criollo LIBBY´S Doypack,13.9
+Sobre 15g,Ají panca BELL'S Molido Sobre 15Gr,S/ 1.59 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,Ají panca BELL'S Molido Sobre r,1.59
+Botella 60ml,Salsa TABASCO Picante con ajíes rojos Botella ...,S/ 16.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,60.0,ml,Salsa TABASCO Picante con ajíes rojos Botella,16.2
+Doypack 75g,Ají Pollero CASA VERDE Doypack 75g,S/ 4.70 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,75.0,g,Ají Pollero CASA VERDE Doypack,4.7
+Frasco 56.7g,Pimentón BADIA en Polvo Frasco 56.7g,S/ 9.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,56.7,g,Pimentón BADIA en Polvo Frasco,9.5
+Sobre 24g,Sazonador SIBARITA Ajos Sobre 24g,S/ 1.79 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,24.0,g,Sazonador SIBARITA Ajos Sobre,1.79
+Botella 750ml,Anís NAJAR Seco Especial Botella 750ml,S/ 36.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,Anís NAJAR Seco Especial Botella,36.9
+Frasco 49.6g,Pimienta BADIA Roja cayenne Frasco 49.60g,S/ 9.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,49.6,g,Pimienta BADIA Roja cayenne Frasco,9.4
+Frasco 127.6g,Sal BADIA Ajo Frasco 127.60Gr,S/ 9.40 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,127.6,g,Sal BADIA Ajo Frasco r,9.4
+Doypack 1kg,Ají Amarillo Molido PIKI Doypack 1Kg,S/ 21.99 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,1.0,kg,Ají Amarillo Molido PIKI Doypack,21.99
+Botella 750ml,Anís NAJAR Crema Especial Botella 750ml,S/ 41.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,750.0,ml,Anís NAJAR Crema Especial Botella,41.9
+Frasco 198.4g,Pimienta Negra BADIA en Polvo Frasco 198.4g,S/ 29.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,198.4,g,Pimienta Negra BADIA en Polvo Frasco,29.9
+Frasco 240g,Dip de Hummus con Ajo CASA VERDE Frasco 240g,S/ 11.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,240.0,g,Dip de Hummus con Ajo CASA VERDE Frasco,11.9
+Doypack 150g,Galleta de Arroz COSTEÑO Pimienta Doypack 150g,S/ 6.90 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,150.0,g,Galleta de Arroz COSTEÑO Pimienta Doypack,6.9
+Sobre 60g,Pimienta 4 ESTACIONES Negra molida Sobre 60Gr,S/ 7.50 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,60.0,g,Pimienta 4 ESTACIONES Negra molida Sobre r,7.5
+Sobre 15g,Pimentón KARIÑO Paprika Sobre 15Gr,S/ 4.20 un,plaza_vea,AJÍ PIMIENTO,2024-12-04 14:04:33.354931,15.0,g,Pimentón KARIÑO Paprika Sobre r,4.2

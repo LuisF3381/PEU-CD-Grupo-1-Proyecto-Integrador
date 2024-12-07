@@ -1,4 +1,4 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Vega,Chocolate para Taza TIMONEL Bolsa 90g Caja 50u,S/ 52.00 26%,vega,PASAS,2024-12-04 14:04:15.087515,90.0,g,52.0
-Vega,Maní con Pasas VEGA Bolsa 200gr,S/ 5.50,vega,PASAS,2024-12-04 14:04:15.087515,200.0,g,5.5
-INKA CHIPS,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,S/ 7.80,vega,PASAS,2024-12-04 14:04:15.087515,125.0,g,7.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Vega,Chocolate para Taza TIMONEL Bolsa 90g Caja 50u,S/ 52.00 26%,vega,PASAS,2024-12-04 14:04:15.087515,90.0,g,Chocolate para Taza TIMONEL Bolsa  Caja 50u,52.0
+Vega,Maní con Pasas VEGA Bolsa 200gr,S/ 5.50,vega,PASAS,2024-12-04 14:04:15.087515,200.0,g,Maní con Pasas VEGA Bolsa r,5.5
+INKA CHIPS,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,S/ 7.80,vega,PASAS,2024-12-04 14:04:15.087515,125.0,g,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa r,7.8

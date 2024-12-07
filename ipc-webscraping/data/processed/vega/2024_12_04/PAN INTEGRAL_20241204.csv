@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-San Jorge,Galleta CRACKNEL SAN JORGE Paquete 175gr,S/ 2.80,vega,PAN INTEGRAL,2024-12-04 13:10:12.209452,175.0,g,2.8
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+San Jorge,Galleta CRACKNEL SAN JORGE Paquete 175gr,S/ 2.80,vega,PAN INTEGRAL,2024-12-04 13:10:12.209452,175.0,g,Galleta CRACKNEL SAN JORGE Paquete r,2.8

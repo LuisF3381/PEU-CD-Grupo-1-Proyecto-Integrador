@@ -47,7 +47,7 @@ def eliminar_duplicados(df):
             # Verificar si son de webs diferentes
             if df_procesado.iloc[i]['WEB'] != df_procesado.iloc[j]['WEB']:
                 # Verificar similitud de descripción
-                if es_similar(df_procesado.iloc[i]['description'], df_procesado.iloc[j]['description']):
+                if es_similar(df_procesado.iloc[i]['description_no_unit'], df_procesado.iloc[j]['description_no_unit']):
                     # Marcar la fila con precio más alto para eliminación
                     indices_a_eliminar.append(j)
     
@@ -110,7 +110,7 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
             print(f"Guardado {ruta_archivo} con {len(df_sin_duplicados)} filas")
 
 # Uso del script
-CURRENT_DATE = "2024_12_04"
+CURRENT_DATE = "2024_12_05"
 
 current_dir = os.path.dirname(__file__)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')

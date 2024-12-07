@@ -1,0 +1,83 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Filete de Bonito VEGA en Aceite Vegetal Lata 170gr,S/ 4.20,vega,BONITO,2024-12-05 12:11:15.218620,170.0,g,Filete de Bonito VEGA en Aceite Vegetal Lata r,4.2,vega,,Vega,BONITO
+Lomito de Bonito INCA MAR Lata 170gr,S/ 4.50,vega,BONITO,2024-12-05 12:11:15.218620,170.0,g,Lomito de Bonito INCA MAR Lata r,4.5,vega,,Inca Mar,BONITO
+Filete de Bonito en Aceite Campomar 150g,S/ 4.90,wong,BONITO,2024-12-05 18:06:32.009234,150.0,g,Filete de Bonito en Aceite Campomar,4.9,wong,,,BONITO
+Filete de Bonito en Aceite Campomar 150g,S/ 4.90,metro,BONITO,2024-12-05 15:36:22.630144,150.0,g,Filete de Bonito en Aceite Campomar,4.9,metro,,,BONITO
+Filete De Bonito Atún Aceite Vegetal 170Gr,S/ 4.90,tottus,BONITO,2024-12-05 11:37:14.413148,170.0,g,Filete De Bonito Atún Aceite Vegetal r,4.9,tottus,,FRESCOMAR,BONITO
+Filete De Bonito Aceite Vegetal 150 g,S/ 5.10,tottus,BONITO,2024-12-05 11:37:14.413148,150.0,g,Filete De Bonito Aceite Vegetal,5.1,tottus,,CAMPOMAR,BONITO
+Bonito Entero Congelado x kg,S/ 5.90 x kg,metro,BONITO,2024-12-05 15:36:22.630144,1.0,kg,Bonito Entero Congelado,5.9,metro,,,BONITO
+Bonito Entero x kg,S/ 6.90 x kg,metro,BONITO,2024-12-05 15:36:22.630144,1.0,kg,Bonito Entero,6.9,metro,,,BONITO
+Pescado Bonito Entero Fresco,S/ 7.50 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,3.0,kg,Pescado Bonito Entero Fresco,7.5,plaza_vea,Presentación 3 kg aprox.,,BONITO
+Bonito Entero Congelado x kg,S/ 7.50 x kg,wong,BONITO,2024-12-05 18:06:32.009234,1.0,kg,Bonito Entero Congelado,7.5,wong,,,BONITO
+Pescado Bonito Entero PESCANOVA PV,S/ 7.50 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Pescado Bonito Entero PESCANOVA PV,7.5,plaza_vea,Presentación 1 kg aprox.,,BONITO
+Bonito Entero x kg,S/ 7.90 x kg,wong,BONITO,2024-12-05 18:06:32.009234,1.0,kg,Bonito Entero,7.9,wong,,,BONITO
+Porciones de Bonito Congelado Bolsa 500 g,S/ 9.50,metro,BONITO,2024-12-05 15:36:22.630144,500.0,g,Porciones de Bonito Congelado Bolsa,9.5,metro,,,BONITO
+Pulpa de Langostino AZUL MARINO Bolsa 200g,S/ 9.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,200.0,g,Pulpa de Langostino AZUL MARINO Bolsa,9.9,plaza_vea,Bolsa 200g,,BONITO
+Croquetas Langostino Ajillo HIBERO 240g Bolsa ...,S/ 9.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,240.0,g,Croquetas Langostino Ajillo HIBERO  Bolsa,9.9,plaza_vea,Bolsa 240g,,BONITO
+Porciones de Bonito con Piel PESCANOVA Bolsa 5...,S/ 10.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Porciones de Bonito con Piel PESCANOVA Bolsa 5,10.5,plaza_vea,Bolsa 500g,,BONITO
+Porciones de Bonito con Piel PESCANOVA Bolsa 500g,S/ 10.80,vivanda,BONITO,2024-12-05 21:47:03.016216,500.0,g,Porciones de Bonito con Piel PESCANOVA Bolsa,10.8,vivanda,,PESCANOVA,BONITO
+Mejillones ALIPOFRESCO Paquete 300g,S/ 10.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Mejillones ALIPOFRESCO Paquete,10.9,plaza_vea,Paquete 300g,,BONITO
+Mix Seafood con Pulpo HIBERO Bolsa 340g,S/ 11.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,340.0,g,Mix Seafood con Pulpo HIBERO Bolsa,11.9,plaza_vea,Bolsa 340g,,BONITO
+Smooth Cat Bonito 60 g,S/ 13.90,tottus,BONITO,2024-12-05 11:37:14.413148,60.0,g,Smooth Cat Bonito,13.9,tottus,,GNAWLERS,BONITO
+Tilapia Entera AQUA PERU Refrigerada xKg,S/ 13.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Tilapia Entera AQUA PERU Refrigerada,13.9,plaza_vea,Presentación 1 kg aprox.,,BONITO
+Palitos de Merluza PESCANOVA Bolsa 300g,S/ 14.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Palitos de Merluza PESCANOVA Bolsa,14.9,plaza_vea,Bolsa 300g,,BONITO
+Perico en Porciones PESCANOVA Congelado Bolsa ...,S/ 14.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Perico en Porciones PESCANOVA Congelado Bolsa,14.9,plaza_vea,Bolsa 300g,,BONITO
+Anillas de Calamar Rebozadas PESCANOVA Bolsa 5...,S/ 15.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Anillas de Calamar Rebozadas PESCANOVA Bolsa 5,15.5,plaza_vea,Bolsa 500g,,BONITO
+Filete de Basa BELL'S Bolsa 1Kg,S/ 15.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Filete de Basa BELL'S Bolsa,15.9,plaza_vea,Bolsa 1Kg,,BONITO
+Filete de Pez Roca SEAFROST Bolsa 450g,S/ 16.20 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,450.0,g,Filete de Pez Roca SEAFROST Bolsa,16.2,plaza_vea,Bolsa 450g,,BONITO
+Trozos de Bonito Ahumado NATURAL FISH Caja 170g,S/ 16.90,vivanda,BONITO,2024-12-05 21:47:03.016216,170.0,g,Trozos de Bonito Ahumado NATURAL FISH Caja,16.9,vivanda,,NATURAL FISH,BONITO
+Trozos de Bonito Ahumado NATURAL FISH Caja 170...,S/ 16.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,170.0,g,Trozos de Bonito Ahumado NATURAL FISH Caja 170,16.9,plaza_vea,Caja 170g,,BONITO
+Desmenuzado de Bonito en Aceitunas Verdes NATURAL FISH Lata 170g,S/ 17.00,vivanda,BONITO,2024-12-05 21:47:03.016216,170.0,g,Desmenuzado de Bonito en Aceitunas Verdes NATURAL FISH Lata,17.0,vivanda,,NATURAL FISH,BONITO
+Trozos de Bonito Ahumados Natural Fish 170g,S/ 17.40,metro,BONITO,2024-12-05 15:36:22.630144,170.0,g,Trozos de Bonito Ahumados Natural Fish,17.4,metro,,,BONITO
+Trozos de Bonito Ahumados Natural Fish 170g,S/ 17.40,wong,BONITO,2024-12-05 18:06:32.009234,170.0,g,Trozos de Bonito Ahumados Natural Fish,17.4,wong,,,BONITO
+Anillas de Calamar Empanizadas PESCANOVA Bolsa...,S/ 17.49 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Anillas de Calamar Empanizadas PESCANOVA Bolsa,17.49,plaza_vea,Bolsa 500g,,BONITO
+Filete Empanizado Alaska Pollock PESCATORE Bol...,S/ 17.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Filete Empanizado Alaska Pollock PESCATORE Bol,17.5,plaza_vea,Bolsa 500g,,BONITO
+Desmenuzado de Bonito Ahumado en Aceitunas Verdes Natural Fish 170g,S/ 17.50,wong,BONITO,2024-12-05 18:06:32.009234,170.0,g,Desmenuzado de Bonito Ahumado en Aceitunas Verdes Natural Fish,17.5,wong,,,BONITO
+Desmenuzado de Bonito Ahumado en Aceitunas Verdes Natural Fish 170g,S/ 17.50,metro,BONITO,2024-12-05 15:36:22.630144,170.0,g,Desmenuzado de Bonito Ahumado en Aceitunas Verdes Natural Fish,17.5,metro,,,BONITO
+Filete de Swai Importado EASY,S/ 17.99 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.3,kg,Filete de Swai Importado EASY,17.99,plaza_vea,Presentación 0.3 kg aprox.,,BONITO
+Porciones de Bonito con Piel Pescanova Bolsa 1 kg,S/ 18.50,metro,BONITO,2024-12-05 15:36:22.630144,1.0,kg,Porciones de Bonito con Piel Pescanova Bolsa,18.5,metro,,,BONITO
+Peskitos de Merluza PESCANOVA Bolsa 300g,S/ 18.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Peskitos de Merluza PESCANOVA Bolsa,18.5,plaza_vea,Bolsa 300g,,BONITO
+Medallones de Tollo Azul UMI FOODS Bolsa 500g,S/ 18.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Medallones de Tollo Azul UMI FOODS Bolsa,18.5,plaza_vea,Bolsa 500g,,BONITO
+Trucha Eviscerada,S/ 18.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.4,kg,Trucha Eviscerada,18.9,plaza_vea,Presentación 0.4 kg aprox.,,BONITO
+Trucha Eviscerada Congelada,S/ 18.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.4,kg,Trucha Eviscerada Congelada,18.9,plaza_vea,Presentación 0.4 kg aprox.,,BONITO
+Langostinos Crudos AZUL MARINO Bolsa 300g,S/ 19.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Langostinos Crudos AZUL MARINO Bolsa,19.9,plaza_vea,Bolsa 300g,,BONITO
+Conchas de Abanico AZUL MARINO Media Valva Bol...,S/ 19.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,6.0,un,Conchas de Abanico AZUL MARINO Media Valva Bol,19.9,plaza_vea,Bolsa 6un,,BONITO
+Mixtura de Mariscos BELL'S Bolsa 500g,S/ 19.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Mixtura de Mariscos BELL'S Bolsa,19.9,plaza_vea,Bolsa 500g,,BONITO
+Nuggets de Tilapia SANTA PRISCILA Bolsa 454g,S/ 19.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,454.0,g,Nuggets de Tilapia SANTA PRISCILA Bolsa,19.9,plaza_vea,Bolsa 454g,,BONITO
+Filete de Tilapia BELL'S Bolsa 1Kg,S/ 20.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Filete de Tilapia BELL'S Bolsa,20.9,plaza_vea,Bolsa 1Kg,,BONITO
+Carpaccio de Salmón SOUTH WIND Bolsa 100g,S/ 22.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,100.0,g,Carpaccio de Salmón SOUTH WIND Bolsa,22.5,plaza_vea,Bolsa 100g,,BONITO
+Mixtura de Mariscos AZUL MARINO Premium Bolsa ...,S/ 22.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Mixtura de Mariscos AZUL MARINO Premium Bolsa,22.9,plaza_vea,Bolsa 500g,,BONITO
+Crujiente de Langostino y Patata EASY Bandeja ...,S/ 22.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,240.0,g,Crujiente de Langostino y Patata EASY Bandeja,22.9,plaza_vea,Bandeja 240g,,BONITO
+Langostino Crudo Pelado PESCANOVA Bolsa 300g,S/ 22.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Langostino Crudo Pelado PESCANOVA Bolsa,22.9,plaza_vea,Bolsa 300g,,BONITO
+Porciones de Bonito con Piel Pescanova Bolsa 1 kg,S/ 23.90,wong,BONITO,2024-12-05 18:06:32.009234,1.0,kg,Porciones de Bonito con Piel Pescanova Bolsa,23.9,wong,,,BONITO
+Combinado de Mariscos FERRER Paella Mix Bandej...,S/ 23.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Combinado de Mariscos FERRER Paella Mix Bandej,23.9,plaza_vea,Bandeja 500g,,BONITO
+Langostinos Precocidos BELL'S Bolsa 300g,S/ 24.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Langostinos Precocidos BELL'S Bolsa,24.5,plaza_vea,Bolsa 300g,,BONITO
+Filete de Bonito VEGA en Aceite Vegetal Lata 170gr Pack 6u,S/ 24.60,vega,BONITO,2024-12-05 12:11:15.218620,170.0,g,Filete de Bonito VEGA en Aceite Vegetal Lata r Pack 6u,24.6,vega,,Vega,BONITO
+Porciones de Atún BELL'S Bolsa 400g,S/ 24.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,400.0,g,Porciones de Atún BELL'S Bolsa,24.9,plaza_vea,Bolsa 400g,,BONITO
+Tiras de Pota Empanizada Picante ODISSEA Paque...,S/ 24.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Tiras de Pota Empanizada Picante ODISSEA Paque,24.9,plaza_vea,Bolsa 500g,,BONITO
+Filete de Tilapia Importado,S/ 25.50 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.3,kg,Filete de Tilapia Importado,25.5,plaza_vea,Presentación 0.3 kg aprox.,,BONITO
+Porciones de Perico BELL'S Bolsa 500g,S/ 25.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Porciones de Perico BELL'S Bolsa,25.5,plaza_vea,Bolsa 500g,,BONITO
+Langostinos Precocidos con Panko UMI FOODS Bol...,S/ 25.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,283.0,g,Langostinos Precocidos con Panko UMI FOODS Bol,25.9,plaza_vea,Bolsa 283g,,BONITO
+Langostinos Precocidos AZUL MARINO Bolsa 300g,S/ 29.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,300.0,g,Langostinos Precocidos AZUL MARINO Bolsa,29.9,plaza_vea,Bolsa 300g,,BONITO
+Langostino Apanado SANTA PRISCILA Bolsa 454g,S/ 29.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,454.0,g,Langostino Apanado SANTA PRISCILA Bolsa,29.9,plaza_vea,Bolsa 454g,,BONITO
+Langostinos Pelado y Desvenado Grandes SANTA P...,S/ 29.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,454.0,g,Langostinos Pelado y Desvenado Grandes SANTA P,29.9,plaza_vea,Bolsa 454g,,BONITO
+Filete de Trucha BELL'S Congelado con Piel Bol...,S/ 29.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Filete de Trucha BELL'S Congelado con Piel Bol,29.9,plaza_vea,Bolsa 500g,,BONITO
+Trucha Congelada Entera Deshuesada,S/ 34.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.2,kg,Trucha Congelada Entera Deshuesada,34.9,plaza_vea,Presentación 0.2 kg aprox.,,BONITO
+Pulpa de Cangrejo BELL'S Bolsa 200g,S/ 34.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,200.0,g,Pulpa de Cangrejo BELL'S Bolsa,34.9,plaza_vea,Bolsa 200g,,BONITO
+Trucha Ahumada MAR ANDINO Bolsa 250g,S/ 34.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,250.0,g,Trucha Ahumada MAR ANDINO Bolsa,34.9,plaza_vea,Bolsa 250g,,BONITO
+Filete de Salmón PESCATORE x Kg,S/ 35.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Filete de Salmón PESCATORE,35.9,plaza_vea,Presentación 1 kg aprox.,,BONITO
+Bacalao Desmigado FERRER Congelado 500g,S/ 35.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Bacalao Desmigado FERRER Congelado,35.9,plaza_vea,Bandeja 500g,,BONITO
+Porciones de Perico A-1 Bolsa 500g,S/ 38.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Porciones de Perico A-1 Bolsa,38.9,plaza_vea,Bolsa 500g,,BONITO
+Trozos De Salmón AQUA Bolsa 500g,S/ 42.10 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Trozos De Salmón AQUA Bolsa,42.1,plaza_vea,Bolsa 500g,,BONITO
+Langostinos Medianos,S/ 45.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.1,kg,Langostinos Medianos,45.9,plaza_vea,Presentación 0.1 kg aprox.,,BONITO
+Langostino Pelado y Desvenado Jumbo SANTA PRIS...,S/ 45.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,454.0,g,Langostino Pelado y Desvenado Jumbo SANTA PRIS,45.9,plaza_vea,Bolsa 454g,,BONITO
+Lomos de Bacalao EASY Congelado 375g,S/ 48.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,un,Lomos de Bacalao EASY Congelado,48.5,plaza_vea,Bolsa 1un,,BONITO
+Filete de Trucha Fresco,S/ 49.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.25,kg,Filete de Trucha Fresco,49.9,plaza_vea,Presentación 0.25 kg aprox.,,BONITO
+Porciones Salmón UMI Bolsa 500g,S/ 49.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,500.0,g,Porciones Salmón UMI Bolsa,49.9,plaza_vea,Bolsa 500g,,BONITO
+Atun Porciones Congelado,S/ 54.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.15,kg,Atun Porciones Congelado,54.9,plaza_vea,Presentación 0.15 kg aprox.,,BONITO
+Filete de Salmón VADIMAR Empaque 5Kg,S/ 59.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,kg,Filete de Salmón VADIMAR Empaque,59.9,plaza_vea,Presentación 1 kg aprox.,,BONITO
+Pulpo Cocido Limpio EL REY DEL PULPO x un,S/ 64.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.0,un,Pulpo Cocido Limpio EL REY DEL PULPO,64.9,plaza_vea,Bandeja 1un,,BONITO
+Atún Medallones DOLORES Premium Bolsa 680g,S/ 68.50 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,680.0,g,Atún Medallones DOLORES Premium Bolsa,68.5,plaza_vea,Bolsa 680g,,BONITO
+Filete de Salmón Fresco,S/ 69.90 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,0.3,kg,Filete de Salmón Fresco,69.9,plaza_vea,Presentación 0.3 kg aprox.,,BONITO
+Filete de Salmón Congelado,S/ 75.50 x kg,plaza_vea,BONITO,2024-12-05 14:54:45.715645,1.3,kg,Filete de Salmón Congelado,75.5,plaza_vea,Presentación 1.3 kg aprox.,,BONITO
+Cola de Langostino EASY Congelada Paquete 280g,S/ 89.90 un,plaza_vea,BONITO,2024-12-05 14:54:45.715645,350.0,g,Cola de Langostino EASY Congelada Paquete,89.9,plaza_vea,Caja 350g,,BONITO

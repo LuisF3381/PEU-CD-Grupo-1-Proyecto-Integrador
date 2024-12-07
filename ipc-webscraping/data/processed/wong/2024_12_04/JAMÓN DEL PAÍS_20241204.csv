@@ -1,13 +1,13 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Jamón del País Gourmet Otto Kunz x kg,S/ 89.00 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,89.0
-Jamón del País Zimmermann x kg,S/ 61.12 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,61.12
-Jamón del País Casa Europa 150g,S/ 12.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,12.5
-Jamón del País Zimmermann Paquete 200 g,S/ 15.92,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,200.0,g,15.92
-Jamón del País Wong 150g,S/ 12.10,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,12.1
-Jamón del País Oregon Foods 150g,S/ 11.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,11.5
-Jamón del País Braedt 200g,S/ 18.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,200.0,g,18.5
-Jamón del País Otto Kunz 150g,S/ 14.60,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,14.6
-Jamón del País Suiza 180g,S/ 15.80,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,180.0,g,15.8
-Jamón del País San Fernando x kg,S/ 56.50 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,56.5
-Jamón del País Oregon Foods x kg,S/ 71.90 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,71.9
-Jamón del País Suiza x kg,S/ 73.50 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,73.5
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Jamón del País Gourmet Otto Kunz x kg,S/ 89.00 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,Jamón del País Gourmet Otto Kunz,89.0
+Jamón del País Zimmermann x kg,S/ 61.12 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,Jamón del País Zimmermann,61.12
+Jamón del País Casa Europa 150g,S/ 12.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,Jamón del País Casa Europa,12.5
+Jamón del País Zimmermann Paquete 200 g,S/ 15.92,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,200.0,g,Jamón del País Zimmermann Paquete,15.92
+Jamón del País Wong 150g,S/ 12.10,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,Jamón del País Wong,12.1
+Jamón del País Oregon Foods 150g,S/ 11.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,Jamón del País Oregon Foods,11.5
+Jamón del País Braedt 200g,S/ 18.50,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,200.0,g,Jamón del País Braedt,18.5
+Jamón del País Otto Kunz 150g,S/ 14.60,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,150.0,g,Jamón del País Otto Kunz,14.6
+Jamón del País Suiza 180g,S/ 15.80,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,180.0,g,Jamón del País Suiza,15.8
+Jamón del País San Fernando x kg,S/ 56.50 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,Jamón del País San Fernando,56.5
+Jamón del País Oregon Foods x kg,S/ 71.90 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,Jamón del País Oregon Foods,71.9
+Jamón del País Suiza x kg,S/ 73.50 x kg,wong,JAMÓN DEL PAÍS,2024-12-04 18:50:18.175494,1.0,kg,Jamón del País Suiza,73.5

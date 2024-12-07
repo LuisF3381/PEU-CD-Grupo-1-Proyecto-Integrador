@@ -1,8 +1,8 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Presentación 1 kg aprox.,Manzana Delicia,S/ 5.80 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,1.0,kg,5.8
-Presentación 0.5 kg aprox.,Pera Packhams Importada,S/ 6.20 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.5,kg,6.2
-Presentación 0.6 kg aprox.,Manzana Roja Importada,S/ 7.90 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,7.9
-Presentación 0.6 kg aprox.,Manzana Verde Importada,S/ 7.98 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,7.98
-Presentación 0.6 kg aprox.,Manzana Royal Gala Importada,S/ 7.90 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,7.9
-Presentación 0.2 kg aprox.,Manzana Nacional,S/ 7 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.2,kg,7.0
-Presentación 0.25 kg aprox.,Membrillo,S/ 13.20 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.25,kg,13.2
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1 kg aprox.,Manzana Delicia,S/ 5.80 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,1.0,kg,Manzana Delicia,5.8
+Presentación 0.5 kg aprox.,Pera Packhams Importada,S/ 6.20 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.5,kg,Pera Packhams Importada,6.2
+Presentación 0.6 kg aprox.,Manzana Roja Importada,S/ 7.90 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,Manzana Roja Importada,7.9
+Presentación 0.6 kg aprox.,Manzana Verde Importada,S/ 7.98 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,Manzana Verde Importada,7.98
+Presentación 0.6 kg aprox.,Manzana Royal Gala Importada,S/ 7.90 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.6,kg,Manzana Royal Gala Importada,7.9
+Presentación 0.2 kg aprox.,Manzana Nacional,S/ 7 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.2,kg,Manzana Nacional,7.0
+Presentación 0.25 kg aprox.,Membrillo,S/ 13.20 x kg,plaza_vea,MANZANA ISRAEL,2024-12-04 13:50:15.001564,0.25,kg,Membrillo,13.2

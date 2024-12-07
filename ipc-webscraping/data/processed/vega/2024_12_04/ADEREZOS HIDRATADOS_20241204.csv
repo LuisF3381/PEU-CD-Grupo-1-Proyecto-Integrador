@@ -1,21 +1,21 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Kariño,Canela Entera KARIÑO Sobre 3g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,3.0,g,0.9
-Kariño,Clavo de Olor Entero KARIÑO Sobre 4g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,0.7
-Vega,Orégano Vega Molido Sobre 11g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,11.0,g,0.9
-Kariño,Canela Molida KARIÑO Sobre 4g,S/ 0.80,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,0.8
-Vega,Tuco VEGA Sobre 18g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,18.0,g,0.9
-Vega,Hongos y Laurel VEGA Sobre 7g,S/ 1.20,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,7.0,g,1.2
-Kariño,Anís KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.7
-Piki,Salsa PIKI Ají Amarillo Molido Doypack 350Gr,S/ 9.50,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,350.0,g,9.5
-Kariño,Hongos con Laurel KARIÑO Sobre 5g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.9
-Kariño,Hongos Secos KARIÑO Sobre 5g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.9
-Vega,Palillo VEGA Molido Sobre 30g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,30.0,g,0.9
-Vega,Pimienta Negra VEGA Molida Sobre 85g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,85.0,g,0.9
-Kariño,Orégano Entero KARIÑO Sobre 4g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,0.7
-Vega,Comino Molido VEGA Pote 45gr,S/ 6.50,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,45.0,g,6.5
-Piki,Ají Molido PIKI Doypack 120g,S/ 3.20,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,120.0,g,3.2
-Vega,Orégano VEGA Entero Sobre 7g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,7.0,g,0.9
-Kariño,Comino Molido KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.7
-Kariño,Laurel KARIÑO Sobre 1g,S/ 0.60,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,1.0,g,0.6
-Kariño,Pimienta Negra Molida KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.7
-Kariño,Paprika Molido KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,0.7
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Kariño,Canela Entera KARIÑO Sobre 3g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,3.0,g,Canela Entera KARIÑO Sobre,0.9
+Kariño,Clavo de Olor Entero KARIÑO Sobre 4g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,Clavo de Olor Entero KARIÑO Sobre,0.7
+Vega,Orégano Vega Molido Sobre 11g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,11.0,g,Orégano Vega Molido Sobre,0.9
+Kariño,Canela Molida KARIÑO Sobre 4g,S/ 0.80,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,Canela Molida KARIÑO Sobre,0.8
+Vega,Tuco VEGA Sobre 18g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,18.0,g,Tuco VEGA Sobre,0.9
+Vega,Hongos y Laurel VEGA Sobre 7g,S/ 1.20,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,7.0,g,Hongos y Laurel VEGA Sobre,1.2
+Kariño,Anís KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Anís KARIÑO Sobre,0.7
+Piki,Salsa PIKI Ají Amarillo Molido Doypack 350Gr,S/ 9.50,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,350.0,g,Salsa PIKI Ají Amarillo Molido Doypack r,9.5
+Kariño,Hongos con Laurel KARIÑO Sobre 5g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Hongos con Laurel KARIÑO Sobre,0.9
+Kariño,Hongos Secos KARIÑO Sobre 5g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Hongos Secos KARIÑO Sobre,0.9
+Vega,Palillo VEGA Molido Sobre 30g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,30.0,g,Palillo VEGA Molido Sobre,0.9
+Vega,Pimienta Negra VEGA Molida Sobre 85g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,85.0,g,Pimienta Negra VEGA Molida Sobre,0.9
+Kariño,Orégano Entero KARIÑO Sobre 4g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,4.0,g,Orégano Entero KARIÑO Sobre,0.7
+Vega,Comino Molido VEGA Pote 45gr,S/ 6.50,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,45.0,g,Comino Molido VEGA Pote r,6.5
+Piki,Ají Molido PIKI Doypack 120g,S/ 3.20,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,120.0,g,Ají Molido PIKI Doypack,3.2
+Vega,Orégano VEGA Entero Sobre 7g,S/ 0.90,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,7.0,g,Orégano VEGA Entero Sobre,0.9
+Kariño,Comino Molido KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Comino Molido KARIÑO Sobre,0.7
+Kariño,Laurel KARIÑO Sobre 1g,S/ 0.60,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,1.0,g,Laurel KARIÑO Sobre,0.6
+Kariño,Pimienta Negra Molida KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Pimienta Negra Molida KARIÑO Sobre,0.7
+Kariño,Paprika Molido KARIÑO Sobre 5g,S/ 0.70,vega,ADEREZOS HIDRATADOS,2024-12-04 14:37:20.589576,5.0,g,Paprika Molido KARIÑO Sobre,0.7

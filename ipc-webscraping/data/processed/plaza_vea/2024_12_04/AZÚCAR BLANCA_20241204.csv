@@ -1,7 +1,7 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 1kg,Azúcar Blanca BELL'S Bolsa 1Kg,S/ 4.99 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,1.0,kg,4.99
-Bolsa 2kg,Azúcar Blanca BELL'S Bolsa 2Kg,S/ 9.80 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,2.0,kg,9.8
-Bolsa 5kg,Azúcar Blanca BELL'S Bolsa 5Kg,S/ 23.90 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,5.0,kg,23.9
-Bolsa 1Kg,Azúcar Blanca DULFINA Bolsa 1Kg,S/ 5.50 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,1.0,kg,5.5
-Bolsa 5Kg,Azúcar Blanca DULFINA Bolsa 5Kg,S/ 25.90 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,5.0,kg,25.9
-Bolsa 2Kg,Azúcar Blanca DULFINA Bolsa 2Kg,S/ 10.70 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,2.0,kg,10.7
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 1kg,Azúcar Blanca BELL'S Bolsa 1Kg,S/ 4.99 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,1.0,kg,Azúcar Blanca BELL'S Bolsa,4.99
+Bolsa 2kg,Azúcar Blanca BELL'S Bolsa 2Kg,S/ 9.80 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,2.0,kg,Azúcar Blanca BELL'S Bolsa,9.8
+Bolsa 5kg,Azúcar Blanca BELL'S Bolsa 5Kg,S/ 23.90 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,5.0,kg,Azúcar Blanca BELL'S Bolsa,23.9
+Bolsa 1Kg,Azúcar Blanca DULFINA Bolsa 1Kg,S/ 5.50 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,1.0,kg,Azúcar Blanca DULFINA Bolsa,5.5
+Bolsa 5Kg,Azúcar Blanca DULFINA Bolsa 5Kg,S/ 25.90 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,5.0,kg,Azúcar Blanca DULFINA Bolsa,25.9
+Bolsa 2Kg,Azúcar Blanca DULFINA Bolsa 2Kg,S/ 10.70 un,plaza_vea,AZÚCAR BLANCA,2024-12-04 14:18:21.615317,2.0,kg,Azúcar Blanca DULFINA Bolsa,10.7

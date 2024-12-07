@@ -1,4 +1,4 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Harina de Trigo NICOLINI Sin Preparar Bolsa 1Kg,NICOLINI,S/ 6.10,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,6.1
-Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,BELL'S,S/ 4.29,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,4.29
-Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa 1kg,MOLITALIA,S/ 6.30,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,6.3
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Harina de Trigo NICOLINI Sin Preparar Bolsa 1Kg,NICOLINI,S/ 6.10,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,Harina de Trigo NICOLINI Sin Preparar Bolsa,6.1
+Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,BELL'S,S/ 4.29,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,Harina de Trigo sin Preparar BELL'S Bolsa,4.29
+Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa 1kg,MOLITALIA,S/ 6.30,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa,6.3

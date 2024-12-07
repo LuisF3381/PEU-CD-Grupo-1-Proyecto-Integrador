@@ -1,23 +1,23 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 60g,Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,60.0,g,7.9
-Bolsa 80g,Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,80.0,g,11.9
-Bolsa 100g,Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 12.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,12.9
-Bolsa 380g,Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,380.0,g,14.2
-Táper 100g,Pecanas Peladas BELL'S Táper 100g,S/ 13.70 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,13.7
-Bolsa 180g,Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,21.9
-Caja 300g,Granola WASI ORGANICS Pecanas Caja 300g,S/ 17.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,300.0,g,17.9
-Táper 250g,Piqueo VILLA NATURA Pasas Maní Almendra Pecana...,S/ 12.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,250.0,g,12.9
-Bolsa 135g,Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,135.0,g,16.5
-Caja 100g,Bombones HELENA Peccanroll Bitter con Pecanas ...,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,17.5
-Bolsa 100g,Pecana Caramelizada VALLEALTO Bolsa 100g,S/ 14.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,14.9
-Bolsa 90g,Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,11.9
-Doypack 90g,Bolitas de Cereal TRUBALLS Pecanas y Naranja D...,S/ 8.80 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,8.8
-Caja 180g,Chocotejas de Pecana HELENA Caja 180g,S/ 33.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,33.5
-Caja 100g,Chocolate Milky LA IBÉRICA Pecanas y Pasas Caj...,S/ 20.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,20.2
-Paquete 150g,Queso Crema Gourmet DELICE con Pecanas Paquete...,S/ 16.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,150.0,g,16.9
-Paquete 50g,Chocolate en Barra LA IBÉRICA Milky Pecanas y ...,S/ 8.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,50.0,g,8.5
-Bolsa 350g,Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,350.0,g,39.9
-Paquete 100g,Tableta de Chocolate MILKY con Pecanas Paquete...,S/ 19.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,19.9
-Táper 250g,Piqueo VILLA NATURA Pasas Almendras Pecanas Nu...,S/ 15.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,250.0,g,15.9
-Envoltura 90g,Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,17.5
-Pote 100g,Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 13.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,13.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 60g,Pecana Pelada VILLA NATURA Bolsa 60g,S/ 7.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,60.0,g,Pecana Pelada VILLA NATURA Bolsa,7.9
+Bolsa 80g,Piqueo BELL'S Pecanas Peladas Bolsa 80g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,80.0,g,Piqueo BELL'S Pecanas Peladas Bolsa,11.9
+Bolsa 100g,Pecanas Peladas VILLA NATURA Bolsa 100g,S/ 12.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Pecanas Peladas VILLA NATURA Bolsa,12.9
+Bolsa 380g,Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,380.0,g,Cereal CROSOY Granola manzana pecana y canela,14.2
+Táper 100g,Pecanas Peladas BELL'S Táper 100g,S/ 13.70 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Pecanas Peladas BELL'S Táper,13.7
+Bolsa 180g,Pecanas Peladas VILLA NATURA Bolsa 180g,S/ 21.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,Pecanas Peladas VILLA NATURA Bolsa,21.9
+Caja 300g,Granola WASI ORGANICS Pecanas Caja 300g,S/ 17.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,300.0,g,Granola WASI ORGANICS Pecanas Caja,17.9
+Táper 250g,Piqueo VILLA NATURA Pasas Maní Almendra Pecana...,S/ 12.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,250.0,g,Piqueo VILLA NATURA Pasas Maní Almendra Pecana,12.9
+Bolsa 135g,Pecanas Peladas VALLE ALTO Bolsa 135g,S/ 16.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,135.0,g,Pecanas Peladas VALLE ALTO Bolsa,16.5
+Caja 100g,Bombones HELENA Peccanroll Bitter con Pecanas ...,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Bombones HELENA Peccanroll Bitter con Pecanas,17.5
+Bolsa 100g,Pecana Caramelizada VALLEALTO Bolsa 100g,S/ 14.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Pecana Caramelizada VALLEALTO Bolsa,14.9
+Bolsa 90g,Pecana Pelada VALLEALTO Bolsa 90g,S/ 11.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Pecana Pelada VALLEALTO Bolsa,11.9
+Doypack 90g,Bolitas de Cereal TRUBALLS Pecanas y Naranja D...,S/ 8.80 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Bolitas de Cereal TRUBALLS Pecanas y Naranja D,8.8
+Caja 180g,Chocotejas de Pecana HELENA Caja 180g,S/ 33.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,180.0,g,Chocotejas de Pecana HELENA Caja,33.5
+Caja 100g,Chocolate Milky LA IBÉRICA Pecanas y Pasas Caj...,S/ 20.20 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Chocolate Milky LA IBÉRICA Pecanas y Pasas Caj,20.2
+Paquete 150g,Queso Crema Gourmet DELICE con Pecanas Paquete...,S/ 16.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,150.0,g,Queso Crema Gourmet DELICE con Pecanas Paquete,16.9
+Paquete 50g,Chocolate en Barra LA IBÉRICA Milky Pecanas y ...,S/ 8.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,50.0,g,Chocolate en Barra LA IBÉRICA Milky Pecanas y,8.5
+Bolsa 350g,Pecanas Peladas VILLA NATURA Bolsa 350g,S/ 39.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,350.0,g,Pecanas Peladas VILLA NATURA Bolsa,39.9
+Paquete 100g,Tableta de Chocolate MILKY con Pecanas Paquete...,S/ 19.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Tableta de Chocolate MILKY con Pecanas Paquete,19.9
+Táper 250g,Piqueo VILLA NATURA Pasas Almendras Pecanas Nu...,S/ 15.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,250.0,g,Piqueo VILLA NATURA Pasas Almendras Pecanas Nu,15.9
+Envoltura 90g,Chocolate ORQUIDEA Con pecanas Envoltura 90g,S/ 17.50 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,90.0,g,Chocolate ORQUIDEA Con pecanas Envoltura,17.5
+Pote 100g,Piqueos VILLA NATURA Pecanas Peladas Pote 100g,S/ 13.90 un,plaza_vea,PECANAS,2024-12-04 14:01:00.634763,100.0,g,Piqueos VILLA NATURA Pecanas Peladas Pote,13.9

@@ -1,4 +1,4 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 300g,Palitos de Merluza PESCANOVA Bolsa 300g,S/ 14.90 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,300.0,g,14.9
-Bolsa 300g,Peskitos de Merluza PESCANOVA Bolsa 300g,S/ 18.50 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,300.0,g,18.5
-Caja 500g,Filete de Merluza Empanizada SEAFROST Caja 500...,S/ 18.90 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,500.0,g,18.9
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 300g,Palitos de Merluza PESCANOVA Bolsa 300g,S/ 14.90 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,300.0,g,Palitos de Merluza PESCANOVA Bolsa,14.9
+Bolsa 300g,Peskitos de Merluza PESCANOVA Bolsa 300g,S/ 18.50 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,300.0,g,Peskitos de Merluza PESCANOVA Bolsa,18.5
+Caja 500g,Filete de Merluza Empanizada SEAFROST Caja 500...,S/ 18.90 un,plaza_vea,MERLUZA,2024-12-04 13:28:59.277392,500.0,g,Filete de Merluza Empanizada SEAFROST Caja 500,18.9

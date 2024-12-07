@@ -1,4 +1,4 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-COSTENO,Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,4.4
-TOTTUS,Arveja Partida 500 g,S/ 4,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,4.0
-TESORO DEL CAMPO,Arveja Partida 500 g,S/ 4.20,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,4.2
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+COSTENO,Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,Arveja Partida Costeño,4.4
+TOTTUS,Arveja Partida 500 g,S/ 4,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,Arveja Partida,4.0
+TESORO DEL CAMPO,Arveja Partida 500 g,S/ 4.20,tottus,ARVEJA SECA PARTIDA,2024-12-04 13:41:54.550715,500.0,g,Arveja Partida,4.2

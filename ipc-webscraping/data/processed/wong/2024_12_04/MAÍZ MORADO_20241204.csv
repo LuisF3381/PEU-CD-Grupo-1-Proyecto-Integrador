@@ -1,11 +1,11 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Maíz Morado x kg,S/ 9.99 x kg,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,1.0,kg,9.99
-Maíz Morado Justo al Día 700g,S/ 13.40,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,700.0,g,13.4
-Maíz Morado Deshidratado Guva 1kg,S/ 18.50,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,1.0,kg,18.5
-Maíz Morado en Polvo Ecoandino Orgánico 200g,S/ 14.90,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,200.0,g,14.9
-Tortillas de Maíz Morado Mexi Nachos Bolsa 90 g,S/ 5.10,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,90.0,g,5.1
-Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 11.50,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,126.0,g,11.5
-Chips de Maíz Morado Orgánicos Wasi Bolsa 75 g,S/ 5.99,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,75.0,g,5.99
-Barra Energética Siete Dragones Aguaymanto & Maíz Morado 5un,S/ 20.40,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,5.0,un,20.4
-Chips de Maíz Morado Orgánicos Picante Wasi Bolsa 75 g,S/ 5.99,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,75.0,g,5.99
-Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella 340ml,S/ 9.89,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,340.0,ml,9.89
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Maíz Morado x kg,S/ 9.99 x kg,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,1.0,kg,Maíz Morado,9.99
+Maíz Morado Justo al Día 700g,S/ 13.40,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,700.0,g,Maíz Morado Justo al Día,13.4
+Maíz Morado Deshidratado Guva 1kg,S/ 18.50,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,1.0,kg,Maíz Morado Deshidratado Guva,18.5
+Maíz Morado en Polvo Ecoandino Orgánico 200g,S/ 14.90,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,200.0,g,Maíz Morado en Polvo Ecoandino Orgánico,14.9
+Tortillas de Maíz Morado Mexi Nachos Bolsa 90 g,S/ 5.10,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,90.0,g,Tortillas de Maíz Morado Mexi Nachos Bolsa,5.1
+Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 11.50,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,126.0,g,Galletas de Maíz Horneadas Salmas Maíz Morado,11.5
+Chips de Maíz Morado Orgánicos Wasi Bolsa 75 g,S/ 5.99,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,75.0,g,Chips de Maíz Morado Orgánicos Wasi Bolsa,5.99
+Barra Energética Siete Dragones Aguaymanto & Maíz Morado 5un,S/ 20.40,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,5.0,un,Barra Energética Siete Dragones Aguaymanto & Maíz Morado,20.4
+Chips de Maíz Morado Orgánicos Picante Wasi Bolsa 75 g,S/ 5.99,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,75.0,g,Chips de Maíz Morado Orgánicos Picante Wasi Bolsa,5.99
+Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella 340ml,S/ 9.89,wong,MAÍZ MORADO,2024-12-04 17:55:08.681566,340.0,ml,Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella,9.89

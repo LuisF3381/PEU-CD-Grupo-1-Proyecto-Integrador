@@ -1,3 +1,3 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Grated de Atún en Aceite Vegetal Florida 140g,S/ 4.60,metro,GRATED DE PESCADO EN CONSERVA,2024-12-04 21:12:21.115521,140.0,g,4.6
-Grated de Atún Campomar 160g,S/ 3.99,metro,GRATED DE PESCADO EN CONSERVA,2024-12-04 21:12:21.115521,160.0,g,3.99
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Grated de Atún en Aceite Vegetal Florida 140g,S/ 4.60,metro,GRATED DE PESCADO EN CONSERVA,2024-12-04 21:12:21.115521,140.0,g,Grated de Atún en Aceite Vegetal Florida,4.6
+Grated de Atún Campomar 160g,S/ 3.99,metro,GRATED DE PESCADO EN CONSERVA,2024-12-04 21:12:21.115521,160.0,g,Grated de Atún Campomar,3.99

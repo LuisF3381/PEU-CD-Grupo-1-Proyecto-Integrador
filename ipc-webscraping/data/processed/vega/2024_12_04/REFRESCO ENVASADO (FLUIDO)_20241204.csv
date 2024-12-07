@@ -1,14 +1,14 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Tampico,Refresco TAMPICO Granadilla Punch Paquete 12u Botella 500ml,S/ 18.00,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,500.0,ml,18.0
-Zuko,Refresco Instantáneo ZUKO de Maracuya Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,14.4
-Zuko,Refresco instantáneo ZUKO de Naranja Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,14.4
-Zuko,Refresco instantáneo ZUKO de Piña Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,14.4
-Universal,Gelatina UNIVERSAL Sabor a Fresa Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,3.5
-Universal,Gelatina UNIVERSAL Sabor a Naranja Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,3.5
-Universal,Gelatina UNIVERSAL Sabor a Piña Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,3.5
-Universal,Gelatina UNIVERSAL Sabor a Cereza Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,3.5
-Universal,Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,3.5
-Aconcagua,Durazno en Mitades ACONCAGUA Lata 822g,S/ 12.30,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,822.0,g,12.3
-Don Vittorio,Salsa Roja DON VITTORIO Doypack 200g,S/ 4.20,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,200.0,g,4.2
-Don Vittorio,Salsa Roja DON VITTORIO Doypack 400g,S/ 6.80,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,400.0,g,6.8
-Timonel,Jabón Líquido Antibacterial VCLEAN Fresco y Sensual con Glicerina Frasco 400ml,S/ 8.50,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,400.0,ml,8.5
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Tampico,Refresco TAMPICO Granadilla Punch Paquete 12u Botella 500ml,S/ 18.00,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,500.0,ml,Refresco TAMPICO Granadilla Punch Paquete 12u Botella,18.0
+Zuko,Refresco Instantáneo ZUKO de Maracuya Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,Refresco Instantáneo ZUKO de Maracuya Display 12u Sobre r,14.4
+Zuko,Refresco instantáneo ZUKO de Naranja Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,Refresco instantáneo ZUKO de Naranja Display 12u Sobre r,14.4
+Zuko,Refresco instantáneo ZUKO de Piña Display 12u Sobre 15gr,S/ 14.40,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,15.0,g,Refresco instantáneo ZUKO de Piña Display 12u Sobre r,14.4
+Universal,Gelatina UNIVERSAL Sabor a Fresa Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,Gelatina UNIVERSAL Sabor a Fresa Bolsa,3.5
+Universal,Gelatina UNIVERSAL Sabor a Naranja Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,Gelatina UNIVERSAL Sabor a Naranja Bolsa,3.5
+Universal,Gelatina UNIVERSAL Sabor a Piña Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,Gelatina UNIVERSAL Sabor a Piña Bolsa,3.5
+Universal,Gelatina UNIVERSAL Sabor a Cereza Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,Gelatina UNIVERSAL Sabor a Cereza Bolsa,3.5
+Universal,Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,S/ 3.50 8%,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,130.0,g,Gelatina UNIVERSAL Sabor a Limón Bolsa,3.5
+Aconcagua,Durazno en Mitades ACONCAGUA Lata 822g,S/ 12.30,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,822.0,g,Durazno en Mitades ACONCAGUA Lata,12.3
+Don Vittorio,Salsa Roja DON VITTORIO Doypack 200g,S/ 4.20,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,200.0,g,Salsa Roja DON VITTORIO Doypack,4.2
+Don Vittorio,Salsa Roja DON VITTORIO Doypack 400g,S/ 6.80,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,400.0,g,Salsa Roja DON VITTORIO Doypack,6.8
+Timonel,Jabón Líquido Antibacterial VCLEAN Fresco y Sensual con Glicerina Frasco 400ml,S/ 8.50,vega,REFRESCO ENVASADO (FLUIDO),2024-12-04 14:49:27.533699,400.0,ml,Jabón Líquido Antibacterial VCLEAN Fresco y Sensual con Glicerina Frasco,8.5

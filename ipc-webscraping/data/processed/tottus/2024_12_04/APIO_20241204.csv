@@ -1,2 +1,2 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-HORTUS,Semillas de Apio en sobre 0.5 gr,S/ 7.40,tottus,APIO,2024-12-04 13:35:26.431802,0.5,g,7.4
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+HORTUS,Semillas de Apio en sobre 0.5 gr,S/ 7.40,tottus,APIO,2024-12-04 13:35:26.431802,0.5,g,Semillas de Apio en sobre r,7.4

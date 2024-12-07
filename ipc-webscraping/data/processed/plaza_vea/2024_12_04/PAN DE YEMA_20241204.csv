@@ -1,2 +1,2 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Bolsa 6un,Pan de Yema LA FLORENCIA Bolsa 310g,S/ 4.20 un,plaza_vea,PAN DE YEMA,2024-12-04 12:59:30.377909,6.0,un,4.2
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 6un,Pan de Yema LA FLORENCIA Bolsa 310g,S/ 4.20 un,plaza_vea,PAN DE YEMA,2024-12-04 12:59:30.377909,6.0,un,Pan de Yema LA FLORENCIA Bolsa,4.2

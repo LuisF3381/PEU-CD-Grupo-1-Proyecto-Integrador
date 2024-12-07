@@ -1,7 +1,7 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Paquete 1un,Granadilla Oxapampa x unidad,S/ 0.90 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,1.0,un,0.9
-Botella 750ml,Jarabe de Goma BURGOS Granadilla Botella 750ml,S/ 17.90 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,750.0,ml,17.9
-Botella 3L,Citrus Granadilla TAMPICO Botella 3L,S/ 7 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,3.0,l,7.0
-Botella 3L,Refresco ARUBA Granadilla Punch Botella 3L,S/ 6.60 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,3.0,l,6.6
-Botella 475ml,Bebida Rehidratante ELECTROLIGHT Granadilla Bo...,S/ 2.10 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,475.0,ml,2.1
-Botella 500ml,Citrus Granadilla TAMPICO Botella 500ml,S/ 1.70 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,500.0,ml,1.7
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Paquete 1un,Granadilla Oxapampa x unidad,S/ 0.90 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,1.0,un,Granadilla Oxapampa ad,0.9
+Botella 750ml,Jarabe de Goma BURGOS Granadilla Botella 750ml,S/ 17.90 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,750.0,ml,Jarabe de Goma BURGOS Granadilla Botella,17.9
+Botella 3L,Citrus Granadilla TAMPICO Botella 3L,S/ 7 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,3.0,l,Citrus Granadilla TAMPICO Botella,7.0
+Botella 3L,Refresco ARUBA Granadilla Punch Botella 3L,S/ 6.60 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,3.0,l,Refresco ARUBA Granadilla Punch Botella,6.6
+Botella 475ml,Bebida Rehidratante ELECTROLIGHT Granadilla Bo...,S/ 2.10 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,475.0,ml,Bebida Rehidratante ELECTROLIGHT Granadilla Bo,2.1
+Botella 500ml,Citrus Granadilla TAMPICO Botella 500ml,S/ 1.70 un,plaza_vea,GRANADILLA,2024-12-04 13:55:06.066806,500.0,ml,Citrus Granadilla TAMPICO Botella,1.7

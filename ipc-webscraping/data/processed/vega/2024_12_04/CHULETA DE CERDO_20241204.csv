@@ -1,17 +1,17 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Thor,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa 25kg",S/ 110.90 5%,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,25.0,kg,110.9
-Thor,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa 2 kg",S/ 14.50,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,2.0,kg,14.5
-Globo Pop,Chupete GLOBO POP con Chicle Surtido Bolsa 24un,S/ 7.80,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,7.8
-Globo Pop,Chupetes GLOBO POP Neón Bolsa 24u 480g x 2u,S/ 15.00,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,15.0
-Globo Pop,Chupetes GLOBO POP Sabor Fresa Bolsa 24u 480g x 2u,S/ 15.60,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,15.6
-Globo Pop,Chupetes GLOBO POP Sabores Surtidos Bolsa 24u 480g x 2u,S/ 15.60,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,15.6
-Colombina,Chupetes COLOMBINETAS Choco Caramel Bolsa 24un,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,6.9
-Globo Pop,Chupete GLOBO POP Neon Bolsa 24un 18g,S/ 7.50,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,7.5
-Globo Pop,Chupete GLOBO POP con Chicle Sabor a Fresa Bolsa 24un,S/ 7.80,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,7.8
-Arcor,Caramelos MISKY Frutales Bolsa 275gr,S/ 4.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,275.0,g,4.9
-Arcor,Caramelos MISKY Chicha Morada 275g Bolsa 110un,S/ 4.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,275.0,g,4.9
-Ambrosoli,Caramelos AMBROSOLI Banderita Bolsa 80 un,S/ 4.20,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,80.0,un,4.2
-Colombina,Chupetin Bon Bon Bum sabor a Surtidos Bolsa 24 un,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,6.9
-Tampico,Bebida TAMPICO Cero Citrus Punch Botella 3L,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,3.0,l,6.9
-Ambrosoli,Caramelos AMBROSOLI Cocorokos Limón Bolsa 100 un,S/ 6.20,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,100.0,un,6.2
-Arcor,Caramelos ARCOR Menta y chocolate Bolsa 73 un,S/ 8.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,73.0,un,8.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Thor,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa 25kg",S/ 110.90 5%,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,25.0,kg,"Comida para Perros THOR Adulto Clásico Carne, Pollo, Cerdo Bolsa",110.9
+Thor,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa 2 kg",S/ 14.50,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,2.0,kg,"Comida para Perro THOR Adulto Sabor Carne, Pollo y Cerdo Bolsa",14.5
+Globo Pop,Chupete GLOBO POP con Chicle Surtido Bolsa 24un,S/ 7.80,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,Chupete GLOBO POP con Chicle Surtido Bolsa,7.8
+Globo Pop,Chupetes GLOBO POP Neón Bolsa 24u 480g x 2u,S/ 15.00,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,Chupetes GLOBO POP Neón Bolsa 24u  x 2u,15.0
+Globo Pop,Chupetes GLOBO POP Sabor Fresa Bolsa 24u 480g x 2u,S/ 15.60,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,Chupetes GLOBO POP Sabor Fresa Bolsa 24u  x 2u,15.6
+Globo Pop,Chupetes GLOBO POP Sabores Surtidos Bolsa 24u 480g x 2u,S/ 15.60,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,480.0,g,Chupetes GLOBO POP Sabores Surtidos Bolsa 24u  x 2u,15.6
+Colombina,Chupetes COLOMBINETAS Choco Caramel Bolsa 24un,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,Chupetes COLOMBINETAS Choco Caramel Bolsa,6.9
+Globo Pop,Chupete GLOBO POP Neon Bolsa 24un 18g,S/ 7.50,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,Chupete GLOBO POP Neon Bolsa,7.5
+Globo Pop,Chupete GLOBO POP con Chicle Sabor a Fresa Bolsa 24un,S/ 7.80,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,Chupete GLOBO POP con Chicle Sabor a Fresa Bolsa,7.8
+Arcor,Caramelos MISKY Frutales Bolsa 275gr,S/ 4.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,275.0,g,Caramelos MISKY Frutales Bolsa r,4.9
+Arcor,Caramelos MISKY Chicha Morada 275g Bolsa 110un,S/ 4.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,275.0,g,Caramelos MISKY Chicha Morada  Bolsa,4.9
+Ambrosoli,Caramelos AMBROSOLI Banderita Bolsa 80 un,S/ 4.20,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,80.0,un,Caramelos AMBROSOLI Banderita Bolsa,4.2
+Colombina,Chupetin Bon Bon Bum sabor a Surtidos Bolsa 24 un,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,24.0,un,Chupetin Bon Bon Bum sabor a Surtidos Bolsa,6.9
+Tampico,Bebida TAMPICO Cero Citrus Punch Botella 3L,S/ 6.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,3.0,l,Bebida TAMPICO Cero Citrus Punch Botella,6.9
+Ambrosoli,Caramelos AMBROSOLI Cocorokos Limón Bolsa 100 un,S/ 6.20,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,100.0,un,Caramelos AMBROSOLI Cocorokos Limón Bolsa,6.2
+Arcor,Caramelos ARCOR Menta y chocolate Bolsa 73 un,S/ 8.90,vega,CHULETA DE CERDO,2024-12-04 13:17:50.170361,73.0,un,Caramelos ARCOR Menta y chocolate Bolsa,8.9

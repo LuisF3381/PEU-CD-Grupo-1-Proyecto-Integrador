@@ -1,34 +1,34 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Pecanas Peladas Cuisine&Co Pote 100 g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,13.8
-Pecana Pelada x kg,S/ 149.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,149.0
-Pecanas Peladas Vallealto 135g,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,135.0,g,15.9
-Pecanas Peladas Vallealto 90g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,13.8
-Pecana Acaramelada Cuisine & Co 80g,S/ 13.20,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,13.2
-Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co 80g,S/ 13.50,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,13.5
-Pecana Caramel Vallealto 100g,S/ 15.70,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,15.7
-Pecana Pelada Villa Natura 180g,S/ 23.90,wong,PECANAS,2024-12-04 19:41:57.167363,180.0,g,23.9
-Pecanas Acarameladas x kg,S/ 129.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,129.0
-Pecanas Peladas Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,14.9
-Pecana en Trozos Vallealto 150g,S/ 18.10,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,18.1
-Pecana Pelada Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,14.9
-Pecanas Saladas x kg,S/ 189.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,189.0
-Chocotejas de Pecanas Helena 6un,S/ 33.50,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,33.5
-"Granola Crosoy Manzana, Canela y Pecanas 380g",S/ 14.40,wong,PECANAS,2024-12-04 19:41:57.167363,380.0,g,14.4
-Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,8.5
-Queso Crema Gourmet Delice con Pecanas Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,21.8
-Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 47.90,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,47.9
-"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack 300 g",S/ 20.60,wong,PECANAS,2024-12-04 19:41:57.167363,300.0,g,20.6
-Brownie con Pecana D' Abuelas 5un,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,5.0,un,15.9
-Chocolate con Leche y Pecanas Milky Sin Azúcar 100g,S/ 24.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,24.9
-Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,20.2
-Chocoteja de Pecana Helena 30g,S/ 4.50,wong,PECANAS,2024-12-04 19:41:57.167363,30.0,g,4.5
-Chocotejas Britt Pecanas 6un,S/ 32.90,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,32.9
-Barras Truballs Pecanas y Naranja 90 g,S/ 11.10,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,11.1
-Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,wong,PECANAS,2024-12-04 19:41:57.167363,2.0,un,13.52
-Chocotejas de Guindón y Pecanas Caja 6 unid,S/ 22.70,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,22.7
-Teja de Pecana Helena 30g,S/ 5.99,wong,PECANAS,2024-12-04 19:41:57.167363,30.0,g,5.99
-Chocolate con Leche y Pecanas Orquídea 35% Cacao 85g,S/ 17.50,wong,PECANAS,2024-12-04 19:41:57.167363,85.0,g,17.5
-Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 12.90,wong,PECANAS,2024-12-04 19:41:57.167363,500.0,g,12.9
-Queso Crema Gourmet Delice Hindú Cury Pecanas & Chutney Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,21.8
-Chocolate con Leche y Pecanas 40% Cacao Milky La Ibérica Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,20.2
-Chocolate Relleno con Manjar y Pecanas Helena Puros 132g,S/ 21.90,wong,PECANAS,2024-12-04 19:41:57.167363,132.0,g,21.9
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pecanas Peladas Cuisine&Co Pote 100 g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecanas Peladas Cuisine&Co Pote,13.8
+Pecana Pelada x kg,S/ 149.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,Pecana Pelada,149.0
+Pecanas Peladas Vallealto 135g,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,135.0,g,Pecanas Peladas Vallealto,15.9
+Pecanas Peladas Vallealto 90g,S/ 13.80,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,Pecanas Peladas Vallealto,13.8
+Pecana Acaramelada Cuisine & Co 80g,S/ 13.20,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,Pecana Acaramelada Cuisine & Co,13.2
+Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co 80g,S/ 13.50,wong,PECANAS,2024-12-04 19:41:57.167363,80.0,g,Pecanas Peladas Frutos y Snacks Seleccionados Cuisine & Co,13.5
+Pecana Caramel Vallealto 100g,S/ 15.70,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecana Caramel Vallealto,15.7
+Pecana Pelada Villa Natura 180g,S/ 23.90,wong,PECANAS,2024-12-04 19:41:57.167363,180.0,g,Pecana Pelada Villa Natura,23.9
+Pecanas Acarameladas x kg,S/ 129.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,Pecanas Acarameladas,129.0
+Pecanas Peladas Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecanas Peladas Villa Natura,14.9
+Pecana en Trozos Vallealto 150g,S/ 18.10,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,Pecana en Trozos Vallealto,18.1
+Pecana Pelada Villa Natura 100g,S/ 14.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Pecana Pelada Villa Natura,14.9
+Pecanas Saladas x kg,S/ 189.00 x kg,wong,PECANAS,2024-12-04 19:41:57.167363,1.0,kg,Pecanas Saladas,189.0
+Chocotejas de Pecanas Helena 6un,S/ 33.50,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,Chocotejas de Pecanas Helena,33.5
+"Granola Crosoy Manzana, Canela y Pecanas 380g",S/ 14.40,wong,PECANAS,2024-12-04 19:41:57.167363,380.0,g,"Granola Crosoy Manzana, Canela y Pecanas",14.4
+Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 8.50,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,Chocolate con Leche Milky Pecanas y Pasas 40% Cacao,8.5
+Queso Crema Gourmet Delice con Pecanas Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,Queso Crema Gourmet Delice con Pecanas Molde,21.8
+Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,S/ 47.90,wong,PECANAS,2024-12-04 19:41:57.167363,50.0,g,Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao,47.9
+"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack 300 g",S/ 20.60,wong,PECANAS,2024-12-04 19:41:57.167363,300.0,g,"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack",20.6
+Brownie con Pecana D' Abuelas 5un,S/ 15.90,wong,PECANAS,2024-12-04 19:41:57.167363,5.0,un,Brownie con Pecana D' Abuelas,15.9
+Chocolate con Leche y Pecanas Milky Sin Azúcar 100g,S/ 24.90,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Chocolate con Leche y Pecanas Milky Sin Azúcar,24.9
+Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta,20.2
+Chocoteja de Pecana Helena 30g,S/ 4.50,wong,PECANAS,2024-12-04 19:41:57.167363,30.0,g,Chocoteja de Pecana Helena,4.5
+Chocotejas Britt Pecanas 6un,S/ 32.90,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,Chocotejas Britt Pecanas,32.9
+Barras Truballs Pecanas y Naranja 90 g,S/ 11.10,wong,PECANAS,2024-12-04 19:41:57.167363,90.0,g,Barras Truballs Pecanas y Naranja,11.1
+Pan con Pasas y Pecanas Cuisine & Co 2un,S/ 13.52,wong,PECANAS,2024-12-04 19:41:57.167363,2.0,un,Pan con Pasas y Pecanas Cuisine & Co,13.52
+Chocotejas de Guindón y Pecanas Caja 6 unid,S/ 22.70,wong,PECANAS,2024-12-04 19:41:57.167363,6.0,un,Chocotejas de Guindón y Pecanas Caja,22.7
+Teja de Pecana Helena 30g,S/ 5.99,wong,PECANAS,2024-12-04 19:41:57.167363,30.0,g,Teja de Pecana Helena,5.99
+Chocolate con Leche y Pecanas Orquídea 35% Cacao 85g,S/ 17.50,wong,PECANAS,2024-12-04 19:41:57.167363,85.0,g,Chocolate con Leche y Pecanas Orquídea 35% Cacao,17.5
+Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 12.90,wong,PECANAS,2024-12-04 19:41:57.167363,500.0,g,Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co,12.9
+Queso Crema Gourmet Delice Hindú Cury Pecanas & Chutney Molde 150 g,S/ 21.80,wong,PECANAS,2024-12-04 19:41:57.167363,150.0,g,Queso Crema Gourmet Delice Hindú Cury Pecanas & Chutney Molde,21.8
+Chocolate con Leche y Pecanas 40% Cacao Milky La Ibérica Tableta 100 g,S/ 20.20,wong,PECANAS,2024-12-04 19:41:57.167363,100.0,g,Chocolate con Leche y Pecanas 40% Cacao Milky La Ibérica Tableta,20.2
+Chocolate Relleno con Manjar y Pecanas Helena Puros 132g,S/ 21.90,wong,PECANAS,2024-12-04 19:41:57.167363,132.0,g,Chocolate Relleno con Manjar y Pecanas Helena Puros,21.9

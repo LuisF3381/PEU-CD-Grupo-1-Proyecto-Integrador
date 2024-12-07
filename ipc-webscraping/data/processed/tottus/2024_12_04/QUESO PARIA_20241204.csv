@@ -1,2 +1,3 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,QUESO PARIA LAMINADO ORIGENES 150G,S/ 11.90,tottus,QUESO PARIA,2024-12-04 13:24:00.426744,150.0,g,11.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+LAITS,QUESO PARIA CON OREGANO X KG.,S/ 53,tottus,QUESO PARIA,2024-12-04 13:24:00.426744,1.0,kg,QUESO PARIA CON OREGANO .,53.0
+TOTTUS,QUESO PARIA LAMINADO ORIGENES 150G,S/ 11.90,tottus,QUESO PARIA,2024-12-04 13:24:00.426744,150.0,g,QUESO PARIA LAMINADO ORIGENES,11.9

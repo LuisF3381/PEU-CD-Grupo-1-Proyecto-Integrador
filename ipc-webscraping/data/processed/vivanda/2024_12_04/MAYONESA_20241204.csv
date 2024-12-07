@@ -1,31 +1,31 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-Mayonesa Liviana HELLMANN'S Doypack 475g,HELLMANN S,S/ 16.00,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,16.0
-Mayonesa ALACENA Doypack 190g,ALACENA,S/ 8.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,8.6
-Mayonesa Clásica HELLMANN'S Doypack 475g,HELLMANN S,S/ 16.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,16.5
-Mayonesa LIBBY´S Doypack 380g,LIBBY S,S/ 12.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,380.0,g,12.9
-Mayonesa LIBBY'S Doypack 100g,LIBBY S,S/ 3.99,vivanda,MAYONESA,2024-12-04 18:13:11.183333,100.0,g,3.99
-Mayonesa KRAFT Real Mayo Frasco 443ml,KRAFT,S/ 14.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,14.5
-Mayonesa LEGOVIC Gourmet Frasco 340g,LEGOVIC,S/ 17.00,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,17.0
-Mayonesa Light BELL'S Doypack 475g,BELL'S,S/ 5.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,5.9
-Mayonesa ALACENA Doypack 850g,ALACENA,S/ 19.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,850.0,g,19.6
-Mayonesa Acevichada LEGOVIC Picante Doypack 200g,LEGOVIC,S/ 13.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,13.9
-Mayonesa Light BELL'S Doypack 190g,BELL'S,S/ 3.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,3.2
-Mayonesa Acevichada LEGOVIC Original Doypack 200g,LEGOVIC,S/ 13.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,13.9
-Mayonesa Acevichada LEGOVIC Original Frasco 340g,LEGOVIC,S/ 18.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,18.2
-Mayonesa HELLMANN'S Regular Frasco 340ml,HELLMANN S,S/ 21.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,ml,21.1
-Mayonesa HELLMANN'S Regular Frasco 443ml,HELLMANN S,S/ 19.30,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,19.3
-Mayonesa HELLMANN'S Light Frasco 443ml,HELLMANN S,S/ 19.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,19.1
-Mayonesa Sabor a Tocino TERRAZA GRILL Doypack 200g,TERRAZA GRILL,S/ 9.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,9.9
-Mayonesa Acevichada LEGOVIC Picante Frasco 340g,LEGOVIC,S/ 18.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,18.2
-Mayonesa Sabor a Pollo a la Brasa TERRAZA GRILL Doypack 200g,TERRAZA GRILL,S/ 10.40,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,10.4
-Mayonesa B&D Doypack 190g,B&D,S/ 6.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,6.9
-Mayonesa HELLMANN'S Light Frasco 340ml,HELLMANN S,S/ 21.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,ml,21.1
-Mayonesa B&D Doypack 400g,B&D,S/ 10.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,400.0,g,10.9
-Mayonesa B&D Doypack 95g,B&D,S/ 3.49,vivanda,MAYONESA,2024-12-04 18:13:11.183333,95.0,g,3.49
-Mayonesa BELL'S Doypack 850g,BELL'S,S/ 12.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,850.0,g,12.9
-Mayonesa BELL'S Doypack 475g,BELL'S,S/ 8.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,8.9
-Mayonesa BELL'S Doypack 190g,BELL'S,S/ 5.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,5.6
-Mayonesa DELGA-C con Limón Libre de Grasa Doypack 400g,DELGA-C,S/ 7.70,vivanda,MAYONESA,2024-12-04 18:13:11.183333,400.0,g,7.7
-Salsa Aceitunesa WALIBI Mayonesa con Aceitunesa Doypack 200g,WALIBI,S/ 8.40,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,8.4
-Salsa Acevichada ADELMI a base de Mayonesa y Especias Frasco 240g,ADELMI,S/ 9.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,240.0,g,9.2
-Papas Ondas LAY'S con Mayonesa Bolsa 140g,LAY'S,S/ 5.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,140.0,g,5.5
+description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Mayonesa Liviana HELLMANN'S Doypack 475g,HELLMANN S,S/ 16.00,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,Mayonesa Liviana HELLMANN'S Doypack,16.0
+Mayonesa ALACENA Doypack 190g,ALACENA,S/ 8.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,Mayonesa ALACENA Doypack,8.6
+Mayonesa Clásica HELLMANN'S Doypack 475g,HELLMANN S,S/ 16.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,Mayonesa Clásica HELLMANN'S Doypack,16.5
+Mayonesa LIBBY´S Doypack 380g,LIBBY S,S/ 12.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,380.0,g,Mayonesa LIBBY´S Doypack,12.9
+Mayonesa LIBBY'S Doypack 100g,LIBBY S,S/ 3.99,vivanda,MAYONESA,2024-12-04 18:13:11.183333,100.0,g,Mayonesa LIBBY'S Doypack,3.99
+Mayonesa KRAFT Real Mayo Frasco 443ml,KRAFT,S/ 14.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,Mayonesa KRAFT Real Mayo Frasco,14.5
+Mayonesa LEGOVIC Gourmet Frasco 340g,LEGOVIC,S/ 17.00,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,Mayonesa LEGOVIC Gourmet Frasco,17.0
+Mayonesa Light BELL'S Doypack 475g,BELL'S,S/ 5.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,Mayonesa Light BELL'S Doypack,5.9
+Mayonesa ALACENA Doypack 850g,ALACENA,S/ 19.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,850.0,g,Mayonesa ALACENA Doypack,19.6
+Mayonesa Acevichada LEGOVIC Picante Doypack 200g,LEGOVIC,S/ 13.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,Mayonesa Acevichada LEGOVIC Picante Doypack,13.9
+Mayonesa Light BELL'S Doypack 190g,BELL'S,S/ 3.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,Mayonesa Light BELL'S Doypack,3.2
+Mayonesa Acevichada LEGOVIC Original Doypack 200g,LEGOVIC,S/ 13.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,Mayonesa Acevichada LEGOVIC Original Doypack,13.9
+Mayonesa Acevichada LEGOVIC Original Frasco 340g,LEGOVIC,S/ 18.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,Mayonesa Acevichada LEGOVIC Original Frasco,18.2
+Mayonesa HELLMANN'S Regular Frasco 340ml,HELLMANN S,S/ 21.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,ml,Mayonesa HELLMANN'S Regular Frasco,21.1
+Mayonesa HELLMANN'S Regular Frasco 443ml,HELLMANN S,S/ 19.30,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,Mayonesa HELLMANN'S Regular Frasco,19.3
+Mayonesa HELLMANN'S Light Frasco 443ml,HELLMANN S,S/ 19.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,443.0,ml,Mayonesa HELLMANN'S Light Frasco,19.1
+Mayonesa Sabor a Tocino TERRAZA GRILL Doypack 200g,TERRAZA GRILL,S/ 9.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,Mayonesa Sabor a Tocino TERRAZA GRILL Doypack,9.9
+Mayonesa Acevichada LEGOVIC Picante Frasco 340g,LEGOVIC,S/ 18.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,g,Mayonesa Acevichada LEGOVIC Picante Frasco,18.2
+Mayonesa Sabor a Pollo a la Brasa TERRAZA GRILL Doypack 200g,TERRAZA GRILL,S/ 10.40,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,Mayonesa Sabor a Pollo a la Brasa TERRAZA GRILL Doypack,10.4
+Mayonesa B&D Doypack 190g,B&D,S/ 6.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,Mayonesa B&D Doypack,6.9
+Mayonesa HELLMANN'S Light Frasco 340ml,HELLMANN S,S/ 21.10,vivanda,MAYONESA,2024-12-04 18:13:11.183333,340.0,ml,Mayonesa HELLMANN'S Light Frasco,21.1
+Mayonesa B&D Doypack 400g,B&D,S/ 10.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,400.0,g,Mayonesa B&D Doypack,10.9
+Mayonesa B&D Doypack 95g,B&D,S/ 3.49,vivanda,MAYONESA,2024-12-04 18:13:11.183333,95.0,g,Mayonesa B&D Doypack,3.49
+Mayonesa BELL'S Doypack 850g,BELL'S,S/ 12.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,850.0,g,Mayonesa BELL'S Doypack,12.9
+Mayonesa BELL'S Doypack 475g,BELL'S,S/ 8.90,vivanda,MAYONESA,2024-12-04 18:13:11.183333,475.0,g,Mayonesa BELL'S Doypack,8.9
+Mayonesa BELL'S Doypack 190g,BELL'S,S/ 5.60,vivanda,MAYONESA,2024-12-04 18:13:11.183333,190.0,g,Mayonesa BELL'S Doypack,5.6
+Mayonesa DELGA-C con Limón Libre de Grasa Doypack 400g,DELGA-C,S/ 7.70,vivanda,MAYONESA,2024-12-04 18:13:11.183333,400.0,g,Mayonesa DELGA-C con Limón Libre de Grasa Doypack,7.7
+Salsa Aceitunesa WALIBI Mayonesa con Aceitunesa Doypack 200g,WALIBI,S/ 8.40,vivanda,MAYONESA,2024-12-04 18:13:11.183333,200.0,g,Salsa Aceitunesa WALIBI Mayonesa con Aceitunesa Doypack,8.4
+Salsa Acevichada ADELMI a base de Mayonesa y Especias Frasco 240g,ADELMI,S/ 9.20,vivanda,MAYONESA,2024-12-04 18:13:11.183333,240.0,g,Salsa Acevichada ADELMI a base de Mayonesa y Especias Frasco,9.2
+Papas Ondas LAY'S con Mayonesa Bolsa 140g,LAY'S,S/ 5.50,vivanda,MAYONESA,2024-12-04 18:13:11.183333,140.0,g,Papas Ondas LAY'S con Mayonesa Bolsa,5.5

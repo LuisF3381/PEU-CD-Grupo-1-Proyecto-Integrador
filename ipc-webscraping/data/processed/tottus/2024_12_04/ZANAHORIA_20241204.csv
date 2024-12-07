@@ -1,14 +1,14 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,price_numeric
-TOTTUS,MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,6.0
-BIMBO,SAN SALMAS CAMOTE Y ZANAHORIA X 126G,S/ 11,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,126.0,g,11.0
-,CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,9.5
-HAWAIIAN TROPIC,Loción Bronceadora de Zanahoria con SPF 10 Hawaiian Tropical 240 mL,S/ 51.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,240.0,ml,51.9
-TOTTUS,MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,6.0
-BIMBO,SAN SALMAS CAMOTE Y ZANAHORIA X 126G,S/ 11,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,126.0,g,11.0
-HORTUS,Semillas de Zanahoria en sobre 2 gr,S/ 7.40,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,2.0,g,7.4
-TANDEM HEALTHY,"Bebida de Naranja, Fresa y Zanahoria de 350 ml x 12 unidades",S/ 68,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,68.0
-,CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,9.5
-EKALA,Aceite Esencial de Zanahoria fco de 5ml,S/ 31,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,5.0,ml,31.0
-TANDEM HEALTHY,"Bebida de Naranja, Fresa y Zanahoria x 350 ml",S/ 5.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,5.9
-BRAVERY,Pollo y Zanahoria Gato Esterilizado Lata 70gr x12und,S/ 157.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,70.0,g,157.9
-GENERICO,Belcando Junior Pollo con zanahorias Sobre 125gr x 16und,S/ 194.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,125.0,g,194.9
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,MIX ARVEJA/ZANAHORIA X R,6.0
+BIMBO,SAN SALMAS CAMOTE Y ZANAHORIA X 126G,S/ 11,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,126.0,g,SAN SALMAS CAMOTE Y ZANAHORIA X,11.0
+,CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,CRUNCHIE DE ZANAHORIA  KIGLI,9.5
+HAWAIIAN TROPIC,Loción Bronceadora de Zanahoria con SPF 10 Hawaiian Tropical 240 mL,S/ 51.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,240.0,ml,Loción Bronceadora de Zanahoria con SPF 10 Hawaiian Tropical,51.9
+TOTTUS,MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,MIX ARVEJA/ZANAHORIA X R,6.0
+BIMBO,SAN SALMAS CAMOTE Y ZANAHORIA X 126G,S/ 11,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,126.0,g,SAN SALMAS CAMOTE Y ZANAHORIA X,11.0
+HORTUS,Semillas de Zanahoria en sobre 2 gr,S/ 7.40,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,2.0,g,Semillas de Zanahoria en sobre r,7.4
+TANDEM HEALTHY,"Bebida de Naranja, Fresa y Zanahoria de 350 ml x 12 unidades",S/ 68,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,"Bebida de Naranja, Fresa y Zanahoria de  x ades",68.0
+,CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,CRUNCHIE DE ZANAHORIA  KIGLI,9.5
+EKALA,Aceite Esencial de Zanahoria fco de 5ml,S/ 31,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,5.0,ml,Aceite Esencial de Zanahoria fco de,31.0
+TANDEM HEALTHY,"Bebida de Naranja, Fresa y Zanahoria x 350 ml",S/ 5.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,"Bebida de Naranja, Fresa y Zanahoria x",5.9
+BRAVERY,Pollo y Zanahoria Gato Esterilizado Lata 70gr x12und,S/ 157.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,70.0,g,Pollo y Zanahoria Gato Esterilizado Lata r xd,157.9
+GENERICO,Belcando Junior Pollo con zanahorias Sobre 125gr x 16und,S/ 194.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,125.0,g,Belcando Junior Pollo con zanahorias Sobre r x d,194.9
