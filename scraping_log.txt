@@ -49864,3 +49864,3443 @@ Stacktrace:
 2024-12-07 14:41:35,426 - INFO - Scraping exitoso para término: BEBIDA HIDRATANTE
 2024-12-07 14:42:02,203 - INFO - Scraping exitoso para término: REFRESCO ENVASADO (FLUIDO)
 2024-12-07 14:42:43,384 - INFO - Scraping exitoso para término: BEBIDA DE FRUTA ENVASADA
+2024-12-07 15:06:22,532 - INFO - ====== WebDriver manager ======
+2024-12-07 15:06:22,532 - INFO - ====== WebDriver manager ======
+2024-12-07 15:06:22,532 - INFO - ====== WebDriver manager ======
+2024-12-07 15:06:24,765 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,765 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,780 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,796 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,812 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,812 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:06:24,827 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:06:24,827 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:06:24,843 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:07:52,794 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:07:57,364 - INFO - Scraping exitoso para término: ARROZ ENVASADO
+2024-12-07 15:07:57,364 - INFO - ====== WebDriver manager ======
+2024-12-07 15:07:58,857 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:07:58,877 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:07:58,898 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:08:16,764 - INFO - Scraping exitoso para término: ARROZ A GRANEL
+2024-12-07 15:08:16,764 - INFO - ====== WebDriver manager ======
+2024-12-07 15:08:16,780 - INFO - Scraping exitoso para término: MAÍZ MORADO
+2024-12-07 15:08:16,780 - INFO - ====== WebDriver manager ======
+2024-12-07 15:08:19,390 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:08:19,406 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:08:19,421 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:08:19,421 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:08:19,439 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:08:19,468 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:09:31,695 - INFO - Scraping exitoso para término: MAÍZ REVENTÓN (POP CORN)
+2024-12-07 15:09:31,696 - INFO - ====== WebDriver manager ======
+2024-12-07 15:09:33,329 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:09:33,346 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:09:44,692 - INFO - Scraping exitoso para término: MAÍZ SECO CANCHA
+2024-12-07 15:09:44,693 - INFO - ====== WebDriver manager ======
+2024-12-07 15:09:46,378 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:09:46,397 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:09:46,441 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:09:49,412 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:10:24,433 - INFO - Scraping exitoso para término: TRIGO MORÓN
+2024-12-07 15:10:24,433 - INFO - ====== WebDriver manager ======
+2024-12-07 15:10:27,363 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:10:27,385 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:10:27,401 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:11:06,000 - INFO - Scraping exitoso para término: HARINA DE TRIGO PREPARADA
+2024-12-07 15:11:06,000 - INFO - ====== WebDriver manager ======
+2024-12-07 15:11:07,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:07,478 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:07,500 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:11:15,420 - INFO - Scraping exitoso para término: QUINUA ENTERA
+2024-12-07 15:11:15,421 - INFO - ====== WebDriver manager ======
+2024-12-07 15:11:19,931 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:19,951 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:19,971 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:11:46,694 - INFO - Scraping exitoso para término: HARINA DE TRIGO SIN PREPARAR
+2024-12-07 15:11:46,694 - INFO - ====== WebDriver manager ======
+2024-12-07 15:11:49,818 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:49,842 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:11:49,864 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:12:12,586 - INFO - Scraping exitoso para término: HARINA DE MAÍZ BLANCO
+2024-12-07 15:12:12,586 - INFO - ====== WebDriver manager ======
+2024-12-07 15:12:15,180 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:15,202 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:15,223 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:12:38,721 - INFO - Scraping exitoso para término: HARINA SIETE SEMILLAS O MIXTAS
+2024-12-07 15:12:38,721 - INFO - ====== WebDriver manager ======
+2024-12-07 15:12:40,838 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:40,862 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:47,328 - INFO - Scraping exitoso para término: AVENA ENVASADA
+2024-12-07 15:12:47,328 - INFO - ====== WebDriver manager ======
+2024-12-07 15:12:48,704 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:48,720 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:12:48,740 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:13:00,953 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:13:52,890 - INFO - Scraping exitoso para término: AVENA A GRANEL
+2024-12-07 15:13:52,890 - INFO - ====== WebDriver manager ======
+2024-12-07 15:13:54,534 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:13:54,553 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:13:54,574 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:14:01,541 - INFO - Scraping exitoso para término: PAN CARACOL
+2024-12-07 15:14:01,541 - INFO - ====== WebDriver manager ======
+2024-12-07 15:14:05,516 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:14:05,532 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:14:05,563 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:14:09,833 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:14:38,996 - INFO - Scraping exitoso para término: BIZCOCHOS
+2024-12-07 15:14:38,997 - INFO - ====== WebDriver manager ======
+2024-12-07 15:14:42,368 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:14:42,390 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:14:42,408 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:15:17,906 - INFO - Scraping exitoso para término: PAN CIABATTA
+2024-12-07 15:15:17,906 - INFO - ====== WebDriver manager ======
+2024-12-07 15:15:19,872 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:15:19,892 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:15:19,912 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:15:30,080 - INFO - Scraping exitoso para término: PAN DE MOLDE
+2024-12-07 15:15:30,080 - INFO - ====== WebDriver manager ======
+2024-12-07 15:15:32,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:15:32,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:15:32,871 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:16:00,818 - INFO - Scraping exitoso para término: PAN DE YEMA
+2024-12-07 15:16:00,818 - INFO - ====== WebDriver manager ======
+2024-12-07 15:16:02,814 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:16:02,836 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:16:22,907 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:16:34,149 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:16:37,052 - INFO - Scraping exitoso para término: PAN FRANCÉS
+2024-12-07 15:16:37,052 - INFO - ====== WebDriver manager ======
+2024-12-07 15:16:39,055 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:16:39,074 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:16:39,090 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:17:02,608 - INFO - Scraping exitoso para término: PAN INTEGRAL
+2024-12-07 15:17:02,609 - INFO - ====== WebDriver manager ======
+2024-12-07 15:17:05,518 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:17:05,536 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:17:05,552 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:17:35,719 - INFO - Scraping exitoso para término: PANETÓN
+2024-12-07 15:17:35,719 - INFO - ====== WebDriver manager ======
+2024-12-07 15:17:37,356 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:17:37,377 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:17:37,395 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:18:09,570 - INFO - Scraping exitoso para término: TOSTADAS (MOLDE)
+2024-12-07 15:18:09,571 - INFO - ====== WebDriver manager ======
+2024-12-07 15:18:11,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:18:11,875 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:18:11,891 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:18:14,132 - INFO - Scraping exitoso para término: GALLETAS BAÑADAS
+2024-12-07 15:18:14,132 - INFO - ====== WebDriver manager ======
+2024-12-07 15:18:17,177 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:18:17,225 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:18:17,249 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:18:53,564 - INFO - Scraping exitoso para término: GALLETAS DULCES
+2024-12-07 15:18:53,564 - INFO - ====== WebDriver manager ======
+2024-12-07 15:18:55,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:18:55,156 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:19:11,265 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:19:11,568 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:19:35,000 - INFO - Scraping exitoso para término: GALLETAS RELLENAS
+2024-12-07 15:19:35,000 - INFO - ====== WebDriver manager ======
+2024-12-07 15:19:35,051 - INFO - Scraping exitoso para término: GALLETAS SALADAS
+2024-12-07 15:19:35,051 - INFO - ====== WebDriver manager ======
+2024-12-07 15:19:37,547 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:19:37,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:19:37,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:19:37,579 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:19:37,594 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:19:37,610 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:20:28,858 - INFO - Scraping exitoso para término: PASTELES DULCES
+2024-12-07 15:20:28,859 - INFO - ====== WebDriver manager ======
+2024-12-07 15:20:30,510 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:20:30,529 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:20:30,547 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:20:56,424 - INFO - Scraping exitoso para término: PASTELES SALADOS
+2024-12-07 15:20:56,424 - INFO - ====== WebDriver manager ======
+2024-12-07 15:20:59,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:20:59,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:20:59,501 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:21:05,946 - INFO - Scraping exitoso para término: TORTA (ENTERA)
+2024-12-07 15:21:05,946 - INFO - ====== WebDriver manager ======
+2024-12-07 15:21:09,666 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:21:09,687 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:21:09,706 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:21:51,603 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA CORTA
+2024-12-07 15:21:51,603 - INFO - ====== WebDriver manager ======
+2024-12-07 15:21:53,050 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:21:53,072 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:22:08,290 - INFO - Scraping exitoso para término: FIDEOS SECOS DE PASTA LARGA
+2024-12-07 15:22:08,290 - INFO - ====== WebDriver manager ======
+2024-12-07 15:22:09,114 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:22:09,699 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:22:09,723 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:22:09,744 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:22:44,329 - INFO - Scraping exitoso para término: CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS
+2024-12-07 15:22:44,329 - INFO - ====== WebDriver manager ======
+2024-12-07 15:22:46,987 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:22:47,005 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:22:47,024 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:23:23,433 - INFO - Scraping exitoso para término: CARNE DE CARNERO
+2024-12-07 15:23:23,433 - INFO - ====== WebDriver manager ======
+2024-12-07 15:23:25,488 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:23:25,507 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:23:25,524 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:23:27,401 - INFO - Scraping exitoso para término: CEREALES PROCESADOS SIMPLES (HOJUELAS)
+2024-12-07 15:23:27,401 - INFO - ====== WebDriver manager ======
+2024-12-07 15:23:30,445 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:23:30,464 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:23:30,487 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:24:01,100 - INFO - Scraping exitoso para término: CHULETA DE CERDO
+2024-12-07 15:24:01,100 - INFO - ====== WebDriver manager ======
+2024-12-07 15:24:03,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:03,737 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:03,758 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:24:29,908 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:24:47,020 - INFO - Scraping exitoso para término: PANCETA (CARNE DE CERDO)
+2024-12-07 15:24:47,020 - INFO - ====== WebDriver manager ======
+2024-12-07 15:24:48,830 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:48,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:55,981 - INFO - Scraping exitoso para término: LOMO DE CERDO
+2024-12-07 15:24:55,982 - INFO - ====== WebDriver manager ======
+2024-12-07 15:24:57,825 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:57,844 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:24:57,861 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:25:04,893 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:25:24,437 - INFO - Scraping exitoso para término: PIERNA (CARNE DE CERDO)
+2024-12-07 15:25:24,437 - INFO - ====== WebDriver manager ======
+2024-12-07 15:25:28,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:25:28,269 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:25:28,283 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:26:00,318 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:26:23,196 - INFO - Scraping exitoso para término: BISTEC DE VACUNO
+2024-12-07 15:26:23,196 - INFO - ====== WebDriver manager ======
+2024-12-07 15:26:24,652 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:24,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:24,694 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:26:40,204 - INFO - Scraping exitoso para término: CARNE MOLIDA DE VACUNO
+2024-12-07 15:26:40,204 - INFO - ====== WebDriver manager ======
+2024-12-07 15:26:42,471 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:42,486 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:42,518 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:26:44,949 - INFO - Scraping exitoso para término: COSTILLA DE CERDO
+2024-12-07 15:26:44,949 - INFO - ====== WebDriver manager ======
+2024-12-07 15:26:54,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:54,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:26:54,536 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:27:39,439 - INFO - Scraping exitoso para término: CARNE PARA GUISO DE VACUNO
+2024-12-07 15:27:39,439 - INFO - ====== WebDriver manager ======
+2024-12-07 15:27:40,985 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:27:41,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:27:41,026 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:27:50,678 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:27:53,408 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:28:33,994 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:28:34,750 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:28:36,222 - INFO - Scraping exitoso para término: CHURRASCO DE VACUNO
+2024-12-07 15:28:36,222 - INFO - ====== WebDriver manager ======
+2024-12-07 15:28:36,977 - INFO - Scraping exitoso para término: SANCOCHADO DE VACUNO
+2024-12-07 15:28:36,977 - INFO - ====== WebDriver manager ======
+2024-12-07 15:28:37,729 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:37,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:38,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:38,482 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:38,498 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:28:51,143 - INFO - Scraping exitoso para término: GALLINA EVISCERADA
+2024-12-07 15:28:51,145 - INFO - ====== WebDriver manager ======
+2024-12-07 15:28:52,843 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:52,864 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:28:52,882 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:29:03,526 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:29:56,252 - INFO - Scraping exitoso para término: PECHUGA DE POLLO
+2024-12-07 15:29:56,252 - INFO - ====== WebDriver manager ======
+2024-12-07 15:29:57,598 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:01,630 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:01,650 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:30:10,873 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:30:34,428 - INFO - Scraping exitoso para término: PIERNA DE POLLO
+2024-12-07 15:30:34,429 - INFO - ====== WebDriver manager ======
+2024-12-07 15:30:34,966 - INFO - Scraping exitoso para término: ALAS DE POLLO
+2024-12-07 15:30:34,966 - INFO - ====== WebDriver manager ======
+2024-12-07 15:30:36,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:36,382 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:36,404 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:30:36,768 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:36,784 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:30:36,799 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:31:20,616 - INFO - Scraping exitoso para término: POLLO EVISCERADO
+2024-12-07 15:31:20,617 - INFO - ====== WebDriver manager ======
+2024-12-07 15:31:22,371 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:31:22,387 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:31:22,408 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:31:43,946 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:31:56,856 - INFO - Scraping exitoso para término: MENUDENCIA DE POLLO
+2024-12-07 15:31:56,856 - INFO - ====== WebDriver manager ======
+2024-12-07 15:31:58,390 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:31:58,408 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:31:58,424 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:32:18,893 - INFO - Scraping exitoso para término: PAVO EVISCERADO
+2024-12-07 15:32:18,893 - INFO - ====== WebDriver manager ======
+2024-12-07 15:32:20,973 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:32:21,011 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:32:41,138 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:32:55,813 - INFO - Scraping exitoso para término: BOFE DE RES
+2024-12-07 15:32:55,813 - INFO - ====== WebDriver manager ======
+2024-12-07 15:32:57,400 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:33:12,701 - INFO - Scraping exitoso para término: HÍGADO DE RES
+2024-12-07 15:33:12,701 - INFO - ====== WebDriver manager ======
+2024-12-07 15:33:14,588 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:33:14,605 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:33:14,624 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:33:54,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:33:54,275 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:34:13,186 - INFO - Scraping exitoso para término: MONDONGO DE RES
+2024-12-07 15:34:13,186 - INFO - ====== WebDriver manager ======
+2024-12-07 15:34:14,950 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:34:14,973 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:34:14,994 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:34:32,878 - INFO - Scraping exitoso para término: HOT DOG
+2024-12-07 15:34:32,878 - INFO - ====== WebDriver manager ======
+2024-12-07 15:34:34,994 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:34:35,021 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:34:35,039 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:34:52,628 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:35:28,819 - INFO - Scraping exitoso para término: JAMÓN DEL PAÍS
+2024-12-07 15:35:28,819 - INFO - ====== WebDriver manager ======
+2024-12-07 15:35:30,500 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:35:30,517 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:35:30,532 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:35:33,246 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:35:35,840 - INFO - Scraping exitoso para término: CHORIZO
+2024-12-07 15:35:35,840 - INFO - ====== WebDriver manager ======
+2024-12-07 15:35:37,813 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:35:38,581 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:35:38,600 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:35:38,621 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:36:24,006 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:36:26,254 - INFO - Scraping exitoso para término: JAMONADA
+2024-12-07 15:36:26,255 - INFO - ====== WebDriver manager ======
+2024-12-07 15:36:27,721 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:36:27,737 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:36:27,753 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:36:31,379 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:36:36,675 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:36:56,016 - INFO - Scraping exitoso para término: HAMBURGUESA
+2024-12-07 15:36:56,016 - INFO - ====== WebDriver manager ======
+2024-12-07 15:36:57,219 - INFO - Scraping exitoso para término: TOCINO AHUMADO
+2024-12-07 15:36:57,220 - INFO - ====== WebDriver manager ======
+2024-12-07 15:36:57,756 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:36:58,683 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:36:58,698 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:36:58,715 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:37:21,866 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:37:21,889 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:37:27,252 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:37:55,098 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:38:14,347 - INFO - Scraping exitoso para término: CABALLA
+2024-12-07 15:38:14,347 - INFO - ====== WebDriver manager ======
+2024-12-07 15:38:14,535 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:38:15,935 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:15,960 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:15,978 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:38:16,660 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:38:16,898 - INFO - Scraping exitoso para término: MILANESA
+2024-12-07 15:38:16,898 - INFO - ====== WebDriver manager ======
+2024-12-07 15:38:19,785 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:19,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:19,842 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:38:46,624 - INFO - Scraping exitoso para término: BONITO
+2024-12-07 15:38:46,624 - INFO - ====== WebDriver manager ======
+2024-12-07 15:38:50,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:50,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:38:50,262 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:39:25,488 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:39:31,519 - INFO - Scraping exitoso para término: CORVINA
+2024-12-07 15:39:31,519 - INFO - ====== WebDriver manager ======
+2024-12-07 15:39:32,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:39:32,987 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:39:33,004 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:39:45,575 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:40:08,070 - INFO - Scraping exitoso para término: LIZA
+2024-12-07 15:40:08,071 - INFO - ====== WebDriver manager ======
+2024-12-07 15:40:08,572 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:40:09,660 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:40:09,680 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:40:09,698 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:40:10,942 - INFO - Scraping exitoso para término: JUREL
+2024-12-07 15:40:10,943 - INFO - ====== WebDriver manager ======
+2024-12-07 15:40:14,218 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:40:29,410 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:40:34,634 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:40:34,660 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:41:15,110 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:41:17,356 - INFO - Scraping exitoso para término: MERLUZA
+2024-12-07 15:41:17,356 - INFO - ====== WebDriver manager ======
+2024-12-07 15:41:19,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:41:19,160 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:41:19,184 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:41:26,001 - INFO - Scraping exitoso para término: PERICO
+2024-12-07 15:41:26,002 - INFO - ====== WebDriver manager ======
+2024-12-07 15:41:29,067 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:41:29,093 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:41:29,115 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:41:36,430 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:42:18,216 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:42:18,592 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:42:20,853 - INFO - Scraping exitoso para término: TILAPIA - PESCA CONTINENTAL - DE RÍO
+2024-12-07 15:42:20,853 - INFO - ====== WebDriver manager ======
+2024-12-07 15:42:22,695 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:42:22,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:42:22,735 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:42:39,777 - INFO - Scraping exitoso para término: CHOROS (CON VALVA)
+2024-12-07 15:42:39,777 - INFO - ====== WebDriver manager ======
+2024-12-07 15:42:43,175 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:42:43,208 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:42:43,232 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:43:00,661 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:43:02,895 - INFO - Scraping exitoso para término: TRUCHA - PESCA CONTINENTAL - DE RÍO
+2024-12-07 15:43:02,895 - INFO - ====== WebDriver manager ======
+2024-12-07 15:43:05,894 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:43:05,926 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:43:05,941 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:43:51,945 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:44:04,895 - INFO - Scraping exitoso para término: FILETE DE PESCADO EN CONSERVA
+2024-12-07 15:44:04,896 - INFO - ====== WebDriver manager ======
+2024-12-07 15:44:06,521 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:16,371 - INFO - Scraping exitoso para término: GRATED DE PESCADO EN CONSERVA
+2024-12-07 15:44:16,371 - INFO - ====== WebDriver manager ======
+2024-12-07 15:44:17,887 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:17,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:17,924 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:44:22,586 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:22,607 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:44:44,755 - INFO - Scraping exitoso para término: TROZO DE PESCADO EN CONSERVA
+2024-12-07 15:44:44,755 - INFO - ====== WebDriver manager ======
+2024-12-07 15:44:46,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:46,736 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:44:46,757 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:45:27,474 - INFO - Scraping exitoso para término: LECHE FRESCA UHT
+2024-12-07 15:45:27,474 - INFO - ====== WebDriver manager ======
+2024-12-07 15:45:29,082 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:45:29,101 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:45:29,119 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:45:43,274 - INFO - Scraping exitoso para término: LECHE FRESCA PASTEURIZADA
+2024-12-07 15:45:43,274 - INFO - ====== WebDriver manager ======
+2024-12-07 15:45:45,088 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:45:45,108 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:45:45,125 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:46:13,106 - INFO - Scraping exitoso para término: LECHE EVAPORADA
+2024-12-07 15:46:13,106 - INFO - ====== WebDriver manager ======
+2024-12-07 15:46:15,195 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:46:15,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:46:15,238 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:46:30,494 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:46:50,148 - INFO - Scraping exitoso para término: FÓRMULA PARA LACTANTES
+2024-12-07 15:46:50,148 - INFO - ====== WebDriver manager ======
+2024-12-07 15:46:51,735 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:46:51,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:46:51,772 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:47:23,809 - INFO - Scraping exitoso para término: ALIMENTO LACTEO EN POLVO
+2024-12-07 15:47:23,810 - INFO - ====== WebDriver manager ======
+2024-12-07 15:47:25,558 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:47:27,070 - INFO - Scraping exitoso para término: MEZCLA LÁCTEA EVAPORADA
+2024-12-07 15:47:27,070 - INFO - ====== WebDriver manager ======
+2024-12-07 15:47:28,526 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:47:28,546 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:47:28,562 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:47:44,822 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:47:45,681 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:47:45,701 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:48:34,293 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:48:36,572 - INFO - Scraping exitoso para término: LECHE / BEBIDAS DE PRODUCTOS VEGETALES
+2024-12-07 15:48:36,572 - INFO - ====== WebDriver manager ======
+2024-12-07 15:48:38,336 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:48:38,352 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:48:38,368 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:48:40,968 - INFO - Scraping exitoso para término: YOGUR DE LECHE ENTERA
+2024-12-07 15:48:40,968 - INFO - ====== WebDriver manager ======
+2024-12-07 15:48:44,140 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:48:44,160 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:48:44,178 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:48:54,876 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:49:42,362 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 15:49:44,915 - INFO - Scraping exitoso para término: YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA
+2024-12-07 15:49:44,915 - INFO - ====== WebDriver manager ======
+2024-12-07 15:49:46,339 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:49:46,370 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:49:46,390 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:49:53,325 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:50:15,123 - INFO - Scraping exitoso para término: LECHE CONDENSADA
+2024-12-07 15:50:15,124 - INFO - ====== WebDriver manager ======
+2024-12-07 15:50:16,584 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:50:16,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:50:16,637 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:50:25,786 - INFO - Scraping exitoso para término: YOGUR MIXTO EN VASO
+2024-12-07 15:50:25,787 - INFO - ====== WebDriver manager ======
+2024-12-07 15:50:28,470 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:50:28,490 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:50:28,510 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:50:55,066 - INFO - Scraping exitoso para término: QUESO FRESCO DE VACA
+2024-12-07 15:50:55,067 - INFO - ====== WebDriver manager ======
+2024-12-07 15:50:57,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:11,100 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:51:17,995 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:18,011 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:51:25,250 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:51:38,237 - INFO - Scraping exitoso para término: QUESO EDAM
+2024-12-07 15:51:38,237 - INFO - ====== WebDriver manager ======
+2024-12-07 15:51:41,586 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:41,605 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:41,623 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:51:49,277 - INFO - Scraping exitoso para término: QUESO MANTECOSO
+2024-12-07 15:51:49,278 - INFO - ====== WebDriver manager ======
+2024-12-07 15:51:52,031 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:52,057 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:51:52,079 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:52:10,350 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:52:32,435 - INFO - Scraping exitoso para término: QUESO PARIA
+2024-12-07 15:52:32,435 - INFO - ====== WebDriver manager ======
+2024-12-07 15:52:33,895 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:52:33,912 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:52:33,930 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:52:41,934 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:53:02,682 - INFO - Scraping exitoso para término: HUEVOS DE GALLINA
+2024-12-07 15:53:02,682 - INFO - ====== WebDriver manager ======
+2024-12-07 15:53:04,732 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:53:04,751 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:53:04,761 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:53:08,266 - INFO - Scraping exitoso para término: ACEITE DE OLIVA
+2024-12-07 15:53:08,266 - INFO - ====== WebDriver manager ======
+2024-12-07 15:53:10,949 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:53:10,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:53:10,991 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:53:57,077 - INFO - Scraping exitoso para término: ACEITE VEGETAL ENVASADO
+2024-12-07 15:53:57,077 - INFO - ====== WebDriver manager ======
+2024-12-07 15:53:58,483 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:05,449 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:54:14,506 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:54:14,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:14,687 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:54:33,379 - INFO - Scraping exitoso para término: MANTEQUILLA ENVASADA
+2024-12-07 15:54:33,379 - INFO - ====== WebDriver manager ======
+2024-12-07 15:54:35,929 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:35,990 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:36,014 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:54:48,377 - INFO - Scraping exitoso para término: MARGARINA ENVASADA
+2024-12-07 15:54:48,377 - INFO - ====== WebDriver manager ======
+2024-12-07 15:54:51,103 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:51,120 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:54:51,135 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:55:31,730 - INFO - Scraping exitoso para término: LIMÓN
+2024-12-07 15:55:31,730 - INFO - ====== WebDriver manager ======
+2024-12-07 15:55:33,254 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:55:33,275 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:55:33,292 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:55:40,467 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:55:49,295 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:56:03,194 - INFO - Scraping exitoso para término: MANDARINA
+2024-12-07 15:56:03,194 - INFO - ====== WebDriver manager ======
+2024-12-07 15:56:04,993 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:56:05,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:56:05,030 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:56:12,191 - INFO - Scraping exitoso para término: MARACUYÁ
+2024-12-07 15:56:12,191 - INFO - ====== WebDriver manager ======
+2024-12-07 15:56:15,241 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:56:15,262 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:56:15,283 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:56:26,902 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 15:56:52,616 - INFO - Scraping exitoso para término: NARANJA DE JUGO
+2024-12-07 15:56:52,616 - INFO - ====== WebDriver manager ======
+2024-12-07 15:56:54,396 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:57:10,454 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:57:10,477 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:57:19,961 - INFO - Scraping exitoso para término: NARANJA DE MESA
+2024-12-07 15:57:19,961 - INFO - ====== WebDriver manager ======
+2024-12-07 15:57:22,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:57:23,059 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:57:23,087 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:58:01,904 - INFO - Scraping exitoso para término: DURAZNO HUAYCO
+2024-12-07 15:58:01,904 - INFO - ====== WebDriver manager ======
+2024-12-07 15:58:03,349 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:03,365 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:03,380 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:58:09,131 - INFO - Scraping exitoso para término: MANZANA IMPORTADA
+2024-12-07 15:58:09,131 - INFO - ====== WebDriver manager ======
+2024-12-07 15:58:11,994 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:12,016 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:12,036 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:58:47,457 - INFO - Scraping exitoso para término: MANZANA CORRIENTE
+2024-12-07 15:58:47,457 - INFO - ====== WebDriver manager ======
+2024-12-07 15:58:49,243 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:49,261 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:58:49,280 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:59:21,190 - INFO - Scraping exitoso para término: MANZANA DELICIA
+2024-12-07 15:59:21,190 - INFO - ====== WebDriver manager ======
+2024-12-07 15:59:23,231 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:59:23,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:59:23,262 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 15:59:25,565 - INFO - Scraping exitoso para término: MANZANA ISRAEL
+2024-12-07 15:59:25,565 - INFO - ====== WebDriver manager ======
+2024-12-07 15:59:28,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:59:44,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 15:59:44,783 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:00:00,327 - ERROR - Error en scraping para término PALTA FUERTE / MAYAR: Cannot save file into a non-existent directory: 'd:\Users\LUISMOQUILLAZA\Desktop\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vega\2024_12_07\vega_PALTA FUERTE '
+2024-12-07 16:00:00,328 - INFO - ====== WebDriver manager ======
+2024-12-07 16:00:02,262 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:00:02,291 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:00:02,312 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:00:35,809 - INFO - Scraping exitoso para término: PAPAYA
+2024-12-07 16:00:35,809 - INFO - ====== WebDriver manager ======
+2024-12-07 16:00:37,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:00:37,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:00:37,368 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:00:45,242 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:01:00,136 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:01:06,184 - INFO - Scraping exitoso para término: PLÁTANO BISCOCHO
+2024-12-07 16:01:06,184 - INFO - ====== WebDriver manager ======
+2024-12-07 16:01:08,607 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:08,625 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:08,645 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:01:27,990 - INFO - Scraping exitoso para término: PLÁTANO DE LA ISLA
+2024-12-07 16:01:27,990 - INFO - ====== WebDriver manager ======
+2024-12-07 16:01:30,591 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:30,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:30,629 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:01:45,185 - INFO - Scraping exitoso para término: PLÁTANO DE SEDA
+2024-12-07 16:01:45,185 - INFO - ====== WebDriver manager ======
+2024-12-07 16:01:46,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:46,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:01:46,856 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:02:06,356 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:02:48,045 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:02:48,374 - INFO - Scraping exitoso para término: UVA BLANCA
+2024-12-07 16:02:48,382 - INFO - ====== WebDriver manager ======
+2024-12-07 16:02:49,973 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:02:51,514 - INFO - Scraping exitoso para término: PLÁTANO VERDE - INGUIRI O BELLACO
+2024-12-07 16:02:51,514 - INFO - ====== WebDriver manager ======
+2024-12-07 16:02:52,778 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:02:52,794 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:02:52,810 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:03:06,172 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:03:06,200 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:03:37,311 - INFO - Scraping exitoso para término: UVA NEGRA
+2024-12-07 16:03:37,311 - INFO - ====== WebDriver manager ======
+2024-12-07 16:03:39,109 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:03:39,126 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:03:39,146 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:04:08,201 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:04:10,014 - INFO - Scraping exitoso para término: FRESA
+2024-12-07 16:04:10,014 - INFO - ====== WebDriver manager ======
+2024-12-07 16:04:11,636 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:11,657 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:11,676 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:04:30,391 - INFO - Scraping exitoso para término: ARÁNDANOS
+2024-12-07 16:04:30,391 - INFO - ====== WebDriver manager ======
+2024-12-07 16:04:32,826 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:04:33,029 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:33,063 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:33,080 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:04:50,723 - INFO - Scraping exitoso para término: GRANADILLA
+2024-12-07 16:04:50,724 - INFO - ====== WebDriver manager ======
+2024-12-07 16:04:53,321 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:53,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:04:53,363 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:05:04,594 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:05:26,591 - INFO - Scraping exitoso para término: MANGO
+2024-12-07 16:05:26,591 - INFO - ====== WebDriver manager ======
+2024-12-07 16:05:29,342 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:05:29,358 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:05:29,385 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:05:33,388 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:05:59,982 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:06:17,432 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:06:19,796 - INFO - Scraping exitoso para término: MELÓN
+2024-12-07 16:06:19,796 - INFO - ====== WebDriver manager ======
+2024-12-07 16:06:21,201 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:24,670 - INFO - Scraping exitoso para término: PEPINO
+2024-12-07 16:06:24,670 - INFO - ====== WebDriver manager ======
+2024-12-07 16:06:25,348 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:06:26,094 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:26,112 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:26,128 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:06:41,343 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:41,358 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:06:50,715 - INFO - Scraping exitoso para término: PERA DE AGUA
+2024-12-07 16:06:50,715 - INFO - ====== WebDriver manager ======
+2024-12-07 16:06:58,918 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:58,968 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:06:58,984 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:07:25,874 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:07:50,327 - INFO - Scraping exitoso para término: SANDÍA
+2024-12-07 16:07:50,327 - INFO - ====== WebDriver manager ======
+2024-12-07 16:07:51,958 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:07:51,977 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:07:52,002 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:07:52,129 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:08:19,218 - INFO - Scraping exitoso para término: PIÑA
+2024-12-07 16:08:19,218 - INFO - ====== WebDriver manager ======
+2024-12-07 16:08:19,548 - INFO - Scraping exitoso para término: TUNA
+2024-12-07 16:08:19,548 - INFO - ====== WebDriver manager ======
+2024-12-07 16:08:21,530 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:08:21,546 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:08:21,577 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:08:21,703 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:08:21,718 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:08:21,734 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:08:49,061 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:09:10,484 - INFO - Scraping exitoso para término: PASAS
+2024-12-07 16:09:10,484 - INFO - ====== WebDriver manager ======
+2024-12-07 16:09:12,475 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:09:12,497 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:09:12,513 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:09:25,280 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:09:27,936 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:09:44,945 - INFO - Scraping exitoso para término: PECANAS
+2024-12-07 16:09:44,945 - INFO - ====== WebDriver manager ======
+2024-12-07 16:09:46,682 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:09:54,921 - INFO - Scraping exitoso para término: DURAZNO EN CONSERVA
+2024-12-07 16:09:54,921 - INFO - ====== WebDriver manager ======
+2024-12-07 16:09:56,585 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:09:56,604 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:09:56,622 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:10:06,797 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:10:06,891 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:10:06,924 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:10:51,562 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:10:53,983 - INFO - Scraping exitoso para término: APIO
+2024-12-07 16:10:53,983 - INFO - ====== WebDriver manager ======
+2024-12-07 16:10:54,622 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:10:55,484 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:10:55,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:10:55,531 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:11:03,036 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:11:38,844 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:11:41,234 - INFO - Scraping exitoso para término: LECHUGA
+2024-12-07 16:11:41,234 - INFO - ====== WebDriver manager ======
+2024-12-07 16:11:42,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:11:42,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:11:42,703 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:11:44,853 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:11:47,896 - INFO - Scraping exitoso para término: ESPINACA
+2024-12-07 16:11:47,896 - INFO - ====== WebDriver manager ======
+2024-12-07 16:11:50,503 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:11:50,529 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:11:50,553 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:11:52,477 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:12:38,194 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:12:40,479 - INFO - Scraping exitoso para término: BRÓCOLI
+2024-12-07 16:12:40,480 - INFO - ====== WebDriver manager ======
+2024-12-07 16:12:41,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:12:41,988 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:12:42,005 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:12:42,383 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:13:11,844 - INFO - Scraping exitoso para término: AJÍ PIMIENTO
+2024-12-07 16:13:11,844 - INFO - ====== WebDriver manager ======
+2024-12-07 16:13:13,238 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:13:13,258 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:13:13,276 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:13:26,527 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:13:28,891 - INFO - Scraping exitoso para término: COLIFLOR
+2024-12-07 16:13:28,891 - INFO - ====== WebDriver manager ======
+2024-12-07 16:13:30,500 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:13:50,677 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:13:50,694 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:14:18,125 - ERROR - Error en scraping para término AJÍ AMARILLO (VERDE / ESCABECHE): Cannot save file into a non-existent directory: 'd:\Users\LUISMOQUILLAZA\Desktop\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vega\2024_12_07\vega_AJÍ AMARILLO (VERDE '
+2024-12-07 16:14:18,125 - INFO - ====== WebDriver manager ======
+2024-12-07 16:14:19,500 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:14:19,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:14:19,531 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:14:46,740 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:14:48,968 - INFO - Scraping exitoso para término: TOMATE ITALIANO O MARSANO
+2024-12-07 16:14:48,968 - INFO - ====== WebDriver manager ======
+2024-12-07 16:14:50,378 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:14:50,401 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:14:50,426 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:15:15,725 - INFO - Scraping exitoso para término: ZAPALLO MACRE
+2024-12-07 16:15:15,725 - INFO - ====== WebDriver manager ======
+2024-12-07 16:15:17,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:15:17,236 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:15:17,256 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:15:29,799 - ERROR - Error en scraping para término CHOCLO CRIOLLO / SERRANO: Cannot save file into a non-existent directory: 'd:\Users\LUISMOQUILLAZA\Desktop\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vega\2024_12_07\vega_CHOCLO CRIOLLO '
+2024-12-07 16:15:29,799 - INFO - ====== WebDriver manager ======
+2024-12-07 16:15:32,045 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:15:32,085 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:15:32,093 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:15:47,484 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:16:26,496 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:16:27,664 - INFO - Scraping exitoso para término: ARVEJA VERDE
+2024-12-07 16:16:27,665 - INFO - ====== WebDriver manager ======
+2024-12-07 16:16:28,873 - INFO - Scraping exitoso para término: PEPINILLO
+2024-12-07 16:16:28,873 - INFO - ====== WebDriver manager ======
+2024-12-07 16:16:29,336 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:29,365 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:29,385 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:16:31,487 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:40,959 - INFO - Scraping exitoso para término: HABA VERDE
+2024-12-07 16:16:40,960 - INFO - ====== WebDriver manager ======
+2024-12-07 16:16:43,456 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:43,480 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:43,496 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:16:47,872 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:16:47,892 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:18:02,334 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:18:03,484 - INFO - Scraping exitoso para término: VAINITA VERDE (AMERICANA)
+2024-12-07 16:18:03,486 - INFO - ====== WebDriver manager ======
+2024-12-07 16:18:05,941 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:05,961 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:05,980 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:18:20,630 - INFO - Scraping exitoso para término: AJO ENTERO
+2024-12-07 16:18:20,631 - INFO - ====== WebDriver manager ======
+2024-12-07 16:18:22,386 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:22,402 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:22,419 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:18:49,147 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:18:51,548 - INFO - Scraping exitoso para término: BETARRAGA
+2024-12-07 16:18:51,548 - INFO - ====== WebDriver manager ======
+2024-12-07 16:18:53,502 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:53,517 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:18:53,533 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:19:03,718 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:19:26,595 - INFO - Scraping exitoso para término: CEBOLLA CHINA
+2024-12-07 16:19:26,595 - INFO - ====== WebDriver manager ======
+2024-12-07 16:19:28,512 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:19:28,536 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:19:28,554 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:19:30,381 - INFO - Scraping exitoso para término: CEBOLLA DE CABEZA (ROJA)
+2024-12-07 16:19:30,382 - INFO - ====== WebDriver manager ======
+2024-12-07 16:19:33,259 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:19:33,279 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:19:33,300 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:20:18,002 - INFO - Scraping exitoso para término: PORO
+2024-12-07 16:20:18,002 - INFO - ====== WebDriver manager ======
+2024-12-07 16:20:19,788 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:20:30,096 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:20:33,804 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:20:40,179 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:20:40,201 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:21:04,463 - INFO - Scraping exitoso para término: VERDURA PICADA
+2024-12-07 16:21:04,465 - INFO - ====== WebDriver manager ======
+2024-12-07 16:21:06,168 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:21:06,198 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:21:06,218 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:21:13,317 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:21:23,442 - INFO - Scraping exitoso para término: ZANAHORIA
+2024-12-07 16:21:23,443 - INFO - ====== WebDriver manager ======
+2024-12-07 16:21:26,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:21:26,142 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:21:26,173 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:21:36,497 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:21:59,972 - INFO - Scraping exitoso para término: FRÉJOL CANARIO
+2024-12-07 16:21:59,972 - INFO - ====== WebDriver manager ======
+2024-12-07 16:22:02,290 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:02,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:02,326 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:22:08,838 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:22:31,131 - INFO - Scraping exitoso para término: FRÉJOL PANAMITO
+2024-12-07 16:22:31,131 - INFO - ====== WebDriver manager ======
+2024-12-07 16:22:33,106 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:33,125 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:33,144 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:22:42,358 - INFO - Scraping exitoso para término: ARVEJA SECA PARTIDA
+2024-12-07 16:22:42,358 - INFO - ====== WebDriver manager ======
+2024-12-07 16:22:45,479 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:45,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:22:45,519 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:22:57,484 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:23:20,533 - INFO - Scraping exitoso para término: GARBANZO
+2024-12-07 16:23:20,533 - INFO - ====== WebDriver manager ======
+2024-12-07 16:23:22,482 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:23:34,878 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:23:38,769 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:23:38,784 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:23:48,635 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:23:59,748 - INFO - Scraping exitoso para término: LENTEJA
+2024-12-07 16:23:59,749 - INFO - ====== WebDriver manager ======
+2024-12-07 16:24:02,862 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:24:02,888 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:24:02,912 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:24:11,339 - INFO - Scraping exitoso para término: PALLAR
+2024-12-07 16:24:11,339 - INFO - ====== WebDriver manager ======
+2024-12-07 16:24:14,311 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:24:14,317 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:24:14,352 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:25:14,039 - INFO - Scraping exitoso para término: ACEITUNA DE BOTIJA
+2024-12-07 16:25:14,039 - INFO - ====== WebDriver manager ======
+2024-12-07 16:25:15,999 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:16,017 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:16,035 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:25:33,763 - INFO - Scraping exitoso para término: PAPA AMARILLA
+2024-12-07 16:25:33,763 - INFO - ====== WebDriver manager ======
+2024-12-07 16:25:35,411 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:35,441 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:35,461 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:25:46,441 - INFO - Scraping exitoso para término: CAMOTE AMARILLO
+2024-12-07 16:25:46,441 - INFO - ====== WebDriver manager ======
+2024-12-07 16:25:50,081 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:50,112 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:25:50,131 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:26:12,440 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:26:34,069 - INFO - Scraping exitoso para término: PAPA BLANCA
+2024-12-07 16:26:34,069 - INFO - ====== WebDriver manager ======
+2024-12-07 16:26:35,773 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:26:48,290 - INFO - Scraping exitoso para término: PAPA COLOR
+2024-12-07 16:26:48,290 - INFO - ====== WebDriver manager ======
+2024-12-07 16:26:49,854 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:26:49,874 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:26:49,892 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:26:51,823 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:26:51,842 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:27:17,451 - INFO - Scraping exitoso para término: PAPA HUAYRO
+2024-12-07 16:27:17,451 - INFO - ====== WebDriver manager ======
+2024-12-07 16:27:19,208 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:27:19,229 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:27:19,248 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:27:50,321 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:27:56,849 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:28:16,207 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:28:16,544 - INFO - Scraping exitoso para término: YUCA
+2024-12-07 16:28:16,544 - INFO - ====== WebDriver manager ======
+2024-12-07 16:28:18,132 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:18,152 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:18,192 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:28:32,015 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:28:34,536 - INFO - Scraping exitoso para término: OLLUCO
+2024-12-07 16:28:34,536 - INFO - ====== WebDriver manager ======
+2024-12-07 16:28:36,163 - INFO - Scraping exitoso para término: PAPA SECA
+2024-12-07 16:28:36,164 - INFO - ====== WebDriver manager ======
+2024-12-07 16:28:37,680 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:37,700 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:37,719 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:28:42,104 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:42,125 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:28:42,145 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:29:15,036 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:29:37,395 - INFO - Scraping exitoso para término: AZÚCAR BLANCA
+2024-12-07 16:29:37,395 - INFO - ====== WebDriver manager ======
+2024-12-07 16:29:39,014 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:29:39,033 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:29:39,051 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:29:54,786 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:29:54,786 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:30:23,145 - INFO - Scraping exitoso para término: AZÚCAR RUBIA
+2024-12-07 16:30:23,145 - INFO - ====== WebDriver manager ======
+2024-12-07 16:30:24,677 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:30:38,239 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:30:40,848 - INFO - Scraping exitoso para término: EDULCORANTE
+2024-12-07 16:30:40,848 - INFO - ====== WebDriver manager ======
+2024-12-07 16:30:42,396 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:30:42,427 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:30:42,443 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:30:45,056 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:30:45,081 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:31:28,349 - INFO - Scraping exitoso para término: MERMELADA
+2024-12-07 16:31:28,349 - INFO - ====== WebDriver manager ======
+2024-12-07 16:31:30,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:31:30,117 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:31:30,144 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:31:44,560 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:31:54,135 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:32:07,286 - INFO - Scraping exitoso para término: CHOCOLATE EN PASTA (TAZA)
+2024-12-07 16:32:07,287 - INFO - ====== WebDriver manager ======
+2024-12-07 16:32:10,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:32:10,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:32:10,601 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:32:20,209 - INFO - Scraping exitoso para término: MIEL DE ABEJA
+2024-12-07 16:32:20,210 - INFO - ====== WebDriver manager ======
+2024-12-07 16:32:24,603 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:32:24,627 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:32:24,652 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:32:40,690 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:33:12,229 - INFO - Scraping exitoso para término: CHOCOLATE EN TABLETA
+2024-12-07 16:33:12,230 - INFO - ====== WebDriver manager ======
+2024-12-07 16:33:13,983 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:33:14,009 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:33:14,028 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:33:33,472 - INFO - Scraping exitoso para término: DIVERSAS PRESENTACIONES DE CHOCOLATES
+2024-12-07 16:33:33,472 - INFO - ====== WebDriver manager ======
+2024-12-07 16:33:35,253 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:33:35,274 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:33:35,291 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:33:52,192 - INFO - Scraping exitoso para término: CARAMELOS
+2024-12-07 16:33:52,192 - INFO - ====== WebDriver manager ======
+2024-12-07 16:33:54,425 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:34:14,681 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:34:14,700 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:35:00,960 - INFO - Scraping exitoso para término: HELADO FAMILIAR
+2024-12-07 16:35:00,961 - INFO - ====== WebDriver manager ======
+2024-12-07 16:35:01,798 - INFO - Scraping exitoso para término: GOMA DE MASCAR
+2024-12-07 16:35:01,999 - INFO - ====== WebDriver manager ======
+2024-12-07 16:35:03,403 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:03,423 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:03,460 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:35:03,874 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:03,891 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:03,908 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:35:38,907 - INFO - Scraping exitoso para término: HELADO DE CREMA PERSONAL
+2024-12-07 16:35:38,907 - INFO - ====== WebDriver manager ======
+2024-12-07 16:35:43,516 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:43,538 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:35:43,554 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:36:10,079 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:36:31,864 - INFO - Scraping exitoso para término: HELADO DE HIELO PERSONAL
+2024-12-07 16:36:31,864 - INFO - ====== WebDriver manager ======
+2024-12-07 16:36:31,896 - INFO - Scraping exitoso para término: ALBAHACA
+2024-12-07 16:36:31,896 - INFO - ====== WebDriver manager ======
+2024-12-07 16:36:33,760 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:36:33,789 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:36:33,808 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:36:33,836 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:36:33,854 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:36:33,870 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:36:41,968 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:37:27,342 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:37:29,629 - INFO - Scraping exitoso para término: CULANTRO
+2024-12-07 16:37:29,629 - INFO - ====== WebDriver manager ======
+2024-12-07 16:37:31,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:37:45,037 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:37:48,316 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:37:48,331 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:38:11,748 - INFO - Scraping exitoso para término: AJO MOLIDO
+2024-12-07 16:38:11,748 - INFO - ====== WebDriver manager ======
+2024-12-07 16:38:13,980 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:38:14,010 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:38:14,030 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:38:23,870 - INFO - Scraping exitoso para término: SAL
+2024-12-07 16:38:23,870 - INFO - ====== WebDriver manager ======
+2024-12-07 16:38:26,578 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:38:26,596 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:38:26,616 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:38:48,756 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:39:12,224 - INFO - Scraping exitoso para término: CANELA ENTERA
+2024-12-07 16:39:12,225 - INFO - ====== WebDriver manager ======
+2024-12-07 16:39:14,517 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:39:14,534 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:39:14,553 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:39:17,603 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:39:44,593 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:39:48,725 - ERROR - Error en scraping para término HONGO / LAUREL (ESPECIES): Cannot save file into a non-existent directory: 'd:\Users\LUISMOQUILLAZA\Desktop\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vega\2024_12_07\vega_HONGO '
+2024-12-07 16:39:48,726 - INFO - ====== WebDriver manager ======
+2024-12-07 16:39:51,362 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:39:51,378 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:39:51,412 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:40:07,705 - INFO - Scraping exitoso para término: KION (ESPECIAS)
+2024-12-07 16:40:07,707 - INFO - ====== WebDriver manager ======
+2024-12-07 16:40:11,253 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:40:11,275 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:40:11,293 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:40:52,004 - INFO - Scraping exitoso para término: ALIMENTOS EN CUBITOS
+2024-12-07 16:40:52,004 - INFO - ====== WebDriver manager ======
+2024-12-07 16:40:53,600 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:00,155 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:41:09,977 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:09,998 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:41:33,959 - INFO - Scraping exitoso para término: SAZONADORES CONCENTRADOS
+2024-12-07 16:41:33,959 - INFO - ====== WebDriver manager ======
+2024-12-07 16:41:36,466 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:36,492 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:36,516 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:41:41,759 - ERROR - Error scraping vega: Message: 
+
+2024-12-07 16:41:45,102 - INFO - Scraping exitoso para término: GLUTAMATO MONOSÓDICO (SAZONADOR)
+2024-12-07 16:41:45,102 - INFO - ====== WebDriver manager ======
+2024-12-07 16:41:50,134 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:50,152 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:41:50,171 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:42:33,382 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:42:58,901 - INFO - Scraping exitoso para término: AJÍ AMARILLO MOLIDO
+2024-12-07 16:42:58,901 - INFO - ====== WebDriver manager ======
+2024-12-07 16:43:01,510 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:01,538 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:01,559 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:43:13,650 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:43:14,608 - INFO - Scraping exitoso para término: AJÍ PANCA MOLIDO (ESPECIAL)
+2024-12-07 16:43:14,608 - INFO - ====== WebDriver manager ======
+2024-12-07 16:43:18,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:18,178 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:18,201 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:43:37,644 - INFO - Scraping exitoso para término: AJÍ ROCOTO MOLIDO
+2024-12-07 16:43:37,645 - INFO - ====== WebDriver manager ======
+2024-12-07 16:43:45,616 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:45,633 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:43:45,650 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:44:42,169 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:44:42,769 - INFO - Scraping exitoso para término: ADEREZOS HIDRATADOS
+2024-12-07 16:44:42,769 - INFO - ====== WebDriver manager ======
+2024-12-07 16:44:44,491 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:00,634 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:00,650 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:45:00,824 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:45:11,787 - INFO - Scraping exitoso para término: MAYONESA
+2024-12-07 16:45:11,787 - INFO - ====== WebDriver manager ======
+2024-12-07 16:45:15,223 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:15,243 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:15,262 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:45:26,235 - INFO - Scraping exitoso para término: PASTA Y SALSA DE TOMATE
+2024-12-07 16:45:26,235 - INFO - ====== WebDriver manager ======
+2024-12-07 16:45:31,741 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:31,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:45:31,782 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:46:04,128 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:46:32,084 - INFO - Scraping exitoso para término: SILLAO
+2024-12-07 16:46:32,084 - INFO - ====== WebDriver manager ======
+2024-12-07 16:46:34,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:46:34,650 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:46:34,672 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:46:56,660 - INFO - Scraping exitoso para término: GELATINA (PARA PREPARAR)
+2024-12-07 16:46:56,660 - INFO - ====== WebDriver manager ======
+2024-12-07 16:46:59,106 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:46:59,128 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:46:59,146 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:47:03,390 - ERROR - Error en scraping para término SOPAS (CONCENTRADAS / INSTANTÁNEAS): Cannot save file into a non-existent directory: 'd:\Users\LUISMOQUILLAZA\Desktop\PEU-CD-Grupo-1-Proyecto-Integrador\ipc-webscraping\data\raw\vega\2024_12_07\vega_SOPAS (CONCENTRADAS '
+2024-12-07 16:47:03,391 - INFO - ====== WebDriver manager ======
+2024-12-07 16:47:06,681 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:47:06,702 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:47:06,721 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:48:10,304 - INFO - Scraping exitoso para término: MENESTRAS SANCOCHADAS
+2024-12-07 16:48:10,305 - INFO - ====== WebDriver manager ======
+2024-12-07 16:48:12,144 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:48:28,254 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:48:28,269 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:48:28,535 - INFO - Scraping exitoso para término: VEGETALES SANCOCHADOS
+2024-12-07 16:48:28,535 - INFO - ====== WebDriver manager ======
+2024-12-07 16:48:31,327 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:48:31,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:48:31,372 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:49:27,254 - INFO - Scraping exitoso para término: BOCADITOS DE MAÍZ Y QUESO
+2024-12-07 16:49:27,254 - INFO - ====== WebDriver manager ======
+2024-12-07 16:49:28,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:49:28,775 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:49:28,793 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:50:08,999 - INFO - Scraping exitoso para término: PAPA FRITA (BOCADITOS)
+2024-12-07 16:50:09,000 - INFO - ====== WebDriver manager ======
+2024-12-07 16:50:10,983 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:11,013 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:11,034 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:50:25,958 - INFO - Scraping exitoso para término: CHIFLE (BOCADITOS)
+2024-12-07 16:50:25,958 - INFO - ====== WebDriver manager ======
+2024-12-07 16:50:28,340 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:28,355 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:28,371 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:50:51,834 - INFO - Scraping exitoso para término: POP CORN (BOCADITOS)
+2024-12-07 16:50:51,834 - INFO - ====== WebDriver manager ======
+2024-12-07 16:50:53,374 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:53,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:50:53,420 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:51:13,715 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:51:38,269 - INFO - Scraping exitoso para término: CAFÉ TOSTADO MOLIDO
+2024-12-07 16:51:38,269 - INFO - ====== WebDriver manager ======
+2024-12-07 16:51:40,087 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:51:56,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:51:56,160 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:52:09,886 - INFO - Scraping exitoso para término: CEBADA TOSTADA SOLUBLE
+2024-12-07 16:52:09,886 - INFO - ====== WebDriver manager ======
+2024-12-07 16:52:12,918 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:52:12,942 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:52:12,968 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:52:31,201 - INFO - Scraping exitoso para término: CAFÉ INSTANTÁNEO
+2024-12-07 16:52:31,202 - INFO - ====== WebDriver manager ======
+2024-12-07 16:52:34,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:52:34,471 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:52:34,490 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:53:07,414 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:53:18,158 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:53:28,948 - INFO - Scraping exitoso para término: TÉ NEGRO FILTRANTE
+2024-12-07 16:53:28,948 - INFO - ====== WebDriver manager ======
+2024-12-07 16:53:30,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:53:30,728 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:53:30,764 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:53:42,819 - INFO - Scraping exitoso para término: HIERBAS PARA INFUSIONES
+2024-12-07 16:53:42,819 - INFO - ====== WebDriver manager ======
+2024-12-07 16:53:45,780 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:53:45,803 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:53:45,823 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:54:16,171 - INFO - Scraping exitoso para término: COCOA EN POLVO
+2024-12-07 16:54:16,171 - INFO - ====== WebDriver manager ======
+2024-12-07 16:54:18,096 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:54:18,119 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:54:18,145 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:54:43,921 - INFO - Scraping exitoso para término: PRODUCTO ACHOCOLATADO
+2024-12-07 16:54:43,922 - INFO - ====== WebDriver manager ======
+2024-12-07 16:54:45,776 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:54:46,978 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:55:01,913 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:55:01,941 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:55:07,927 - INFO - Scraping exitoso para término: AGUA DE MESA SIN GAS
+2024-12-07 16:55:07,928 - INFO - ====== WebDriver manager ======
+2024-12-07 16:55:11,542 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:55:11,560 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:55:11,581 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:55:31,666 - INFO - Scraping exitoso para término: AGUA MINERAL SIN GAS
+2024-12-07 16:55:31,666 - INFO - ====== WebDriver manager ======
+2024-12-07 16:55:35,207 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:55:35,229 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:55:35,254 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:56:17,526 - INFO - Scraping exitoso para término: BEBIDAS GASEOSAS
+2024-12-07 16:56:17,526 - INFO - ====== WebDriver manager ======
+2024-12-07 16:56:19,050 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:56:19,065 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:56:19,081 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:56:31,280 - INFO - Scraping exitoso para término: BEBIDA ENERGIZANTE (FLUIDA)
+2024-12-07 16:56:31,280 - INFO - ====== WebDriver manager ======
+2024-12-07 16:56:33,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:56:33,932 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-07 16:56:33,948 - INFO - Driver [D:\Users\LUISMOQUILLAZA\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-07 16:56:36,718 - WARNING - Optional action failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00763433+25059]
+	(No symbol) [0x006ECE34]
+	(No symbol) [0x005CBEC3]
+	(No symbol) [0x0060FD86]
+	(No symbol) [0x0060FFCB]
+	(No symbol) [0x0064D952]
+	(No symbol) [0x00631F44]
+	(No symbol) [0x0064B51E]
+	(No symbol) [0x00631C96]
+	(No symbol) [0x00603FAC]
+	(No symbol) [0x00604F3D]
+	GetHandleVerifier [0x00A55593+3113795]
+	GetHandleVerifier [0x00A6A25A+3198986]
+	GetHandleVerifier [0x00A62A32+3168226]
+	GetHandleVerifier [0x008032A0+680016]
+	(No symbol) [0x006F577D]
+	(No symbol) [0x006F2A28]
+	(No symbol) [0x006F2BC5]
+	(No symbol) [0x006E5820]
+	BaseThreadInitThunk [0x754267F9+25]
+	RtlGetFullPathName_UEx [0x77407F6D+173]
+	RtlGetFullPathName_UEx [0x77407F3B+123]
+
+2024-12-07 16:57:02,931 - INFO - Scraping exitoso para término: BEBIDA HIDRATANTE
+2024-12-07 16:57:37,601 - INFO - Scraping exitoso para término: BEBIDA DE FRUTA ENVASADA
+2024-12-07 16:57:51,932 - INFO - Scraping exitoso para término: REFRESCO ENVASADO (FLUIDO)
