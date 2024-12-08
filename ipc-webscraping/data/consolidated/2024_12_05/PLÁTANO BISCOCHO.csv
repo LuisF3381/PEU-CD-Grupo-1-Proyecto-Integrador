@@ -1,3 +1,3 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Plátano Bizcocho Tipo Exportación x kg,,1.0,kg,6.99,metro,2024-12-05 15:59:23.746259,PLÁTANO BISCOCHO,1.0,kg,6.99
-Plátano Bizcocho Orgánico x kg,,1.0,kg,6.99,wong,2024-12-05 18:33:09.075699,PLÁTANO BISCOCHO,1.0,kg,6.99
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Plátano Bizcocho Tipo Exportación x kg,,1.0,kg,6.99,metro,2024-12-05 15:59:23.746259,PLÁTANO BISCOCHO,1.0,kg,6.99,PLÁTANO BISCOCHO
+Plátano Bizcocho Orgánico x kg,,1.0,kg,6.99,wong,2024-12-05 18:33:09.075699,PLÁTANO BISCOCHO,1.0,kg,6.99,PLÁTANO BISCOCHO

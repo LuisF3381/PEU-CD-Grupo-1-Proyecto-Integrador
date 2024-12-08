@@ -1,5 +1,5 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Cebolla China BELL'S Bolsa 320g,,320.0,g,3.49,plaza_vea,2024-12-05 15:33:16.400418,CEBOLLA CHINA,320.0,g,3.49
-Cebolla China BELL'S FRESCOS Bolsa 320g,BELL'S FRESCOS,320.0,g,3.49,vivanda,2024-12-05 22:13:32.595962,CEBOLLA CHINA,320.0,g,3.49
-Cebolla China Manantiales 200g,,200.0,g,3.59,metro,2024-12-05 16:15:12.074714,CEBOLLA CHINA,200.0,g,3.59
-Cebolla China Manantiales 200g,,200.0,g,3.59,wong,2024-12-05 18:51:00.884613,CEBOLLA CHINA,200.0,g,3.59
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Cebolla China BELL'S Bolsa 320g,,320.0,g,3.49,plaza_vea,2024-12-05 15:33:16.400418,CEBOLLA CHINA,320.0,g,3.49,CEBOLLA CHINA
+Cebolla China BELL'S FRESCOS Bolsa 320g,BELL'S FRESCOS,320.0,g,3.49,vivanda,2024-12-05 22:13:32.595962,CEBOLLA CHINA,320.0,g,3.49,CEBOLLA CHINA
+Cebolla China Manantiales 200g,,200.0,g,3.59,metro,2024-12-05 16:15:12.074714,CEBOLLA CHINA,200.0,g,3.59,CEBOLLA CHINA
+Cebolla China Manantiales 200g,,200.0,g,3.59,wong,2024-12-05 18:51:00.884613,CEBOLLA CHINA,200.0,g,3.59,CEBOLLA CHINA

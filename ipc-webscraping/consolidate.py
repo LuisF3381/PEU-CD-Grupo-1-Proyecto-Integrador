@@ -212,8 +212,10 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
                 df_sin_duplicados['brand'] = np.nan
 
             # Seleccionamos las columnas relevantes
-            columnas_seleccionadas = ['description', 'brand', 'cantidad', 'unidad', 'price_numeric', 'website', 'scrape_timestamp', 'search_term', 'cantidad_escalada', 'unidad_escalada', 'price_numeric_escalado']
+            columnas_seleccionadas = ['description', 'brand', 'cantidad', 'unidad', 'price_numeric', 'website', 'scrape_timestamp', 'search_term', 'cantidad_escalada', 'unidad_escalada', 'price_numeric_escalado', 'CLASIFICACION']
             df_sin_duplicados = df_sin_duplicados[columnas_seleccionadas]
+            
+            # Aplicamos la funcion de filro correspondiente
 
             # Guardar con el nombre de la clasificación (reemplazando espacios por guiones bajos)
             nombre_archivo = f"{clasificacion}.csv"

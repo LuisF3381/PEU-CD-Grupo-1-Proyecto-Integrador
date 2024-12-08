@@ -1,8 +1,8 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Apio Atado,,1.0,un,1.89,plaza_vea,2024-12-05 15:26:21.186331,APIO,1.0,un,1.89
-Apio Atado x un,VIVANDA,1.0,un,1.89,vivanda,2024-12-05 22:08:21.880352,APIO,1.0,un,1.89
-Bastones de Apio BELL'S FRESCOS 250g,BELL'S FRESCOS,250.0,g,3.99,vivanda,2024-12-05 22:08:21.880352,APIO,250.0,g,3.99
-Apio Hipodrónico Ecologic x un,,1.0,un,6.3,metro,2024-12-05 16:07:03.367430,APIO,1.0,un,6.3
-Apio Hipodrónico Ecologic x un,,1.0,un,6.3,wong,2024-12-05 18:43:13.425348,APIO,1.0,un,6.3
-Apio Prelavado Viva 300g,,300.0,g,7.5,wong,2024-12-05 18:43:13.425348,APIO,300.0,g,7.5
-Apio VIVA x un,,1.0,un,7.59,plaza_vea,2024-12-05 15:26:21.186331,APIO,1.0,un,7.59
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Apio Atado,,1.0,un,1.89,plaza_vea,2024-12-05 15:26:21.186331,APIO,1.0,un,1.89,APIO
+Apio Atado x un,VIVANDA,1.0,un,1.89,vivanda,2024-12-05 22:08:21.880352,APIO,1.0,un,1.89,APIO
+Bastones de Apio BELL'S FRESCOS 250g,BELL'S FRESCOS,250.0,g,3.99,vivanda,2024-12-05 22:08:21.880352,APIO,250.0,g,3.99,APIO
+Apio Hipodrónico Ecologic x un,,1.0,un,6.3,metro,2024-12-05 16:07:03.367430,APIO,1.0,un,6.3,APIO
+Apio Hipodrónico Ecologic x un,,1.0,un,6.3,wong,2024-12-05 18:43:13.425348,APIO,1.0,un,6.3,APIO
+Apio Prelavado Viva 300g,,300.0,g,7.5,wong,2024-12-05 18:43:13.425348,APIO,300.0,g,7.5,APIO
+Apio VIVA x un,,1.0,un,7.59,plaza_vea,2024-12-05 15:26:21.186331,APIO,1.0,un,7.59,APIO

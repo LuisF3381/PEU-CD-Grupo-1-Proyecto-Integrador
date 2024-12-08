@@ -1,5 +1,5 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Hígado de Res Importado Trozado x kg,,1.0,kg,13.9,metro,2024-12-05 15:31:36.818261,HÍGADO DE RES,1,kg,13.9
-Hígado Feteado Schilcayo 1kg,,1.0,kg,13.9,metro,2024-12-05 15:31:36.818261,HÍGADO DE RES,1,kg,13.9
-Hígado de Res Importado Trozado x kg,,1.0,kg,14.9,wong,2024-12-05 18:01:43.772622,HÍGADO DE RES,1,kg,14.9
-Snack Saludable Woof City Hígado de Res 75g,,75.0,g,16.99,wong,2024-12-05 18:01:43.772622,HÍGADO DE RES,1,kg,226.53333333333333
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Hígado de Res Importado Trozado x kg,,1.0,kg,13.9,metro,2024-12-05 15:31:36.818261,HÍGADO DE RES,1,kg,13.9,HÍGADO DE RES
+Hígado Feteado Schilcayo 1kg,,1.0,kg,13.9,metro,2024-12-05 15:31:36.818261,HÍGADO DE RES,1,kg,13.9,HÍGADO DE RES
+Hígado de Res Importado Trozado x kg,,1.0,kg,14.9,wong,2024-12-05 18:01:43.772622,HÍGADO DE RES,1,kg,14.9,HÍGADO DE RES
+Snack Saludable Woof City Hígado de Res 75g,,75.0,g,16.99,wong,2024-12-05 18:01:43.772622,HÍGADO DE RES,1,kg,226.53333333333333,HÍGADO DE RES

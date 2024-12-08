@@ -1,110 +1,110 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Azúcar Rubia Máxima 1kg,,1.0,kg,4.4,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.4
-Azúcar Rubia Wong 1kg,,1.0,kg,4.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,4.7
-Azúcar Rubia Cuisine & Co 1kg,,1.0,kg,4.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.8
-Azúcar Rubia Cuisine & Co 1kg,,1.0,kg,4.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,4.9
-Azúcar Blanca Metro Bolsa 1 kg,,1.0,kg,4.99,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.99
-Azúcar Rubia Dulfina Bolsa 1 kg,,1.0,kg,5.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,5.1
-Azúcar Rubia Dulfina Bolsa 1 kg,,1.0,kg,5.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,5.1
-Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,5.8
-Azúcar Blanca Paramonga Bolsa 1 kg,,1.0,kg,5.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,5.8
-Azúcar blanca light Onza Con Stevia Doy Pack 500 g,,500.0,g,7.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,500.0,g,7.3
-Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,7.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,500.0,g,7.9
-Azúcar Rubia Onza 60un,,60.0,un,8.2,metro,2024-12-05 16:25:44.405629,EDULCORANTE,60.0,un,8.2
-Azúcar Rubia Onza 60un,,60.0,un,8.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,60.0,un,8.3
-Azúcar Rubia Wong Bolsa 2 kg,,2.0,kg,8.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,8.9
-Panela Orgánica de Piura Cuisine & Co Doypack 350 g,,350.0,g,8.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,350.0,g,8.9
-Azúcar Rubia Dulfina Bolsa 2 kg,,2.0,kg,9.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,9.5
-Azúcar Rubia Dulfina Bolsa 2 kg,,2.0,kg,9.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,9.6
-Azúcar Blanca Metro Bolsa 2 Kg,,2.0,kg,9.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,9.8
-Azúcar Blanca Wong Bolsa 2 kg,,2.0,kg,9.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,9.9
-Azúcar Morena Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,10.6
-Azúcar Blanca Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,10.6
-Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.7,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,10.7
-Panela Orgánica Panela de Piura Caja 400 g,,400.0,g,10.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,400.0,g,10.8
-Panela Orgánica Onza 50un,,50.0,un,10.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,10.9
-Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,10.9
-Endulzante en Polvo Stevia Cuisine & Co 50un,,50.0,un,11.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,11.9
-Endulzante en Polvo Stevia Cuisine & Co 50un,,50.0,un,11.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,11.9
-Panela Granulada Ecopanela 1kg,,1.0,kg,13.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,13.9
-Panela Orgánica Cuisine & Co 1kg,,1.0,kg,14.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,14.6
-Stevia en Polvo Cuisine & Co Caja 50 unid,,50.0,un,15.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,15.1
-Stevia en Polvo Cuisine & Co Caja 50 unid,,50.0,un,15.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,15.1
-Fruto del Monje Vía 50un,,50.0,un,16.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,16.5
-Azúcar de Coco Mi Tierra 250g,,250.0,g,17.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,250.0,g,17.1
-Endulzante en Polvo Vida Stevia Libre de Calorías Caja 50 Unid,,50.0,un,17.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,17.9
-Endulzante en Polvo Vida Stevia Libre de Calorías Caja 50 Unid,,50.0,un,18.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,18.1
-Azúcar Morena Light Incauca 850g,,850.0,g,18.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,850.0,g,18.6
-Endulzante Natural Stevita Líquido 80ml,,80.0,ml,19.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,80.0,ml,19.1
-Endulzante Stevia & Panela Onza 50un,,50.0,un,19.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,19.2
-Edulcorante BELL'S Baja en Calorías Caja 100un,,100.0,un,19.6,plaza_vea,2024-12-05 15:43:40.931773,EDULCORANTE,100.0,un,19.6
-Endulzante en Polvo Stevia Cuisine & Co 50g,,50.0,g,20.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,g,20.1
-Endulzante de Stevia & Yacón Onza 50un,,50.0,un,20.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,20.2
-Stevia Nutrastevia Tableta 150 Unidades,,150.0,un,20.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,150.0,un,20.8
-Azúcar Rubia Metro 5kg,,5.0,kg,20.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,20.8
-Azúcar Rubia Cuisine & Co 5kg,,5.0,kg,21.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,21.5
-Endulzante en Polvo Stevia Cuisine & Co Caja 100 unid,,100.0,un,21.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,21.7
-Endulzante con Sucralosa Cuisine & Co 100g,,100.0,g,21.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,g,21.9
-Edulcorante en Tabletas Sugafor 110un,,110.0,un,22.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,110.0,un,22.1
-Endulzante Líquido Stevia Cuisine & Co Botella 100 ml,,100.0,ml,22.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,22.1
-Endulzante Líquido Stevia Cuisine & Co Botella 100 ml,,100.0,ml,22.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,22.1
-Edulcorante en Tabletas Sugafor 110un,,110.0,un,22.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,110.0,un,22.5
-Azúcar Rubia Dulfina Bolsa 5 kg,,5.0,kg,22.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,22.8
-Endulzante en Tabletas Splenda Libre de Calorías Dispenser 100 Unid,,100.0,un,23.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,23.4
-Azúcar Rubia Paramonga Bolsa 5 kg,,5.0,kg,23.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,5.0,kg,23.5
-Azúcar Rubia Dulfina Bolsa 5 kg,,5.0,kg,23.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,5.0,kg,23.6
-Endulzante Orgánico Stevita Naturals 50un,,50.0,un,23.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,23.8
-Azúcar Blanca Metro Bolsa 5 kg,,5.0,kg,23.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,23.9
-Panela Orgánica Granulada Panela de Piura Frasco 200 g,,200.0,g,23.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,g,23.9
-Endulzante de Mesa Splenda Stevia 40un,,40.0,un,24.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,40.0,un,24.2
-Endulzante Orgánico Stevita Naturals Extra Dulce 50un,,50.0,un,24.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,24.7
-Endulzante Líquido La Boliviana Stevia 100ml,,100.0,ml,24.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,24.8
-Endulzante en Polvo La Boliviana Stevia 150g,,150.0,g,24.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,150.0,g,24.9
-Edulcorante en Polvo Sugafor 50un,,50.0,un,25.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,25.8
-Stevia Pura Cuisine & Co Pote 20 g,,20.0,g,25.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,20.0,g,25.9
-Endulzante en Polvo Splenda Libre de Calorías 50un,,50.0,un,27.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,27.3
-Stevia Nutrastevia En Polvo Frasco 50 g,,50.0,g,27.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,g,27.9
-Endulzante en Polvo Splenda Libre de Calorías 50un,,50.0,un,27.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,27.9
-Fruto del Monje Vía 60g,,60.0,g,28.0,metro,2024-12-05 16:25:44.405629,EDULCORANTE,60.0,g,28.0
-Endulzante en Polvo NutraStevia con Yacón 50g,,50.0,g,28.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.3
-Endulzante Líquido NutraStevia con Yacón 100ml,,100.0,ml,28.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,28.3
-Endulzante en Polvo NutraStevia con Colágeno 50g,,50.0,g,28.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.3
-Endulzante Líquido NutraStevia con Yacón 100ml,,100.0,ml,28.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,28.4
-Stevia Nutrastevia En Polvo Frasco 50 g,,50.0,g,28.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.5
-Edulcorante Líquido Sugafor 100ml,,100.0,ml,31.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,31.7
-Endulzante Líquido Nutrastevia Frasco 110 ml,,110.0,ml,32.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,110.0,ml,32.7
-Edulcorante en Polvo Stevita Caja 100 Unid,,100.0,un,32.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,un,32.9
-Endulzante Splenda Stevia 175g,,175.0,g,33.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,175.0,g,33.5
-Edulcorante en Polvo Stevita Caja 100 Unid,,100.0,un,34.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,34.5
-Endulzante en Polvo Vida Stevia Libre de Calorías Caja 100 Unid,,100.0,un,34.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,34.9
-Edulcorante en Polvo Stevia Pote 120 g,,120.0,g,35.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,120.0,g,35.3
-Edulcorante en Polvo Stevia Pote 120 g,,120.0,g,35.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,120.0,g,35.3
-Endulzante en Polvo Stevia Cuisine & Co Caja 200 unid,,200.0,un,35.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,35.5
-Endulzante de Stevia & Yacón Onza 100un,,100.0,un,37.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,37.7
-Endulzante a Base de Fruto del Monje Zana 400g,,400.0,g,39.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,400.0,g,39.9
-Endulzante a Base de Fruto del Monje Zana 400g,,400.0,g,39.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,400.0,g,39.9
-Edulcorante en Tabletas Sugafor 330un,,330.0,un,40.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,330.0,un,40.9
-Endulzante en Polvo Splenda Libre de Calorías 100un,,100.0,un,43.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,un,43.5
-Endulzante en Polvo Splenda Libre de Calorías 100un,,100.0,un,43.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,43.5
-Endulzante en Tabletas Splenda Libre de Calorías Dispenser 300 Unid,,300.0,un,43.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,300.0,un,43.8
-Barras de Chocolate con Edulcorante LA IBÉRICA...,,6.0,un,44.9,plaza_vea,2024-12-05 15:43:40.931773,EDULCORANTE,6.0,un,44.9
-Edulcorante en Polvo Stevita 150un,,150.0,un,47.4,metro,2024-12-05 16:25:44.405629,EDULCORANTE,150.0,un,47.4
-Endulzante En Polvo Vida Stevia 180 g,,180.0,g,48.2,metro,2024-12-05 16:25:44.405629,EDULCORANTE,180.0,g,48.2
-Stevia con Yacón Amaru Superfoods 80un,,80.0,un,48.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,80.0,un,48.6
-Edulcorante en Polvo Stevita 150un,,150.0,un,48.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,150.0,un,48.9
-Edulcorante en Tabletas Sugafor 440un,,440.0,un,50.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,440.0,un,50.3
-Edulcorante en Tabletas Sugafor 440un,,440.0,un,50.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,440.0,un,50.4
-Fruto del Monje Amazonia 450g,,450.0,g,50.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,450.0,g,50.6
-Endulzante en Polvo Vida Stevia Libre de Calorías Caja 200 Unid,,200.0,un,52.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,200.0,un,52.3
-Endulzante en Polvo Vida Stevia Libre de Calorías Caja 200 Unid,,200.0,un,52.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,52.5
-Edulcorante en Tabletas Sugafor 600un,,600.0,un,63.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,600.0,un,63.4
-Edulcorante en Tabletas Sugafor 600un,,600.0,un,63.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,600.0,un,63.9
-Endulzante Golden Lakanto Doypack 454 g,,454.0,g,69.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,69.8
-Endulzante Classic Lakanto 454g,,454.0,g,69.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,69.8
-Edulcorante en Polvo Sugafor 200un,,200.0,un,71.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,200.0,un,71.1
-Stevia Edulcorante - 160 unidades,SPLENDA,160.0,un,74.5,tottus,2024-12-05 12:27:18.014105,EDULCORANTE,160.0,un,74.5
-Edulcorante en Polvo Sugafor 200un,,200.0,un,74.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,74.9
-Endulzante Líquido Lakanto Frasco 52 ml,,52.0,ml,76.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,52.0,ml,76.4
-Azucar Rubia Paramonga Bolsa 25 kg,,25.0,kg,107.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,25.0,kg,107.9
-Endulzante Golden Lakanto Doypack 800 g,,800.0,g,112.0,wong,2024-12-05 19:03:33.739370,EDULCORANTE,800.0,g,112.0
-Endulzante Classic Lakanto Doypack 800 g,,800.0,g,112.0,wong,2024-12-05 19:03:33.739370,EDULCORANTE,800.0,g,112.0
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Azúcar Rubia Máxima 1kg,,1.0,kg,4.4,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.4,EDULCORANTE
+Azúcar Rubia Wong 1kg,,1.0,kg,4.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,4.7,EDULCORANTE
+Azúcar Rubia Cuisine & Co 1kg,,1.0,kg,4.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.8,EDULCORANTE
+Azúcar Rubia Cuisine & Co 1kg,,1.0,kg,4.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,4.9,EDULCORANTE
+Azúcar Blanca Metro Bolsa 1 kg,,1.0,kg,4.99,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,4.99,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 1 kg,,1.0,kg,5.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,5.1,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 1 kg,,1.0,kg,5.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,5.1,EDULCORANTE
+Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,5.8,EDULCORANTE
+Azúcar Blanca Paramonga Bolsa 1 kg,,1.0,kg,5.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,5.8,EDULCORANTE
+Azúcar blanca light Onza Con Stevia Doy Pack 500 g,,500.0,g,7.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,500.0,g,7.3,EDULCORANTE
+Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,7.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,500.0,g,7.9,EDULCORANTE
+Azúcar Rubia Onza 60un,,60.0,un,8.2,metro,2024-12-05 16:25:44.405629,EDULCORANTE,60.0,un,8.2,EDULCORANTE
+Azúcar Rubia Onza 60un,,60.0,un,8.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,60.0,un,8.3,EDULCORANTE
+Azúcar Rubia Wong Bolsa 2 kg,,2.0,kg,8.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,8.9,EDULCORANTE
+Panela Orgánica de Piura Cuisine & Co Doypack 350 g,,350.0,g,8.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,350.0,g,8.9,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 2 kg,,2.0,kg,9.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,9.5,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 2 kg,,2.0,kg,9.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,9.6,EDULCORANTE
+Azúcar Blanca Metro Bolsa 2 Kg,,2.0,kg,9.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,9.8,EDULCORANTE
+Azúcar Blanca Wong Bolsa 2 kg,,2.0,kg,9.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,9.9,EDULCORANTE
+Azúcar Morena Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,10.6,EDULCORANTE
+Azúcar Blanca Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,10.6,EDULCORANTE
+Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.7,metro,2024-12-05 16:25:44.405629,EDULCORANTE,2.0,kg,10.7,EDULCORANTE
+Panela Orgánica Panela de Piura Caja 400 g,,400.0,g,10.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,400.0,g,10.8,EDULCORANTE
+Panela Orgánica Onza 50un,,50.0,un,10.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,10.9,EDULCORANTE
+Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,2.0,kg,10.9,EDULCORANTE
+Endulzante en Polvo Stevia Cuisine & Co 50un,,50.0,un,11.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,11.9,EDULCORANTE
+Endulzante en Polvo Stevia Cuisine & Co 50un,,50.0,un,11.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,11.9,EDULCORANTE
+Panela Granulada Ecopanela 1kg,,1.0,kg,13.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,1.0,kg,13.9,EDULCORANTE
+Panela Orgánica Cuisine & Co 1kg,,1.0,kg,14.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,1.0,kg,14.6,EDULCORANTE
+Stevia en Polvo Cuisine & Co Caja 50 unid,,50.0,un,15.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,15.1,EDULCORANTE
+Stevia en Polvo Cuisine & Co Caja 50 unid,,50.0,un,15.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,15.1,EDULCORANTE
+Fruto del Monje Vía 50un,,50.0,un,16.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,16.5,EDULCORANTE
+Azúcar de Coco Mi Tierra 250g,,250.0,g,17.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,250.0,g,17.1,EDULCORANTE
+Endulzante en Polvo Vida Stevia Libre de Calorías Caja 50 Unid,,50.0,un,17.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,17.9,EDULCORANTE
+Endulzante en Polvo Vida Stevia Libre de Calorías Caja 50 Unid,,50.0,un,18.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,18.1,EDULCORANTE
+Azúcar Morena Light Incauca 850g,,850.0,g,18.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,850.0,g,18.6,EDULCORANTE
+Endulzante Natural Stevita Líquido 80ml,,80.0,ml,19.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,80.0,ml,19.1,EDULCORANTE
+Endulzante Stevia & Panela Onza 50un,,50.0,un,19.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,19.2,EDULCORANTE
+Edulcorante BELL'S Baja en Calorías Caja 100un,,100.0,un,19.6,plaza_vea,2024-12-05 15:43:40.931773,EDULCORANTE,100.0,un,19.6,EDULCORANTE
+Endulzante en Polvo Stevia Cuisine & Co 50g,,50.0,g,20.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,g,20.1,EDULCORANTE
+Endulzante de Stevia & Yacón Onza 50un,,50.0,un,20.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,20.2,EDULCORANTE
+Stevia Nutrastevia Tableta 150 Unidades,,150.0,un,20.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,150.0,un,20.8,EDULCORANTE
+Azúcar Rubia Metro 5kg,,5.0,kg,20.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,20.8,EDULCORANTE
+Azúcar Rubia Cuisine & Co 5kg,,5.0,kg,21.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,21.5,EDULCORANTE
+Endulzante en Polvo Stevia Cuisine & Co Caja 100 unid,,100.0,un,21.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,21.7,EDULCORANTE
+Endulzante con Sucralosa Cuisine & Co 100g,,100.0,g,21.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,g,21.9,EDULCORANTE
+Edulcorante en Tabletas Sugafor 110un,,110.0,un,22.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,110.0,un,22.1,EDULCORANTE
+Endulzante Líquido Stevia Cuisine & Co Botella 100 ml,,100.0,ml,22.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,22.1,EDULCORANTE
+Endulzante Líquido Stevia Cuisine & Co Botella 100 ml,,100.0,ml,22.1,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,22.1,EDULCORANTE
+Edulcorante en Tabletas Sugafor 110un,,110.0,un,22.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,110.0,un,22.5,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 5 kg,,5.0,kg,22.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,22.8,EDULCORANTE
+Endulzante en Tabletas Splenda Libre de Calorías Dispenser 100 Unid,,100.0,un,23.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,23.4,EDULCORANTE
+Azúcar Rubia Paramonga Bolsa 5 kg,,5.0,kg,23.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,5.0,kg,23.5,EDULCORANTE
+Azúcar Rubia Dulfina Bolsa 5 kg,,5.0,kg,23.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,5.0,kg,23.6,EDULCORANTE
+Endulzante Orgánico Stevita Naturals 50un,,50.0,un,23.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,23.8,EDULCORANTE
+Azúcar Blanca Metro Bolsa 5 kg,,5.0,kg,23.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,5.0,kg,23.9,EDULCORANTE
+Panela Orgánica Granulada Panela de Piura Frasco 200 g,,200.0,g,23.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,g,23.9,EDULCORANTE
+Endulzante de Mesa Splenda Stevia 40un,,40.0,un,24.2,wong,2024-12-05 19:03:33.739370,EDULCORANTE,40.0,un,24.2,EDULCORANTE
+Endulzante Orgánico Stevita Naturals Extra Dulce 50un,,50.0,un,24.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,24.7,EDULCORANTE
+Endulzante Líquido La Boliviana Stevia 100ml,,100.0,ml,24.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,24.8,EDULCORANTE
+Endulzante en Polvo La Boliviana Stevia 150g,,150.0,g,24.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,150.0,g,24.9,EDULCORANTE
+Edulcorante en Polvo Sugafor 50un,,50.0,un,25.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,25.8,EDULCORANTE
+Stevia Pura Cuisine & Co Pote 20 g,,20.0,g,25.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,20.0,g,25.9,EDULCORANTE
+Endulzante en Polvo Splenda Libre de Calorías 50un,,50.0,un,27.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,un,27.3,EDULCORANTE
+Stevia Nutrastevia En Polvo Frasco 50 g,,50.0,g,27.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,50.0,g,27.9,EDULCORANTE
+Endulzante en Polvo Splenda Libre de Calorías 50un,,50.0,un,27.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,un,27.9,EDULCORANTE
+Fruto del Monje Vía 60g,,60.0,g,28.0,metro,2024-12-05 16:25:44.405629,EDULCORANTE,60.0,g,28.0,EDULCORANTE
+Endulzante en Polvo NutraStevia con Yacón 50g,,50.0,g,28.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.3,EDULCORANTE
+Endulzante Líquido NutraStevia con Yacón 100ml,,100.0,ml,28.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,ml,28.3,EDULCORANTE
+Endulzante en Polvo NutraStevia con Colágeno 50g,,50.0,g,28.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.3,EDULCORANTE
+Endulzante Líquido NutraStevia con Yacón 100ml,,100.0,ml,28.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,28.4,EDULCORANTE
+Stevia Nutrastevia En Polvo Frasco 50 g,,50.0,g,28.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,50.0,g,28.5,EDULCORANTE
+Edulcorante Líquido Sugafor 100ml,,100.0,ml,31.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,ml,31.7,EDULCORANTE
+Endulzante Líquido Nutrastevia Frasco 110 ml,,110.0,ml,32.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,110.0,ml,32.7,EDULCORANTE
+Edulcorante en Polvo Stevita Caja 100 Unid,,100.0,un,32.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,un,32.9,EDULCORANTE
+Endulzante Splenda Stevia 175g,,175.0,g,33.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,175.0,g,33.5,EDULCORANTE
+Edulcorante en Polvo Stevita Caja 100 Unid,,100.0,un,34.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,34.5,EDULCORANTE
+Endulzante en Polvo Vida Stevia Libre de Calorías Caja 100 Unid,,100.0,un,34.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,34.9,EDULCORANTE
+Edulcorante en Polvo Stevia Pote 120 g,,120.0,g,35.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,120.0,g,35.3,EDULCORANTE
+Edulcorante en Polvo Stevia Pote 120 g,,120.0,g,35.3,wong,2024-12-05 19:03:33.739370,EDULCORANTE,120.0,g,35.3,EDULCORANTE
+Endulzante en Polvo Stevia Cuisine & Co Caja 200 unid,,200.0,un,35.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,35.5,EDULCORANTE
+Endulzante de Stevia & Yacón Onza 100un,,100.0,un,37.7,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,37.7,EDULCORANTE
+Endulzante a Base de Fruto del Monje Zana 400g,,400.0,g,39.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,400.0,g,39.9,EDULCORANTE
+Endulzante a Base de Fruto del Monje Zana 400g,,400.0,g,39.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,400.0,g,39.9,EDULCORANTE
+Edulcorante en Tabletas Sugafor 330un,,330.0,un,40.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,330.0,un,40.9,EDULCORANTE
+Endulzante en Polvo Splenda Libre de Calorías 100un,,100.0,un,43.5,metro,2024-12-05 16:25:44.405629,EDULCORANTE,100.0,un,43.5,EDULCORANTE
+Endulzante en Polvo Splenda Libre de Calorías 100un,,100.0,un,43.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,100.0,un,43.5,EDULCORANTE
+Endulzante en Tabletas Splenda Libre de Calorías Dispenser 300 Unid,,300.0,un,43.8,metro,2024-12-05 16:25:44.405629,EDULCORANTE,300.0,un,43.8,EDULCORANTE
+Barras de Chocolate con Edulcorante LA IBÉRICA...,,6.0,un,44.9,plaza_vea,2024-12-05 15:43:40.931773,EDULCORANTE,6.0,un,44.9,EDULCORANTE
+Edulcorante en Polvo Stevita 150un,,150.0,un,47.4,metro,2024-12-05 16:25:44.405629,EDULCORANTE,150.0,un,47.4,EDULCORANTE
+Endulzante En Polvo Vida Stevia 180 g,,180.0,g,48.2,metro,2024-12-05 16:25:44.405629,EDULCORANTE,180.0,g,48.2,EDULCORANTE
+Stevia con Yacón Amaru Superfoods 80un,,80.0,un,48.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,80.0,un,48.6,EDULCORANTE
+Edulcorante en Polvo Stevita 150un,,150.0,un,48.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,150.0,un,48.9,EDULCORANTE
+Edulcorante en Tabletas Sugafor 440un,,440.0,un,50.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,440.0,un,50.3,EDULCORANTE
+Edulcorante en Tabletas Sugafor 440un,,440.0,un,50.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,440.0,un,50.4,EDULCORANTE
+Fruto del Monje Amazonia 450g,,450.0,g,50.6,wong,2024-12-05 19:03:33.739370,EDULCORANTE,450.0,g,50.6,EDULCORANTE
+Endulzante en Polvo Vida Stevia Libre de Calorías Caja 200 Unid,,200.0,un,52.3,metro,2024-12-05 16:25:44.405629,EDULCORANTE,200.0,un,52.3,EDULCORANTE
+Endulzante en Polvo Vida Stevia Libre de Calorías Caja 200 Unid,,200.0,un,52.5,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,52.5,EDULCORANTE
+Edulcorante en Tabletas Sugafor 600un,,600.0,un,63.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,600.0,un,63.4,EDULCORANTE
+Edulcorante en Tabletas Sugafor 600un,,600.0,un,63.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,600.0,un,63.9,EDULCORANTE
+Endulzante Golden Lakanto Doypack 454 g,,454.0,g,69.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,69.8,EDULCORANTE
+Endulzante Classic Lakanto 454g,,454.0,g,69.8,wong,2024-12-05 19:03:33.739370,EDULCORANTE,454.0,g,69.8,EDULCORANTE
+Edulcorante en Polvo Sugafor 200un,,200.0,un,71.1,metro,2024-12-05 16:25:44.405629,EDULCORANTE,200.0,un,71.1,EDULCORANTE
+Stevia Edulcorante - 160 unidades,SPLENDA,160.0,un,74.5,tottus,2024-12-05 12:27:18.014105,EDULCORANTE,160.0,un,74.5,EDULCORANTE
+Edulcorante en Polvo Sugafor 200un,,200.0,un,74.9,wong,2024-12-05 19:03:33.739370,EDULCORANTE,200.0,un,74.9,EDULCORANTE
+Endulzante Líquido Lakanto Frasco 52 ml,,52.0,ml,76.4,wong,2024-12-05 19:03:33.739370,EDULCORANTE,52.0,ml,76.4,EDULCORANTE
+Azucar Rubia Paramonga Bolsa 25 kg,,25.0,kg,107.9,metro,2024-12-05 16:25:44.405629,EDULCORANTE,25.0,kg,107.9,EDULCORANTE
+Endulzante Golden Lakanto Doypack 800 g,,800.0,g,112.0,wong,2024-12-05 19:03:33.739370,EDULCORANTE,800.0,g,112.0,EDULCORANTE
+Endulzante Classic Lakanto Doypack 800 g,,800.0,g,112.0,wong,2024-12-05 19:03:33.739370,EDULCORANTE,800.0,g,112.0,EDULCORANTE

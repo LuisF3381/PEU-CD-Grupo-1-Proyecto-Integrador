@@ -1,30 +1,30 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Azúcar Impalpable UNIVERSAL Bolsa 200gr,Universal,200.0,g,3.1,vega,2024-12-05 13:04:36.122573,AZÚCAR BLANCA,1,kg,15.5
-Azúcar Blanca BELL'S Bolsa 1Kg,,1.0,kg,4.99,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,4.99
-Azúcar Blanca Wong Bolsa 1 kg,,1.0,kg,5.1,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.1
-Azúcar Blanca VEGA Bolsa 1Kg,Vega,1.0,kg,5.1,vega,2024-12-05 13:04:36.122573,AZÚCAR BLANCA,1,kg,5.1
-Azúcar Blanca DULFINA Bolsa 1Kg,,1.0,kg,5.5,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,5.5
-Azúcar Blanca DULFINA Bolsa 1Kg,DULFINA,1.0,kg,5.5,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.5
-Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.5,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.5
-Azúcar Blanca Paramonga Bolsa 1 kg,,1.0,kg,5.8,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.8
-Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,5.8
-Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,6.9,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,13.8
-Azúcar blanca light Onza Con Stevia Doy Pack 500 g,,500.0,g,7.3,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,14.6
-Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,7.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,15.8
-Azúcar Blanca Metro Bolsa 2 Kg,,2.0,kg,9.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,4.9
-Azúcar Blanca Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,23.34801762114537
-Azúcar Morena Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,23.34801762114537
-Azúcar Blanca DULFINA Bolsa 2Kg,DULFINA,2.0,kg,10.7,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.35
-Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.7,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,5.35
-Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.45
-Azúcar Morena Light Incauca 850g,,850.0,g,18.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,21.882352941176475
-Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,18.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,41.77777777777778
-Azúcar Blanca BELL'S Bolsa 5Kg,,5.0,kg,23.9,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,4.78
-Azúcar Blanca Metro Bolsa 5 kg,,5.0,kg,23.9,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,4.78
-Azúcar Blanca BELL'S Bolsa 5Kg,BELL'S,5.0,kg,23.9,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,4.78
-Azúcar Blanca CARTAVIO Bolsa 5Kg,CARTAVIO,5.0,kg,25.29,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.058
-Azúcar Blanca DULFINA Bolsa 5Kg,,5.0,kg,25.9,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,5.18
-Azúcar Blanca DULFINA Bolsa 5Kg,DULFINA,5.0,kg,25.9,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.18
-Azúcar Blanca Cuisine & Co 5kg,,5.0,kg,25.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.18
-Sixpack Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,111.4,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,247.55555555555557
-Sixpack Panetón Blanca Flor Caja 900g,,900.0,g,146.4,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,162.66666666666669
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Azúcar Impalpable UNIVERSAL Bolsa 200gr,Universal,200.0,g,3.1,vega,2024-12-05 13:04:36.122573,AZÚCAR BLANCA,1,kg,15.5,AZÚCAR BLANCA
+Azúcar Blanca BELL'S Bolsa 1Kg,,1.0,kg,4.99,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,4.99,AZÚCAR BLANCA
+Azúcar Blanca Wong Bolsa 1 kg,,1.0,kg,5.1,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.1,AZÚCAR BLANCA
+Azúcar Blanca VEGA Bolsa 1Kg,Vega,1.0,kg,5.1,vega,2024-12-05 13:04:36.122573,AZÚCAR BLANCA,1,kg,5.1,AZÚCAR BLANCA
+Azúcar Blanca DULFINA Bolsa 1Kg,,1.0,kg,5.5,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,5.5,AZÚCAR BLANCA
+Azúcar Blanca DULFINA Bolsa 1Kg,DULFINA,1.0,kg,5.5,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.5,AZÚCAR BLANCA
+Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.5,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.5,AZÚCAR BLANCA
+Azúcar Blanca Paramonga Bolsa 1 kg,,1.0,kg,5.8,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.8,AZÚCAR BLANCA
+Azúcar Blanca Dulfina Bolsa1 kg,,1.0,kg,5.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,5.8,AZÚCAR BLANCA
+Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,6.9,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,13.8,AZÚCAR BLANCA
+Azúcar blanca light Onza Con Stevia Doy Pack 500 g,,500.0,g,7.3,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,14.6,AZÚCAR BLANCA
+Azúcar Blanca Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,7.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,15.8,AZÚCAR BLANCA
+Azúcar Blanca Metro Bolsa 2 Kg,,2.0,kg,9.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,4.9,AZÚCAR BLANCA
+Azúcar Blanca Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,23.34801762114537,AZÚCAR BLANCA
+Azúcar Morena Light Incauca Bolsa 454 g,,454.0,g,10.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,23.34801762114537,AZÚCAR BLANCA
+Azúcar Blanca DULFINA Bolsa 2Kg,DULFINA,2.0,kg,10.7,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.35,AZÚCAR BLANCA
+Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.7,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,5.35,AZÚCAR BLANCA
+Azúcar Blanca Refinada Dulfina Bolsa 2 kg,,2.0,kg,10.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.45,AZÚCAR BLANCA
+Azúcar Morena Light Incauca 850g,,850.0,g,18.6,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,21.882352941176475,AZÚCAR BLANCA
+Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,18.8,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,41.77777777777778,AZÚCAR BLANCA
+Azúcar Blanca BELL'S Bolsa 5Kg,,5.0,kg,23.9,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,4.78,AZÚCAR BLANCA
+Azúcar Blanca Metro Bolsa 5 kg,,5.0,kg,23.9,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,4.78,AZÚCAR BLANCA
+Azúcar Blanca BELL'S Bolsa 5Kg,BELL'S,5.0,kg,23.9,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,4.78,AZÚCAR BLANCA
+Azúcar Blanca CARTAVIO Bolsa 5Kg,CARTAVIO,5.0,kg,25.29,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.058,AZÚCAR BLANCA
+Azúcar Blanca DULFINA Bolsa 5Kg,,5.0,kg,25.9,plaza_vea,2024-12-05 15:42:34.079913,AZÚCAR BLANCA,1,kg,5.18,AZÚCAR BLANCA
+Azúcar Blanca DULFINA Bolsa 5Kg,DULFINA,5.0,kg,25.9,vivanda,2024-12-05 22:19:31.547331,AZÚCAR BLANCA,1,kg,5.18,AZÚCAR BLANCA
+Azúcar Blanca Cuisine & Co 5kg,,5.0,kg,25.9,wong,2024-12-05 19:00:39.056909,AZÚCAR BLANCA,1,kg,5.18,AZÚCAR BLANCA
+Sixpack Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,111.4,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,247.55555555555557,AZÚCAR BLANCA
+Sixpack Panetón Blanca Flor Caja 900g,,900.0,g,146.4,metro,2024-12-05 16:23:57.321344,AZÚCAR BLANCA,1,kg,162.66666666666669,AZÚCAR BLANCA

@@ -1,15 +1,15 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Mini Ciabatta 5un,,5.0,un,1.95,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,5.0,un,1.95
-Pan Ciabatta 5un,,5.0,un,2.8,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,5.0,un,2.8
-Pan Ciabatta Precocido Congelado BELL'S Bolsa 5un,BELL'S,5.0,un,4.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,5.0,un,4.0
-Pan Ciabatta Precocido Congelado 6 Unidades,TOTTUS,6.0,un,4.5,tottus,2024-12-05 11:14:35.541033,PAN CIABATTA,6.0,un,4.5
-Pan Ciabatta Pre Cocido Don Mamino Bolsa 250 g,,250.0,g,4.99,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,250.0,g,4.99
-Pan Ciabatta DON MAMINO Precocido Bolsa 250g,DON MAMINO,250.0,g,5.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,250.0,g,5.0
-Pan Ciabatta Refrigerado Bolsa 6un,VIVANDA,6.0,un,5.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,6.0,un,5.0
-Pan Ciabatta Precocido Cuisine & Co 6un,,6.0,un,5.52,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,6.0,un,5.52
-Pan Mini Ciabatta LA FLORENCIA Bolsa 550g,,550.0,g,5.9,plaza_vea,2024-12-05 14:30:24.700711,PAN CIABATTA,550.0,g,5.9
-Pan Ciabatta Precocido 10un,,10.0,un,5.9,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,10.0,un,5.9
-Pan Ciabatta Precocido Metro Bolsa 10 Unid,,10.0,un,6.5,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,10.0,un,6.5
-Pan Ciabatta Precocido 10un,,10.0,un,6.9,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,10.0,un,6.9
-Pan Ciabatta x Kg,,0.42,kg,7.9,plaza_vea,2024-12-05 14:30:24.700711,PAN CIABATTA,0.42,kg,7.9
-Pan Ciabatta Salvado Bolsa 6un,LA FLORENCIA,6.0,un,9.1,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,6.0,un,9.1
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Mini Ciabatta 5un,,5.0,un,1.95,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,5.0,un,1.95,PAN CIABATTA
+Pan Ciabatta 5un,,5.0,un,2.8,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,5.0,un,2.8,PAN CIABATTA
+Pan Ciabatta Precocido Congelado BELL'S Bolsa 5un,BELL'S,5.0,un,4.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,5.0,un,4.0,PAN CIABATTA
+Pan Ciabatta Precocido Congelado 6 Unidades,TOTTUS,6.0,un,4.5,tottus,2024-12-05 11:14:35.541033,PAN CIABATTA,6.0,un,4.5,PAN CIABATTA
+Pan Ciabatta Pre Cocido Don Mamino Bolsa 250 g,,250.0,g,4.99,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,250.0,g,4.99,PAN CIABATTA
+Pan Ciabatta DON MAMINO Precocido Bolsa 250g,DON MAMINO,250.0,g,5.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,250.0,g,5.0,PAN CIABATTA
+Pan Ciabatta Refrigerado Bolsa 6un,VIVANDA,6.0,un,5.0,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,6.0,un,5.0,PAN CIABATTA
+Pan Ciabatta Precocido Cuisine & Co 6un,,6.0,un,5.52,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,6.0,un,5.52,PAN CIABATTA
+Pan Mini Ciabatta LA FLORENCIA Bolsa 550g,,550.0,g,5.9,plaza_vea,2024-12-05 14:30:24.700711,PAN CIABATTA,550.0,g,5.9,PAN CIABATTA
+Pan Ciabatta Precocido 10un,,10.0,un,5.9,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,10.0,un,5.9,PAN CIABATTA
+Pan Ciabatta Precocido Metro Bolsa 10 Unid,,10.0,un,6.5,metro,2024-12-05 15:10:20.951930,PAN CIABATTA,10.0,un,6.5,PAN CIABATTA
+Pan Ciabatta Precocido 10un,,10.0,un,6.9,wong,2024-12-05 17:37:47.347048,PAN CIABATTA,10.0,un,6.9,PAN CIABATTA
+Pan Ciabatta x Kg,,0.42,kg,7.9,plaza_vea,2024-12-05 14:30:24.700711,PAN CIABATTA,0.42,kg,7.9,PAN CIABATTA
+Pan Ciabatta Salvado Bolsa 6un,LA FLORENCIA,6.0,un,9.1,vivanda,2024-12-05 21:31:34.440961,PAN CIABATTA,6.0,un,9.1,PAN CIABATTA

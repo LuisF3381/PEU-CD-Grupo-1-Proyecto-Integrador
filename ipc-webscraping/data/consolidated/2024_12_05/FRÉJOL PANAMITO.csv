@@ -1,12 +1,12 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Frijol Panamito VEGA Bolsa 400g,Vega,400.0,g,3.8,vega,2024-12-05 12:57:57.444482,FRÉJOL PANAMITO,400.0,g,3.8
-Frijol Panamito TESORO VERDE Bolsa 500g,TESORO VERDE,500.0,g,4.8,vivanda,2024-12-05 22:15:04.568178,FRÉJOL PANAMITO,500.0,g,4.8
-Frijol Panamito Cuisine & Co Bolsa 500 gr,,500.0,g,5.6,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,5.6
-Frijol BELL'S Panamito Bolsa 500g,BELL'S,500.0,g,5.6,vivanda,2024-12-05 22:15:04.568178,FRÉJOL PANAMITO,500.0,g,5.6
-Frejol Panamito VALLENORTE Bolsa 500g,,500.0,g,5.9,plaza_vea,2024-12-05 15:37:04.363878,FRÉJOL PANAMITO,500.0,g,5.9
-Frijol Panamito Costeño 500g,,500.0,g,6.2,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,6.2
-Frijol Panamito Tesoro Del Campo Bolsa 500 g,,500.0,g,6.3,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,6.3
-Frijol Panamito 500 g,TESORO DEL CAMPO,500.0,g,6.3,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,500.0,g,6.3
-Frijol Panamito Tesoro Del Campo Bolsa 500 g,,500.0,g,6.9,wong,2024-12-05 18:54:34.996736,FRÉJOL PANAMITO,500.0,g,6.9
-Frijol Panamito Costeño 500 g,COSTENO,500.0,g,7.0,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,500.0,g,7.0
-Frejoles Aderezados x 360 g,CASA VERDE,360.0,g,8.2,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,360.0,g,8.2
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Frijol Panamito VEGA Bolsa 400g,Vega,400.0,g,3.8,vega,2024-12-05 12:57:57.444482,FRÉJOL PANAMITO,400.0,g,3.8,FRÉJOL PANAMITO
+Frijol Panamito TESORO VERDE Bolsa 500g,TESORO VERDE,500.0,g,4.8,vivanda,2024-12-05 22:15:04.568178,FRÉJOL PANAMITO,500.0,g,4.8,FRÉJOL PANAMITO
+Frijol Panamito Cuisine & Co Bolsa 500 gr,,500.0,g,5.6,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,5.6,FRÉJOL PANAMITO
+Frijol BELL'S Panamito Bolsa 500g,BELL'S,500.0,g,5.6,vivanda,2024-12-05 22:15:04.568178,FRÉJOL PANAMITO,500.0,g,5.6,FRÉJOL PANAMITO
+Frejol Panamito VALLENORTE Bolsa 500g,,500.0,g,5.9,plaza_vea,2024-12-05 15:37:04.363878,FRÉJOL PANAMITO,500.0,g,5.9,FRÉJOL PANAMITO
+Frijol Panamito Costeño 500g,,500.0,g,6.2,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,6.2,FRÉJOL PANAMITO
+Frijol Panamito Tesoro Del Campo Bolsa 500 g,,500.0,g,6.3,metro,2024-12-05 16:18:18.152610,FRÉJOL PANAMITO,500.0,g,6.3,FRÉJOL PANAMITO
+Frijol Panamito 500 g,TESORO DEL CAMPO,500.0,g,6.3,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,500.0,g,6.3,FRÉJOL PANAMITO
+Frijol Panamito Tesoro Del Campo Bolsa 500 g,,500.0,g,6.9,wong,2024-12-05 18:54:34.996736,FRÉJOL PANAMITO,500.0,g,6.9,FRÉJOL PANAMITO
+Frijol Panamito Costeño 500 g,COSTENO,500.0,g,7.0,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,500.0,g,7.0,FRÉJOL PANAMITO
+Frejoles Aderezados x 360 g,CASA VERDE,360.0,g,8.2,tottus,2024-12-05 12:19:32.832103,FRÉJOL PANAMITO,360.0,g,8.2,FRÉJOL PANAMITO

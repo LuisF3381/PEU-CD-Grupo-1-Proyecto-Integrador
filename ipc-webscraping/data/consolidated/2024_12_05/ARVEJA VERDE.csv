@@ -1,24 +1,24 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Alverja Verde Tesoro del Campo Bolsa 350 g,,350.0,g,2.9,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,8.285714285714286
-Arveja VEGA Bolsa 400g,Vega,400.0,g,2.9,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,7.25
-Arveja TIMONEL Bolsa 400gr,Timonel,400.0,g,3.2,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,8.0
-Arroz Superior VEGA Bolsa 750g,Vega,750.0,g,3.7,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.933333333333334
-Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,3.8,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,7.6
-Arveja Verde Partida INCATRAIL Bolsa 500g,INCATRAIL,500.0,g,4.29,vivanda,2024-12-05 22:12:00.640073,ARVEJA VERDE,1.0,kg,8.58
-Arveja Verde Partida INCATRAIL Bolsa 500g,,500.0,g,4.29,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,8.58
-Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,4.3,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,8.6
-Arveja Verde COSTEÑO Bolsa 500g,,500.0,g,4.4,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,8.8
-Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.7,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,9.4
-Arveja Verde VALLENORTE Bolsa 500g,,500.0,g,4.9,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,9.8
-Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.9,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,9.8
-Arveja Verde VALLENORTE Bolsa 500g,VALLENORTE,500.0,g,4.9,vivanda,2024-12-05 22:12:00.640073,ARVEJA VERDE,1.0,kg,9.8
-Arveja Desvainada 150g,,150.0,g,8.3,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,55.33333333333334
-Arvejas Verdes Fruto de Oro 425g,,425.0,g,8.4,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,19.764705882352942
-Arveja Desvainada 150g,,150.0,g,8.5,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,56.66666666666667
-Arveja x kg,,1.0,kg,10.79,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,10.79
-Arveja x kg,,1.0,kg,10.99,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,10.99
-Arveja x kg,,1.0,kg,10.99,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,10.99
-Arroz Superior COSTEÑO Bolsa 5Kg,Costeño,5.0,kg,24.5,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.9
-Arroz Extra GRAN CHALAN Bolsa 5 kg,Gran Chalan,5.0,kg,24.9,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.98
-Arroz Extra FARAON Bolsa 5Kg,Faraon,5.0,kg,26.2,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,5.24
-Arroz Extra VEGA Pacasmayo Saco 10Kg,Veguita,10.0,kg,45.0,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.5
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Alverja Verde Tesoro del Campo Bolsa 350 g,,350.0,g,2.9,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,8.285714285714286,ARVEJA VERDE
+Arveja VEGA Bolsa 400g,Vega,400.0,g,2.9,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,7.25,ARVEJA VERDE
+Arveja TIMONEL Bolsa 400gr,Timonel,400.0,g,3.2,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,8.0,ARVEJA VERDE
+Arroz Superior VEGA Bolsa 750g,Vega,750.0,g,3.7,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.933333333333334,ARVEJA VERDE
+Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,3.8,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,7.6,ARVEJA VERDE
+Arveja Verde Partida INCATRAIL Bolsa 500g,INCATRAIL,500.0,g,4.29,vivanda,2024-12-05 22:12:00.640073,ARVEJA VERDE,1.0,kg,8.58,ARVEJA VERDE
+Arveja Verde Partida INCATRAIL Bolsa 500g,,500.0,g,4.29,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,8.58,ARVEJA VERDE
+Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,4.3,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,8.6,ARVEJA VERDE
+Arveja Verde COSTEÑO Bolsa 500g,,500.0,g,4.4,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,8.8,ARVEJA VERDE
+Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.7,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,9.4,ARVEJA VERDE
+Arveja Verde VALLENORTE Bolsa 500g,,500.0,g,4.9,plaza_vea,2024-12-05 15:31:18.617332,ARVEJA VERDE,1.0,kg,9.8,ARVEJA VERDE
+Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.9,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,9.8,ARVEJA VERDE
+Arveja Verde VALLENORTE Bolsa 500g,VALLENORTE,500.0,g,4.9,vivanda,2024-12-05 22:12:00.640073,ARVEJA VERDE,1.0,kg,9.8,ARVEJA VERDE
+Arveja Desvainada 150g,,150.0,g,8.3,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,55.33333333333334,ARVEJA VERDE
+Arvejas Verdes Fruto de Oro 425g,,425.0,g,8.4,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,19.764705882352942,ARVEJA VERDE
+Arveja Desvainada 150g,,150.0,g,8.5,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,56.66666666666667,ARVEJA VERDE
+Arveja x kg,,1.0,kg,10.79,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,10.79,ARVEJA VERDE
+Arveja x kg,,1.0,kg,10.99,wong,2024-12-05 18:49:06.950751,ARVEJA VERDE,1.0,kg,10.99,ARVEJA VERDE
+Arveja x kg,,1.0,kg,10.99,metro,2024-12-05 16:13:33.669101,ARVEJA VERDE,1.0,kg,10.99,ARVEJA VERDE
+Arroz Superior COSTEÑO Bolsa 5Kg,Costeño,5.0,kg,24.5,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.9,ARVEJA VERDE
+Arroz Extra GRAN CHALAN Bolsa 5 kg,Gran Chalan,5.0,kg,24.9,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.98,ARVEJA VERDE
+Arroz Extra FARAON Bolsa 5Kg,Faraon,5.0,kg,26.2,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,5.24,ARVEJA VERDE
+Arroz Extra VEGA Pacasmayo Saco 10Kg,Veguita,10.0,kg,45.0,vega,2024-12-05 12:52:13.888658,ARVEJA VERDE,1.0,kg,4.5,ARVEJA VERDE

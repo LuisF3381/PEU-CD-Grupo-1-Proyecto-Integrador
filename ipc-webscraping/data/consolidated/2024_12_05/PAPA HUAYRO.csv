@@ -1,5 +1,5 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Papa Huayro Metro x kg,,1.0,kg,4.49,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,4.49
-Papa Huayro Comcen x kg,,1.0,kg,5.69,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,5.69
-Papa Huayro Agro Selecto 1Kg,,1.0,kg,6.9,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,6.9
-Papa Huayro Agro Selecto 1Kg,,1.0,kg,6.9,wong,2024-12-05 18:58:48.721290,PAPA HUAYRO,1,kg,6.9
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Papa Huayro Metro x kg,,1.0,kg,4.49,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,4.49,PAPA HUAYRO
+Papa Huayro Comcen x kg,,1.0,kg,5.69,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,5.69,PAPA HUAYRO
+Papa Huayro Agro Selecto 1Kg,,1.0,kg,6.9,metro,2024-12-05 16:22:22.190333,PAPA HUAYRO,1,kg,6.9,PAPA HUAYRO
+Papa Huayro Agro Selecto 1Kg,,1.0,kg,6.9,wong,2024-12-05 18:58:48.721290,PAPA HUAYRO,1,kg,6.9,PAPA HUAYRO

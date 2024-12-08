@@ -1,4 +1,4 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Plátano Isla Metro x kg,,1.0,kg,5.49,metro,2024-12-05 15:59:19.773970,PLÁTANO DE LA ISLA,1,kg,5.49
-Plátano de Isla BELL'S,,1.0,kg,5.8,plaza_vea,2024-12-05 15:17:28.419139,PLÁTANO DE LA ISLA,1,kg,5.8
-Plátano Isla Wong x kg,,1.0,kg,5.99,wong,2024-12-05 18:33:43.280867,PLÁTANO DE LA ISLA,1,kg,5.99
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Plátano Isla Metro x kg,,1.0,kg,5.49,metro,2024-12-05 15:59:19.773970,PLÁTANO DE LA ISLA,1,kg,5.49,PLÁTANO DE LA ISLA
+Plátano de Isla BELL'S,,1.0,kg,5.8,plaza_vea,2024-12-05 15:17:28.419139,PLÁTANO DE LA ISLA,1,kg,5.8,PLÁTANO DE LA ISLA
+Plátano Isla Wong x kg,,1.0,kg,5.99,wong,2024-12-05 18:33:43.280867,PLÁTANO DE LA ISLA,1,kg,5.99,PLÁTANO DE LA ISLA

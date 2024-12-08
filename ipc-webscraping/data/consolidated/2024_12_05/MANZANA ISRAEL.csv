@@ -1,3 +1,3 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Manzana Israel Añawi Metro x kg,,1.0,kg,3.39,metro,2024-12-05 15:56:51.607047,MANZANA ISRAEL,1,kg,3.39
-Manzana Israel x kg,,1.0,kg,3.82,wong,2024-12-05 18:32:16.997537,MANZANA ISRAEL,1,kg,3.82
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Manzana Israel Añawi Metro x kg,,1.0,kg,3.39,metro,2024-12-05 15:56:51.607047,MANZANA ISRAEL,1,kg,3.39,MANZANA ISRAEL
+Manzana Israel x kg,,1.0,kg,3.82,wong,2024-12-05 18:32:16.997537,MANZANA ISRAEL,1,kg,3.82,MANZANA ISRAEL

@@ -1,7 +1,7 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Filete de Caballa VEGA en Aceite Vegetal Lata 170g,Vega,170.0,g,4.4,vega,2024-12-05 12:11:29.956656,CABALLA,170.0,g,4.4
-Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,,170.0,g,4.9,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,4.9
-Filete de Caballa Marinero 140g,,140.0,g,5.2,wong,2024-12-05 18:07:28.079002,CABALLA,140.0,g,5.2
-Sólido de Caballa Campomar en Aceite Lata 170gr,,170.0,g,5.3,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,5.3
-Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,Timonel,2.5,l,11.0,vega,2024-12-05 12:11:29.956656,CABALLA,2.5,l,11.0
-Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,,170.0,g,30.2,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,30.2
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Filete de Caballa VEGA en Aceite Vegetal Lata 170g,Vega,170.0,g,4.4,vega,2024-12-05 12:11:29.956656,CABALLA,170.0,g,4.4,CABALLA
+Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,,170.0,g,4.9,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,4.9,CABALLA
+Filete de Caballa Marinero 140g,,140.0,g,5.2,wong,2024-12-05 18:07:28.079002,CABALLA,140.0,g,5.2,CABALLA
+Sólido de Caballa Campomar en Aceite Lata 170gr,,170.0,g,5.3,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,5.3,CABALLA
+Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,Timonel,2.5,l,11.0,vega,2024-12-05 12:11:29.956656,CABALLA,2.5,l,11.0,CABALLA
+Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,,170.0,g,30.2,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,30.2,CABALLA

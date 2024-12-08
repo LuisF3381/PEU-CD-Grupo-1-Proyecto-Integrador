@@ -1,47 +1,47 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 50g,EL CEDRO,50.0,g,3.7,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,74.0
-Pina Picada BELL'S FRESCOS Bandeja 500g,BELL'S FRESCOS,500.0,g,9.89,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,19.78
-Jamón de Pierna SANT DALMAI Paquete 150g,SANT DALMAI,150.0,g,11.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,79.33333333333334
-Jamón de Pierna Ahumado SANT DALMAI Paquete 150g,SANT DALMAI,150.0,g,11.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,79.33333333333334
-Jamón de Pierna Ahumado SALCHICHERÍA ALEMANA Paquete 150g,SALCHICHERÍA ALEMANA,150.0,g,13.7,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,91.33333333333333
-Carne Molida de Pavita x 500g,VIVANDA,500.0,g,15.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,31.8
-Pollada Criolla REDONDOS Pierna con Encuentro Bolsa 780g,REDONDOS,780.0,g,16.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,21.153846153846153
-Piernas y Muslos Aderezo Oriental REDONDOS Bolsa 780g,REDONDOS,780.0,g,16.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,21.153846153846153
-Jamón de Pierna BRAEDT Paquete 200g,BRAEDT,200.0,g,16.6,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,83.0
-Pernil de Cerdo con Piel x kg,,1.0,kg,16.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,16.9
-Pierna de Cerdo con Piel y con Hueso x kg,,1.0,kg,16.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,16.9
-Pierna de Cerdo con Piel y con Hueso x kg,,1.0,kg,16.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,16.9
-Chuleta de Pierna de Cerdo con Piel Porcionada x kg,,1.0,kg,18.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,18.9
-Chuleta de Brazuelo de Cerdo Con Piel Metro x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9
-Chuleta de Pierna con Piel de Cerdo x kg,,1.0,kg,21.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,21.9
-Chuleta de Pierna con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9
-Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9
-Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,21.9
-REDONDOS Cerdo Sabor Adobo Bolsa 530g,REDONDOS,530.0,g,22.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,42.45283018867924
-REDONDOS Cerdo Sabor Oriental Bolsa 530g,REDONDOS,530.0,g,23.3,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,43.96226415094339
-Carne Molida EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,25.0,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,25.0
-Chuleta de Brazuelo de Cerdo con Piel Nacional del Sur Metro x kg,,1.0,kg,25.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,25.9
-Pierna de Cerdo Deshuesada LA FLORENCIA 500g,LA FLORENCIA,500.0,g,26.4,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,52.8
-Brazuelo de Cerdo Entero San Fernando x kg,,1.0,kg,28.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,28.9
-Asado de Cerdo x kg,,1.0,kg,28.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,28.9
-Brazuelo de Cerdo Entero San Fernando x kg,,1.0,kg,28.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,28.9
-Pierna de Cerdo Enrollada x kg,,1.0,kg,28.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,28.9
-Chuletón de Pierna Duroc Redondos x kg,,1.0,kg,31.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,31.9
-Chuletón de Pierna Duroc Redondos x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9
-Pulpa de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9
-Enrollado de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9
-Chuleta de Hombro de Cerdo Duroc Redondos x kg,,1.0,kg,32.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,32.9
-Enrollado de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,34.5,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,34.5
-Enrollado de Pierna de Cerdo San Fernando x kg,,1.0,kg,34.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,34.9
-Enrollado de Pierna de Cerdo San Fernando x kg,,1.0,kg,34.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,34.9
-Carne Molida Light EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,36.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,36.5
-Picanha de Cerdo x kg,,1.0,kg,36.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,36.9
-Picanha de Cerdo x kg,,1.0,kg,36.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,36.9
-Picaña de Cerdo Duroc Redondos x kg,,1.0,kg,37.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,37.9
-Pulpa de Pierna de Cerdo San Fernando x kg,,1.0,kg,38.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,38.9
-Enrollado de Cerdo con Jamón y Piña Alamesa x kg,,1.0,kg,38.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,38.9
-Enrollado de Cerdo con Jamón y Piña Alamesa x kg,,1.0,kg,38.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,38.9
-Pulpa de Pierna de Cerdo San Fernando x kg,,1.0,kg,38.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,38.9
-Costillas St Louis Finas Hierbas San Fernando x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,44.9
-Costillas St Louis Finas Hierbas San Fernando x kg,,1.0,kg,44.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,44.9
-Chuleta de Cerdo Kurobuta SRF x kg,,1.0,kg,291.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,291.9
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 50g,EL CEDRO,50.0,g,3.7,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,74.0,PIERNA (CARNE DE CERDO)
+Pina Picada BELL'S FRESCOS Bandeja 500g,BELL'S FRESCOS,500.0,g,9.89,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,19.78,PIERNA (CARNE DE CERDO)
+Jamón de Pierna SANT DALMAI Paquete 150g,SANT DALMAI,150.0,g,11.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,79.33333333333334,PIERNA (CARNE DE CERDO)
+Jamón de Pierna Ahumado SANT DALMAI Paquete 150g,SANT DALMAI,150.0,g,11.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,79.33333333333334,PIERNA (CARNE DE CERDO)
+Jamón de Pierna Ahumado SALCHICHERÍA ALEMANA Paquete 150g,SALCHICHERÍA ALEMANA,150.0,g,13.7,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,91.33333333333333,PIERNA (CARNE DE CERDO)
+Carne Molida de Pavita x 500g,VIVANDA,500.0,g,15.9,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,31.8,PIERNA (CARNE DE CERDO)
+Pollada Criolla REDONDOS Pierna con Encuentro Bolsa 780g,REDONDOS,780.0,g,16.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,21.153846153846153,PIERNA (CARNE DE CERDO)
+Piernas y Muslos Aderezo Oriental REDONDOS Bolsa 780g,REDONDOS,780.0,g,16.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,21.153846153846153,PIERNA (CARNE DE CERDO)
+Jamón de Pierna BRAEDT Paquete 200g,BRAEDT,200.0,g,16.6,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,83.0,PIERNA (CARNE DE CERDO)
+Pernil de Cerdo con Piel x kg,,1.0,kg,16.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,16.9,PIERNA (CARNE DE CERDO)
+Pierna de Cerdo con Piel y con Hueso x kg,,1.0,kg,16.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,16.9,PIERNA (CARNE DE CERDO)
+Pierna de Cerdo con Piel y con Hueso x kg,,1.0,kg,16.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,16.9,PIERNA (CARNE DE CERDO)
+Chuleta de Pierna de Cerdo con Piel Porcionada x kg,,1.0,kg,18.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,18.9,PIERNA (CARNE DE CERDO)
+Chuleta de Brazuelo de Cerdo Con Piel Metro x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9,PIERNA (CARNE DE CERDO)
+Chuleta de Pierna con Piel de Cerdo x kg,,1.0,kg,21.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,21.9,PIERNA (CARNE DE CERDO)
+Chuleta de Pierna con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9,PIERNA (CARNE DE CERDO)
+Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,21.9,PIERNA (CARNE DE CERDO)
+Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,21.9,PIERNA (CARNE DE CERDO)
+REDONDOS Cerdo Sabor Adobo Bolsa 530g,REDONDOS,530.0,g,22.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,42.45283018867924,PIERNA (CARNE DE CERDO)
+REDONDOS Cerdo Sabor Oriental Bolsa 530g,REDONDOS,530.0,g,23.3,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,43.96226415094339,PIERNA (CARNE DE CERDO)
+Carne Molida EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,25.0,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,25.0,PIERNA (CARNE DE CERDO)
+Chuleta de Brazuelo de Cerdo con Piel Nacional del Sur Metro x kg,,1.0,kg,25.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,25.9,PIERNA (CARNE DE CERDO)
+Pierna de Cerdo Deshuesada LA FLORENCIA 500g,LA FLORENCIA,500.0,g,26.4,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,52.8,PIERNA (CARNE DE CERDO)
+Brazuelo de Cerdo Entero San Fernando x kg,,1.0,kg,28.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,28.9,PIERNA (CARNE DE CERDO)
+Asado de Cerdo x kg,,1.0,kg,28.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,28.9,PIERNA (CARNE DE CERDO)
+Brazuelo de Cerdo Entero San Fernando x kg,,1.0,kg,28.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,28.9,PIERNA (CARNE DE CERDO)
+Pierna de Cerdo Enrollada x kg,,1.0,kg,28.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,28.9,PIERNA (CARNE DE CERDO)
+Chuletón de Pierna Duroc Redondos x kg,,1.0,kg,31.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,31.9,PIERNA (CARNE DE CERDO)
+Chuletón de Pierna Duroc Redondos x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9,PIERNA (CARNE DE CERDO)
+Pulpa de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9,PIERNA (CARNE DE CERDO)
+Enrollado de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,31.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,31.9,PIERNA (CARNE DE CERDO)
+Chuleta de Hombro de Cerdo Duroc Redondos x kg,,1.0,kg,32.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,32.9,PIERNA (CARNE DE CERDO)
+Enrollado de Brazuelo de Cerdo San Fernando x kg,,1.0,kg,34.5,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,34.5,PIERNA (CARNE DE CERDO)
+Enrollado de Pierna de Cerdo San Fernando x kg,,1.0,kg,34.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,34.9,PIERNA (CARNE DE CERDO)
+Enrollado de Pierna de Cerdo San Fernando x kg,,1.0,kg,34.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,34.9,PIERNA (CARNE DE CERDO)
+Carne Molida Light EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,36.5,vivanda,2024-12-05 21:39:35.651677,PIERNA (CARNE DE CERDO),1.0,kg,36.5,PIERNA (CARNE DE CERDO)
+Picanha de Cerdo x kg,,1.0,kg,36.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,36.9,PIERNA (CARNE DE CERDO)
+Picanha de Cerdo x kg,,1.0,kg,36.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,36.9,PIERNA (CARNE DE CERDO)
+Picaña de Cerdo Duroc Redondos x kg,,1.0,kg,37.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,37.9,PIERNA (CARNE DE CERDO)
+Pulpa de Pierna de Cerdo San Fernando x kg,,1.0,kg,38.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,38.9,PIERNA (CARNE DE CERDO)
+Enrollado de Cerdo con Jamón y Piña Alamesa x kg,,1.0,kg,38.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,38.9,PIERNA (CARNE DE CERDO)
+Enrollado de Cerdo con Jamón y Piña Alamesa x kg,,1.0,kg,38.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,38.9,PIERNA (CARNE DE CERDO)
+Pulpa de Pierna de Cerdo San Fernando x kg,,1.0,kg,38.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,38.9,PIERNA (CARNE DE CERDO)
+Costillas St Louis Finas Hierbas San Fernando x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.534606,PIERNA (CARNE DE CERDO),1.0,kg,44.9,PIERNA (CARNE DE CERDO)
+Costillas St Louis Finas Hierbas San Fernando x kg,,1.0,kg,44.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,44.9,PIERNA (CARNE DE CERDO)
+Chuleta de Cerdo Kurobuta SRF x kg,,1.0,kg,291.9,wong,2024-12-05 17:53:09.479817,PIERNA (CARNE DE CERDO),1.0,kg,291.9,PIERNA (CARNE DE CERDO)

@@ -1,21 +1,21 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Ajo Molido Sobre 50 g,,50.0,g,1.3,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,50.0,g,1.3
-"MOLIDO DOY PACK X 120 GRS PIKI, AJOS",PIKI,120.0,g,2.8,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,120.0,g,2.8
-Ajo Molido PIKI Doypack 120g,,120.0,g,2.9,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,120.0,g,2.9
-Ajo Molido Piki 120g,,120.0,g,4.3,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,120.0,g,4.3
-Ajo Molido 3 Unidades 72 g,SIBARITA,3.0,un,4.75,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,3.0,un,4.75
-Ajo Molido Sibarita Sobre 100 g,,100.0,g,6.4,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,100.0,g,6.4
-Ajo Molido Sibarita Sobre 100 g,,100.0,g,6.4,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,100.0,g,6.4
-Ajo KARIÑO Molido Frasco 40Gr,KARINO,40.0,g,8.3,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,40.0,g,8.3
-Ajos molidos 215 g,TOTTUS,215.0,g,8.7,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,215.0,g,8.7
-Ajo Molido BELL’S Frasco 215g,BELL'S,215.0,g,9.5,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,215.0,g,9.5
-Ajo Molido 350 g,PIKI,350.0,g,12.1,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,350.0,g,12.1
-Ajo PIKI Molido Doypack 350Gr,PIKI,350.0,g,12.1,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,350.0,g,12.1
-Ajo Molido Piki 350g,,350.0,g,12.5,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,350.0,g,12.5
-Ajo Molido Sibarita Ajo Siba 250g,,250.0,g,19.6,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,250.0,g,19.6
-Ajo Molido Sibarita Ajo Siba 250g,,250.0,g,19.6,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,250.0,g,19.6
-Sazonador Ajo Negro Molido Badia 170g,,170.0,g,22.2,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,170.0,g,22.2
-Ajo Molido Piki 1kg,,1.0,kg,25.2,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,1.0,kg,25.2
-Ajo Molido PIKI Doypack 1Kg,,1.0,kg,25.2,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,1.0,kg,25.2
-Ajo Molido Piki 1kg,,1.0,kg,25.2,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,1.0,kg,25.2
-Ajo Molido SIBARITA Ajo Siba Doypack 550g,,550.0,g,31.9,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,550.0,g,31.9
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Ajo Molido Sobre 50 g,,50.0,g,1.3,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,50.0,g,1.3,AJO MOLIDO
+"MOLIDO DOY PACK X 120 GRS PIKI, AJOS",PIKI,120.0,g,2.8,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,120.0,g,2.8,AJO MOLIDO
+Ajo Molido PIKI Doypack 120g,,120.0,g,2.9,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,120.0,g,2.9,AJO MOLIDO
+Ajo Molido Piki 120g,,120.0,g,4.3,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,120.0,g,4.3,AJO MOLIDO
+Ajo Molido 3 Unidades 72 g,SIBARITA,3.0,un,4.75,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,3.0,un,4.75,AJO MOLIDO
+Ajo Molido Sibarita Sobre 100 g,,100.0,g,6.4,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,100.0,g,6.4,AJO MOLIDO
+Ajo Molido Sibarita Sobre 100 g,,100.0,g,6.4,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,100.0,g,6.4,AJO MOLIDO
+Ajo KARIÑO Molido Frasco 40Gr,KARINO,40.0,g,8.3,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,40.0,g,8.3,AJO MOLIDO
+Ajos molidos 215 g,TOTTUS,215.0,g,8.7,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,215.0,g,8.7,AJO MOLIDO
+Ajo Molido BELL’S Frasco 215g,BELL'S,215.0,g,9.5,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,215.0,g,9.5,AJO MOLIDO
+Ajo Molido 350 g,PIKI,350.0,g,12.1,tottus,2024-12-05 12:33:20.292066,AJO MOLIDO,350.0,g,12.1,AJO MOLIDO
+Ajo PIKI Molido Doypack 350Gr,PIKI,350.0,g,12.1,vivanda,2024-12-05 22:24:47.831752,AJO MOLIDO,350.0,g,12.1,AJO MOLIDO
+Ajo Molido Piki 350g,,350.0,g,12.5,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,350.0,g,12.5,AJO MOLIDO
+Ajo Molido Sibarita Ajo Siba 250g,,250.0,g,19.6,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,250.0,g,19.6,AJO MOLIDO
+Ajo Molido Sibarita Ajo Siba 250g,,250.0,g,19.6,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,250.0,g,19.6,AJO MOLIDO
+Sazonador Ajo Negro Molido Badia 170g,,170.0,g,22.2,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,170.0,g,22.2,AJO MOLIDO
+Ajo Molido Piki 1kg,,1.0,kg,25.2,wong,2024-12-05 19:11:08.347885,AJO MOLIDO,1.0,kg,25.2,AJO MOLIDO
+Ajo Molido PIKI Doypack 1Kg,,1.0,kg,25.2,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,1.0,kg,25.2,AJO MOLIDO
+Ajo Molido Piki 1kg,,1.0,kg,25.2,metro,2024-12-05 16:33:22.214900,AJO MOLIDO,1.0,kg,25.2,AJO MOLIDO
+Ajo Molido SIBARITA Ajo Siba Doypack 550g,,550.0,g,31.9,plaza_vea,2024-12-05 15:50:50.363119,AJO MOLIDO,550.0,g,31.9,AJO MOLIDO

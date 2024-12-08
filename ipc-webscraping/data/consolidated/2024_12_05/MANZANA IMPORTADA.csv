@@ -1,4 +1,4 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Manzana Roja Importada,,0.6,kg,7.9,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.166666666666668
-Manzana Royal Gala Importada,,0.6,kg,7.9,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.166666666666668
-Manzana Verde Importada,,0.6,kg,7.98,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.3
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Manzana Roja Importada,,0.6,kg,7.9,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.166666666666668,MANZANA IMPORTADA
+Manzana Royal Gala Importada,,0.6,kg,7.9,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.166666666666668,MANZANA IMPORTADA
+Manzana Verde Importada,,0.6,kg,7.98,plaza_vea,2024-12-05 15:14:17.723633,MANZANA IMPORTADA,1,kg,13.3,MANZANA IMPORTADA

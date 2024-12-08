@@ -1,47 +1,47 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Café Tostado y Molido CAFETAL Selecto Bolsa 50gr,Cafetal,50.0,g,2.8,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,56.0
-Café Tostado y Molido CAFETAL Selecto Bolsa 80gr,Cafetal,80.0,g,4.0,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,50.0
-Café Tostado y Molido CAFETAL Selecto Bolsa 200gr,Cafetal,200.0,g,9.0,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,45.0
-Café Tostado Molido BELL'S Bolsa 220g,BELL'S,220.0,g,9.9,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,45.00000000000001
-Café Tostado Molido BELL'S Bolsa 220g,,220.0,g,9.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,45.00000000000001
-Café Tostado y Molido CAFETAL Selecto Bolsa 20...,,200.0,g,11.2,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,56.0
-Café tostado y molido 200 gr,TOTTUS,200.0,g,11.7,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,58.5
-Café Molido y Tostado Cuisine & Co 220g,,220.0,g,12.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,56.81818181818182
-Café Tostado y Molido Americano Cafetal Bolsa 140 g,,140.0,g,14.7,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,104.99999999999999
-Café Tostado y Molido Americano Cafetal Bolsa 140 g,,140.0,g,14.8,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,105.71428571428571
-Café Tostado Molido ALTOMAYO Gourmet Bolsa 200...,,200.0,g,17.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,89.5
-Café Tostado Molido ALTOMAYO Gourmet Bolsa 200g,ALTOMAYO,200.0,g,19.3,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,96.5
-Café Tostado Y Molido CAFETAL Selecto Bolsa 454gr,Cafetal,454.0,g,19.5,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,42.95154185022026
-Café Molido y Tostado Cuisine & Co 500g,,500.0,g,19.9,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,39.8
-Café Tostado Molido BELL'S Bolsa 500g,BELL'S,500.0,g,19.9,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,39.8
-Café tostado y molido 500 gr,TOTTUS,500.0,g,19.9,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,39.8
-Café Tostado Molido BELL'S Bolsa 500g,,500.0,g,19.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,39.8
-Café tostado y molido Selecto de 454 g,CAFETAL,454.0,g,20.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,45.154185022026425
-Café tostado molido clásico de 450 g,ALTOMAYO,450.0,g,23.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,52.22222222222222
-Café tostado y molido 425 gr,SELLO ROJO,425.0,g,23.9,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,56.23529411764706
-Café Tostado y Molido CAFETAL Selecto Doypack 454g,CAFETAL,454.0,g,24.0,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,52.86343612334801
-Café Tostado y Molido CAFETAL Selecto Bolsa 4...,,454.0,g,24.0,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,52.86343612334801
-Café Tostado Gourmet en Grano 250g,ALTOMAYO,250.0,g,25.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,102.0
-Café Tostado y Molido CAFFE Premium Bolsa 250g,,250.0,g,27.2,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,108.8
-Café tostado y molido premium Expreso Caffé de 250 g,,250.0,g,27.4,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,109.6
-Café Tostado y Molido CAFFE Blend Bolsa 500g,,500.0,g,28.5,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,57.0
-Café Tostado y Molido CAFFE Blend Bolsa 500g,CAFFE,500.0,g,28.5,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,57.0
-Café Molido PUMA Tostado Espresso Bolsa 250g,,250.0,g,28.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,115.6
-Café Tostado y Molido Blend Caffé 500g,,500.0,g,29.6,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,59.2
-Café Tostado Molido ALTOMAYO Gourmet Bolsa 450gr,Altomayo,450.0,g,29.9,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,66.44444444444444
-Café en Grano Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0
-Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0
-Café Molido Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0
-Café tostado molido gourmet 450 g,ALTOMAYO,450.0,g,33.8,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,75.11111111111111
-Café Tostado Molido ALTOMAYO Gourmet Bolsa 450...,,450.0,g,33.8,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,75.11111111111111
-Café Tostado Molido Caffe Notas Chocolate 250 g,,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0
-Café Molido y Tostado Selecto Gourmet 250g,CAFFE,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0
-Café Tostado Y Molido Selecto Notas Frutos Rojos 250 g,CAFFE,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0
-Café en Grano Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,36.9,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,147.6
-Café Tostado Blend Caffé De 500 G,CAFFE,500.0,g,37.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,75.0
-Café Tostado Molido ALTOMAYO Gourmet Caja 450g...,,1.0,g,37.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,37900.0
-Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack 250 g,,250.0,g,38.1,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,152.4
-Café Tostado CAFFE Molido Bolsa 900g,,900.0,g,41.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,46.55555555555556
-Café Tostado y Molido CAFETAL Selecto Bolsa 90...,,900.0,g,42.79,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,47.544444444444444
-Café Tostado y Molido CAFFE Premium Bolsa 500g,,500.0,g,44.5,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,89.0
-Café Tostado y Molido CAFFE Premium Bolsa 500g,CAFFE,500.0,g,44.5,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,89.0
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Café Tostado y Molido CAFETAL Selecto Bolsa 50gr,Cafetal,50.0,g,2.8,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,56.0,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Bolsa 80gr,Cafetal,80.0,g,4.0,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,50.0,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Bolsa 200gr,Cafetal,200.0,g,9.0,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,45.0,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido BELL'S Bolsa 220g,BELL'S,220.0,g,9.9,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,45.00000000000001,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido BELL'S Bolsa 220g,,220.0,g,9.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,45.00000000000001,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Bolsa 20...,,200.0,g,11.2,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,56.0,CAFÉ TOSTADO MOLIDO
+Café tostado y molido 200 gr,TOTTUS,200.0,g,11.7,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,58.5,CAFÉ TOSTADO MOLIDO
+Café Molido y Tostado Cuisine & Co 220g,,220.0,g,12.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,56.81818181818182,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido Americano Cafetal Bolsa 140 g,,140.0,g,14.7,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,104.99999999999999,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido Americano Cafetal Bolsa 140 g,,140.0,g,14.8,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,105.71428571428571,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido ALTOMAYO Gourmet Bolsa 200...,,200.0,g,17.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,89.5,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido ALTOMAYO Gourmet Bolsa 200g,ALTOMAYO,200.0,g,19.3,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,96.5,CAFÉ TOSTADO MOLIDO
+Café Tostado Y Molido CAFETAL Selecto Bolsa 454gr,Cafetal,454.0,g,19.5,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,42.95154185022026,CAFÉ TOSTADO MOLIDO
+Café Molido y Tostado Cuisine & Co 500g,,500.0,g,19.9,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,39.8,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido BELL'S Bolsa 500g,BELL'S,500.0,g,19.9,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,39.8,CAFÉ TOSTADO MOLIDO
+Café tostado y molido 500 gr,TOTTUS,500.0,g,19.9,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,39.8,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido BELL'S Bolsa 500g,,500.0,g,19.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,39.8,CAFÉ TOSTADO MOLIDO
+Café tostado y molido Selecto de 454 g,CAFETAL,454.0,g,20.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,45.154185022026425,CAFÉ TOSTADO MOLIDO
+Café tostado molido clásico de 450 g,ALTOMAYO,450.0,g,23.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,52.22222222222222,CAFÉ TOSTADO MOLIDO
+Café tostado y molido 425 gr,SELLO ROJO,425.0,g,23.9,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,56.23529411764706,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Doypack 454g,CAFETAL,454.0,g,24.0,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,52.86343612334801,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Bolsa 4...,,454.0,g,24.0,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,52.86343612334801,CAFÉ TOSTADO MOLIDO
+Café Tostado Gourmet en Grano 250g,ALTOMAYO,250.0,g,25.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,102.0,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFFE Premium Bolsa 250g,,250.0,g,27.2,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,108.8,CAFÉ TOSTADO MOLIDO
+Café tostado y molido premium Expreso Caffé de 250 g,,250.0,g,27.4,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,109.6,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFFE Blend Bolsa 500g,,500.0,g,28.5,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,57.0,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFFE Blend Bolsa 500g,CAFFE,500.0,g,28.5,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,57.0,CAFÉ TOSTADO MOLIDO
+Café Molido PUMA Tostado Espresso Bolsa 250g,,250.0,g,28.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,115.6,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido Blend Caffé 500g,,500.0,g,29.6,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,59.2,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido ALTOMAYO Gourmet Bolsa 450gr,Altomayo,450.0,g,29.9,vega,2024-12-05 13:25:00.751097,CAFÉ TOSTADO MOLIDO,1,kg,66.44444444444444,CAFÉ TOSTADO MOLIDO
+Café en Grano Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0,CAFÉ TOSTADO MOLIDO
+Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0,CAFÉ TOSTADO MOLIDO
+Café Molido Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 16:48:28.460745,CAFÉ TOSTADO MOLIDO,1,kg,122.0,CAFÉ TOSTADO MOLIDO
+Café tostado molido gourmet 450 g,ALTOMAYO,450.0,g,33.8,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,75.11111111111111,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido ALTOMAYO Gourmet Bolsa 450...,,450.0,g,33.8,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,75.11111111111111,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido Caffe Notas Chocolate 250 g,,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0,CAFÉ TOSTADO MOLIDO
+Café Molido y Tostado Selecto Gourmet 250g,CAFFE,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0,CAFÉ TOSTADO MOLIDO
+Café Tostado Y Molido Selecto Notas Frutos Rojos 250 g,CAFFE,250.0,g,36.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,146.0,CAFÉ TOSTADO MOLIDO
+Café en Grano Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,36.9,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,147.6,CAFÉ TOSTADO MOLIDO
+Café Tostado Blend Caffé De 500 G,CAFFE,500.0,g,37.5,tottus,2024-12-05 12:43:51.702620,CAFÉ TOSTADO MOLIDO,1,kg,75.0,CAFÉ TOSTADO MOLIDO
+Café Tostado Molido ALTOMAYO Gourmet Caja 450g...,,1.0,g,37.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,37900.0,CAFÉ TOSTADO MOLIDO
+Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack 250 g,,250.0,g,38.1,wong,2024-12-05 19:26:23.727372,CAFÉ TOSTADO MOLIDO,1,kg,152.4,CAFÉ TOSTADO MOLIDO
+Café Tostado CAFFE Molido Bolsa 900g,,900.0,g,41.9,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,46.55555555555556,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFETAL Selecto Bolsa 90...,,900.0,g,42.79,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,47.544444444444444,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFFE Premium Bolsa 500g,,500.0,g,44.5,plaza_vea,2024-12-05 16:01:51.791307,CAFÉ TOSTADO MOLIDO,1,kg,89.0,CAFÉ TOSTADO MOLIDO
+Café Tostado y Molido CAFFE Premium Bolsa 500g,CAFFE,500.0,g,44.5,vivanda,2024-12-05 22:32:26.293399,CAFÉ TOSTADO MOLIDO,1,kg,89.0,CAFÉ TOSTADO MOLIDO

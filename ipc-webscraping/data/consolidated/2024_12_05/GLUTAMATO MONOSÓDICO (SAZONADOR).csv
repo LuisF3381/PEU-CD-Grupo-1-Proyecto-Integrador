@@ -1,6 +1,6 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,,100.0,g,1.9,plaza_vea,2024-12-05 15:52:28.268897,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,19.0
-Sazonador Glutamato Monosódico NAKAMITO Bolsa 100g,NAKAMITO,100.0,g,1.9,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,19.0
-Sazonador AJI-NO-MOTO Umami Glutamato de Sodio Bolsa 100Gr,AJINOMOTO,100.0,g,3.2,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,32.0
-Sazonador Glutamato Monosódico NAKAMITO Bolsa 250g,NAKAMITO,250.0,g,4.1,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,16.4
-Sazonador AJI-NO-MOTO Umami Glutamato de Sodio Bolsa 500Gr,AJINOMOTO,500.0,g,11.1,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,22.2
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Sazonador Glutamato Monosódico NAKAMITO Bolsa ...,,100.0,g,1.9,plaza_vea,2024-12-05 15:52:28.268897,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,19.0,GLUTAMATO MONOSÓDICO (SAZONADOR)
+Sazonador Glutamato Monosódico NAKAMITO Bolsa 100g,NAKAMITO,100.0,g,1.9,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,19.0,GLUTAMATO MONOSÓDICO (SAZONADOR)
+Sazonador AJI-NO-MOTO Umami Glutamato de Sodio Bolsa 100Gr,AJINOMOTO,100.0,g,3.2,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,32.0,GLUTAMATO MONOSÓDICO (SAZONADOR)
+Sazonador Glutamato Monosódico NAKAMITO Bolsa 250g,NAKAMITO,250.0,g,4.1,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,16.4,GLUTAMATO MONOSÓDICO (SAZONADOR)
+Sazonador AJI-NO-MOTO Umami Glutamato de Sodio Bolsa 500Gr,AJINOMOTO,500.0,g,11.1,vivanda,2024-12-05 22:26:11.599809,GLUTAMATO MONOSÓDICO (SAZONADOR),1,kg,22.2,GLUTAMATO MONOSÓDICO (SAZONADOR)

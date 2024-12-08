@@ -1,9 +1,9 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Papa Blanca x kg,,1.0,kg,1.59,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,1.59
-Papa Blanca Metro x kg,,1.0,kg,2.6,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.6
-Papa Blanca,,0.5,kg,2.79,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,5.58
-Papa Blanca Yungay Metro x kg,,1.0,kg,2.99,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.99
-Papa Blanca Yungay,,1.0,kg,3.19,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,3.19
-Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,3.39
-Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,7.5
-Papa Blanca Yungay Agro Selecto 2kg,,2.0,kg,8.5,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,4.25
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Papa Blanca x kg,,1.0,kg,1.59,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,1.59,PAPA BLANCA
+Papa Blanca Metro x kg,,1.0,kg,2.6,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.6,PAPA BLANCA
+Papa Blanca,,0.5,kg,2.79,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,5.58,PAPA BLANCA
+Papa Blanca Yungay Metro x kg,,1.0,kg,2.99,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.99,PAPA BLANCA
+Papa Blanca Yungay,,1.0,kg,3.19,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,3.19,PAPA BLANCA
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,3.39,PAPA BLANCA
+Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,7.5,PAPA BLANCA
+Papa Blanca Yungay Agro Selecto 2kg,,2.0,kg,8.5,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,4.25,PAPA BLANCA

@@ -1,12 +1,12 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Bebida en Polvo Clight Sin Calorías Sabor Mandarina 14g,,14.0,g,2.3,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,164.28571428571428
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Mandarina 14g,,14.0,g,5.0,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,357.14285714285717
-Mandarina Costa x kg,,1.0,kg,5.69,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,5.69
-Mandarina Malvacea,,1.0,kg,5.7,plaza_vea,2024-12-05 15:12:15.502592,MANDARINA,1.0,kg,5.7
-Mandarina Costa x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99
-Mandarina con Pepa x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99
-Mandarina sin Pepa Wong x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99
-Tripack Jabón en Barra Palmolive Mandarina y Romero 110g,,110.0,g,9.9,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,90.00000000000001
-Mandarina con Pepa La Morochita Wong 1.5kg,,1.5,kg,10.49,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,6.993333333333333
-Mandarina La Pecosita Kids x kg,,1.0,kg,12.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,12.99
-Mandarina Sin Pepa La Pecosita x 2 kg,,2.0,kg,13.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,6.995
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Bebida en Polvo Clight Sin Calorías Sabor Mandarina 14g,,14.0,g,2.3,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,164.28571428571428,MANDARINA
+Tripack Bebida Instantánea Clight Sin Calorías Sabor Mandarina 14g,,14.0,g,5.0,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,357.14285714285717,MANDARINA
+Mandarina Costa x kg,,1.0,kg,5.69,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,5.69,MANDARINA
+Mandarina Malvacea,,1.0,kg,5.7,plaza_vea,2024-12-05 15:12:15.502592,MANDARINA,1.0,kg,5.7,MANDARINA
+Mandarina Costa x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99,MANDARINA
+Mandarina con Pepa x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99,MANDARINA
+Mandarina sin Pepa Wong x kg,,1.0,kg,5.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,5.99,MANDARINA
+Tripack Jabón en Barra Palmolive Mandarina y Romero 110g,,110.0,g,9.9,metro,2024-12-05 15:53:02.525202,MANDARINA,1.0,kg,90.00000000000001,MANDARINA
+Mandarina con Pepa La Morochita Wong 1.5kg,,1.5,kg,10.49,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,6.993333333333333,MANDARINA
+Mandarina La Pecosita Kids x kg,,1.0,kg,12.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,12.99,MANDARINA
+Mandarina Sin Pepa La Pecosita x 2 kg,,2.0,kg,13.99,wong,2024-12-05 18:26:53.165339,MANDARINA,1.0,kg,6.995,MANDARINA

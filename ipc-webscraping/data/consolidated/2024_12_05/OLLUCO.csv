@@ -1,8 +1,8 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Olluco Especial x Kg,,1.0,kg,6.29,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.29
-Olluco Entero x kg,,1.0,kg,6.49,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.49
-Olluco Metro x kg,,1.0,kg,6.79,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.79
-Olluco Entero x kg,,1.0,kg,6.99,wong,2024-12-05 19:00:02.256667,OLLUCO,1.0,kg,6.99
-Olluco Especial x Kg,,1.0,kg,6.99,wong,2024-12-05 19:00:02.256667,OLLUCO,1.0,kg,6.99
-Olluco Picado Cuisine & Co 600g,,600.0,g,13.0,metro,2024-12-05 16:23:34.593205,OLLUCO,600.0,g,13.0
-Olluco Picado Premium Wong Bandeja 450g,,450.0,g,15.9,wong,2024-12-05 19:00:02.256667,OLLUCO,450.0,g,15.9
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Olluco Especial x Kg,,1.0,kg,6.29,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.29,OLLUCO
+Olluco Entero x kg,,1.0,kg,6.49,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.49,OLLUCO
+Olluco Metro x kg,,1.0,kg,6.79,metro,2024-12-05 16:23:34.593205,OLLUCO,1.0,kg,6.79,OLLUCO
+Olluco Entero x kg,,1.0,kg,6.99,wong,2024-12-05 19:00:02.256667,OLLUCO,1.0,kg,6.99,OLLUCO
+Olluco Especial x Kg,,1.0,kg,6.99,wong,2024-12-05 19:00:02.256667,OLLUCO,1.0,kg,6.99,OLLUCO
+Olluco Picado Cuisine & Co 600g,,600.0,g,13.0,metro,2024-12-05 16:23:34.593205,OLLUCO,600.0,g,13.0,OLLUCO
+Olluco Picado Premium Wong Bandeja 450g,,450.0,g,15.9,wong,2024-12-05 19:00:02.256667,OLLUCO,450.0,g,15.9,OLLUCO

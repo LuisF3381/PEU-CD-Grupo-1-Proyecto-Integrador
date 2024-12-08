@@ -1,5 +1,5 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Plátano de Seda,,1.0,kg,2.79,plaza_vea,2024-12-05 15:17:54.679219,PLÁTANO DE SEDA,1,kg,2.79
-Plátano de Seda Metro x kg,,1.0,kg,2.99,metro,2024-12-05 15:59:38.116212,PLÁTANO DE SEDA,1,kg,2.99
-Plátano de Seda Tipo Exportación en Bolsa x kg,,1.0,kg,6.39,metro,2024-12-05 15:59:38.116212,PLÁTANO DE SEDA,1,kg,6.39
-Plátano de Seda Tipo Exportación en Bolsa x kg,,1.0,kg,6.39,wong,2024-12-05 18:34:56.654077,PLÁTANO DE SEDA,1,kg,6.39
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Plátano de Seda,,1.0,kg,2.79,plaza_vea,2024-12-05 15:17:54.679219,PLÁTANO DE SEDA,1,kg,2.79,PLÁTANO DE SEDA
+Plátano de Seda Metro x kg,,1.0,kg,2.99,metro,2024-12-05 15:59:38.116212,PLÁTANO DE SEDA,1,kg,2.99,PLÁTANO DE SEDA
+Plátano de Seda Tipo Exportación en Bolsa x kg,,1.0,kg,6.39,metro,2024-12-05 15:59:38.116212,PLÁTANO DE SEDA,1,kg,6.39,PLÁTANO DE SEDA
+Plátano de Seda Tipo Exportación en Bolsa x kg,,1.0,kg,6.39,wong,2024-12-05 18:34:56.654077,PLÁTANO DE SEDA,1,kg,6.39,PLÁTANO DE SEDA

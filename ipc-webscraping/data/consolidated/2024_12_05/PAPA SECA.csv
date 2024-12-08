@@ -1,26 +1,26 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Alverja Verde Tesoro del Campo Bolsa 350 g,,350.0,g,2.9,metro,2024-12-05 16:23:58.218132,PAPA SECA,350.0,g,2.9
-Arveja Partida Máxima 500g,,500.0,g,3.5,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,3.5
-Arveja Cuisine & Co 500g,,500.0,g,3.5,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.5
-Arveja Bolsa 500g,,500.0,g,3.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.7
-Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,3.8,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.8
-Arveja Partida Costeño 500g,,500.0,g,3.8,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.8
-Mezcla de nueces 40 g,GRANUTS,40.0,g,3.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,40.0,g,3.9
-Mezcla de arándanos maní y almendras 50 g,GRANUTS,50.0,g,3.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,50.0,g,3.9
-Papa seca VEGA Bolsa 400g,Vega,400.0,g,4.3,vega,2024-12-05 13:04:36.201041,PAPA SECA,400.0,g,4.3
-Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,4.7
-Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.9,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,4.9
-Papa Seca BELL'S Bolsa 400g,BELL'S,400.0,g,5.6,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,400.0,g,5.6
-Papa Seca 400 g,TOTTUS,400.0,g,5.65,tottus,2024-12-05 12:25:52.504541,PAPA SECA,400.0,g,5.65
-Papa Seca Máxima Bolsa 500 g,,500.0,g,5.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,5.7
-Papa Seca Cuisine & Co 500g,,500.0,g,6.1,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,6.1
-Habas saladas 150 g,VILLA NATURA,150.0,g,6.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,150.0,g,6.9
-Papa Seca 500 g,TESORO DEL CAMPO,500.0,g,7.3,tottus,2024-12-05 12:25:52.504541,PAPA SECA,500.0,g,7.3
-Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,7.9,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,7.9
-Maní Engalletado Picante 200g,KARINTO,200.0,g,8.0,tottus,2024-12-05 12:25:52.504541,PAPA SECA,200.0,g,8.0
-Papa Seca COSTEÑO Bolsa 500g,COSTENO,500.0,g,8.1,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,500.0,g,8.1
-Papa Seca COSTEÑO Bolsa 500g,,500.0,g,8.2,plaza_vea,2024-12-05 15:42:05.277380,PAPA SECA,500.0,g,8.2
-Papa Seca Costeño 500g,,500.0,g,8.2,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,8.2
-Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,8.3,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,8.3
-Cashews Salados 80 g,TOTTUS,80.0,g,8.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,80.0,g,8.9
-Pistacho Salado 80 g,VILLA NATURA,80.0,g,9.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,80.0,g,9.9
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Alverja Verde Tesoro del Campo Bolsa 350 g,,350.0,g,2.9,metro,2024-12-05 16:23:58.218132,PAPA SECA,350.0,g,2.9,PAPA SECA
+Arveja Partida Máxima 500g,,500.0,g,3.5,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,3.5,PAPA SECA
+Arveja Cuisine & Co 500g,,500.0,g,3.5,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.5,PAPA SECA
+Arveja Bolsa 500g,,500.0,g,3.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.7,PAPA SECA
+Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,3.8,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.8,PAPA SECA
+Arveja Partida Costeño 500g,,500.0,g,3.8,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,3.8,PAPA SECA
+Mezcla de nueces 40 g,GRANUTS,40.0,g,3.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,40.0,g,3.9,PAPA SECA
+Mezcla de arándanos maní y almendras 50 g,GRANUTS,50.0,g,3.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,50.0,g,3.9,PAPA SECA
+Papa seca VEGA Bolsa 400g,Vega,400.0,g,4.3,vega,2024-12-05 13:04:36.201041,PAPA SECA,400.0,g,4.3,PAPA SECA
+Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,4.7,PAPA SECA
+Arveja Verde Valle Norte Bolsa 500 g,,500.0,g,4.9,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,4.9,PAPA SECA
+Papa Seca BELL'S Bolsa 400g,BELL'S,400.0,g,5.6,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,400.0,g,5.6,PAPA SECA
+Papa Seca 400 g,TOTTUS,400.0,g,5.65,tottus,2024-12-05 12:25:52.504541,PAPA SECA,400.0,g,5.65,PAPA SECA
+Papa Seca Máxima Bolsa 500 g,,500.0,g,5.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,5.7,PAPA SECA
+Papa Seca Cuisine & Co 500g,,500.0,g,6.1,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,6.1,PAPA SECA
+Habas saladas 150 g,VILLA NATURA,150.0,g,6.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,150.0,g,6.9,PAPA SECA
+Papa Seca 500 g,TESORO DEL CAMPO,500.0,g,7.3,tottus,2024-12-05 12:25:52.504541,PAPA SECA,500.0,g,7.3,PAPA SECA
+Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,7.9,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,7.9,PAPA SECA
+Maní Engalletado Picante 200g,KARINTO,200.0,g,8.0,tottus,2024-12-05 12:25:52.504541,PAPA SECA,200.0,g,8.0,PAPA SECA
+Papa Seca COSTEÑO Bolsa 500g,COSTENO,500.0,g,8.1,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,500.0,g,8.1,PAPA SECA
+Papa Seca COSTEÑO Bolsa 500g,,500.0,g,8.2,plaza_vea,2024-12-05 15:42:05.277380,PAPA SECA,500.0,g,8.2,PAPA SECA
+Papa Seca Costeño 500g,,500.0,g,8.2,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,8.2,PAPA SECA
+Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,8.3,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,8.3,PAPA SECA
+Cashews Salados 80 g,TOTTUS,80.0,g,8.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,80.0,g,8.9,PAPA SECA
+Pistacho Salado 80 g,VILLA NATURA,80.0,g,9.9,tottus,2024-12-05 12:25:52.504541,PAPA SECA,80.0,g,9.9,PAPA SECA

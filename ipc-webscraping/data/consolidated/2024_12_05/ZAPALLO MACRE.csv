@@ -1,3 +1,3 @@
-description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
-Zapallo Macre x kg,,1.0,kg,1.99,metro,2024-12-05 16:10:51.032275,ZAPALLO MACRE,1.0,kg,1.99
-Zapallo Macre x kg,,1.0,kg,3.2,wong,2024-12-05 18:46:22.365190,ZAPALLO MACRE,1.0,kg,3.2
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Zapallo Macre x kg,,1.0,kg,1.99,metro,2024-12-05 16:10:51.032275,ZAPALLO MACRE,1.0,kg,1.99,ZAPALLO MACRE
+Zapallo Macre x kg,,1.0,kg,3.2,wong,2024-12-05 18:46:22.365190,ZAPALLO MACRE,1.0,kg,3.2,ZAPALLO MACRE
