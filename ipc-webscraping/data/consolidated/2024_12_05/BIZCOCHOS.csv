@@ -1,140 +1,140 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-,Bizcocho Chocolate RICCO'S Reyenito Bolsa 56g,S/ 1.50,vivanda,BIZCOCHOS,2024-12-05 21:31:42.541690,56.0,g,Bizcocho Chocolate RICCO'S Reyenito Bolsa,1.5,vivanda,RICCO S,BIZCOCHOS
-,Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack 90g,S/ 2.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,90.0,g,Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack,2.5,wong,,BIZCOCHOS
-,Kekitos Todinno 2un,S/ 2.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,2.0,un,Kekitos Todinno,2.5,wong,,BIZCOCHOS
-,Mini Panetón Minions Caja 80g Surtido,S/ 3.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,80.0,g,Mini Panetón Minions Caja  Surtido,3.5,wong,,BIZCOCHOS
-,Keke Sabor Vainilla PYC Kekitos 3un,S/ 3.70,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Keke Sabor Vainilla PYC Kekitos,3.7,wong,,BIZCOCHOS
-Paquete 6un,Bizcocho CANCÚN COSTA Sabor coco y cobertura d...,S/ 3.70 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,6.0,un,Bizcocho CANCÚN COSTA Sabor coco y cobertura d,3.7,plaza_vea,,BIZCOCHOS
-,Keke Sabor Naranja PYC Kekitos 3un,S/ 3.70,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Keke Sabor Naranja PYC Kekitos,3.7,wong,,BIZCOCHOS
-Paquete 6un,Bizcocho COSTA Caritas Paquete 6un,S/ 3.79 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,6.0,un,Bizcocho COSTA Caritas Paquete,3.79,plaza_vea,,BIZCOCHOS
-,Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete 2 unid,S/ 3.80,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,2.0,un,Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete,3.8,wong,,BIZCOCHOS
-,Keke Bimboletes Chispas Sabor Chocolate 3un,S/ 3.80,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Keke Bimboletes Chispas Sabor Chocolate,3.8,wong,,BIZCOCHOS
-,Bizcocho Chocotoncito Bolsa 80 gr,S/ 3.90,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,80.0,g,Bizcocho Chocotoncito Bolsa r,3.9,tottus,DONOFRIO,BIZCOCHOS
-,Bizcocho Chocman Relleno De Manjar 6 Unidades x 33.5 g,S/ 3.95,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,6.0,un,Bizcocho Chocman Relleno De Manjar ades x,3.95,tottus,COSTA,BIZCOCHOS
-,Keke Bimbo Bimbolete Marmoleado 3un,S/ 4.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Keke Bimbo Bimbolete Marmoleado,4.0,wong,,BIZCOCHOS
-,Keke Sabor Vainilla Bimbolete Bimbo Paquete 3 unid,S/ 4.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Keke Sabor Vainilla Bimbolete Bimbo Paquete,4.0,wong,,BIZCOCHOS
-,Bizcocho Chocman Black 29 g,S/ 4.20,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,29.0,g,Bizcocho Chocman Black,4.2,tottus,COSTA,BIZCOCHOS
-,Bizcocho Relleno Chocman Black Pack 6un,S/ 4.30,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,6.0,un,Bizcocho Relleno Chocman Black Pack,4.3,wong,,BIZCOCHOS
-,Mini Panetón Donofrio Chocotoncito Bolsa 80g,S/ 4.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,80.0,g,Mini Panetón Donofrio Chocotoncito Bolsa,4.4,wong,,BIZCOCHOS
-,Sixpack Bizcocho Chocman 33.5g,S/ 4.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,33.5,g,Sixpack Bizcocho Chocman,4.5,wong,,BIZCOCHOS
-,Mini Panetón Sapito Doypack 75g,S/ 4.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,75.0,g,Mini Panetón Sapito Doypack,4.5,wong,,BIZCOCHOS
-,Panetón D'onofrio Panetoncito Caja 90g,S/ 4.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,90.0,g,Panetón D'onofrio Panetoncito Caja,4.5,wong,,BIZCOCHOS
-Paquete 6un,Bizcocho Relleno con Manjar CHOCMAN Paquete 6u...,S/ 4.50 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,6.0,un,Bizcocho Relleno con Manjar CHOCMAN Paquete 6u,4.5,plaza_vea,,BIZCOCHOS
-,BIZCOCHO CARITAS RELL VAINILLA BOL 28GX6UND,S/ 4.50,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,28.0,g,BIZCOCHO CARITAS RELL VAINILLA BOL XD,4.5,tottus,COSTA,BIZCOCHOS
-,Bizcocho Sabor Chocolate Relleno de Crema 6 Unidades,S/ 4.50,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,6.0,un,Bizcocho Sabor Chocolate Relleno de Crema ades,4.5,tottus,CANCUN,BIZCOCHOS
-,Bizcocho COSTA Chocman 33.5gr Paquete 6u,S/ 4.50,vega,BIZCOCHOS,2024-12-05 11:41:42.743057,33.5,g,Bizcocho COSTA Chocman r Paquete 6u,4.5,vega,Costa,BIZCOCHOS
-,Bizcocho Relleno con Manjar CHOCMAN Paquete 6un,S/ 4.50,vivanda,BIZCOCHOS,2024-12-05 21:31:42.541690,6.0,un,Bizcocho Relleno con Manjar CHOCMAN Paquete,4.5,vivanda,COSTA,BIZCOCHOS
-,Mini Panetón Relleno Bon o Bon 80g,S/ 4.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,80.0,g,Mini Panetón Relleno Bon o Bon,4.9,wong,,BIZCOCHOS
-,Mini Panetón Bauducco Frutas Caja 80g,S/ 5.10,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,80.0,g,Mini Panetón Bauducco Frutas Caja,5.1,wong,,BIZCOCHOS
-,Mini Panetón Bauducco Chocolate 80g,S/ 5.10,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,80.0,g,Mini Panetón Bauducco Chocolate,5.1,wong,,BIZCOCHOS
-,Bizcocho Chocman Relleno Manjar 24g 6 Unidades,S/ 5.90,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,24.0,g,Bizcocho Chocman Relleno Manjar  ades,5.9,tottus,COSTA,BIZCOCHOS
-Bolsa 6un,Bizcocho Relleno con Doble Manjar COSTA Chocma...,S/ 6.30 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,6.0,un,Bizcocho Relleno con Doble Manjar COSTA Chocma,6.3,plaza_vea,,BIZCOCHOS
-Paquete 6un,Bizcocho CHOCMAN Doble Black Paquete 6un,S/ 6.50 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,6.0,un,Bizcocho CHOCMAN Doble Black Paquete,6.5,plaza_vea,,BIZCOCHOS
-,Brownies Gustozzi Clásicos 3un,S/ 6.60,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Brownies Gustozzi Clásicos,6.6,wong,,BIZCOCHOS
-,Plátano Bizcocho Orgánico x kg,S/ 6.99 x kg,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Plátano Bizcocho Orgánico,6.99,wong,,BIZCOCHOS
-,Plátano Bizcocho Tipo Exportación x kg,S/ 6.99 x kg,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Plátano Bizcocho Tipo Exportación,6.99,wong,,BIZCOCHOS
-,Bizcocho Chocman Doble Black 53g,S/ 7.20,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,53.0,g,Bizcocho Chocman Doble Black,7.2,tottus,COSTA,BIZCOCHOS
-,Turron de Doña Pepa Gustozzi 3un,S/ 7.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Turron de Doña Pepa Gustozzi,7.5,wong,,BIZCOCHOS
-,Kekitos Gustozzito 3un,S/ 7.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Kekitos Gustozzito,7.5,wong,,BIZCOCHOS
-Paquete 12un,Bizcocho Pokeke COSTA Paquete 12un,S/ 7.90 un,plaza_vea,BIZCOCHOS,2024-12-05 14:29:12.842924,12.0,un,Bizcocho Pokeke COSTA Paquete,7.9,plaza_vea,,BIZCOCHOS
-,Bizcochos Madeleines de Vainilla 170g,S/ 7.92,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,170.0,g,Bizcochos Madeleines de Vainilla,7.92,wong,,BIZCOCHOS
-,Brownies Gustozzi Selección 3un,S/ 8.30,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,3.0,un,Brownies Gustozzi Selección,8.3,wong,,BIZCOCHOS
-,Bizcocho Chocman Doble Manjar 50g,S/ 9,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,50.0,g,Bizcocho Chocman Doble Manjar,9.0,tottus,COSTA,BIZCOCHOS
-,Keke Bimboletes Minix Chispas Sabor Chocolate 10un,S/ 9.30,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,10.0,un,Keke Bimboletes Minix Chispas Sabor Chocolate,9.3,wong,,BIZCOCHOS
-,Keke Sabor Vainilla Bimbo Bimbolete Minix 10un.,S/ 9.30,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,10.0,un,Keke Sabor Vainilla Bimbo Bimbolete Minix .,9.3,wong,,BIZCOCHOS
-,Pasteles Pingüino Minix Triple Sabor Chocolate 10un,S/ 9.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,10.0,un,Pasteles Pingüino Minix Triple Sabor Chocolate,9.5,wong,,BIZCOCHOS
-,Pasteles Gansito Minix 8un,S/ 9.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,8.0,un,Pasteles Gansito Minix,9.5,wong,,BIZCOCHOS
-,Panetón Vegano Bona Stella Premium Caja 100g,S/ 10.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,100.0,g,Panetón Vegano Bona Stella Premium Caja,10.9,wong,,BIZCOCHOS
-,Panetón Vegano Bona Stella Chocolate Caja 100g,S/ 10.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,100.0,g,Panetón Vegano Bona Stella Chocolate Caja,10.9,wong,,BIZCOCHOS
-,Brownichoc Nutra Bien 4un,S/ 10.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,4.0,un,Brownichoc Nutra Bien,10.9,wong,,BIZCOCHOS
-,Keke Naranja Bimbo Paquete 380 g,S/ 11.20,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,380.0,g,Keke Naranja Bimbo Paquete,11.2,wong,,BIZCOCHOS
-,Keke Marmoleado Bimbo Paquete 380 g,S/ 11.20,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,380.0,g,Keke Marmoleado Bimbo Paquete,11.2,wong,,BIZCOCHOS
-,Bizcocho Mini 20un Chocman Costa 21g,S/ 12.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,20.0,un,Bizcocho Mini  Chocman Costa,12.5,wong,,BIZCOCHOS
-,Brownie Nutra Bien Mini 6un,S/ 12.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,6.0,un,Brownie Nutra Bien Mini,12.9,wong,,BIZCOCHOS
-,Panetón Tradicional Wong Bolsa 800g,S/ 13.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Tradicional Wong Bolsa,13.5,wong,,BIZCOCHOS
-,Bizcocho Chocman Mini Relleno de Manjar 21 g,S/ 13.80,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,21.0,g,Bizcocho Chocman Mini Relleno de Manjar,13.8,tottus,COSTA,BIZCOCHOS
-,Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,8.0,un,Kekes Sabor Limón Mr Brownie,14.9,wong,,BIZCOCHOS
-,Brownie Clásico Nutra Bien 4un,S/ 14.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,4.0,un,Brownie Clásico Nutra Bien,14.9,wong,,BIZCOCHOS
-,Brownie Chip Nutra Bien 4un,S/ 14.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,4.0,un,Brownie Chip Nutra Bien,14.9,wong,,BIZCOCHOS
-,Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,S/ 16.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Winter's Sin Pasas Sin Frutas Doypack,16.9,wong,,BIZCOCHOS
-,Panetón con Gotas Sabor Chocolate Todinno Cioccolato 500g,S/ 16.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón con Gotas Sabor Chocolate Todinno Cioccolato,16.9,wong,,BIZCOCHOS
-,Panetón Cuisine & Co Tradicional Doypack 800g,S/ 17.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Cuisine & Co Tradicional Doypack,17.9,wong,,BIZCOCHOS
-,Panetón con Gotas Sabor Chocolate Chocotón Caja 450g,S/ 18.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón con Gotas Sabor Chocolate Chocotón Caja,18.0,wong,,BIZCOCHOS
-,Panetón con Chispas Sabor Chocolate Cuisine & Co Caja 500g,S/ 18.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón con Chispas Sabor Chocolate Cuisine & Co Caja,18.5,wong,,BIZCOCHOS
-,Bizcocho Dulce Pandulce 490g,S/ 18.60,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,490.0,g,Bizcocho Dulce Pandulce,18.6,tottus,DONOFRIO,BIZCOCHOS
-,Panetón con Chocolate Blanca Flor Caja 450g,S/ 18.80,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón con Chocolate Blanca Flor Caja,18.8,wong,,BIZCOCHOS
-,Bizcocho Chispas De Chocolate x 500 g,S/ 18.90,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,500.0,g,Bizcocho Chispas De Chocolate x,18.9,tottus,GLORIA,BIZCOCHOS
-,Panetón Relleno Chocotón Manjar Blanco Caja 450g,S/ 20.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón Relleno Chocotón Manjar Blanco Caja,20.0,wong,,BIZCOCHOS
-,Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,S/ 20.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón Chocotón Relleno Doble Sabor a Chocolate Caja,20.0,wong,,BIZCOCHOS
-,Panetón Wong Bolsa 800g + Gaseosa Coca Cola 1.5L,S/ 20.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Wong Bolsa  + Gaseosa Coca Cola,20.4,wong,,BIZCOCHOS
-,Panetón Wong Bolsa 800g + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 20.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Wong Bolsa  + Gaseosa Inca Kola Sin Azúcar,20.4,wong,,BIZCOCHOS
-,Panetón Wong Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,S/ 20.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Wong Bolsa  + Gaseosa Coca Cola Sin Azúcar,20.4,wong,,BIZCOCHOS
-,Panetón Wong Bolsa 800g + Gaseosa Inca Kola 1.5L,S/ 20.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Wong Bolsa  + Gaseosa Inca Kola,20.4,wong,,BIZCOCHOS
-,Panetón Clásico Sayón Doypack 750g,S/ 20.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,750.0,g,Panetón Clásico Sayón Doypack,20.5,wong,,BIZCOCHOS
-,Panetón Winter's Choco Chispas Doypack 500g,S/ 20.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Winter's Choco Chispas Doypack,20.9,wong,,BIZCOCHOS
-,Panetón Costa Doypack 800g,S/ 20.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Costa Doypack,20.9,wong,,BIZCOCHOS
-,Panetón de Lúcuma Ricco's Chocolúcuma Caja 500g,S/ 21.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón de Lúcuma Ricco's Chocolúcuma Caja,21.0,wong,,BIZCOCHOS
-,Panetón Andino Ricco's Kusi Raymi Caja 500g,S/ 21.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Andino Ricco's Kusi Raymi Caja,21.0,wong,,BIZCOCHOS
-,Panetón Sapito 450g,S/ 21.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón Sapito,21.5,wong,,BIZCOCHOS
-,Panetón Integral D'onofrio Doypack 500g,S/ 21.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Integral D'onofrio Doypack,21.9,wong,,BIZCOCHOS
-,Panetón Bimbo Doypack 900g,S/ 21.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Bimbo Doypack,21.9,wong,,BIZCOCHOS
-,Panetón Winter's Doypack 800g,S/ 21.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Winter's Doypack,21.9,wong,,BIZCOCHOS
-,Pandulce D'Onofrio Doypack 490g,S/ 21.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,490.0,g,Pandulce D'Onofrio Doypack,21.9,wong,,BIZCOCHOS
-,Panetón Blanca Flor Doypack 900g,S/ 22.30,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Blanca Flor Doypack,22.3,wong,,BIZCOCHOS
-,Panetón Costa Caja 800g,S/ 22.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Costa Caja,22.5,wong,,BIZCOCHOS
-,Panetón Relleno Bon o Bon 450g,S/ 22.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Panetón Relleno Bon o Bon,22.5,wong,,BIZCOCHOS
-,Panetón Gloria Pasión con Chispas Sabor Chocolate Caja 500g,S/ 22.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Gloria Pasión con Chispas Sabor Chocolate Caja,22.9,wong,,BIZCOCHOS
-,Panetón Gloria Pasión Avellanas Caja 500g,S/ 22.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Gloria Pasión Avellanas Caja,22.9,wong,,BIZCOCHOS
-,Bizcocho Pasión Avellanas Caja x 500 g,S/ 22.90,tottus,BIZCOCHOS,2024-12-05 11:14:21.013513,500.0,g,Bizcocho Pasión Avellanas Caja x,22.9,tottus,GLORIA,BIZCOCHOS
-,Panetón Bimbo Caja 900g,S/ 22.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Bimbo Caja,22.9,wong,,BIZCOCHOS
-,Panetón Gloria Pasión Sabor Algarrobina Caja 500g,S/ 22.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Gloria Pasión Sabor Algarrobina Caja,22.9,wong,,BIZCOCHOS
-,Panetón Donofrio 880g,S/ 23.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,880.0,g,Panetón Donofrio,23.5,wong,,BIZCOCHOS
-,Panetón Gloria Doypack 900g,S/ 23.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Gloria Doypack,23.9,wong,,BIZCOCHOS
-,Panetón San Jorge Poessía Doypack 900g,S/ 23.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón San Jorge Poessía Doypack,23.9,wong,,BIZCOCHOS
-,Panetón Blanca Flor Caja 900g,S/ 24.70,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Blanca Flor Caja,24.7,wong,,BIZCOCHOS
-,Panetón San Jorge Gran Panetón Caja 900g,S/ 24.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón San Jorge Gran Panetón Caja,24.9,wong,,BIZCOCHOS
-,Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,S/ 25.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Todinoo Bolsa  + Panetón Todinnito,25.5,wong,,BIZCOCHOS
-,Panetón Integral Unión Castañas Doypack 900g,S/ 25.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Integral Unión Castañas Doypack,25.9,wong,,BIZCOCHOS
-,Panetón D'Onofrio Caja 880g,S/ 25.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,880.0,g,Panetón D'Onofrio Caja,25.9,wong,,BIZCOCHOS
-,Panetón Gloria Caja 900g,S/ 26.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Gloria Caja,26.9,wong,,BIZCOCHOS
-,Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,S/ 28.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Pack Panetón Todinno: Caja  + Todinnito Caja,28.5,wong,,BIZCOCHOS
-,Panetón Vegano Cuisine & Co Caja 500g,S/ 28.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Panetón Vegano Cuisine & Co Caja,28.9,wong,,BIZCOCHOS
-,Panetón Integral Unión Caja 900g,S/ 30.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Integral Unión Caja,30.5,wong,,BIZCOCHOS
-,Panetón Bauducco Caja 750g,S/ 30.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,750.0,g,Panetón Bauducco Caja,30.9,wong,,BIZCOCHOS
-,Panetón con Gotas Sabor Chocolate Bauducco Caja 680g,S/ 31.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,680.0,g,Panetón con Gotas Sabor Chocolate Bauducco Caja,31.9,wong,,BIZCOCHOS
-,Twopack Panetón con Chocolate Blanca Flor Caja 450g,S/ 34.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Twopack Panetón con Chocolate Blanca Flor Caja,34.4,wong,,BIZCOCHOS
-,Panetón San Jorge Gran Panetón Caja 1.5kg,S/ 34.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.5,kg,Panetón San Jorge Gran Panetón Caja,34.9,wong,,BIZCOCHOS
-,Panetón Dal Colle Classico Caja 750g,S/ 34.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,750.0,g,Panetón Dal Colle Classico Caja,34.9,wong,,BIZCOCHOS
-,Keke de Manzana & Canela No Sugar 472g,S/ 38.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,472.0,g,Keke de Manzana & Canela No Sugar,38.0,wong,,BIZCOCHOS
-,Pandoro Properzi Caja 1kg,S/ 39.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Pandoro Properzi Caja,39.9,wong,,BIZCOCHOS
-,Panetón Gloria Lata 900g,S/ 39.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Gloria Lata,39.9,wong,,BIZCOCHOS
-,Panetón Donofrio Caja 1.3kg,S/ 39.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.3,kg,Panetón Donofrio Caja,39.9,wong,,BIZCOCHOS
-,Panetón Cuisine & Co Especial Caja 800g,S/ 40.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Cuisine & Co Especial Caja,40.9,wong,,BIZCOCHOS
-,Pandoro Dal Colle Doppio Cioccolato Caja 500g,S/ 44.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Pandoro Dal Colle Doppio Cioccolato Caja,44.9,wong,,BIZCOCHOS
-,Panetón D'onofrio Lata 880g Surtido,S/ 45.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,880.0,g,Panetón D'onofrio Lata  Surtido,45.9,wong,,BIZCOCHOS
-,Choco Panetón Vegano Zana Caja 500g,S/ 49.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,500.0,g,Choco Panetón Vegano Zana Caja,49.0,wong,,BIZCOCHOS
-,Panetón Wong Frutos Secos Caja 800g,S/ 52.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Panetón Wong Frutos Secos Caja,52.9,wong,,BIZCOCHOS
-,Panettone Schar Sin Gluten Caja 420g,S/ 53.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,420.0,g,Panettone Schar Sin Gluten Caja,53.9,wong,,BIZCOCHOS
-,Sixpack Panetón Máxima Tradicional Doypack 800g,S/ 59.50,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Sixpack Panetón Máxima Tradicional Doypack,59.5,wong,,BIZCOCHOS
-,Sixpack Panetón Metro Tradicional Bolsa 800g,S/ 71.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Sixpack Panetón Metro Tradicional Bolsa,71.4,wong,,BIZCOCHOS
-,Sixpack Panetón Wong Tradicional Bolsa 800g,S/ 74.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Sixpack Panetón Wong Tradicional Bolsa,74.9,wong,,BIZCOCHOS
-,Panetón Blanca Flor Caja 900g + Espumante Chandon Extra Brut 750ml,S/ 75.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Blanca Flor Caja  + Espumante Chandon Extra Brut,75.9,wong,,BIZCOCHOS
-,Pandoro Balocco Gocciolotto Caja 800g,S/ 88.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Pandoro Balocco Gocciolotto Caja,88.9,wong,,BIZCOCHOS
-,Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja 800g,S/ 92.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja,92.9,wong,,BIZCOCHOS
-,Pandoro Mokaccino Balocco 800g,S/ 92.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,800.0,g,Pandoro Mokaccino Balocco,92.9,wong,,BIZCOCHOS
-,Pandoro Paluani Montecchi Caja 1kg,S/ 93.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Pandoro Paluani Montecchi Caja,93.0,wong,,BIZCOCHOS
-,Panetón Properzi Caja 1kg,S/ 94.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Panetón Properzi Caja,94.9,wong,,BIZCOCHOS
-,Panetón con Trozos de Chocolate Properzi Caja 1kg,S/ 94.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Panetón con Trozos de Chocolate Properzi Caja,94.9,wong,,BIZCOCHOS
-,Panetón con Chips de Chocolate y Cerezas Properzi Tela 1kg,S/ 94.90,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Panetón con Chips de Chocolate y Cerezas Properzi Tela,94.9,wong,,BIZCOCHOS
-,Panetón con Chips de Chocolate Paluani Caja 750g,S/ 98.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,750.0,g,Panetón con Chips de Chocolate Paluani Caja,98.0,wong,,BIZCOCHOS
-,Sixpack Panetón con Chocolate Blanca Flor Caja 450g,S/ 111.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,450.0,g,Sixpack Panetón con Chocolate Blanca Flor Caja,111.4,wong,,BIZCOCHOS
-,Tronco de Navidad Relleno de Chocolate Paluani Caramelo 750g,S/ 112.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,750.0,g,Tronco de Navidad Relleno de Chocolate Paluani Caramelo,112.0,wong,,BIZCOCHOS
-,Sixpack Panetón Blanca Flor Doypack 900g,S/ 132.20,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Sixpack Panetón Blanca Flor Doypack,132.2,wong,,BIZCOCHOS
-,Sixpack Panetón Donofrio 880g,S/ 136.80,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,880.0,g,Sixpack Panetón Donofrio,136.8,wong,,BIZCOCHOS
-,Sixpack Panetón Blanca Flor Caja 900g,S/ 146.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Sixpack Panetón Blanca Flor Caja,146.4,wong,,BIZCOCHOS
-,Panetón Milanesse Tre Marie Caja 1kg,S/ 149.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Panetón Milanesse Tre Marie Caja,149.0,wong,,BIZCOCHOS
-,Pandoro Tradicional Tre Marie Caja 1kg,S/ 149.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,1.0,kg,Pandoro Tradicional Tre Marie Caja,149.0,wong,,BIZCOCHOS
-,Sixpack Panetón D'Onofrio Caja 880g,S/ 150.60,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,880.0,g,Sixpack Panetón D'Onofrio Caja,150.6,wong,,BIZCOCHOS
-,Sixpack Panetón Bimbo Doypack 900g,S/ 167.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Sixpack Panetón Bimbo Doypack,167.4,wong,,BIZCOCHOS
-,Sixpack Panetón Bimbo Caja 900g,S/ 173.40,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Sixpack Panetón Bimbo Caja,173.4,wong,,BIZCOCHOS
-,Panetón Al Chocolate Tre Marie Caja 900g,S/ 179.00,wong,BIZCOCHOS,2024-12-05 17:39:49.745544,900.0,g,Panetón Al Chocolate Tre Marie Caja,179.0,wong,,BIZCOCHOS
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Bizcocho Chocolate RICCO'S Reyenito Bolsa 56g,RICCO S,56.0,g,1.5,vivanda,2024-12-05 21:31:42.541690,BIZCOCHOS,56.0,g,1.5
+Panetón con Chispas Sabor Chocolate Cuisine & Co Doypack 90g,,90.0,g,2.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,90.0,g,2.5
+Kekitos Todinno 2un,,2.0,un,2.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,2.0,un,2.5
+Mini Panetón Minions Caja 80g Surtido,,80.0,g,3.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,80.0,g,3.5
+Keke Sabor Vainilla PYC Kekitos 3un,,3.0,un,3.7,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,3.7
+Bizcocho CANCÚN COSTA Sabor coco y cobertura d...,,6.0,un,3.7,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,6.0,un,3.7
+Keke Sabor Naranja PYC Kekitos 3un,,3.0,un,3.7,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,3.7
+Bizcocho COSTA Caritas Paquete 6un,,6.0,un,3.79,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,6.0,un,3.79
+Keke Sabor Chocolate Relleno con Crema Pingüinos Marinela Paquete 2 unid,,2.0,un,3.8,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,2.0,un,3.8
+Keke Bimboletes Chispas Sabor Chocolate 3un,,3.0,un,3.8,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,3.8
+Bizcocho Chocotoncito Bolsa 80 gr,DONOFRIO,80.0,g,3.9,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,80.0,g,3.9
+Bizcocho Chocman Relleno De Manjar 6 Unidades x 33.5 g,COSTA,6.0,un,3.95,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,6.0,un,3.95
+Keke Bimbo Bimbolete Marmoleado 3un,,3.0,un,4.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,4.0
+Keke Sabor Vainilla Bimbolete Bimbo Paquete 3 unid,,3.0,un,4.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,4.0
+Bizcocho Chocman Black 29 g,COSTA,29.0,g,4.2,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,29.0,g,4.2
+Bizcocho Relleno Chocman Black Pack 6un,,6.0,un,4.3,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,6.0,un,4.3
+Mini Panetón Donofrio Chocotoncito Bolsa 80g,,80.0,g,4.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,80.0,g,4.4
+Sixpack Bizcocho Chocman 33.5g,,33.5,g,4.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,33.5,g,4.5
+Mini Panetón Sapito Doypack 75g,,75.0,g,4.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,75.0,g,4.5
+Panetón D'onofrio Panetoncito Caja 90g,,90.0,g,4.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,90.0,g,4.5
+Bizcocho Relleno con Manjar CHOCMAN Paquete 6u...,,6.0,un,4.5,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,6.0,un,4.5
+BIZCOCHO CARITAS RELL VAINILLA BOL 28GX6UND,COSTA,28.0,g,4.5,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,28.0,g,4.5
+Bizcocho Sabor Chocolate Relleno de Crema 6 Unidades,CANCUN,6.0,un,4.5,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,6.0,un,4.5
+Bizcocho COSTA Chocman 33.5gr Paquete 6u,Costa,33.5,g,4.5,vega,2024-12-05 11:41:42.743057,BIZCOCHOS,33.5,g,4.5
+Bizcocho Relleno con Manjar CHOCMAN Paquete 6un,COSTA,6.0,un,4.5,vivanda,2024-12-05 21:31:42.541690,BIZCOCHOS,6.0,un,4.5
+Mini Panetón Relleno Bon o Bon 80g,,80.0,g,4.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,80.0,g,4.9
+Mini Panetón Bauducco Frutas Caja 80g,,80.0,g,5.1,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,80.0,g,5.1
+Mini Panetón Bauducco Chocolate 80g,,80.0,g,5.1,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,80.0,g,5.1
+Bizcocho Chocman Relleno Manjar 24g 6 Unidades,COSTA,24.0,g,5.9,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,24.0,g,5.9
+Bizcocho Relleno con Doble Manjar COSTA Chocma...,,6.0,un,6.3,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,6.0,un,6.3
+Bizcocho CHOCMAN Doble Black Paquete 6un,,6.0,un,6.5,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,6.0,un,6.5
+Brownies Gustozzi Clásicos 3un,,3.0,un,6.6,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,6.6
+Plátano Bizcocho Orgánico x kg,,1.0,kg,6.99,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,6.99
+Plátano Bizcocho Tipo Exportación x kg,,1.0,kg,6.99,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,6.99
+Bizcocho Chocman Doble Black 53g,COSTA,53.0,g,7.2,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,53.0,g,7.2
+Turron de Doña Pepa Gustozzi 3un,,3.0,un,7.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,7.5
+Kekitos Gustozzito 3un,,3.0,un,7.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,7.5
+Bizcocho Pokeke COSTA Paquete 12un,,12.0,un,7.9,plaza_vea,2024-12-05 14:29:12.842924,BIZCOCHOS,12.0,un,7.9
+Bizcochos Madeleines de Vainilla 170g,,170.0,g,7.92,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,170.0,g,7.92
+Brownies Gustozzi Selección 3un,,3.0,un,8.3,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,3.0,un,8.3
+Bizcocho Chocman Doble Manjar 50g,COSTA,50.0,g,9.0,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,50.0,g,9.0
+Keke Bimboletes Minix Chispas Sabor Chocolate 10un,,10.0,un,9.3,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,10.0,un,9.3
+Keke Sabor Vainilla Bimbo Bimbolete Minix 10un.,,10.0,un,9.3,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,10.0,un,9.3
+Pasteles Pingüino Minix Triple Sabor Chocolate 10un,,10.0,un,9.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,10.0,un,9.5
+Pasteles Gansito Minix 8un,,8.0,un,9.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,8.0,un,9.5
+Panetón Vegano Bona Stella Premium Caja 100g,,100.0,g,10.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,100.0,g,10.9
+Panetón Vegano Bona Stella Chocolate Caja 100g,,100.0,g,10.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,100.0,g,10.9
+Brownichoc Nutra Bien 4un,,4.0,un,10.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,4.0,un,10.9
+Keke Naranja Bimbo Paquete 380 g,,380.0,g,11.2,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,380.0,g,11.2
+Keke Marmoleado Bimbo Paquete 380 g,,380.0,g,11.2,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,380.0,g,11.2
+Bizcocho Mini 20un Chocman Costa 21g,,20.0,un,12.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,20.0,un,12.5
+Brownie Nutra Bien Mini 6un,,6.0,un,12.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,6.0,un,12.9
+Panetón Tradicional Wong Bolsa 800g,,800.0,g,13.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,13.5
+Bizcocho Chocman Mini Relleno de Manjar 21 g,COSTA,21.0,g,13.8,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,21.0,g,13.8
+Kekes Sabor Limón Mr Brownie 8un,,8.0,un,14.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,8.0,un,14.9
+Brownie Clásico Nutra Bien 4un,,4.0,un,14.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,4.0,un,14.9
+Brownie Chip Nutra Bien 4un,,4.0,un,14.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,4.0,un,14.9
+Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,,500.0,g,16.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,16.9
+Panetón con Gotas Sabor Chocolate Todinno Cioccolato 500g,,500.0,g,16.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,16.9
+Panetón Cuisine & Co Tradicional Doypack 800g,,800.0,g,17.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,17.9
+Panetón con Gotas Sabor Chocolate Chocotón Caja 450g,,450.0,g,18.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,18.0
+Panetón con Chispas Sabor Chocolate Cuisine & Co Caja 500g,,500.0,g,18.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,18.5
+Bizcocho Dulce Pandulce 490g,DONOFRIO,490.0,g,18.6,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,490.0,g,18.6
+Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,18.8,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,18.8
+Bizcocho Chispas De Chocolate x 500 g,GLORIA,500.0,g,18.9,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,500.0,g,18.9
+Panetón Relleno Chocotón Manjar Blanco Caja 450g,,450.0,g,20.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,20.0
+Panetón Chocotón Relleno Doble Sabor a Chocolate Caja 450g,,450.0,g,20.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,20.0
+Panetón Wong Bolsa 800g + Gaseosa Coca Cola 1.5L,,800.0,g,20.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,20.4
+Panetón Wong Bolsa 800g + Gaseosa Inca Kola Sin Azúcar 1.5L,,800.0,g,20.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,20.4
+Panetón Wong Bolsa 800g + Gaseosa Coca Cola Sin Azúcar 1.5L,,800.0,g,20.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,20.4
+Panetón Wong Bolsa 800g + Gaseosa Inca Kola 1.5L,,800.0,g,20.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,20.4
+Panetón Clásico Sayón Doypack 750g,,750.0,g,20.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,750.0,g,20.5
+Panetón Winter's Choco Chispas Doypack 500g,,500.0,g,20.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,20.9
+Panetón Costa Doypack 800g,,800.0,g,20.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,20.9
+Panetón de Lúcuma Ricco's Chocolúcuma Caja 500g,,500.0,g,21.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,21.0
+Panetón Andino Ricco's Kusi Raymi Caja 500g,,500.0,g,21.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,21.0
+Panetón Sapito 450g,,450.0,g,21.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,21.5
+Panetón Integral D'onofrio Doypack 500g,,500.0,g,21.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,21.9
+Panetón Bimbo Doypack 900g,,900.0,g,21.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,21.9
+Panetón Winter's Doypack 800g,,800.0,g,21.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,21.9
+Pandulce D'Onofrio Doypack 490g,,490.0,g,21.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,490.0,g,21.9
+Panetón Blanca Flor Doypack 900g,,900.0,g,22.3,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,22.3
+Panetón Costa Caja 800g,,800.0,g,22.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,22.5
+Panetón Relleno Bon o Bon 450g,,450.0,g,22.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,22.5
+Panetón Gloria Pasión con Chispas Sabor Chocolate Caja 500g,,500.0,g,22.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,22.9
+Panetón Gloria Pasión Avellanas Caja 500g,,500.0,g,22.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,22.9
+Bizcocho Pasión Avellanas Caja x 500 g,GLORIA,500.0,g,22.9,tottus,2024-12-05 11:14:21.013513,BIZCOCHOS,500.0,g,22.9
+Panetón Bimbo Caja 900g,,900.0,g,22.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,22.9
+Panetón Gloria Pasión Sabor Algarrobina Caja 500g,,500.0,g,22.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,22.9
+Panetón Donofrio 880g,,880.0,g,23.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,880.0,g,23.5
+Panetón Gloria Doypack 900g,,900.0,g,23.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,23.9
+Panetón San Jorge Poessía Doypack 900g,,900.0,g,23.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,23.9
+Panetón Blanca Flor Caja 900g,,900.0,g,24.7,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,24.7
+Panetón San Jorge Gran Panetón Caja 900g,,900.0,g,24.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,24.9
+Panetón Todinoo Bolsa 900g + Panetón Todinnito 85g,,900.0,g,25.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,25.5
+Panetón Integral Unión Castañas Doypack 900g,,900.0,g,25.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,25.9
+Panetón D'Onofrio Caja 880g,,880.0,g,25.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,880.0,g,25.9
+Panetón Gloria Caja 900g,,900.0,g,26.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,26.9
+Pack Panetón Todinno: Caja 900g + Todinnito Caja 85g,,900.0,g,28.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,28.5
+Panetón Vegano Cuisine & Co Caja 500g,,500.0,g,28.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,28.9
+Panetón Integral Unión Caja 900g,,900.0,g,30.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,30.5
+Panetón Bauducco Caja 750g,,750.0,g,30.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,750.0,g,30.9
+Panetón con Gotas Sabor Chocolate Bauducco Caja 680g,,680.0,g,31.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,680.0,g,31.9
+Twopack Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,34.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,34.4
+Panetón San Jorge Gran Panetón Caja 1.5kg,,1.5,kg,34.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.5,kg,34.9
+Panetón Dal Colle Classico Caja 750g,,750.0,g,34.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,750.0,g,34.9
+Keke de Manzana & Canela No Sugar 472g,,472.0,g,38.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,472.0,g,38.0
+Pandoro Properzi Caja 1kg,,1.0,kg,39.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,39.9
+Panetón Gloria Lata 900g,,900.0,g,39.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,39.9
+Panetón Donofrio Caja 1.3kg,,1.3,kg,39.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.3,kg,39.9
+Panetón Cuisine & Co Especial Caja 800g,,800.0,g,40.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,40.9
+Pandoro Dal Colle Doppio Cioccolato Caja 500g,,500.0,g,44.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,44.9
+Panetón D'onofrio Lata 880g Surtido,,880.0,g,45.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,880.0,g,45.9
+Choco Panetón Vegano Zana Caja 500g,,500.0,g,49.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,500.0,g,49.0
+Panetón Wong Frutos Secos Caja 800g,,800.0,g,52.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,52.9
+Panettone Schar Sin Gluten Caja 420g,,420.0,g,53.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,420.0,g,53.9
+Sixpack Panetón Máxima Tradicional Doypack 800g,,800.0,g,59.5,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,59.5
+Sixpack Panetón Metro Tradicional Bolsa 800g,,800.0,g,71.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,71.4
+Sixpack Panetón Wong Tradicional Bolsa 800g,,800.0,g,74.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,74.9
+Panetón Blanca Flor Caja 900g + Espumante Chandon Extra Brut 750ml,,900.0,g,75.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,75.9
+Pandoro Balocco Gocciolotto Caja 800g,,800.0,g,88.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,88.9
+Pandoro Balocco Maxiciok Pistacchio & Nocciola Caja 800g,,800.0,g,92.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,92.9
+Pandoro Mokaccino Balocco 800g,,800.0,g,92.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,800.0,g,92.9
+Pandoro Paluani Montecchi Caja 1kg,,1.0,kg,93.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,93.0
+Panetón Properzi Caja 1kg,,1.0,kg,94.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,94.9
+Panetón con Trozos de Chocolate Properzi Caja 1kg,,1.0,kg,94.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,94.9
+Panetón con Chips de Chocolate y Cerezas Properzi Tela 1kg,,1.0,kg,94.9,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,94.9
+Panetón con Chips de Chocolate Paluani Caja 750g,,750.0,g,98.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,750.0,g,98.0
+Sixpack Panetón con Chocolate Blanca Flor Caja 450g,,450.0,g,111.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,450.0,g,111.4
+Tronco de Navidad Relleno de Chocolate Paluani Caramelo 750g,,750.0,g,112.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,750.0,g,112.0
+Sixpack Panetón Blanca Flor Doypack 900g,,900.0,g,132.2,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,132.2
+Sixpack Panetón Donofrio 880g,,880.0,g,136.8,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,880.0,g,136.8
+Sixpack Panetón Blanca Flor Caja 900g,,900.0,g,146.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,146.4
+Panetón Milanesse Tre Marie Caja 1kg,,1.0,kg,149.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,149.0
+Pandoro Tradicional Tre Marie Caja 1kg,,1.0,kg,149.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,1.0,kg,149.0
+Sixpack Panetón D'Onofrio Caja 880g,,880.0,g,150.6,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,880.0,g,150.6
+Sixpack Panetón Bimbo Doypack 900g,,900.0,g,167.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,167.4
+Sixpack Panetón Bimbo Caja 900g,,900.0,g,173.4,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,173.4
+Panetón Al Chocolate Tre Marie Caja 900g,,900.0,g,179.0,wong,2024-12-05 17:39:49.745544,BIZCOCHOS,900.0,g,179.0

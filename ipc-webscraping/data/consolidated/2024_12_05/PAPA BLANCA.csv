@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Papa Blanca x kg,S/ 1.59 x kg,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,1.0,kg,Papa Blanca,1.59,metro,,,PAPA BLANCA
-Papa Blanca Metro x kg,S/ 2.60 x kg,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,1.0,kg,Papa Blanca Metro,2.6,metro,,,PAPA BLANCA
-Papa Blanca,S/ 2.79 x kg,plaza_vea,PAPA BLANCA,2024-12-05 15:40:32.070092,0.5,kg,Papa Blanca,2.79,plaza_vea,Presentación 0.5 kg aprox.,,PAPA BLANCA
-Papa Blanca Yungay Metro x kg,S/ 2.99 x kg,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,1.0,kg,Papa Blanca Yungay Metro,2.99,metro,,,PAPA BLANCA
-Papa Blanca Yungay,S/ 3.19 x kg,plaza_vea,PAPA BLANCA,2024-12-05 15:40:32.070092,1.0,kg,Papa Blanca Yungay,3.19,plaza_vea,Presentación 1 kg aprox.,,PAPA BLANCA
-Papa Blanca Canchán Procesada x kgs,S/ 3.39 x kg,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,1.0,kg,Papa Blanca Canchán Procesada s,3.39,metro,,,PAPA BLANCA
-Papa Cocktail Blanca Agro Selecto 800g,S/ 6.00,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,800.0,g,Papa Cocktail Blanca Agro Selecto,6.0,metro,,,PAPA BLANCA
-Papa Blanca Yungay Agro Selecto 2kg,S/ 8.50,metro,PAPA BLANCA,2024-12-05 16:22:00.234510,2.0,kg,Papa Blanca Yungay Agro Selecto,8.5,metro,,,PAPA BLANCA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Papa Blanca x kg,,1.0,kg,1.59,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,1.59
+Papa Blanca Metro x kg,,1.0,kg,2.6,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.6
+Papa Blanca,,0.5,kg,2.79,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,5.58
+Papa Blanca Yungay Metro x kg,,1.0,kg,2.99,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,2.99
+Papa Blanca Yungay,,1.0,kg,3.19,plaza_vea,2024-12-05 15:40:32.070092,PAPA BLANCA,1,kg,3.19
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,3.39
+Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,7.5
+Papa Blanca Yungay Agro Selecto 2kg,,2.0,kg,8.5,metro,2024-12-05 16:22:00.234510,PAPA BLANCA,1,kg,4.25

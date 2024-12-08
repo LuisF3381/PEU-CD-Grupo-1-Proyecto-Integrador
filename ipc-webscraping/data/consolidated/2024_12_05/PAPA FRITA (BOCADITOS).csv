@@ -1,348 +1,348 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Papa Blanca x kg,S/ 1.59 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Blanca,1.59,metro,,,PAPA FRITA (BOCADITOS)
-Galletas FIELD Doña Pepa Travesuras Bolsa 50g,S/ 1.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,50.0,g,Galletas FIELD Doña Pepa Travesuras Bolsa,1.9,plaza_vea,Paquete 50g,,PAPA FRITA (BOCADITOS)
-Papa Blanca Cocktail x kg,S/ 1.99 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Blanca Cocktail,1.99,metro,,,PAPA FRITA (BOCADITOS)
-Agua sin Gas CIELO Tapa Sport Botella 1L,S/ 2.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,l,Agua sin Gas CIELO Tapa Sport Botella,2.4,plaza_vea,Botella 1L,,PAPA FRITA (BOCADITOS)
-Papas Artesanales LAYS BBQ Bolsa 34g,S/ 2.49,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,34.0,g,Papas Artesanales LAYS BBQ Bolsa,2.49,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas Artesanales LAYS Sal Marina Bolsa 34g,S/ 2.49,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,34.0,g,Papas Artesanales LAYS Sal Marina Bolsa,2.49,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-44 g,S/ 2.49,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,44.0,g,,2.49,tottus,,CHEESE TRIS,PAPA FRITA (BOCADITOS)
-Compota de Fruta BELL'S Pera Frasco 113g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,113.0,g,Compota de Fruta BELL'S Pera Frasco,2.5,plaza_vea,Frasco 113g,,PAPA FRITA (BOCADITOS)
-Compota de Fruta BELL'S Durazno Frasco 113g,S/ 2.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,113.0,g,Compota de Fruta BELL'S Durazno Frasco,2.5,plaza_vea,Frasco 113g,,PAPA FRITA (BOCADITOS)
-Papas Lay's Clásicas 36g,S/ 2.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,36.0,g,Papas Lay's Clásicas,2.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-Doritos Queso Atrevido 45g,S/ 2.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,45.0,g,Doritos Queso Atrevido,2.5,tottus,,SOLGAR,PAPA FRITA (BOCADITOS)
-Papa Blanca Metro x kg,S/ 2.60 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Blanca Metro,2.6,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Naturales 36g,S/ 2.70,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,36.0,g,Papas Fritas Lay's Naturales,2.7,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Naturales 34g,S/ 2.70,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,34.0,g,Papas Fritas Lay's Naturales,2.7,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Naturales 34g,S/ 2.70,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,34.0,g,Papas Fritas Lay's Naturales,2.7,wong,,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Clásicas Bolsa 36g,S/ 2.70,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,36.0,g,Papas LAY'S Clásicas Bolsa,2.7,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Naturales 36g,S/ 2.70,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,36.0,g,Papas Fritas Lay's Naturales,2.7,metro,,,PAPA FRITA (BOCADITOS)
-Papas PAPI RICAS Sabor Picante Bolsa 70gr,S/ 2.80,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,70.0,g,Papas PAPI RICAS Sabor Picante Bolsa r,2.8,vega,,PAPI RICAS,PAPA FRITA (BOCADITOS)
-Hojuelas de Papas Nativas TIYAPUY Mix Fritas B...,S/ 2.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,40.0,g,Hojuelas de Papas Nativas TIYAPUY Mix Fritas B,2.9,plaza_vea,Bolsa 40g,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lays Artesanas Alitas BBQ 34g,S/ 2.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,34.0,g,Papas Fritas Lays Artesanas Alitas BBQ,2.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lays Artesanas Sal Marina 34g,S/ 2.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,34.0,g,Papas Fritas Lays Artesanas Sal Marina,2.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lays Artesanas Alitas BBQ 34g,S/ 2.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,34.0,g,Papas Fritas Lays Artesanas Alitas BBQ,2.9,metro,,,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada x kg,S/ 2.96 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Canchán Procesada,2.96,metro,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Yungay x kg,S/ 2.99 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Blanca Yungay,2.99,wong,,,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada Especial x kg,S/ 3.29 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Canchán Procesada Especial,3.29,metro,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Cocktail x kg,S/ 3.29 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Blanca Cocktail,3.29,wong,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Canchán Procesada x kgs,S/ 3.39 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Blanca Canchán Procesada s,3.39,metro,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Canchán Procesada x kgs,S/ 3.39 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Blanca Canchán Procesada s,3.39,wong,,,PAPA FRITA (BOCADITOS)
-Takis Fuego 1P 56 g Flow Bar Exp,S/ 3.60,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,56.0,g,Takis Fuego 1P  Flow Bar Exp,3.6,tottus,,BIMBO,PAPA FRITA (BOCADITOS)
-Papas Fritas BELL'S Sabor Original Lata 60g,S/ 3.70,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,60.0,g,Papas Fritas BELL'S Sabor Original Lata,3.7,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada Agro Selecto 1Kg,S/ 3.80,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Canchán Procesada Agro Selecto,3.8,metro,,,PAPA FRITA (BOCADITOS)
-Quinoa Chips Sabor Finas Hierbas 35g,S/ 3.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,35.0,g,Quinoa Chips Sabor Finas Hierbas,3.9,tottus,,QFOODS,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada Agro Selecto 1Kg,S/ 4.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Canchán Procesada Agro Selecto,4.0,wong,,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Clásicas Bolsa 70g,S/ 4.00,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,70.0,g,Papas LAY'S Clásicas Bolsa,4.0,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas al Hilo BELL'S Bolsa 125g,S/ 4.20,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,125.0,g,Papas al Hilo BELL'S Bolsa,4.2,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Papa Yungay Agro Selecto 1Kg,S/ 4.28,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Yungay Agro Selecto,4.28,metro,,,PAPA FRITA (BOCADITOS)
-Papas Papi Ricas Picante 70g,S/ 4.30,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,70.0,g,Papas Papi Ricas Picante,4.3,metro,,,PAPA FRITA (BOCADITOS)
-Papa seca VEGA Bolsa 400g,S/ 4.30,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,400.0,g,Papa seca VEGA Bolsa,4.3,vega,,Vega,PAPA FRITA (BOCADITOS)
-Piqueo BELL'S Maní con Pasas Táper 140g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,140.0,g,Piqueo BELL'S Maní con Pasas Táper,4.3,plaza_vea,Táper 140g,,PAPA FRITA (BOCADITOS)
-Puré de Papa KNORR Bolsa 125g,S/ 4.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,125.0,g,Puré de Papa KNORR Bolsa,4.3,plaza_vea,Bolsa 125g,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Papi Ricas Pollo a la Brasa 70g,S/ 4.40,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,70.0,g,Papas en Hojuelas Papi Ricas Pollo a la Brasa,4.4,metro,,,PAPA FRITA (BOCADITOS)
-Papa Rellena x un,S/ 4.40,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,un,Papa Rellena,4.4,metro,,,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Procesada Metro x kg,S/ 4.49 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Negra Andina Procesada Metro,4.49,metro,,,PAPA FRITA (BOCADITOS)
-Papa Huayro Metro x kg,S/ 4.49 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Huayro Metro,4.49,metro,,,PAPA FRITA (BOCADITOS)
-Pasas Morenas BELL'S Bolsa 180g,S/ 4.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,180.0,g,Pasas Morenas BELL'S Bolsa,4.5,plaza_vea,Bolsa 180g,,PAPA FRITA (BOCADITOS)
-Papa Yungay Agro Selecto 1Kg,S/ 4.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Yungay Agro Selecto,4.5,wong,,,PAPA FRITA (BOCADITOS)
-Camotes Fritos 160 g,S/ 4.65,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,160.0,g,Camotes Fritos,4.65,tottus,,TIYAPUY,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Procesada x kg,S/ 4.69 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Negra Andina Procesada,4.69,metro,,,PAPA FRITA (BOCADITOS)
-Papa Recta Green Food 400g,S/ 4.72,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papa Recta Green Food,4.72,wong,,,PAPA FRITA (BOCADITOS)
-Papa Recta Green Food 400g,S/ 4.72,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,400.0,g,Papa Recta Green Food,4.72,metro,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Perricholi Procesada Wong x kg,S/ 4.79 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Blanca Perricholi Procesada Wong,4.79,wong,,,PAPA FRITA (BOCADITOS)
-Papa Perricholi Agroselecto 1kg,S/ 4.80,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Perricholi Agroselecto,4.8,wong,,,PAPA FRITA (BOCADITOS)
-Maíz Gigante Original 100 g,S/ 4.88,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,100.0,g,Maíz Gigante Original,4.88,tottus,,INKA CORN,PAPA FRITA (BOCADITOS)
-Papas al Hilo BELL'S Bolsa 125g,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,125.0,g,Papas al Hilo BELL'S Bolsa,4.9,plaza_vea,Bolsa 125g,,PAPA FRITA (BOCADITOS)
-Galleta Doña Pepa FIELD Paquete 6un,S/ 4.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,6.0,un,Galleta Doña Pepa FIELD Paquete,4.9,plaza_vea,Paquete 6un,,PAPA FRITA (BOCADITOS)
-Tortilla Chips Mexi Nachos 100 g,S/ 4.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,100.0,g,Tortilla Chips Mexi Nachos,4.9,tottus,,GENERICO,PAPA FRITA (BOCADITOS)
-Villa Maiz Gigante Original 80g,S/ 4.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,80.0,g,Villa Maiz Gigante Original,4.9,tottus,,VILLA NATURA,PAPA FRITA (BOCADITOS)
-Nachos de Maíz Morado Perú Nachos 90 g,S/ 4.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,90.0,g,Nachos de Maíz Morado Perú Nachos,4.9,tottus,,,PAPA FRITA (BOCADITOS)
-Papa Rellena Frita x un,S/ 4.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,un,Papa Rellena Frita,4.9,metro,,,PAPA FRITA (BOCADITOS)
-Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,S/ 5 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,150.0,g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa,5.0,plaza_vea,Bolsa 150g,,PAPA FRITA (BOCADITOS)
-BOLIQUESO 110G,S/ 5,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,110.0,g,BOLIQUESO,5.0,tottus,,CHEETOS,PAPA FRITA (BOCADITOS)
-Tortees Picante 138g,S/ 5,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,138.0,g,Tortees Picante,5.0,tottus,,,PAPA FRITA (BOCADITOS)
-Flamin' Hot 120g,S/ 5,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,120.0,g,Flamin' Hot,5.0,tottus,,CHEETOS,PAPA FRITA (BOCADITOS)
-Tortees Salado 138g,S/ 5,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,138.0,g,Tortees Salado,5.0,tottus,,,PAPA FRITA (BOCADITOS)
-CHEESE SNACKS X 200G,S/ 5.10,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,200.0,g,CHEESE SNACKS X,5.1,tottus,,BUCKY,PAPA FRITA (BOCADITOS)
-Papa Ondulada Green Food 400g,S/ 5.20,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,400.0,g,Papa Ondulada Green Food,5.2,metro,,,PAPA FRITA (BOCADITOS)
-Papa Ondulada Green Food 400g,S/ 5.20,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papa Ondulada Green Food,5.2,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Cocktail Comcen 1kg,S/ 5.23,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Cocktail Comcen,5.23,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Cocktail Comcen 1kg,S/ 5.30,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Cocktail Comcen,5.3,metro,,,PAPA FRITA (BOCADITOS)
-Maní Tostado Frito BELL'S Táper 200g,S/ 5.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,200.0,g,Maní Tostado Frito BELL'S Táper,5.4,plaza_vea,Táper 200g,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Clásicas Bolsa 150g,S/ 5.40,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,150.0,g,Papas LAY'S Clásicas Bolsa,5.4,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas LAY'S Clásicas Bolsa 150g,S/ 5.40 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,150.0,g,Papas LAY'S Clásicas Bolsa,5.4,plaza_vea,Bolsa 150g,,PAPA FRITA (BOCADITOS)
-Papa Nativa x kg,S/ 5.49 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Nativa,5.49,wong,,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Ondas Clásicas Bolsa 140g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,140.0,g,Papas LAY'S Ondas Clásicas Bolsa,5.5,plaza_vea,Bolsa 140g,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Ondas Picante Bolsa 140g,S/ 5.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,140.0,g,Papas LAY'S Ondas Picante Bolsa,5.5,plaza_vea,Bolsa 140g,,PAPA FRITA (BOCADITOS)
-Papas al Hilo Lay's 155g,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,155.0,g,Papas al Hilo Lay's,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Lays Clásicas 150g,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Lays Clásicas,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Ondas Clásicas 140g,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas Fritas Lay's Ondas Clásicas,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Agro Selecto 1Kg,S/ 5.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Negra Andina Agro Selecto,5.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Ondas Sabor a Mayonesa 140g,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas Fritas Lay's Ondas Sabor a Mayonesa,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Agro Selecto 1Kg,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Negra Andina Agro Selecto,5.5,metro,,,PAPA FRITA (BOCADITOS)
-MAYONESA 140G,S/ 5.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,140.0,g,MAYONESA,5.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-Papas Ondas LAY'S con Mayonesa Bolsa 140g,S/ 5.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,140.0,g,Papas Ondas LAY'S con Mayonesa Bolsa,5.5,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas al Hilo Lay's 155g,S/ 5.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,155.0,g,Papas al Hilo Lay's,5.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Ondas Clásicas 140g,S/ 5.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Fritas Lay's Ondas Clásicas,5.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Lays Clásicas 150g,S/ 5.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,150.0,g,Papas Lays Clásicas,5.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Ondas Sabor a Mayonesa 140g,S/ 5.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Fritas Lay's Ondas Sabor a Mayonesa,5.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Fritas Onduladas Saladas Cuisine & Co Bolsa r,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Al Hilo Lay's 155g,S/ 5.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,155.0,g,Papas Al Hilo Lay's,5.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-Papas Lay's Ondas Picante 140g,S/ 5.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,140.0,g,Papas Lay's Ondas Picante,5.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Lay's Ondas Picante 140g,S/ 5.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas en Hojuelas Lay's Ondas Picante,5.5,metro,,,PAPA FRITA (BOCADITOS)
-Papa Recta Cuisine & Co 400g,S/ 5.52,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papa Recta Cuisine & Co,5.52,wong,,,PAPA FRITA (BOCADITOS)
-Papa Recta Cuisine & Co 400g,S/ 5.52,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,400.0,g,Papa Recta Cuisine & Co,5.52,metro,,,PAPA FRITA (BOCADITOS)
-Papa Seca BELL'S Bolsa 400g,S/ 5.60,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,400.0,g,Papa Seca BELL'S Bolsa,5.6,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Papa Huayro Comcen x kg,S/ 5.69 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Huayro Comcen,5.69,metro,,,PAPA FRITA (BOCADITOS)
-PAPAS EN ONDAS X 150GR,S/ 5.70,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,PAPAS EN ONDAS X R,5.7,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papa Seca Máxima Bolsa 500 g,S/ 5.70,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,500.0,g,Papa Seca Máxima Bolsa,5.7,metro,,,PAPA FRITA (BOCADITOS)
-Papas RIKY TOK Ondas Picantes Bolsa 180g,S/ 5.70,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,180.0,g,Papas RIKY TOK Ondas Picantes Bolsa,5.7,vega,,RIKY TOK,PAPA FRITA (BOCADITOS)
-Papas LAYS Clásicas Bolsa 150g,S/ 5.80,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,150.0,g,Papas LAYS Clásicas Bolsa,5.8,vega,,Lays,PAPA FRITA (BOCADITOS)
-Papa Amarilla Peruanita Cocktail x kg,S/ 5.89 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Peruanita Cocktail,5.89,metro,,,PAPA FRITA (BOCADITOS)
-Papas Crujientes Nativas Cuisine & Co 135g,S/ 5.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papas Crujientes Nativas Cuisine & Co,5.9,metro,,,PAPA FRITA (BOCADITOS)
-Chifles salados de 125 g,S/ 5.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,125.0,g,Chifles salados de,5.9,tottus,,GELCE,PAPA FRITA (BOCADITOS)
-Papas al Hilo 150 g,S/ 5.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,Papas al Hilo,5.9,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Especial Metro x kg,S/ 5.99 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Tumbay Especial Metro,5.99,metro,,,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Sabor Original 37g,S/ 6.00,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,37.0,g,Papas PRINGLES Sabor Original,6.0,vivanda,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papa Cocktail Blanca Agro Selecto 800g,S/ 6.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,800.0,g,Papa Cocktail Blanca Agro Selecto,6.0,metro,,,PAPA FRITA (BOCADITOS)
-Papa Cocktail Negra Agro Selecto 800g,S/ 6.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,800.0,g,Papa Cocktail Negra Agro Selecto,6.0,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Original 37g,S/ 6.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,37.0,g,Papas Pringles Original,6.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas BELL'S Sabor Pizza Lata 150g,S/ 6.10,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,150.0,g,Papas Fritas BELL'S Sabor Pizza Lata,6.1,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Papa Seca Cuisine & Co 500g,S/ 6.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,500.0,g,Papa Seca Cuisine & Co,6.1,metro,,,PAPA FRITA (BOCADITOS)
-Papa Seca Cuisine & Co 500g,S/ 6.10,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,500.0,g,Papa Seca Cuisine & Co,6.1,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas BELL'S Sabor Crema y Cebolla Lata 150g,S/ 6.10,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,150.0,g,Papas Fritas BELL'S Sabor Crema y Cebolla Lata,6.1,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Crunch Garbanzo Cheddar Dyff 100 g,S/ 6.30,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,100.0,g,Crunch Garbanzo Cheddar Dyff,6.3,tottus,,DYFFERENT,PAPA FRITA (BOCADITOS)
-Papas al Hilo Cusine & Co 142g,S/ 6.30,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,142.0,g,Papas al Hilo Cusine & Co,6.3,wong,,,PAPA FRITA (BOCADITOS)
-Crunch Garbanzo Sal Rosada Pimienta 100 g,S/ 6.30,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,100.0,g,Crunch Garbanzo Sal Rosada Pimienta,6.3,tottus,,DYFFERENT,PAPA FRITA (BOCADITOS)
-PAPAS FRITAS EN HOJUELAS X185GR,S/ 6.30,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,185.0,g,PAPAS FRITAS EN HOJUELAS XR,6.3,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papa Huayro x kg,S/ 6.39 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Huayro,6.39,wong,,,PAPA FRITA (BOCADITOS)
-Papa Huayro Comcen x kg,S/ 6.39 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Huayro Comcen,6.39,wong,,,PAPA FRITA (BOCADITOS)
-Papas Nativas Mix 160 g,S/ 6.45,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,160.0,g,Papas Nativas Mix,6.45,tottus,,TIYAPUY,PAPA FRITA (BOCADITOS)
-Pepinillo Sin Pepas TODO SANO x un,S/ 6.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,un,Pepinillo Sin Pepas TODO SANO,6.49,plaza_vea,Paquete 1un,,PAPA FRITA (BOCADITOS)
-Papas Artesanas Lay's Sal Marina 135g,S/ 6.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papas Artesanas Lay's Sal Marina,6.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Artesanas Alitas BBQ Bolsa 130g,S/ 6.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,130.0,g,Papas LAY'S Artesanas Alitas BBQ Bolsa,6.5,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta 142g,S/ 6.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,142.0,g,Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta,6.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Artesanas Lay's Sal Marina 135g,S/ 6.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,135.0,g,Papas Artesanas Lay's Sal Marina,6.5,wong,,,PAPA FRITA (BOCADITOS)
-Palitos de Maíz CHIZITOS Bolsa 190g,S/ 6.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,190.0,g,Palitos de Maíz CHIZITOS Bolsa,6.5,plaza_vea,Bolsa 190g,,PAPA FRITA (BOCADITOS)
-Papas Artesanas Lay's Alita BBQ 130g,S/ 6.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,130.0,g,Papas Artesanas Lay's Alita BBQ,6.5,metro,,,PAPA FRITA (BOCADITOS)
-MANI CONFITADO X 200G,S/ 6.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,200.0,g,MANI CONFITADO X,6.5,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papas Fritas Nativas Tiyapuy 142g,S/ 6.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,142.0,g,Papas Fritas Nativas Tiyapuy,6.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,S/ 6.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,150.0,g,Papas Fritas Onduladas Saladas Cuisine & Co Bolsa r,6.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas al Hilo Cusine & Co 142g,S/ 6.60,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,142.0,g,Papas al Hilo Cusine & Co,6.6,metro,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay,S/ 6.79 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,0.25,kg,Papa Amarilla Tumbay,6.79,plaza_vea,Presentación 0.25 kg aprox.,,PAPA FRITA (BOCADITOS)
-Papa Huayro Agro Selecto 1Kg,S/ 6.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Huayro Agro Selecto,6.9,metro,,,PAPA FRITA (BOCADITOS)
-Chifle Dulce150g,S/ 6.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,Chifle Dulce,6.9,tottus,,VILLA NATURA,PAPA FRITA (BOCADITOS)
-Papas al Hilo 150 g,S/ 6.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,Papas al Hilo,6.9,tottus,,VILLA NATURA,PAPA FRITA (BOCADITOS)
-Papas Fritas Picantes Cuisine & Co Bolsa 180 gr,S/ 6.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,180.0,g,Papas Fritas Picantes Cuisine & Co Bolsa r,6.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas al Hilo LAY'S Bolsa 155g,S/ 6.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,155.0,g,Papas al Hilo LAY'S Bolsa,6.9,plaza_vea,Bolsa 155g,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Huamantanga Metro x kg,S/ 6.99 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Huamantanga Metro,6.99,metro,,,PAPA FRITA (BOCADITOS)
-Papas LAYS Clásicas Bolsa 210gr,S/ 7.00,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,210.0,g,Papas LAYS Clásicas Bolsa r,7.0,vega,,Lays,PAPA FRITA (BOCADITOS)
-Papa Amarilla Huamantanga x kg,S/ 7.19 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Huamantanga,7.19,wong,,,PAPA FRITA (BOCADITOS)
-Papas al Hilo Villa Natura 150g,S/ 7.20,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas al Hilo Villa Natura,7.2,metro,,,PAPA FRITA (BOCADITOS)
-Papas Lays Ondas Picante 105g,S/ 7.20,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,105.0,g,Papas Lays Ondas Picante,7.2,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Peruanita,S/ 7.49 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,0.5,kg,Papa Amarilla Peruanita,7.49,plaza_vea,Presentación 0.5 kg aprox.,,PAPA FRITA (BOCADITOS)
-Papa en Cubos Congelada Green Food 400g,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papa en Cubos Congelada Green Food,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papa Tricolor Cocktail Agro Selecto 800 g,S/ 7.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,800.0,g,Papa Tricolor Cocktail Agro Selecto,7.5,metro,,,PAPA FRITA (BOCADITOS)
-Papa Huamantanga Agro Selecto 1Kg,S/ 7.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Huamantanga Agro Selecto,7.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Naturales Fritas Partners Chips 140g,S/ 7.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas Naturales Fritas Partners Chips,7.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Naturales Fritas Partners Chips Tocino BBQ 140g,S/ 7.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas Naturales Fritas Partners Chips Tocino BBQ,7.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas Naturales Fritas Partners Chips 140g,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Naturales Fritas Partners Chips,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papa Huamantanga Agro Selecto 1Kg,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Huamantanga Agro Selecto,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papa Tricolor Cocktail Agro Selecto 800 g,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,800.0,g,Papa Tricolor Cocktail Agro Selecto,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Naturales Fritas Partners Chips Ají Limo 140g,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Naturales Fritas Partners Chips Ají Limo,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas Naturales Fritas Partners Chips Tocino BBQ 140g,S/ 7.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Naturales Fritas Partners Chips Tocino BBQ,7.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas INKA CHIPS Jalapeños Bolsa 135g,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,135.0,g,Papas INKA CHIPS Jalapeños Bolsa,7.6,plaza_vea,Bolsa 135g,,PAPA FRITA (BOCADITOS)
-Papas Nativas Mixtas TIYAPUY Bolsa 142g,S/ 7.60,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,142.0,g,Papas Nativas Mixtas TIYAPUY Bolsa,7.6,vivanda,,TIYAPUY,PAPA FRITA (BOCADITOS)
-Papas INKA CHIPS Queso & Cebolla Bolsa 135g,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,135.0,g,Papas INKA CHIPS Queso & Cebolla Bolsa,7.6,plaza_vea,Bolsa 135g,,PAPA FRITA (BOCADITOS)
-Papas Nativas Amarillas Picantes Tiyapuy 160g,S/ 7.60,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,160.0,g,Papas Nativas Amarillas Picantes Tiyapuy,7.6,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Amarillas Tiyapuy Bolsa 160 g,S/ 7.60,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,160.0,g,Papas Fritas Amarillas Tiyapuy Bolsa,7.6,wong,,,PAPA FRITA (BOCADITOS)
-Papas INKA CHIPS con Sal de Mar Bolsa 135g,S/ 7.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,135.0,g,Papas INKA CHIPS con Sal de Mar Bolsa,7.6,plaza_vea,Bolsa 135g,,PAPA FRITA (BOCADITOS)
-Tortillas fritas de maíz original de 220 g,S/ 7.65,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,220.0,g,Tortillas fritas de maíz original de,7.65,tottus,,BUCKY,PAPA FRITA (BOCADITOS)
-NACHOS TORTILLAS MAIZ PICANTE X220G SNACKS,S/ 7.65,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,220.0,g,NACHOS TORTILLAS MAIZ PICANTE X SNACKS,7.65,tottus,,BUCKY,PAPA FRITA (BOCADITOS)
-Papa Seca TESORO DEL CAMPO Bolsa 500g,S/ 7.69 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Papa Seca TESORO DEL CAMPO Bolsa,7.69,plaza_vea,Bolsa 500g,,PAPA FRITA (BOCADITOS)
-Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,S/ 7.80,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,135.0,g,Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa,7.8,vega,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papas INKA CHIPS con Sal de Mar Bolsa 135g,S/ 7.80,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,135.0,g,Papas INKA CHIPS con Sal de Mar Bolsa,7.8,vivanda,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papas INKA CHIPS Sabor Jalapeño 135g,S/ 7.80,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,135.0,g,Papas INKA CHIPS Sabor Jalapeño,7.8,vega,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Aceitunas Verdes EL OLIVAR sin Pepa Bolsa 240g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,240.0,g,Aceitunas Verdes EL OLIVAR sin Pepa Bolsa,7.9,plaza_vea,Bolsa 240g,,PAPA FRITA (BOCADITOS)
-Papas Nativas Fritas Partners Chips Orgánico 140g,S/ 7.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas Nativas Fritas Partners Chips Orgánico,7.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Tradicionales Cuisine & Co Bolsa 180 gr,S/ 7.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,180.0,g,Papas Fritas Tradicionales Cuisine & Co Bolsa r,7.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Tradicionales Cuisine & Co Bolsa 180 gr,S/ 7.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,180.0,g,Papas Fritas Tradicionales Cuisine & Co Bolsa r,7.9,wong,,,PAPA FRITA (BOCADITOS)
-Piqueo Andino 175 g,S/ 7.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,175.0,g,Piqueo Andino,7.9,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papa Canchan Prefrita con Cascara Congelada BELL'S Bolsa 500g,S/ 7.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,500.0,g,Papa Canchan Prefrita con Cascara Congelada BELL'S Bolsa,7.9,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Chips De Papas Sabor Picante 134gr,S/ 7.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,134.0,g,Chips De Papas Sabor Picante r,7.9,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,500.0,g,Papa Seca Tesoro Del Campo Bolsa,7.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Cuisine & Co 200g,S/ 7.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,200.0,g,Papas Fritas Cuisine & Co,7.9,wong,,,PAPA FRITA (BOCADITOS)
-Guindones sin Pepa VILLA NATURA Bolsa 150g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,150.0,g,Guindones sin Pepa VILLA NATURA Bolsa,7.9,plaza_vea,Bolsa 150g,,PAPA FRITA (BOCADITOS)
-Chips de papas sabor original 134 g,S/ 7.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,134.0,g,Chips de papas sabor original,7.9,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Pasas Morenas BELL'S Táper 250g,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,250.0,g,Pasas Morenas BELL'S Táper,7.9,plaza_vea,Táper 250g,,PAPA FRITA (BOCADITOS)
-Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 7.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,l,Jugo de Fruta NATURALE Chicha Morada Botella 1,7.9,plaza_vea,Botella 1L,,PAPA FRITA (BOCADITOS)
-Papa Peruanita Cocktail Agro Selecto Ready 800g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,800.0,g,Papa Peruanita Cocktail Agro Selecto Ready,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Queso y Cebolla 135g,S/ 8.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,135.0,g,Papa en Hojuelas Inka Chips Queso y Cebolla,8.0,wong,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips BBQ y Cebolla 135g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papa en Hojuelas Inka Chips BBQ y Cebolla,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Inka Chips Sal de Mar 135g,S/ 8.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,135.0,g,Papas Inka Chips Sal de Mar,8.0,wong,,,PAPA FRITA (BOCADITOS)
-Papas Nativas en Hojuelas Inka Chips 135g,S/ 8.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,135.0,g,Papas Nativas en Hojuelas Inka Chips,8.0,wong,,,PAPA FRITA (BOCADITOS)
-Veggie Chips Tropical 125 g,S/ 8,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,125.0,g,Veggie Chips Tropical,8.0,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada Agro Selecto 2Kg,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,2.0,kg,Papa Canchán Procesada Agro Selecto,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Nativas en Hojuelas Inka Chips 135g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papas Nativas en Hojuelas Inka Chips,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Onduladas Sabor Habanero BBQ Inka Chips Bolsa 115 g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,115.0,g,Papas Fritas Onduladas Sabor Habanero BBQ Inka Chips Bolsa,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Queso y Cebolla 135g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papa en Hojuelas Inka Chips Queso y Cebolla,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Inka Chips Sal de Mar 135g,S/ 8.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,135.0,g,Papas Inka Chips Sal de Mar,8.0,metro,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Jalapeño 135g,S/ 8.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,135.0,g,Papa en Hojuelas Inka Chips Jalapeño,8.0,wong,,,PAPA FRITA (BOCADITOS)
-Papa Blanca Yungay Agro Selecto 2kg,S/ 8.08,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,2.0,kg,Papa Blanca Yungay Agro Selecto,8.08,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Procesada x kg,S/ 8.09 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Tumbay Procesada,8.09,metro,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Procesada x kg,S/ 8.09 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Tumbay Procesada,8.09,metro,,,PAPA FRITA (BOCADITOS)
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.10,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,500.0,g,Papa Seca COSTEÑO Bolsa,8.1,vivanda,,COSTENO,PAPA FRITA (BOCADITOS)
-"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",S/ 8.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,115.0,g,"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva",8.1,metro,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Finas Hierbas y Lima 115g,S/ 8.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,115.0,g,Papa en Hojuelas Inka Chips Finas Hierbas y Lima,8.1,metro,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Salsa Búfalo Picante 115g,S/ 8.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,115.0,g,Papa en Hojuelas Inka Chips Salsa Búfalo Picante,8.1,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas INKA CHIPS Finas Hierbas Bolsa y ...,S/ 8.10 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,115.0,g,Papas Fritas INKA CHIPS Finas Hierbas Bolsa y,8.1,plaza_vea,Bolsa 115g,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Bembos Clásica 120g,S/ 8.20,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,120.0,g,Papa en Hojuelas Inka Chips Bembos Clásica,8.2,metro,,,PAPA FRITA (BOCADITOS)
-"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",S/ 8.20,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,115.0,g,"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva",8.2,wong,,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Finas Hierbas y Lima 115g,S/ 8.20,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,115.0,g,Papa en Hojuelas Inka Chips Finas Hierbas y Lima,8.2,wong,,,PAPA FRITA (BOCADITOS)
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Papa Seca COSTEÑO Bolsa,8.2,plaza_vea,Bolsa 500g,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Peruanita Procesada x kg,S/ 8.29 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Peruanita Procesada,8.29,wong,,,PAPA FRITA (BOCADITOS)
-Piqueo BELL'S Papas al hilo Bolsa 220Gr,S/ 8.29 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,220.0,g,Piqueo BELL'S Papas al hilo Bolsa r,8.29,plaza_vea,Bolsa 220g,,PAPA FRITA (BOCADITOS)
-Papa en Hojuelas Inka Chips Bembos Clásica 120g,S/ 8.30,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,120.0,g,Papa en Hojuelas Inka Chips Bembos Clásica,8.3,wong,,,PAPA FRITA (BOCADITOS)
-Papas Peruanas INKA CHIPS Bembos Hamburguesa Bolsa 120g,S/ 8.30,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,120.0,g,Papas Peruanas INKA CHIPS Bembos Hamburguesa Bolsa,8.3,vivanda,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay x kg,S/ 8.49 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Tumbay,8.49,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Peruanita Procesada Metro x kg,S/ 8.49 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Peruanita Procesada Metro,8.49,metro,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay x kg,S/ 8.49 x kg,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Amarilla Tumbay,8.49,metro,,,PAPA FRITA (BOCADITOS)
-Aceitunas Negras EL OLIVAR con Pepa Bolsa 240g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,240.0,g,Aceitunas Negras EL OLIVAR con Pepa Bolsa,8.5,plaza_vea,Bolsa 240g,,PAPA FRITA (BOCADITOS)
-Papa Jalapeno 135g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,135.0,g,Papa Jalapeno,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papa Salada 135g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,135.0,g,Papa Salada,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Original Lata 104g,S/ 8.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,104.0,g,Papas PRINGLES Original Lata,8.5,vivanda,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Crema y Cebolla Lata 109g,S/ 8.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,109.0,g,Papas PRINGLES Crema y Cebolla Lata,8.5,vivanda,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Agro Selecto 1Kg,S/ 8.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Tumbay Agro Selecto,8.5,wong,,,PAPA FRITA (BOCADITOS)
-Papa Bbq 135g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,135.0,g,Papa Bbq,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papa Hamburguesa Bembos 120 g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,120.0,g,Papa Hamburguesa Bembos,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Quinoa Chips Sabor Guacamole 100g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,100.0,g,Quinoa Chips Sabor Guacamole,8.5,tottus,,QFOODS,PAPA FRITA (BOCADITOS)
-Papas onduladas con tomate albahaca y aceite de oliva de 115 g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,115.0,g,Papas onduladas con tomate albahaca y aceite de oliva de,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papa Blanca Yungay Agro Selecto 2kg,S/ 8.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,2.0,kg,Papa Blanca Yungay Agro Selecto,8.5,metro,,,PAPA FRITA (BOCADITOS)
-Patas de Pollo Empacada al vacío SAN FERNANDO,S/ 8.50 x kg,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,0.9,kg,Patas de Pollo Empacada al vacío SAN FERNANDO,8.5,plaza_vea,Presentación 0.9 kg aprox.,,PAPA FRITA (BOCADITOS)
-Papa Peruanita Agro Selecto 1kg,S/ 8.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Peruanita Agro Selecto,8.5,metro,,,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Queso Lata 109g,S/ 8.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,109.0,g,Papas PRINGLES Queso Lata,8.5,vivanda,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papas Nativas Fritas Tiyapuy Sabor Jalapeño 142g,S/ 8.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,142.0,g,Papas Nativas Fritas Tiyapuy Sabor Jalapeño,8.5,wong,,,PAPA FRITA (BOCADITOS)
-PAPAS CUSQUENA HABANERO BBQ 115G,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,115.0,g,PAPAS CUSQUENA HABANERO BBQ,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papas Lay's Clásicas 210g,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,210.0,g,Papas Lay's Clásicas,8.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-PAPAS CUSQUENA BUFALO X 115G,S/ 8.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,115.0,g,PAPAS CUSQUENA BUFALO X,8.5,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Crema y Cebolla Lata 109g,S/ 8.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,109.0,g,Papas PRINGLES Crema y Cebolla Lata,8.5,plaza_vea,Lata 109g,,PAPA FRITA (BOCADITOS)
-Comida para Perros RAMBALA Adulto Patas de Pol...,S/ 8.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,10.0,un,Comida para Perros RAMBALA Adulto Patas de Pol,8.6,plaza_vea,Doypack 10un,,PAPA FRITA (BOCADITOS)
-Papa Seca Costeño 500g,S/ 8.70,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,500.0,g,Papa Seca Costeño,8.7,wong,,,PAPA FRITA (BOCADITOS)
-Turrón de Doña Pepa BELL'S Caja 500g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Turrón de Doña Pepa BELL'S Caja,8.9,plaza_vea,Caja 500g,,PAPA FRITA (BOCADITOS)
-Papas Pringles Queso 109g,S/ 8.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,109.0,g,Papas Pringles Queso,8.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Pringles Sabor Churrasco 109g,S/ 8.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,109.0,g,Papas Fritas Pringles Sabor Churrasco,8.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Cheddar & Bacon 105g,S/ 8.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,105.0,g,Papas Pringles Cheddar & Bacon,8.9,metro,,,PAPA FRITA (BOCADITOS)
-Pasas Rubias VILLA NATURA Bolsa 150g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,150.0,g,Pasas Rubias VILLA NATURA Bolsa,8.9,plaza_vea,Bolsa 150g,,PAPA FRITA (BOCADITOS)
-Papas Pringles Original 104g,S/ 8.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,104.0,g,Papas Pringles Original,8.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Crema y Cebolla 109g,S/ 8.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,109.0,g,Papas Pringles Crema y Cebolla,8.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Pringles Sabor Churrasco 109g,S/ 8.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,109.0,g,Papas Fritas Pringles Sabor Churrasco,8.9,metro,,,PAPA FRITA (BOCADITOS)
-Cocktail de Frutas BELL'S en Almíbar Lata 820g,S/ 8.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,820.0,g,Cocktail de Frutas BELL'S en Almíbar Lata,8.9,plaza_vea,Lata 820g,,PAPA FRITA (BOCADITOS)
-Palitos de Sal Maras Sannissimo 90 g,S/ 8.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,90.0,g,Palitos de Sal Maras Sannissimo,8.9,tottus,,SANISSIMO,PAPA FRITA (BOCADITOS)
-Papas Pringles Cheddar & Bacon 105g,S/ 8.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,105.0,g,Papas Pringles Cheddar & Bacon,8.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Original 104g,S/ 8.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,104.0,g,Papas Pringles Original,8.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Original Lata 104g,S/ 8.90,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,104.0,g,Papas PRINGLES Original Lata,8.9,vega,,Pringles,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Sour & Cream Lata 109g,S/ 8.90,vega,PAPA FRITA (BOCADITOS),2024-12-05 13:23:14.917685,109.0,g,Papas PRINGLES Sour & Cream Lata,8.9,vega,,Pringles,PAPA FRITA (BOCADITOS)
-Papas Pringles Crema y Cebolla 109g,S/ 8.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,109.0,g,Papas Pringles Crema y Cebolla,8.9,wong,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Procesada x kg,S/ 8.99 x kg,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Tumbay Procesada,8.99,wong,,,PAPA FRITA (BOCADITOS)
-Turrón de Doña Pepa LA FLORENCIA Caja 500g,S/ 9 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Turrón de Doña Pepa LA FLORENCIA Caja,9.0,plaza_vea,Caja 500g,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Clásicas Bolsa 210g,S/ 9 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,210.0,g,Papas LAY'S Clásicas Bolsa,9.0,plaza_vea,Bolsa 210g,,PAPA FRITA (BOCADITOS)
-Queso Atrevido 190g,S/ 9,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,190.0,g,Queso Atrevido,9.0,tottus,,DORITOS,PAPA FRITA (BOCADITOS)
-Chifles 150g,S/ 9,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,Chifles,9.0,tottus,,KARINTO,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Clásicas 210g,S/ 9.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,210.0,g,Papas Fritas Lay's Clásicas,9.1,metro,,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Sabor Queso Cheddar Papa Chips Cuisine & Co Tubo 140 g,S/ 9.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas en Hojuelas Sabor Queso Cheddar Papa Chips Cuisine & Co Tubo,9.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Sabor Crema & Cebolla Papa Chips Cuisine & Co Tubo 140 g,S/ 9.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas en Hojuelas Sabor Crema & Cebolla Papa Chips Cuisine & Co Tubo,9.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo 140 g,S/ 9.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,140.0,g,Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo,9.5,wong,,,PAPA FRITA (BOCADITOS)
-Aceituna Negra sin Pepa EL OLIVAR Bolsa 240g,S/ 9.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,240.0,g,Aceituna Negra sin Pepa EL OLIVAR Bolsa,9.5,plaza_vea,Bolsa 240g,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo 140 g,S/ 9.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo,9.5,metro,,,PAPA FRITA (BOCADITOS)
-SOLA SOUR CREAM 109G,S/ 9.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,109.0,g,SOLA SOUR CREAM,9.9,tottus,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papas Prefritas McCain Corte Tradicional 400g,S/ 9.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,400.0,g,Papas Prefritas McCain Corte Tradicional,9.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Nativas TIYAPUY Mixtas Sabor a Limón y Pimienta Bolsa 142g,S/ 9.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,142.0,g,Papas Nativas TIYAPUY Mixtas Sabor a Limón y Pimienta Bolsa,9.9,vivanda,,TIYAPUY,PAPA FRITA (BOCADITOS)
-Papas Nativas TIYAPUY Mixtas Sabor a Jalapeño Bolsa 142g,S/ 9.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,142.0,g,Papas Nativas TIYAPUY Mixtas Sabor a Jalapeño Bolsa,9.9,vivanda,,TIYAPUY,PAPA FRITA (BOCADITOS)
-Papas Prefritas McCain Corte Tradicional 400g,S/ 9.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papas Prefritas McCain Corte Tradicional,9.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Clásicas Mydibel 7/7 Bolsa 1 Kg,S/ 9.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papas Clásicas Mydibel 7/7 Bolsa,9.9,wong,,,PAPA FRITA (BOCADITOS)
-Papa Sazonada en Gajos AVIKO Bolsa 500g,S/ 9.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,500.0,g,Papa Sazonada en Gajos AVIKO Bolsa,9.9,vivanda,,AVIKO,PAPA FRITA (BOCADITOS)
-Papas al Hilo VILLA NATURA Bolsa 250g,S/ 9.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,250.0,g,Papas al Hilo VILLA NATURA Bolsa,9.9,plaza_vea,Bolsa 250g,,PAPA FRITA (BOCADITOS)
-SOLA ORIGINAL 104G,S/ 9.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,104.0,g,SOLA ORIGINAL,9.9,tottus,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papas Fritas 400g aprox,S/ 9.99,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,400.0,g,Papas Fritas  aprox,9.99,metro,,,PAPA FRITA (BOCADITOS)
-Mix de Nueces y Frutas BELL'S Táper 200g,S/ 9.99 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,200.0,g,Mix de Nueces y Frutas BELL'S Táper,9.99,plaza_vea,Táper 200g,,PAPA FRITA (BOCADITOS)
-Papa Canchán Procesada Comcen 2 kg,S/ 10.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,2.0,kg,Papa Canchán Procesada Comcen,10.0,wong,,,PAPA FRITA (BOCADITOS)
-Papas Lay's Ondas Clásicas 140g + Papas Lay's Ondas Picante 140g,S/ 10.35,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,140.0,g,Papas Lay's Ondas Clásicas  + Papas Lay's Ondas Picante,10.35,metro,,,PAPA FRITA (BOCADITOS)
-Papa Prefrita BELL'S Bolsa 1Kg,S/ 10.49,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,1.0,kg,Papa Prefrita BELL'S Bolsa,10.49,vivanda,,BELL'S,PAPA FRITA (BOCADITOS)
-Aceituna Verde sin Pepa HUERTO MEJÍA Paquete 2...,S/ 10.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,230.0,g,Aceituna Verde sin Pepa HUERTO MEJÍA Paquete 2,10.5,plaza_vea,Táper 230g,,PAPA FRITA (BOCADITOS)
-Papas Clásicas Mydibel 7/7 Bolsa 1 Kg,S/ 10.80,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papas Clásicas Mydibel 7/7 Bolsa,10.8,metro,,,PAPA FRITA (BOCADITOS)
-Papa Clásicas Mydibel 9/9 Bolsa 1 Kg,S/ 10.80,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Clásicas Mydibel 9/9 Bolsa,10.8,metro,,,PAPA FRITA (BOCADITOS)
-Papa Clásicas Mydibel 9/9 Bolsa 1 Kg,S/ 10.80,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Clásicas Mydibel 9/9 Bolsa,10.8,wong,,,PAPA FRITA (BOCADITOS)
-"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,...",S/ 10.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.7,kg,"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,",10.9,plaza_vea,Galonera 1.7Kg,,PAPA FRITA (BOCADITOS)
-Papa Super Crunch AVIKO Bolsa 750g,S/ 10.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,750.0,g,Papa Super Crunch AVIKO Bolsa,10.9,vivanda,,AVIKO,PAPA FRITA (BOCADITOS)
-Papa Prefrita Congelada AVIKO Bolsa 1kg,S/ 10.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,1.0,kg,Papa Prefrita Congelada AVIKO Bolsa,10.9,vivanda,,AVIKO,PAPA FRITA (BOCADITOS)
-Papa Amarilla Comcen Procesada 1 kg,S/ 10.93,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Comcen Procesada,10.93,wong,,,PAPA FRITA (BOCADITOS)
-Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 11 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,260.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,11.0,plaza_vea,Bolsa 260g,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Prensada Roots Foods Bolsa 1 Kg,S/ 11.31,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Amarilla Tumbay Prensada Roots Foods Bolsa,11.31,wong,,,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Agro Selecto 2Kg,S/ 11.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,2.0,kg,Papa Negra Andina Agro Selecto,11.5,metro,,,PAPA FRITA (BOCADITOS)
-Papa Negra Andina Agro Selecto 2Kg,S/ 11.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,2.0,kg,Papa Negra Andina Agro Selecto,11.5,wong,,,PAPA FRITA (BOCADITOS)
-Cereal ANGEL Capas de trigo con chocolate Bols...,S/ 11.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,380.0,g,Cereal ANGEL Capas de trigo con chocolate Bols,11.6,plaza_vea,Bolsa 380g,,PAPA FRITA (BOCADITOS)
-Papa Tradicional Congelada BEM BRASIL Bolsa 1.05kg,S/ 11.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,1.05,kg,Papa Tradicional Congelada BEM BRASIL Bolsa,11.9,vivanda,,BEM BRASIL,PAPA FRITA (BOCADITOS)
-Aceituna Negra sin Pepa BELL'S Táper 260g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,260.0,g,Aceituna Negra sin Pepa BELL'S Táper,11.9,plaza_vea,Táper 260g,,PAPA FRITA (BOCADITOS)
-Papa Nativas Tiyapuy 160g + Camotes Tiyapuy 160g,S/ 11.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,160.0,g,Papa Nativas Tiyapuy  + Camotes Tiyapuy,11.9,metro,,,PAPA FRITA (BOCADITOS)
-Papa Rellena LA FLORENCIA 450g,S/ 11.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,un,Papa Rellena LA FLORENCIA,11.9,plaza_vea,Bandeja 1un,,PAPA FRITA (BOCADITOS)
-Papas Fritas 400g aprox,S/ 11.99,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papas Fritas  aprox,11.99,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Huamantanga 450g aprox,S/ 11.99,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,450.0,g,Papas Fritas Huamantanga  aprox,11.99,wong,,,PAPA FRITA (BOCADITOS)
-Redondos Salados 280g,S/ 12,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,280.0,g,Redondos Salados,12.0,tottus,,TOSTITOS,PAPA FRITA (BOCADITOS)
-Papa Rellena LA FLORENCIA 450g,S/ 12.10,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,450.0,g,Papa Rellena LA FLORENCIA,12.1,vivanda,,LA FLORENCIA,PAPA FRITA (BOCADITOS)
-Papas Prefritas BEM BRASIL con Forma de Caritas Bolsa 1.05Kg,S/ 12.49,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,1.05,kg,Papas Prefritas BEM BRASIL con Forma de Caritas Bolsa,12.49,vivanda,,BEM BRASIL,PAPA FRITA (BOCADITOS)
-Aceituna Botija sin Pepa HUERTO MEJÍA Paquete ...,S/ 12.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,220.0,g,Aceituna Botija sin Pepa HUERTO MEJÍA Paquete,12.5,plaza_vea,Táper 220g,,PAPA FRITA (BOCADITOS)
-Mix de Papas Nativas TIYAPUY Bolsa 142g + Camo...,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,284.0,g,Mix de Papas Nativas TIYAPUY Bolsa  + Camo,12.9,plaza_vea,Bolsa 284g,,PAPA FRITA (BOCADITOS)
-Mix de Frutas Congeladas BELL'S Bolsa 1kg,S/ 12.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,kg,Mix de Frutas Congeladas BELL'S Bolsa,12.9,plaza_vea,Bolsa 1Kg,,PAPA FRITA (BOCADITOS)
-Papa Nativas Tiyapuy 160g + Camotes Tiyapuy 160g,S/ 13.20,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,160.0,g,Papa Nativas Tiyapuy  + Camotes Tiyapuy,13.2,wong,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Clásicas 150g + Piqueo Snax Original 200g,S/ 13.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Fritas Lay's Clásicas  + Piqueo Snax Original,13.5,metro,,,PAPA FRITA (BOCADITOS)
-Pack Papas Lay's Clásicas 150g y Piqueo Snax 200g,S/ 13.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,150.0,g,Pack Papas Lay's Clásicas  y Piqueo Snax,13.5,tottus,,LAYS,PAPA FRITA (BOCADITOS)
-Pack Papas LAY´S Clásicas Bolsa 150g + DORITOS...,S/ 13.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,2.0,un,Pack Papas LAY´S Clásicas Bolsa  + DORITOS,13.5,plaza_vea,Pack 2un,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Clásicas 150g + Piqueo Snax Original 200g,S/ 13.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,150.0,g,Papas Fritas Lay's Clásicas  + Piqueo Snax Original,13.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas LAY'S Ondas Picantes 140g + Piqueo SNAX Original 200g,S/ 13.50,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,140.0,g,Papas LAY'S Ondas Picantes  + Piqueo SNAX Original,13.5,vivanda,,LAY'S,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Clásicas 150g + Doritos Queso Atrevido 190g,S/ 13.50,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Fritas Lay's Clásicas  + Doritos Queso Atrevido,13.5,metro,,,PAPA FRITA (BOCADITOS)
-Guindones sin Pepa BELL'S Táper 250g,S/ 13.60 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,250.0,g,Guindones sin Pepa BELL'S Táper,13.6,plaza_vea,Táper 250g,,PAPA FRITA (BOCADITOS)
-Papas Lays Clásicas 150g + De Todito Mix 165g,S/ 13.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,150.0,g,Papas Lays Clásicas  + De Todito Mix,13.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas PRINGLES Habaneras Lata 158g,S/ 13.90,vivanda,PAPA FRITA (BOCADITOS),2024-12-05 22:31:30.086091,158.0,g,Papas PRINGLES Habaneras Lata,13.9,vivanda,,PRINGLES,PAPA FRITA (BOCADITOS)
-Papas Lays Clásicas 150g + De Todito Mix 165g,S/ 13.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Lays Clásicas  + De Todito Mix,13.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Lays Clásicas 150g + Detodito Natural 165g,S/ 13.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Lays Clásicas  + Detodito Natural,13.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas Lay's Clásicas 150g + Doritos Queso Atrevido 145g,S/ 14.10,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,150.0,g,Papas Fritas Lay's Clásicas  + Doritos Queso Atrevido,14.1,metro,,,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay FEST Prefrita Congelada D...,S/ 14.30 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,kg,Papa Amarilla Tumbay FEST Prefrita Congelada D,14.3,plaza_vea,Doypack 1Kg,,PAPA FRITA (BOCADITOS)
-Papas en Hojuelas 175 g + Piqueo Andino 175 g,S/ 14.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,175.0,g,Papas en Hojuelas  + Piqueo Andino,14.5,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Papas Pringles Sabor BBQ 158g,S/ 14.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,158.0,g,Papas Pringles Sabor BBQ,14.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Crema y Queso Cheddar Lata 158 g,S/ 14.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,158.0,g,Papas Pringles Crema y Queso Cheddar Lata,14.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas The Fresh Market Smokehouse BBQ 255g,S/ 14.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,255.0,g,Papas Fritas The Fresh Market Smokehouse BBQ,14.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Chile Habanero 158g,S/ 14.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,158.0,g,Papas Pringles Chile Habanero,14.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Adobada 158g,S/ 14.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,158.0,g,Papas Pringles Adobada,14.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Pringles Chile Habanero 158g,S/ 14.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,158.0,g,Papas Pringles Chile Habanero,14.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas Fritas The Fresh Market Sour Cream y Cebolla 255g,S/ 14.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,255.0,g,Papas Fritas The Fresh Market Sour Cream y Cebolla,14.9,wong,,,PAPA FRITA (BOCADITOS)
-"Galletas con Quinua, Ajo y Cebolla Caja 6 un",S/ 14.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,6.0,un,"Galletas con Quinua, Ajo y Cebolla Caja",14.9,tottus,,NUTRI CO,PAPA FRITA (BOCADITOS)
-Galletas con Quinua y Finas Hierbas Caja 6 un,S/ 14.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,6.0,un,Galletas con Quinua y Finas Hierbas Caja,14.9,tottus,,NUTRI CO,PAPA FRITA (BOCADITOS)
-Tostones 240g,S/ 16,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,240.0,g,Tostones,16.0,tottus,,INKA CHIPS,PAPA FRITA (BOCADITOS)
-Cereal UNIÓN Granola Pasas y Almendras Doypack...,S/ 16.49 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,400.0,g,Cereal UNIÓN Granola Pasas y Almendras Doypack,16.49,plaza_vea,Bolsa 400g,,PAPA FRITA (BOCADITOS)
-Plátano Frito Sabor Cabanossi 210 g,S/ 16.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,210.0,g,Plátano Frito Sabor Cabanossi,16.5,tottus,,ARTICHAY,PAPA FRITA (BOCADITOS)
-CHIFLES SALADOS CANCHA CARNE RES 250G,S/ 16.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,250.0,g,CHIFLES SALADOS CANCHA CARNE RES,16.5,tottus,,ARTICHAY,PAPA FRITA (BOCADITOS)
-Plátano Frito Sabor Salsa Acevichado 210 g,S/ 16.50,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,210.0,g,Plátano Frito Sabor Salsa Acevichado,16.5,tottus,,ARTICHAY,PAPA FRITA (BOCADITOS)
-Papa Amarilla Tumbay Procesada Agro Selecto 2Kg,S/ 16.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,2.0,kg,Papa Amarilla Tumbay Procesada Agro Selecto,16.5,wong,,,PAPA FRITA (BOCADITOS)
-Chifle Norteño Con Canchita Milys 500 g,S/ 16.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,500.0,g,Chifle Norteño Con Canchita Milys,16.9,tottus,,TOTTUS,PAPA FRITA (BOCADITOS)
-Turrón SAN JOSÉ de Doña Pepa Paquete 500g,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Turrón SAN JOSÉ de Doña Pepa Paquete,17.9,plaza_vea,Paquete 500g,,PAPA FRITA (BOCADITOS)
-Papas Prefritas McCain Crinkle 600g,S/ 17.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,600.0,g,Papas Prefritas McCain Crinkle,17.9,metro,,,PAPA FRITA (BOCADITOS)
-Papas al Hilo VILLA NATURA Bolsa 500g,S/ 17.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Papas al Hilo VILLA NATURA Bolsa,17.9,plaza_vea,Bolsa 500g,,PAPA FRITA (BOCADITOS)
-Papas Prefritas McCain Crinkle 600g,S/ 17.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,600.0,g,Papas Prefritas McCain Crinkle,17.9,wong,,,PAPA FRITA (BOCADITOS)
-Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 18.20 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.89,l,Jugo de Fruta L'ONDA Cranberry con Splenda Bot,18.2,plaza_vea,Botella 1.89L,,PAPA FRITA (BOCADITOS)
-Turrón de Doña Pepa CRISTO MORADO Caja 500g,S/ 18.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,500.0,g,Turrón de Doña Pepa CRISTO MORADO Caja,18.5,plaza_vea,Caja 500g,,PAPA FRITA (BOCADITOS)
-CHIFLE SALADO BL 500 GR,S/ 18.90,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,500.0,g,CHIFLE SALADO BL R,18.9,tottus,,VILLA NATURA,PAPA FRITA (BOCADITOS)
-Papas Prefritass McCain Corte Tradicional 700g,S/ 18.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,700.0,g,Papas Prefritass McCain Corte Tradicional,18.9,wong,,,PAPA FRITA (BOCADITOS)
-Papas Prefritass McCain Corte Tradicional 700g,S/ 18.90,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,700.0,g,Papas Prefritass McCain Corte Tradicional,18.9,metro,,,PAPA FRITA (BOCADITOS)
-Maíz Gigante Original 500 g,S/ 19.43,tottus,PAPA FRITA (BOCADITOS),2024-12-05 12:42:36.072557,500.0,g,Maíz Gigante Original,19.43,tottus,,INKA CORN,PAPA FRITA (BOCADITOS)
-Papas Nativas Congeladas Tiyapuy Corte Recto 1kg,S/ 19.50,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papas Nativas Congeladas Tiyapuy Corte Recto,19.5,wong,,,PAPA FRITA (BOCADITOS)
-Papas al Hilo Villa Natura 500g,S/ 19.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,500.0,g,Papas al Hilo Villa Natura,19.9,wong,,,PAPA FRITA (BOCADITOS)
-Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,840.0,g,Cereal ÁNGEL Trigo y Avena Frutas Doypack,21.9,plaza_vea,Bolsa 840g,,PAPA FRITA (BOCADITOS)
-Papa Tumbay en Gajos Pre Frita Congelada Cali Frut 1kg,S/ 22.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,1.0,kg,Papa Tumbay en Gajos Pre Frita Congelada Cali Frut,22.0,wong,,,PAPA FRITA (BOCADITOS)
-Papa Tumbay en Gajos Pre Frita Congelada Cali Frut 1kg,S/ 22.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,1.0,kg,Papa Tumbay en Gajos Pre Frita Congelada Cali Frut,22.0,metro,,,PAPA FRITA (BOCADITOS)
-Papas Clásicas Mydibel Congeladas Bolsa 2.5 Kg,S/ 23.93,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,2.5,kg,Papas Clásicas Mydibel Congeladas Bolsa,23.93,metro,,,PAPA FRITA (BOCADITOS)
-Papas Prefritas Mydibel 9 mm 2.50 kg,S/ 24.00,metro,PAPA FRITA (BOCADITOS),2024-12-05 16:47:55.737032,2.5,kg,Papas Prefritas Mydibel 9 mm,24.0,metro,,,PAPA FRITA (BOCADITOS)
-Pollo Rostizado + Papas Fritas,S/ 27.90 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,2.0,un,Pollo Rostizado + Papas Fritas,27.9,plaza_vea,Paquete 2un,,PAPA FRITA (BOCADITOS)
-Papas Prefritas Mydibel 9 mm 2.50 kg,S/ 32.00,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,2.5,kg,Papas Prefritas Mydibel 9 mm,32.0,wong,,,PAPA FRITA (BOCADITOS)
-Pollo Rostizado + Papas Fritas + Gaseosa 1.5L,S/ 33.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,3.0,un,Pollo Rostizado + Papas Fritas + Gaseosa,33.5,plaza_vea,Paquete 3un,,PAPA FRITA (BOCADITOS)
-Turrón SAN JOSE de Doña Pepa Caja 1Kg,S/ 34.50 un,plaza_vea,PAPA FRITA (BOCADITOS),2024-12-05 16:00:53.382192,1.0,kg,Turrón SAN JOSE de Doña Pepa Caja,34.5,plaza_vea,Caja 1Kg,,PAPA FRITA (BOCADITOS)
-Papas Nativas Tiyapuy Fiestas Patrias 400g,S/ 36.90,wong,PAPA FRITA (BOCADITOS),2024-12-05 19:25:26.260905,400.0,g,Papas Nativas Tiyapuy Fiestas Patrias,36.9,wong,,,PAPA FRITA (BOCADITOS)
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Papa Blanca x kg,,1.0,kg,1.59,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,1.59
+Galletas FIELD Doña Pepa Travesuras Bolsa 50g,,50.0,g,1.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),50.0,g,1.9
+Papa Blanca Cocktail x kg,,1.0,kg,1.99,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,1.99
+Agua sin Gas CIELO Tapa Sport Botella 1L,,1.0,l,2.4,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,l,2.4
+Papas Artesanales LAYS BBQ Bolsa 34g,LAY'S,34.0,g,2.49,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),34.0,g,2.49
+Papas Artesanales LAYS Sal Marina Bolsa 34g,LAY'S,34.0,g,2.49,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),34.0,g,2.49
+44 g,CHEESE TRIS,44.0,g,2.49,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),44.0,g,2.49
+Compota de Fruta BELL'S Pera Frasco 113g,,113.0,g,2.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),113.0,g,2.5
+Compota de Fruta BELL'S Durazno Frasco 113g,,113.0,g,2.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),113.0,g,2.5
+Papas Lay's Clásicas 36g,LAYS,36.0,g,2.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),36.0,g,2.5
+Doritos Queso Atrevido 45g,SOLGAR,45.0,g,2.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),45.0,g,2.5
+Papa Blanca Metro x kg,,1.0,kg,2.6,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,2.6
+Papas Fritas Lay's Naturales 36g,,36.0,g,2.7,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),36.0,g,2.7
+Papas Fritas Lay's Naturales 34g,,34.0,g,2.7,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),34.0,g,2.7
+Papas Fritas Lay's Naturales 34g,,34.0,g,2.7,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),34.0,g,2.7
+Papas LAY'S Clásicas Bolsa 36g,LAY'S,36.0,g,2.7,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),36.0,g,2.7
+Papas Fritas Lay's Naturales 36g,,36.0,g,2.7,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),36.0,g,2.7
+Papas PAPI RICAS Sabor Picante Bolsa 70gr,PAPI RICAS,70.0,g,2.8,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),70.0,g,2.8
+Hojuelas de Papas Nativas TIYAPUY Mix Fritas B...,,40.0,g,2.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),40.0,g,2.9
+Papas Fritas Lays Artesanas Alitas BBQ 34g,,34.0,g,2.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),34.0,g,2.9
+Papas Fritas Lays Artesanas Sal Marina 34g,,34.0,g,2.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),34.0,g,2.9
+Papas Fritas Lays Artesanas Alitas BBQ 34g,,34.0,g,2.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),34.0,g,2.9
+Papa Canchán Procesada x kg,,1.0,kg,2.96,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,2.96
+Papa Blanca Yungay x kg,,1.0,kg,2.99,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,2.99
+Papa Canchán Procesada Especial x kg,,1.0,kg,3.29,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,3.29
+Papa Blanca Cocktail x kg,,1.0,kg,3.29,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,3.29
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,3.39
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,3.39
+Takis Fuego 1P 56 g Flow Bar Exp,BIMBO,56.0,g,3.6,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),56.0,g,3.6
+Papas Fritas BELL'S Sabor Original Lata 60g,BELL'S,60.0,g,3.7,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),60.0,g,3.7
+Papa Canchán Procesada Agro Selecto 1Kg,,1.0,kg,3.8,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,3.8
+Quinoa Chips Sabor Finas Hierbas 35g,QFOODS,35.0,g,3.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),35.0,g,3.9
+Papa Canchán Procesada Agro Selecto 1Kg,,1.0,kg,4.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,4.0
+Papas LAY'S Clásicas Bolsa 70g,LAY'S,70.0,g,4.0,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),70.0,g,4.0
+Papas al Hilo BELL'S Bolsa 125g,BELL'S,125.0,g,4.2,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),125.0,g,4.2
+Papa Yungay Agro Selecto 1Kg,,1.0,kg,4.28,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,4.28
+Papas Papi Ricas Picante 70g,,70.0,g,4.3,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),70.0,g,4.3
+Papa seca VEGA Bolsa 400g,Vega,400.0,g,4.3,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),400.0,g,4.3
+Piqueo BELL'S Maní con Pasas Táper 140g,,140.0,g,4.3,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),140.0,g,4.3
+Puré de Papa KNORR Bolsa 125g,,125.0,g,4.3,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),125.0,g,4.3
+Papas en Hojuelas Papi Ricas Pollo a la Brasa 70g,,70.0,g,4.4,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),70.0,g,4.4
+Papa Rellena x un,,1.0,un,4.4,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,un,4.4
+Papa Negra Andina Procesada Metro x kg,,1.0,kg,4.49,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,4.49
+Papa Huayro Metro x kg,,1.0,kg,4.49,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,4.49
+Pasas Morenas BELL'S Bolsa 180g,,180.0,g,4.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),180.0,g,4.5
+Papa Yungay Agro Selecto 1Kg,,1.0,kg,4.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,4.5
+Camotes Fritos 160 g,TIYAPUY,160.0,g,4.65,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),160.0,g,4.65
+Papa Negra Andina Procesada x kg,,1.0,kg,4.69,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,4.69
+Papa Recta Green Food 400g,,400.0,g,4.72,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,4.72
+Papa Recta Green Food 400g,,400.0,g,4.72,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),400.0,g,4.72
+Papa Blanca Perricholi Procesada Wong x kg,,1.0,kg,4.79,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,4.79
+Papa Perricholi Agroselecto 1kg,,1.0,kg,4.8,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,4.8
+Maíz Gigante Original 100 g,INKA CORN,100.0,g,4.88,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),100.0,g,4.88
+Papas al Hilo BELL'S Bolsa 125g,,125.0,g,4.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),125.0,g,4.9
+Galleta Doña Pepa FIELD Paquete 6un,,6.0,un,4.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),6.0,un,4.9
+Tortilla Chips Mexi Nachos 100 g,GENERICO,100.0,g,4.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),100.0,g,4.9
+Villa Maiz Gigante Original 80g,VILLA NATURA,80.0,g,4.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),80.0,g,4.9
+Nachos de Maíz Morado Perú Nachos 90 g,,90.0,g,4.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),90.0,g,4.9
+Papa Rellena Frita x un,,1.0,un,4.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,un,4.9
+Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,,150.0,g,5.0,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),150.0,g,5.0
+BOLIQUESO 110G,CHEETOS,110.0,g,5.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),110.0,g,5.0
+Tortees Picante 138g,,138.0,g,5.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),138.0,g,5.0
+Flamin' Hot 120g,CHEETOS,120.0,g,5.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),120.0,g,5.0
+Tortees Salado 138g,,138.0,g,5.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),138.0,g,5.0
+CHEESE SNACKS X 200G,BUCKY,200.0,g,5.1,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),200.0,g,5.1
+Papa Ondulada Green Food 400g,,400.0,g,5.2,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),400.0,g,5.2
+Papa Ondulada Green Food 400g,,400.0,g,5.2,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,5.2
+Papa Amarilla Cocktail Comcen 1kg,,1.0,kg,5.23,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,5.23
+Papa Amarilla Cocktail Comcen 1kg,,1.0,kg,5.3,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,5.3
+Maní Tostado Frito BELL'S Táper 200g,,200.0,g,5.4,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),200.0,g,5.4
+Papas LAY'S Clásicas Bolsa 150g,LAY'S,150.0,g,5.4,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),150.0,g,5.4
+Papas LAY'S Clásicas Bolsa 150g,,150.0,g,5.4,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),150.0,g,5.4
+Papa Nativa x kg,,1.0,kg,5.49,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,5.49
+Papas LAY'S Ondas Clásicas Bolsa 140g,,140.0,g,5.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas LAY'S Ondas Picante Bolsa 140g,,140.0,g,5.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas al Hilo Lay's 155g,,155.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),155.0,g,5.5
+Papas Lays Clásicas 150g,,150.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,5.5
+Papas Fritas Lay's Ondas Clásicas 140g,,140.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papa Negra Andina Agro Selecto 1Kg,,1.0,kg,5.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,5.5
+Papas Fritas Lay's Ondas Sabor a Mayonesa 140g,,140.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papa Negra Andina Agro Selecto 1Kg,,1.0,kg,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,5.5
+MAYONESA 140G,LAYS,140.0,g,5.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas Ondas LAY'S con Mayonesa Bolsa 140g,LAY'S,140.0,g,5.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas al Hilo Lay's 155g,,155.0,g,5.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),155.0,g,5.5
+Papas Fritas Lay's Ondas Clásicas 140g,,140.0,g,5.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas Lays Clásicas 150g,,150.0,g,5.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),150.0,g,5.5
+Papas Fritas Lay's Ondas Sabor a Mayonesa 140g,,140.0,g,5.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,,150.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,5.5
+Papas Al Hilo Lay's 155g,LAYS,155.0,g,5.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),155.0,g,5.5
+Papas Lay's Ondas Picante 140g,LAYS,140.0,g,5.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papas en Hojuelas Lay's Ondas Picante 140g,,140.0,g,5.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,5.5
+Papa Recta Cuisine & Co 400g,,400.0,g,5.52,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,5.52
+Papa Recta Cuisine & Co 400g,,400.0,g,5.52,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),400.0,g,5.52
+Papa Seca BELL'S Bolsa 400g,BELL'S,400.0,g,5.6,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),400.0,g,5.6
+Papa Huayro Comcen x kg,,1.0,kg,5.69,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,5.69
+PAPAS EN ONDAS X 150GR,TOTTUS,150.0,g,5.7,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,5.7
+Papa Seca Máxima Bolsa 500 g,,500.0,g,5.7,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),500.0,g,5.7
+Papas RIKY TOK Ondas Picantes Bolsa 180g,RIKY TOK,180.0,g,5.7,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),180.0,g,5.7
+Papas LAYS Clásicas Bolsa 150g,Lays,150.0,g,5.8,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),150.0,g,5.8
+Papa Amarilla Peruanita Cocktail x kg,,1.0,kg,5.89,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,5.89
+Papas Crujientes Nativas Cuisine & Co 135g,,135.0,g,5.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,5.9
+Chifles salados de 125 g,GELCE,125.0,g,5.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),125.0,g,5.9
+Papas al Hilo 150 g,TOTTUS,150.0,g,5.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,5.9
+Papa Amarilla Tumbay Especial Metro x kg,,1.0,kg,5.99,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,5.99
+Papas PRINGLES Sabor Original 37g,PRINGLES,37.0,g,6.0,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),37.0,g,6.0
+Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),800.0,g,6.0
+Papa Cocktail Negra Agro Selecto 800g,,800.0,g,6.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),800.0,g,6.0
+Papas Pringles Original 37g,,37.0,g,6.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),37.0,g,6.0
+Papas Fritas BELL'S Sabor Pizza Lata 150g,BELL'S,150.0,g,6.1,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),150.0,g,6.1
+Papa Seca Cuisine & Co 500g,,500.0,g,6.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),500.0,g,6.1
+Papa Seca Cuisine & Co 500g,,500.0,g,6.1,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),500.0,g,6.1
+Papas Fritas BELL'S Sabor Crema y Cebolla Lata 150g,BELL'S,150.0,g,6.1,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),150.0,g,6.1
+Crunch Garbanzo Cheddar Dyff 100 g,DYFFERENT,100.0,g,6.3,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),100.0,g,6.3
+Papas al Hilo Cusine & Co 142g,,142.0,g,6.3,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),142.0,g,6.3
+Crunch Garbanzo Sal Rosada Pimienta 100 g,DYFFERENT,100.0,g,6.3,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),100.0,g,6.3
+PAPAS FRITAS EN HOJUELAS X185GR,TOTTUS,185.0,g,6.3,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),185.0,g,6.3
+Papa Huayro x kg,,1.0,kg,6.39,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,6.39
+Papa Huayro Comcen x kg,,1.0,kg,6.39,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,6.39
+Papas Nativas Mix 160 g,TIYAPUY,160.0,g,6.45,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),160.0,g,6.45
+Pepinillo Sin Pepas TODO SANO x un,,1.0,un,6.49,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,un,6.49
+Papas Artesanas Lay's Sal Marina 135g,,135.0,g,6.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,6.5
+Papas LAY'S Artesanas Alitas BBQ Bolsa 130g,LAY'S,130.0,g,6.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),130.0,g,6.5
+Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta 142g,,142.0,g,6.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),142.0,g,6.5
+Papas Artesanas Lay's Sal Marina 135g,,135.0,g,6.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),135.0,g,6.5
+Palitos de Maíz CHIZITOS Bolsa 190g,,190.0,g,6.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),190.0,g,6.5
+Papas Artesanas Lay's Alita BBQ 130g,,130.0,g,6.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),130.0,g,6.5
+MANI CONFITADO X 200G,TOTTUS,200.0,g,6.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),200.0,g,6.5
+Papas Fritas Nativas Tiyapuy 142g,,142.0,g,6.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),142.0,g,6.5
+Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,,150.0,g,6.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),150.0,g,6.5
+Papas al Hilo Cusine & Co 142g,,142.0,g,6.6,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),142.0,g,6.6
+Papa Amarilla Tumbay,,0.25,kg,6.79,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),0.25,kg,6.79
+Papa Huayro Agro Selecto 1Kg,,1.0,kg,6.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,6.9
+Chifle Dulce150g,VILLA NATURA,150.0,g,6.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,6.9
+Papas al Hilo 150 g,VILLA NATURA,150.0,g,6.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,6.9
+Papas Fritas Picantes Cuisine & Co Bolsa 180 gr,,180.0,g,6.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),180.0,g,6.9
+Papas al Hilo LAY'S Bolsa 155g,,155.0,g,6.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),155.0,g,6.9
+Papa Amarilla Huamantanga Metro x kg,,1.0,kg,6.99,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,6.99
+Papas LAYS Clásicas Bolsa 210gr,Lays,210.0,g,7.0,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),210.0,g,7.0
+Papa Amarilla Huamantanga x kg,,1.0,kg,7.19,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,7.19
+Papas al Hilo Villa Natura 150g,,150.0,g,7.2,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,7.2
+Papas Lays Ondas Picante 105g,,105.0,g,7.2,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),105.0,g,7.2
+Papa Amarilla Peruanita,,0.5,kg,7.49,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),0.5,kg,7.49
+Papa en Cubos Congelada Green Food 400g,,400.0,g,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,7.5
+Papa Tricolor Cocktail Agro Selecto 800 g,,800.0,g,7.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),800.0,g,7.5
+Papa Huamantanga Agro Selecto 1Kg,,1.0,kg,7.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,7.5
+Papas Naturales Fritas Partners Chips 140g,,140.0,g,7.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,7.5
+Papas Naturales Fritas Partners Chips Tocino BBQ 140g,,140.0,g,7.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,7.5
+Papas Naturales Fritas Partners Chips 140g,,140.0,g,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,7.5
+Papa Huamantanga Agro Selecto 1Kg,,1.0,kg,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,7.5
+Papa Tricolor Cocktail Agro Selecto 800 g,,800.0,g,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),800.0,g,7.5
+Papas Naturales Fritas Partners Chips Ají Limo 140g,,140.0,g,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,7.5
+Papas Naturales Fritas Partners Chips Tocino BBQ 140g,,140.0,g,7.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,7.5
+Papas INKA CHIPS Jalapeños Bolsa 135g,,135.0,g,7.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),135.0,g,7.6
+Papas Nativas Mixtas TIYAPUY Bolsa 142g,TIYAPUY,142.0,g,7.6,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),142.0,g,7.6
+Papas INKA CHIPS Queso & Cebolla Bolsa 135g,,135.0,g,7.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),135.0,g,7.6
+Papas Nativas Amarillas Picantes Tiyapuy 160g,,160.0,g,7.6,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),160.0,g,7.6
+Papas Fritas Amarillas Tiyapuy Bolsa 160 g,,160.0,g,7.6,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),160.0,g,7.6
+Papas INKA CHIPS con Sal de Mar Bolsa 135g,,135.0,g,7.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),135.0,g,7.6
+Tortillas fritas de maíz original de 220 g,BUCKY,220.0,g,7.65,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),220.0,g,7.65
+NACHOS TORTILLAS MAIZ PICANTE X220G SNACKS,BUCKY,220.0,g,7.65,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),220.0,g,7.65
+Papa Seca TESORO DEL CAMPO Bolsa 500g,,500.0,g,7.69,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,7.69
+Papas Fritas INKA CHIPS BBQ y Cebolla Bolsa 135g,INKA CHIPS,135.0,g,7.8,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),135.0,g,7.8
+Papas INKA CHIPS con Sal de Mar Bolsa 135g,INKA CHIPS,135.0,g,7.8,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),135.0,g,7.8
+Papas INKA CHIPS Sabor Jalapeño 135g,INKA CHIPS,135.0,g,7.8,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),135.0,g,7.8
+Aceitunas Verdes EL OLIVAR sin Pepa Bolsa 240g,,240.0,g,7.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),240.0,g,7.9
+Papas Nativas Fritas Partners Chips Orgánico 140g,,140.0,g,7.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,7.9
+Papas Fritas Tradicionales Cuisine & Co Bolsa 180 gr,,180.0,g,7.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),180.0,g,7.9
+Papas Fritas Tradicionales Cuisine & Co Bolsa 180 gr,,180.0,g,7.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),180.0,g,7.9
+Piqueo Andino 175 g,TOTTUS,175.0,g,7.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),175.0,g,7.9
+Papa Canchan Prefrita con Cascara Congelada BELL'S Bolsa 500g,BELL'S,500.0,g,7.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),500.0,g,7.9
+Chips De Papas Sabor Picante 134gr,TOTTUS,134.0,g,7.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),134.0,g,7.9
+Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,7.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),500.0,g,7.9
+Papas Fritas Cuisine & Co 200g,,200.0,g,7.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),200.0,g,7.9
+Guindones sin Pepa VILLA NATURA Bolsa 150g,,150.0,g,7.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),150.0,g,7.9
+Chips de papas sabor original 134 g,TOTTUS,134.0,g,7.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),134.0,g,7.9
+Pasas Morenas BELL'S Táper 250g,,250.0,g,7.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),250.0,g,7.9
+Jugo de Fruta NATURALE Chicha Morada Botella 1...,,1.0,l,7.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,l,7.9
+Papa Peruanita Cocktail Agro Selecto Ready 800g,,800.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),800.0,g,8.0
+Papa en Hojuelas Inka Chips Queso y Cebolla 135g,,135.0,g,8.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papa en Hojuelas Inka Chips BBQ y Cebolla 135g,,135.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papas Inka Chips Sal de Mar 135g,,135.0,g,8.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papas Nativas en Hojuelas Inka Chips 135g,,135.0,g,8.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Veggie Chips Tropical 125 g,INKA CHIPS,125.0,g,8.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),125.0,g,8.0
+Papa Canchán Procesada Agro Selecto 2Kg,,2.0,kg,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),2.0,kg,8.0
+Papas Nativas en Hojuelas Inka Chips 135g,,135.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papas Fritas Onduladas Sabor Habanero BBQ Inka Chips Bolsa 115 g,,115.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),115.0,g,8.0
+Papa en Hojuelas Inka Chips Queso y Cebolla 135g,,135.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papas Inka Chips Sal de Mar 135g,,135.0,g,8.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papa en Hojuelas Inka Chips Jalapeño 135g,,135.0,g,8.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),135.0,g,8.0
+Papa Blanca Yungay Agro Selecto 2kg,,2.0,kg,8.08,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),2.0,kg,8.08
+Papa Amarilla Tumbay Procesada x kg,,1.0,kg,8.09,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,8.09
+Papa Amarilla Tumbay Procesada x kg,,1.0,kg,8.09,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,8.09
+Papa Seca COSTEÑO Bolsa 500g,COSTENO,500.0,g,8.1,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),500.0,g,8.1
+"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",,115.0,g,8.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),115.0,g,8.1
+Papa en Hojuelas Inka Chips Finas Hierbas y Lima 115g,,115.0,g,8.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),115.0,g,8.1
+Papa en Hojuelas Inka Chips Salsa Búfalo Picante 115g,,115.0,g,8.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),115.0,g,8.1
+Papas Fritas INKA CHIPS Finas Hierbas Bolsa y ...,,115.0,g,8.1,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),115.0,g,8.1
+Papa en Hojuelas Inka Chips Bembos Clásica 120g,,120.0,g,8.2,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),120.0,g,8.2
+"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",,115.0,g,8.2,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),115.0,g,8.2
+Papa en Hojuelas Inka Chips Finas Hierbas y Lima 115g,,115.0,g,8.2,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),115.0,g,8.2
+Papa Seca COSTEÑO Bolsa 500g,,500.0,g,8.2,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,8.2
+Papa Amarilla Peruanita Procesada x kg,,1.0,kg,8.29,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,8.29
+Piqueo BELL'S Papas al hilo Bolsa 220Gr,,220.0,g,8.29,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),220.0,g,8.29
+Papa en Hojuelas Inka Chips Bembos Clásica 120g,,120.0,g,8.3,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),120.0,g,8.3
+Papas Peruanas INKA CHIPS Bembos Hamburguesa Bolsa 120g,INKA CHIPS,120.0,g,8.3,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),120.0,g,8.3
+Papa Amarilla Tumbay x kg,,1.0,kg,8.49,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,8.49
+Papa Amarilla Peruanita Procesada Metro x kg,,1.0,kg,8.49,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,8.49
+Papa Amarilla Tumbay x kg,,1.0,kg,8.49,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,8.49
+Aceitunas Negras EL OLIVAR con Pepa Bolsa 240g,,240.0,g,8.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),240.0,g,8.5
+Papa Jalapeno 135g,INKA CHIPS,135.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),135.0,g,8.5
+Papa Salada 135g,INKA CHIPS,135.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),135.0,g,8.5
+Papas PRINGLES Original Lata 104g,PRINGLES,104.0,g,8.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),104.0,g,8.5
+Papas PRINGLES Crema y Cebolla Lata 109g,PRINGLES,109.0,g,8.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),109.0,g,8.5
+Papa Amarilla Tumbay Agro Selecto 1Kg,,1.0,kg,8.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,8.5
+Papa Bbq 135g,INKA CHIPS,135.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),135.0,g,8.5
+Papa Hamburguesa Bembos 120 g,INKA CHIPS,120.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),120.0,g,8.5
+Quinoa Chips Sabor Guacamole 100g,QFOODS,100.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),100.0,g,8.5
+Papas onduladas con tomate albahaca y aceite de oliva de 115 g,INKA CHIPS,115.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),115.0,g,8.5
+Papa Blanca Yungay Agro Selecto 2kg,,2.0,kg,8.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),2.0,kg,8.5
+Patas de Pollo Empacada al vacío SAN FERNANDO,,0.9,kg,8.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),0.9,kg,8.5
+Papa Peruanita Agro Selecto 1kg,,1.0,kg,8.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,8.5
+Papas PRINGLES Queso Lata 109g,PRINGLES,109.0,g,8.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),109.0,g,8.5
+Papas Nativas Fritas Tiyapuy Sabor Jalapeño 142g,,142.0,g,8.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),142.0,g,8.5
+PAPAS CUSQUENA HABANERO BBQ 115G,INKA CHIPS,115.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),115.0,g,8.5
+Papas Lay's Clásicas 210g,LAYS,210.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),210.0,g,8.5
+PAPAS CUSQUENA BUFALO X 115G,INKA CHIPS,115.0,g,8.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),115.0,g,8.5
+Papas PRINGLES Crema y Cebolla Lata 109g,,109.0,g,8.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),109.0,g,8.5
+Comida para Perros RAMBALA Adulto Patas de Pol...,,10.0,un,8.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),10.0,un,8.6
+Papa Seca Costeño 500g,,500.0,g,8.7,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),500.0,g,8.7
+Turrón de Doña Pepa BELL'S Caja 500g,,500.0,g,8.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,8.9
+Papas Pringles Queso 109g,,109.0,g,8.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Papas Fritas Pringles Sabor Churrasco 109g,,109.0,g,8.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Papas Pringles Cheddar & Bacon 105g,,105.0,g,8.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),105.0,g,8.9
+Pasas Rubias VILLA NATURA Bolsa 150g,,150.0,g,8.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),150.0,g,8.9
+Papas Pringles Original 104g,,104.0,g,8.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),104.0,g,8.9
+Papas Pringles Crema y Cebolla 109g,,109.0,g,8.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Papas Fritas Pringles Sabor Churrasco 109g,,109.0,g,8.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Cocktail de Frutas BELL'S en Almíbar Lata 820g,,820.0,g,8.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),820.0,g,8.9
+Palitos de Sal Maras Sannissimo 90 g,SANISSIMO,90.0,g,8.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),90.0,g,8.9
+Papas Pringles Cheddar & Bacon 105g,,105.0,g,8.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),105.0,g,8.9
+Papas Pringles Original 104g,,104.0,g,8.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),104.0,g,8.9
+Papas PRINGLES Original Lata 104g,Pringles,104.0,g,8.9,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),104.0,g,8.9
+Papas PRINGLES Sour & Cream Lata 109g,Pringles,109.0,g,8.9,vega,2024-12-05 13:23:14.917685,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Papas Pringles Crema y Cebolla 109g,,109.0,g,8.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),109.0,g,8.9
+Papa Amarilla Tumbay Procesada x kg,,1.0,kg,8.99,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,8.99
+Turrón de Doña Pepa LA FLORENCIA Caja 500g,,500.0,g,9.0,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,9.0
+Papas LAY'S Clásicas Bolsa 210g,,210.0,g,9.0,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),210.0,g,9.0
+Queso Atrevido 190g,DORITOS,190.0,g,9.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),190.0,g,9.0
+Chifles 150g,KARINTO,150.0,g,9.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,9.0
+Papas Fritas Lay's Clásicas 210g,,210.0,g,9.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),210.0,g,9.1
+Papas en Hojuelas Sabor Queso Cheddar Papa Chips Cuisine & Co Tubo 140 g,,140.0,g,9.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,9.5
+Papas en Hojuelas Sabor Crema & Cebolla Papa Chips Cuisine & Co Tubo 140 g,,140.0,g,9.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,9.5
+Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo 140 g,,140.0,g,9.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),140.0,g,9.5
+Aceituna Negra sin Pepa EL OLIVAR Bolsa 240g,,240.0,g,9.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),240.0,g,9.5
+Papas en Hojuelas Sabor Original Papa Chips Cuisine & Co Tubo 140 g,,140.0,g,9.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,9.5
+SOLA SOUR CREAM 109G,PRINGLES,109.0,g,9.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),109.0,g,9.9
+Papas Prefritas McCain Corte Tradicional 400g,,400.0,g,9.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),400.0,g,9.9
+Papas Nativas TIYAPUY Mixtas Sabor a Limón y Pimienta Bolsa 142g,TIYAPUY,142.0,g,9.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),142.0,g,9.9
+Papas Nativas TIYAPUY Mixtas Sabor a Jalapeño Bolsa 142g,TIYAPUY,142.0,g,9.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),142.0,g,9.9
+Papas Prefritas McCain Corte Tradicional 400g,,400.0,g,9.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,9.9
+Papas Clásicas Mydibel 7/7 Bolsa 1 Kg,,1.0,kg,9.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,9.9
+Papa Sazonada en Gajos AVIKO Bolsa 500g,AVIKO,500.0,g,9.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),500.0,g,9.9
+Papas al Hilo VILLA NATURA Bolsa 250g,,250.0,g,9.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),250.0,g,9.9
+SOLA ORIGINAL 104G,PRINGLES,104.0,g,9.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),104.0,g,9.9
+Papas Fritas 400g aprox,,400.0,g,9.99,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),400.0,g,9.99
+Mix de Nueces y Frutas BELL'S Táper 200g,,200.0,g,9.99,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),200.0,g,9.99
+Papa Canchán Procesada Comcen 2 kg,,2.0,kg,10.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),2.0,kg,10.0
+Papas Lay's Ondas Clásicas 140g + Papas Lay's Ondas Picante 140g,,140.0,g,10.35,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),140.0,g,10.35
+Papa Prefrita BELL'S Bolsa 1Kg,BELL'S,1.0,kg,10.49,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),1.0,kg,10.49
+Aceituna Verde sin Pepa HUERTO MEJÍA Paquete 2...,,230.0,g,10.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),230.0,g,10.5
+Papas Clásicas Mydibel 7/7 Bolsa 1 Kg,,1.0,kg,10.8,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,10.8
+Papa Clásicas Mydibel 9/9 Bolsa 1 Kg,,1.0,kg,10.8,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,10.8
+Papa Clásicas Mydibel 9/9 Bolsa 1 Kg,,1.0,kg,10.8,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,10.8
+"Yogurt GLORIA ActiBio con Linaza Sabor a Higo,...",,1.7,kg,10.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.7,kg,10.9
+Papa Super Crunch AVIKO Bolsa 750g,AVIKO,750.0,g,10.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),750.0,g,10.9
+Papa Prefrita Congelada AVIKO Bolsa 1kg,AVIKO,1.0,kg,10.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),1.0,kg,10.9
+Papa Amarilla Comcen Procesada 1 kg,,1.0,kg,10.93,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,10.93
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,,260.0,g,11.0,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),260.0,g,11.0
+Papa Amarilla Tumbay Prensada Roots Foods Bolsa 1 Kg,,1.0,kg,11.31,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,11.31
+Papa Negra Andina Agro Selecto 2Kg,,2.0,kg,11.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),2.0,kg,11.5
+Papa Negra Andina Agro Selecto 2Kg,,2.0,kg,11.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),2.0,kg,11.5
+Cereal ANGEL Capas de trigo con chocolate Bols...,,380.0,g,11.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),380.0,g,11.6
+Papa Tradicional Congelada BEM BRASIL Bolsa 1.05kg,BEM BRASIL,1.05,kg,11.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),1.05,kg,11.9
+Aceituna Negra sin Pepa BELL'S Táper 260g,,260.0,g,11.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),260.0,g,11.9
+Papa Nativas Tiyapuy 160g + Camotes Tiyapuy 160g,,160.0,g,11.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),160.0,g,11.9
+Papa Rellena LA FLORENCIA 450g,,1.0,un,11.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,un,11.9
+Papas Fritas 400g aprox,,400.0,g,11.99,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,11.99
+Papas Fritas Huamantanga 450g aprox,,450.0,g,11.99,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),450.0,g,11.99
+Redondos Salados 280g,TOSTITOS,280.0,g,12.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),280.0,g,12.0
+Papa Rellena LA FLORENCIA 450g,LA FLORENCIA,450.0,g,12.1,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),450.0,g,12.1
+Papas Prefritas BEM BRASIL con Forma de Caritas Bolsa 1.05Kg,BEM BRASIL,1.05,kg,12.49,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),1.05,kg,12.49
+Aceituna Botija sin Pepa HUERTO MEJÍA Paquete ...,,220.0,g,12.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),220.0,g,12.5
+Mix de Papas Nativas TIYAPUY Bolsa 142g + Camo...,,284.0,g,12.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),284.0,g,12.9
+Mix de Frutas Congeladas BELL'S Bolsa 1kg,,1.0,kg,12.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,kg,12.9
+Papa Nativas Tiyapuy 160g + Camotes Tiyapuy 160g,,160.0,g,13.2,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),160.0,g,13.2
+Papas Fritas Lay's Clásicas 150g + Piqueo Snax Original 200g,,150.0,g,13.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,13.5
+Pack Papas Lay's Clásicas 150g y Piqueo Snax 200g,LAYS,150.0,g,13.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),150.0,g,13.5
+Pack Papas LAY´S Clásicas Bolsa 150g + DORITOS...,,2.0,un,13.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),2.0,un,13.5
+Papas Fritas Lay's Clásicas 150g + Piqueo Snax Original 200g,,150.0,g,13.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),150.0,g,13.5
+Papas LAY'S Ondas Picantes 140g + Piqueo SNAX Original 200g,LAY'S,140.0,g,13.5,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),140.0,g,13.5
+Papas Fritas Lay's Clásicas 150g + Doritos Queso Atrevido 190g,,150.0,g,13.5,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,13.5
+Guindones sin Pepa BELL'S Táper 250g,,250.0,g,13.6,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),250.0,g,13.6
+Papas Lays Clásicas 150g + De Todito Mix 165g,,150.0,g,13.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),150.0,g,13.9
+Papas PRINGLES Habaneras Lata 158g,PRINGLES,158.0,g,13.9,vivanda,2024-12-05 22:31:30.086091,PAPA FRITA (BOCADITOS),158.0,g,13.9
+Papas Lays Clásicas 150g + De Todito Mix 165g,,150.0,g,13.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,13.9
+Papas Lays Clásicas 150g + Detodito Natural 165g,,150.0,g,13.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,13.9
+Papas Fritas Lay's Clásicas 150g + Doritos Queso Atrevido 145g,,150.0,g,14.1,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),150.0,g,14.1
+Papa Amarilla Tumbay FEST Prefrita Congelada D...,,1.0,kg,14.3,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,kg,14.3
+Papas en Hojuelas 175 g + Piqueo Andino 175 g,TOTTUS,175.0,g,14.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),175.0,g,14.5
+Papas Pringles Sabor BBQ 158g,,158.0,g,14.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),158.0,g,14.9
+Papas Pringles Crema y Queso Cheddar Lata 158 g,,158.0,g,14.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),158.0,g,14.9
+Papas Fritas The Fresh Market Smokehouse BBQ 255g,,255.0,g,14.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),255.0,g,14.9
+Papas Pringles Chile Habanero 158g,,158.0,g,14.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),158.0,g,14.9
+Papas Pringles Adobada 158g,,158.0,g,14.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),158.0,g,14.9
+Papas Pringles Chile Habanero 158g,,158.0,g,14.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),158.0,g,14.9
+Papas Fritas The Fresh Market Sour Cream y Cebolla 255g,,255.0,g,14.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),255.0,g,14.9
+"Galletas con Quinua, Ajo y Cebolla Caja 6 un",NUTRI CO,6.0,un,14.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),6.0,un,14.9
+Galletas con Quinua y Finas Hierbas Caja 6 un,NUTRI CO,6.0,un,14.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),6.0,un,14.9
+Tostones 240g,INKA CHIPS,240.0,g,16.0,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),240.0,g,16.0
+Cereal UNIÓN Granola Pasas y Almendras Doypack...,,400.0,g,16.49,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),400.0,g,16.49
+Plátano Frito Sabor Cabanossi 210 g,ARTICHAY,210.0,g,16.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),210.0,g,16.5
+CHIFLES SALADOS CANCHA CARNE RES 250G,ARTICHAY,250.0,g,16.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),250.0,g,16.5
+Plátano Frito Sabor Salsa Acevichado 210 g,ARTICHAY,210.0,g,16.5,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),210.0,g,16.5
+Papa Amarilla Tumbay Procesada Agro Selecto 2Kg,,2.0,kg,16.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),2.0,kg,16.5
+Chifle Norteño Con Canchita Milys 500 g,TOTTUS,500.0,g,16.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),500.0,g,16.9
+Turrón SAN JOSÉ de Doña Pepa Paquete 500g,,500.0,g,17.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,17.9
+Papas Prefritas McCain Crinkle 600g,,600.0,g,17.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),600.0,g,17.9
+Papas al Hilo VILLA NATURA Bolsa 500g,,500.0,g,17.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,17.9
+Papas Prefritas McCain Crinkle 600g,,600.0,g,17.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),600.0,g,17.9
+Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,,1.89,l,18.2,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.89,l,18.2
+Turrón de Doña Pepa CRISTO MORADO Caja 500g,,500.0,g,18.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),500.0,g,18.5
+CHIFLE SALADO BL 500 GR,VILLA NATURA,500.0,g,18.9,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),500.0,g,18.9
+Papas Prefritass McCain Corte Tradicional 700g,,700.0,g,18.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),700.0,g,18.9
+Papas Prefritass McCain Corte Tradicional 700g,,700.0,g,18.9,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),700.0,g,18.9
+Maíz Gigante Original 500 g,INKA CORN,500.0,g,19.43,tottus,2024-12-05 12:42:36.072557,PAPA FRITA (BOCADITOS),500.0,g,19.43
+Papas Nativas Congeladas Tiyapuy Corte Recto 1kg,,1.0,kg,19.5,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,19.5
+Papas al Hilo Villa Natura 500g,,500.0,g,19.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),500.0,g,19.9
+Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,,840.0,g,21.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),840.0,g,21.9
+Papa Tumbay en Gajos Pre Frita Congelada Cali Frut 1kg,,1.0,kg,22.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),1.0,kg,22.0
+Papa Tumbay en Gajos Pre Frita Congelada Cali Frut 1kg,,1.0,kg,22.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),1.0,kg,22.0
+Papas Clásicas Mydibel Congeladas Bolsa 2.5 Kg,,2.5,kg,23.93,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),2.5,kg,23.93
+Papas Prefritas Mydibel 9 mm 2.50 kg,,2.5,kg,24.0,metro,2024-12-05 16:47:55.737032,PAPA FRITA (BOCADITOS),2.5,kg,24.0
+Pollo Rostizado + Papas Fritas,,2.0,un,27.9,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),2.0,un,27.9
+Papas Prefritas Mydibel 9 mm 2.50 kg,,2.5,kg,32.0,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),2.5,kg,32.0
+Pollo Rostizado + Papas Fritas + Gaseosa 1.5L,,3.0,un,33.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),3.0,un,33.5
+Turrón SAN JOSE de Doña Pepa Caja 1Kg,,1.0,kg,34.5,plaza_vea,2024-12-05 16:00:53.382192,PAPA FRITA (BOCADITOS),1.0,kg,34.5
+Papas Nativas Tiyapuy Fiestas Patrias 400g,,400.0,g,36.9,wong,2024-12-05 19:25:26.260905,PAPA FRITA (BOCADITOS),400.0,g,36.9

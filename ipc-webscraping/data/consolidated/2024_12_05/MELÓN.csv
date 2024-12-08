@@ -1,20 +1,20 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Sandía,S/ 1.29 x kg,plaza_vea,MELÓN,2024-12-05 15:21:42.034324,2.5,kg,Sandía,1.29,plaza_vea,Presentación 2.5 kg aprox.,,MELÓN
-Sandía Metro x kg,S/ 1.69 x kg,metro,MELÓN,2024-12-05 16:04:16.268914,1.0,kg,Sandía Metro,1.69,metro,,,MELÓN
-Melón Coquito Metro x kg,S/ 3.29 x kg,metro,MELÓN,2024-12-05 16:04:16.268914,1.0,kg,Melón Coquito Metro,3.29,metro,,,MELÓN
-Melón Coquito,S/ 3.29 x kg,plaza_vea,MELÓN,2024-12-05 15:21:42.034324,1.2,kg,Melón Coquito,3.29,plaza_vea,Presentación 1.2 kg aprox.,,MELÓN
-Melón Coquito Wong x kg,S/ 3.49 x kg,wong,MELÓN,2024-12-05 18:38:19.406315,1.0,kg,Melón Coquito Wong,3.49,wong,,,MELÓN
-Sandía Amarilla x kg,S/ 3.99 x kg,wong,MELÓN,2024-12-05 18:38:19.406315,1.0,kg,Sandía Amarilla,3.99,wong,,,MELÓN
-Melón en Trozos BELL'S Bandeja 300g,S/ 5.60 un,plaza_vea,MELÓN,2024-12-05 15:21:42.034324,300.0,g,Melón en Trozos BELL'S Bandeja,5.6,plaza_vea,Bandeja 300g,,MELÓN
-Pepino Melón x kg,S/ 5.99 x kg,wong,MELÓN,2024-12-05 18:38:19.406315,1.0,kg,Pepino Melón,5.99,wong,,,MELÓN
-Pepino Melón x kg,S/ 5.99 x kg,metro,MELÓN,2024-12-05 16:04:16.268914,1.0,kg,Pepino Melón,5.99,metro,,,MELÓN
-Pepino Melón,S/ 6.49 x kg,plaza_vea,MELÓN,2024-12-05 15:21:42.034324,0.6,kg,Pepino Melón,6.49,plaza_vea,Presentación 0.6 kg aprox.,,MELÓN
-Melón Honey Metro x kg,S/ 6.99 x kg,metro,MELÓN,2024-12-05 16:04:16.268914,1.0,kg,Melón Honey Metro,6.99,metro,,,MELÓN
-Ambientador en Aerosol Sapolio Melón 360ml,S/ 7.10,metro,MELÓN,2024-12-05 16:04:16.268914,360.0,ml,Ambientador en Aerosol Sapolio Melón,7.1,metro,,,MELÓN
-Melón en Trozos Natifrut 280g,S/ 7.49,wong,MELÓN,2024-12-05 18:38:19.406315,280.0,g,Melón en Trozos Natifrut,7.49,wong,,,MELÓN
-Melón en Trozos Natifrut 280g,S/ 7.49,metro,MELÓN,2024-12-05 16:04:16.268914,280.0,g,Melón en Trozos Natifrut,7.49,metro,,,MELÓN
-Origens Comida para Gatos Filete de Atún con Melón Lata 85 g,S/ 7.80,wong,MELÓN,2024-12-05 18:38:19.406315,85.0,g,Origens Comida para Gatos Filete de Atún con Melón Lata,7.8,wong,,,MELÓN
-Ensal Fruta Melon Mango Uva SOLEI Bandeja 300g,S/ 8.79,vivanda,MELÓN,2024-12-05 22:05:35.909904,300.0,g,Ensal Fruta Melon Mango Uva SOLEI Bandeja,8.79,vivanda,,SOLEI,MELÓN
-"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",S/ 8.79 un,plaza_vea,MELÓN,2024-12-05 15:21:42.034324,300.0,g,"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3",8.79,plaza_vea,Bandeja 300g,,MELÓN
-Melón Deshidratado Natifrut x kg,S/ 188.00 x kg,wong,MELÓN,2024-12-05 18:38:19.406315,1.0,kg,Melón Deshidratado Natifrut,188.0,wong,,,MELÓN
-"Fruta Deshidratada Manzana, Fresa y Melón Natifrut x kg",S/ 279.00 x kg,wong,MELÓN,2024-12-05 18:38:19.406315,1.0,kg,"Fruta Deshidratada Manzana, Fresa y Melón Natifrut",279.0,wong,,,MELÓN
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Sandía,,2.5,kg,1.29,plaza_vea,2024-12-05 15:21:42.034324,MELÓN,2.5,kg,1.29
+Sandía Metro x kg,,1.0,kg,1.69,metro,2024-12-05 16:04:16.268914,MELÓN,1.0,kg,1.69
+Melón Coquito Metro x kg,,1.0,kg,3.29,metro,2024-12-05 16:04:16.268914,MELÓN,1.0,kg,3.29
+Melón Coquito,,1.2,kg,3.29,plaza_vea,2024-12-05 15:21:42.034324,MELÓN,1.2,kg,3.29
+Melón Coquito Wong x kg,,1.0,kg,3.49,wong,2024-12-05 18:38:19.406315,MELÓN,1.0,kg,3.49
+Sandía Amarilla x kg,,1.0,kg,3.99,wong,2024-12-05 18:38:19.406315,MELÓN,1.0,kg,3.99
+Melón en Trozos BELL'S Bandeja 300g,,300.0,g,5.6,plaza_vea,2024-12-05 15:21:42.034324,MELÓN,300.0,g,5.6
+Pepino Melón x kg,,1.0,kg,5.99,wong,2024-12-05 18:38:19.406315,MELÓN,1.0,kg,5.99
+Pepino Melón x kg,,1.0,kg,5.99,metro,2024-12-05 16:04:16.268914,MELÓN,1.0,kg,5.99
+Pepino Melón,,0.6,kg,6.49,plaza_vea,2024-12-05 15:21:42.034324,MELÓN,0.6,kg,6.49
+Melón Honey Metro x kg,,1.0,kg,6.99,metro,2024-12-05 16:04:16.268914,MELÓN,1.0,kg,6.99
+Ambientador en Aerosol Sapolio Melón 360ml,,360.0,ml,7.1,metro,2024-12-05 16:04:16.268914,MELÓN,360.0,ml,7.1
+Melón en Trozos Natifrut 280g,,280.0,g,7.49,wong,2024-12-05 18:38:19.406315,MELÓN,280.0,g,7.49
+Melón en Trozos Natifrut 280g,,280.0,g,7.49,metro,2024-12-05 16:04:16.268914,MELÓN,280.0,g,7.49
+Origens Comida para Gatos Filete de Atún con Melón Lata 85 g,,85.0,g,7.8,wong,2024-12-05 18:38:19.406315,MELÓN,85.0,g,7.8
+Ensal Fruta Melon Mango Uva SOLEI Bandeja 300g,SOLEI,300.0,g,8.79,vivanda,2024-12-05 22:05:35.909904,MELÓN,300.0,g,8.79
+"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",,300.0,g,8.79,plaza_vea,2024-12-05 15:21:42.034324,MELÓN,300.0,g,8.79
+Melón Deshidratado Natifrut x kg,,1.0,kg,188.0,wong,2024-12-05 18:38:19.406315,MELÓN,1.0,kg,188.0
+"Fruta Deshidratada Manzana, Fresa y Melón Natifrut x kg",,1.0,kg,279.0,wong,2024-12-05 18:38:19.406315,MELÓN,1.0,kg,279.0

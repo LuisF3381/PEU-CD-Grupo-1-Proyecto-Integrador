@@ -1,4 +1,4 @@
-unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Presentación 2.2 kg aprox.,Pollo Entero Fresco con Menudencia,S/ 9.40 x kg,plaza_vea,MENUDENCIA DE POLLO,2024-12-05 14:48:05.972664,2.2,kg,Pollo Entero Fresco con Menudencia,9.4,plaza_vea,MENUDENCIA DE POLLO
-Presentación 2.3 kg aprox.,Pollo Fresco con Menudencia Trozado en 8 Pieza...,S/ 10.90 x kg,plaza_vea,MENUDENCIA DE POLLO,2024-12-05 14:48:05.972664,2.3,kg,Pollo Fresco con Menudencia Trozado en 8 Pieza,10.9,plaza_vea,MENUDENCIA DE POLLO
-Paquete 1.3Kg,Pollo Entero sin Menudencia Congelado PERDIX 1...,S/ 13.90 un,plaza_vea,MENUDENCIA DE POLLO,2024-12-05 14:48:05.972664,1.3,kg,Pollo Entero sin Menudencia Congelado PERDIX 1,13.9,plaza_vea,MENUDENCIA DE POLLO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Pollo Entero Fresco con Menudencia,,2.2,kg,9.4,plaza_vea,2024-12-05 14:48:05.972664,MENUDENCIA DE POLLO,1,kg,4.2727272727272725
+Pollo Fresco con Menudencia Trozado en 8 Pieza...,,2.3,kg,10.9,plaza_vea,2024-12-05 14:48:05.972664,MENUDENCIA DE POLLO,1,kg,4.739130434782609
+Pollo Entero sin Menudencia Congelado PERDIX 1...,,1.3,kg,13.9,plaza_vea,2024-12-05 14:48:05.972664,MENUDENCIA DE POLLO,1,kg,10.692307692307692

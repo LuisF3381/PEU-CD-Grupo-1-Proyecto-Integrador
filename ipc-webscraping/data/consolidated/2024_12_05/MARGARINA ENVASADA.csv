@@ -1,256 +1,204 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Caigua x un,S/ 0.59,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Caigua,0.59,metro,,,MARGARINA ENVASADA
-Poro x un,S/ 1.49,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Poro,1.49,metro,,,MARGARINA ENVASADA
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 500 ml",S/ 1.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,ml,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",1.7,metro,,,MARGARINA ENVASADA
-Zapallo Macre x kg,S/ 1.99 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Zapallo Macre,1.99,metro,,,MARGARINA ENVASADA
-Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,ml,Bebida Rehidratante GATORADE Mandarina Botella,2.0,plaza_vea,Botella 500ml,,MARGARINA ENVASADA
-Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 2.00,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.0,vega,,Sporade,MARGARINA ENVASADA
-Bebida en Polvo Clight Sin Calorías Sabor Mandarina 14g,S/ 2.30,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Mandarina,2.3,metro,,,MARGARINA ENVASADA
-Margarina Manty Pote 90 g,S/ 2.38,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,90.0,g,Margarina Manty Pote,2.38,metro,,,MARGARINA ENVASADA
-Bebida Rehidratante Gatorade Mandarina Botella 500ml,S/ 2.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,ml,Bebida Rehidratante Gatorade Mandarina Botella,2.4,metro,,,MARGARINA ENVASADA
-Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 2.40,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.4,vivanda,,SPORADE,MARGARINA ENVASADA
-Bebida Rehidratante SPORADE Mandarina Botella ...,S/ 2.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.4,plaza_vea,Botella 500ml,,MARGARINA ENVASADA
-Zapallito Italiano x un,S/ 2.79,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Zapallito Italiano,2.79,metro,,,MARGARINA ENVASADA
-Margarina MANTY Pote 90g,S/ 2.80,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,90.0,g,Margarina MANTY Pote,2.8,vivanda,,MANTY,MARGARINA ENVASADA
-Margarina MANTY Pote 90g,S/ 2.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,90.0,g,Margarina MANTY Pote,2.8,plaza_vea,Pote 90g,,MARGARINA ENVASADA
-Margarina MANTY Pote 90g,S/ 2.80,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,90.0,g,Margarina MANTY Pote,2.8,vega,,Manty,MARGARINA ENVASADA
-Pepinillo x un,S/ 2.80,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Pepinillo,2.8,metro,,,MARGARINA ENVASADA
-Ají Pollero Adelmi 100g,S/ 2.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,100.0,g,Ají Pollero Adelmi,2.9,metro,,,MARGARINA ENVASADA
-Bebida Rehidratante GATORADE Mandarina Botella 500ml,S/ 2.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,ml,Bebida Rehidratante GATORADE Mandarina Botella,2.9,vivanda,,GATORADE,MARGARINA ENVASADA
-Margarina SELLO DE ORO Barra 90g,S/ 2.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,90.0,g,Margarina SELLO DE ORO Barra,2.9,plaza_vea,Barra 90g,,MARGARINA ENVASADA
-Margarina Sello de Oro Barra 90g,S/ 2.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,90.0,g,Margarina Sello de Oro Barra,2.9,metro,,,MARGARINA ENVASADA
-Tornillo Especial MOLITALIA Pasta para Ensalada Bolsa 235g,S/ 3.10,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,235.0,g,Tornillo Especial MOLITALIA Pasta para Ensalada Bolsa,3.1,vivanda,,MOLITALIA,MARGARINA ENVASADA
-Palitos con Ajonjolí y Linaza Unión 65 g,S/ 3.10,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,65.0,g,Palitos con Ajonjolí y Linaza Unión,3.1,tottus,,UNION,MARGARINA ENVASADA
-Nabo x kg,S/ 3.19 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Nabo,3.19,metro,,,MARGARINA ENVASADA
-Margarina esparcible 90 g,S/ 3.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,90.0,g,Margarina esparcible,3.2,tottus,,SELLO DE ORO,MARGARINA ENVASADA
-MARGARINA SWIS BARRA X 90 GR,S/ 3.30,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,90.0,g,MARGARINA SWIS BARRA X R,3.3,tottus,,LAIVE,MARGARINA ENVASADA
-Bebida Rehidratante GATORADE Sabor a Mandarina...,S/ 3.30 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,750.0,ml,Bebida Rehidratante GATORADE Sabor a Mandarina,3.3,plaza_vea,Botella 750ml,,MARGARINA ENVASADA
-Pasta para Ensalada Molitalia Tornillo Especial 235g,S/ 3.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,235.0,g,Pasta para Ensalada Molitalia Tornillo Especial,3.4,metro,,,MARGARINA ENVASADA
-Margarina LAIVE Swis Barra 90g,S/ 3.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,90.0,g,Margarina LAIVE Swis Barra,3.5,plaza_vea,Barra 90g,,MARGARINA ENVASADA
-Hojuelas al ajo 50 gr,S/ 3.60,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,50.0,g,Hojuelas al ajo r,3.6,tottus,,EL CEDRO,MARGARINA ENVASADA
-Mantequilla con Sal Gloria 50g,S/ 3.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,50.0,g,Mantequilla con Sal Gloria,3.7,metro,,,MARGARINA ENVASADA
-Margarina LAIVE Swis Barra 90g,S/ 3.80,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,90.0,g,Margarina LAIVE Swis Barra,3.8,vivanda,,LAIVE,MARGARINA ENVASADA
-Margarina LA DANESA Pote 190g,S/ 3.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,190.0,g,Margarina LA DANESA Pote,3.8,plaza_vea,Pote 190g,,MARGARINA ENVASADA
-Rabanito La Caserita 500g,S/ 3.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Rabanito La Caserita,3.9,metro,,,MARGARINA ENVASADA
-Ají De La Casa Metro 100g,S/ 3.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,100.0,g,Ají De La Casa Metro,3.9,metro,,,MARGARINA ENVASADA
-Ensalada Rusa LA FLORENCIA Bandeja 170g,S/ 3.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,170.0,g,Ensalada Rusa LA FLORENCIA Bandeja,3.9,vivanda,,LA FLORENCIA,MARGARINA ENVASADA
-Margarina BELL'S Pote 240g,S/ 3.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,240.0,g,Margarina BELL'S Pote,3.9,plaza_vea,Pote 240g,,MARGARINA ENVASADA
-Margarina BELL'S Pote 240g,S/ 3.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,240.0,g,Margarina BELL'S Pote,3.9,vivanda,,BELL'S,MARGARINA ENVASADA
-Ensalada Rusa LA FLORENCIA Bandeja 170g,S/ 3.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,180.0,g,Ensalada Rusa LA FLORENCIA Bandeja,3.9,plaza_vea,Bandeja 180g,,MARGARINA ENVASADA
-Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,S/ 3.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,5.0,g,Mix Hierbas Ensalada 4 ESTACIONES Sobre,3.99,plaza_vea,Sobre 5g,,MARGARINA ENVASADA
-Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,S/ 3.99,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,5.0,g,Mix Hierbas Ensalada 4 ESTACIONES Sobre,3.99,vivanda,,4ESTACIONES,MARGARINA ENVASADA
-Pan Arabe Blanco 5 Unidades,S/ 4,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,5.0,un,Pan Arabe Blanco ades,4.0,tottus,,EL CEDRO,MARGARINA ENVASADA
-Pan Árabe con Salvado de Trigo 5 Unidades,S/ 4,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,5.0,un,Pan Árabe con Salvado de Trigo ades,4.0,tottus,,EL CEDRO,MARGARINA ENVASADA
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 1.5 lt",S/ 4.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.5,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",4.0,metro,,,MARGARINA ENVASADA
-Salvia 4 ESTACIONES Ensalada Sobre 5g,S/ 4.10,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,5.0,g,Salvia 4 ESTACIONES Ensalada Sobre,4.1,vivanda,,4ESTACIONES,MARGARINA ENVASADA
-Salvia 4 ESTACIONES Ensalada Sobre 5g,S/ 4.10 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,5.0,g,Salvia 4 ESTACIONES Ensalada Sobre,4.1,plaza_vea,Sobre 5g,,MARGARINA ENVASADA
-Margarina SELLO DE ORO Barra 200g,S/ 4.30 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,200.0,g,Margarina SELLO DE ORO Barra,4.3,plaza_vea,Barra 200g,,MARGARINA ENVASADA
-Margarina Sello de Oro Barra 200g,S/ 4.30,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,200.0,g,Margarina Sello de Oro Barra,4.3,metro,,,MARGARINA ENVASADA
-Poro Fitz x unid,S/ 4.39,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Poro Fitz,4.39,metro,,,MARGARINA ENVASADA
-Pan Petipan 600 g,S/ 4.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,600.0,g,Pan Petipan,4.4,tottus,,TOTTUS,MARGARINA ENVASADA
-Berengena Hidropónica Ecológica x Unidad,S/ 4.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Berengena Hidropónica Ecológica ad,4.4,metro,,,MARGARINA ENVASADA
-Margarina 200 g,S/ 4.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,200.0,g,Margarina,4.4,tottus,,SELLO DE ORO,MARGARINA ENVASADA
-Margarina Manty Clásica 300g,S/ 4.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,300.0,g,Margarina Manty Clásica,4.4,metro,,,MARGARINA ENVASADA
-Galletas SAYON Margarita Bolsa 43g,S/ 4.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,258.0,g,Galletas SAYON Margarita Bolsa,4.4,plaza_vea,Bolsa 258g,,MARGARINA ENVASADA
-Bebida de Piña y Mandarina Frugos del Valle Caja 1L,S/ 4.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,l,Bebida de Piña y Mandarina Frugos del Valle Caja,4.5,metro,,,MARGARINA ENVASADA
-Ensalada Rusa Green Food 400g,S/ 4.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,400.0,g,Ensalada Rusa Green Food,4.5,metro,,,MARGARINA ENVASADA
-Pan Francés Precocido Don Mamino 5 Unidades,S/ 4.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,5.0,un,Pan Francés Precocido Don Mamino ades,4.5,tottus,,DGNOTTAS,MARGARINA ENVASADA
-Marshmallows COLOMBINA Millows Margarita Bolsa 145gr,S/ 4.50,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,145.0,g,Marshmallows COLOMBINA Millows Margarita Bolsa r,4.5,vega,,Colombina,MARGARINA ENVASADA
-Crema a Base de Mantequilla Laive 90g,S/ 4.60,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,90.0,g,Crema a Base de Mantequilla Laive,4.6,metro,,,MARGARINA ENVASADA
-Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25,4.69,plaza_vea,Bolsa 250gun,,MARGARINA ENVASADA
-Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 250g,S/ 4.69,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa,4.69,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Margarina LAIVE Swis Barra 200g,S/ 4.80 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,200.0,g,Margarina LAIVE Swis Barra,4.8,plaza_vea,Barra 200g,,MARGARINA ENVASADA
-Margarina LAIVE Swis Barra 200g,S/ 4.80,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,200.0,g,Margarina LAIVE Swis Barra,4.8,vivanda,,LAIVE,MARGARINA ENVASADA
-Margarina Laive Swis 200g,S/ 4.80,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,200.0,g,Margarina Laive Swis,4.8,metro,,,MARGARINA ENVASADA
-Marshmallow COLOMBINA Millows sabores Frutado ...,S/ 4.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,145.0,g,Marshmallow COLOMBINA Millows sabores Frutado,4.9,plaza_vea,Bolsa 145g,,MARGARINA ENVASADA
-Bebida Rehidratante GATORADE Sabor a Mandarina Botella 750ml,S/ 4.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,750.0,ml,Bebida Rehidratante GATORADE Sabor a Mandarina Botella,4.9,vivanda,,GATORADE,MARGARINA ENVASADA
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Mandarina 14g,S/ 5.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,14.0,g,Tripack Bebida Instantánea Clight Sin Calorías Sabor Mandarina,5.0,metro,,,MARGARINA ENVASADA
-Margarina SELLO DE ORO 0% Grasas Trans Pote 20...,S/ 5.20 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,200.0,g,Margarina SELLO DE ORO 0% Grasas Trans Pote 20,5.2,plaza_vea,Pote 200g,,MARGARINA ENVASADA
-Galletas SAYON Margarita Paquete 6u 43g.,S/ 5.20,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,43.0,g,Galletas SAYON Margarita Paquete 6u .,5.2,vega,,Sayon,MARGARINA ENVASADA
-Pan De La Casa Blanco 350 g,S/ 5.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,350.0,g,Pan De La Casa Blanco,5.2,tottus,,TOTTUS,MARGARINA ENVASADA
-Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,200.0,g,Margarina SELLO DE ORO Pote r,5.2,vega,,Sello De Oro,MARGARINA ENVASADA
-Sixpack Galletas Margarita 46.5g,S/ 5.20,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,46.5,g,Sixpack Galletas Margarita,5.2,metro,,,MARGARINA ENVASADA
-Pan De La Casa Integral 350 g,S/ 5.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,350.0,g,Pan De La Casa Integral,5.2,tottus,,TOTTUS,MARGARINA ENVASADA
-Pan Árabe Sash 200 g,S/ 5.30,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,200.0,g,Pan Árabe Sash,5.3,tottus,,EL CEDRO,MARGARINA ENVASADA
-Pan Árabe Sash con Salvado de Trigo 200 g,S/ 5.30,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,200.0,g,Pan Árabe Sash con Salvado de Trigo,5.3,tottus,,EL CEDRO,MARGARINA ENVASADA
-Ensalada Mix Personal BELL'S FRESCOS Bolsa 100g,S/ 5.49,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,100.0,g,Ensalada Mix Personal BELL'S FRESCOS Bolsa,5.49,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Ensalada Mix Personal BELL'S FRESCOS Envase 10...,S/ 5.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,100.0,g,Ensalada Mix Personal BELL'S FRESCOS Envase 10,5.49,plaza_vea,Envase 100gun,,MARGARINA ENVASADA
-Yogurt Bebible Oquendo Sabor Mandarina - Maracuyá Bolsa 946ml,S/ 5.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,946.0,ml,Yogurt Bebible Oquendo Sabor Mandarina - Maracuyá Bolsa,5.5,metro,,,MARGARINA ENVASADA
-Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Ensalada Jardinera BELL'S Bolsa,5.5,plaza_vea,Pack 500g,,MARGARINA ENVASADA
-Margarina MANTY Clásica Pote 300gr,S/ 5.50 8%,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,300.0,g,Margarina MANTY Clásica Pote r,5.5,vega,,Manty,MARGARINA ENVASADA
-Margarina MANTY Clásica Pote 300g,S/ 5.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,300.0,g,Margarina MANTY Clásica Pote,5.5,plaza_vea,Pote 300g,,MARGARINA ENVASADA
-"Ensalada de Piña, Sandía y Papaya BELL'S Bande...",S/ 5.69 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,300.0,g,"Ensalada de Piña, Sandía y Papaya BELL'S Bande",5.69,plaza_vea,Bandeja 300g,,MARGARINA ENVASADA
-Mandarina Costa x kg,S/ 5.69 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Mandarina Costa,5.69,metro,,,MARGARINA ENVASADA
-"Ensalada de Papaya, Sandía y Melón BELL'S Band...",S/ 5.69 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,300.0,g,"Ensalada de Papaya, Sandía y Melón BELL'S Band",5.69,plaza_vea,Bandeja 300g,,MARGARINA ENVASADA
-Mandarina Malvacea,S/ 5.70 x kg,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,1.0,kg,Mandarina Malvacea,5.7,plaza_vea,Presentación 1 kg aprox.,,MARGARINA ENVASADA
-Alcachofa con Espinas x unid,S/ 5.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Alcachofa con Espinas,5.99,metro,,,MARGARINA ENVASADA
-"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",S/ 5.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,300.0,g,"Ensalada de Uva, Sandía y Piña BELL'S Bandeja",5.99,plaza_vea,Bandeja 300g,,MARGARINA ENVASADA
-Alcachofa con Espinas Metro x unid,S/ 5.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Alcachofa con Espinas Metro,5.99,metro,,,MARGARINA ENVASADA
-Coliflor Serrano 600g,S/ 6.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,600.0,g,Coliflor Serrano,6.0,metro,,,MARGARINA ENVASADA
-Rehidratante ELECTROLIFE Sabor a Naranja y Man...,S/ 6 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,625.0,ml,Rehidratante ELECTROLIFE Sabor a Naranja y Man,6.0,plaza_vea,Botella 625ml,,MARGARINA ENVASADA
-Mixtura Ensalada Green Food 400g,S/ 6.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,400.0,g,Mixtura Ensalada Green Food,6.0,metro,,,MARGARINA ENVASADA
-Pan Pita Integral 10 unidades,S/ 6,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,10.0,un,Pan Pita Integral ades,6.0,tottus,,BIMBO,MARGARINA ENVASADA
-Leche Zero Lacto Uht 1 L,S/ 6.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,1.0,l,Leche Zero Lacto Uht,6.2,tottus,,GLORIA,MARGARINA ENVASADA
-Apio Hipodrónico Ecologic x un,S/ 6.30,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Apio Hipodrónico Ecologic,6.3,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Gloria 90g,S/ 6.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,90.0,g,Mantequilla con Sal Gloria,6.4,metro,,,MARGARINA ENVASADA
-Ensalada Rusa BELL'S Bolsa 500g,S/ 6.49,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,g,Ensalada Rusa BELL'S Bolsa,6.49,vivanda,,BELL'S,MARGARINA ENVASADA
-Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml,S/ 6.50,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,630.0,ml,Bebida Rehidratante SUEROX Sabor a Mandarina Botella,6.5,vega,,SUEROX,MARGARINA ENVASADA
-Bebida Rehidrantante SUEROX Naranja y Mandarin...,S/ 6.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,630.0,ml,Bebida Rehidrantante SUEROX Naranja y Mandarin,6.5,plaza_vea,Botella 630ml,,MARGARINA ENVASADA
-Croutones 60 g,S/ 6.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,60.0,g,Croutones,6.5,tottus,,DON MAMINO,MARGARINA ENVASADA
-Bebida Rehidrantante SUEROX Naranja y Mandarina Botella 630ml,S/ 6.50,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,630.0,ml,Bebida Rehidrantante SUEROX Naranja y Mandarina Botella,6.5,vivanda,,SUEROX,MARGARINA ENVASADA
-Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,150.0,g,Ensalada Mix BELL'S FRESCOS Bolsa,6.59,plaza_vea,Bolsa 150gun,,MARGARINA ENVASADA
-Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,150.0,g,Ensalada Mix BELL'S FRESCOS Bolsa,6.59,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Ensalada SOLEI Coco en Trozos Frasco 130g,S/ 6.79,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,130.0,g,Ensalada SOLEI Coco en Trozos Frasco,6.79,vivanda,,SOLEI,MARGARINA ENVASADA
-PAN PITA INTEGRAL CERO CERO X300GR,S/ 6.80,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,300.0,g,PAN PITA INTEGRAL CERO CERO XR,6.8,tottus,,BIMBO,MARGARINA ENVASADA
-Mermelada de Mandarina COMPASS Frasco 240g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,240.0,g,Mermelada de Mandarina COMPASS Frasco,6.9,plaza_vea,Frasco 240g,,MARGARINA ENVASADA
-Margarina Clásica DORINA Pote 220g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,220.0,g,Margarina Clásica DORINA Pote,6.9,plaza_vea,Pote 220g,,MARGARINA ENVASADA
-Semi Baguette Dulce 420 g,S/ 6.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,420.0,g,Semi Baguette Dulce,6.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Margarina Light DORINA Pote 220g,S/ 6.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,220.0,g,Margarina Light DORINA Pote,6.9,plaza_vea,Pote 220g,,MARGARINA ENVASADA
-Margarina Light DORINA Pote 220g,S/ 6.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,220.0,g,Margarina Light DORINA Pote,6.9,vivanda,,DORINA,MARGARINA ENVASADA
-Semi Baguette Multi Semillas 3 Unidades,S/ 6.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,3.0,un,Semi Baguette Multi Semillas ades,6.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,g,Ensalada Americana BELL'S FRESCOS Bolsa,6.99,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Ensalada Americana BELL'S FRESCOS Bolsa,6.99,plaza_vea,Bolsa 500gun,,MARGARINA ENVASADA
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 1.87 lt",S/ 7.10,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.87,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",7.1,metro,,,MARGARINA ENVASADA
-Pan Árabe Blanco 10 Unidades,S/ 7.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,10.0,un,Pan Árabe Blanco ades,7.4,tottus,,EL CEDRO,MARGARINA ENVASADA
-Pan Árabe Integral 10 Unidades,S/ 7.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,10.0,un,Pan Árabe Integral ades,7.4,tottus,,EL CEDRO,MARGARINA ENVASADA
-Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,S/ 7.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,150.0,g,Ensalada Mia Itali BELL'S FRESCOS Envase 15,7.49,plaza_vea,Envase 150gun,,MARGARINA ENVASADA
-Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,S/ 7.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,150.0,g,Ensalada Mix Primavera BELL'S FRESCOS Táper 15,7.49,plaza_vea,Táper 150gun,,MARGARINA ENVASADA
-Floretes de Brócoli 500g aprox,S/ 7.49,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Floretes de Brócoli  aprox,7.49,metro,,,MARGARINA ENVASADA
-Ensalada Mix Primavera BELL'S FRESCOS Bolsa 150g,S/ 7.49,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,150.0,g,Ensalada Mix Primavera BELL'S FRESCOS Bolsa,7.49,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Margarina BELL'S Pote 490g,S/ 7.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,490.0,g,Margarina BELL'S Pote,7.5,plaza_vea,Pote 490g,,MARGARINA ENVASADA
-PAN PITA BLANCO X 300G,S/ 7.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,300.0,g,PAN PITA BLANCO X,7.5,tottus,,BIMBO,MARGARINA ENVASADA
-PAN MOLDE BLANCO X 480 GR,S/ 7.60,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,PAN MOLDE BLANCO X R,7.6,tottus,,TOTTUS,MARGARINA ENVASADA
-Mantequilla con Sal Laive 100g,S/ 7.60,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,100.0,g,Mantequilla con Sal Laive,7.6,metro,,,MARGARINA ENVASADA
-Ensalada Rusa Precocida GREEN FOOD Bolsa 400g,S/ 7.60 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,400.0,g,Ensalada Rusa Precocida GREEN FOOD Bolsa,7.6,plaza_vea,Bolsa 400g,,MARGARINA ENVASADA
-Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,S/ 7.70,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,12.0,g,Mix Hierbas Ensalada 4 ESTACIONES Pote,7.7,vivanda,,4ESTACIONES,MARGARINA ENVASADA
-Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,S/ 7.70 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,12.0,g,Mix Hierbas Ensalada 4 ESTACIONES Pote,7.7,plaza_vea,Pote 12g,,MARGARINA ENVASADA
-Sixpack Bebida Frugos del Valle Piña Mandarina Caja 235ml,S/ 7.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,235.0,ml,Sixpack Bebida Frugos del Valle Piña Mandarina Caja,7.9,metro,,,MARGARINA ENVASADA
-Mini Croissant 320 g,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,320.0,g,Mini Croissant,7.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Pan De La Casa Centeno 350 g,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,350.0,g,Pan De La Casa Centeno,7.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Pan de Yema Don Mamino 6 Unidades,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,6.0,un,Pan de Yema Don Mamino ades,7.9,tottus,,DGNOTTAS,MARGARINA ENVASADA
-Mini Francés 600 g,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,600.0,g,Mini Francés,7.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Pan De La Casa Multigrano 350 g,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,350.0,g,Pan De La Casa Multigrano,7.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Mini Ciabatta 600 g,S/ 7.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,600.0,g,Mini Ciabatta,7.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Brócoli Metro x kg,S/ 7.99 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Brócoli Metro,7.99,metro,,,MARGARINA ENVASADA
-Espárragos Atado 250g,S/ 7.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Espárragos Atado,7.99,metro,,,MARGARINA ENVASADA
-Agua Saborizada SAN PELLEGRINO Essenza Sabor a Mandarina y Fresa Lata 330ml,S/ 8.00,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,330.0,ml,Agua Saborizada SAN PELLEGRINO Essenza Sabor a Mandarina y Fresa Lata,8.0,vivanda,,SAN PELLEGRINO,MARGARINA ENVASADA
-Margarina Clásica DORINA Pote 220g,S/ 8.10,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,220.0,g,Margarina Clásica DORINA Pote,8.1,vivanda,,DORINA,MARGARINA ENVASADA
-Mix Ensalada Precocida Congelada GREEN FOOD Bo...,S/ 8.20 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,400.0,g,Mix Ensalada Precocida Congelada GREEN FOOD Bo,8.2,plaza_vea,Bolsa 400g,,MARGARINA ENVASADA
-Mix Ensalada Precocida Congelada GREEN FOOD Bolsa 400g,S/ 8.20,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,400.0,g,Mix Ensalada Precocida Congelada GREEN FOOD Bolsa,8.2,vivanda,,GREEN FOOD,MARGARINA ENVASADA
-Margarina SELLO DE ORO Pote 400gr,S/ 8.30 5%,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,400.0,g,Margarina SELLO DE ORO Pote r,8.3,vega,,Sello De Oro,MARGARINA ENVASADA
-Ensalada Pollera Bandeja 300g,S/ 8.40,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,300.0,g,Ensalada Pollera Bandeja,8.4,vivanda,,VIVANDA,MARGARINA ENVASADA
-Margarina Sello de Oro Pote 400g,S/ 8.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,400.0,g,Margarina Sello de Oro Pote,8.4,metro,,,MARGARINA ENVASADA
-Vinagreta Ranch LUREN para Ensalada Frasco 454...,S/ 8.40 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,454.0,g,Vinagreta Ranch LUREN para Ensalada Frasco 454,8.4,plaza_vea,Frasco 454g,,MARGARINA ENVASADA
-Zapallo Bebé Metro x kg,S/ 8.49 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Zapallo Bebé Metro,8.49,metro,,,MARGARINA ENVASADA
-Verduras para Ensalada Mixta Don Verde 250g,S/ 8.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Verduras para Ensalada Mixta Don Verde,8.5,metro,,,MARGARINA ENVASADA
-Tortilla Artesanal Clásica - 12 unidades,S/ 8.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,12.0,un,Tortilla Artesanal Clásica - ades,8.5,tottus,,EL CEDRO,MARGARINA ENVASADA
-Ají Panca en Pasta Arezzo 500g,S/ 8.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Ají Panca en Pasta Arezzo,8.5,metro,,,MARGARINA ENVASADA
-Pan Integral Mediano Unión 360 g,S/ 8.70,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,360.0,g,Pan Integral Mediano Unión,8.7,tottus,,UNION,MARGARINA ENVASADA
-"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",S/ 8.79 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,300.0,g,"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3",8.79,plaza_vea,Bandeja 300g,,MARGARINA ENVASADA
-Arvejitas verdes en conserva Valle Fértil 425 g,S/ 8.80,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,425.0,g,Arvejitas verdes en conserva Valle Fértil,8.8,tottus,,VALLE FERTIL,MARGARINA ENVASADA
-Encurtido de Rabanito Metro 250g,S/ 8.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Encurtido de Rabanito Metro,8.9,metro,,,MARGARINA ENVASADA
-Pan de Molde Integral 500 g,S/ 8.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,500.0,g,Pan de Molde Integral,8.9,tottus,,PYC,MARGARINA ENVASADA
-Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,g,Ensalada Jardinera Precocida BELL'S Bolsa,8.9,vivanda,,BELL'S,MARGARINA ENVASADA
-Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Ensalada Jardinera Precocida BELL'S Bolsa,8.9,plaza_vea,Bolsa 500g,,MARGARINA ENVASADA
-Margarina LA DANESA Barra 500g,S/ 9.30 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Margarina LA DANESA Barra,9.3,plaza_vea,Barra 500g,,MARGARINA ENVASADA
-Ensalada Rusa BELL'S FRESCOS Bolsa 500g,S/ 9.49,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,g,Ensalada Rusa BELL'S FRESCOS Bolsa,9.49,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",S/ 9.49,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,340.0,g,"Ensalada de Frutas Piña, Sandía y Papaya Natifrut",9.49,metro,,,MARGARINA ENVASADA
-Ensalada Rusa BELL'S Bandeja 500g,S/ 9.49 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Ensalada Rusa BELL'S Bandeja,9.49,plaza_vea,Bandeja 500g,,MARGARINA ENVASADA
-Pan Americano Sandwich Unión 400 g,S/ 9.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,400.0,g,Pan Americano Sandwich Unión,9.5,tottus,,UNION,MARGARINA ENVASADA
-Cachito de Mantequilla Don Mamino 6 Unidades,S/ 9.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,6.0,un,Cachito de Mantequilla Don Mamino ades,9.5,tottus,,DGNOTTAS,MARGARINA ENVASADA
-Pan De Molde Blanco 480 g,S/ 9.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan De Molde Blanco,9.5,tottus,,PYC,MARGARINA ENVASADA
-Pan para Hot Dogs 8 Unidades,S/ 9.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,8.0,un,Pan para Hot Dogs ades,9.9,tottus,,BIMBO,MARGARINA ENVASADA
-Mini Croissant Chips de Manzana y Canela 320 g,S/ 9.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,320.0,g,Mini Croissant Chips de Manzana y Canela,9.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Encurtido de Nabo Metro 250g,S/ 9.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Encurtido de Nabo Metro,9.9,metro,,,MARGARINA ENVASADA
-Mini Croissant Chips Arándanos 320 g,S/ 9.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,320.0,g,Mini Croissant Chips Arándanos,9.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Jabón Palmolive Mandarina y Romero Pack 3x 110...,S/ 9.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,330.0,g,Jabón Palmolive Mandarina y Romero Pack 3x 110,9.9,plaza_vea,Pack 330g,,MARGARINA ENVASADA
-Tripack Jabón en Barra Palmolive Mandarina y Romero 110g,S/ 9.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,110.0,g,Tripack Jabón en Barra Palmolive Mandarina y Romero,9.9,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Gloria 180g,S/ 9.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Mantequilla con Sal Gloria,9.9,metro,,,MARGARINA ENVASADA
-Pan Hamburguesa Brioche Artesano 4P Bolsa 360 gr,S/ 10,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,360.0,g,Pan Hamburguesa Brioche Artesano 4P Bolsa r,10.0,tottus,,BIMBO,MARGARINA ENVASADA
-Ají Especial de la Casa Arezzo 500g,S/ 10.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Ají Especial de la Casa Arezzo,10.5,metro,,,MARGARINA ENVASADA
-Pan de molde con semillas Vital de 360 g,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,360.0,g,Pan de molde con semillas Vital de,10.5,tottus,,BIMBO,MARGARINA ENVASADA
-Margarina Dorina Clásica 450g,S/ 10.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,450.0,g,Margarina Dorina Clásica,10.5,metro,,,MARGARINA ENVASADA
-PAN BLANCO CERO CERO 530G BIM,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,530.0,g,PAN BLANCO CERO CERO  BIM,10.5,tottus,,BIMBO,MARGARINA ENVASADA
-Pan de molde multicereal Vital con chía y linaza de 360 g,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,360.0,g,Pan de molde multicereal Vital con chía y linaza de,10.5,tottus,,BIMBO,MARGARINA ENVASADA
-Pan Hamburguesa 480 g,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan Hamburguesa,10.5,tottus,,BIMBO,MARGARINA ENVASADA
-Mantequilla con Sal Gloria 180g,S/ 10.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Mantequilla con Sal Gloria,10.5,metro,,,MARGARINA ENVASADA
-Pan de Molde Rebanado Bimbo Fuente de Calcio 480 g,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan de Molde Rebanado Bimbo Fuente de Calcio,10.5,tottus,,,MARGARINA ENVASADA
-Pan Brioche la Panaderia 400 g,S/ 10.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,400.0,g,Pan Brioche la Panaderia,10.5,tottus,,TOTTUS,MARGARINA ENVASADA
-Pan de molde integral 480 g,S/ 10.70,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan de molde integral,10.7,tottus,,BIMBO,MARGARINA ENVASADA
-Ensalada Rusa Cuisine & Co 400g,S/ 10.80,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,400.0,g,Ensalada Rusa Cuisine & Co,10.8,metro,,,MARGARINA ENVASADA
-PAN INTEGRAL CERO CERO X 560G,S/ 10.80,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,560.0,g,PAN INTEGRAL CERO CERO X,10.8,tottus,,BIMBO,MARGARINA ENVASADA
-PAN MOLDE BLANCO X 750GR,S/ 10.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,750.0,g,PAN MOLDE BLANCO X R,10.9,tottus,,TOTTUS,MARGARINA ENVASADA
-PAN DOBLE FIBRA X 510G,S/ 10.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,510.0,g,PAN DOBLE FIBRA X,10.9,tottus,,BIMBO,MARGARINA ENVASADA
-Pan Molde Integral x 750 g,S/ 10.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,750.0,g,Pan Molde Integral x,10.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Ají Amarillo en Pasta Arezzo 500g,S/ 10.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Ají Amarillo en Pasta Arezzo,10.9,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Laive 180g,S/ 10.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Mantequilla con Sal Laive,10.9,metro,,,MARGARINA ENVASADA
-Mantequilla Sin Sal Laive 180g,S/ 10.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Mantequilla Sin Sal Laive,10.9,metro,,,MARGARINA ENVASADA
-Ensalada Cesar's Verde Puro 250g,S/ 10.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Ensalada Cesar's Verde Puro,10.9,metro,,,MARGARINA ENVASADA
-PAN MULTIGRANO LINAZA X 510G,S/ 10.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,510.0,g,PAN MULTIGRANO LINAZA X,10.9,tottus,,BIMBO,MARGARINA ENVASADA
-Ensalada Mixta BELL'S FRESCOS Bolsa 500g,S/ 10.99,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,500.0,g,Ensalada Mixta BELL'S FRESCOS Bolsa,10.99,vivanda,,BELL'S FRESCOS,MARGARINA ENVASADA
-Ensalada Mixta BELL'S Bandeja 500g,S/ 10.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,500.0,g,Ensalada Mixta BELL'S Bandeja,10.99,plaza_vea,Bandeja 500g,,MARGARINA ENVASADA
-Espárrago Verde Entero La Huerto Bandeja 330 g,S/ 11.19,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,330.0,g,Espárrago Verde Entero La Huerto Bandeja,11.19,metro,,,MARGARINA ENVASADA
-Pan con Granos Integrales Unión 540 g,S/ 11.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,540.0,g,Pan con Granos Integrales Unión,11.4,tottus,,UNION,MARGARINA ENVASADA
-Pan Multisemillas con Avena Unión de 540 g,S/ 11.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,540.0,g,Pan Multisemillas con Avena Unión de,11.4,tottus,,UNION,MARGARINA ENVASADA
-Margarina Laive Swis 450g,S/ 11.40,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,450.0,g,Margarina Laive Swis,11.4,metro,,,MARGARINA ENVASADA
-Margarina Light DORINA Pote 450g,S/ 11.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,450.0,g,Margarina Light DORINA Pote,11.5,plaza_vea,Pote 450g,,MARGARINA ENVASADA
-Margarina Clásica DORINA Pote 450g,S/ 11.50,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,450.0,g,Margarina Clásica DORINA Pote,11.5,vivanda,,DORINA,MARGARINA ENVASADA
-Margarina Clásica DORINA Pote 450g,S/ 11.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,450.0,g,Margarina Clásica DORINA Pote,11.5,plaza_vea,Pote 450g,,MARGARINA ENVASADA
-Margarina Light DORINA Pote 450g,S/ 11.50,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,450.0,g,Margarina Light DORINA Pote,11.5,vivanda,,DORINA,MARGARINA ENVASADA
-Pan Artesano Francés Bolsa x 425 g,S/ 11.60,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,425.0,g,Pan Artesano Francés Bolsa x,11.6,tottus,,BIMBO,MARGARINA ENVASADA
-Pan de molde artesano integral de 560 g,S/ 11.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,560.0,g,Pan de molde artesano integral de,11.9,tottus,,BIMBO,MARGARINA ENVASADA
-Pan de molde artesano blanco 560 g,S/ 11.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,560.0,g,Pan de molde artesano blanco,11.9,tottus,,BIMBO,MARGARINA ENVASADA
-Ensalada Mix Primavera VIVA Bandeja 120g,S/ 11.99,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,120.0,g,Ensalada Mix Primavera VIVA Bandeja,11.99,vivanda,,VIVA,MARGARINA ENVASADA
-Ensalada Mix Primavera VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,120.0,g,Ensalada Mix Primavera VIVA Bandeja,11.99,plaza_vea,Bandeja 120g,,MARGARINA ENVASADA
-Pan de Molde Vital con Semillas 600 g,S/ 12.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,600.0,g,Pan de Molde Vital con Semillas,12.4,tottus,,BIMBO,MARGARINA ENVASADA
-Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,S/ 12.40,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,600.0,g,Pan de Molde Vital Integral Multicereal con Chía y Linaza,12.4,tottus,,BIMBO,MARGARINA ENVASADA
-Puntas de Espárragos Paquete 250 g,S/ 12.49,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,250.0,g,Puntas de Espárragos Paquete,12.49,metro,,,MARGARINA ENVASADA
-Ensalada Clásica La Buena Pepa 380g,S/ 12.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,380.0,g,Ensalada Clásica La Buena Pepa,12.5,metro,,,MARGARINA ENVASADA
-Pan Integral Sandwich Unión 540 g,S/ 12.70,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,540.0,g,Pan Integral Sandwich Unión,12.7,tottus,,UNION,MARGARINA ENVASADA
-Pan Fibra Unión 540 g,S/ 12.70,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,540.0,g,Pan Fibra Unión,12.7,tottus,,UNION,MARGARINA ENVASADA
-Mantequilla Plusa Con Sal Barra 200 g,S/ 12.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,200.0,g,Mantequilla Plusa Con Sal Barra,12.9,metro,,,MARGARINA ENVASADA
-Pan Molde Blanco Sin Corteza 560 g,S/ 12.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,560.0,g,Pan Molde Blanco Sin Corteza,12.9,tottus,,TOTTUS,MARGARINA ENVASADA
-Ensalada a la Brasa ALCA FOOD Pequeña x 1un,S/ 12.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,1.0,un,Ensalada a la Brasa ALCA FOOD Pequeña x,12.9,plaza_vea,Paquete 1un,,MARGARINA ENVASADA
-Pan Integral Xg 750 g,S/ 12.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,1.0,g,Pan Integral,12.9,tottus,,BIMBO,MARGARINA ENVASADA
-Ensalada Rusa LA FLORENCIA 400g,S/ 12.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,400.0,g,Ensalada Rusa LA FLORENCIA,12.9,plaza_vea,Paquete 400g,,MARGARINA ENVASADA
-Verduras Picadas para Ensalada Rusa Cuisine & Co 600g,S/ 13.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,600.0,g,Verduras Picadas para Ensalada Rusa Cuisine & Co,13.0,metro,,,MARGARINA ENVASADA
-Pan de Molde Blanco sin Corteza 560 g,S/ 13.50,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,560.0,g,Pan de Molde Blanco sin Corteza,13.5,tottus,,DON MAMINO,MARGARINA ENVASADA
-Ensalada Fresca 380g,S/ 13.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,380.0,g,Ensalada Fresca,13.7,metro,,,MARGARINA ENVASADA
-Ensalada Italiana HOME CHEF Bandeja 1un,S/ 13.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,1.0,un,Ensalada Italiana HOME CHEF Bandeja,13.9,plaza_vea,Bandeja 1un,,MARGARINA ENVASADA
-Ensalada Power HOME CHEF 1un,S/ 13.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,1.0,un,Ensalada Power HOME CHEF,13.9,plaza_vea,Bolsa 1un,,MARGARINA ENVASADA
-Crema de Mantequilla Light Laive 180g,S/ 13.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Crema de Mantequilla Light Laive,13.99,metro,,,MARGARINA ENVASADA
-Verduras Picadas para Ensalada Mixta Cuisine & Co 600g,S/ 14.00,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,600.0,g,Verduras Picadas para Ensalada Mixta Cuisine & Co,14.0,metro,,,MARGARINA ENVASADA
-Ensalada Power HOME CHEF 1un,S/ 14.20,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,1.0,un,Ensalada Power HOME CHEF,14.2,vivanda,,HOME CHEF,MARGARINA ENVASADA
-Ensalada Primavera Cuisine & Co 500g,S/ 14.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Ensalada Primavera Cuisine & Co,14.9,metro,,,MARGARINA ENVASADA
-Margarina Esparcible Clásica de 450 g,S/ 14.90,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,450.0,g,Margarina Esparcible Clásica de,14.9,tottus,,DORINA,MARGARINA ENVASADA
-Ensalada Hawaiana Wong x unid,S/ 14.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Ensalada Hawaiana Wong,14.9,metro,,,MARGARINA ENVASADA
-Ensalada Cesar Wong x Unid,S/ 14.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Ensalada Cesar Wong,14.9,metro,,,MARGARINA ENVASADA
-Ensalada De La Casa Wong x Unid,S/ 14.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,un,Ensalada De La Casa Wong,14.9,metro,,,MARGARINA ENVASADA
-Pan De Molde Blanco Super Sandwich 800 g,S/ 15,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,800.0,g,Pan De Molde Blanco Super Sandwich,15.0,tottus,,BIMBO,MARGARINA ENVASADA
-Salsa Culantrito con Espinaca Envasado 550 g,S/ 15.20,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,550.0,g,Salsa Culantrito con Espinaca Envasado,15.2,metro,,,MARGARINA ENVASADA
-Crema de Ají Amarillo Wong 500g,S/ 15.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Crema de Ají Amarillo Wong,15.5,metro,,,MARGARINA ENVASADA
-Ensalada de Zanahoria y Beterraga La Buena Pepa 450g,S/ 15.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,450.0,g,Ensalada de Zanahoria y Beterraga La Buena Pepa,15.5,metro,,,MARGARINA ENVASADA
-Margarina La Danesa 500g,S/ 15.60,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Margarina La Danesa,15.6,metro,,,MARGARINA ENVASADA
-PAN BLANCO SIN BORDES 650G,S/ 16,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,650.0,g,PAN BLANCO SIN BORDES,16.0,tottus,,BIMBO,MARGARINA ENVASADA
-Pan de Molde Integral sin Borde 650 g,S/ 16.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,650.0,g,Pan de Molde Integral sin Borde,16.2,tottus,,BIMBO,MARGARINA ENVASADA
-Tripack Zero Lacto Uht 1 L,S/ 16.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,1.0,l,Tripack Zero Lacto Uht,16.2,tottus,,GLORIA,MARGARINA ENVASADA
-Mantequilla Asturiana 125g,S/ 16.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,125.0,g,Mantequilla Asturiana,16.7,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Danlac Frasco 180g,S/ 16.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,180.0,g,Mantequilla con Sal Danlac Frasco,16.9,metro,,,MARGARINA ENVASADA
-Pan de molde blanco sin gluten Molinos 480 g,S/ 17.20,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan de molde blanco sin gluten Molinos,17.2,tottus,,MOLINOS DEL MUNDO,MARGARINA ENVASADA
-Salsa de Ají Amarillo Envasado 550 g,S/ 18.10,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,550.0,g,Salsa de Ají Amarillo Envasado,18.1,metro,,,MARGARINA ENVASADA
-Mix Sales y Especias GO BARMAN Margarita & Mic...,S/ 19.90 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,90.0,g,Mix Sales y Especias GO BARMAN Margarita & Mic,19.9,plaza_vea,Lata 90g,,MARGARINA ENVASADA
-Mix Sales y Especias GO BARMAN Margarita & Michelada Lime Lata 90g,S/ 19.90,vivanda,MARGARINA ENVASADA,2024-12-05 21:58:18.644221,90.0,g,Mix Sales y Especias GO BARMAN Margarita & Michelada Lime Lata,19.9,vivanda,,GO BARMAN,MARGARINA ENVASADA
-Margarina Clásica DORINA Pote 900g,S/ 20.50 un,plaza_vea,MARGARINA ENVASADA,2024-12-05 15:10:58.273034,900.0,g,Margarina Clásica DORINA Pote,20.5,plaza_vea,Pote 900g,,MARGARINA ENVASADA
-Mantequilla sin Sal Président Barra 200g,S/ 20.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,200.0,g,Mantequilla sin Sal Président Barra,20.7,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Président Barra 200 gr,S/ 20.70,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,200.0,g,Mantequilla con Sal Président Barra r,20.7,metro,,,MARGARINA ENVASADA
-Pan integral sin gluten Molinos 480 g,S/ 21,tottus,MARGARINA ENVASADA,2024-12-05 11:52:58.238326,480.0,g,Pan integral sin gluten Molinos,21.0,tottus,,MOLINOS DEL MUNDO,MARGARINA ENVASADA
-Crema de Ajo Wong 500g,S/ 21.50,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,500.0,g,Crema de Ajo Wong,21.5,metro,,,MARGARINA ENVASADA
-Zapallo Loche x kg,S/ 24.99 x kg,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,kg,Zapallo Loche,24.99,metro,,,MARGARINA ENVASADA
-Ajo en Pasta Envasado 550 g,S/ 31.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,550.0,g,Ajo en Pasta Envasado,31.9,metro,,,MARGARINA ENVASADA
-Mantequilla con Sal Arias 235g,S/ 32.80,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,235.0,g,Mantequilla con Sal Arias,32.8,metro,,,MARGARINA ENVASADA
-Mantequilla Sin Sal Arias 235g,S/ 32.80,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,235.0,g,Mantequilla Sin Sal Arias,32.8,metro,,,MARGARINA ENVASADA
-Plumón Krea Estampada Microfibra 130gsm 2 Plazas Margarita,S/ 40.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,130.0,g,Plumón Krea Estampada Microfibra sm 2 Plazas Margarita,40.9,metro,,,MARGARINA ENVASADA
-Plumón Krea Estampada Microfibra 130gsm Queen Plaza Margarita,S/ 43.90,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,130.0,g,Plumón Krea Estampada Microfibra sm Queen Plaza Margarita,43.9,metro,,,MARGARINA ENVASADA
-Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 44.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.5,l,Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa Inca Kola Sin Azúcar,44.99,metro,,,MARGARINA ENVASADA
-Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada Naturale 1L,S/ 45.99,metro,MARGARINA ENVASADA,2024-12-05 15:52:34.363186,1.0,l,Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada Naturale,45.99,metro,,,MARGARINA ENVASADA
-Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml x 12u,S/ 78.00,vega,MARGARINA ENVASADA,2024-12-05 12:30:06.852302,630.0,ml,Bebida Rehidratante SUEROX Sabor a Mandarina Botella  x 12u,78.0,vega,,SUEROX,MARGARINA ENVASADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Zapallo Macre x kg,,1.0,kg,1.99,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,1.99
+Margarina Manty Pote 90 g,,90.0,g,2.38,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,26.444444444444443
+Margarina MANTY Pote 90g,MANTY,90.0,g,2.8,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,31.111111111111107
+Margarina MANTY Pote 90g,,90.0,g,2.8,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,31.111111111111107
+Margarina MANTY Pote 90g,Manty,90.0,g,2.8,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,31.111111111111107
+Ají Pollero Adelmi 100g,,100.0,g,2.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,29.0
+Margarina SELLO DE ORO Barra 90g,,90.0,g,2.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,32.22222222222222
+Tornillo Especial MOLITALIA Pasta para Ensalad...,,235.0,g,3.1,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,13.191489361702128
+Tornillo Especial MOLITALIA Pasta para Ensalada Bolsa 235g,MOLITALIA,235.0,g,3.1,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,13.191489361702128
+Palitos con Ajonjolí y Linaza Unión 65 g,UNION,65.0,g,3.1,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,47.692307692307686
+Nabo x kg,,1.0,kg,3.19,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,3.19
+Margarina esparcible 90 g,SELLO DE ORO,90.0,g,3.2,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,35.55555555555556
+MARGARINA SWIS BARRA X 90 GR,LAIVE,90.0,g,3.3,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,36.666666666666664
+Pasta para Ensalada Molitalia Tornillo Especial 235g,,235.0,g,3.4,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,14.468085106382977
+Margarina LAIVE Swis Barra 90g,,90.0,g,3.5,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,38.888888888888886
+Margarina Laive Swis 90g,,90.0,g,3.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,38.888888888888886
+Hojuelas al ajo 50 gr,EL CEDRO,50.0,g,3.6,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,72.0
+Mantequilla con Sal Gloria 50g,,50.0,g,3.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,74.0
+Margarina LAIVE Swis Barra 90g,LAIVE,90.0,g,3.8,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,42.22222222222222
+Ensalada Rusa LA FLORENCIA Bandeja 170g,,180.0,g,3.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,21.666666666666664
+Margarina BELL'S Pote 240g,BELL'S,240.0,g,3.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,16.25
+Margarina BELL'S Pote 240g,,240.0,g,3.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,16.25
+Ensalada Fusilli Bandeja 170g,LA FLORENCIA,170.0,g,3.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,22.941176470588232
+Ensalada Rusa LA FLORENCIA Bandeja 170g,LA FLORENCIA,170.0,g,3.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,22.941176470588232
+Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,4ESTACIONES,5.0,g,3.99,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,798.0
+Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,,5.0,g,3.99,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,798.0
+Salvia 4 ESTACIONES Ensalada Sobre 5g,4ESTACIONES,5.0,g,4.1,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,819.9999999999999
+Margarina Sello de Oro Barra 200g,,200.0,g,4.3,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,21.5
+Margarina Manty Clásica 300g,,300.0,g,4.4,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,14.666666666666668
+Margarina 200 g,SELLO DE ORO,200.0,g,4.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.0
+Pan Petipan 600 g,TOTTUS,600.0,g,4.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,7.333333333333334
+Galletas SAYON Margarita Bolsa 43g,,258.0,g,4.4,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,17.054263565891475
+Ensalada Rusa Green Food 400g,,400.0,g,4.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,11.25
+Marshmallows COLOMBINA Millows Margarita Bolsa 145gr,Colombina,145.0,g,4.5,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,31.03448275862069
+Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,,250.0,g,4.69,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.76
+Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 250g,BELL'S FRESCOS,250.0,g,4.69,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,18.76
+Margarina LAIVE Swis Barra 200g,,200.0,g,4.8,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,24.0
+Margarina Laive Swis 200g,,200.0,g,4.8,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,24.0
+Margarina LAIVE Swis Barra 200g,LAIVE,200.0,g,4.8,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,24.0
+Marshmallow COLOMBINA Millows sabores Frutado ...,,145.0,g,4.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,33.793103448275865
+Tripack Bebida Instantánea Clight Sin Calorías Sabor Mandarina 14g,,14.0,g,5.0,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,357.14285714285717
+Pan De La Casa Integral 350 g,TOTTUS,350.0,g,5.2,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,14.857142857142858
+Margarina Sello de Oro Pote 200g,,200.0,g,5.2,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,26.0
+Pan De La Casa Blanco 350 g,TOTTUS,350.0,g,5.2,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,14.857142857142858
+Margarina SELLO DE ORO 0% Grasas Trans Pote 20...,,200.0,g,5.2,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,26.0
+Sixpack Galletas Margarita 46.5g,,46.5,g,5.2,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,111.82795698924731
+Margarina SELLO DE ORO Pote 200gr,Sello De Oro,200.0,g,5.2,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,26.0
+Galletas SAYON Margarita Paquete 6u 43g.,Sayon,43.0,g,5.2,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,120.93023255813955
+Pan Árabe Sash con Salvado de Trigo 200 g,EL CEDRO,200.0,g,5.3,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,26.5
+Pan Árabe Sash 200 g,EL CEDRO,200.0,g,5.3,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,26.5
+Ensalada Mix Personal BELL'S FRESCOS Envase 10...,,100.0,g,5.49,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,54.900000000000006
+Ensalada Mix Personal BELL'S FRESCOS Bolsa 100g,BELL'S FRESCOS,100.0,g,5.49,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,54.900000000000006
+Margarina MANTY Clásica Pote 300gr,Manty,300.0,g,5.5,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,18.333333333333336
+Margarina MANTY Clásica Pote 300g,,300.0,g,5.5,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.333333333333336
+"Ensalada de Papaya, Sandía y Melón BELL'S Band...",,300.0,g,5.69,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.96666666666667
+"Ensalada de Piña, Sandía y Melón BELL'S Bandej...",,300.0,g,5.69,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.96666666666667
+"Ensalada de Piña, Sandía y Papaya BELL'S Bande...",,300.0,g,5.69,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.96666666666667
+Mandarina Costa x kg,,1.0,kg,5.69,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,5.69
+Mandarina Malvacea,,1.0,kg,5.7,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,5.7
+"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",,300.0,g,5.99,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,19.96666666666667
+Mixtura Ensalada Green Food 400g,,400.0,g,6.0,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,15.0
+Mantequilla con Sal Gloria 90g,,90.0,g,6.4,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,71.11111111111111
+Ensalada Rusa BELL'S Bolsa 500g,BELL'S,500.0,g,6.49,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,12.98
+Croutones 60 g,DON MAMINO,60.0,g,6.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,108.33333333333334
+Ensalada Fresca Metro 100g,,100.0,g,6.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,65.0
+Ensalada Mix BELL'S FRESCOS Bolsa 150g,,150.0,g,6.59,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,43.93333333333334
+Ensalada Mix BELL'S FRESCOS Bolsa 150g,BELL'S FRESCOS,150.0,g,6.59,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,43.93333333333334
+Ensalada Parrillera Ecologic x 400 g,,400.0,g,6.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,16.75
+Ensalada SOLEI Coco en Trozos Frasco 130g,SOLEI,130.0,g,6.79,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,52.230769230769226
+PAN PITA INTEGRAL CERO CERO X300GR,BIMBO,300.0,g,6.8,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.666666666666668
+Margarina Dorina Clásica 220g,,220.0,g,6.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,31.363636363636367
+Margarina Light DORINA Pote 220g,,220.0,g,6.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,31.363636363636367
+Semi Baguette Dulce 420 g,TOTTUS,420.0,g,6.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,16.42857142857143
+Margarina Light DORINA Pote 220g,DORINA,220.0,g,6.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,31.363636363636367
+Mermelada de Mandarina COMPASS Frasco 240g,,240.0,g,6.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,28.750000000000004
+Ensalada Americana BELL'S FRESCOS Bolsa 500g,,500.0,g,6.99,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,13.98
+Ensalada Americana BELL'S FRESCOS Bolsa 500g,BELL'S FRESCOS,500.0,g,6.99,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,13.98
+Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,,150.0,g,7.49,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,49.93333333333334
+Ensalada Mix Primavera BELL'S FRESCOS Bolsa 150g,BELL'S FRESCOS,150.0,g,7.49,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,49.93333333333334
+Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,,150.0,g,7.49,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,49.93333333333334
+Floretes de Brócoli 500g aprox,,500.0,g,7.49,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,14.98
+PAN PITA BLANCO X 300G,BIMBO,300.0,g,7.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,25.0
+Margarina BELL'S Pote 490g,,490.0,g,7.5,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,15.306122448979592
+PAN MOLDE BLANCO X 480 GR,TOTTUS,480.0,g,7.6,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,15.833333333333334
+Mantequilla con Sal Laive 100g,,100.0,g,7.6,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,76.0
+Pan Molde Integral x 480 g,TOTTUS,480.0,g,7.6,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,15.833333333333334
+Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,,12.0,g,7.7,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,641.6666666666666
+Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,4ESTACIONES,12.0,g,7.7,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,641.6666666666666
+Margarina 400 g,SELLO DE ORO,400.0,g,7.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,19.75
+Pan De La Casa Centeno 350 g,TOTTUS,350.0,g,7.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.571428571428573
+Mini Francés 600 g,TOTTUS,600.0,g,7.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,13.166666666666668
+Pan De La Casa Multigrano 350 g,TOTTUS,350.0,g,7.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.571428571428573
+Mini Croissant 320 g,TOTTUS,320.0,g,7.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.6875
+Espárragos Atado 250g,,250.0,g,7.99,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,31.96
+Brócoli Metro x kg,,1.0,kg,7.99,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,7.99
+Margarina Clásica DORINA Pote 220g,DORINA,220.0,g,8.1,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,36.81818181818182
+Mix Ensalada Precocida Congelada GREEN FOOD Bo...,,400.0,g,8.2,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,20.5
+Mix Ensalada Precocida Congelada GREEN FOOD Bolsa 400g,GREEN FOOD,400.0,g,8.2,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,20.5
+Margarina SELLO DE ORO Pote 400gr,Sello De Oro,400.0,g,8.3,vega,2024-12-05 12:30:06.852302,MARGARINA ENVASADA,1.0,kg,20.75
+Margarina SELLO DE ORO 0% Grasas Trans Pote 40...,,400.0,g,8.4,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,21.0
+Margarina Sello de Oro Pote 400g,,400.0,g,8.4,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,21.0
+Ensalada Pollera Bandeja 300g,VIVANDA,300.0,g,8.4,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,28.000000000000004
+Vinagreta Ranch LUREN para Ensalada Frasco 454...,,454.0,g,8.4,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.502202643171806
+Zapallo Bebé Metro x kg,,1.0,kg,8.49,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,8.49
+Verduras para Ensalada Mixta Don Verde 250g,,250.0,g,8.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,34.0
+Crema de Ají Amarillo Wong 220g,,220.0,g,8.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,38.63636363636364
+Ají Panca en Pasta Arezzo 500g,,500.0,g,8.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,17.0
+Pan Integral Mediano Unión 360 g,UNION,360.0,g,8.7,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.166666666666664
+Arvejitas verdes en conserva Valle Fértil 425 g,VALLE FERTIL,425.0,g,8.8,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,20.705882352941178
+Pan de Molde Integral 500 g,PYC,500.0,g,8.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,17.8
+Ensalada Jardinera Precocida BELL'S Bolsa 500g,BELL'S,500.0,g,8.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,17.8
+Ensalada Jardinera Precocida BELL'S Bolsa 500g,,500.0,g,8.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,17.8
+Encurtido de Rabanito Metro 250g,,250.0,g,8.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,35.6
+Margarina LA DANESA Barra 500g,,500.0,g,9.3,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.6
+"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",,340.0,g,9.49,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,27.91176470588235
+Ensalada Rusa BELL'S FRESCOS Bolsa 500g,BELL'S FRESCOS,500.0,g,9.49,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,18.98
+Ensalada Rusa BELL'S Bandeja 500g,,500.0,g,9.49,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,18.98
+Pan Americano Sandwich Unión 400 g,UNION,400.0,g,9.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,23.75
+Pan De Molde Blanco 480 g,PYC,480.0,g,9.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,19.791666666666668
+Mantequilla Gloria Sin Sal 180g,,180.0,g,9.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,55.0
+Encurtido de Nabo Metro 250g,,250.0,g,9.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,39.6
+Mini Croissant Chips Arándanos 320 g,TOTTUS,320.0,g,9.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,30.9375
+Jabón Palmolive Mandarina y Romero Pack 3x 110...,,330.0,g,9.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,30.0
+Tripack Jabón en Barra Palmolive Mandarina y Romero 110g,,110.0,g,9.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,90.00000000000001
+MARGARINA SWIS POTE X 450 GR,LAIVE,450.0,g,9.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.0
+Mantequilla con Sal Gloria 180g,,180.0,g,9.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,55.0
+Pan Hamburguesa Brioche Artesano 4P Bolsa 360 gr,BIMBO,360.0,g,10.0,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,27.77777777777778
+Pan Brioche la Panaderia 400 g,TOTTUS,400.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,26.25
+Pan de Molde Rebanado Bimbo Fuente de Calcio 480 g,,480.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.875
+Mantequilla con Sal Gloria 180g,,180.0,g,10.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,58.33333333333333
+PAN BLANCO CERO CERO 530G BIM,BIMBO,530.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,19.81132075471698
+Pan de molde con semillas Vital de 360 g,BIMBO,360.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,29.166666666666664
+Ají Especial de la Casa Arezzo 500g,,500.0,g,10.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,21.0
+Pan Hamburguesa 480 g,BIMBO,480.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.875
+Pan de molde multicereal Vital con chía y linaza de 360 g,BIMBO,360.0,g,10.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,29.166666666666664
+Pan de molde integral 480 g,BIMBO,480.0,g,10.7,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,22.291666666666668
+PAN INTEGRAL CERO CERO X 560G,BIMBO,560.0,g,10.8,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,19.285714285714285
+Ají Amarillo en Pasta Arezzo 500g,,500.0,g,10.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,21.8
+Mantequilla Sin Sal Laive 180g,,180.0,g,10.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,60.55555555555556
+Mantequilla con Sal Laive 180g,,180.0,g,10.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,60.55555555555556
+Ensalada Cesar's Verde Puro 250g,,250.0,g,10.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,43.6
+PAN DOBLE FIBRA X 510G,BIMBO,510.0,g,10.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.372549019607842
+PAN MOLDE BLANCO X 750GR,TOTTUS,750.0,g,10.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,14.533333333333333
+Ensalada Mixta BELL'S FRESCOS Bolsa 500g,BELL'S FRESCOS,500.0,g,10.99,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,21.98
+Espárrago Verde Entero La Huerto Bandeja 330 g,,330.0,g,11.19,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,33.90909090909091
+Margarina LAIVE Swis Pote 450g,,450.0,g,11.4,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,25.333333333333336
+Margarina Laive Swis 450g,,450.0,g,11.4,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,25.333333333333336
+Pan Multisemillas con Avena Unión de 540 g,UNION,540.0,g,11.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.11111111111111
+Pan con Granos Integrales Unión 540 g,UNION,540.0,g,11.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.11111111111111
+Margarina Clásica DORINA Pote 450g,DORINA,450.0,g,11.5,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,25.555555555555557
+Margarina Light DORINA Pote 450g,DORINA,450.0,g,11.5,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,25.555555555555557
+Margarina Clásica DORINA Pote 450g,,450.0,g,11.5,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,25.555555555555557
+Ensalada Fresca 320g,,320.0,g,11.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,36.5625
+Pan de molde artesano blanco 560 g,BIMBO,560.0,g,11.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.25
+Pan de molde artesano integral de 560 g,BIMBO,560.0,g,11.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,21.25
+Ensalada Mix Primavera VIVA Bandeja 120g,VIVA,120.0,g,11.99,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,99.91666666666667
+Ensalada Mix Mediterráneo VIVA Bandeja 120g,,120.0,g,11.99,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,99.91666666666667
+Ensalada Mix Primavera VIVA Bandeja 120g,,120.0,g,11.99,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,99.91666666666667
+Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,BIMBO,600.0,g,12.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,20.666666666666668
+Pan de Molde Vital con Semillas 600 g,BIMBO,600.0,g,12.4,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,20.666666666666668
+Puntas de Espárragos Paquete 250 g,,250.0,g,12.49,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,49.96
+Crema de Ajo Wong 220g,,220.0,g,12.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,56.81818181818182
+Ensalada Clásica La Buena Pepa 380g,,380.0,g,12.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,32.89473684210527
+Ensalada Rusa Precocida Congelada Green Food Bolsa 1 Kg,,1.0,kg,12.68,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,12.68
+Pan Integral Sandwich Unión 540 g,UNION,540.0,g,12.7,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,23.518518518518515
+Pan Fibra Unión 540 g,UNION,540.0,g,12.7,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,23.518518518518515
+Pan Fuente Unión 780 g,UNION,780.0,g,12.7,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,16.28205128205128
+Pan Integral Xg 750 g,BIMBO,1.0,g,12.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,12900.0
+Pan de Molde Blanco Xl 750 g,BIMBO,750.0,g,12.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,17.2
+Pan Molde Blanco Sin Corteza 560 g,TOTTUS,560.0,g,12.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,23.035714285714285
+Mantequilla Plusa Con Sal Barra 200 g,,200.0,g,12.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,64.5
+Ensalada Rusa LA FLORENCIA 400g,,400.0,g,12.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,32.25
+Verduras Picadas para Ensalada Rusa Cuisine & Co 600g,,600.0,g,13.0,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,21.666666666666668
+Pan de Molde con Salvado de Trigo 560 g,DON MAMINO,560.0,g,13.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.107142857142854
+Pan de Molde Blanco sin Corteza 560 g,DON MAMINO,560.0,g,13.5,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.107142857142854
+Ensalada Fresca 380g,,380.0,g,13.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,36.05263157894737
+Crema a Base de Mantequilla Laive 350g,,350.0,g,13.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,39.714285714285715
+Verduras Picadas para Ensalada Mixta Cuisine & Co 600g,,600.0,g,14.0,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,23.333333333333336
+Margarina Esparcible Clásica de 450 g,DORINA,450.0,g,14.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,33.111111111111114
+Pan De Molde Vital Mix Quinuas Bolsa x 600 g,BIMBO,600.0,g,14.9,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.833333333333336
+Ensalada Primavera Cuisine & Co 500g,,500.0,g,14.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,29.8
+Pan De Molde Blanco Super Sandwich 800 g,BIMBO,800.0,g,15.0,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,18.75
+Salsa Culantrito con Espinaca Envasado 550 g,,550.0,g,15.2,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,27.636363636363633
+Crema de Ají Amarillo Wong 500g,,500.0,g,15.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,31.0
+Ensalada de Zanahoria y Beterraga La Buena Pepa 450g,,450.0,g,15.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,34.44444444444444
+PAN BLANCO SIN BORDES 650G,BIMBO,650.0,g,16.0,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.615384615384613
+Pan de Molde Integral sin Borde 650 g,BIMBO,650.0,g,16.2,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,24.92307692307692
+Mantequilla con Sal Gloria 390g,,390.0,g,16.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,42.30769230769231
+Mantequilla Asturiana 125g,,125.0,g,16.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,133.6
+Mantequilla con Sal Danlac Frasco 180g,,180.0,g,16.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,93.88888888888887
+Pan de molde blanco sin gluten Molinos 480 g,MOLINOS DEL MUNDO,480.0,g,17.2,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,35.833333333333336
+Salsa de Ají Amarillo Envasado 550 g,,550.0,g,18.1,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,32.909090909090914
+Mix Sales y Especias GO BARMAN Margarita & Michelada Lime Lata 90g,GO BARMAN,90.0,g,19.9,vivanda,2024-12-05 21:58:18.644221,MARGARINA ENVASADA,1.0,kg,221.1111111111111
+Mix Sales y Especias GO BARMAN Margarita & Mic...,,90.0,g,19.9,plaza_vea,2024-12-05 15:10:58.273034,MARGARINA ENVASADA,1.0,kg,221.1111111111111
+Mantequilla con Sal Président Barra 200 gr,,200.0,g,20.7,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,103.5
+Pan integral sin gluten Molinos 480 g,MOLINOS DEL MUNDO,480.0,g,21.0,tottus,2024-12-05 11:52:58.238326,MARGARINA ENVASADA,1.0,kg,43.75
+Crema de Ajo Wong 500g,,500.0,g,21.5,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,43.0
+Zapallo Loche x kg,,1.0,kg,24.99,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,24.99
+Ajos en Pasta Arezzo 500g,,500.0,g,25.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,51.8
+Ajo en Pasta Envasado 550 g,,550.0,g,31.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,57.99999999999999
+Mantequilla con Sal Arias 235g,,235.0,g,32.8,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,139.57446808510636
+Plumón Krea Estampada Microfibra 130gsm 2 Plazas Margarita,,130.0,g,40.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,314.6153846153846
+Plumón Krea Estampada Microfibra 130gsm Queen Plaza Margarita,,130.0,g,43.9,metro,2024-12-05 15:52:34.363186,MARGARINA ENVASADA,1.0,kg,337.6923076923077

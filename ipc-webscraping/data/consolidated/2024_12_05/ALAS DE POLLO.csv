@@ -1,10 +1,10 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Ala Entera de Pollo Redondos x kg,S/ 14.90 x kg,metro,ALAS DE POLLO,2024-12-05 15:28:14.467775,1.0,kg,Ala Entera de Pollo Redondos,14.9,metro,,,ALAS DE POLLO
-Alas con Punta de Pollo Natural x kg,S/ 14.90 x kg,metro,ALAS DE POLLO,2024-12-05 15:28:14.467775,1.0,kg,Alas con Punta de Pollo Natural,14.9,metro,,,ALAS DE POLLO
-Ala de Pollo Empacada al vacío SAN FERNANDO,S/ 14.90 x kg,plaza_vea,ALAS DE POLLO,2024-12-05 14:46:23.511384,1.2,kg,Ala de Pollo Empacada al vacío SAN FERNANDO,14.9,plaza_vea,Presentación 1.2 kg aprox.,,ALAS DE POLLO
-Alas Pollo Congeladas San Fernando x kg,S/ 16.30 x kg,metro,ALAS DE POLLO,2024-12-05 15:28:14.467775,1.0,kg,Alas Pollo Congeladas San Fernando,16.3,metro,,,ALAS DE POLLO
-Alas Pollo Congeladas San Fernando x kg,S/ 16.30 x kg,wong,ALAS DE POLLO,2024-12-05 17:57:24.400484,1.0,kg,Alas Pollo Congeladas San Fernando,16.3,wong,,,ALAS DE POLLO
-Ala Media de de Pollo Redondos x kg,S/ 17.50 x kg,metro,ALAS DE POLLO,2024-12-05 15:28:14.467775,1.0,kg,Ala Media de de Pollo Redondos,17.5,metro,,,ALAS DE POLLO
-Piernitas de Alas de Pollo x kg,S/ 17.50 x kg,wong,ALAS DE POLLO,2024-12-05 17:57:24.400484,1.0,kg,Piernitas de Alas de Pollo,17.5,wong,,,ALAS DE POLLO
-Pechuga de Pollo con Alas Congelada San Fernando x kg,S/ 18.30 x kg,metro,ALAS DE POLLO,2024-12-05 15:28:14.467775,1.0,kg,Pechuga de Pollo con Alas Congelada San Fernando,18.3,metro,,,ALAS DE POLLO
-Alas de Pollo Artisan x Kg. Libre de Antibióticos,S/ 27.50 x kg,wong,ALAS DE POLLO,2024-12-05 17:57:24.400484,1.0,kg,Alas de Pollo Artisan . Libre de Antibióticos,27.5,wong,,,ALAS DE POLLO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Ala Entera de Pollo Redondos x kg,,1.0,kg,14.9,metro,2024-12-05 15:28:14.467775,ALAS DE POLLO,1,kg,14.9
+Alas con Punta de Pollo Natural x kg,,1.0,kg,14.9,metro,2024-12-05 15:28:14.467775,ALAS DE POLLO,1,kg,14.9
+Ala de Pollo Empacada al vacío SAN FERNANDO,,1.2,kg,14.9,plaza_vea,2024-12-05 14:46:23.511384,ALAS DE POLLO,1,kg,12.416666666666668
+Alas Pollo Congeladas San Fernando x kg,,1.0,kg,16.3,metro,2024-12-05 15:28:14.467775,ALAS DE POLLO,1,kg,16.3
+Alas Pollo Congeladas San Fernando x kg,,1.0,kg,16.3,wong,2024-12-05 17:57:24.400484,ALAS DE POLLO,1,kg,16.3
+Ala Media de de Pollo Redondos x kg,,1.0,kg,17.5,metro,2024-12-05 15:28:14.467775,ALAS DE POLLO,1,kg,17.5
+Piernitas de Alas de Pollo x kg,,1.0,kg,17.5,wong,2024-12-05 17:57:24.400484,ALAS DE POLLO,1,kg,17.5
+Pechuga de Pollo con Alas Congelada San Fernando x kg,,1.0,kg,18.3,metro,2024-12-05 15:28:14.467775,ALAS DE POLLO,1,kg,18.3
+Alas de Pollo Artisan x Kg. Libre de Antibióticos,,1.0,kg,27.5,wong,2024-12-05 17:57:24.400484,ALAS DE POLLO,1,kg,27.5

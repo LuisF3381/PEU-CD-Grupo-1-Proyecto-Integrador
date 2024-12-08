@@ -1,267 +1,230 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Avena TIMONEL Precocida Instantánea Bolsa 100g,S/ 1.00,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,100.0,g,Avena TIMONEL Precocida Instantánea Bolsa,1.0,vega,Timonel,AVENA ENVASADA
-Avena QUAKER Tradicional Bolsa 100gr,S/ 1.30,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,100.0,g,Avena QUAKER Tradicional Bolsa r,1.3,vega,Quaker,AVENA ENVASADA
-Avena Clásica 3 OSITOS Bolsa 100g,S/ 1.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,100.0,g,Avena Clásica 3 OSITOS Bolsa,1.5,vivanda,3 OSITOS,AVENA ENVASADA
-Avena SANTA CATALINA Maca y Avena Bolsa 150g,S/ 2.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,150.0,g,Avena SANTA CATALINA Maca y Avena Bolsa,2.5,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena Precocida BELL'S Bolsa 170g,S/ 2.79,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,170.0,g,Avena Precocida BELL'S Bolsa,2.79,vivanda,BELL'S,AVENA ENVASADA
-Avena GRANO DE ORO con Quinua en Bolsa 170gr,S/ 2.90,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,170.0,g,Avena GRANO DE ORO con Quinua en Bolsa r,2.9,vega,Grano De Oro,AVENA ENVASADA
-Leche Parcialmente Descremada LAIVE Deli Avena Botella 250ml,S/ 3.10,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,250.0,ml,Leche Parcialmente Descremada LAIVE Deli Avena Botella,3.1,vivanda,LAIVE,AVENA ENVASADA
-Avena Instantánea Regular BELL'S Bolsa 270g,S/ 3.20,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,270.0,g,Avena Instantánea Regular BELL'S Bolsa,3.2,vivanda,BELL'S,AVENA ENVASADA
-Bebida con Avena y Canela Laive Deli Avena 250ml,S/ 3.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,250.0,ml,Bebida con Avena y Canela Laive Deli Avena,3.2,wong,,AVENA ENVASADA
-Avena Natural SANTA CATALINA Bolsa 250g,S/ 3.30,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,250.0,g,Avena Natural SANTA CATALINA Bolsa,3.3,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena Instantánea de Manzana y Canela BELL'S Vaso 45g,S/ 3.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,45.0,g,Avena Instantánea de Manzana y Canela BELL'S Vaso,3.5,vivanda,BELL'S,AVENA ENVASADA
-Avena Instantánea de Chocolate BELL'S Vaso 45g,S/ 3.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,45.0,g,Avena Instantánea de Chocolate BELL'S Vaso,3.5,vivanda,BELL'S,AVENA ENVASADA
-Avena Instantánea de Frutos Rojos BELL'S Vaso 45g,S/ 3.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,45.0,g,Avena Instantánea de Frutos Rojos BELL'S Vaso,3.5,vivanda,BELL'S,AVENA ENVASADA
-Avena con Cereal Andino 3 Ositos Bolsa 270g,S/ 3.60,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,270.0,g,Avena con Cereal Andino 3 Ositos Bolsa,3.6,vega,3 Ositos,AVENA ENVASADA
-Trigo con Miel Vita Plus Bolsa 140 gr,S/ 3.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,140.0,g,Trigo con Miel Vita Plus Bolsa r,3.9,wong,,AVENA ENVASADA
-Avena GRANO DE ORO Bolsa 370gr,S/ 4.00,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,370.0,g,Avena GRANO DE ORO Bolsa r,4.0,vega,Grano De Oro,AVENA ENVASADA
-Avena Precocida BELL'S Bolsa 380g,S/ 4.00,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,380.0,g,Avena Precocida BELL'S Bolsa,4.0,vivanda,BELL'S,AVENA ENVASADA
-Avena Precocida Santa Catalina 250g,S/ 4.10,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Avena Precocida Santa Catalina,4.1,metro,,AVENA ENVASADA
-Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,S/ 4.19,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,370.0,g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa,4.19,vivanda,GRANO ORO,AVENA ENVASADA
-Trigo Atómico Original Forte Golpe Bolsa 125 g,S/ 4.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,125.0,g,Trigo Atómico Original Forte Golpe Bolsa,4.2,wong,,AVENA ENVASADA
-Avena Precocida Santa Catalina 250g,S/ 4.30,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,250.0,g,Avena Precocida Santa Catalina,4.3,wong,,AVENA ENVASADA
-Avena QUAKER Tradicional Bolsa 200g,S/ 4.60,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,200.0,g,Avena QUAKER Tradicional Bolsa,4.6,vega,Quaker,AVENA ENVASADA
-Avena BELL'S Bolsa 500g,S/ 4.70,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,500.0,g,Avena BELL'S Bolsa,4.7,vivanda,BELL'S,AVENA ENVASADA
-Avena Quaker Tradicional 200g,S/ 4.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,200.0,g,Avena Quaker Tradicional,4.8,wong,,AVENA ENVASADA
-Avena Quaker Tradicional 200g,S/ 4.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Avena Quaker Tradicional,4.8,metro,,AVENA ENVASADA
-Avena SANTA CATALINA con Maca Bolsa 280gr,S/ 4.80,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,280.0,g,Avena SANTA CATALINA con Maca Bolsa r,4.8,vega,Santa Catalina,AVENA ENVASADA
-Avena SANTA CATALINA con Kiwicha Bolsa 280gr,S/ 4.80,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,280.0,g,Avena SANTA CATALINA con Kiwicha Bolsa r,4.8,vega,Santa Catalina,AVENA ENVASADA
-Avena Tradicional Cuisine & Co 300g,S/ 4.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Avena Tradicional Cuisine & Co,4.9,wong,,AVENA ENVASADA
-Avena Maca Cuisine & Co 300g,S/ 4.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,300.0,g,Avena Maca Cuisine & Co,4.9,metro,,AVENA ENVASADA
-Avena Instantánea Cuisine & Co Chocolate 45g,S/ 4.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Avena Instantánea Cuisine & Co Chocolate,4.9,metro,,AVENA ENVASADA
-Avena Maca Cuisine & Co 300g,S/ 4.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Avena Maca Cuisine & Co,4.9,wong,,AVENA ENVASADA
-Avena Quinua Cuisine & Co 300g,S/ 4.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,300.0,g,Avena Quinua Cuisine & Co,4.9,metro,,AVENA ENVASADA
-Avena Quinua Cuisine & Co 300g,S/ 4.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Avena Quinua Cuisine & Co,4.9,wong,,AVENA ENVASADA
-Avena Tradicional Cuisine & Co 300g,S/ 4.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,300.0,g,Avena Tradicional Cuisine & Co,4.9,metro,,AVENA ENVASADA
-Avena Precocida 3 Ositos Chocolate 180g,S/ 5.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,180.0,g,Avena Precocida 3 Ositos Chocolate,5.4,wong,,AVENA ENVASADA
-Avena de Chocolate 3 OSITOS Bolsa 180g,S/ 5.40,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,180.0,g,Avena de Chocolate 3 OSITOS Bolsa,5.4,vivanda,3 OSITOS,AVENA ENVASADA
-Avena Grano de Oro 500g,S/ 5.40,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena Grano de Oro,5.4,metro,,AVENA ENVASADA
-Avena Precocida 3 Ositos Chocolate 180g,S/ 5.40,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,180.0,g,Avena Precocida 3 Ositos Chocolate,5.4,metro,,AVENA ENVASADA
-Avena Integral en Hojuelas Grano de Oro 500g,S/ 5.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena Integral en Hojuelas Grano de Oro,5.5,metro,,AVENA ENVASADA
-Avena Integral en Hojuelas Grano de Oro 500g,S/ 5.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Integral en Hojuelas Grano de Oro,5.5,wong,,AVENA ENVASADA
-Avena Reforzada Quinua Santa Catalina 280g,S/ 5.60,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,280.0,g,Avena Reforzada Quinua Santa Catalina,5.6,metro,,AVENA ENVASADA
-Avena Instantánea con Arándano Sin Gluten Dyfferent Pote 65 g,S/ 5.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,65.0,g,Avena Instantánea con Arándano Sin Gluten Dyfferent Pote,5.8,wong,,AVENA ENVASADA
-Avena Instantánea con Manzana y Canela Sin Gluten Dyfferent Pote 65 g,S/ 5.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,65.0,g,Avena Instantánea con Manzana y Canela Sin Gluten Dyfferent Pote,5.8,wong,,AVENA ENVASADA
-Avena Con Chocolate Instantáneo Santa Catalina Bolsa 150 g,S/ 5.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Avena Con Chocolate Instantáneo Santa Catalina Bolsa,5.8,metro,,AVENA ENVASADA
-Galletas de Avena Cosecha del Paraíso 100g,S/ 5.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,100.0,g,Galletas de Avena Cosecha del Paraíso,5.8,wong,,AVENA ENVASADA
-Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,S/ 5.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Avena Con Manzana Instantánea Santa Catalina Bolsa,5.8,metro,,AVENA ENVASADA
-Avena Instantánea con Coco y Plátano Sin Gluten Dyfferent Pote 65 g,S/ 5.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,65.0,g,Avena Instantánea con Coco y Plátano Sin Gluten Dyfferent Pote,5.8,wong,,AVENA ENVASADA
-Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,150.0,g,Avena Con Manzana Instantánea Santa Catalina Bolsa,5.9,wong,,AVENA ENVASADA
-Avena Con Chocolate Instantáneo Santa Catalina Bolsa 150 g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,150.0,g,Avena Con Chocolate Instantáneo Santa Catalina Bolsa,5.9,wong,,AVENA ENVASADA
-Avena Instantánea Cuisine & Co Manzana y Canela 45g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,45.0,g,Avena Instantánea Cuisine & Co Manzana y Canela,5.9,wong,,AVENA ENVASADA
-Avena Premium 3 Ositos 250g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,250.0,g,Avena Premium 3 Ositos,5.9,wong,,AVENA ENVASADA
-Avena con Chocolate SANTA CATALINA Bolsa 150g,S/ 5.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,150.0,g,Avena con Chocolate SANTA CATALINA Bolsa,5.9,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena Instantánea Cuisine & Co Frutos Rojos 45g,S/ 5.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Avena Instantánea Cuisine & Co Frutos Rojos,5.9,metro,,AVENA ENVASADA
-Avena Instantánea Cuisine & Co Chocolate 45g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,45.0,g,Avena Instantánea Cuisine & Co Chocolate,5.9,wong,,AVENA ENVASADA
-Café Instantáneo Cuisine & Co Clásico 50g,S/ 5.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,50.0,g,Café Instantáneo Cuisine & Co Clásico,5.9,metro,,AVENA ENVASADA
-Avena con Manzana SANTA CATALINA Bolsa 150g,S/ 5.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,150.0,g,Avena con Manzana SANTA CATALINA Bolsa,5.9,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena Instantánea Cuisine & Co Frutos Rojos 45g,S/ 5.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,45.0,g,Avena Instantánea Cuisine & Co Frutos Rojos,5.9,wong,,AVENA ENVASADA
-Avena Clásica 3 OSITOS Bolsa 500gr,S/ 6.00 8%,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,500.0,g,Avena Clásica 3 OSITOS Bolsa r,6.0,vega,3 Ositos,AVENA ENVASADA
-Avena Cereal Andino 270 g,S/ 6.20,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,270.0,g,Avena Cereal Andino,6.2,metro,,AVENA ENVASADA
-Cereal Bar 12un Display Costa Choco,S/ 6.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Cereal Bar  Display Costa Choco,6.2,wong,,AVENA ENVASADA
-Café Instantáneo Altomayo Clásico 45g,S/ 6.20,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Café Instantáneo Altomayo Clásico,6.2,metro,,AVENA ENVASADA
-Kiwicha Avena SANTA CATALINA Bolsa 280g,S/ 6.20,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,280.0,g,Kiwicha Avena SANTA CATALINA Bolsa,6.2,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena SANTA CATALINA con Quinua Bolsa 280g,S/ 6.20,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,280.0,g,Avena SANTA CATALINA con Quinua Bolsa,6.2,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena Reforzada Quinua Santa Catalina 280g,S/ 6.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,280.0,g,Avena Reforzada Quinua Santa Catalina,6.2,wong,,AVENA ENVASADA
-Cereal Bar 12un Display Costa Golden,S/ 6.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Cereal Bar  Display Costa Golden,6.2,wong,,AVENA ENVASADA
-Avena Premium 3 Ositos 250g,S/ 6.20,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Avena Premium 3 Ositos,6.2,metro,,AVENA ENVASADA
-Avena con Algarrobina Santa Catalina 280g,S/ 6.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,280.0,g,Avena con Algarrobina Santa Catalina,6.2,wong,,AVENA ENVASADA
-Avena MILLER'S en Hojuelas sabor Natural Doypack 350g,S/ 6.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,350.0,g,Avena MILLER'S en Hojuelas sabor Natural Doypack,6.5,vivanda,MILLER´S,AVENA ENVASADA
-Avena con Cereales Andinos Premium 3 OSITOS Bolsa 270g,S/ 6.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,270.0,g,Avena con Cereales Andinos Premium 3 OSITOS Bolsa,6.5,vivanda,3 OSITOS,AVENA ENVASADA
-Avena Precocida Santa Catalina Bolsa 500 g,S/ 6.70,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Precocida Santa Catalina Bolsa,6.7,wong,,AVENA ENVASADA
-Avena Precocida Santa Catalina Bolsa 500 g,S/ 6.70,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena Precocida Santa Catalina Bolsa,6.7,metro,,AVENA ENVASADA
-Bebida con Avena Gloria Acti Avena Caja 1L,S/ 6.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,1.0,l,Bebida con Avena Gloria Acti Avena Caja,6.9,wong,,AVENA ENVASADA
-Barra de Cereal Cereal Bar Arándanos 12un,S/ 6.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barra de Cereal Cereal Bar Arándanos,6.9,wong,,AVENA ENVASADA
-Barras de Cereales Cereal Bar Manzana y Canela 12un,S/ 6.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barras de Cereales Cereal Bar Manzana y Canela,6.9,wong,,AVENA ENVASADA
-Café Instantáneo Cuisine & Co Puro 50g,S/ 6.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,50.0,g,Café Instantáneo Cuisine & Co Puro,6.9,metro,,AVENA ENVASADA
-Avena QUAKER Tradicional Bolsa 500gr,S/ 7.20,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,500.0,g,Avena QUAKER Tradicional Bolsa r,7.2,vega,Quaker,AVENA ENVASADA
-Avena TIMONEL Precocida e Instantanea Bolsa 900g,S/ 7.50,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,900.0,g,Avena TIMONEL Precocida e Instantanea Bolsa,7.5,vega,Timonel,AVENA ENVASADA
-Avena Instantánea BELL'S Chocolate Bolsa 270g,S/ 7.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,270.0,g,Avena Instantánea BELL'S Chocolate Bolsa,7.5,vivanda,BELL'S,AVENA ENVASADA
-Avena Precocida 3 Ositos 500g,S/ 7.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena Precocida 3 Ositos,7.9,metro,,AVENA ENVASADA
-Avena Precocida 3 Ositos 500g,S/ 7.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Precocida 3 Ositos,7.9,wong,,AVENA ENVASADA
-Café Instantáneo Kirma Clásico 45g,S/ 8.30,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Café Instantáneo Kirma Clásico,8.3,metro,,AVENA ENVASADA
-Avena con Maca Quaker 330g,S/ 8.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,330.0,g,Avena con Maca Quaker,8.4,wong,,AVENA ENVASADA
-Avena QUAKER Tradicional Bolsa 500g,S/ 8.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,500.0,g,Avena QUAKER Tradicional Bolsa,8.5,vivanda,QUAKER,AVENA ENVASADA
-Avena QUAKER con Chía y Algarrobo Bolsa 330g,S/ 8.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,330.0,g,Avena QUAKER con Chía y Algarrobo Bolsa,8.5,vivanda,QUAKER,AVENA ENVASADA
-Avena QUAKER con Maca Bolsa 330g,S/ 8.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,330.0,g,Avena QUAKER con Maca Bolsa,8.5,vivanda,QUAKER,AVENA ENVASADA
-Avena Quaker Tradicional 500g,S/ 8.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Quaker Tradicional,8.5,wong,,AVENA ENVASADA
-Avena QUAKER con sabor a Chocolate Bolsa 290g,S/ 8.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,290.0,g,Avena QUAKER con sabor a Chocolate Bolsa,8.9,vivanda,QUAKER,AVENA ENVASADA
-Avena Quaker Tradicional 500g,S/ 8.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena Quaker Tradicional,8.9,metro,,AVENA ENVASADA
-Avena con Quinua Quaker 330g,S/ 8.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,330.0,g,Avena con Quinua Quaker,8.9,metro,,AVENA ENVASADA
-Avena con Quinua Quaker 330g,S/ 8.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,330.0,g,Avena con Quinua Quaker,8.9,wong,,AVENA ENVASADA
-Avena Tradicional Quaker Sabor a Chocolate 290g,S/ 8.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,290.0,g,Avena Tradicional Quaker Sabor a Chocolate,8.9,wong,,AVENA ENVASADA
-Avena con Quinua QUAKER Bolsa 330g,S/ 8.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,330.0,g,Avena con Quinua QUAKER Bolsa,8.9,vivanda,QUAKER,AVENA ENVASADA
-Avena Instantánea Quaker Original 350g,S/ 8.99,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Avena Instantánea Quaker Original,8.99,wong,,AVENA ENVASADA
-Jabón Líquido Antibacterial Protex Avena 221ml,S/ 9.10,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,221.0,ml,Jabón Líquido Antibacterial Protex Avena,9.1,wong,,AVENA ENVASADA
-Avena Precocida BELL'S Bolsa 1Kg,S/ 9.20,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,1.0,kg,Avena Precocida BELL'S Bolsa,9.2,vivanda,BELL'S,AVENA ENVASADA
-Avena con Chía y Algarrobo Quaker 330g,S/ 9.20,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,330.0,g,Avena con Chía y Algarrobo Quaker,9.2,metro,,AVENA ENVASADA
-Avena con Chía y Algarrobo Quaker 330g,S/ 9.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,330.0,g,Avena con Chía y Algarrobo Quaker,9.2,wong,,AVENA ENVASADA
-Avena QUAKER Hojuelas de Avena Instantánea Caja 350g,S/ 9.29,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,350.0,g,Avena QUAKER Hojuelas de Avena Instantánea Caja,9.29,vivanda,QUAKER,AVENA ENVASADA
-Avena Clásica 3 OSITOS Bolsa 500g,S/ 9.30,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,500.0,g,Avena Clásica 3 OSITOS Bolsa,9.3,vivanda,3 OSITOS,AVENA ENVASADA
-Avena Instantánea Quaker Original 350g,S/ 9.40,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,350.0,g,Avena Instantánea Quaker Original,9.4,metro,,AVENA ENVASADA
-Avena Natural SANTA CATALINA Bolsa 900g,S/ 9.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,900.0,g,Avena Natural SANTA CATALINA Bolsa,9.5,vivanda,SANTA CATALINA,AVENA ENVASADA
-Avena 3 OSITOS Premium 900g,S/ 9.50 17%,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,900.0,g,Avena 3 OSITOS Premium,9.5,vega,3 Ositos,AVENA ENVASADA
-Avena Mix AMARU FOODS Chocoplátano Doypack 400g,S/ 9.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,400.0,g,Avena Mix AMARU FOODS Chocoplátano Doypack,9.9,vivanda,AMARU,AVENA ENVASADA
-Café Molido Cafetal Selecto 200g,S/ 9.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Molido Cafetal Selecto,9.9,metro,,AVENA ENVASADA
-Avena Tradicional Cuisine & Co 1kg,S/ 9.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,1.0,kg,Avena Tradicional Cuisine & Co,9.9,wong,,AVENA ENVASADA
-Jabón Líquido Family Care Avena 1L,S/ 9.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,1.0,l,Jabón Líquido Family Care Avena,9.9,wong,,AVENA ENVASADA
-Avena Natural Santa Catalina 900g,S/ 9.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,900.0,g,Avena Natural Santa Catalina,9.9,metro,,AVENA ENVASADA
-Avena Tradicional Cuisine & Co 1kg,S/ 9.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,1.0,kg,Avena Tradicional Cuisine & Co,9.9,metro,,AVENA ENVASADA
-Jabón Líquido Ballerina Doble Humectación Avena y Aceite de Almendras 750ml,S/ 9.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,750.0,ml,Jabón Líquido Ballerina Doble Humectación Avena y Aceite de Almendras,9.9,wong,,AVENA ENVASADA
-Tripack Jabón en Barra Palmolive Avena y Azúcar Morena 110g,S/ 9.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,110.0,g,Tripack Jabón en Barra Palmolive Avena y Azúcar Morena,9.9,wong,,AVENA ENVASADA
-Avena Mix AMARU FOODS Lucumango Doypack 400g,S/ 9.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,400.0,g,Avena Mix AMARU FOODS Lucumango Doypack,9.9,vivanda,AMARU,AVENA ENVASADA
-Avena con Quinua Santa Catalina 500g,S/ 10.30,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,500.0,g,Avena con Quinua Santa Catalina,10.3,metro,,AVENA ENVASADA
-Avena con Quinua Santa Catalina 500g,S/ 10.30,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena con Quinua Santa Catalina,10.3,wong,,AVENA ENVASADA
-Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,1.0,kg,Avena GRANO DE ORO Bolsa,10.5,vega,Grano De Oro,AVENA ENVASADA
-Avena con Quinua 3 OSITOS Premium 900g,S/ 10.69 14%,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,900.0,g,Avena con Quinua 3 OSITOS Premium,10.69,vega,3 Ositos,AVENA ENVASADA
-Tripack Jabón en Barra Protex Avena 110g,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,110.0,g,Tripack Jabón en Barra Protex Avena,10.9,wong,,AVENA ENVASADA
-Sixpack Leche con Avena y Canela Gloria Acti Avena Caja 180ml,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,180.0,ml,Sixpack Leche con Avena y Canela Gloria Acti Avena Caja,10.9,wong,,AVENA ENVASADA
-Granola Frutos del Bosque Cuisine & Co 300g,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Granola Frutos del Bosque Cuisine & Co,10.9,wong,,AVENA ENVASADA
-Bebida de Avena Nature's Heart Sin Azúcar Caja 946ml,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,946.0,ml,Bebida de Avena Nature's Heart Sin Azúcar Caja,10.9,wong,,AVENA ENVASADA
-Granola Almendras y Pasas Cuisine & Co 300g,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Granola Almendras y Pasas Cuisine & Co,10.9,wong,,AVENA ENVASADA
-Granola Trozos de Chocolate Cuisine & Co 300g,S/ 10.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Granola Trozos de Chocolate Cuisine & Co,10.9,wong,,AVENA ENVASADA
-Avena SANTA CATALINA Bolsa 900g,S/ 11.00,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,900.0,g,Avena SANTA CATALINA Bolsa,11.0,vega,Santa Catalina,AVENA ENVASADA
-Hojuelas de Avena Integral Sin Gluten Mi Tierra Bolsa 400 g,S/ 11.30,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Hojuelas de Avena Integral Sin Gluten Mi Tierra Bolsa,11.3,wong,,AVENA ENVASADA
-Avena Integral MI TIERRA sin Gluten Bolsa 400g,S/ 11.30,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,400.0,g,Avena Integral MI TIERRA sin Gluten Bolsa,11.3,vivanda,MI TIERRA,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 45g,S/ 11.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Café Instantáneo Altomayo Gourmet,11.5,metro,,AVENA ENVASADA
-Avena Precocida 3 Ositos 900g,S/ 11.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,900.0,g,Avena Precocida 3 Ositos,11.5,wong,,AVENA ENVASADA
-Jabón Líquido BALLERINA Avena Doypack 750ml,S/ 11.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,750.0,ml,Jabón Líquido BALLERINA Avena Doypack,11.5,vivanda,BALLERINA,AVENA ENVASADA
-Avena Precocida 3 Ositos 900g,S/ 11.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,900.0,g,Avena Precocida 3 Ositos,11.5,metro,,AVENA ENVASADA
-Jabón Líquido para Manos Antibacterial Avena Doypack 500 ml,S/ 11.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,ml,Jabón Líquido para Manos Antibacterial Avena Doypack,11.9,wong,,AVENA ENVASADA
-Jabón Líquido para Manos 2 en 1 Avena & Miel Bacterion Doypack 1000 ml,S/ 11.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,1000.0,ml,Jabón Líquido para Manos 2 en 1 Avena & Miel Bacterion Doypack,11.9,wong,,AVENA ENVASADA
-Harina de Avena sin Gluten Mi Tierra Bolsa 400 g,S/ 11.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Harina de Avena sin Gluten Mi Tierra Bolsa,11.9,wong,,AVENA ENVASADA
-"Avena Quaker Multisemillas Linaza, Cañihua y Chía 450g",S/ 12.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,450.0,g,"Avena Quaker Multisemillas Linaza, Cañihua y Chía",12.2,wong,,AVENA ENVASADA
-Café Instantáneo Altomayo Clásico 80g,S/ 12.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,80.0,g,Café Instantáneo Altomayo Clásico,12.5,metro,,AVENA ENVASADA
-Café Molido y Tostado Cuisine & Co 220g,S/ 12.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,220.0,g,Café Molido y Tostado Cuisine & Co,12.5,metro,,AVENA ENVASADA
-Avena Natural Santa Catalina 900g,S/ 12.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,900.0,g,Avena Natural Santa Catalina,12.6,wong,,AVENA ENVASADA
-Café Sello Rojo Contenido 212 g,S/ 12.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,212.0,g,Café Sello Rojo Contenido,12.9,metro,,AVENA ENVASADA
-Avena Quaker Tradicional 900g,S/ 12.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,900.0,g,Avena Quaker Tradicional,12.9,metro,,AVENA ENVASADA
-Barra Energética Sabor Chocolate Caja 5 unid,S/ 12.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barra Energética Sabor Chocolate Caja,12.9,wong,,AVENA ENVASADA
-Cereales Angel Life Cero 300g,S/ 12.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Cereales Angel Life Cero,12.9,wong,,AVENA ENVASADA
-Pan de Molde UNIÓN Multisemillas y Avena Bolsa 540g,S/ 13.20,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,540.0,g,Pan de Molde UNIÓN Multisemillas y Avena Bolsa,13.2,vivanda,UNIÓN,AVENA ENVASADA
-Pan de Molde Unión Multisemillas con Avena 540g,S/ 13.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,540.0,g,Pan de Molde Unión Multisemillas con Avena,13.6,wong,,AVENA ENVASADA
-Avena Clásica 3 OSITOS Premium Bolsa 900g,S/ 13.60,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,900.0,g,Avena Clásica 3 OSITOS Premium Bolsa,13.6,vivanda,3 OSITOS,AVENA ENVASADA
-Café Instantáneo Granulado Cuisine & Co 100g,S/ 13.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,100.0,g,Café Instantáneo Granulado Cuisine & Co,13.9,metro,,AVENA ENVASADA
-Café Instantáneo Descafeinado Altomayo 45g,S/ 13.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Café Instantáneo Descafeinado Altomayo,13.9,metro,,AVENA ENVASADA
-Cereal de Maíz Corn Flakes 405g,S/ 13.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,405.0,g,Cereal de Maíz Corn Flakes,13.9,wong,,AVENA ENVASADA
-"Granola Crosoy Manzana, Canela y Pecanas 380g",S/ 14.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,380.0,g,"Granola Crosoy Manzana, Canela y Pecanas",14.4,wong,,AVENA ENVASADA
-Avena Quaker Tradicional 900g,S/ 14.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,900.0,g,Avena Quaker Tradicional,14.5,wong,,AVENA ENVASADA
-Avena con Quinua QUAKER Bolsa 850g,S/ 14.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,850.0,g,Avena con Quinua QUAKER Bolsa,14.5,vivanda,QUAKER,AVENA ENVASADA
-Avena con Quinua Quaker 850g,S/ 14.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,850.0,g,Avena con Quinua Quaker,14.9,wong,,AVENA ENVASADA
-Café Instantáneo Nescafé Tradición 50g,S/ 14.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,50.0,g,Café Instantáneo Nescafé Tradición,14.9,metro,,AVENA ENVASADA
-Avena con Quinua Quaker 850g,S/ 14.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,850.0,g,Avena con Quinua Quaker,14.9,metro,,AVENA ENVASADA
-Cereal de Trigo Integral Fitness Original 285g,S/ 14.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,285.0,g,Cereal de Trigo Integral Fitness Original,14.9,wong,,AVENA ENVASADA
-Café Tostado y Molido Blend Caffé 250g,S/ 15.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Tostado y Molido Blend Caffé,15.5,metro,,AVENA ENVASADA
-Granola con Miel de Abeja Unión Doypack 400g,S/ 15.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Granola con Miel de Abeja Unión Doypack,15.5,wong,,AVENA ENVASADA
-Cereal de Avena y Arroz Cuisine & Co 350g,S/ 15.70,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Cereal de Avena y Arroz Cuisine & Co,15.7,wong,,AVENA ENVASADA
-Cereal Cuisine & Co Fruty Color Sin Gluten 350g,S/ 15.70,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Cereal Cuisine & Co Fruty Color Sin Gluten,15.7,wong,,AVENA ENVASADA
-Granola con Granos Andinos Unión Doypack 280g,S/ 15.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,280.0,g,Granola con Granos Andinos Unión Doypack,15.9,wong,,AVENA ENVASADA
-Quinua Avena 3 Ositos 900g,S/ 15.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,900.0,g,Quinua Avena 3 Ositos,15.9,wong,,AVENA ENVASADA
-"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",S/ 15.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,200.0,g,"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's",15.9,wong,,AVENA ENVASADA
-Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa 420g,S/ 16.10,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,420.0,g,Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa,16.1,vivanda,ANGEL,AVENA ENVASADA
-"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela 30g",S/ 16.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,30.0,g,"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela",16.2,wong,,AVENA ENVASADA
-Granola con Pasas y Almendras Unión Doypack 400g,S/ 16.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Granola con Pasas y Almendras Unión Doypack,16.5,wong,,AVENA ENVASADA
-Avena Mix Canela y Berries Amaru 400g,S/ 16.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Avena Mix Canela y Berries Amaru,16.5,wong,,AVENA ENVASADA
-Hojuelas de Maíz Kellogg's Corn Flakes 410g,S/ 16.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,410.0,g,Hojuelas de Maíz Kellogg's Corn Flakes,16.8,wong,,AVENA ENVASADA
-"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",S/ 16.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's",16.9,wong,,AVENA ENVASADA
-Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 420g,S/ 16.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,420.0,g,Hojuelas de Maíz Azucaradas Kellogg's Zucaritas,16.9,wong,,AVENA ENVASADA
-Cereal Angel Meli Bolsa 420 g,S/ 16.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,420.0,g,Cereal Angel Meli Bolsa,16.9,wong,,AVENA ENVASADA
-Jabón Líquido Protex Avena 800ml,S/ 17.10,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,800.0,ml,Jabón Líquido Protex Avena,17.1,wong,,AVENA ENVASADA
-Barra de Quinua con Maní y Chocolate Mamalama Chewy Caja 5 unid,S/ 17.30,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barra de Quinua con Maní y Chocolate Mamalama Chewy Caja,17.3,wong,,AVENA ENVASADA
-Avena Integral en Hojuelas Grano de Oro 900g,S/ 17.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,900.0,g,Avena Integral en Hojuelas Grano de Oro,17.5,wong,,AVENA ENVASADA
-Cereal Tito Almohada Angel Chocolate Bolsa 350 g,S/ 17.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Cereal Tito Almohada Angel Chocolate Bolsa,17.5,wong,,AVENA ENVASADA
-Avena Integral en Hojuelas Grano de Oro 900g,S/ 17.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,900.0,g,Avena Integral en Hojuelas Grano de Oro,17.5,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Premium 45g,S/ 17.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,45.0,g,Café Instantáneo Altomayo Premium,17.8,metro,,AVENA ENVASADA
-Avena Mix MAMALAMA Aguaymanto Linaza Doypack 500g,S/ 17.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,500.0,g,Avena Mix MAMALAMA Aguaymanto Linaza Doypack,17.9,vivanda,MAMALAMA,AVENA ENVASADA
-Café Molido Cuisine & Co Blend Peruano 200g,S/ 17.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Molido Cuisine & Co Blend Peruano,17.9,metro,,AVENA ENVASADA
-Avena con Hojuela sin Gluten LA PURITA Bolsa 800g,S/ 18.00,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,800.0,g,Avena con Hojuela sin Gluten LA PURITA Bolsa,18.0,vivanda,LA PURITA,AVENA ENVASADA
-Bebida de Avena NATURES HEART Caja 946ml Paquete 2un,S/ 18.50,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,946.0,ml,Bebida de Avena NATURES HEART Caja  Paquete,18.5,vivanda,NATURE'S HEART,AVENA ENVASADA
-Twopack Bebida de Avena Nature's Heart Sin Azúcar Caja 946ml,S/ 18.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,946.0,ml,Twopack Bebida de Avena Nature's Heart Sin Azúcar Caja,18.9,wong,,AVENA ENVASADA
-Cereal de Trigo Integral Fitness Miel y Almendras 330g,S/ 18.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,330.0,g,Cereal de Trigo Integral Fitness Miel y Almendras,18.9,wong,,AVENA ENVASADA
-Café Molido Artidoro Rodríguez Perú Blend 200g,S/ 18.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Molido Artidoro Rodríguez Perú Blend,18.9,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Clásico 150g,S/ 18.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Café Instantáneo Altomayo Clásico,18.9,metro,,AVENA ENVASADA
-Sixpack Jabón en Barra Palmolive Avena y Azúcar Morena 110g,S/ 19.20,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,110.0,g,Sixpack Jabón en Barra Palmolive Avena y Azúcar Morena,19.2,wong,,AVENA ENVASADA
-Café Molido Altomayo Gourmet 200g,S/ 19.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Molido Altomayo Gourmet,19.9,metro,,AVENA ENVASADA
-Jabón Antibacterial Avena Barra 110 g Pack 6 unid,S/ 19.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,110.0,g,Jabón Antibacterial Avena Barra  Pack,19.9,wong,,AVENA ENVASADA
-Barras Energéticas Siete Dragones Sabores Surtidos 5un,S/ 19.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barras Energéticas Siete Dragones Sabores Surtidos,19.9,wong,,AVENA ENVASADA
-"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja 240 gr",S/ 20.10,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,240.0,g,"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja r",20.1,wong,,AVENA ENVASADA
-Avena Mix MAMALAMA Cacao + Maca do 500g,S/ 20.30,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,500.0,g,Avena Mix MAMALAMA Cacao + Maca do,20.3,vivanda,MAMALAMA,AVENA ENVASADA
-Barra Energética Siete Dragones Cacao & Cañihua 5un,S/ 20.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barra Energética Siete Dragones Cacao & Cañihua,20.4,wong,,AVENA ENVASADA
-Cereales Bañados con Chocolate Choco Yogurt 2 Cerritos Caja 350 gr,S/ 20.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Cereales Bañados con Chocolate Choco Yogurt 2 Cerritos Caja r,20.5,wong,,AVENA ENVASADA
-Cereal Expandido Protein Bites Cacao Orgánico Caja 240 g,S/ 20.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,240.0,g,Cereal Expandido Protein Bites Cacao Orgánico Caja,20.6,wong,,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 90g,S/ 20.60,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,90.0,g,Café Instantáneo Altomayo Gourmet,20.6,metro,,AVENA ENVASADA
-Granola Berries Wasi Contenido 300 g,S/ 20.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,300.0,g,Granola Berries Wasi Contenido,20.6,wong,,AVENA ENVASADA
-Café Molido Cafetal Gourmet Americano 200g,S/ 20.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Molido Cafetal Gourmet Americano,20.8,metro,,AVENA ENVASADA
-Avena Mix Mamalama Cacao Maca 500g,S/ 20.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Mix Mamalama Cacao Maca,20.9,wong,,AVENA ENVASADA
-Barras de Quinua Qfoods Maní con Chocolate 6un,S/ 20.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,6.0,un,Barras de Quinua Qfoods Maní con Chocolate,20.9,wong,,AVENA ENVASADA
-Cereal Corn Flakes Sin Gluten 740g,S/ 20.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,740.0,g,Cereal Corn Flakes Sin Gluten,20.9,wong,,AVENA ENVASADA
-Café Molido Cafetal Selecto 454g,S/ 20.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,454.0,g,Café Molido Cafetal Selecto,20.9,metro,,AVENA ENVASADA
-Cereal Chocapic Nestlé 350g,S/ 21.30,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,350.0,g,Cereal Chocapic Nestlé,21.3,wong,,AVENA ENVASADA
-Café Instantáneo Kirma Clásico 190g,S/ 21.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,190.0,g,Café Instantáneo Kirma Clásico,21.9,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Gold 50g,S/ 22.10,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,50.0,g,Café Instantáneo Nescafé Gold,22.1,metro,,AVENA ENVASADA
-Cereales Angel Life Protein Contenido 560 g,S/ 22.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,560.0,g,Cereales Angel Life Protein Contenido,22.6,wong,,AVENA ENVASADA
-Cereales Angel Life Fibra Contenido 560 g,S/ 22.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,560.0,g,Cereales Angel Life Fibra Contenido,22.6,wong,,AVENA ENVASADA
-Cereal Chocapic 540g,S/ 22.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,540.0,g,Cereal Chocapic,22.9,wong,,AVENA ENVASADA
-Café Instantáneo Kirma Clásico 150g,S/ 22.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Café Instantáneo Kirma Clásico,22.9,metro,,AVENA ENVASADA
-Café Instantáneo Cafetal Clásico 180g,S/ 23.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,180.0,g,Café Instantáneo Cafetal Clásico,23.5,metro,,AVENA ENVASADA
-Avena Quinua Vitalmax Incasur 500g,S/ 23.70,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Quinua Vitalmax Incasur,23.7,wong,,AVENA ENVASADA
-Avena Cacao y Almendras Vitalmax Incasur 500g,S/ 23.70,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,500.0,g,Avena Cacao y Almendras Vitalmax Incasur,23.7,wong,,AVENA ENVASADA
-Café Molido Leyenda Vainilla 250g,S/ 23.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Leyenda Vainilla,23.9,metro,,AVENA ENVASADA
-Café Molido Leyenda Clásico Tueste Oscuro 250g,S/ 23.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Leyenda Clásico Tueste Oscuro,23.9,metro,,AVENA ENVASADA
-Cereal Copix con Marshmallows Bolsa 740 g,S/ 24.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,740.0,g,Cereal Copix con Marshmallows Bolsa,24.4,wong,,AVENA ENVASADA
-Cereal Zuck Bolsa 1 Kg,S/ 24.40,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,1.0,kg,Cereal Zuck Bolsa,24.4,wong,,AVENA ENVASADA
-Café Molido Altomayo Clásico 450g,S/ 24.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,450.0,g,Café Molido Altomayo Clásico,24.9,metro,,AVENA ENVASADA
-Cereal de Trigo Integral Fitness Original 570g,S/ 24.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,570.0,g,Cereal de Trigo Integral Fitness Original,24.9,wong,,AVENA ENVASADA
-Café Instantáneo Nescafé Tradición 170g + Mezcla Láctea Ideal Cremosita Lata 390g,S/ 25.00,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Nescafé Tradición  + Mezcla Láctea Ideal Cremosita Lata,25.0,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Fina Selección 100g,S/ 25.40,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,100.0,g,Café Instantáneo Nescafé Fina Selección,25.4,metro,,AVENA ENVASADA
-Granola Huella Verde Chocolate Quinoa 400g,S/ 25.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Granola Huella Verde Chocolate Quinoa,25.9,wong,,AVENA ENVASADA
-Granola Huella Verde The Skinny Mood 400g,S/ 25.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,g,Granola Huella Verde The Skinny Mood,25.9,wong,,AVENA ENVASADA
-Gel de Ducha Instituto Español Hidratante Avena Frasco 750 ml,S/ 25.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,750.0,ml,Gel de Ducha Instituto Español Hidratante Avena Frasco,25.9,wong,,AVENA ENVASADA
-Café en Grano Altomayo Gourmet 250g,S/ 26.40,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café en Grano Altomayo Gourmet,26.4,metro,,AVENA ENVASADA
-Avena Fitness Naturandes 600g,S/ 26.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,600.0,g,Avena Fitness Naturandes,26.5,wong,,AVENA ENVASADA
-Café Instantáneo Nescafé Tradición 150g,S/ 26.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Café Instantáneo Nescafé Tradición,26.5,metro,,AVENA ENVASADA
-Avena Proteína NATURANDES Doypack 600g,S/ 26.90,vivanda,AVENA ENVASADA,2024-12-05 21:30:25.305646,600.0,g,Avena Proteína NATURANDES Doypack,26.9,vivanda,NATURANDES,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 150g,S/ 27.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,150.0,g,Café Instantáneo Altomayo Gourmet,27.5,metro,,AVENA ENVASADA
-Café Instantáneo Colcafé Clásico Frasco 170 g,S/ 27.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Colcafé Clásico Frasco,27.9,metro,,AVENA ENVASADA
-Café Instantáneo Kirma Clásico 250g,S/ 27.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Instantáneo Kirma Clásico,27.9,metro,,AVENA ENVASADA
-Avena Mix con Quinua y Maca Huella Verde 600g,S/ 28.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,600.0,g,Avena Mix con Quinua y Maca Huella Verde,28.5,wong,,AVENA ENVASADA
-Avena Mix con Quinua y Maca Huella Verde 600g,S/ 28.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,600.0,g,Avena Mix con Quinua y Maca Huella Verde,28.5,metro,,AVENA ENVASADA
-Avena Mix con Chía y Berries Huella Verde 600g,S/ 28.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,600.0,g,Avena Mix con Chía y Berries Huella Verde,28.5,wong,,AVENA ENVASADA
-Barras de Granola Nature Valley Avena y Miel 12un,S/ 28.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barras de Granola Nature Valley Avena y Miel,28.6,wong,,AVENA ENVASADA
-Barras de Granola Nature Valley Crunchy Almendra 12un,S/ 28.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barras de Granola Nature Valley Crunchy Almendra,28.6,wong,,AVENA ENVASADA
-Barras de Granola Nature Valley Crunchy Canela 12un,S/ 28.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barras de Granola Nature Valley Crunchy Canela,28.6,wong,,AVENA ENVASADA
-Barras de Granola Nature Valley Avena y Chocolate 12un,S/ 28.60,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,12.0,un,Barras de Granola Nature Valley Avena y Chocolate,28.6,wong,,AVENA ENVASADA
-Café Instantáneo Jacobs 95g,S/ 28.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,95.0,g,Café Instantáneo Jacobs,28.9,metro,,AVENA ENVASADA
-Café Gold Suave Cronat Gold Jacobs Frasco 100 g,S/ 28.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,100.0,g,Café Gold Suave Cronat Gold Jacobs Frasco,28.9,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 170g,S/ 28.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Altomayo Gourmet,28.9,metro,,AVENA ENVASADA
-Café en Cápsulas Must Lungo 16un,S/ 29.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,16.0,un,Café en Cápsulas Must Lungo,29.9,metro,,AVENA ENVASADA
-Café en Cápsulas Must Cortado 16un,S/ 29.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,16.0,un,Café en Cápsulas Must Cortado,29.9,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Clásico 190g,S/ 30.20,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,190.0,g,Café Instantáneo Altomayo Clásico,30.2,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Fina Selección 200g,S/ 30.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Instantáneo Nescafé Fina Selección,30.5,metro,,AVENA ENVASADA
-Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack 250 g,S/ 30.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Tostado Medio Cusco Místico Artidoro Rodriguez Doypack,30.5,metro,,AVENA ENVASADA
-Café Molido Tostado Medio Villa Rica Exótico Doypack 250 g,S/ 30.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Tostado Medio Villa Rica Exótico Doypack,30.5,metro,,AVENA ENVASADA
-Café Instantáneo Liofilizado Cafetal 180g,S/ 30.60,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,180.0,g,Café Instantáneo Liofilizado Cafetal,30.6,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Tradición 170g,S/ 31.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Nescafé Tradición,31.5,metro,,AVENA ENVASADA
-Jabón Líquido Johnson's Avena 400ml,S/ 32.80,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,400.0,ml,Jabón Líquido Johnson's Avena,32.8,wong,,AVENA ENVASADA
-Barras Nature Valley Protein 5un,S/ 33.50,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barras Nature Valley Protein,33.5,wong,,AVENA ENVASADA
-Café Instantáneo Nescafé Tradición 250g,S/ 34.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Instantáneo Nescafé Tradición,34.9,metro,,AVENA ENVASADA
-Café Molido Altomayo Gourmet 450g,S/ 36.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,450.0,g,Café Molido Altomayo Gourmet,36.9,metro,,AVENA ENVASADA
-Café Instantáneo Descafeinado Altomayo 170g,S/ 36.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Descafeinado Altomayo,36.9,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Premium 170g,S/ 39.80,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Altomayo Premium,39.8,metro,,AVENA ENVASADA
-Barra de Proteína Protein Snack Caramelo 5un,S/ 39.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barra de Proteína Protein Snack Caramelo,39.9,wong,,AVENA ENVASADA
-Barras de Proteína Protein Snack Berries & White Glaze 5un,S/ 39.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,5.0,un,Barras de Proteína Protein Snack Berries & White Glaze,39.9,wong,,AVENA ENVASADA
-Cereal Capitán Crunch Original Caja 360 g,S/ 39.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,360.0,g,Cereal Capitán Crunch Original Caja,39.9,wong,,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 190g,S/ 40.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,190.0,g,Café Instantáneo Altomayo Gourmet,40.9,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Descafeinado 170g,S/ 41.10,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,170.0,g,Café Instantáneo Nescafé Descafeinado,41.1,metro,,AVENA ENVASADA
-Café Instantáneo Nescafé Gold 200g,S/ 43.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,200.0,g,Café Instantáneo Nescafé Gold,43.9,metro,,AVENA ENVASADA
-Café Molido Britt Espresso Bolsa 250 g,S/ 44.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Britt Espresso Bolsa,44.9,metro,,AVENA ENVASADA
-Café Molido Britt Pachamama 250g,S/ 44.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Britt Pachamama,44.9,metro,,AVENA ENVASADA
-Café Molido Britt Valle Sagrado 250g,S/ 44.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Britt Valle Sagrado,44.9,metro,,AVENA ENVASADA
-Café Molido Britt Cumbre Sagrada 250g,S/ 44.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,250.0,g,Café Molido Britt Cumbre Sagrada,44.9,metro,,AVENA ENVASADA
-Café Molido Cafetal Selecto 900g,S/ 46.50,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,900.0,g,Café Molido Cafetal Selecto,46.5,metro,,AVENA ENVASADA
-Café Instantáneo Altomayo Clásico 450g,S/ 64.60,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,450.0,g,Café Instantáneo Altomayo Clásico,64.6,metro,,AVENA ENVASADA
-Avena GRANO DE ORO Bolsa 10kg,S/ 69.40,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,10.0,kg,Avena GRANO DE ORO Bolsa,69.4,vega,Grano De Oro,AVENA ENVASADA
-Café Instantáneo Altomayo Gourmet 450g,S/ 78.90,metro,AVENA ENVASADA,2024-12-05 15:09:00.019098,450.0,g,Café Instantáneo Altomayo Gourmet,78.9,metro,,AVENA ENVASADA
-Gel de Baño Protector Avena Piel Sensible ISDIN Frasco 750 ml,S/ 79.90,wong,AVENA ENVASADA,2024-12-05 17:36:09.719595,750.0,ml,Gel de Baño Protector Avena Piel Sensible ISDIN Frasco,79.9,wong,,AVENA ENVASADA
-Avena 3 OSITOS Clásica Económica Bolsa 100g Paquete 24u,,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa  Paquete 24u,,vega,3 Ositos,AVENA ENVASADA
-Avena 3 OSITOS Clásica Económica Bolsa 100g x3u,,vega,AVENA ENVASADA,2024-12-05 11:41:29.179161,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa  x3u,,vega,3 Ositos,AVENA ENVASADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Avena TIMONEL Precocida Instantánea Bolsa 100g,Timonel,100.0,g,1.0,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,10.0
+Avena QUAKER Tradicional Bolsa 100gr,Quaker,100.0,g,1.3,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,13.0
+Avena 3 OSITOS Clásica Económica Bolsa 100g,3 Ositos,100.0,g,1.5,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,15.0
+Avena Clásica 3 OSITOS Bolsa 100g,3 OSITOS,100.0,g,1.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,15.0
+Avena SANTA CATALINA Maca y Avena Bolsa 150g,SANTA CATALINA,150.0,g,2.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,16.666666666666668
+Avena Precocida BELL'S Bolsa 170g,BELL'S,170.0,g,2.79,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,16.41176470588235
+Avena GRANO DE ORO con Quinua en Bolsa 170gr,Grano De Oro,170.0,g,2.9,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,17.058823529411764
+Avena Instantánea Regular BELL'S Bolsa 270g,BELL'S,270.0,g,3.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,11.851851851851851
+Avena Natural SANTA CATALINA Bolsa 250g,SANTA CATALINA,250.0,g,3.3,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,13.2
+Avena Instantánea de Chocolate BELL'S Vaso 45g,BELL'S,45.0,g,3.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,77.77777777777777
+Avena Instantánea de Frutos Rojos BELL'S Vaso 45g,BELL'S,45.0,g,3.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,77.77777777777777
+Avena con Cereal Andino 3 Ositos Bolsa 270g,3 Ositos,270.0,g,3.6,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,13.333333333333332
+Trigo con Miel Vita Plus Bolsa 140 gr,,140.0,g,3.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,27.857142857142854
+Avena Precocida BELL'S Bolsa 380g,BELL'S,380.0,g,4.0,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,10.526315789473685
+Avena GRANO DE ORO Bolsa 370gr,Grano De Oro,370.0,g,4.0,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,10.81081081081081
+Avena Precocida Santa Catalina 250g,,250.0,g,4.1,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,16.4
+Avena GRANO DE ORO Hojuelas Precocidas Bolsa 370g,GRANO ORO,370.0,g,4.19,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,11.324324324324325
+Trigo Atómico Original Forte Golpe Bolsa 125 g,,125.0,g,4.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,33.6
+Avena Precocida Santa Catalina 250g,,250.0,g,4.3,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,17.2
+Fourpack Trigo Atómico con Miel Forte Golpe 25g,,25.0,g,4.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,180.0
+Avena BELL'S Bolsa 500g,BELL'S,500.0,g,4.7,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,9.4
+Avena QUAKER Tradicional Bolsa 200g,QUAKER,200.0,g,4.8,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,24.0
+Avena Quaker Tradicional 200g,,200.0,g,4.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,24.0
+Avena SANTA CATALINA con Kiwicha Bolsa 280gr,Santa Catalina,280.0,g,4.8,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,17.142857142857142
+Avena SANTA CATALINA con Maca Bolsa 280gr,Santa Catalina,280.0,g,4.8,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,17.142857142857142
+Avena Tradicional Cuisine & Co 300g,,300.0,g,4.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,16.333333333333336
+Avena Maca Cuisine & Co 300g,,300.0,g,4.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,16.333333333333336
+Avena Maca Cuisine & Co 300g,,300.0,g,4.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,16.333333333333336
+Avena Quinua Cuisine & Co 300g,,300.0,g,4.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,16.333333333333336
+Avena Precocida 3 Ositos Chocolate 180g,,180.0,g,5.4,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,30.0
+Avena de Chocolate 3 OSITOS Bolsa 180g,3 OSITOS,180.0,g,5.4,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,30.0
+Avena Precocida 3 Ositos Chocolate 180g,,180.0,g,5.4,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,30.0
+Avena Integral en Hojuelas Grano de Oro 500g,,500.0,g,5.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,11.0
+Avena Integral en Hojuelas Grano de Oro 500g,,500.0,g,5.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,11.0
+Avena Reforzada Quinua Santa Catalina 280g,,280.0,g,5.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,19.999999999999996
+Avena con Algarrobina Santa Catalina 280g,,280.0,g,5.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,19.999999999999996
+Avena Con Chocolate Instantáneo Santa Catalina Bolsa 150 g,,150.0,g,5.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,38.666666666666664
+Avena Instantánea con Arándano Sin Gluten Dyfferent Pote 65 g,,65.0,g,5.8,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,89.23076923076923
+Avena Instantánea con Manzana y Canela Sin Gluten Dyfferent Pote 65 g,,65.0,g,5.8,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,89.23076923076923
+Avena Instantánea con Coco y Plátano Sin Gluten Dyfferent Pote 65 g,,65.0,g,5.8,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,89.23076923076923
+Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,,150.0,g,5.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,38.666666666666664
+Galletas de Avena Cosecha del Paraíso 100g,,100.0,g,5.8,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,58.0
+Avena Instantánea Cuisine & Co Frutos Rojos 45g,,45.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,131.11111111111111
+Avena Con Chocolate Instantáneo Santa Catalina Bolsa 150 g,,150.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,39.333333333333336
+Avena Instantánea Cuisine & Co Chocolate 45g,,45.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,131.11111111111111
+Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,,150.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,39.333333333333336
+Avena Instantánea Cuisine & Co Manzana y Canela 45g,,45.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,131.11111111111111
+Café Instantáneo Cuisine & Co Clásico 50g,,50.0,g,5.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,118.0
+Avena con Chocolate SANTA CATALINA Bolsa 150g,SANTA CATALINA,150.0,g,5.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,39.333333333333336
+Avena Premium 3 Ositos 250g,,250.0,g,5.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,23.6
+Avena Instantánea Cuisine & Co Manzana y Canela 45g,,45.0,g,5.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,131.11111111111111
+Avena Clásica 3 OSITOS Bolsa 500gr,3 Ositos,500.0,g,6.0,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,12.0
+Avena SANTA CATALINA con Quinua Bolsa 280g,SANTA CATALINA,280.0,g,6.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,22.142857142857142
+Kiwicha Avena SANTA CATALINA Bolsa 280g,SANTA CATALINA,280.0,g,6.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,22.142857142857142
+Avena Premium 3 Ositos 250g,,250.0,g,6.2,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,24.8
+Avena Reforzada Quinua Santa Catalina 280g,,280.0,g,6.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,22.142857142857142
+Avena con Algarrobina Santa Catalina 280g,,280.0,g,6.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,22.142857142857142
+Avena Cereal Andino 270 g,,270.0,g,6.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,24.074074074074073
+Avena con Cereales Andinos Premium 3 OSITOS Bolsa 270g,3 OSITOS,270.0,g,6.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,24.074074074074073
+Avena MILLER'S en Hojuelas sabor Natural Doypack 350g,MILLER´S,350.0,g,6.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,18.571428571428573
+Avena Precocida Santa Catalina Bolsa 500 g,,500.0,g,6.7,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,13.4
+Avena Precocida Santa Catalina Bolsa 500 g,,500.0,g,6.7,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,13.4
+Café Instantáneo Cuisine & Co Puro 50g,,50.0,g,6.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,138.0
+Avena QUAKER Tradicional Bolsa 500gr,Quaker,500.0,g,7.2,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,14.4
+Avena Instantánea BELL'S Chocolate Bolsa 270g,BELL'S,270.0,g,7.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,27.777777777777775
+Avena TIMONEL Precocida e Instantanea Bolsa 900g,Timonel,900.0,g,7.5,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,8.333333333333334
+Avena Instantánea BELL'S Manzana y Canela Bolsa 270g,BELL'S,270.0,g,7.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,27.777777777777775
+Avena Precocida 3 Ositos 500g,,500.0,g,7.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,15.8
+Avena Precocida 3 Ositos 500g,,500.0,g,7.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,15.8
+Café Instantáneo Altomayo Clásico 45g,,45.0,g,8.1,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.99999999999997
+Café Instantáneo Kirma Clásico 45g,,45.0,g,8.3,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,184.44444444444446
+Avena con Maca Quaker 330g,,330.0,g,8.4,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,25.454545454545457
+Avena QUAKER Tradicional Bolsa 500g,QUAKER,500.0,g,8.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,17.0
+Avena QUAKER con Chía y Algarrobo Bolsa 330g,QUAKER,330.0,g,8.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,25.757575757575758
+Avena QUAKER con Maca Bolsa 330g,QUAKER,330.0,g,8.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,25.757575757575758
+Avena Quaker Tradicional 500g,,500.0,g,8.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,17.0
+Avena con Quinua Quaker 330g,,330.0,g,8.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,26.96969696969697
+Avena QUAKER con sabor a Chocolate Bolsa 290g,QUAKER,290.0,g,8.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,30.689655172413797
+Avena Tradicional Quaker Sabor a Chocolate 290g,,290.0,g,8.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,30.689655172413797
+Avena Tradicional Quaker Sabor a Chocolate 290g,,290.0,g,8.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,30.689655172413797
+Avena con Quinua QUAKER Bolsa 330g,QUAKER,330.0,g,8.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,26.96969696969697
+Avena con Quinua Quaker 330g,,330.0,g,8.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,26.96969696969697
+Avena Instantánea Quaker Original 350g,,350.0,g,8.99,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,25.685714285714287
+Avena con Chía y Algarrobo Quaker 330g,,330.0,g,9.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,27.878787878787875
+Avena Precocida BELL'S Bolsa 1Kg,BELL'S,1.0,kg,9.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,9.2
+Avena con Chía y Algarrobo Quaker 330g,,330.0,g,9.2,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,27.878787878787875
+Avena BELL'S Bolsa 1Kg,BELL'S,1.0,kg,9.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,9.2
+Avena QUAKER Hojuelas de Avena Instantánea Caja 350g,QUAKER,350.0,g,9.29,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,26.54285714285714
+Avena Clásica 3 OSITOS Bolsa 500g,3 OSITOS,500.0,g,9.3,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,18.6
+Avena Instantánea Quaker Original 350g,,350.0,g,9.4,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,26.857142857142858
+Avena 3 OSITOS Premium 900g,3 Ositos,900.0,g,9.5,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,10.555555555555555
+Avena Natural SANTA CATALINA Bolsa 900g,SANTA CATALINA,900.0,g,9.5,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,10.555555555555555
+Avena NATURANDES 7 Semillas Doypack 240g,NATURANDES,240.0,g,9.6,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,40.0
+Avena Natural Santa Catalina 900g,,900.0,g,9.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,11.0
+Avena Mix AMARU FOODS Chocoplátano Doypack 400g,AMARU,400.0,g,9.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,24.75
+Tripack Jabón en Barra Palmolive Avena y Azúcar Morena 110g,,110.0,g,9.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,90.00000000000001
+Avena Tradicional Cuisine & Co 1kg,,1.0,kg,9.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,9.9
+Avena Mix AMARU FOODS Lucumango Doypack 400g,AMARU,400.0,g,9.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,24.75
+Avena Tradicional Cuisine & Co 1kg,,1.0,kg,9.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,9.9
+Avena con Quinua Santa Catalina 500g,,500.0,g,10.3,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,20.6
+Avena con Quinua Santa Catalina 500g,,500.0,g,10.3,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,20.6
+Avena GRANO DE ORO Bolsa 1kg,Grano De Oro,1.0,kg,10.5,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,10.5
+Avena con Quinua 3 OSITOS Premium 900g,3 Ositos,900.0,g,10.69,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,11.877777777777778
+Tripack Jabón en Barra Protex Avena 110g,,110.0,g,10.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,99.09090909090911
+Granola Almendras y Pasas Cuisine & Co 300g,,300.0,g,10.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,36.333333333333336
+Granola Frutos del Bosque Cuisine & Co 300g,,300.0,g,10.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,36.333333333333336
+Granola Trozos de Chocolate Cuisine & Co 300g,,300.0,g,10.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,36.333333333333336
+Avena SANTA CATALINA Bolsa 900g,Santa Catalina,900.0,g,11.0,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,12.222222222222223
+Jabón en Barra PALMOLIVE Avena y Azucar 3x120g,PALMOLIVE,120.0,g,11.1,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,92.5
+Hojuelas de Avena Integral Sin Gluten Mi Tierra Bolsa 400 g,,400.0,g,11.3,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,28.25
+Avena Integral MI TIERRA sin Gluten Bolsa 400g,MI TIERRA,400.0,g,11.3,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,28.25
+Avena Precocida 3 Ositos 900g,,900.0,g,11.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,12.777777777777779
+Avena Precocida 3 Ositos 900g,,900.0,g,11.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,12.777777777777779
+Avena QUAKER Original Bolsa 900gr,Quaker,900.0,g,11.5,vega,2024-12-05 11:41:29.179161,AVENA ENVASADA,1.0,kg,12.777777777777779
+Café Molido Altomayo Clásico 200g,,200.0,g,11.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,58.0
+Harina de Avena sin Gluten Mi Tierra Bolsa 400 g,,400.0,g,11.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,29.75
+"Avena Quaker Multisemillas Linaza, Cañihua y Chía 450g",,450.0,g,12.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,27.11111111111111
+Café Instantáneo Altomayo Clásico 80g,,80.0,g,12.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,156.25
+Café Molido y Tostado Cuisine & Co 220g,,220.0,g,12.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,56.81818181818182
+Avena Natural Santa Catalina 900g,,900.0,g,12.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,14.0
+Avena Quaker Tradicional 900g,,900.0,g,12.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,14.333333333333334
+Cereales Angel Life Cero 300g,,300.0,g,12.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,43.0
+Café Sello Rojo Contenido 212 g,,212.0,g,12.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,60.84905660377359
+Pan de Molde UNIÓN Multisemillas y Avena Bolsa 540g,UNIÓN,540.0,g,13.2,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,24.44444444444444
+Pan de Molde Unión Multisemillas con Avena 540g,,540.0,g,13.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,25.185185185185183
+Café Instantáneo Granulado Cuisine & Co 100g,,100.0,g,13.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,139.0
+Cereal de Maíz Corn Flakes 405g,,405.0,g,13.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,34.32098765432099
+"Granola Crosoy Manzana, Canela y Pecanas 380g",,380.0,g,14.4,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,37.89473684210527
+Avena Quaker Tradicional 900g,,900.0,g,14.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,16.11111111111111
+Café Instantáneo Nescafé Tradición 50g,,50.0,g,14.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,298.0
+Avena con Quinua Quaker 850g,,850.0,g,14.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,17.529411764705884
+Cereal de Trigo Integral Fitness Original 285g,,285.0,g,14.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,52.28070175438597
+Granola con Miel de Abeja Unión Doypack 400g,,400.0,g,15.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,38.75
+Café Tostado y Molido Blend Caffé 250g,,250.0,g,15.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,62.0
+Cereal Cuisine & Co Fruty Color Sin Gluten 350g,,350.0,g,15.7,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,44.857142857142854
+Cereal de Avena y Arroz Cuisine & Co 350g,,350.0,g,15.7,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,44.857142857142854
+Quinua Avena 3 Ositos 900g,,900.0,g,15.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,17.666666666666668
+Granola con Granos Andinos Unión Doypack 280g,,280.0,g,15.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,56.785714285714285
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",,200.0,g,15.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,79.5
+Café Instantáneo Cafetal Clásico 150g,,150.0,g,15.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,106.0
+Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa 420g,ANGEL,420.0,g,16.1,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,38.333333333333336
+"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela 30g",,30.0,g,16.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,540.0
+Avena Mix Canela y Berries Amaru 400g,,400.0,g,16.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,41.25
+Granola con Pasas y Almendras Unión Doypack 400g,,400.0,g,16.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,41.25
+Hojuelas de Maíz Kellogg's Corn Flakes 410g,,410.0,g,16.8,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,40.97560975609756
+Cereal Angel Meli Bolsa 420 g,,420.0,g,16.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,40.238095238095234
+Café Instantáneo Nescafé Descafeinado 40g,,40.0,g,16.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,422.49999999999994
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",,350.0,g,16.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,48.285714285714285
+Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 420g,,420.0,g,16.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,40.238095238095234
+Cereal Tito Almohada Angel Chocolate Bolsa 350 g,,350.0,g,17.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,50.0
+Avena Integral en Hojuelas Grano de Oro 900g,,900.0,g,17.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,19.444444444444446
+Café Instantáneo Altomayo Premium 45g,,45.0,g,17.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,395.55555555555554
+Café Molido Cuisine & Co Blend Peruano 200g,,200.0,g,17.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,89.5
+Avena Mix MAMALAMA Aguaymanto Linaza Doypack 500g,MAMALAMA,500.0,g,17.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,35.8
+Avena con Hojuela sin Gluten LA PURITA Bolsa 800g,LA PURITA,800.0,g,18.0,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,22.5
+Cereal de Trigo Integral Fitness Miel y Almendras 330g,,330.0,g,18.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,57.272727272727266
+Café Instantáneo Altomayo Clásico 150g,,150.0,g,18.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,126.0
+Café Molido Artidoro Rodríguez Perú Blend 200g,,200.0,g,18.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,94.5
+Sixpack Jabón en Barra Palmolive Avena y Azúcar Morena 110g,,110.0,g,19.2,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,174.54545454545456
+Café Molido Altomayo Gourmet 200g,,200.0,g,19.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,99.5
+Café Molido y Tostado Cuisine & Co 500g,,500.0,g,19.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,39.8
+Jabón Antibacterial Avena Barra 110 g Pack 6 unid,,110.0,g,19.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,180.9090909090909
+"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja 240 gr",,240.0,g,20.1,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,83.75000000000001
+Avena Mix MAMALAMA Cacao + Maca do 500g,MAMALAMA,500.0,g,20.3,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,40.6
+Cereales Bañados con Chocolate Choco Yogurt 2 Cerritos Caja 350 gr,,350.0,g,20.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,58.57142857142857
+Granola Berries Wasi Contenido 300 g,,300.0,g,20.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,68.66666666666667
+Cereal Expandido Protein Bites Cacao Orgánico Caja 240 g,,240.0,g,20.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,85.83333333333334
+Café Instantáneo Altomayo Gourmet 90g,,90.0,g,20.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,228.88888888888889
+Café Molido Cafetal Gourmet Americano 200g,,200.0,g,20.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,104.0
+Café Molido Cafetal Gourmet Espresso 200g,,200.0,g,20.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,104.0
+Café Molido Cafetal Selecto 454g,,454.0,g,20.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,46.03524229074889
+Avena Mix Mamalama Cacao Maca 500g,,500.0,g,20.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,41.8
+Cereal Chocapic Nestlé 350g,,350.0,g,21.3,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,60.85714285714286
+Café Instantáneo Kirma Clásico 190g,,190.0,g,21.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,115.26315789473685
+Café Instantáneo Nescafé Gold 50g,,50.0,g,22.1,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,442.0
+Cereales Angel Life Protein Contenido 560 g,,560.0,g,22.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,40.357142857142854
+Cereales Angel Life Fibra Contenido 560 g,,560.0,g,22.6,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,40.357142857142854
+Avena Mix MAMALAMA Cranberry con Chía Doypack 500g,MAMALAMA,500.0,g,22.8,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,45.6
+Café Instantáneo Kirma Clásico 150g,,150.0,g,22.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,152.66666666666666
+Café Instantáneo Altomayo Clásico 170g,,170.0,g,22.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,134.70588235294116
+Cereal Chocapic 540g,,540.0,g,22.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,42.4074074074074
+Café Instantáneo Cafetal Clásico 180g,,180.0,g,23.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,130.55555555555554
+Avena Quinua Vitalmax Incasur 500g,,500.0,g,23.7,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,47.4
+Avena Cacao y Almendras Vitalmax Incasur 500g,,500.0,g,23.7,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,47.4
+Café Molido Leyenda Mocca 250g,,250.0,g,23.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,95.6
+Café Molido Leyenda Vainilla 250g,,250.0,g,23.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,95.6
+Cereal Copix con Marshmallows Bolsa 740 g,,740.0,g,24.4,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,32.97297297297297
+Cereal Zuck Bolsa 1 Kg,,1.0,kg,24.4,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,24.4
+Café Molido Altomayo Clásico 450g,,450.0,g,24.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,55.333333333333336
+Cereal de Trigo Integral Fitness Original 570g,,570.0,g,24.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,43.68421052631579
+Café Instantáneo Nescafé Tradición 170g + Mezcla Láctea Ideal Cremosita Lata 390g,,170.0,g,25.0,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,147.05882352941174
+Café Sello Rojo Contenido 425 g,,425.0,g,25.3,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,59.529411764705884
+Granola Huella Verde Chocolate Quinoa 400g,,400.0,g,25.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,64.75
+Granola Huella Verde The Skinny Mood 400g,,400.0,g,25.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,64.75
+Café en Grano Altomayo Gourmet 250g,,250.0,g,26.4,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,105.6
+Avena Fitness Naturandes 600g,,600.0,g,26.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,44.16666666666667
+Avena Proteína NATURANDES Doypack 600g,NATURANDES,600.0,g,26.9,vivanda,2024-12-05 21:30:25.305646,AVENA ENVASADA,1.0,kg,44.833333333333336
+Café Instantáneo Altomayo Gourmet 150g,,150.0,g,27.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,183.33333333333334
+Café Instantáneo Colcafé Clásico Frasco 170 g,,170.0,g,27.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,164.1176470588235
+Café Instantáneo Kirma Clásico 250g,,250.0,g,27.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,111.6
+Café Instantáneo Granulado Descafeinado Cuisine & Co 180g,,180.0,g,27.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,155.0
+Avena Mix con Quinua y Maca Huella Verde 600g,,600.0,g,28.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,47.5
+Avena Mix con Quinua y Maca Huella Verde 600g,,600.0,g,28.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,47.5
+Avena Mix con Chía y Berries Huella Verde 600g,,600.0,g,28.5,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,47.5
+Café Instantáneo Altomayo Gourmet 170g,,170.0,g,28.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,169.99999999999997
+Café Instantáneo Jacobs 95g,,95.0,g,28.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,304.2105263157895
+Café Instantáneo Altomayo Clásico 190g,,190.0,g,30.2,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,158.94736842105263
+Café Molido Tostado Medio Villa Rica Exótico Doypack 250 g,,250.0,g,30.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,122.0
+Café Instantáneo Nescafé Fina Selección 200g,,200.0,g,30.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,152.5
+Café Instantáneo Liofilizado Cafetal 180g,,180.0,g,30.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,170.0
+Café Instantáneo Nescafé Tradición 170g,,170.0,g,31.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,185.2941176470588
+Café Instantáneo Nescafé Tradición 250g,,250.0,g,34.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,139.6
+Café Molido Cafetal Gourmet Americano 450g,,450.0,g,36.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,81.33333333333334
+Café Instantáneo Descafeinado Altomayo 170g,,170.0,g,36.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,217.05882352941174
+Café Molido Altomayo Gourmet 450g,,450.0,g,36.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,82.0
+Café Instantáneo Altomayo Premium 170g,,170.0,g,39.8,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,234.1176470588235
+Cereal Capitán Crunch Original Caja 360 g,,360.0,g,39.9,wong,2024-12-05 17:36:09.719595,AVENA ENVASADA,1.0,kg,110.83333333333333
+Café Instantáneo Altomayo Gourmet 190g,,190.0,g,40.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,215.26315789473685
+Café Instantáneo Nescafé Descafeinado 170g,,170.0,g,41.1,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,241.76470588235293
+Café Instantáneo Nescafé Gold 200g,,200.0,g,43.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,219.5
+Café en Grano Tueste Oscuro Britt 250g,,250.0,g,44.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.6
+Café Molido Britt Valle Sagrado 250g,,250.0,g,44.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.6
+Café Molido Tueste Oscuro Britt 250g,,250.0,g,44.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.6
+Café Molido Britt Pachamama 250g,,250.0,g,44.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.6
+Café en Grano Orgánico Pachamama Britt 250g,,250.0,g,44.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,179.6
+Café Molido Cafetal Selecto 900g,,900.0,g,46.5,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,51.66666666666667
+Café Molido Sello Rojo 850g,,850.0,g,48.3,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,56.8235294117647
+Café Instantáneo Nescafé Tradición Lata 500 g,,500.0,g,64.6,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,129.2
+Café en Grano Lucaffé Espresso 700g,,700.0,g,66.9,metro,2024-12-05 15:09:00.019098,AVENA ENVASADA,1.0,kg,95.57142857142858

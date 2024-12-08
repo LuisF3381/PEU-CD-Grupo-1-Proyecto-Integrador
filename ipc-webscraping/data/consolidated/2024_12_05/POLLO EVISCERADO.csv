@@ -1,160 +1,119 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Sopa Instantánea Ajinomen Sabor Pollo 80g,S/ 1.60,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,80.0,g,Sopa Instantánea Ajinomen Sabor Pollo,1.6,wong,,POLLO EVISCERADO
-Paté de Hígado de Pollo San Fernando 100 g,S/ 3.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,100.0,g,Paté de Hígado de Pollo San Fernando,3.9,wong,,POLLO EVISCERADO
-Empanada de Pollo De La Casa x un,S/ 4.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Empanada de Pollo De La Casa,4.9,wong,,POLLO EVISCERADO
-Tamal de Pollo RECUTECU Empaque 180g,S/ 4.90,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,180.0,g,Tamal de Pollo RECUTECU Empaque,4.9,vivanda,RECUTECU,POLLO EVISCERADO
-Hot Dog de Pollo Ahumado San Fernando 220g,S/ 5.70,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,220.0,g,Hot Dog de Pollo Ahumado San Fernando,5.7,wong,,POLLO EVISCERADO
-Causa de Pollo LA FLORENCIA Bandeja 170g,S/ 6.00,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,170.0,g,Causa de Pollo LA FLORENCIA Bandeja,6.0,vivanda,LA FLORENCIA,POLLO EVISCERADO
-Tamal de Chincha de Pollo x un,S/ 7.40,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Tamal de Chincha de Pollo,7.4,wong,,POLLO EVISCERADO
-Tamal Chinchano de Pollo RECUTECU Paquete 400g,S/ 7.50,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,400.0,g,Tamal Chinchano de Pollo RECUTECU Paquete,7.5,vivanda,RECUTECU,POLLO EVISCERADO
-Tamal de Pollo De la Casa x unid,S/ 7.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Tamal de Pollo De la Casa,7.9,wong,,POLLO EVISCERADO
-Proteína de Soya BHAKTI NATURA Pollo Vegetariano Caja 150g,S/ 8.00,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,150.0,g,Proteína de Soya BHAKTI NATURA Pollo Vegetariano Caja,8.0,vivanda,BHAKTI NATURA,POLLO EVISCERADO
-Pierna de Pollo Importada x kg,S/ 8.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna de Pollo Importada,8.9,wong,,POLLO EVISCERADO
-Lunch Arroz Chaufa de Pollo LA FLORENCIA 500g,S/ 8.90,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,500.0,g,Lunch Arroz Chaufa de Pollo LA FLORENCIA,8.9,vivanda,LA FLORENCIA,POLLO EVISCERADO
-Hígado de Pollo x kg,S/ 8.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Hígado de Pollo,8.9,wong,,POLLO EVISCERADO
-Pierna de Pollo Importada x kg,S/ 8.90 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pierna de Pollo Importada,8.9,metro,,POLLO EVISCERADO
-Pollo Entero Fresco Metro x kg,S/ 9.40 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Entero Fresco Metro,9.4,metro,,POLLO EVISCERADO
-Nuggets de Pollo con Brócoli AVINKA Bolsa 15un,S/ 9.50,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,15.0,un,Nuggets de Pollo con Brócoli AVINKA Bolsa,9.5,vivanda,AVINKA,POLLO EVISCERADO
-Hot Dog Ahumado de Pollo SAN FERNANDO Paquete 440g,S/ 10.00,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,440.0,g,Hot Dog Ahumado de Pollo SAN FERNANDO Paquete,10.0,vivanda,SAN FERNANDO,POLLO EVISCERADO
-Pollo con Menudencia Redondos x kg,S/ 10.25 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo con Menudencia Redondos,10.25,metro,,POLLO EVISCERADO
-Pollo Fresco con Menudencia San Fernando x Kg,S/ 10.45 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Fresco con Menudencia San Fernando,10.45,wong,,POLLO EVISCERADO
-Pollo Fresco con Menudencia San Fernando x Kg,S/ 10.45 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Fresco con Menudencia San Fernando,10.45,metro,,POLLO EVISCERADO
-Pollo Chijaukay con Chaufa Cuisine & Co 400g,S/ 10.56,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Pollo Chijaukay con Chaufa Cuisine & Co,10.56,metro,,POLLO EVISCERADO
-Pollo Entero con Menudencia Avinka x kg,S/ 10.65 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Entero con Menudencia Avinka,10.65,wong,,POLLO EVISCERADO
-Nuggets de Pollo con Quinua Avinka 15un,S/ 10.99,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,15.0,un,Nuggets de Pollo con Quinua Avinka,10.99,wong,,POLLO EVISCERADO
-Pollo al Horno con Puré y Arroz Cuisine & Co 400g,S/ 11.12,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Pollo al Horno con Puré y Arroz Cuisine & Co,11.12,metro,,POLLO EVISCERADO
-Dedos de Pollo AVINKA 270g Bolsa 12un x 270g,S/ 11.50,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,270.0,g,Dedos de Pollo AVINKA  Bolsa  x,11.5,vivanda,AVINKA,POLLO EVISCERADO
-Pollo Entero sin Menudencia x kg,S/ 11.70 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Entero sin Menudencia,11.7,wong,,POLLO EVISCERADO
-Pollo Entero Sin Menudencia Redondos x kg,S/ 11.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Entero Sin Menudencia Redondos,11.9,wong,,POLLO EVISCERADO
-Pollo Entero Sin Menudencia Redondos x kg,S/ 11.90 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Entero Sin Menudencia Redondos,11.9,metro,,POLLO EVISCERADO
-Lunch Ají de Pollo LA FLORENCIA 450g,S/ 12.90,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,450.0,g,Lunch Ají de Pollo LA FLORENCIA,12.9,vivanda,LA FLORENCIA,POLLO EVISCERADO
-Pollo Deshilachado con Mayonesa Bolsa 250 g,S/ 12.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,250.0,g,Pollo Deshilachado con Mayonesa Bolsa,12.9,wong,,POLLO EVISCERADO
-Deditos de Pollo Avinka 12un,S/ 12.99,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,12.0,un,Deditos de Pollo Avinka,12.99,wong,,POLLO EVISCERADO
-Empanada de Pollo LA FLORENCIA Paquete 4un,S/ 13.20,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,4.0,un,Empanada de Pollo LA FLORENCIA Paquete,13.2,vivanda,LA FLORENCIA,POLLO EVISCERADO
-Tallarín Saltado con Pollo HOME CHEF 450g,S/ 13.20,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,450.0,g,Tallarín Saltado con Pollo HOME CHEF,13.2,vivanda,HOME CHEF,POLLO EVISCERADO
-Pechuga de Pollo en Salsa de Champiñones HOME CHEF 450g,S/ 13.20,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,450.0,g,Pechuga de Pollo en Salsa de Champiñones HOME CHEF,13.2,vivanda,HOME CHEF,POLLO EVISCERADO
-Pollo Deshilachado Bolsa 250 g,S/ 13.50,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,250.0,g,Pollo Deshilachado Bolsa,13.5,metro,,POLLO EVISCERADO
-Pollo Entero sin Menudencia Congelado PERDIX 1300g,S/ 13.90,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,1300.0,g,Pollo Entero sin Menudencia Congelado PERDIX,13.9,vivanda,PERDIX,POLLO EVISCERADO
-Pollo Deshilachado Bolsa 250 g,S/ 13.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,250.0,g,Pollo Deshilachado Bolsa,13.9,wong,,POLLO EVISCERADO
-Pierna con Encuentro de Pollo Congelado San Fernando x kg,S/ 13.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna con Encuentro de Pollo Congelado San Fernando,13.9,wong,,POLLO EVISCERADO
-Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,S/ 13.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Pollo Tipakay con Arroz Chaufa Cuisine & Co,13.9,metro,,POLLO EVISCERADO
-Molleja de Pollo x kg,S/ 13.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Molleja de Pollo,13.9,wong,,POLLO EVISCERADO
-Siu Mai DELI FREEZE de Pollo Caja 12un,S/ 13.99,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,12.0,un,Siu Mai DELI FREEZE de Pollo Caja,13.99,vivanda,DELIFREEZE,POLLO EVISCERADO
-Verduras para Arroz con Pollo Wong Bandeja 200g,S/ 14.00,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,200.0,g,Verduras para Arroz con Pollo Wong Bandeja,14.0,wong,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo OREGON FOODS Bolsa 15un,S/ 14.40,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,15.0,un,Nuggets de Pechuga de Pollo OREGON FOODS Bolsa,14.4,vivanda,OREGON FOODS,POLLO EVISCERADO
-Pollo Chijaukay con Chaufa Cuisine & Co 400g,S/ 14.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,400.0,g,Pollo Chijaukay con Chaufa Cuisine & Co,14.5,wong,,POLLO EVISCERADO
-Pollo Enrollado con Salsa y Arroz Blanco Cuisine & Co 400g,S/ 14.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,400.0,g,Pollo Enrollado con Salsa y Arroz Blanco Cuisine & Co,14.5,wong,,POLLO EVISCERADO
-Pechuga con Ala de Pollo x kg,S/ 14.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pechuga con Ala de Pollo,14.5,wong,,POLLO EVISCERADO
-Pierna con Encuentro de Pollo x kg,S/ 14.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna con Encuentro de Pollo,14.5,wong,,POLLO EVISCERADO
-Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,S/ 14.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,400.0,g,Pollo Tipakay con Arroz Chaufa Cuisine & Co,14.5,wong,,POLLO EVISCERADO
-Pechuga Especial Importada x kg,S/ 14.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pechuga Especial Importada,14.5,wong,,POLLO EVISCERADO
-Pierna con Encuentro de Pollo Redondos x kg,S/ 14.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pierna con Encuentro de Pollo Redondos,14.5,metro,,POLLO EVISCERADO
-Pollo al Horno San Fernando Bolsa 800 g / Medio pollo en 4 Piezas,S/ 14.60,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,800.0,g,Pollo al Horno San Fernando Bolsa  / Medio pollo en 4 Piezas,14.6,wong,,POLLO EVISCERADO
-Pollo Oriental San Fernando Bolsa 800 g / Medio Pollo en 4 Piezas,S/ 14.60,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,800.0,g,Pollo Oriental San Fernando Bolsa  / Medio Pollo en 4 Piezas,14.6,wong,,POLLO EVISCERADO
-Pollo al Horno San Fernando Bolsa 800 g / Medio pollo en 4 Piezas,S/ 14.60,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,800.0,g,Pollo al Horno San Fernando Bolsa  / Medio pollo en 4 Piezas,14.6,metro,,POLLO EVISCERADO
-Pollo Oriental San Fernando Bolsa 800 g / Medio Pollo en 4 Piezas,S/ 14.60,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,800.0,g,Pollo Oriental San Fernando Bolsa  / Medio Pollo en 4 Piezas,14.6,metro,,POLLO EVISCERADO
-Pollo Entero Light x kg,S/ 14.70 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Entero Light,14.7,wong,,POLLO EVISCERADO
-Tiras de Pechuga de Pollo Bolsa 300 g,S/ 14.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,300.0,g,Tiras de Pechuga de Pollo Bolsa,14.9,wong,,POLLO EVISCERADO
-Pollo Entero Congelado PERDIX Bolsa 1400g,S/ 15.20,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,1400.0,g,Pollo Entero Congelado PERDIX Bolsa,15.2,vivanda,PERDIX,POLLO EVISCERADO
-Pechuga Entera de Pollo Redondos x kg,S/ 15.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pechuga Entera de Pollo Redondos,15.5,metro,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo San Fernando 24un,S/ 15.80,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,24.0,un,Nuggets de Pechuga de Pollo San Fernando,15.8,metro,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo San Fernando 24un,S/ 15.80,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,24.0,un,Nuggets de Pechuga de Pollo San Fernando,15.8,wong,,POLLO EVISCERADO
-Pierna Especial de Pollo x kg,S/ 15.95 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna Especial de Pollo,15.95,wong,,POLLO EVISCERADO
-Nuggets de Pechuga Pollo Oregon Foods 330g,S/ 16.00,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,330.0,g,Nuggets de Pechuga Pollo Oregon Foods,16.0,wong,,POLLO EVISCERADO
-Alas Pollo Congeladas San Fernando x kg,S/ 16.30 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Alas Pollo Congeladas San Fernando,16.3,wong,,POLLO EVISCERADO
-Muslo de de Pollo Redondos x kg,S/ 16.49 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Muslo de de Pollo Redondos,16.49,metro,,POLLO EVISCERADO
-Pierna o Encuentro de Pollo x kg,S/ 16.49 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna o Encuentro de Pollo,16.49,wong,,POLLO EVISCERADO
-Filete de Pechuga Importado x kg,S/ 16.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pechuga Importado,16.5,wong,,POLLO EVISCERADO
-Filete de Pechuga Importado x kg,S/ 16.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Filete de Pechuga Importado,16.5,metro,,POLLO EVISCERADO
-Pollo Fresco Sin Menudencia Artisan Libre de Antibióticos x kg,S/ 16.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Fresco Sin Menudencia Artisan Libre de Antibióticos,16.5,wong,,POLLO EVISCERADO
-Muslo de Pollo Congelado San Fernando x kg,S/ 16.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Muslo de Pollo Congelado San Fernando,16.5,wong,,POLLO EVISCERADO
-Muslo de Pollo Congelado San Fernando x kg,S/ 16.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Muslo de Pollo Congelado San Fernando,16.5,metro,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo Redondos 36un,S/ 16.60,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,36.0,un,Nuggets de Pechuga de Pollo Redondos,16.6,metro,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo Redondos 36un,S/ 16.60,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,36.0,un,Nuggets de Pechuga de Pollo Redondos,16.6,wong,,POLLO EVISCERADO
-Chicharrón de Pollo AVINKA Bolsa 350g,S/ 16.70,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,350.0,g,Chicharrón de Pollo AVINKA Bolsa,16.7,vivanda,AVINKA,POLLO EVISCERADO
-Pollo Pollada San Fernando Bolsa 800 g / 2 Cuartos de Pollo,S/ 17.20,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,800.0,g,Pollo Pollada San Fernando Bolsa  / 2 Cuartos de Pollo,17.2,metro,,POLLO EVISCERADO
-Nuggets de Pechuga de Pollo Cuisine & Co 480g,S/ 17.20,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,480.0,g,Nuggets de Pechuga de Pollo Cuisine & Co,17.2,wong,,POLLO EVISCERADO
-Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Al Horno Bolsa 800g,S/ 17.30,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,800.0,g,Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Al Horno Bolsa,17.3,vivanda,SAN FERNANDO,POLLO EVISCERADO
-Pechuga Especial de Pollo Redondos x kg,S/ 17.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pechuga Especial de Pollo Redondos,17.5,metro,,POLLO EVISCERADO
-Piernitas de Alas de Pollo x kg,S/ 17.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Piernitas de Alas de Pollo,17.5,wong,,POLLO EVISCERADO
-Pechuga Especial de Pollo x kg,S/ 17.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pechuga Especial de Pollo,17.5,wong,,POLLO EVISCERADO
-Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Pollada Bolsa 800g,S/ 17.70,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,800.0,g,Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Pollada Bolsa,17.7,vivanda,SAN FERNANDO,POLLO EVISCERADO
-Pollo Sabor Pachamanca Redondos 780g,S/ 17.89,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,780.0,g,Pollo Sabor Pachamanca Redondos,17.89,metro,,POLLO EVISCERADO
-Pollo Sabor Oriental Redondos 780g,S/ 17.89,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,780.0,g,Pollo Sabor Oriental Redondos,17.89,metro,,POLLO EVISCERADO
-Pollo Sabor Estofado Redondos 780g,S/ 17.89,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,780.0,g,Pollo Sabor Estofado Redondos,17.89,wong,,POLLO EVISCERADO
-Pollo Sabor Criollo Redondos 780g,S/ 17.89,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,780.0,g,Pollo Sabor Criollo Redondos,17.89,wong,,POLLO EVISCERADO
-Pollo Sabor Oriental Redondos 780g,S/ 17.89,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,780.0,g,Pollo Sabor Oriental Redondos,17.89,wong,,POLLO EVISCERADO
-Pollo Sabor Estofado Redondos 780g,S/ 17.89,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,780.0,g,Pollo Sabor Estofado Redondos,17.89,metro,,POLLO EVISCERADO
-Pollo Teriyaki Wong Ready Con Arroz Oriental Bandeja 370 g,S/ 17.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,370.0,g,Pollo Teriyaki Wong Ready Con Arroz Oriental Bandeja,17.9,wong,,POLLO EVISCERADO
-Patas de Pollo Rambala Deshidratada 20un,S/ 18.30,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,20.0,un,Patas de Pollo Rambala Deshidratada,18.3,wong,,POLLO EVISCERADO
-Pierna de Pollo Light x kg,S/ 18.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pierna de Pollo Light,18.5,wong,,POLLO EVISCERADO
-Pechuga de Pollo Light x kg,S/ 19.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pechuga de Pollo Light,19.5,wong,,POLLO EVISCERADO
-Encuentro Especial Light de Pollo x kg,S/ 19.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Encuentro Especial Light de Pollo,19.9,wong,,POLLO EVISCERADO
-Pollo Entero Aderezo Leña REDONDOS Paquete 1Kg,S/ 20.30,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,1.0,kg,Pollo Entero Aderezo Leña REDONDOS Paquete,20.3,vivanda,REDONDOS,POLLO EVISCERADO
-Pollito Sabor Leña Redondos x Unid,S/ 20.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Pollito Sabor Leña Redondos,20.9,wong,,POLLO EVISCERADO
-Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,S/ 21.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.4,kg,Pollo Entero Marinado Sazón Brasa San Fernando,21.9,metro,,POLLO EVISCERADO
-Pollo Rostizado 1un,S/ 22.80,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,1.0,un,Pollo Rostizado,22.8,vivanda,VIVANDA,POLLO EVISCERADO
-Filete de Pierna de Pollo x kg,S/ 22.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pierna de Pollo,22.9,wong,,POLLO EVISCERADO
-Filete de Pechuga de Pollo x kg,S/ 24.00 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pechuga de Pollo,24.0,wong,,POLLO EVISCERADO
-Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,S/ 24.40,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.4,kg,Pollo Entero Marinado Sazón Brasa San Fernando,24.4,wong,,POLLO EVISCERADO
-Filete de Pejerrey de Pollo x kg,S/ 25.40 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pejerrey de Pollo,25.4,wong,,POLLO EVISCERADO
-Filete de Pechuga Pollo Redondos x kg,S/ 25.40 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Filete de Pechuga Pollo Redondos,25.4,metro,,POLLO EVISCERADO
-Milanesa de Pollo AVINKA Bolsa 4un,S/ 25.70,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,4.0,un,Milanesa de Pollo AVINKA Bolsa,25.7,vivanda,AVINKA,POLLO EVISCERADO
-Pollo Rostizado Sin Papas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 26.50,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.5,l,Pollo Rostizado Sin Papas + Gaseosa Inca Kola Sin Azúcar,26.5,metro,,POLLO EVISCERADO
-Filete de Pechuga de Pollo Congelada San Fernando x kg,S/ 26.70 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Filete de Pechuga de Pollo Congelada San Fernando,26.7,metro,,POLLO EVISCERADO
-Filete de Pechuga de Pollo Congelada San Fernando x kg,S/ 26.70 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pechuga de Pollo Congelada San Fernando,26.7,wong,,POLLO EVISCERADO
-Suprema de Pollo AVINKA Bolsa 4un,S/ 27.20,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,4.0,un,Suprema de Pollo AVINKA Bolsa,27.2,vivanda,AVINKA,POLLO EVISCERADO
-Alas de Pollo Artisan x Kg. Libre de Antibióticos,S/ 27.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Alas de Pollo Artisan . Libre de Antibióticos,27.5,wong,,POLLO EVISCERADO
-Milanesa de Pechuga de Pollo OREGAN FOODS Bolsa 4un,S/ 27.90,vivanda,POLLO EVISCERADO,2024-12-05 21:42:08.336357,4.0,un,Milanesa de Pechuga de Pollo OREGAN FOODS Bolsa,27.9,vivanda,OREGON FOODS,POLLO EVISCERADO
-Suprema de Pollo Avinka 4un,S/ 27.99,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,4.0,un,Suprema de Pollo Avinka,27.99,wong,,POLLO EVISCERADO
-Pollo Sabor Cilindro x un,S/ 28.50,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,un,Pollo Sabor Cilindro,28.5,metro,,POLLO EVISCERADO
-Suprema de Pollo x kg,S/ 28.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Suprema de Pollo,28.5,wong,,POLLO EVISCERADO
-Chicharrón de Pollo Cuisine & Co 450g,S/ 29.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,450.0,g,Chicharrón de Pollo Cuisine & Co,29.5,wong,,POLLO EVISCERADO
-Milanesa de Pollo x kg,S/ 29.99 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Milanesa de Pollo,29.99,wong,,POLLO EVISCERADO
-Piernas de Pollo Artisan x Kg. Libre de Antibióticos,S/ 31.20 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Piernas de Pollo Artisan . Libre de Antibióticos,31.2,wong,,POLLO EVISCERADO
-Muslos de Pollo Artisan x Kg. Libre de Antibióticos,S/ 31.40 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Muslos de Pollo Artisan . Libre de Antibióticos,31.4,wong,,POLLO EVISCERADO
-Milanesa de Pollo Oregon Foods 4un,S/ 31.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,4.0,un,Milanesa de Pollo Oregon Foods,31.9,wong,,POLLO EVISCERADO
-Milanesa de Pollo Redondos 1kg,S/ 32.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Milanesa de Pollo Redondos,32.9,wong,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Chicha Morada Naturale 1L,S/ 32.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,l,Pollo Rostizado + Papas Fritas + Chicha Morada Naturale,32.9,metro,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 33.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.5,l,Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar,33.9,metro,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Chicha Morada Naturale 1L,S/ 33.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,l,Pollo Rostizado + Papas Fritas + Chicha Morada Naturale,33.9,metro,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 33.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.5,l,Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar,33.9,metro,,POLLO EVISCERADO
-Pollo Enrollado con Verduras Redondos x un,S/ 34.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,un,Pollo Enrollado con Verduras Redondos,34.9,metro,,POLLO EVISCERADO
-Pollo Enrollado con Frutas Redondos x un,S/ 34.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,un,Pollo Enrollado con Frutas Redondos,34.9,metro,,POLLO EVISCERADO
-Pollo Enrollado Cordon Bleu Redondos x un,S/ 34.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,un,Pollo Enrollado Cordon Bleu Redondos,34.9,metro,,POLLO EVISCERADO
-Pollo Enrollado con Champiñones Redondos x un,S/ 34.90,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,un,Pollo Enrollado con Champiñones Redondos,34.9,metro,,POLLO EVISCERADO
-Pollo Enrollado con Frutas Redondos x un,S/ 35.40,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Pollo Enrollado con Frutas Redondos,35.4,wong,,POLLO EVISCERADO
-Pollo Enrollado Cordon Bleu Redondos x un,S/ 35.40,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Pollo Enrollado Cordon Bleu Redondos,35.4,wong,,POLLO EVISCERADO
-Pollo Enrollado con Verduras Redondos x un,S/ 35.40,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,un,Pollo Enrollado con Verduras Redondos,35.4,wong,,POLLO EVISCERADO
-Metro Pollo Entero + Porción de Papas x 400 g Delivery,S/ 35.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Metro Pollo Entero + Porción de Papas x  Delivery,35.99,metro,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Chicha Morada Naturale 1L,S/ 36.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,l,Pollo Rostizado + Papas Fritas + Chicha Morada Naturale,36.9,wong,,POLLO EVISCERADO
-Pollo con Frutas x kg,S/ 37.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo con Frutas,37.9,wong,,POLLO EVISCERADO
-Pollo Tipackay x kg,S/ 37.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Tipackay,37.9,wong,,POLLO EVISCERADO
-Pollo Enrollado con Verduras x kg,S/ 38.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Enrollado con Verduras,38.5,wong,,POLLO EVISCERADO
-Pollo Enrollado Jamon y Queso Sin Piel x kg,S/ 38.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Enrollado Jamon y Queso Sin Piel,38.5,metro,,POLLO EVISCERADO
-Pollo Enrollado Jamon y Queso Sin Piel x kg,S/ 38.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Enrollado Jamon y Queso Sin Piel,38.5,wong,,POLLO EVISCERADO
-"Pollo Enrollado con Jamón, Tocino y Guindones x kg",S/ 38.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,"Pollo Enrollado con Jamón, Tocino y Guindones",38.5,wong,,POLLO EVISCERADO
-Pollo Enrollado con Jamon y Queso x kg,S/ 38.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Enrollado con Jamon y Queso,38.5,metro,,POLLO EVISCERADO
-Pollo Enrollado con Jamon y Queso x kg,S/ 38.50 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Enrollado con Jamon y Queso,38.5,wong,,POLLO EVISCERADO
-Pollo Enrollado con Verduras x kg,S/ 38.50 x kg,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,kg,Pollo Enrollado con Verduras,38.5,metro,,POLLO EVISCERADO
-Suprema de Pollo Artisan 550g,S/ 39.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,550.0,g,Suprema de Pollo Artisan,39.5,wong,,POLLO EVISCERADO
-Pollo Rostizado + 1/4 Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 39.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.5,l,Pollo Rostizado + 1/4 Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar,39.99,metro,,POLLO EVISCERADO
-Pollo Enrollado De La Casa Surtido x kg,S/ 41.99 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Pollo Enrollado De La Casa Surtido,41.99,wong,,POLLO EVISCERADO
-Pollo Rostizado + Ensalada + Chicha Morada 1L,S/ 42.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,l,Pollo Rostizado + Ensalada + Chicha Morada,42.5,wong,,POLLO EVISCERADO
-Pollo Rostizado + Ensalada + Gaseosa1.5L,S/ 42.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.5,l,Pollo Rostizado + Ensalada + Gaseosa,42.5,wong,,POLLO EVISCERADO
-Metro Pollo Entero + Porción de Papas x 400 g + Gaseosa 1.5 Litro,S/ 42.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Metro Pollo Entero + Porción de Papas x  + Gaseosa itro,42.99,metro,,POLLO EVISCERADO
-Metro Pollo Entero + Porción de Papas x 400 g + Chicha Morada Naturale 1 Litro,S/ 42.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Metro Pollo Entero + Porción de Papas x  + Chicha Morada Naturale itro,42.99,metro,,POLLO EVISCERADO
-Filete de Pierna Artisan x Kg. Libre de Antibióticos,S/ 43.35 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pierna Artisan . Libre de Antibióticos,43.35,wong,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 44.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.5,l,Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa Inca Kola Sin Azúcar,44.99,metro,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada Naturale 1L,S/ 45.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,1.0,l,Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada Naturale,45.99,metro,,POLLO EVISCERADO
-Filete de Pechuga Artisan x Kg. Libre de Antibióticos,S/ 46.60 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pechuga Artisan . Libre de Antibióticos,46.6,wong,,POLLO EVISCERADO
-Tiras de Pollo Artisan x kg,S/ 46.90 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Tiras de Pollo Artisan,46.9,wong,,POLLO EVISCERADO
-Filete de Pejerrey Artisan x Kg. Libre de Antibióticos,S/ 47.79 x kg,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,kg,Filete de Pejerrey Artisan . Libre de Antibióticos,47.79,wong,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa 1.5L,S/ 47.99,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.5,l,Pollo Rostizado + Papas Fritas + Ensalada + Gaseosa,47.99,wong,,POLLO EVISCERADO
-Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada 1L,S/ 50.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,1.0,l,Pollo Rostizado + Papas Fritas + Ensalada + Chicha Morada,50.5,wong,,POLLO EVISCERADO
-Metro Pollo Entero + Porción de Papas x 400 g + Gaseosa 1.5 Litro + Ensalada,S/ 52.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,400.0,g,Metro Pollo Entero + Porción de Papas x  + Gaseosa itro + Ensalada,52.99,metro,,POLLO EVISCERADO
-2 Pollo Rostizado + 2un Papas Fritas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 59.99,metro,POLLO EVISCERADO,2024-12-05 15:30:18.488062,2.0,un,2 Pollo Rostizado +  Papas Fritas + Gaseosa Inca Kola Sin Azúcar,59.99,metro,,POLLO EVISCERADO
-Alimento para Gatos Esterilizados Purina One Pollo y Salmón 2kg,S/ 64.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,2.0,kg,Alimento para Gatos Esterilizados Purina One Pollo y Salmón,64.5,wong,,POLLO EVISCERADO
-Pollo Rostizado 2un + Papas Fritas 2un + Ensalada + Gaseosa 1.5L,S/ 80.99,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,2.0,un,Pollo Rostizado  + Papas Fritas  + Ensalada + Gaseosa,80.99,wong,,POLLO EVISCERADO
-Pollo Rostizado 2un + Papas Fritas 2un + Ensalada + Chicha Morada 1L,S/ 84.90,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,2.0,un,Pollo Rostizado  + Papas Fritas  + Ensalada + Chicha Morada,84.9,wong,,POLLO EVISCERADO
-Alimento Purina One Esterilizados One Pollo Y Salmon 6kg,S/ 167.50,wong,POLLO EVISCERADO,2024-12-05 18:01:18.536291,6.0,kg,Alimento Purina One Esterilizados One Pollo Y Salmon,167.5,wong,,POLLO EVISCERADO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Sopa Instantánea Ajinomen Sabor Pollo 80g,,80.0,g,1.6,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,20.0
+Tamal de Pollo RECUTECU Empaque 180g,RECUTECU,180.0,g,4.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,27.222222222222225
+Hot Dog de Pollo Ahumado San Fernando 220g,,220.0,g,5.7,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,25.909090909090914
+Causa de Pollo LA FLORENCIA Bandeja 170g,LA FLORENCIA,170.0,g,6.0,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,35.29411764705882
+Tamal Chinchano de Pollo RECUTECU Paquete 400g,RECUTECU,400.0,g,7.5,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,18.75
+Patas de Pollo x kg,,1.0,kg,7.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,7.9
+Proteína de Soya BHAKTI NATURA Pollo Vegetariano Caja 150g,BHAKTI NATURA,150.0,g,8.0,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,53.333333333333336
+Pierna de Pollo Importada x kg,,1.0,kg,8.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,8.9
+Hígado de Pollo x kg,,1.0,kg,8.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,8.9
+Lunch Arroz Chaufa de Pollo LA FLORENCIA 500g,LA FLORENCIA,500.0,g,8.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,17.8
+Hígado de Pollo Redondos x kg,,1.0,kg,8.9,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,8.9
+Pierna de Pollo Importada x kg,,1.0,kg,8.9,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,8.9
+Salchicha de Pollo SAN FERNANDO Paquete 500g,SAN FERNANDO,500.0,g,9.4,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,18.8
+Pollo Entero Fresco Metro x kg,,1.0,kg,9.4,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,9.4
+Pollo Entero con Menudencia x kg,,1.0,kg,9.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,9.5
+Lunch Pollo al Horno con Puré 450g,VIVANDA,450.0,g,9.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,22.0
+Pollo con Menudencia Redondos x kg,,1.0,kg,10.25,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,10.25
+Pollo con Menudencia Redondos x kg,,1.0,kg,10.25,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,10.25
+Pollo Fresco con Menudencia San Fernando x Kg,,1.0,kg,10.45,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,10.45
+Pollo Fresco con Menudencia San Fernando x Kg,,1.0,kg,10.45,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,10.45
+Pollo Chijaukay con Chaufa Cuisine & Co 400g,,400.0,g,10.56,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,26.400000000000002
+Pollo Entero con Menudencia Avinka x kg,,1.0,kg,10.65,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,10.65
+Pollo al Horno con Puré y Arroz Cuisine & Co 400g,,400.0,g,11.12,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,27.799999999999997
+Pollo Entero Sin Menudencia Redondos x kg,,1.0,kg,11.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,11.9
+Pollo Entero Sin Menudencia Redondos x kg,,1.0,kg,11.9,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,11.9
+Carne de Pollo Molida San Fernando 500g,,500.0,g,12.7,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,25.4
+Corazón de Pollo x kg,,1.0,kg,12.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,12.9
+Lunch Ají de Pollo LA FLORENCIA 450g,LA FLORENCIA,450.0,g,12.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,28.666666666666668
+Hot Dog de Pollo Braedt Paquete 500 g,,500.0,g,12.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,25.8
+Pollo Deshilachado con Mayonesa Bolsa 250 g,,250.0,g,12.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,51.6
+Causa de Pollo LA FLORENCIA Bandeja 500g,LA FLORENCIA,500.0,g,12.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,25.8
+Pollo Tipakay con Chaufa HOME CHEF 450g,HOME CHEF,450.0,g,13.2,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,29.333333333333332
+Pollo Deshilachado Bolsa 250 g,,250.0,g,13.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,54.0
+Pollo Deshilachado Bolsa 250 g,,250.0,g,13.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,55.6
+Pierna con Encuentro de Pollo Congelado San Fernando x kg,,1.0,kg,13.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,13.9
+Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,,400.0,g,13.9,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,34.75
+Pollo Entero sin Menudencia Congelado PERDIX 1300g,PERDIX,1300.0,g,13.9,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,10.692307692307692
+Verduras para Arroz con Pollo Wong Bandeja 200g,,200.0,g,14.0,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,70.0
+Pollo Chijaukay con Chaufa Cuisine & Co 400g,,400.0,g,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,36.25
+Pollo Enrollado con Salsa y Arroz Blanco Cuisine & Co 400g,,400.0,g,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,36.25
+Pierna con Encuentro de Pollo x kg,,1.0,kg,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,14.5
+Pollo Enrollado con Salsa de Ostión y Arroz Chaufa Cuisine & Co 400g,,400.0,g,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,36.25
+Pollo al Horno con Puré y Arroz Cuisine & Co 400g,,400.0,g,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,36.25
+Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,,400.0,g,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,36.25
+Pechuga Especial Importada x kg,,1.0,kg,14.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,14.5
+Pierna con Encuentro de Pollo Redondos x kg,,1.0,kg,14.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,14.5
+Pollo Oriental San Fernando Bolsa 800 g / Medio Pollo en 4 Piezas,,800.0,g,14.6,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,18.25
+Pollo al Horno San Fernando Bolsa 800 g / Medio pollo en 4 Piezas,,800.0,g,14.6,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,18.25
+Pollo al Horno San Fernando Bolsa 800 g / Medio pollo en 4 Piezas,,800.0,g,14.6,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,18.25
+Pollo Entero Light x kg,,1.0,kg,14.7,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,14.7
+Pollo Entero Light x kg,,1.0,kg,14.7,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,14.7
+Tiras de Pechuga de Pollo Bolsa 300 g,,300.0,g,14.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,49.66666666666667
+Drumetts de Pollo x kg,,1.0,kg,14.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,14.9
+Pollo Entero Congelado PERDIX Bolsa 1400g,PERDIX,1400.0,g,15.2,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,10.857142857142858
+Pechuga Entera de Pollo Redondos x kg,,1.0,kg,15.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,15.5
+Pierna Especial de Pollo x kg,,1.0,kg,15.95,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,15.95
+Alas Pollo Congeladas San Fernando x kg,,1.0,kg,16.3,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.3
+Muslo de de Pollo Redondos x kg,,1.0,kg,16.49,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,16.49
+Pierna o Encuentro de Pollo x kg,,1.0,kg,16.49,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.49
+Pollo Fresco Sin Menudencia Artisan Libre de Antibióticos x kg,,1.0,kg,16.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.5
+Filete de Pechuga Importado x kg,,1.0,kg,16.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,16.5
+Filete de Pechuga Importado x kg,,1.0,kg,16.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.5
+Muslo de Pollo Congelado San Fernando x kg,,1.0,kg,16.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,16.5
+Pierna de Pollo Congelada San Fernando x kg,,1.0,kg,16.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.5
+Muslo de Pollo Congelado San Fernando x kg,,1.0,kg,16.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,16.5
+Chicharrón de Pollo AVINKA Bolsa 350g,AVINKA,350.0,g,16.7,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,47.714285714285715
+Nuggets de Pechuga de Pollo Cuisine & Co 480g,,480.0,g,17.2,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,35.833333333333336
+Pollo Pollada San Fernando Bolsa 800 g / 2 Cuartos de Pollo,,800.0,g,17.2,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,21.5
+Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Oriental Bolsa 800g,SAN FERNANDO,800.0,g,17.3,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,21.625
+Pollo Trozado Macerado SAN FERNANDO Asu Olla! Sazón Pollo Al Horno Bolsa 800g,SAN FERNANDO,800.0,g,17.3,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,21.625
+Pollo Sabor Pachamanca Redondos 780g,,780.0,g,17.89,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,22.935897435897434
+Pollo Sabor Oriental Redondos 780g,,780.0,g,17.89,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,22.935897435897434
+Pollo Sabor Oriental Redondos 780g,,780.0,g,17.89,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,22.935897435897434
+Pollo Sabor Estofado Redondos 780g,,780.0,g,17.89,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,22.935897435897434
+Pollo Sabor Pachamanca Redondos 780g,,780.0,g,17.89,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,22.935897435897434
+Pollo Teriyaki Wong Ready Con Arroz Oriental Bandeja 370 g,,370.0,g,17.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,48.37837837837837
+Pierna de Pollo Light x kg,,1.0,kg,18.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,18.5
+Pollo Fresco Sin Menudencia Artisan Libre de Antibióticos x kg,,1.0,kg,19.49,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,19.49
+Pechuga de Pollo Light x kg,,1.0,kg,19.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,19.5
+Encuentro Especial Light de Pollo x kg,,1.0,kg,19.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,19.9
+Pollo Entero Aderezo Leña REDONDOS Paquete 1Kg,REDONDOS,1.0,kg,20.3,vivanda,2024-12-05 21:42:08.336357,POLLO EVISCERADO,1.0,kg,20.3
+Filete Parrillero de Pierna de Pollo con Piel x kg,,1.0,kg,20.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,20.9
+Alitas Orientales San Fernando 1kg,,1.0,kg,21.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,21.9
+Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,,1.4,kg,21.9,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,15.642857142857142
+Filete de Pierna de Pollo x kg,,1.0,kg,22.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,22.9
+Filete de Pechuga de Pollo x kg,,1.0,kg,24.0,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,24.0
+Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,,1.4,kg,24.4,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,17.428571428571427
+Filete de Pechuga Pollo Redondos x kg,,1.0,kg,25.4,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,25.4
+Filete de Pejerrey de Pollo x kg,,1.0,kg,25.4,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,25.4
+Filete de Pechuga de Pollo Congelada San Fernando x kg,,1.0,kg,26.7,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,26.7
+Filete de Pechuga de Pollo Congelada San Fernando x kg,,1.0,kg,26.7,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,26.7
+Alas de Pollo Artisan x Kg. Libre de Antibióticos,,1.0,kg,27.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,27.5
+Alitas de Pollo a La Barbecue Wong Bolsa x 1 Kg,,1.0,kg,28.99,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,28.99
+Chicharrón de Pollo Cuisine & Co 450g,,450.0,g,29.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,65.55555555555556
+Milanesa de Pollo x kg,,1.0,kg,29.99,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,29.99
+Pollo Entero Light Sin Menudencia Artisan x kg,,1.0,kg,30.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,30.9
+Piernas de Pollo Artisan x Kg. Libre de Antibióticos,,1.0,kg,31.2,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,31.2
+Muslos de Pollo Artisan x Kg. Libre de Antibióticos,,1.0,kg,31.4,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,31.4
+Milanesa de Pollo Redondos 1kg,,1.0,kg,32.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,32.9
+Metro Pollo Entero + Porción de Papas x 400 g Delivery,,400.0,g,35.99,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,89.97500000000001
+Pollo con Frutas x kg,,1.0,kg,37.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,37.9
+"Pollo Enrollado con Jamón, Tocino y Guindones x kg",,1.0,kg,38.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,38.5
+Pollo Enrollado con Jamon y Queso x kg,,1.0,kg,38.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,38.5
+Pollo Enrollado con Verduras x kg,,1.0,kg,38.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,38.5
+Pollo Enrollado Jamon y Queso Sin Piel x kg,,1.0,kg,38.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,38.5
+Pollo Enrollado Jamon y Queso Sin Piel x kg,,1.0,kg,38.5,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,38.5
+Pollo Enrollado con Jamon y Queso x kg,,1.0,kg,38.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,38.5
+"Pollo Enrollado con Jamón, Tocino y Guindones x kg",,1.0,kg,38.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,38.5
+Suprema de Pollo Artisan 550g,,550.0,g,39.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,71.81818181818181
+Filete de Pierna de Pollo con Piel Avinka Artisan x kg,,1.0,kg,40.75,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,40.75
+Pollo Enrollado De La Casa Surtido x kg,,1.0,kg,41.99,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,41.99
+Metro Pollo Entero + Porción de Papas x 400 g + Gaseosa 1.5 Litro,,400.0,g,42.99,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,107.47500000000001
+Filete de Pierna Artisan x Kg. Libre de Antibióticos,,1.0,kg,43.35,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,43.35
+Filete de Pechuga Artisan x Kg. Libre de Antibióticos,,1.0,kg,46.6,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,46.6
+Tiras de Pollo Artisan x kg,,1.0,kg,46.9,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,46.9
+Filete de Pejerrey Artisan x Kg. Libre de Antibióticos,,1.0,kg,47.79,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,47.79
+Metro Pollo Entero + Porción de Papas x 400 g + Chicha Morada Naturale 1 Litro + Ensalada,,400.0,g,52.99,metro,2024-12-05 15:30:18.488062,POLLO EVISCERADO,1.0,kg,132.475
+Alimento Purina One Esterilizados One Pollo Y Salmon 6kg,,6.0,kg,167.5,wong,2024-12-05 18:01:18.536291,POLLO EVISCERADO,1.0,kg,27.916666666666664

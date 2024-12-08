@@ -1,49 +1,22 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Concentrado en polvo DOÑA GUSTA Caldo sabor a costilla de res Caja 6Un,S/ 2.20,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,6.0,un,Concentrado en polvo DOÑA GUSTA Caldo sabor a costilla de res Caja,2.2,vivanda,DOÑA GUSTA,MONDONGO DE RES
-Táper REYPLAST Cuadrado Luxe 1.1 Un,S/ 6.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.1,un,Táper REYPLAST Cuadrado Luxe,6.9,vivanda,REY,MONDONGO DE RES
-Jarra Reyware REY 1L,S/ 6.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,l,Jarra Reyware REY,6.9,vivanda,REY,MONDONGO DE RES
-Bebidas Energizantes RED BULL Ambar Edition Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebidas Energizantes RED BULL Ambar Edition Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Bebida Energizante RED BULL Tropical Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Tropical Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Bebida Carbonatada RED BULL Green Edition Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Carbonatada RED BULL Green Edition Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Bebida Energizante RED BULL Sugar Free Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Sugar Free Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Bebida Energizante RED BULL Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Bebida Energizante RED BULL Red Edition Lata 250ml,S/ 7.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Red Edition Lata,7.8,vivanda,RED BULL,MONDONGO DE RES
-Táper Cuadrado REYPLAST 2K 1un,S/ 7.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,un,Táper Cuadrado REYPLAST 2K,7.9,vivanda,REY PLAST,MONDONGO DE RES
-Set de Coladores Delicia REY 4un,S/ 8.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,4.0,un,Set de Coladores Delicia REY,8.9,vivanda,REY,MONDONGO DE RES
-Aderezo PIKI para Res Doypack 350g,S/ 9.70,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,350.0,g,Aderezo PIKI para Res Doypack,9.7,vivanda,PIKI,MONDONGO DE RES
-Táper REYPLAST Cuadrado Luxe 1.9 Un,S/ 9.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.9,un,Táper REYPLAST Cuadrado Luxe,9.9,vivanda,REY,MONDONGO DE RES
-Bebida Energizante RED BULL Lata 355ml,S/ 9.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,355.0,ml,Bebida Energizante RED BULL Lata,9.9,vivanda,RED BULL,MONDONGO DE RES
-Comida para Perros RAMBALA Adulto Aritos de Res Doypack 5un,S/ 10.60,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,5.0,un,Comida para Perros RAMBALA Adulto Aritos de Res Doypack,10.6,vivanda,RAMBALA,MONDONGO DE RES
-Mondongo Picado para Cau Cau Bolsa 1 kg,S/ 11.90,metro,MONDONGO DE RES,2024-12-05 15:33:01.726258,1.0,kg,Mondongo Picado para Cau Cau Bolsa,11.9,metro,,MONDONGO DE RES
-Mondongo Picado a La Italiana Bolsa 1 kg,S/ 11.90,metro,MONDONGO DE RES,2024-12-05 15:33:01.726258,1.0,kg,Mondongo Picado a La Italiana Bolsa,11.9,metro,,MONDONGO DE RES
-Menestrón con Carne de Res en Semiconserva 750g,S/ 12.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,750.0,g,Menestrón con Carne de Res en Semiconserva,12.9,vivanda,LA FLORENCIA,MONDONGO DE RES
-Mondongo Italiano x kg,S/ 14.20,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Mondongo Italiano,14.2,vivanda,VIVANDA,MONDONGO DE RES
-Mondongo Cau-Cau x kg,S/ 14.20,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Mondongo Cau-Cau,14.2,vivanda,VIVANDA,MONDONGO DE RES
-Hamburguesa OTTO KUNZ Premium de Res Bolsa 4un,S/ 15.40,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,4.0,un,Hamburguesa OTTO KUNZ Premium de Res Bolsa,15.4,vivanda,OTTO KUNZ,MONDONGO DE RES
-Anticucho de Res ZEDINA Bolsa 500g,S/ 15.60,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,500.0,g,Anticucho de Res ZEDINA Bolsa,15.6,vivanda,VIVANDA,MONDONGO DE RES
-Comida para Perros PETS REPUBLIC Adulto Hígado de Res Frasco 80g,S/ 15.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,80.0,g,Comida para Perros PETS REPUBLIC Adulto Hígado de Res Frasco,15.9,vivanda,PETS REPUBLIC,MONDONGO DE RES
-Mondongo Picado para Cau Cau x kg,S/ 16.90 x kg,metro,MONDONGO DE RES,2024-12-05 15:33:01.726258,1.0,kg,Mondongo Picado para Cau Cau,16.9,metro,,MONDONGO DE RES
-Mondongo Picado a La Italiana x kg,S/ 16.90 x kg,metro,MONDONGO DE RES,2024-12-05 15:33:01.726258,1.0,kg,Mondongo Picado a La Italiana,16.9,metro,,MONDONGO DE RES
-Mondongo Cau Cau Schilcayo 1kg,S/ 16.90,metro,MONDONGO DE RES,2024-12-05 15:33:01.726258,1.0,kg,Mondongo Cau Cau Schilcayo,16.9,metro,,MONDONGO DE RES
-Comida para Perros RAMBALA Adulto Aritos de Res Doypack 10un,S/ 18.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,10.0,un,Comida para Perros RAMBALA Adulto Aritos de Res Doypack,18.9,vivanda,RAMBALA,MONDONGO DE RES
-Hamburguesa de Res OREGON Foods Bolsa 8un,S/ 26.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,8.0,un,Hamburguesa de Res OREGON Foods Bolsa,26.9,vivanda,OREGON FOODS,MONDONGO DE RES
-Osobuco de Res EL BUEN CORTE x kg,S/ 27.20,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Osobuco de Res EL BUEN CORTE,27.2,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Hamburguesa OTTO KUNZ Premium de Res Bolsa 8un,S/ 28.00,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,8.0,un,Hamburguesa OTTO KUNZ Premium de Res Bolsa,28.0,vivanda,OTTO KUNZ,MONDONGO DE RES
-Bebida Energizante RED BULL Lata 250ml Paquete 4un,S/ 28.50,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Lata  Paquete,28.5,vivanda,RED BULL,MONDONGO DE RES
-Bebida Energizante RED BULL Sugarfree Lata 250ml Paquete 4un,S/ 28.50,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,250.0,ml,Bebida Energizante RED BULL Sugarfree Lata  Paquete,28.5,vivanda,RED BULL,MONDONGO DE RES
-Hamburguesa OTTO KUNZ Parrillera de Res Bolsa 4un,S/ 29.00,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,4.0,un,Hamburguesa OTTO KUNZ Parrillera de Res Bolsa,29.0,vivanda,OTTO KUNZ,MONDONGO DE RES
-Balde REYPLAST c/Caño 20L,S/ 29.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,20.0,l,Balde REYPLAST c/Caño,29.9,vivanda,REY PLAST,MONDONGO DE RES
-Bebida Energizante RED BULL Paquete 6un Lata 250ml,S/ 39.50,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,6.0,un,Bebida Energizante RED BULL Paquete  Lata,39.5,vivanda,RED BULL,MONDONGO DE RES
-Asado de Pejerrey de Res x kg,S/ 48.20,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Asado de Pejerrey de Res,48.2,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Bife de Vacío de Res EL BUEN CORTE x kg,S/ 51.30,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Bife de Vacío de Res EL BUEN CORTE,51.3,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Bife Angosto de Res EL BUEN CORTE x kg,S/ 52.40,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Bife Angosto de Res EL BUEN CORTE,52.4,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Bife Ancho de Res EL BUEN CORTE x kg,S/ 52.40,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Bife Ancho de Res EL BUEN CORTE,52.4,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Colita de Cuadril de Res EL BUEN CORTE x kg,S/ 55.50,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Colita de Cuadril de Res EL BUEN CORTE,55.5,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Entraña Fina de Res EL BUEN CORTE x kg,S/ 60.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Entraña Fina de Res EL BUEN CORTE,60.8,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Baby Beef de Res x kg,S/ 62.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Baby Beef de Res,62.9,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Picaña de Res EL BUEN CORTE x kg,S/ 71.30,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Picaña de Res EL BUEN CORTE,71.3,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Pulpo Cocido Limpio EL REY DEL PULPO x un,S/ 72.00,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,un,Pulpo Cocido Limpio EL REY DEL PULPO,72.0,vivanda,EL REY DEL PULPO,MONDONGO DE RES
-Lomo Fino de Res EL BUEN CORTE x kg,S/ 81.80,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,1.0,kg,Lomo Fino de Res EL BUEN CORTE,81.8,vivanda,EL BUEN CORTE,MONDONGO DE RES
-Vino Blanco COTE DES ROSES Chardonnay Botella 750ml,S/ 129.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,750.0,ml,Vino Blanco COTE DES ROSES Chardonnay Botella,129.9,vivanda,COTE DES ROSES,MONDONGO DE RES
-Vino Tinto COTE DES ROSES Pinot Noir Botella 750ml,S/ 129.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,750.0,ml,Vino Tinto COTE DES ROSES Pinot Noir Botella,129.9,vivanda,COTE DES ROSES,MONDONGO DE RES
-Vino Rosé COTE DES ROSES Botella 750ml,S/ 129.90,vivanda,MONDONGO DE RES,2024-12-05 21:44:34.774260,750.0,ml,Vino Rosé COTE DES ROSES Botella,129.9,vivanda,COTE DES ROSES,MONDONGO DE RES
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Aderezo PIKI para Res Doypack 350g,PIKI,350.0,g,9.7,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,27.71428571428571
+Mondongo Picado a La Italiana Bolsa 1 kg,,1.0,kg,11.9,metro,2024-12-05 15:33:01.726258,MONDONGO DE RES,1.0,kg,11.9
+Mondongo Picado para Cau Cau Bolsa 1 kg,,1.0,kg,11.9,metro,2024-12-05 15:33:01.726258,MONDONGO DE RES,1.0,kg,11.9
+Menestrón con Carne de Res en Semiconserva 750g,LA FLORENCIA,750.0,g,12.9,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,17.2
+Mondongo Cau-Cau x kg,VIVANDA,1.0,kg,14.2,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,14.2
+Mondongo Italiano x kg,VIVANDA,1.0,kg,14.2,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,14.2
+Anticucho de Res ZEDINA Bolsa 500g,VIVANDA,500.0,g,15.6,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,31.2
+Comida para Perros PETS REPUBLIC Adulto Hígado de Res Frasco 80g,PETS REPUBLIC,80.0,g,15.9,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,198.75
+Mondongo Picado para Cau Cau x kg,,1.0,kg,16.9,metro,2024-12-05 15:33:01.726258,MONDONGO DE RES,1.0,kg,16.9
+Mondongo Cau Cau Schilcayo 1kg,,1.0,kg,16.9,metro,2024-12-05 15:33:01.726258,MONDONGO DE RES,1.0,kg,16.9
+Mondongo Picado a La Italiana x kg,,1.0,kg,16.9,metro,2024-12-05 15:33:01.726258,MONDONGO DE RES,1.0,kg,16.9
+Osobuco de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,27.2,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,27.2
+Asado de Pejerrey de Res x kg,EL BUEN CORTE,1.0,kg,48.2,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,48.2
+Bife de Vacío de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,51.3,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,51.3
+Bife Ancho de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,52.4,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,52.4
+Bife Angosto de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,52.4,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,52.4
+Colita de Cuadril de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,55.5,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,55.5
+Entraña Fina de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,60.8,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,60.8
+Baby Beef de Res x kg,EL BUEN CORTE,1.0,kg,62.9,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,62.9
+Picaña de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,71.3,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,71.3
+Lomo Fino de Res EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,81.8,vivanda,2024-12-05 21:44:34.774260,MONDONGO DE RES,1.0,kg,81.8

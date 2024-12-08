@@ -1,7 +1,7 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Vega,Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,CABALLA,2024-12-05 12:11:29.956656,170.0,g,Filete de Caballa VEGA en Aceite Vegetal Lata,4.4,vega,CABALLA
-,Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,S/ 4.90,wong,CABALLA,2024-12-05 18:07:28.079002,170.0,g,Filete de Caballa en Aceite Vegetal Cuisine & Co,4.9,wong,CABALLA
-,Filete de Caballa Marinero 140g,S/ 5.20,wong,CABALLA,2024-12-05 18:07:28.079002,140.0,g,Filete de Caballa Marinero,5.2,wong,CABALLA
-,Sólido de Caballa Campomar en Aceite Lata 170gr,S/ 5.30,wong,CABALLA,2024-12-05 18:07:28.079002,170.0,g,Sólido de Caballa Campomar en Aceite Lata r,5.3,wong,CABALLA
-Timonel,Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,S/ 11.00,vega,CABALLA,2024-12-05 12:11:29.956656,2.5,l,Combo Agua TIMONEL Botella  + Filete de caballa VEGA Lata  + Galleta Soda SAN JORGE Paquete 7u,11.0,vega,CABALLA
-,Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,S/ 30.20,wong,CABALLA,2024-12-05 18:07:28.079002,170.0,g,Pack x6 Sólido Caballa Aceite Vegetal Campomar,30.2,wong,CABALLA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Filete de Caballa VEGA en Aceite Vegetal Lata 170g,Vega,170.0,g,4.4,vega,2024-12-05 12:11:29.956656,CABALLA,170.0,g,4.4
+Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,,170.0,g,4.9,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,4.9
+Filete de Caballa Marinero 140g,,140.0,g,5.2,wong,2024-12-05 18:07:28.079002,CABALLA,140.0,g,5.2
+Sólido de Caballa Campomar en Aceite Lata 170gr,,170.0,g,5.3,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,5.3
+Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,Timonel,2.5,l,11.0,vega,2024-12-05 12:11:29.956656,CABALLA,2.5,l,11.0
+Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,,170.0,g,30.2,wong,2024-12-05 18:07:28.079002,CABALLA,170.0,g,30.2

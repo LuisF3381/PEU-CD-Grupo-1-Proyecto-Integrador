@@ -1,55 +1,40 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Nuggets de Pechuga de Pollo REDONDOS Bolsa 12u...,S/ 5.90 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,12.0,un,Nuggets de Pechuga de Pollo REDONDOS Bolsa 12u,5.9,plaza_vea,Bolsa 12un,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo REDONDOS Bolsa 12un,S/ 5.90,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,12.0,un,Nuggets de Pechuga de Pollo REDONDOS Bolsa,5.9,vivanda,,REDONDOS,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo Redondos 12un,S/ 6.50,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,12.0,un,Nuggets de Pechuga de Pollo Redondos,6.5,wong,,,PECHUGA DE POLLO
-Nuggets Pechuga Pollo Chia Sin Freír 180 g,S/ 6.90,tottus,PECHUGA DE POLLO,2024-12-05 11:30:01.850079,180.0,g,Nuggets Pechuga Pollo Chia Sin Freír,6.9,tottus,,SAN FERNANDO,PECHUGA DE POLLO
-Jamón de Pechuga de Pollo BRAEDT Paquete 200g,S/ 7.89 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,200.0,g,Jamón de Pechuga de Pollo BRAEDT Paquete,7.89,plaza_vea,Paquete 200g,,PECHUGA DE POLLO
-Jamón de Pechuga de Pollo BRAEDT Paquete 200g,S/ 8.10,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,200.0,g,Jamón de Pechuga de Pollo BRAEDT Paquete,8.1,vivanda,,BRAEDT,PECHUGA DE POLLO
-Nuggets Pechuga Pollo 300 g (20 unidades),S/ 9.90,tottus,PECHUGA DE POLLO,2024-12-05 11:30:01.850079,300.0,g,Nuggets Pechuga Pollo  (ades),9.9,tottus,,SAN FERNANDO,PECHUGA DE POLLO
-NUGGETS PECHUGA X 350 GR,S/ 10.90,tottus,PECHUGA DE POLLO,2024-12-05 11:30:01.850079,350.0,g,NUGGETS PECHUGA X R,10.9,tottus,,REDONDOS,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo Redondos 23un 350g,S/ 11.60,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,23.0,un,Nuggets de Pechuga de Pollo Redondos,11.6,metro,,,PECHUGA DE POLLO
-Pechuga de Pollo Rellena de Verduras Bandeja 250 g,S/ 11.99,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,250.0,g,Pechuga de Pollo Rellena de Verduras Bandeja,11.99,metro,,,PECHUGA DE POLLO
-Deditos de Pechuga de Pollo REDONDOS Bolsa 300...,S/ 11.99 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,300.0,g,Deditos de Pechuga de Pollo REDONDOS Bolsa 300,11.99,plaza_vea,Bolsa 300g,,PECHUGA DE POLLO
-Tiras de Pechuga de Pollo Empanizados REDONDOS...,S/ 12.60 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,8.0,un,Tiras de Pechuga de Pollo Empanizados REDONDOS,12.6,plaza_vea,Bolsa 8un,,PECHUGA DE POLLO
-Pechuga de Pollo en Salsa de Champiñones HOME ...,S/ 12.90 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,1.0,un,Pechuga de Pollo en Salsa de Champiñones HOME,12.9,plaza_vea,Bandeja 1un,,PECHUGA DE POLLO
-Deditos de Pechuga de Pollo Redondos 15un,S/ 13.00,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,15.0,un,Deditos de Pechuga de Pollo Redondos,13.0,metro,,,PECHUGA DE POLLO
-Deditos de Pechuga de Pollo Redondos 15un,S/ 13.00,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,15.0,un,Deditos de Pechuga de Pollo Redondos,13.0,wong,,,PECHUGA DE POLLO
-Pechuga de Pollo en Salsa de Champiñones HOME CHEF 450g,S/ 13.20,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,450.0,g,Pechuga de Pollo en Salsa de Champiñones HOME CHEF,13.2,vivanda,,HOME CHEF,PECHUGA DE POLLO
-Nuggets Pechuga 550 g,S/ 13.40,tottus,PECHUGA DE POLLO,2024-12-05 11:30:01.850079,550.0,g,Nuggets Pechuga,13.4,tottus,,REDONDOS,PECHUGA DE POLLO
-Tiras de Pechuga de Pollo Redondos 8un,S/ 13.70,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,8.0,un,Tiras de Pechuga de Pollo Redondos,13.7,metro,,,PECHUGA DE POLLO
-Pechuga de Pollo Rellena de Tocino Bandeja 250 g,S/ 13.70,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,250.0,g,Pechuga de Pollo Rellena de Tocino Bandeja,13.7,wong,,,PECHUGA DE POLLO
-Tiras de Pechuga de Pollo Redondos 8un,S/ 13.70,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,8.0,un,Tiras de Pechuga de Pollo Redondos,13.7,wong,,,PECHUGA DE POLLO
-Nuggets Pechuga de Pollo San Fernando Caja 24u...,S/ 14.20 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,24.0,un,Nuggets Pechuga de Pollo San Fernando Caja 24u,14.2,plaza_vea,Caja 24un,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo REDONDOS Caja 36un,S/ 14.80 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,36.0,un,Nuggets de Pechuga de Pollo REDONDOS Caja,14.8,plaza_vea,Caja 36un,,PECHUGA DE POLLO
-Tiras Pechuga Pollo 300 g,S/ 14.90,tottus,PECHUGA DE POLLO,2024-12-05 11:30:01.850079,300.0,g,Tiras Pechuga Pollo,14.9,tottus,,SAN FERNANDO,PECHUGA DE POLLO
-Tiras de Pechuga de Pollo Bolsa 300 g,S/ 14.90,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,300.0,g,Tiras de Pechuga de Pollo Bolsa,14.9,metro,,,PECHUGA DE POLLO
-Pechuga Entera de Pollo Empacada al vacío SAN ...,S/ 14.90 x kg,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,1.2,kg,Pechuga Entera de Pollo Empacada al vacío SAN,14.9,plaza_vea,Presentación 1.2 kg aprox.,,PECHUGA DE POLLO
-Chicharrón de Pechuga de Pollo OREGAN FOODS Bo...,S/ 14.90 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,300.0,g,Chicharrón de Pechuga de Pollo OREGAN FOODS Bo,14.9,plaza_vea,Bolsa 300g,,PECHUGA DE POLLO
-Nuggets Pechuga de Pollo San Fernando Caja 24un,S/ 15.30,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,24.0,un,Nuggets Pechuga de Pollo San Fernando Caja,15.3,vivanda,,SAN FERNANDO,PECHUGA DE POLLO
-Pechuga Entera de Pollo Redondos x kg,S/ 15.50 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Pechuga Entera de Pollo Redondos,15.5,metro,,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo San Fernando 24un,S/ 15.80,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,24.0,un,Nuggets de Pechuga de Pollo San Fernando,15.8,wong,,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo San Fernando 24un,S/ 15.80,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,24.0,un,Nuggets de Pechuga de Pollo San Fernando,15.8,metro,,,PECHUGA DE POLLO
-Pechuga de Pollo con Alas Congelado SAN FERNAN...,S/ 15.90 x kg,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,1.3,kg,Pechuga de Pollo con Alas Congelado SAN FERNAN,15.9,plaza_vea,Presentación 1.3 kg aprox.,,PECHUGA DE POLLO
-Filete de Pechuga Importado x kg,S/ 16.50 x kg,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,1.0,kg,Filete de Pechuga Importado,16.5,wong,,,PECHUGA DE POLLO
-Filete de Pechuga Importado x kg,S/ 16.50 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Filete de Pechuga Importado,16.5,metro,,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo Cuisine & Co 480g,S/ 17.20,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,480.0,g,Nuggets de Pechuga de Pollo Cuisine & Co,17.2,metro,,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo Cuisine & Co 480g,S/ 17.20,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,480.0,g,Nuggets de Pechuga de Pollo Cuisine & Co,17.2,wong,,,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Criollo REDONDOS Bo...,S/ 17.50 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,620.0,g,Filete de Pechuga de Pollo Criollo REDONDOS Bo,17.5,plaza_vea,Bolsa 620g,,PECHUGA DE POLLO
-Pechuga Especial de Pollo x kg,S/ 17.50 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Pechuga Especial de Pollo,17.5,metro,,,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Oriental REDONDOS B...,S/ 17.50 un,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,620.0,g,Filete de Pechuga de Pollo Oriental REDONDOS B,17.5,plaza_vea,Bandeja 620g,,PECHUGA DE POLLO
-Pechuga Especial de Pollo Empacada al vacío SA...,S/ 17.50 x kg,plaza_vea,PECHUGA DE POLLO,2024-12-05 14:46:30.993470,1.5,kg,Pechuga Especial de Pollo Empacada al vacío SA,17.5,plaza_vea,Presentación 1.5 kg aprox.,,PECHUGA DE POLLO
-Delicias de Pechuga de Pollo Rico 300g,S/ 17.80,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,300.0,g,Delicias de Pechuga de Pollo Rico,17.8,metro,,,PECHUGA DE POLLO
-Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro 800g,S/ 17.90,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,800.0,g,Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro,17.9,metro,,,PECHUGA DE POLLO
-Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro 800g,S/ 17.90,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,800.0,g,Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro,17.9,wong,,,PECHUGA DE POLLO
-Pechuga Light de Pollo Redondos x kg,S/ 19.50 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Pechuga Light de Pollo Redondos,19.5,metro,,,PECHUGA DE POLLO
-Pechuga de Pollo Light x kg,S/ 19.50 x kg,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,1.0,kg,Pechuga de Pollo Light,19.5,wong,,,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Oriental REDONDOS Bandeja 620g,S/ 19.80,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,620.0,g,Filete de Pechuga de Pollo Oriental REDONDOS Bandeja,19.8,vivanda,,REDONDOS,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Criollo REDONDOS Bolsa 620g,S/ 19.80,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,620.0,g,Filete de Pechuga de Pollo Criollo REDONDOS Bolsa,19.8,vivanda,,REDONDOS,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Oriental Redondos Bolsa 4 Unid,S/ 20.40,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,4.0,un,Filete de Pechuga de Pollo Oriental Redondos Bolsa,20.4,metro,,,PECHUGA DE POLLO
-Filete de Pechuga de Pollo Criollo Redondos Bolsa 4 Unid,S/ 20.40,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,4.0,un,Filete de Pechuga de Pollo Criollo Redondos Bolsa,20.4,metro,,,PECHUGA DE POLLO
-Nuggets de Pechuga de Pollo con Chía Vive Bien Caja 550 g,S/ 20.45,wong,PECHUGA DE POLLO,2024-12-05 17:58:18.171965,550.0,g,Nuggets de Pechuga de Pollo con Chía Vive Bien Caja,20.45,wong,,,PECHUGA DE POLLO
-Filete de Pechuga Pollo Redondos x kg,S/ 25.40 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Filete de Pechuga Pollo Redondos,25.4,metro,,,PECHUGA DE POLLO
-Pechuga de Pollo Rellena con Queso y Tocino Rico 6un.,S/ 25.50,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,6.0,un,Pechuga de Pollo Rellena con Queso y Tocino Rico .,25.5,metro,,,PECHUGA DE POLLO
-Milanesa de Pechuga de Pollo OREGAN FOODS Bolsa 4un,S/ 27.90,vivanda,PECHUGA DE POLLO,2024-12-05 21:41:53.187210,4.0,un,Milanesa de Pechuga de Pollo OREGAN FOODS Bolsa,27.9,vivanda,,OREGON FOODS,PECHUGA DE POLLO
-Filete de Pechuga de Pollo x kg,S/ 29.90 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Filete de Pechuga de Pollo,29.9,metro,,,PECHUGA DE POLLO
-Filete de Pechuga Artisan x Kg. Libre de Antibióticos,S/ 46.60 x kg,metro,PECHUGA DE POLLO,2024-12-05 15:28:49.801412,1.0,kg,Filete de Pechuga Artisan . Libre de Antibióticos,46.6,metro,,,PECHUGA DE POLLO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+NUGGETS PECHUGA X 180 GR,REDONDOS,180.0,g,5.5,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,30.555555555555554
+Nuggets Pechuga Pollo Chia Sin Freír 180 g,SAN FERNANDO,180.0,g,6.9,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,38.333333333333336
+Jamón de Pechuga de Pollo BRAEDT Paquete 200g,,200.0,g,7.89,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,39.449999999999996
+Jamón de Pechuga de Pollo BRAEDT Paquete 200g,BRAEDT,200.0,g,8.1,vivanda,2024-12-05 21:41:53.187210,PECHUGA DE POLLO,1.0,kg,40.5
+Nuggets Pechuga Pollo 300 g (20 unidades),SAN FERNANDO,300.0,g,9.9,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,33.0
+NUGGETS PECHUGA X 350 GR,REDONDOS,350.0,g,10.9,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,31.142857142857146
+Pechuga de Pollo Rellena de Verduras Bandeja 250 g,,250.0,g,11.99,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,47.96
+Pechuga de Pollo Rellena de Jamón y Queso Bandeja 250 g,,250.0,g,12.89,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,51.56
+Pechuga de Pollo Rellena de Jamón y Queso Bandeja 250 g,,250.0,g,12.89,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,51.56
+Nuggets Pechuga 550 g,REDONDOS,550.0,g,13.4,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,24.363636363636363
+Pechuga de Pollo Rellena de Tocino Bandeja 250 g,,250.0,g,13.7,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,54.8
+Pechuga Especial Importada x kg,,1.0,kg,14.5,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,14.5
+TIRAS DE PECHUGA DE POLLO X 300GR,REDONDOS,300.0,g,14.5,tottus,2024-12-05 11:30:01.850079,PECHUGA DE POLLO,1.0,kg,48.333333333333336
+Pechuga con Ala de Pollo x kg,,1.0,kg,14.5,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,14.5
+Tiras de Pechuga de Pollo Bolsa 300 g,,300.0,g,14.9,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,49.66666666666667
+Chicharrón de Pechuga de Pollo OREGAN FOODS Bo...,,300.0,g,14.9,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,49.66666666666667
+Tiras de Pechuga de Pollo Bolsa 300 g,,300.0,g,14.9,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,49.66666666666667
+Pechuga de Pollo con Alas Congelado SAN FERNAN...,,1.3,kg,15.9,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,12.23076923076923
+Nuggets de Pechuga Pollo Oregon Foods 330g,,330.0,g,16.0,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,48.484848484848484
+Filete de Pechuga Importado x kg,,1.0,kg,16.5,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,16.5
+Nuggets de Pechuga de Pollo Cuisine & Co 480g,,480.0,g,17.2,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,35.833333333333336
+Filete de Pechuga de Pollo Criollo REDONDOS Bo...,,620.0,g,17.5,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,28.225806451612904
+Pechuga Especial de Pollo Redondos x kg,,1.0,kg,17.5,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,17.5
+Pechuga Especial de Pollo x kg,,1.0,kg,17.5,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,17.5
+Pechuga Especial de Pollo Empacada al vacío SA...,,1.5,kg,17.5,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,11.666666666666666
+Filete de Pechuga de Pollo Oriental REDONDOS B...,,620.0,g,17.5,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,28.225806451612904
+Delicias de Pechuga de Pollo Rico 300g,,300.0,g,17.8,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,59.333333333333336
+Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro 800g,,800.0,g,17.9,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,22.375
+Pollada Criolla Redondos 1/2 Pechuga y Pierna con Encuentro 800g,,800.0,g,17.9,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,22.375
+Pechuga de Pollo con Alas Congelada San Fernando x kg,,1.0,kg,18.3,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,18.3
+Pechuga Light de Pollo Redondos x kg,,1.0,kg,19.5,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,19.5
+Filete de Pechuga de Pollo Oriental REDONDOS Bandeja 620g,REDONDOS,620.0,g,19.8,vivanda,2024-12-05 21:41:53.187210,PECHUGA DE POLLO,1.0,kg,31.935483870967744
+Filete de Pechuga de Pollo Criollo REDONDOS Bolsa 620g,REDONDOS,620.0,g,19.8,vivanda,2024-12-05 21:41:53.187210,PECHUGA DE POLLO,1.0,kg,31.935483870967744
+Nuggets de Pechuga de Pollo con Chía Vive Bien Caja 550 g,,550.0,g,20.45,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,37.18181818181818
+Filete de Pechuga de Pollo Congelado SAN FERNA...,,1.2,kg,22.9,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,19.083333333333332
+Filete de Pechuga Pollo Redondos x kg,,1.0,kg,25.4,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,25.4
+Filete de Pechuga de Pollo Congelada San Fernando x kg,,1.0,kg,26.7,wong,2024-12-05 17:58:18.171965,PECHUGA DE POLLO,1.0,kg,26.7
+Filete de Pechuga de Pollo x kg,,1.0,kg,29.9,metro,2024-12-05 15:28:49.801412,PECHUGA DE POLLO,1.0,kg,29.9
+Filete de Pechuga de Pollo ARTISAN Libre de An...,,0.7,kg,37.9,plaza_vea,2024-12-05 14:46:30.993470,PECHUGA DE POLLO,1.0,kg,54.14285714285714

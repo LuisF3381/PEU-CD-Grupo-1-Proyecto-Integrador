@@ -1,16 +1,13 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Chips de Maíz Morado PERUNACHOS Bolsa 90g,S/ 4.60 un,plaza_vea,MAÍZ MORADO,2024-12-05 14:23:17.909137,90.0,g,Chips de Maíz Morado PERUNACHOS Bolsa,4.6,plaza_vea,Bolsa 90g,,MAÍZ MORADO
-Tortillas de Maíz Morado Mexi Nachos Bolsa 90 g,S/ 5.10,wong,MAÍZ MORADO,2024-12-05 17:28:38.546322,90.0,g,Tortillas de Maíz Morado Mexi Nachos Bolsa,5.1,wong,,,MAÍZ MORADO
-Maíz Morado x Kg,S/ 7.99 x kg,plaza_vea,MAÍZ MORADO,2024-12-05 14:23:17.909137,0.5,kg,Maíz Morado,7.99,plaza_vea,Presentación 0.5 kg aprox.,,MAÍZ MORADO
-Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella 340ml,S/ 8.00,metro,MAÍZ MORADO,2024-12-05 15:01:25.868635,340.0,ml,Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella,8.0,metro,,,MAÍZ MORADO
-Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 8.50,metro,MAÍZ MORADO,2024-12-05 15:01:25.868635,126.0,g,Galletas de Maíz Horneadas Salmas Maíz Morado,8.5,metro,,,MAÍZ MORADO
-Maíz Morado Metro x kg,S/ 9.79 x kg,metro,MAÍZ MORADO,2024-12-05 15:01:25.868635,1.0,kg,Maíz Morado Metro,9.79,metro,,,MAÍZ MORADO
-Maíz Morado x kg,S/ 9.99 x kg,wong,MAÍZ MORADO,2024-12-05 17:28:38.546322,1.0,kg,Maíz Morado,9.99,wong,,,MAÍZ MORADO
-Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 11.50,wong,MAÍZ MORADO,2024-12-05 17:28:38.546322,126.0,g,Galletas de Maíz Horneadas Salmas Maíz Morado,11.5,wong,,,MAÍZ MORADO
-Maíz Morado Justo al Día 700g,S/ 13.40,wong,MAÍZ MORADO,2024-12-05 17:28:38.546322,700.0,g,Maíz Morado Justo al Día,13.4,wong,,,MAÍZ MORADO
-Maíz Morado Deshidratado GUVA Bolsa 1kg,S/ 15.99 un,plaza_vea,MAÍZ MORADO,2024-12-05 14:23:17.909137,1.0,kg,Maíz Morado Deshidratado GUVA Bolsa,15.99,plaza_vea,Bolsa 1kg,,MAÍZ MORADO
-Barra Aguaymanto y Maíz Morado SIETE DRAGONES ...,S/ 18.80 un,plaza_vea,MAÍZ MORADO,2024-12-05 14:23:17.909137,5.0,un,Barra Aguaymanto y Maíz Morado SIETE DRAGONES,18.8,plaza_vea,Caja 5un,,MAÍZ MORADO
-Barra Energética Siete Dragones Aguaymanto & Maíz Morado 5un,S/ 19.90,metro,MAÍZ MORADO,2024-12-05 15:01:25.868635,5.0,un,Barra Energética Siete Dragones Aguaymanto & Maíz Morado,19.9,metro,,,MAÍZ MORADO
-Barra Energética Siete Dragones Aguaymanto & Maíz Morado 5un,S/ 20.40,wong,MAÍZ MORADO,2024-12-05 17:28:38.546322,5.0,un,Barra Energética Siete Dragones Aguaymanto & Maíz Morado,20.4,wong,,,MAÍZ MORADO
-Flakes Orgánico ECOANDINO Maíz Morado Caja 300g,S/ 22.50,vivanda,MAÍZ MORADO,2024-12-05 21:27:48.499200,300.0,g,Flakes Orgánico ECOANDINO Maíz Morado Caja,22.5,vivanda,,ECOANDINO,MAÍZ MORADO
-Barra Aguaymanto y Maíz Morado SIETE DRAGONES Caja 5un,,vivanda,MAÍZ MORADO,2024-12-05 21:27:48.499200,5.0,un,Barra Aguaymanto y Maíz Morado SIETE DRAGONES Caja,,vivanda,,SIETE DRAGONES,MAÍZ MORADO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Chips de Maíz Morado PERUNACHOS Bolsa 90g,,90.0,g,4.6,plaza_vea,2024-12-05 14:23:17.909137,MAÍZ MORADO,1.0,kg,51.11111111111111
+Chips de Maíz Morado Orgánicos Wasi Bolsa 75 g,,75.0,g,5.99,wong,2024-12-05 17:28:38.546322,MAÍZ MORADO,1.0,kg,79.86666666666667
+Maíz Morado x Kg,,0.5,kg,7.99,plaza_vea,2024-12-05 14:23:17.909137,MAÍZ MORADO,1.0,kg,15.98
+Galletas de Maíz Horneadas Salmas Maíz Morado 126g,,126.0,g,8.5,metro,2024-12-05 15:01:25.868635,MAÍZ MORADO,1.0,kg,67.46031746031747
+Maíz Morado Metro x kg,,1.0,kg,9.79,metro,2024-12-05 15:01:25.868635,MAÍZ MORADO,1.0,kg,9.79
+Maíz Morado x kg,,1.0,kg,9.99,wong,2024-12-05 17:28:38.546322,MAÍZ MORADO,1.0,kg,9.99
+Maíz Morado Justo al Día 700g,,700.0,g,13.4,wong,2024-12-05 17:28:38.546322,MAÍZ MORADO,1.0,kg,19.142857142857142
+Maíz Morado en Polvo Ecoandino Orgánico 200g,,200.0,g,14.9,wong,2024-12-05 17:28:38.546322,MAÍZ MORADO,1.0,kg,74.5
+Cereal LA PURITA Maíz Morado Caja 200g,,200.0,g,15.9,plaza_vea,2024-12-05 14:23:17.909137,MAÍZ MORADO,1.0,kg,79.5
+Maíz Morado Deshidratado GUVA Bolsa 1kg,,1.0,kg,15.99,plaza_vea,2024-12-05 14:23:17.909137,MAÍZ MORADO,1.0,kg,15.99
+Maíz Morado Deshidratado Guva 1kg,,1.0,kg,18.5,wong,2024-12-05 17:28:38.546322,MAÍZ MORADO,1.0,kg,18.5
+Flakes Orgánico ECOANDINO Maíz Morado Caja 300...,,300.0,g,22.5,plaza_vea,2024-12-05 14:23:17.909137,MAÍZ MORADO,1.0,kg,75.0

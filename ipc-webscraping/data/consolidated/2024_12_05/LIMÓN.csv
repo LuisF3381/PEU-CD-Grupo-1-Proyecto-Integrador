@@ -1,192 +1,72 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Bebida de Té Verde Sabor Limón Leaf Tea Botella 400 ml,S/ 1.70,metro,LIMÓN,2024-12-05 15:54:16.337263,400.0,ml,Bebida de Té Verde Sabor Limón Leaf Tea Botella,1.7,metro,,,LIMÓN
-Agua Socosani Saborizada Limon Botella 500 ml,S/ 1.99,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Agua Socosani Saborizada Limon Botella,1.99,metro,,,LIMÓN
-Caramelos Masticables MENTOS Limón Paquete 29.04g,S/ 2.00,vivanda,LIMÓN,2024-12-05 21:58:17.082670,29.04,g,Caramelos Masticables MENTOS Limón Paquete,2.0,vivanda,,MENTOS,LIMÓN
-Yogurt Griego LAIVE Sabor a Pie de Limón Vaso ...,S/ 2.20 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,115.0,g,Yogurt Griego LAIVE Sabor a Pie de Limón Vaso,2.2,plaza_vea,Vaso 115g,,LIMÓN
-Agua sin Gas SAN LUIS Sabor Limón Botella 625ml,S/ 2.20,vivanda,LIMÓN,2024-12-05 21:58:17.082670,625.0,ml,Agua sin Gas SAN LUIS Sabor Limón Botella,2.2,vivanda,,SAN LUIS,LIMÓN
-Bebida Instantánea en Polvo CLIGHT Limón con Splenda Sobre 7g,S/ 2.30,vivanda,LIMÓN,2024-12-05 21:58:17.082670,7.0,g,Bebida Instantánea en Polvo CLIGHT Limón con Splenda Sobre,2.3,vivanda,,CLIGHT,LIMÓN
-Bebida en Polvo Clight Sin Calorías Sabor Limón 14g,S/ 2.30,metro,LIMÓN,2024-12-05 15:54:16.337263,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Limón,2.3,metro,,,LIMÓN
-Bebida Rehidratante Powerade Limón Botella 600ml,S/ 2.40,metro,LIMÓN,2024-12-05 15:54:16.337263,600.0,ml,Bebida Rehidratante Powerade Limón Botella,2.4,metro,,,LIMÓN
-Doritos Dinamita Limón 35g,S/ 2.50,metro,LIMÓN,2024-12-05 15:54:16.337263,35.0,g,Doritos Dinamita Limón,2.5,metro,,,LIMÓN
-Té Negro Free Tea Limon Botella 500 ml,S/ 2.70,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Té Negro Free Tea Limon Botella,2.7,metro,,,LIMÓN
-Gaseosa Sprite Lima Limón Botella 500ml,S/ 2.70,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Gaseosa Sprite Lima Limón Botella,2.7,wong,,,LIMÓN
-Gaseosa Sprite Lima Limón Botella 500ml,S/ 2.70,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Gaseosa Sprite Lima Limón Botella,2.7,metro,,,LIMÓN
-Bebida de Té Verde Sabor Limón Free Tea Botella 500ml,S/ 2.70,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Bebida de Té Verde Sabor Limón Free Tea Botella,2.7,metro,,,LIMÓN
-Free Tea Limon Frasco Vidrio 450 ml,S/ 2.70,metro,LIMÓN,2024-12-05 15:54:16.337263,450.0,ml,Free Tea Limon Frasco Vidrio,2.7,metro,,,LIMÓN
-Bebida de Té Verde Sabor Limón Free Tea Botella 500ml,S/ 2.80,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Bebida de Té Verde Sabor Limón Free Tea Botella,2.8,wong,,,LIMÓN
-Marshmellows Mr. Mallo Limones Bolsa 100 g,S/ 2.90,metro,LIMÓN,2024-12-05 15:54:16.337263,100.0,g,Marshmellows Mr. Mallo Limones Bolsa,2.9,metro,,,LIMÓN
-Limón x kg,S/ 2.99 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón,2.99,metro,,,LIMÓN
-Limón Sutil x kg,S/ 2.99 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón Sutil,2.99,metro,,,LIMÓN
-Limón Sútil x kg,S/ 2.99 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón Sútil,2.99,metro,,,LIMÓN
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 600 ml",S/ 2.99,metro,LIMÓN,2024-12-05 15:54:16.337263,600.0,ml,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",2.99,metro,,,LIMÓN
-Jabón para Ropa Bolívar Limón 190g,S/ 3.20,wong,LIMÓN,2024-12-05 18:25:57.978847,190.0,g,Jabón para Ropa Bolívar Limón,3.2,wong,,,LIMÓN
-Limón Ácido,S/ 3.29 x kg,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,0.5,kg,Limón Ácido,3.29,plaza_vea,Presentación 0.5 kg aprox.,,LIMÓN
-Chicle Sin Azúcar Trident X Splash Fresa y Limón 9un,S/ 3.50,metro,LIMÓN,2024-12-05 15:54:16.337263,9.0,un,Chicle Sin Azúcar Trident X Splash Fresa y Limón,3.5,metro,,,LIMÓN
-Chicles Sin Azúcar Trident Splash Sabor Fresa y Limón 9un,S/ 3.60,metro,LIMÓN,2024-12-05 15:54:16.337263,9.0,un,Chicles Sin Azúcar Trident Splash Sabor Fresa y Limón,3.6,metro,,,LIMÓN
-Gelatina UMSHA Sabor a Limón Bolsa 120g,S/ 3.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,120.0,g,Gelatina UMSHA Sabor a Limón Bolsa,3.7,plaza_vea,Sobre 120g,,LIMÓN
-Gelatina UMSHA Sabor a Limón Bolsa 120g,S/ 3.70,vivanda,LIMÓN,2024-12-05 21:58:17.082670,120.0,g,Gelatina UMSHA Sabor a Limón Bolsa,3.7,vivanda,,UMSHA,LIMÓN
-Gelatina Sabor Limón Diet Universal 19g,S/ 3.70,metro,LIMÓN,2024-12-05 15:54:16.337263,19.0,g,Gelatina Sabor Limón Diet Universal,3.7,metro,,,LIMÓN
-Gelatina UNIVERSAL Sabor a Limón Diet Caja 19g,S/ 3.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,19.0,g,Gelatina UNIVERSAL Sabor a Limón Diet Caja,3.7,plaza_vea,Caja 19g,,LIMÓN
-Gelatina Sabor Limón Diet Universal 19g,S/ 3.80,wong,LIMÓN,2024-12-05 18:25:57.978847,19.0,g,Gelatina Sabor Limón Diet Universal,3.8,wong,,,LIMÓN
-Bebida de Agua San Luis Sabor Limón Botella 1.5L,S/ 3.90,metro,LIMÓN,2024-12-05 15:54:16.337263,1.5,l,Bebida de Agua San Luis Sabor Limón Botella,3.9,metro,,,LIMÓN
-Limón Acido x kg,S/ 3.99,vivanda,LIMÓN,2024-12-05 21:58:17.082670,1.0,kg,Limón Acido,3.99,vivanda,,VIVANDA,LIMÓN
-Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,S/ 3.99,vivanda,LIMÓN,2024-12-05 21:58:17.082670,130.0,g,Gelatina UNIVERSAL Sabor a Limón Bolsa,3.99,vivanda,,UNIVERSAL,LIMÓN
-Gelatina Universal de Limón Sobre 130g,S/ 3.99,metro,LIMÓN,2024-12-05 15:54:16.337263,130.0,g,Gelatina Universal de Limón Sobre,3.99,metro,,,LIMÓN
-Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,S/ 3.99 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,130.0,g,Gelatina UNIVERSAL Sabor a Limón Bolsa,3.99,plaza_vea,Bolsa 130g,,LIMÓN
-Limón Tahiti Metro x kg,S/ 3.99 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón Tahiti Metro,3.99,metro,,,LIMÓN
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 1.5 lt",S/ 4.00,metro,LIMÓN,2024-12-05 15:54:16.337263,1.5,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",4.0,metro,,,LIMÓN
-Limón Tahíti x kg,S/ 4.19 x kg,wong,LIMÓN,2024-12-05 18:25:57.978847,1.0,kg,Limón Tahíti,4.19,wong,,,LIMÓN
-Limón Tahíti x kg,S/ 4.19 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón Tahíti,4.19,metro,,,LIMÓN
-Limón Tahití x kg,S/ 4.20 x kg,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,1.0,kg,Limón Tahití,4.2,plaza_vea,Presentación 1 kg aprox.,,LIMÓN
-Limón Tahití x kg,S/ 4.20,vivanda,LIMÓN,2024-12-05 21:58:17.082670,1.0,kg,Limón Tahití,4.2,vivanda,,VIVANDA,LIMÓN
-Lejía BOREAL Limón Botella 2000g,S/ 4.20,vivanda,LIMÓN,2024-12-05 21:58:17.082670,2000.0,g,Lejía BOREAL Limón Botella,4.2,vivanda,,BOREAL,LIMÓN
-Lavavajillas en Pasta Home Care Limón 800g,S/ 4.50,wong,LIMÓN,2024-12-05 18:25:57.978847,800.0,g,Lavavajillas en Pasta Home Care Limón,4.5,wong,,,LIMÓN
-Galleta VICTORIA Casino sabor Pie de Limón Paquete 6un,S/ 4.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,6.0,un,Galleta VICTORIA Casino sabor Pie de Limón Paquete,4.5,vivanda,,VICTORIA CASINO,LIMÓN
-Caramelos de Limón BELL'S Bolsa 250g,S/ 4.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,250.0,g,Caramelos de Limón BELL'S Bolsa,4.5,vivanda,,BELL'S,LIMÓN
-Lejía Home Care Limón 2kg,S/ 4.60,wong,LIMÓN,2024-12-05 18:25:57.978847,2.0,kg,Lejía Home Care Limón,4.6,wong,,,LIMÓN
-Papel de Seda Escarchado 50 x 70cm Benji 5un. Verde Limón,S/ 4.90,metro,LIMÓN,2024-12-05 15:54:16.337263,5.0,un,Papel de Seda Escarchado 50 x 70cm Benji . Verde Limón,4.9,metro,,,LIMÓN
-Lavavajilla Líquido Home Care Limón 500ml,S/ 4.90,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Lavavajilla Líquido Home Care Limón,4.9,metro,,,LIMÓN
-Gelatina ROYAL Sabor a Limón Bolsa 160g,S/ 5 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,160.0,g,Gelatina ROYAL Sabor a Limón Bolsa,5.0,plaza_vea,Bolsa 160g,,LIMÓN
-Sixpack Galleta con Crema Casino Pie de Limón 43g,S/ 5.00,metro,LIMÓN,2024-12-05 15:54:16.337263,43.0,g,Sixpack Galleta con Crema Casino Pie de Limón,5.0,metro,,,LIMÓN
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Limón 14g,S/ 5.00,wong,LIMÓN,2024-12-05 18:25:57.978847,14.0,g,Tripack Bebida Instantánea Clight Sin Calorías Sabor Limón,5.0,wong,,,LIMÓN
-Sixpack Galleta con Crema Casino Pie de Limón 43g,S/ 5.00,wong,LIMÓN,2024-12-05 18:25:57.978847,43.0,g,Sixpack Galleta con Crema Casino Pie de Limón,5.0,wong,,,LIMÓN
-Tortillas de Queso DORITOS Dinamita Limón Bolsa 80g,S/ 5.00,vivanda,LIMÓN,2024-12-05 21:58:17.082670,80.0,g,Tortillas de Queso DORITOS Dinamita Limón Bolsa,5.0,vivanda,,DORITOS,LIMÓN
-Lavavajilla Líquido Home Care Limón 500ml,S/ 5.00,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Lavavajilla Líquido Home Care Limón,5.0,wong,,,LIMÓN
-Gelatina en Polvo Royal Sabor Limón 160g,S/ 5.20,metro,LIMÓN,2024-12-05 15:54:16.337263,160.0,g,Gelatina en Polvo Royal Sabor Limón,5.2,metro,,,LIMÓN
-Limón Eureka x kg,S/ 5.30 x kg,metro,LIMÓN,2024-12-05 15:54:16.337263,1.0,kg,Limón Eureka,5.3,metro,,,LIMÓN
-Galletas Sabor a Limón Colombina Casita de Navidad 50g Surtido,S/ 5.40,metro,LIMÓN,2024-12-05 15:54:16.337263,50.0,g,Galletas Sabor a Limón Colombina Casita de Navidad  Surtido,5.4,metro,,,LIMÓN
-Limpiatodo BOREAL Limón Botella 1.8L,S/ 5.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,1.8,l,Limpiatodo BOREAL Limón Botella,5.5,vivanda,,BOREAL,LIMÓN
-Limón Eureka x kg,S/ 5.50 x kg,wong,LIMÓN,2024-12-05 18:25:57.978847,1.0,kg,Limón Eureka,5.5,wong,,,LIMÓN
-Lavavajilla en Pasta BOREAL Limón Pote 800g,S/ 5.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,800.0,g,Lavavajilla en Pasta BOREAL Limón Pote,5.5,vivanda,,BOREAL,LIMÓN
-Lavavajillas en Pasta Home Care Limón 800g,S/ 5.50,metro,LIMÓN,2024-12-05 15:54:16.337263,800.0,g,Lavavajillas en Pasta Home Care Limón,5.5,metro,,,LIMÓN
-Lavavajillas Ayudín Limón y Sábila 280ml,S/ 5.60,wong,LIMÓN,2024-12-05 18:25:57.978847,280.0,ml,Lavavajillas Ayudín Limón y Sábila,5.6,wong,,,LIMÓN
-Lavavajilla Líquido AYUDIN Limón y Sábila Botella 280 ml,S/ 5.60,vivanda,LIMÓN,2024-12-05 21:58:17.082670,280.0,ml,Lavavajilla Líquido AYUDIN Limón y Sábila Botella,5.6,vivanda,,AYUDIN,LIMÓN
-Jabón para Ropa Bolívar Limón 380g,S/ 5.70,wong,LIMÓN,2024-12-05 18:25:57.978847,380.0,g,Jabón para Ropa Bolívar Limón,5.7,wong,,,LIMÓN
-Jabón Aroma Limón BOLÍVAR Cuidado Total Paquete 380g,S/ 5.70,vivanda,LIMÓN,2024-12-05 21:58:17.082670,380.0,g,Jabón Aroma Limón BOLÍVAR Cuidado Total Paquete,5.7,vivanda,,BOLÍVAR,LIMÓN
-Quita Esmalte Family Care Aroma Limón 70ml,S/ 5.90,metro,LIMÓN,2024-12-05 15:54:16.337263,70.0,ml,Quita Esmalte Family Care Aroma Limón,5.9,metro,,,LIMÓN
-Ready To Drink (RTD) PISCANO Chilcano Limón La...,S/ 5.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,355.0,ml,Ready To Drink (RTD) PISCANO Chilcano Limón La,5.9,plaza_vea,Lata 355ml,,LIMÓN
-Bebida Ready to Drink Chilcano Bar Limón Botella 275ml,S/ 5.90,metro,LIMÓN,2024-12-05 15:54:16.337263,275.0,ml,Bebida Ready to Drink Chilcano Bar Limón Botella,5.9,metro,,,LIMÓN
-Bebida Chilcano de Pisco Piscano Limón Botella 275ml,S/ 5.90,metro,LIMÓN,2024-12-05 15:54:16.337263,275.0,ml,Bebida Chilcano de Pisco Piscano Limón Botella,5.9,metro,,,LIMÓN
-Lavavajilla Líquido AYUDIN Limón y Sábila 280ml,S/ 5.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,280.0,ml,Lavavajilla Líquido AYUDIN Limón y Sábila,5.9,vivanda,,AYUDIN,LIMÓN
-Limón Gold,S/ 5.90 x kg,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,0.5,kg,Limón Gold,5.9,plaza_vea,Presentación 0.5 kg aprox.,,LIMÓN
-Ready To Drink (RTD) PISCANO Chilcano Limón Bo...,S/ 5.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,275.0,ml,Ready To Drink (RTD) PISCANO Chilcano Limón Bo,5.9,plaza_vea,Botella 275ml,,LIMÓN
-Teja de Limón Helena 30g,S/ 5.99,metro,LIMÓN,2024-12-05 15:54:16.337263,30.0,g,Teja de Limón Helena,5.99,metro,,,LIMÓN
-Lavavajilla en Pasta Sapolio Limón 800g,S/ 6.00,metro,LIMÓN,2024-12-05 15:54:16.337263,800.0,g,Lavavajilla en Pasta Sapolio Limón,6.0,metro,,,LIMÓN
-Lavavajilla en Pasta Sapolio Limón 800g,S/ 6.00,wong,LIMÓN,2024-12-05 18:25:57.978847,800.0,g,Lavavajilla en Pasta Sapolio Limón,6.0,wong,,,LIMÓN
-Limón Dulce x kg,S/ 6.09 x kg,wong,LIMÓN,2024-12-05 18:25:57.978847,1.0,kg,Limón Dulce,6.09,wong,,,LIMÓN
-Gaseosa Sprite Lima Limón Botella 2.25L,S/ 6.40,wong,LIMÓN,2024-12-05 18:25:57.978847,2.25,l,Gaseosa Sprite Lima Limón Botella,6.4,wong,,,LIMÓN
-Lavavajillas en Pasta Ayudín Limón y Sábila 520g,S/ 6.50,wong,LIMÓN,2024-12-05 18:25:57.978847,520.0,g,Lavavajillas en Pasta Ayudín Limón y Sábila,6.5,wong,,,LIMÓN
-Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta 142g,S/ 6.50,metro,LIMÓN,2024-12-05 15:54:16.337263,142.0,g,Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta,6.5,metro,,,LIMÓN
-Bebida Chilcano de Pisco Piscano Limón Lata 473ml,S/ 6.90,metro,LIMÓN,2024-12-05 15:54:16.337263,473.0,ml,Bebida Chilcano de Pisco Piscano Limón Lata,6.9,metro,,,LIMÓN
-Bebida Ready to Drink Queirolo Chilcano de Pisco Limón Botella 275ml,S/ 6.90,metro,LIMÓN,2024-12-05 15:54:16.337263,275.0,ml,Bebida Ready to Drink Queirolo Chilcano de Pisco Limón Botella,6.9,metro,,,LIMÓN
-Gaseosa Sprite Lima Limón Botella 3L,S/ 6.90,metro,LIMÓN,2024-12-05 15:54:16.337263,3.0,l,Gaseosa Sprite Lima Limón Botella,6.9,metro,,,LIMÓN
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 1.87 lt",S/ 7.10,metro,LIMÓN,2024-12-05 15:54:16.337263,1.87,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",7.1,metro,,,LIMÓN
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3L",S/ 7.10,metro,LIMÓN,2024-12-05 15:54:16.337263,3.0,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",7.1,metro,,,LIMÓN
-Pulidor en Polvo Sapolio Cocina Limón 450g,S/ 7.30,wong,LIMÓN,2024-12-05 18:25:57.978847,450.0,g,Pulidor en Polvo Sapolio Cocina Limón,7.3,wong,,,LIMÓN
-Pulidor de Cocina SAPOLIO Limón Frasco 450g,S/ 7.30,vivanda,LIMÓN,2024-12-05 21:58:17.082670,450.0,g,Pulidor de Cocina SAPOLIO Limón Frasco,7.3,vivanda,,SAPOLIO,LIMÓN
-Gaseosa SPRITE Lima Limón Botella 3L,S/ 7.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,3.0,l,Gaseosa SPRITE Lima Limón Botella,7.5,vivanda,,SPRITE,LIMÓN
-Bebida Ready to Drink Chilcano Bar Limón Lata 310ml,S/ 7.50,metro,LIMÓN,2024-12-05 15:54:16.337263,310.0,ml,Bebida Ready to Drink Chilcano Bar Limón Lata,7.5,metro,,,LIMÓN
-Mayonesa DELGA-C con Limón Libre de Grasa Doyp...,S/ 7.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,400.0,g,Mayonesa DELGA-C con Limón Libre de Grasa Doyp,7.7,plaza_vea,Doypack 400g,,LIMÓN
-Caramelos Ambrosoli Cocoroko Limón 350g,S/ 7.70,metro,LIMÓN,2024-12-05 15:54:16.337263,350.0,g,Caramelos Ambrosoli Cocoroko Limón,7.7,metro,,,LIMÓN
-Limpiador Mr Músculo Líquido Quitagrasa Limón Repuesto 500ml,S/ 7.70,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Limpiador Mr Músculo Líquido Quitagrasa Limón Repuesto,7.7,wong,,,LIMÓN
-Caramelo de Limón Ambrosoli Gajos 100un,S/ 7.99,wong,LIMÓN,2024-12-05 18:25:57.978847,100.0,un,Caramelo de Limón Ambrosoli Gajos,7.99,wong,,,LIMÓN
-Chilcano de Limón PORTÓN Botella 355ml,S/ 8.00,vivanda,LIMÓN,2024-12-05 21:58:17.082670,355.0,ml,Chilcano de Limón PORTÓN Botella,8.0,vivanda,,PORTON,LIMÓN
-Ready To Drink (RTD) PORTON Chilcano de Limón ...,S/ 8 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,355.0,ml,Ready To Drink (RTD) PORTON Chilcano de Limón,8.0,plaza_vea,Botella 355ml,,LIMÓN
-Paleta Artesanal PALETAS FACTORY Pie de Limón ...,S/ 8.30 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,130.0,g,Paleta Artesanal PALETAS FACTORY Pie de Limón,8.3,plaza_vea,Bolsa 130g,,LIMÓN
-Lavavajillas en Pasta Ayudín Limón y Sábila 850g,S/ 8.50,wong,LIMÓN,2024-12-05 18:25:57.978847,850.0,g,Lavavajillas en Pasta Ayudín Limón y Sábila,8.5,wong,,,LIMÓN
-Twopack Doritos Dinamita Limón Taquero 80g,S/ 8.50,metro,LIMÓN,2024-12-05 15:54:16.337263,80.0,g,Twopack Doritos Dinamita Limón Taquero,8.5,metro,,,LIMÓN
-Infusión Té Verde con Limón BELL'S Caja 20un,S/ 8.59 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,20.0,un,Infusión Té Verde con Limón BELL'S Caja,8.59,plaza_vea,Caja 20un,,LIMÓN
-Infusión Té Verde con Limón BELL'S Caja 20un,S/ 8.59,vivanda,LIMÓN,2024-12-05 21:58:17.082670,20.0,un,Infusión Té Verde con Limón BELL'S Caja,8.59,vivanda,,BELL'S,LIMÓN
-Mix Para Hacer Pisco Sour WASSKA Limón verde S...,S/ 8.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,125.0,g,Mix Para Hacer Pisco Sour WASSKA Limón verde S,8.9,plaza_vea,Sobre 125g,,LIMÓN
-Chicle Sin Azúcar Trident X Splash Fresa y Limón 23un,S/ 8.90,metro,LIMÓN,2024-12-05 15:54:16.337263,23.0,un,Chicle Sin Azúcar Trident X Splash Fresa y Limón,8.9,metro,,,LIMÓN
-Té Frío Sabor Limón Don Simon 1.5L,S/ 8.99,metro,LIMÓN,2024-12-05 15:54:16.337263,1.5,l,Té Frío Sabor Limón Don Simon,8.99,metro,,,LIMÓN
-Lavavajillas en Pasta Ayudín Limón y Sábila 950g,S/ 9.00,wong,LIMÓN,2024-12-05 18:25:57.978847,950.0,g,Lavavajillas en Pasta Ayudín Limón y Sábila,9.0,wong,,,LIMÓN
-Toallitas Húmedas PET CARE Mascotas Limón Paquete 50un,S/ 9.60,vivanda,LIMÓN,2024-12-05 21:58:17.082670,50.0,un,Toallitas Húmedas PET CARE Mascotas Limón Paquete,9.6,vivanda,,PET CARE,LIMÓN
-Infusiones WAWASANA Té verde limón Caja 20Un,S/ 9.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,20.0,un,Infusiones WAWASANA Té verde limón Caja,9.7,plaza_vea,Caja 20un,,LIMÓN
-Infusiones LIPTON Té Limón y Jengibre Caja 10u...,S/ 9.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,10.0,un,Infusiones LIPTON Té Limón y Jengibre Caja 10u,9.7,plaza_vea,Caja 10un,,LIMÓN
-Té Verde de Menta y Limón SAINT GOTTARD Matcha...,S/ 9.80 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,20.0,un,Té Verde de Menta y Limón SAINT GOTTARD Matcha,9.8,plaza_vea,Caja 20un,,LIMÓN
-Té Verde con Limón Wawasana 20un,S/ 9.90,metro,LIMÓN,2024-12-05 15:54:16.337263,20.0,un,Té Verde con Limón Wawasana,9.9,metro,,,LIMÓN
-Pet Care Toallitas Húmedas para Mascotas Aroma Limón Paquete 50 unid,S/ 9.90,metro,LIMÓN,2024-12-05 15:54:16.337263,50.0,un,Pet Care Toallitas Húmedas para Mascotas Aroma Limón Paquete,9.9,metro,,,LIMÓN
-Helado Momenti Gelato Pie de Limón 120ml,S/ 9.90,metro,LIMÓN,2024-12-05 15:54:16.337263,120.0,ml,Helado Momenti Gelato Pie de Limón,9.9,metro,,,LIMÓN
-Caramelos Arcor Limón Bolsa 390 g,S/ 10.20,metro,LIMÓN,2024-12-05 15:54:16.337263,390.0,g,Caramelos Arcor Limón Bolsa,10.2,metro,,,LIMÓN
-Twopack Gelatina en Polvo Royal Sabor Limón 160g,S/ 10.40,metro,LIMÓN,2024-12-05 15:54:16.337263,160.0,g,Twopack Gelatina en Polvo Royal Sabor Limón,10.4,metro,,,LIMÓN
-Cóctel Montesierpe Sour de Limón Lata 473 ml,S/ 10.50,metro,LIMÓN,2024-12-05 15:54:16.337263,473.0,ml,Cóctel Montesierpe Sour de Limón Lata,10.5,metro,,,LIMÓN
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3.78 lt",S/ 10.63,metro,LIMÓN,2024-12-05 15:54:16.337263,3.78,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",10.63,metro,,,LIMÓN
-Desinfectante PineSol Limón 900ml,S/ 10.70,wong,LIMÓN,2024-12-05 18:25:57.978847,900.0,ml,Desinfectante PineSol Limón,10.7,wong,,,LIMÓN
-Desinfectante PINE SOL Limón Botella 900ml,S/ 10.70,vivanda,LIMÓN,2024-12-05 21:58:17.082670,900.0,ml,Desinfectante PINE SOL Limón Botella,10.7,vivanda,,PINE SOL,LIMÓN
-Kombucha Veda Kión y Limón Botella 260ml,S/ 10.75,metro,LIMÓN,2024-12-05 15:54:16.337263,260.0,ml,Kombucha Veda Kión y Limón Botella,10.75,metro,,,LIMÓN
-Lavavajillas Líquido Home Care Limón 1.2L,S/ 10.90,wong,LIMÓN,2024-12-05 18:25:57.978847,1.2,l,Lavavajillas Líquido Home Care Limón,10.9,wong,,,LIMÓN
-Sixpack Agua Sin Gas Sabor Limón San Luis Botella 625ml,S/ 11.00,wong,LIMÓN,2024-12-05 18:25:57.978847,625.0,ml,Sixpack Agua Sin Gas Sabor Limón San Luis Botella,11.0,wong,,,LIMÓN
-Sixpack Bebida San Luis Sabor Limón Botella 625ml,S/ 11.00,wong,LIMÓN,2024-12-05 18:25:57.978847,625.0,ml,Sixpack Bebida San Luis Sabor Limón Botella,11.0,wong,,,LIMÓN
-Sixpack Bebida San Luis Sabor Limón Botella 625ml,S/ 11.00,metro,LIMÓN,2024-12-05 15:54:16.337263,625.0,ml,Sixpack Bebida San Luis Sabor Limón Botella,11.0,metro,,,LIMÓN
-Sixpack Agua Sin Gas Sabor Limón San Luis Botella 625ml,S/ 11.00,metro,LIMÓN,2024-12-05 15:54:16.337263,625.0,ml,Sixpack Agua Sin Gas Sabor Limón San Luis Botella,11.0,metro,,,LIMÓN
-Limpiador Multiuso en Crema Cif Bioactive Limón 500ml,S/ 11.73,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Limpiador Multiuso en Crema Cif Bioactive Limón,11.73,wong,,,LIMÓN
-Sacagrasa Sapolio Aroma Limón 650ml,S/ 11.90,wong,LIMÓN,2024-12-05 18:25:57.978847,650.0,ml,Sacagrasa Sapolio Aroma Limón,11.9,wong,,,LIMÓN
-Tripack Doritos Dinamita Limón Taquero 80g,S/ 12.00,metro,LIMÓN,2024-12-05 15:54:16.337263,80.0,g,Tripack Doritos Dinamita Limón Taquero,12.0,metro,,,LIMÓN
-Lavavajillas Líquido Cif Limón 900ml,S/ 12.84,wong,LIMÓN,2024-12-05 18:25:57.978847,900.0,ml,Lavavajillas Líquido Cif Limón,12.84,wong,,,LIMÓN
-Lavavajillas Líquido Ayudín Limón y Sábila 640ml,S/ 12.90,metro,LIMÓN,2024-12-05 15:54:16.337263,640.0,ml,Lavavajillas Líquido Ayudín Limón y Sábila,12.9,metro,,,LIMÓN
-Lavavajillas Líquido Ayudín Limón y Sábila 640ml,S/ 12.90,wong,LIMÓN,2024-12-05 18:25:57.978847,640.0,ml,Lavavajillas Líquido Ayudín Limón y Sábila,12.9,wong,,,LIMÓN
-Lavavajillas Líquido Ayudín Lima Limón 640ml,S/ 12.90,wong,LIMÓN,2024-12-05 18:25:57.978847,640.0,ml,Lavavajillas Líquido Ayudín Lima Limón,12.9,wong,,,LIMÓN
-Free Tea Limon Light Six Pack Botella 450 ml c u,S/ 12.90,metro,LIMÓN,2024-12-05 15:54:16.337263,450.0,ml,Free Tea Limon Light Six Pack Botella  c u,12.9,metro,,,LIMÓN
-Lavavajillas Líquido AYUDIN Lima Limón 640ml,S/ 12.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,640.0,ml,Lavavajillas Líquido AYUDIN Lima Limón,12.9,vivanda,,AYUDIN,LIMÓN
-Trapero Húmedo Home Care Limón 12un,S/ 12.90,wong,LIMÓN,2024-12-05 18:25:57.978847,12.0,un,Trapero Húmedo Home Care Limón,12.9,wong,,,LIMÓN
-Free Tea Limon Six Pack Botella 450 ml c u,S/ 12.90,metro,LIMÓN,2024-12-05 15:54:16.337263,450.0,ml,Free Tea Limon Six Pack Botella  c u,12.9,metro,,,LIMÓN
-Sixpack Gaseosa Sprite Lima Limón Botella 500ml,S/ 13.50,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Sixpack Gaseosa Sprite Lima Limón Botella,13.5,metro,,,LIMÓN
-Sixpack Gaseosa Sprite Lima Limón Botella 500ml,S/ 13.50,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Sixpack Gaseosa Sprite Lima Limón Botella,13.5,wong,,,LIMÓN
-Lavavajillas Líquido FROSCH Limón Botella 750ml,S/ 13.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,750.0,ml,Lavavajillas Líquido FROSCH Limón Botella,13.9,vivanda,,FROSCH,LIMÓN
-Lavavajillas Lima Limón Sapolio Frasco 1250 ml,S/ 13.90,wong,LIMÓN,2024-12-05 18:25:57.978847,1250.0,ml,Lavavajillas Lima Limón Sapolio Frasco,13.9,wong,,,LIMÓN
-Pack x2 Chicle Sin Azúcar Trident X Splash Sabor Fresa y Limón 44.6g,S/ 14.00,metro,LIMÓN,2024-12-05 15:54:16.337263,44.6,g,Pack x2 Chicle Sin Azúcar Trident X Splash Sabor Fresa y Limón,14.0,metro,,,LIMÓN
-Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa 430g,S/ 14.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,430.0,g,Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa,14.5,vivanda,,AMBROSOLI,LIMÓN
-Kekes Sabor Limón Mr Brownie 8un,S/ 14.90,metro,LIMÓN,2024-12-05 15:54:16.337263,8.0,un,Kekes Sabor Limón Mr Brownie,14.9,metro,,,LIMÓN
-Set Jarra y Exprimidor Basa de Limón Top 2.8L,S/ 14.90,metro,LIMÓN,2024-12-05 15:54:16.337263,2.8,l,Set Jarra y Exprimidor Basa de Limón Top,14.9,metro,,,LIMÓN
-Lavavajilla Líquido CIF Limón Frasco 900ml,S/ 15.10,vivanda,LIMÓN,2024-12-05 21:58:17.082670,900.0,ml,Lavavajilla Líquido CIF Limón Frasco,15.1,vivanda,,CIF,LIMÓN
-Lustramuebles Premio Aroma Limón 360ml,S/ 15.70,wong,LIMÓN,2024-12-05 18:25:57.978847,360.0,ml,Lustramuebles Premio Aroma Limón,15.7,wong,,,LIMÓN
-Lavavajillas Líquido Ayudín Limón y Sábila 900ml,S/ 15.90,wong,LIMÓN,2024-12-05 18:25:57.978847,900.0,ml,Lavavajillas Líquido Ayudín Limón y Sábila,15.9,wong,,,LIMÓN
-Sardinas al Limón en Aceite Vegetal Vigilante 120g,S/ 16.60,metro,LIMÓN,2024-12-05 15:54:16.337263,120.0,g,Sardinas al Limón en Aceite Vegetal Vigilante,16.6,metro,,,LIMÓN
-Infusión Té Verde WAWASANA Limón Caja 50un,S/ 16.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,50.0,un,Infusión Té Verde WAWASANA Limón Caja,16.9,vivanda,,WAWASANA,LIMÓN
-Infusión Té Verde WAWASANA Limón Caja 50un,S/ 16.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,50.0,un,Infusión Té Verde WAWASANA Limón Caja,16.9,plaza_vea,Caja 50un,,LIMÓN
-Sardinas Palacio del Oriente con Limón en Aceite de Oliva Lata 125 g,S/ 17.40,metro,LIMÓN,2024-12-05 15:54:16.337263,125.0,g,Sardinas Palacio del Oriente con Limón en Aceite de Oliva Lata,17.4,metro,,,LIMÓN
-Pie de Limón Jar Momenti 120g,S/ 17.90,metro,LIMÓN,2024-12-05 15:54:16.337263,120.0,g,Pie de Limón Jar Momenti,17.9,metro,,,LIMÓN
-Lavavajillas Líquido Ayudín Limón y Sábila 1.2L,S/ 18.50,metro,LIMÓN,2024-12-05 15:54:16.337263,1.2,l,Lavavajillas Líquido Ayudín Limón y Sábila,18.5,metro,,,LIMÓN
-Lavavajillas Líquido Ayudín Limón y Sábila 1.2L,S/ 18.50,wong,LIMÓN,2024-12-05 18:25:57.978847,1.2,l,Lavavajillas Líquido Ayudín Limón y Sábila,18.5,wong,,,LIMÓN
-Lavavajillas Ayudín Lima Limón 1.2L,S/ 18.50,wong,LIMÓN,2024-12-05 18:25:57.978847,1.2,l,Lavavajillas Ayudín Lima Limón,18.5,wong,,,LIMÓN
-Limpiador Mr Músculo Líquido Quitagrasa Limón Gatillo 500ml,S/ 18.70,wong,LIMÓN,2024-12-05 18:25:57.978847,500.0,ml,Limpiador Mr Músculo Líquido Quitagrasa Limón Gatillo,18.7,wong,,,LIMÓN
-Detergente en Polvo Sapolio Aros de Poder Fresco Limón 2kg,S/ 18.90,wong,LIMÓN,2024-12-05 18:25:57.978847,2.0,kg,Detergente en Polvo Sapolio Aros de Poder Fresco Limón,18.9,wong,,,LIMÓN
-Té TWININGS Limón Jengibre Caja 10un,S/ 19.30,vivanda,LIMÓN,2024-12-05 21:58:17.082670,10.0,un,Té TWININGS Limón Jengibre Caja,19.3,vivanda,,TWININGS,LIMÓN
-Té TWININGS Limón Jengibre Caja 10un,S/ 19.70 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,10.0,un,Té TWININGS Limón Jengibre Caja,19.7,plaza_vea,Caja 10un,,LIMÓN
-Limpiador de Inodoro FROSCH Limón Botella 750 ml,S/ 19.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,750.0,ml,Limpiador de Inodoro FROSCH Limón Botella,19.9,vivanda,,FROSCH,LIMÓN
-Alfajores de Pie de Limón KATARI Caja 14un,S/ 19.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,14.0,un,Alfajores de Pie de Limón KATARI Caja,19.9,plaza_vea,Caja 14un,,LIMÓN
-Limón Tahití Deshidratado GO BARMAN Bolsa 25g,S/ 19.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,25.0,g,Limón Tahití Deshidratado GO BARMAN Bolsa,19.9,plaza_vea,Bolsa 25g,,LIMÓN
-Limón Tahití Deshidratado GO BARMAN Bolsa 25g,S/ 19.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,25.0,g,Limón Tahití Deshidratado GO BARMAN Bolsa,19.9,vivanda,,GO BARMAN,LIMÓN
-Fourpack Bebida Ready to Drink Corona Tropical Limón & Toronja Lata 355ml,S/ 19.90,metro,LIMÓN,2024-12-05 15:54:16.337263,355.0,ml,Fourpack Bebida Ready to Drink Corona Tropical Limón & Toronja Lata,19.9,metro,,,LIMÓN
-Bebida Ready to Drink Tabernero Sour Limón Botella 700ml,S/ 19.90,metro,LIMÓN,2024-12-05 15:54:16.337263,700.0,ml,Bebida Ready to Drink Tabernero Sour Limón Botella,19.9,metro,,,LIMÓN
-Pisco Sour TABERNERO Limón Botella 700ml,S/ 19.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,700.0,ml,Pisco Sour TABERNERO Limón Botella,19.9,vivanda,,TABERNERO,LIMÓN
-Ready To Drink (RTD) TABERNERO Sour Limón Bote...,S/ 19.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,700.0,ml,Ready To Drink (RTD) TABERNERO Sour Limón Bote,19.9,plaza_vea,Botella 700ml,,LIMÓN
-Helado Peziduri Sabor Pie de Limón 900ml,S/ 19.90,metro,LIMÓN,2024-12-05 15:54:16.337263,900.0,ml,Helado Peziduri Sabor Pie de Limón,19.9,metro,,,LIMÓN
-Limón Tahití Deshidratado Go Barman 25g,S/ 19.99,wong,LIMÓN,2024-12-05 18:25:57.978847,25.0,g,Limón Tahití Deshidratado Go Barman,19.99,wong,,,LIMÓN
-Desinfectante PINE SOL Limón Botella 1.8L,S/ 20.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,1.8,l,Desinfectante PINE SOL Limón Botella,20.5,vivanda,,PINE SOL,LIMÓN
-Sazonador Pimienta y Limón Badía Frasco 184 g,S/ 20.70,metro,LIMÓN,2024-12-05 15:54:16.337263,184.0,g,Sazonador Pimienta y Limón Badía Frasco,20.7,metro,,,LIMÓN
-Lavavajillas Líquido Home Care Limón 4L,S/ 21.90,wong,LIMÓN,2024-12-05 18:25:57.978847,4.0,l,Lavavajillas Líquido Home Care Limón,21.9,wong,,,LIMÓN
-Limpiador de Hornos y Parrillas Sapolio Aroma Limón 360ml,S/ 21.90,wong,LIMÓN,2024-12-05 18:25:57.978847,360.0,ml,Limpiador de Hornos y Parrillas Sapolio Aroma Limón,21.9,wong,,,LIMÓN
-Lavavajillas Líquido Home Care Limón 4L,S/ 21.90,metro,LIMÓN,2024-12-05 15:54:16.337263,4.0,l,Lavavajillas Líquido Home Care Limón,21.9,metro,,,LIMÓN
-Twopack Lavavajillas Cif Limón 900ml,S/ 24.16,wong,LIMÓN,2024-12-05 18:25:57.978847,900.0,ml,Twopack Lavavajillas Cif Limón,24.16,wong,,,LIMÓN
-Limpiador FROSCH Baño y Ducha Aroma Limón Botella 500ml,S/ 24.50,vivanda,LIMÓN,2024-12-05 21:58:17.082670,500.0,ml,Limpiador FROSCH Baño y Ducha Aroma Limón Botella,24.5,vivanda,,FROSCH,LIMÓN
-Bebida Ready to Drink Piscano Sour Sabor Limón Botella 700ml,S/ 24.50,metro,LIMÓN,2024-12-05 15:54:16.337263,700.0,ml,Bebida Ready to Drink Piscano Sour Sabor Limón Botella,24.5,metro,,,LIMÓN
-Goma de Mascar sin Azúcar TRIDENT Fresa y Limón 10un x17g,S/ 24.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,10.0,un,Goma de Mascar sin Azúcar TRIDENT Fresa y Limón  x,24.9,vivanda,,TRIDENT,LIMÓN
-Ron Saborizado Cartavio Limón Botella 750ml,S/ 25.90,metro,LIMÓN,2024-12-05 15:54:16.337263,750.0,ml,Ron Saborizado Cartavio Limón Botella,25.9,metro,,,LIMÓN
-Almidón Niagara Original Limón Spray 20 Onzas,S/ 26.60,wong,LIMÓN,2024-12-05 18:25:57.978847,20.0,oz,Almidón Niagara Original Limón Spray,26.6,wong,,,LIMÓN
-Detergente en Polvo Home Care Limón 4kg,S/ 26.90,wong,LIMÓN,2024-12-05 18:25:57.978847,4.0,kg,Detergente en Polvo Home Care Limón,26.9,wong,,,LIMÓN
-Detergente en Polvo Ace Limón 2kg,S/ 27.90,wong,LIMÓN,2024-12-05 18:25:57.978847,2.0,kg,Detergente en Polvo Ace Limón,27.9,wong,,,LIMÓN
-Té STASH Limón Jengibre Caja 20un,S/ 30.30 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,20.0,un,Té STASH Limón Jengibre Caja,30.3,plaza_vea,Caja 20un,,LIMÓN
-Helado Momenti Gelato Pie de Limón 500ml,S/ 32.90,metro,LIMÓN,2024-12-05 15:54:16.337263,500.0,ml,Helado Momenti Gelato Pie de Limón,32.9,metro,,,LIMÓN
-Pack Queirolo: Vino Borgoña 2un + Chilcano Limón,S/ 32.90,metro,LIMÓN,2024-12-05 15:54:16.337263,2.0,un,Pack Queirolo: Vino Borgoña  + Chilcano Limón,32.9,metro,,,LIMÓN
-Pack x33 Suplemento Nutricional Efervescente Magnesol Sabor Limón 5g,S/ 36.50,metro,LIMÓN,2024-12-05 15:54:16.337263,5.0,g,Pack x33 Suplemento Nutricional Efervescente Magnesol Sabor Limón,36.5,metro,,,LIMÓN
-Detergente en Polvo Ace Limón 4kg,S/ 44.90,metro,LIMÓN,2024-12-05 15:54:16.337263,4.0,kg,Detergente en Polvo Ace Limón,44.9,metro,,,LIMÓN
-Pie de Limón LA FLORENCIA 1un,S/ 45.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,1.0,un,Pie de Limón LA FLORENCIA,45.9,plaza_vea,Bandeja 1un,,LIMÓN
-Pastillas para Lavavajillas Frosch Limón 30un,S/ 50.90,wong,LIMÓN,2024-12-05 18:25:57.978847,30.0,un,Pastillas para Lavavajillas Frosch Limón,50.9,wong,,,LIMÓN
-Ron BACARDI Limón Botella 750ml,S/ 52.90 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,750.0,ml,Ron BACARDI Limón Botella,52.9,plaza_vea,Botella 750ml,,LIMÓN
-Ron Blanco Bacardí Limón Botella 750ml,S/ 54.90,metro,LIMÓN,2024-12-05 15:54:16.337263,750.0,ml,Ron Blanco Bacardí Limón Botella,54.9,metro,,,LIMÓN
-Detergente en Polvo ACE Limón Bolsa 4Kg,S/ 54.90,vivanda,LIMÓN,2024-12-05 21:58:17.082670,4.0,kg,Detergente en Polvo ACE Limón Bolsa,54.9,vivanda,,ACE,LIMÓN
-Pack Pisco CUATRO GALLOS Puro Quebranta Botell...,S/ 68.89 un,plaza_vea,LIMÓN,2024-12-05 15:11:58.736950,2.0,un,Pack Pisco CUATRO GALLOS Puro Quebranta Botell,68.89,plaza_vea,Pack 2un,,LIMÓN
-Twopack Detergente en Polvo Ace Limón 4kg,S/ 86.90,metro,LIMÓN,2024-12-05 15:54:16.337263,4.0,kg,Twopack Detergente en Polvo Ace Limón,86.9,metro,,,LIMÓN
-Helado Pye de Limón Dulce Pasión 5L,S/ 99.90,metro,LIMÓN,2024-12-05 15:54:16.337263,5.0,l,Helado Pye de Limón Dulce Pasión,99.9,metro,,,LIMÓN
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+YOG. GRIEGO PIE DE LIMON LAIVE VASO 115G,,115.0,g,2.0,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,17.391304347826086
+Caramelos Masticables MENTOS Limón Paquete 29.04g,MENTOS,29.04,g,2.0,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,68.87052341597796
+Yogurt Griego LAIVE Sabor a Pie de Limón Vaso ...,,115.0,g,2.2,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,19.130434782608695
+Bebida Instantánea en Polvo CLIGHT Limón con Splenda Sobre 7g,CLIGHT,7.0,g,2.3,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,328.57142857142856
+Bebida en Polvo Clight Sin Calorías Sabor Limón 14g,,14.0,g,2.3,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,164.28571428571428
+Marshmellows Mr. Mallo Limones Bolsa 100 g,,100.0,g,2.9,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,29.0
+Limón x kg,,1.0,kg,2.99,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,2.99
+Limón Sutil x kg,,1.0,kg,2.99,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,2.99
+Limón Sútil x kg,,1.0,kg,2.99,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,2.99
+Jabón Aroma Limón BOLÍVAR Cuidado Total Paquete 190g,BOLÍVAR,190.0,g,3.2,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,16.842105263157897
+Jabón para Ropa Bolívar Limón 190g,,190.0,g,3.2,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,16.842105263157897
+Limón Ácido,,0.5,kg,3.29,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,6.58
+Limón x kg,,1.0,kg,3.59,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,3.59
+Gelatina UMSHA Sabor a Limón Bolsa 120g,,120.0,g,3.7,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,30.833333333333336
+Gelatina UMSHA Sabor a Limón Bolsa 120g,UMSHA,120.0,g,3.7,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,30.833333333333336
+Gelatina Sabor Limón Diet Universal 19g,,19.0,g,3.7,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,194.73684210526318
+Gelatina Sabor Limón Diet Universal 19g,,19.0,g,3.8,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,200.0
+Gelatina Universal de Limón Sobre 130g,,130.0,g,3.99,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,30.69230769230769
+Limón Tahiti Metro x kg,,1.0,kg,3.99,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,3.99
+Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,UNIVERSAL,130.0,g,3.99,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,30.69230769230769
+Gelatina UNIVERSAL Sabor a Limón Bolsa 130g,,130.0,g,3.99,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,30.69230769230769
+Limón Acido x kg,VIVANDA,1.0,kg,3.99,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,3.99
+Limón Tahíti x kg,,1.0,kg,4.19,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,4.19
+Limón Tahíti x kg,,1.0,kg,4.19,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,4.19
+Limón Tahití x kg,,1.0,kg,4.2,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,4.2
+Lejía BOREAL Limón Botella 2000g,BOREAL,2000.0,g,4.2,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,2.1
+Caramelos de Limón BELL'S Bolsa 250g,BELL'S,250.0,g,4.5,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,18.0
+Lavavajillas en Pasta Home Care Limón 800g,,800.0,g,4.5,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,5.625
+Tortillas de Queso DORITOS Dinamita Limón Bolsa 80g,DORITOS,80.0,g,5.0,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,62.5
+Sixpack Galleta con Crema Casino Pie de Limón 43g,,43.0,g,5.0,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,116.27906976744187
+Sixpack Galleta con Crema Casino Pie de Limón 43g,,43.0,g,5.0,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,116.27906976744187
+Limón Eureka x kg,,1.0,kg,5.3,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,5.3
+Galletas Sabor a Limón Colombina Casita de Navidad 50g Surtido,,50.0,g,5.4,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,108.0
+Lavavajilla en Pasta BOREAL Limón Pote 800g,BOREAL,800.0,g,5.5,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,6.875
+Limón Eureka x kg,,1.0,kg,5.5,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,5.5
+Lavavajillas en Pasta Home Care Limón 800g,,800.0,g,5.5,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,6.875
+Jabón para Ropa Bolívar Limón 380g,,380.0,g,5.7,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,15.000000000000002
+Jabón Aroma Limón BOLÍVAR Cuidado Total Paquete 380g,BOLÍVAR,380.0,g,5.7,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,15.000000000000002
+Limón Gold,,0.5,kg,5.9,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,11.8
+Lavavajilla en Pasta Sapolio Limón 800g,,800.0,g,6.0,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,7.5
+Lavavajilla en Pasta Sapolio Limón 800g,,800.0,g,6.0,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,7.5
+Limón Dulce x kg,,1.0,kg,6.09,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,6.09
+Lavavajillas en Pasta Ayudín Limón y Sábila 520g,,520.0,g,6.5,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,12.499999999999998
+Maní Oriental Granuts Kraks Sabor Limón 180g,,180.0,g,6.5,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,36.11111111111111
+Papas Nativas Fritas Tiyapuy Sabor Limón y Pimienta 142g,,142.0,g,6.5,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,45.774647887323944
+Pulidor en Polvo Sapolio Cocina Limón 450g,,450.0,g,7.3,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,16.22222222222222
+Pulidor de Cocina SAPOLIO Limón Frasco 450g,SAPOLIO,450.0,g,7.3,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,16.22222222222222
+Caramelos Ambrosoli Cocoroko Limón 350g,,350.0,g,7.7,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,22.0
+Mayonesa DELGA-C con Limón Libre de Grasa Doyp...,,400.0,g,7.7,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,19.25
+Twopack Doritos Dinamita Limón Taquero 80g,,80.0,g,8.5,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,106.25
+Lavavajillas en Pasta Ayudín Limón y Sábila 950g,,950.0,g,9.0,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,9.473684210526315
+Caramelos Arcor Limón Bolsa 390 g,,390.0,g,10.2,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,26.15384615384615
+Twopack Gelatina en Polvo Royal Sabor Limón 160g,,160.0,g,10.4,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,65.0
+Tripack Doritos Dinamita Limón Taquero 80g,,80.0,g,12.0,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,150.0
+Detergente en Polvo ACE Aroma Limón Bolsa 750g,ACE,750.0,g,12.9,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,17.2
+Limpiador en Crema CIF Bioactive Limón Botella 750g,CIF,750.0,g,13.2,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,17.599999999999998
+Pack x2 Chicle Sin Azúcar Trident X Splash Sabor Fresa y Limón 44.6g,,44.6,g,14.0,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,313.9013452914798
+Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa 430g,AMBROSOLI,430.0,g,14.5,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,33.72093023255814
+Sardinas al Limón en Aceite Vegetal Vigilante 120g,,120.0,g,16.6,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,138.33333333333334
+Pie de Limón Jar Momenti 120g,,120.0,g,17.9,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,149.16666666666666
+Detergente en Polvo Sapolio Aros de Poder Fresco Limón 2kg,,2.0,kg,18.9,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,9.45
+Limón Tahití Deshidratado GO BARMAN Bolsa 25g,GO BARMAN,25.0,g,19.9,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,796.0
+Limón Tahití Deshidratado GO BARMAN Bolsa 25g,,25.0,g,19.9,plaza_vea,2024-12-05 15:11:58.736950,LIMÓN,1.0,kg,796.0
+Limón Tahití Deshidratado Go Barman 25g,,25.0,g,19.99,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,799.5999999999999
+Helado Sabor Pye de Limón Dulce Pasión 650g,,650.0,g,23.5,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,36.15384615384615
+Detergente en Polvo Home Care Limón 4kg,,4.0,kg,26.9,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,6.725
+Detergente en Polvo ACE Limón Bolsa 2Kg,ACE,2.0,kg,29.9,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,14.95
+Detergente en Polvo Ace Limón 4kg,,4.0,kg,44.9,wong,2024-12-05 18:25:57.978847,LIMÓN,1.0,kg,11.225
+Detergente en Polvo Ace Limón 4kg,,4.0,kg,44.9,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,11.225
+Detergente en Polvo ACE Limón Bolsa 4Kg,ACE,4.0,kg,54.9,vivanda,2024-12-05 21:58:17.082670,LIMÓN,1.0,kg,13.725
+Twopack Detergente en Polvo Ace Limón 4kg,,4.0,kg,86.9,metro,2024-12-05 15:54:16.337263,LIMÓN,1.0,kg,21.725

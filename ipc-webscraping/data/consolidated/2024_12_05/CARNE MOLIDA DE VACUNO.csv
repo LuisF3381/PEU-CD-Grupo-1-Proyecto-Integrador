@@ -1,167 +1,137 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Sopa Instántanea AJINOMEN Sabor a Carne Bolsa 80g,S/ 1.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,80.0,g,Sopa Instántanea AJINOMEN Sabor a Carne Bolsa,1.6,vivanda,,AJINOMEN,CARNE MOLIDA DE VACUNO
-Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja 42g,S/ 2.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,42.0,g,Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja,2.2,vivanda,,DOÑA GUSTA,CARNE MOLIDA DE VACUNO
-Concentrado en Polvo Doña Gusta Sabor Carne 6un,S/ 2.20,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,6.0,un,Concentrado en Polvo Doña Gusta Sabor Carne,2.2,metro,,,CARNE MOLIDA DE VACUNO
-Pimienta Negra Molida BELL'S Sobre 15g,S/ 2.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,15.0,g,Pimienta Negra Molida BELL'S Sobre,2.5,vivanda,,BELL'S,CARNE MOLIDA DE VACUNO
-Pimienta Negra Molida Cuisine & Co 18g,S/ 3.20,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,18.0,g,Pimienta Negra Molida Cuisine & Co,3.2,metro,,,CARNE MOLIDA DE VACUNO
-Empanada de Carne LA FLORENCIA 1un,S/ 3.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,un,Empanada de Carne LA FLORENCIA,3.7,vivanda,,LA FLORENCIA,CARNE MOLIDA DE VACUNO
-Canela Molida KARIÑO Sobre 12g,S/ 4.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,12.0,g,Canela Molida KARIÑO Sobre,4.2,vivanda,,KARINO,CARNE MOLIDA DE VACUNO
-Pimienta Negra Molida Sibarita Sobre 6 Unid,S/ 4.30,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,6.0,un,Pimienta Negra Molida Sibarita Sobre,4.3,metro,,,CARNE MOLIDA DE VACUNO
-Caldo en cubitos MAGGI Sabor carne Caja 75.2Gr,S/ 4.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,75.2,g,Caldo en cubitos MAGGI Sabor carne Caja r,4.5,vivanda,,MAGGI,CARNE MOLIDA DE VACUNO
-Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch 85g,S/ 4.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,85.0,g,Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch,4.8,vivanda,,FELIX,CARNE MOLIDA DE VACUNO
-"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch 100g",S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,100.0,g,"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch",4.9,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos Cena de Carne Pouch 100g,S/ 4.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,100.0,g,Comida para Perros DOG CHOW Adultos Cena de Carne Pouch,4.9,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Pimienta Negra Molida 4 ESTACIONES Frasco 35g,S/ 4.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,35.0,g,Pimienta Negra Molida 4 ESTACIONES Frasco,4.99,vivanda,,4ESTACIONES,CARNE MOLIDA DE VACUNO
-Nuggets de Pollo San Fernando 180g,S/ 5.00,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,180.0,g,Nuggets de Pollo San Fernando,5.0,metro,,,CARNE MOLIDA DE VACUNO
-Caldo MAGGI Cubito Sabor Carne 100g Paquete 25un,S/ 5.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,100.0,g,Caldo MAGGI Cubito Sabor Carne  Paquete,5.5,vivanda,,MAGGI,CARNE MOLIDA DE VACUNO
-Comida para Perros RICOCAN Adultos Paté con Carne Lata 330g,S/ 5.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,330.0,g,Comida para Perros RICOCAN Adultos Paté con Carne Lata,5.9,vivanda,,RICOCAN,CARNE MOLIDA DE VACUNO
-Sangrecita Sin Condimentos Redondos Bolsa 500 g,S/ 6.39,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Sangrecita Sin Condimentos Redondos Bolsa,6.39,metro,,,CARNE MOLIDA DE VACUNO
-Sangrecita Criolla Cuisine & Co 500g,S/ 6.40,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Sangrecita Criolla Cuisine & Co,6.4,metro,,,CARNE MOLIDA DE VACUNO
-Nuggets de Pechuga de Pollo Redondos 12un,S/ 6.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,12.0,un,Nuggets de Pechuga de Pollo Redondos,6.5,metro,,,CARNE MOLIDA DE VACUNO
-Bonito Entero x kg,S/ 6.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Bonito Entero,6.9,metro,,,CARNE MOLIDA DE VACUNO
-Pimienta KARIÑO Negra molida Frasco 40Gr,S/ 6.99,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,40.0,g,Pimienta KARIÑO Negra molida Frasco r,6.99,vivanda,,KARINO,CARNE MOLIDA DE VACUNO
-Pierna con Encuentro Congelada Importada x kg,S/ 7.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pierna con Encuentro Congelada Importada,7.9,metro,,,CARNE MOLIDA DE VACUNO
-Patas de Pollo Redondos x kg,S/ 7.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Patas de Pollo Redondos,7.9,metro,,,CARNE MOLIDA DE VACUNO
-Huevos de Codorniz Metro Paquete 18 Unid,S/ 8.35,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,18.0,un,Huevos de Codorniz Metro Paquete,8.35,metro,,,CARNE MOLIDA DE VACUNO
-Gallina Entera Con Menudencia Importada x Kg,S/ 8.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Gallina Entera Con Menudencia Importada,8.9,metro,,,CARNE MOLIDA DE VACUNO
-Hígado de Pollo Redondos x kg,S/ 8.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Hígado de Pollo Redondos,8.9,metro,,,CARNE MOLIDA DE VACUNO
-Pierna de Pollo Importada x kg,S/ 8.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pierna de Pollo Importada,8.9,metro,,,CARNE MOLIDA DE VACUNO
-Pollo Entero Fresco Metro x kg,S/ 9.40 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pollo Entero Fresco Metro,9.4,metro,,,CARNE MOLIDA DE VACUNO
-Porciones de Bonito Congelado Bolsa 500 g,S/ 9.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Porciones de Bonito Congelado Bolsa,9.5,metro,,,CARNE MOLIDA DE VACUNO
-Pimienta BADIA Negra molida Frasco 56.7Gr,S/ 9.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,56.7,g,Pimienta BADIA Negra molida Frasco r,9.9,vivanda,,BADIA,CARNE MOLIDA DE VACUNO
-Huevitos de Codorniz Reyal Bandeja 24 Unid,S/ 10.20,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,24.0,un,Huevitos de Codorniz Reyal Bandeja,10.2,metro,,,CARNE MOLIDA DE VACUNO
-Pollo con Menudencia Redondos x kg,S/ 10.25 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pollo con Menudencia Redondos,10.25,metro,,,CARNE MOLIDA DE VACUNO
-Pollo Fresco con Menudencia San Fernando x Kg,S/ 10.45 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pollo Fresco con Menudencia San Fernando,10.45,metro,,,CARNE MOLIDA DE VACUNO
-Ravioles de Carne y Verdura BELL'S Paquete 500g,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,500.0,g,Ravioles de Carne y Verdura BELL'S Paquete,10.9,vivanda,,BELL'S,CARNE MOLIDA DE VACUNO
-Lunch Picante de Carne con Arroz LA FLORENCIA 450g,S/ 10.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,450.0,g,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9,vivanda,,LA FLORENCIA,CARNE MOLIDA DE VACUNO
-Ravioles de Carne Metro 500g,S/ 10.99,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Ravioles de Carne Metro,10.99,metro,,,CARNE MOLIDA DE VACUNO
-Nuggets de Pollo con Brócoli Avinka 15un,S/ 10.99,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,un,Nuggets de Pollo con Brócoli Avinka,10.99,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Pardos Metro 15un,S/ 10.99,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,un,Huevos Pardos Metro,10.99,metro,,,CARNE MOLIDA DE VACUNO
-Nuggets de Pollo con Quinua Avinka 15un,S/ 10.99,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,un,Nuggets de Pollo con Quinua Avinka,10.99,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Clásicos Blancos La Calera 15un,S/ 11.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,un,Huevos Clásicos Blancos La Calera,11.5,metro,,,CARNE MOLIDA DE VACUNO
-Hamburguesa San Fernando La Super Rica 14un,S/ 12.45,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,14.0,un,Hamburguesa San Fernando La Super Rica,12.45,metro,,,CARNE MOLIDA DE VACUNO
-Huevos de Corral Metro 12un,S/ 12.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,12.0,un,Huevos de Corral Metro,12.5,metro,,,CARNE MOLIDA DE VACUNO
-Hamburguesa de Carne La Casera SAN FERNANDO Bolsa 910g,S/ 12.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,910.0,g,Hamburguesa de Carne La Casera SAN FERNANDO Bolsa,12.6,vivanda,,SAN FERNANDO,CARNE MOLIDA DE VACUNO
-Carne de Pollo Molida San Fernando 500g,S/ 12.70,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Carne de Pollo Molida San Fernando,12.7,metro,,,CARNE MOLIDA DE VACUNO
-Tilapia en Filetes Congelada Cuisine & Co 500g,S/ 12.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Tilapia en Filetes Congelada Cuisine & Co,12.9,metro,,,CARNE MOLIDA DE VACUNO
-Pulmón Precocido para Chanfainita x kg,S/ 12.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pulmón Precocido para Chanfainita,12.9,metro,,,CARNE MOLIDA DE VACUNO
-Corazón de Pollo Redondos x kg,S/ 12.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Corazón de Pollo Redondos,12.9,metro,,,CARNE MOLIDA DE VACUNO
-Deditos de Pollo Avinka 12un,S/ 12.99,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,12.0,un,Deditos de Pollo Avinka,12.99,metro,,,CARNE MOLIDA DE VACUNO
-Empanada de Carne LA FLORENCIA Paquete 4un,S/ 13.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,4.0,un,Empanada de Carne LA FLORENCIA Paquete,13.2,vivanda,,LA FLORENCIA,CARNE MOLIDA DE VACUNO
-Porciones de Perico Pescanova 300g,S/ 13.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,300.0,g,Porciones de Perico Pescanova,13.5,metro,,,CARNE MOLIDA DE VACUNO
-Hamburguesas de Pollo Redondos 14un,S/ 13.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,14.0,un,Hamburguesas de Pollo Redondos,13.5,metro,,,CARNE MOLIDA DE VACUNO
-Tiras de Pechuga de Pollo Redondos 8un,S/ 13.70,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,8.0,un,Tiras de Pechuga de Pollo Redondos,13.7,metro,,,CARNE MOLIDA DE VACUNO
-Hígado de Res Importado Trozado x kg,S/ 13.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Hígado de Res Importado Trozado,13.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida Económica Congelada Los Hierros x 500 g,S/ 13.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Carne Molida Económica Congelada Los Hierros x,13.9,metro,,,CARNE MOLIDA DE VACUNO
-Molleja de Pollo Redondos x kg,S/ 13.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Molleja de Pollo Redondos,13.9,metro,,,CARNE MOLIDA DE VACUNO
-Ravioles de Carne LA FLORENCIA 24un,S/ 14.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,24.0,un,Ravioles de Carne LA FLORENCIA,14.2,vivanda,,LA FLORENCIA,CARNE MOLIDA DE VACUNO
-Pierna con Encuentro de Pollo Redondos x kg,S/ 14.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pierna con Encuentro de Pollo Redondos,14.5,metro,,,CARNE MOLIDA DE VACUNO
-Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa 1Kg,S/ 14.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,kg,Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa,14.5,vivanda,,RICOCAT,CARNE MOLIDA DE VACUNO
-Huevo de Corral La Calera 12un.,S/ 14.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,12.0,un,Huevo de Corral La Calera .,14.5,metro,,,CARNE MOLIDA DE VACUNO
-Chuleta Punta de Lomo x kg,S/ 14.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Chuleta Punta de Lomo,14.9,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Pardos Artisan 15un,S/ 14.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,un,Huevos Pardos Artisan,14.9,metro,,,CARNE MOLIDA DE VACUNO
-La Súper San Fernando 14un,S/ 14.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,14.0,un,La Súper San Fernando,14.9,metro,,,CARNE MOLIDA DE VACUNO
-Pavo Entero Redondos x kg,S/ 14.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pavo Entero Redondos,14.9,metro,,,CARNE MOLIDA DE VACUNO
-Pavo Entero Congelado San Fernando x kg,S/ 15.40 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pavo Entero Congelado San Fernando,15.4,metro,,,CARNE MOLIDA DE VACUNO
-Pechuga Entera de Pollo Redondos x kg,S/ 15.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pechuga Entera de Pollo Redondos,15.5,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida de Cerdo SAN FERNANDO Paquete 500g,S/ 15.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,500.0,g,Carne Molida de Cerdo SAN FERNANDO Paquete,15.5,vivanda,,SAN FERNANDO,CARNE MOLIDA DE VACUNO
-Huevos Pardos Metro 30un,S/ 15.70,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,30.0,un,Huevos Pardos Metro,15.7,metro,,,CARNE MOLIDA DE VACUNO
-Milanesa de Pollo Cuisine & Co 400g,S/ 15.70,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,400.0,g,Milanesa de Pollo Cuisine & Co,15.7,metro,,,CARNE MOLIDA DE VACUNO
-Nuggets de Pechuga de Pollo San Fernando 24un,S/ 15.80,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,24.0,un,Nuggets de Pechuga de Pollo San Fernando,15.8,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida de Pavita x 500g,S/ 15.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,500.0,g,Carne Molida de Pavita x,15.9,vivanda,,VIVANDA,CARNE MOLIDA DE VACUNO
-Pierna de Pollo Redondos x kg,S/ 15.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pierna de Pollo Redondos,15.9,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Gallinas Libres 12un,S/ 15.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,12.0,un,Huevos Gallinas Libres,15.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida de Pavita San Fernando Bolsa 500 g,S/ 16.40,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Carne Molida de Pavita San Fernando Bolsa,16.4,metro,,,CARNE MOLIDA DE VACUNO
-Muslo de de Pollo Redondos x kg,S/ 16.49 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Muslo de de Pollo Redondos,16.49,metro,,,CARNE MOLIDA DE VACUNO
-Pierna de Pollo Congelada San Fernando x kg,S/ 16.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pierna de Pollo Congelada San Fernando,16.5,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Pechuga Importado x kg,S/ 16.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Pechuga Importado,16.5,metro,,,CARNE MOLIDA DE VACUNO
-Muslo de Pollo Congelado San Fernando x kg,S/ 16.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Muslo de Pollo Congelado San Fernando,16.5,metro,,,CARNE MOLIDA DE VACUNO
-Nuggets de Pechuga de Pollo Redondos 36un,S/ 16.60,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,36.0,un,Nuggets de Pechuga de Pollo Redondos,16.6,metro,,,CARNE MOLIDA DE VACUNO
-Mondongo Picado a La Italiana x kg,S/ 16.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Mondongo Picado a La Italiana,16.9,metro,,,CARNE MOLIDA DE VACUNO
-El Churrasquito de Carne Schilcayo 14un,S/ 16.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,14.0,un,El Churrasquito de Carne Schilcayo,16.9,metro,,,CARNE MOLIDA DE VACUNO
-Mondongo Picado para Cau Cau x kg,S/ 16.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Mondongo Picado para Cau Cau,16.9,metro,,,CARNE MOLIDA DE VACUNO
-Pechuga Especial de Pollo Redondos x kg,S/ 17.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pechuga Especial de Pollo Redondos,17.5,metro,,,CARNE MOLIDA DE VACUNO
-Costillar Nacional x kg,S/ 18.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Costillar Nacional,18.9,metro,,,CARNE MOLIDA DE VACUNO
-Chuleta de Lomo de Cerdo con Piel Porcionado x kg,S/ 18.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Chuleta de Lomo de Cerdo con Piel Porcionado,18.9,metro,,,CARNE MOLIDA DE VACUNO
-Trucha Entera Eviscerada x kg,S/ 18.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Trucha Entera Eviscerada,18.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida Especial Congelada Los Hierros x 500 g,S/ 18.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Carne Molida Especial Congelada Los Hierros x,18.9,metro,,,CARNE MOLIDA DE VACUNO
-Chuleta de Pierna de Cerdo con Piel Porcionada x kg,S/ 18.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Chuleta de Pierna de Cerdo con Piel Porcionada,18.9,metro,,,CARNE MOLIDA DE VACUNO
-Pechuga de Pavita en Trozos San Fernando x Kg,S/ 18.99 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pechuga de Pavita en Trozos San Fernando,18.99,metro,,,CARNE MOLIDA DE VACUNO
-Pechuga Light de Pollo Redondos x kg,S/ 19.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Pechuga Light de Pollo Redondos,19.5,metro,,,CARNE MOLIDA DE VACUNO
-Salsa de Carne DON ITALO Pote 250g,S/ 19.70,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,250.0,g,Salsa de Carne DON ITALO Pote,19.7,vivanda,,DON ITALO,CARNE MOLIDA DE VACUNO
-Carne Molida de Res Empacada al vacío EL BUEN ...,S/ 19.80 x kg,plaza_vea,CARNE MOLIDA DE VACUNO,2024-12-05 14:43:30.656453,0.6,kg,Carne Molida de Res Empacada al vacío EL BUEN,19.8,plaza_vea,Presentación 0.6 kg aprox.,,CARNE MOLIDA DE VACUNO
-Carne Molida Porcionada Los Hierros 800g,S/ 19.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,800.0,g,Carne Molida Porcionada Los Hierros,19.9,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Tilapia Umi Foods 1kg,S/ 20.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Tilapia Umi Foods,20.5,metro,,,CARNE MOLIDA DE VACUNO
-Sancochado Punta de Pecho Nacional x kg,S/ 21.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Sancochado Punta de Pecho Nacional,21.9,metro,,,CARNE MOLIDA DE VACUNO
-Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,S/ 21.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.4,kg,Pollo Entero Marinado Sazón Brasa San Fernando,21.9,metro,,,CARNE MOLIDA DE VACUNO
-Guiso de Pechuga de Pavita San Fernando x kg,S/ 22.70 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Guiso de Pechuga de Pavita San Fernando,22.7,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Pierna de Pollo Sin Piel Redondos x kg,S/ 22.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Pierna de Pollo Sin Piel Redondos,22.9,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Clásicos Pardos La Calera 30un,S/ 23.30,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,30.0,un,Huevos Clásicos Pardos La Calera,23.3,metro,,,CARNE MOLIDA DE VACUNO
-Medallón de Muslo de Pavita San Fernando x kg,S/ 23.99 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Medallón de Muslo de Pavita San Fernando,23.99,metro,,,CARNE MOLIDA DE VACUNO
-"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 1.5kg",S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.5,kg,"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa",24.5,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 1.5kg,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.5,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,24.5,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 1.5kg,S/ 24.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.5,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,24.5,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Guiso de Cerdo x kg,S/ 24.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Guiso de Cerdo,24.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida Especial Nacional x kg,S/ 24.99 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne Molida Especial Nacional,24.99,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida EL BUEN CORTE x kg,S/ 25.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,kg,Carne Molida EL BUEN CORTE,25.0,vivanda,,EL BUEN CORTE,CARNE MOLIDA DE VACUNO
-Filete de Pechuga Pollo Redondos x kg,S/ 25.40 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Pechuga Pollo Redondos,25.4,metro,,,CARNE MOLIDA DE VACUNO
-Sancochado de Osobuco Nacional Porcionado x kg,S/ 25.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Sancochado de Osobuco Nacional Porcionado,25.9,metro,,,CARNE MOLIDA DE VACUNO
-Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 500g,S/ 26.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,500.0,g,Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa,26.2,vivanda,,PURINA ONE,CARNE MOLIDA DE VACUNO
-Filete de Pechuga de Pollo Congelada San Fernando x kg,S/ 26.70 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Pechuga de Pollo Congelada San Fernando,26.7,metro,,,CARNE MOLIDA DE VACUNO
-Tilapia en Filetes Congelada Cuisine & Co 1kg,S/ 26.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Tilapia en Filetes Congelada Cuisine & Co,26.9,metro,,,CARNE MOLIDA DE VACUNO
-Hamburguesas de Res Oregon Foods 8un,S/ 28.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,8.0,un,Hamburguesas de Res Oregon Foods,28.5,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Trucha Cuisine & Co 500g,S/ 28.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Filete de Trucha Cuisine & Co,28.9,metro,,,CARNE MOLIDA DE VACUNO
-Hamburguesa de Res Otto Kunz 8un,S/ 28.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,8.0,un,Hamburguesa de Res Otto Kunz,28.9,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Trucha Arco Iris Bolsa 500 g,S/ 29.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Filete de Trucha Arco Iris Bolsa,29.5,metro,,,CARNE MOLIDA DE VACUNO
-Chuleta de Pechuga de Pavita San Fernando x kg,S/ 29.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Chuleta de Pechuga de Pavita San Fernando,29.9,metro,,,CARNE MOLIDA DE VACUNO
-Panceta de Cerdo en Tiras con Piel y con Hueso x kg,S/ 29.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Panceta de Cerdo en Tiras con Piel y con Hueso,29.9,metro,,,CARNE MOLIDA DE VACUNO
-Albóndiga de Res De la Casa x kg,S/ 29.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Albóndiga de Res De la Casa,29.9,metro,,,CARNE MOLIDA DE VACUNO
-Ravioles DON ITALO De carne Bandeja 500Gr,S/ 32.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,500.0,g,Ravioles DON ITALO De carne Bandeja r,32.5,vivanda,,DON ITALO,CARNE MOLIDA DE VACUNO
-Panceta de Cerdo con Piel y con Hueso x kg,S/ 33.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Panceta de Cerdo con Piel y con Hueso,33.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne para Guiso Nacional x kg,S/ 33.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Guiso Nacional,33.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne para Guiso Nacional x kg,S/ 33.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Guiso Nacional,33.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida Light de Res Empacada al vacío EL...,S/ 34.80 x kg,plaza_vea,CARNE MOLIDA DE VACUNO,2024-12-05 14:43:30.656453,0.6,kg,Carne Molida Light de Res Empacada al vacío EL,34.8,plaza_vea,Presentación 0.6 kg aprox.,,CARNE MOLIDA DE VACUNO
-Lechón Entero Congelado Redondos x kg,S/ 34.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Lechón Entero Congelado Redondos,34.9,metro,,,CARNE MOLIDA DE VACUNO
-Pollo Enrollado Cordon Bleu Redondos x un,S/ 34.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,un,Pollo Enrollado Cordon Bleu Redondos,34.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida de Bisteck Nacional x kg,S/ 35.80 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne Molida de Bisteck Nacional,35.8,metro,,,CARNE MOLIDA DE VACUNO
-Carne Molida Light EL BUEN CORTE x kg,S/ 36.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,kg,Carne Molida Light EL BUEN CORTE,36.5,vivanda,,EL BUEN CORTE,CARNE MOLIDA DE VACUNO
-Churrasco Redondo Nacional Porcionado x kg,S/ 36.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Churrasco Redondo Nacional Porcionado,36.9,metro,,,CARNE MOLIDA DE VACUNO
-Churrasco Largo Nacional Porcionado x kg,S/ 36.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Churrasco Largo Nacional Porcionado,36.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne para Guiso de Ternero Wong x kg,S/ 37.60 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Guiso de Ternero Wong,37.6,metro,,,CARNE MOLIDA DE VACUNO
-Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando x kg,S/ 38.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando,38.9,metro,,,CARNE MOLIDA DE VACUNO
-Carne Picada de Res Metro x kg,S/ 38.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne Picada de Res Metro,38.9,metro,,,CARNE MOLIDA DE VACUNO
-Bisteck Bola de Lomo Nacional x kg,S/ 39.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Bisteck Bola de Lomo Nacional,39.9,metro,,,CARNE MOLIDA DE VACUNO
-Bisteck de Tapa Nacional x kg,S/ 39.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Bisteck de Tapa Nacional,39.9,metro,,,CARNE MOLIDA DE VACUNO
-Bisteck de Paleta Nacional x kg,S/ 39.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Bisteck de Paleta Nacional,39.9,metro,,,CARNE MOLIDA DE VACUNO
-Huevos Pardos Metro Bandeja 90 Unid,S/ 40.00,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,90.0,un,Huevos Pardos Metro Bandeja,40.0,metro,,,CARNE MOLIDA DE VACUNO
-Carne para Guiso Especial Nacional x kg,S/ 41.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Guiso Especial Nacional,41.9,metro,,,CARNE MOLIDA DE VACUNO
-Guiso Especial Nacional x kg,S/ 41.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Guiso Especial Nacional,41.9,metro,,,CARNE MOLIDA DE VACUNO
-Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa 3Kg,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa,42.6,vivanda,,RICOCAN,CARNE MOLIDA DE VACUNO
-Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa 3Kg,S/ 42.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa,42.6,vivanda,,RICOCAN,CARNE MOLIDA DE VACUNO
-Carne para Saltado de Res Nacional Metro x Kg,S/ 43.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Saltado de Res Nacional Metro,43.9,metro,,,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 3kg,S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa,44.6,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 3kg",S/ 44.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa",44.6,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Carne para Lomo Saltado EL BUEN CORTE x kg,S/ 45.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,kg,Carne para Lomo Saltado EL BUEN CORTE,45.0,vivanda,,EL BUEN CORTE,CARNE MOLIDA DE VACUNO
-Filete de Pechuga Artisan x Kg. Libre de Antibióticos,S/ 46.60 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Pechuga Artisan . Libre de Antibióticos,46.6,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Trucha x kg,S/ 47.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Trucha,47.5,metro,,,CARNE MOLIDA DE VACUNO
-Bife Angosto Metro x kg,S/ 49.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Bife Angosto Metro,49.9,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Salmón Atlántico Aqua 500g,S/ 52.50,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,500.0,g,Filete de Salmón Atlántico Aqua,52.5,metro,,,CARNE MOLIDA DE VACUNO
-Lasagna DON ITALO de Carne Caja 1Kg,S/ 58.20,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,1.0,kg,Lasagna DON ITALO de Carne Caja,58.2,vivanda,,DON ITALO,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 3kg,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,58.8,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 3kg,S/ 58.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,3.0,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,58.8,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Hamburguesa BEST MEATS Carne Angus Caja 4un,S/ 60.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,4.0,un,Hamburguesa BEST MEATS Carne Angus Caja,60.0,vivanda,,BEST MEATS,CARNE MOLIDA DE VACUNO
-Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa 2Kg,S/ 61.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,2.0,kg,Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa,61.1,vivanda,,PURINA ONE,CARNE MOLIDA DE VACUNO
-Carne para Guiso Especial Wong Premium x kg,S/ 61.50 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Carne para Guiso Especial Wong Premium,61.5,metro,,,CARNE MOLIDA DE VACUNO
-Filete de Salmón Fresco x kg,S/ 64.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Filete de Salmón Fresco,64.9,metro,,,CARNE MOLIDA DE VACUNO
-Picanha x kg,S/ 73.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Picanha,73.9,metro,,,CARNE MOLIDA DE VACUNO
-Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa 8Kg,S/ 76.90,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,8.0,kg,Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa,76.9,vivanda,,RICOCAN,CARNE MOLIDA DE VACUNO
-Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 2Kg,S/ 78.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,2.0,kg,Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa,78.8,vivanda,,PURINA ONE,CARNE MOLIDA DE VACUNO
-Lomo Fino Metro x kg,S/ 85.90 x kg,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,1.0,kg,Lomo Fino Metro,85.9,metro,,,CARNE MOLIDA DE VACUNO
-Ricocat Cachorro Carne Pescado Leche 9Kg,S/ 89.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,9.0,kg,Ricocat Cachorro Carne Pescado Leche,89.9,metro,,,CARNE MOLIDA DE VACUNO
-Alimento para Perros Adultos Mimaskot Carnes Medianos y Grandes 15kg,S/ 97.90,metro,CARNE MOLIDA DE VACUNO,2024-12-05 15:27:03.017612,15.0,kg,Alimento para Perros Adultos Mimaskot Carnes Medianos y Grandes,97.9,metro,,,CARNE MOLIDA DE VACUNO
-Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa 9Kg,S/ 99.00,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,9.0,kg,Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa,99.0,vivanda,,RICOCAT,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 8kg,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,8.0,kg,Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa,120.1,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 8kg,S/ 120.10,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,8.0,kg,Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa,120.1,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 8kg,S/ 120.60,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,8.0,kg,Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa,120.6,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa 8kg",S/ 124.80,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,8.0,kg,"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa",124.8,vivanda,,DOG CHOW,CARNE MOLIDA DE VACUNO
-Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa 6kg,S/ 187.50,vivanda,CARNE MOLIDA DE VACUNO,2024-12-05 21:39:55.601870,6.0,kg,Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa,187.5,vivanda,,ONE,CARNE MOLIDA DE VACUNO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Sopa Instántanea AJINOMEN Sabor a Carne Bolsa 80g,AJINOMEN,80.0,g,1.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,20.0
+Caldo de Carne DOÑA GUSTA Concentrado en Polvo Caja 42g,DOÑA GUSTA,42.0,g,2.2,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,52.38095238095238
+Pimienta Negra Molida BELL'S Sobre 15g,BELL'S,15.0,g,2.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,166.66666666666669
+Pimienta Negra Molida Cuisine & Co 18g,,18.0,g,3.2,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,177.7777777777778
+Canela Molida KARIÑO Sobre 12g,KARINO,12.0,g,4.2,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,350.0
+Caldo en cubitos MAGGI Sabor carne Caja 75.2Gr,MAGGI,75.2,g,4.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,59.84042553191489
+Comida para Gatos FELIX Sensaciones de Carne en Salsa Pouch 85g,FELIX,85.0,g,4.8,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,56.47058823529411
+Comida para Perros DOG CHOW Adultos Cena de Carne Pouch 100g,DOG CHOW,100.0,g,4.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,49.0
+"Comida para Perros DOG CHOW Cachorros Razas Pequeñas Sabor Carne, Leche y Arroz Pouch 100g",DOG CHOW,100.0,g,4.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,49.0
+Pimienta Negra Molida 4 ESTACIONES Frasco 35g,4ESTACIONES,35.0,g,4.99,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,142.57142857142856
+Nuggets de Pollo San Fernando 180g,,180.0,g,5.0,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,27.77777777777778
+Caldo MAGGI Cubito Sabor Carne 100g Paquete 25un,MAGGI,100.0,g,5.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,55.0
+Comida para Perros RICOCAN Adultos Paté con Carne Lata 330g,RICOCAN,330.0,g,5.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,17.87878787878788
+Sangrecita Sin Condimentos Redondos Bolsa 500 g,,500.0,g,6.39,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,12.78
+Sangrecita Criolla Cuisine & Co 500g,,500.0,g,6.4,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,12.8
+Bonito Entero x kg,,1.0,kg,6.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,6.9
+Pimienta KARIÑO Negra molida Frasco 40Gr,KARINO,40.0,g,6.99,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,174.75
+Patas de Pollo Redondos x kg,,1.0,kg,7.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,7.9
+Pierna con Encuentro Congelada Importada x kg,,1.0,kg,7.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,7.9
+Pierna de Pollo Importada x kg,,1.0,kg,8.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,8.9
+Hígado de Pollo Redondos x kg,,1.0,kg,8.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,8.9
+Gallina Entera Con Menudencia Importada x Kg,,1.0,kg,8.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,8.9
+Pollo Entero Fresco Metro x kg,,1.0,kg,9.4,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,9.4
+Porciones de Bonito Congelado Bolsa 500 g,,500.0,g,9.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,19.0
+Pimienta BADIA Negra molida Frasco 56.7Gr,BADIA,56.7,g,9.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,174.60317460317458
+Pollo con Menudencia Redondos x kg,,1.0,kg,10.25,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,10.25
+Pollo Fresco con Menudencia San Fernando x Kg,,1.0,kg,10.45,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,10.45
+Lunch Picante de Carne con Arroz LA FLORENCIA 450g,LA FLORENCIA,450.0,g,10.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,24.222222222222225
+Ravioles de Carne y Verdura BELL'S Paquete 500g,BELL'S,500.0,g,10.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,21.8
+Ravioles de Carne Metro 500g,,500.0,g,10.99,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,21.98
+Hamburguesa de Carne La Casera SAN FERNANDO Bolsa 910g,SAN FERNANDO,910.0,g,12.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,13.846153846153845
+Carne de Pollo Molida San Fernando 500g,,500.0,g,12.7,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,25.4
+Pulmón Precocido para Chanfainita x kg,,1.0,kg,12.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,12.9
+Tilapia en Filetes Congelada Cuisine & Co 500g,,500.0,g,12.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,25.8
+Corazón de Pollo Redondos x kg,,1.0,kg,12.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,12.9
+Porciones de Perico Pescanova 300g,,300.0,g,13.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,45.0
+Hígado de Res Importado Trozado x kg,,1.0,kg,13.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,13.9
+Carne Molida Económica Congelada Los Hierros x 500 g,,500.0,g,13.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,27.8
+Molleja de Pollo Redondos x kg,,1.0,kg,13.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,13.9
+Comida para gatos RICOCAT Gatitos carne pescado y leche Bolsa 1Kg,RICOCAT,1.0,kg,14.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,14.5
+Pierna con Encuentro de Pollo Redondos x kg,,1.0,kg,14.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,14.5
+Chuleta Punta de Lomo x kg,,1.0,kg,14.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,14.9
+Pavo Entero Redondos x kg,,1.0,kg,14.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,14.9
+Pavo Entero Congelado San Fernando x kg,,1.0,kg,15.4,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,15.4
+Pechuga Entera de Pollo Redondos x kg,,1.0,kg,15.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,15.5
+Carne Molida de Cerdo SAN FERNANDO Paquete 500g,SAN FERNANDO,500.0,g,15.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,31.0
+Milanesa de Pollo Cuisine & Co 400g,,400.0,g,15.7,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,39.25
+Carne Molida de Pavita x 500g,VIVANDA,500.0,g,15.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,31.8
+Pierna de Pollo Redondos x kg,,1.0,kg,15.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,15.9
+Carne Molida de Pavita San Fernando Bolsa 500 g,,500.0,g,16.4,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,32.8
+Muslo de de Pollo Redondos x kg,,1.0,kg,16.49,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.49
+Pierna de Pollo Congelada San Fernando x kg,,1.0,kg,16.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.5
+Muslo de Pollo Congelado San Fernando x kg,,1.0,kg,16.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.5
+Filete de Pechuga Importado x kg,,1.0,kg,16.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.5
+Mondongo Picado para Cau Cau x kg,,1.0,kg,16.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.9
+Mondongo Picado a La Italiana x kg,,1.0,kg,16.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,16.9
+Pechuga Especial de Pollo Redondos x kg,,1.0,kg,17.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,17.5
+Trucha Entera Eviscerada x kg,,1.0,kg,18.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,18.9
+Chuleta de Pierna de Cerdo con Piel Porcionada x kg,,1.0,kg,18.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,18.9
+Carne Molida Especial Congelada Los Hierros x 500 g,,500.0,g,18.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,37.8
+Chuleta de Lomo de Cerdo con Piel Porcionado x kg,,1.0,kg,18.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,18.9
+Costillar Nacional x kg,,1.0,kg,18.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,18.9
+Pechuga de Pavita en Trozos San Fernando x Kg,,1.0,kg,18.99,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,18.99
+Pechuga Light de Pollo Redondos x kg,,1.0,kg,19.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,19.5
+Salsa de Carne DON ITALO Pote 250g,DON ITALO,250.0,g,19.7,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,78.8
+Carne Molida de Res Empacada al vacío EL BUEN ...,,0.6,kg,19.8,plaza_vea,2024-12-05 14:43:30.656453,CARNE MOLIDA DE VACUNO,1.0,kg,33.0
+Carne Molida Porcionada Los Hierros 800g,,800.0,g,19.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,24.875
+Filete de Tilapia Umi Foods 1kg,,1.0,kg,20.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,20.5
+Pollo Entero Marinado Sazón Brasa San Fernando 1.4kg,,1.4,kg,21.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,15.642857142857142
+Sancochado Punta de Pecho Nacional x kg,,1.0,kg,21.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,21.9
+Guiso de Pechuga de Pavita San Fernando x kg,,1.0,kg,22.7,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,22.7
+Filete de Pierna de Pollo Sin Piel Redondos x kg,,1.0,kg,22.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,22.9
+Medallón de Muslo de Pavita San Fernando x kg,,1.0,kg,23.99,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,23.99
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 1.5kg,DOG CHOW,1.5,kg,24.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,16.333333333333332
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 1.5kg,DOG CHOW,1.5,kg,24.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,16.333333333333332
+"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 1.5kg",DOG CHOW,1.5,kg,24.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,16.333333333333332
+Guiso de Cerdo x kg,,1.0,kg,24.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,24.9
+Carne Molida Económica Congelada Los Hierros x 1 Kg,,1.0,kg,24.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,24.9
+Carne Molida Especial Nacional x kg,,1.0,kg,24.99,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,24.99
+Carne Molida EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,25.0,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,25.0
+Filete de Pechuga Pollo Redondos x kg,,1.0,kg,25.4,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,25.4
+Sancochado de Osobuco Nacional Porcionado x kg,,1.0,kg,25.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,25.9
+Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 500g,PURINA ONE,500.0,g,26.2,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,52.4
+Filete de Pechuga de Pollo Congelada San Fernando x kg,,1.0,kg,26.7,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,26.7
+Tilapia en Filetes Congelada Cuisine & Co 1kg,,1.0,kg,26.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,26.9
+Filete de Trucha Cuisine & Co 500g,,500.0,g,28.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,57.8
+Filete de Trucha Arco Iris Bolsa 500 g,,500.0,g,29.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,59.0
+Albóndiga de Res De la Casa x kg,,1.0,kg,29.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,29.9
+Chuleta de Pechuga de Pavita San Fernando x kg,,1.0,kg,29.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,29.9
+Panceta de Cerdo en Tiras con Piel y con Hueso x kg,,1.0,kg,29.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,29.9
+Ravioles DON ITALO De carne Bandeja 500Gr,DON ITALO,500.0,g,32.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,65.0
+Carne para Guiso Nacional x kg,,1.0,kg,33.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,33.9
+Carne para Guiso Nacional x kg,,1.0,kg,33.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,33.9
+Panceta de Cerdo con Piel y con Hueso x kg,,1.0,kg,33.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,33.9
+Carne Molida Light de Res Empacada al vacío EL...,,0.6,kg,34.8,plaza_vea,2024-12-05 14:43:30.656453,CARNE MOLIDA DE VACUNO,1.0,kg,58.0
+Lechón Entero Congelado Redondos x kg,,1.0,kg,34.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,34.9
+Carne Molida de Bisteck Nacional x kg,,1.0,kg,35.8,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,35.8
+Carne Molida Light EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,36.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,36.5
+Churrasco Largo Nacional Porcionado x kg,,1.0,kg,36.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,36.9
+Churrasco Redondo Nacional Porcionado x kg,,1.0,kg,36.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,36.9
+Carne para Guiso de Ternero Wong x kg,,1.0,kg,37.6,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,37.6
+Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando x kg,,1.0,kg,38.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,38.9
+Carne Picada de Res Metro x kg,,1.0,kg,38.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,38.9
+Bisteck de Paleta Nacional x kg,,1.0,kg,39.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,39.9
+Bisteck Bola de Lomo Nacional x kg,,1.0,kg,39.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,39.9
+Bisteck de Tapa Nacional x kg,,1.0,kg,39.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,39.9
+Carne para Guiso Especial Nacional x kg,,1.0,kg,41.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,41.9
+Guiso Especial Nacional x kg,,1.0,kg,41.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,41.9
+Comida para Perros RICOCAN Cachorros Razas Medianas y Grandes Carne y Leche Bolsa 3Kg,RICOCAN,3.0,kg,42.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,14.2
+Comida para Perros RICOCAN Cachorros Razas Pequeñas Carne y Leche Bolsa 3Kg,RICOCAN,3.0,kg,42.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,14.2
+Carne para Saltado de Res Nacional Metro x Kg,,1.0,kg,43.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,43.9
+"Comida para Perros DOG CHOW Cachorros Medianos y Grandes Carne, Pollo, Verduras y Leche Bolsa 3kg",DOG CHOW,3.0,kg,44.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,14.866666666666667
+Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 3kg,DOG CHOW,3.0,kg,44.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,14.866666666666667
+Carne para Lomo Saltado EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,45.0,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,45.0
+Filete de Pechuga Artisan x Kg. Libre de Antibióticos,,1.0,kg,46.6,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,46.6
+Filete de Trucha x kg,,1.0,kg,47.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,47.5
+Bife Angosto Metro x kg,,1.0,kg,49.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,49.9
+Filete de Salmón Atlántico Aqua 500g,,500.0,g,52.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,105.0
+Lasagna DON ITALO de Carne Caja 1Kg,DON ITALO,1.0,kg,58.2,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,58.2
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 3kg,DOG CHOW,3.0,kg,58.8,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,19.599999999999998
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 3kg,DOG CHOW,3.0,kg,58.8,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,19.599999999999998
+Comida para Perros PURINA ONE Cachorros Toda Razas Pollo Carne Bolsa 2Kg,PURINA ONE,2.0,kg,61.1,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,30.55
+Carne para Guiso Especial Wong Premium x kg,,1.0,kg,61.5,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,61.5
+Filete de Salmón Fresco x kg,,1.0,kg,64.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,64.9
+Picanha x kg,,1.0,kg,73.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,73.9
+Comida para Perros RICOCAN Cachorros Razas Pequeñas Carnes y Leche Bolsa 8Kg,RICOCAN,8.0,kg,76.9,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,9.6125
+Comida para Gatitos PURINA ONE Toda Razas Carne Bolsa 2Kg,PURINA ONE,2.0,kg,78.8,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,39.4
+Lomo Fino Metro x kg,,1.0,kg,85.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,85.9
+Ricocat Cachorro Carne Pescado Leche 9Kg,,9.0,kg,89.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,9.988888888888889
+Alimento para Perros Adultos Mimaskot Carnes Medianos y Grandes 15kg,,15.0,kg,97.9,metro,2024-12-05 15:27:03.017612,CARNE MOLIDA DE VACUNO,1.0,kg,6.526666666666667
+Comida para Gatos RICOCAT Gatitos Carne Pescado y Leche Bolsa 9Kg,RICOCAT,9.0,kg,99.0,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,11.0
+Comida para Perros DOG CHOW Adultos razas Medianas y Grandes Carne y Pollo Bolsa 8kg,DOG CHOW,8.0,kg,120.1,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,15.0125
+Comida para Perros DOG CHOW Adultos razas Pequeñas Carne y Pollo Bolsa 8kg,DOG CHOW,8.0,kg,120.1,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,15.0125
+Comida para Perros DOG CHOW Adultos todos los tamaños Carne y Pollo Bolsa 8kg,DOG CHOW,8.0,kg,120.6,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,15.075
+"Comida para Perros DOG CHOW Adultos todos los tamaños Carne, Pollo y Pescado Bolsa 8kg",DOG CHOW,8.0,kg,124.8,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,15.6
+Comida para Gatos ONE adultos esterilizados sabor pollo y carne bolsa 6kg,ONE,6.0,kg,187.5,vivanda,2024-12-05 21:39:55.601870,CARNE MOLIDA DE VACUNO,1.0,kg,31.25

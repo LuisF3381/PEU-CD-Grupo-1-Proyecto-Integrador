@@ -1,193 +1,147 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Maíz Pop Corn BELL'S Dulce Bolsa 70g,S/ 2.10,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,70.0,g,Maíz Pop Corn BELL'S Dulce Bolsa,2.1,vivanda,BELL'S,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Clásica Cuisine & Co Bolsa 65 g,S/ 2.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,65.0,g,Tortillas de Maíz Clásica Cuisine & Co Bolsa,2.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Picante Cuisine & Co Bolsa 65 g,S/ 2.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,65.0,g,Tortillas de Maíz Picante Cuisine & Co Bolsa,2.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cheese Tris Cheetos 44g,S/ 2.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,44.0,g,Palitos de Maíz Cheese Tris Cheetos,2.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de maíz DORITOS Dinamita Bolsa 35g,S/ 2.50,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,35.0,g,Tortillas de maíz DORITOS Dinamita Bolsa,2.5,vega,Doritos,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cheese Tris Cheetos 44g,S/ 2.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,44.0,g,Palitos de Maíz Cheese Tris Cheetos,2.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cheese Tris 42g,S/ 2.70,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,42.0,g,Palitos de Maíz Cheese Tris,2.7,metro,,MAÍZ REVENTÓN (POP CORN)
-Camote Morado Meza x kg,S/ 2.79 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Camote Morado Meza,2.79,metro,,MAÍZ REVENTÓN (POP CORN)
-Camote Morado Metro x kg,S/ 2.79 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Camote Morado Metro,2.79,metro,,MAÍZ REVENTÓN (POP CORN)
-Camote Amarillo Especial Metro x kg,S/ 2.79 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Camote Amarillo Especial Metro,2.79,metro,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Clásica Cuisine & Co Bolsa 65 g,S/ 2.80,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,65.0,g,Tortillas de Maíz Clásica Cuisine & Co Bolsa,2.8,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Gigante Original Inka Corn 42g,S/ 2.80,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,42.0,g,Maíz Gigante Original Inka Corn,2.8,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Picante Cuisine & Co Bolsa 65 g,S/ 2.80,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,65.0,g,Tortillas de Maíz Picante Cuisine & Co Bolsa,2.8,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn VEGA Bolsa 400g,S/ 2.90,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,400.0,g,Pop Corn VEGA Bolsa,2.9,vega,Vega,MAÍZ REVENTÓN (POP CORN)
-Pop Corn TIMONEL Bolsa 400g,S/ 3.10,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,400.0,g,Pop Corn TIMONEL Bolsa,3.1,vega,Timonel,MAÍZ REVENTÓN (POP CORN)
-Papa Canchán Procesada Especial x kg,S/ 3.29 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Papa Canchán Procesada Especial,3.29,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Cuisine & Co 500g,S/ 3.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maíz Pop Corn Cuisine & Co,3.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn x 350 g,S/ 3.65,tottus,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:08:04.425944,350.0,g,Maíz Pop Corn x,3.65,tottus,TESORO DEL CAMPO,MAÍZ REVENTÓN (POP CORN)
-Maiz Cuzco Frito y Salado Cuisine&Co Bolsa 100 g,S/ 3.68,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,100.0,g,Maiz Cuzco Frito y Salado Cuisine&Co Bolsa,3.68,wong,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn PLANET POP Mantequilla Bolsa 85g,S/ 3.70,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,85.0,g,Pop Corn PLANET POP Mantequilla Bolsa,3.7,vivanda,PLANET POP,MAÍZ REVENTÓN (POP CORN)
-Maíz con Miel Vita Pluss Bolsa 140 g,S/ 3.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,140.0,g,Maíz con Miel Vita Pluss Bolsa,3.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Costeño 500g,S/ 4.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maíz Pop Corn Costeño,4.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Costeño 500g,S/ 4.00,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,500.0,g,Maíz Pop Corn Costeño,4.0,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz DORITOS Queso Atrevido Bolsa 90g,S/ 4.20,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,90.0,g,Tortillas de Maíz DORITOS Queso Atrevido Bolsa,4.2,vega,Doritos,MAÍZ REVENTÓN (POP CORN)
-Maíz Atómico Andino con Maca Forte Golpe 125g,S/ 4.20,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,125.0,g,Maíz Atómico Andino con Maca Forte Golpe,4.2,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Máxima 500g,S/ 4.30,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maíz Pop Corn Máxima,4.3,metro,,MAÍZ REVENTÓN (POP CORN)
-Maiz Pop Corn Paisana Bolsa 500 g,S/ 4.40,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maiz Pop Corn Paisana Bolsa,4.4,metro,,MAÍZ REVENTÓN (POP CORN)
-Piqueo BELL'S Frutos Secos Maíz del Cusco Bolsa 100g,S/ 4.50,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,100.0,g,Piqueo BELL'S Frutos Secos Maíz del Cusco Bolsa,4.5,vivanda,BELL'S,MAÍZ REVENTÓN (POP CORN)
-Pop Corn ACT II con Mantequilla Sobre 80g,S/ 4.60,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,80.0,g,Pop Corn ACT II con Mantequilla Sobre,4.6,vega,Act II,MAÍZ REVENTÓN (POP CORN)
-Pop Corn ACT II Sabor Natural Sobre 80g,S/ 4.60,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,80.0,g,Pop Corn ACT II Sabor Natural Sobre,4.6,vega,Act II,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Butter Extra Act II 91g,S/ 4.60,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,91.0,g,Pop Corn Butter Extra Act II,4.6,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn para Microondas Act II Sabor Mantequilla 91g,S/ 4.60,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,91.0,g,Pop Corn para Microondas Act II Sabor Mantequilla,4.6,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Natural Act II Bolsa 80 g,S/ 4.60,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,80.0,g,Pop Corn Natural Act II Bolsa,4.6,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn ACT II con Extra Mantequilla Sobre 85g,S/ 4.60,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,85.0,g,Pop Corn ACT II con Extra Mantequilla Sobre,4.6,vega,Act II,MAÍZ REVENTÓN (POP CORN)
-Maiz Pop Corn 500 g,S/ 4.64,tottus,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:08:04.425944,500.0,g,Maiz Pop Corn,4.64,tottus,TOTTUS,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Cuisine & Co 500g,S/ 4.70,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,500.0,g,Maíz Pop Corn Cuisine & Co,4.7,wong,,MAÍZ REVENTÓN (POP CORN)
-Maiz Cuzco Frito y Salado Cuisine&Co Bolsa 100 g,S/ 4.70,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,100.0,g,Maiz Cuzco Frito y Salado Cuisine&Co Bolsa,4.7,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Dulce FRUTO DE ORO Lata 184g,S/ 4.90,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,184.0,g,Maíz Dulce FRUTO DE ORO Lata,4.9,vivanda,FRUTO DE ORO,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Picante Cuisine & Co Bolsa 150 g,S/ 4.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,150.0,g,Tortillas de Maíz Picante Cuisine & Co Bolsa,4.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn para Microondas Act II Sabor Mantequilla 91g,S/ 4.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,91.0,g,Pop Corn para Microondas Act II Sabor Mantequilla,4.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Tesoro Del Campo Bolsa 500 g,S/ 4.95,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maíz Pop Corn Tesoro Del Campo Bolsa,4.95,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn 500 g,S/ 5,tottus,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:08:04.425944,500.0,g,Maíz Pop Corn,5.0,tottus,TESORO DEL CAMPO,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz DORITOS Queso Atrevido Bolsa 90g,S/ 5.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,90.0,g,Tortillas de Maíz DORITOS Queso Atrevido Bolsa,5.0,vivanda,DORITOS,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Morado Mexi Nachos Bolsa 90 g,S/ 5.10,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,90.0,g,Tortillas de Maíz Morado Mexi Nachos Bolsa,5.1,wong,,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cheese Tris Cheetos 120g,S/ 5.20,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,120.0,g,Palitos de Maíz Cheese Tris Cheetos,5.2,metro,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmitas Caja 80 g,S/ 5.20,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,80.0,g,Galletas de Maíz Horneadas Salmitas Caja,5.2,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn VALLENORTE Bolsa 500gr,S/ 5.30,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,500.0,g,Maíz Pop Corn VALLENORTE Bolsa r,5.3,vega,VALLENORTE,MAÍZ REVENTÓN (POP CORN)
-Maíz Tostado BELL'S Táper 150g,S/ 5.50,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,150.0,g,Maíz Tostado BELL'S Táper,5.5,vivanda,BELL'S,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cuisine & Co 180g,S/ 5.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,180.0,g,Palitos de Maíz Cuisine & Co,5.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Palitos de Maíz Cuisine & Co 180g,S/ 5.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,180.0,g,Palitos de Maíz Cuisine & Co,5.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmitas Caja 80 g,S/ 5.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,80.0,g,Galletas de Maíz Horneadas Salmitas Caja,5.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Tamal de Maíz Casa Verde 180g,S/ 5.70,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,180.0,g,Tamal de Maíz Casa Verde,5.7,metro,,MAÍZ REVENTÓN (POP CORN)
-Tamal de Maíz CASA VERDE Gourmet Empaque 180g,S/ 5.80,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,180.0,g,Tamal de Maíz CASA VERDE Gourmet Empaque,5.8,vivanda,CASAVERDE,MAÍZ REVENTÓN (POP CORN)
-Tamal de Maíz Casa Verde 180g,S/ 5.99,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,180.0,g,Tamal de Maíz Casa Verde,5.99,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Gigante Inka Corn Original 100g,S/ 5.99,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,100.0,g,Maíz Gigante Inka Corn Original,5.99,metro,,MAÍZ REVENTÓN (POP CORN)
-Chips de Maíz Morado Orgánicos Picante Wasi Bolsa 75 g,S/ 5.99,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,75.0,g,Chips de Maíz Morado Orgánicos Picante Wasi Bolsa,5.99,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Chullpi BELL'S Bolsa 400g,S/ 6.20,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,400.0,g,Maíz Chullpi BELL'S Bolsa,6.2,vivanda,BELL'S,MAÍZ REVENTÓN (POP CORN)
-Maíz Gigante Inka Corn Chile Picante 100g,S/ 6.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,100.0,g,Maíz Gigante Inka Corn Chile Picante,6.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Cancha Cusco BELL'S Bolsa 400g,S/ 6.40,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,400.0,g,Maíz Cancha Cusco BELL'S Bolsa,6.4,vivanda,BELL'S,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn VALLENORTE Bolsa 500g,S/ 6.40,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,500.0,g,Maíz Pop Corn VALLENORTE Bolsa,6.4,vivanda,VALLENORTE,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn Valle Norte Bolsa 500 g,S/ 6.40,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,500.0,g,Maíz Pop Corn Valle Norte Bolsa,6.4,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Corn Flakes Cuisine & Co 200g,S/ 6.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,200.0,g,Hojuelas de Maíz Corn Flakes Cuisine & Co,6.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Dulce en Granos Fruto de Oro 425g,S/ 6.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,425.0,g,Maíz Dulce en Granos Fruto de Oro,6.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,425.0,g,Maíz Dulce FRUTO DE ORO Lata,6.9,vivanda,FRUTO DE ORO,MAÍZ REVENTÓN (POP CORN)
-Papa Amarilla Huamantanga Metro x kg,S/ 6.99 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Papa Amarilla Huamantanga Metro,6.99,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Pop Corn de 1 kg,S/ 7.42,tottus,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:08:04.425944,1.0,kg,Maíz Pop Corn de,7.42,tottus,TOTTUS,MAÍZ REVENTÓN (POP CORN)
-Chupete GLOBO POP Neon Bolsa 24un 18g,S/ 7.50,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,24.0,un,Chupete GLOBO POP Neon Bolsa,7.5,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Chupete GLOBO POP con Chicle Sabor a Fresa Bolsa 24un,S/ 7.80,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,24.0,un,Chupete GLOBO POP con Chicle Sabor a Fresa Bolsa,7.8,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Chupetín GLOBO POP Maracuyá Bolsa 432g,S/ 7.80,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,432.0,g,Chupetín GLOBO POP Maracuyá Bolsa,7.8,vivanda,GLOBO POP,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Shake 24un.,S/ 7.80,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupete Globo Pop Shake .,7.8,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete GLOBO POP con Chicle Surtido Bolsa 24un,S/ 7.80,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,24.0,un,Chupete GLOBO POP con Chicle Surtido Bolsa,7.8,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Corn Flakes Cuisine & Co 200g,S/ 7.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,200.0,g,Hojuelas de Maíz Corn Flakes Cuisine & Co,7.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Girasol Mucho Gussto 900ml,S/ 7.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,900.0,ml,Aceite de Girasol Mucho Gussto,7.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Conserva de Maíz Tierno Entero GOYA Lata 248g,S/ 7.90,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,248.0,g,Conserva de Maíz Tierno Entero GOYA Lata,7.9,vivanda,GOYA,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Cuisine & Co Sabor Queso 180g,S/ 7.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,180.0,g,Tortillas de Maíz Cuisine & Co Sabor Queso,7.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Girasol Cuisine & Co 900ml,S/ 7.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,900.0,ml,Aceite de Girasol Cuisine & Co,7.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Cuisine & Co Sabor Queso 180g,S/ 7.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,180.0,g,Tortillas de Maíz Cuisine & Co Sabor Queso,7.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz SALMAS Horneadas Caja 144g,S/ 8.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,144.0,g,Galletas de Maíz SALMAS Horneadas Caja,8.0,vivanda,SALMAS,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Maracuyá 25un,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,25.0,un,Chupete Globo Pop Maracuyá,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Yogurt Surtido Bolsa 24 Unidades,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupete Globo Pop Yogurt Surtido Bolsa ades,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP NEON!! Con chicle sabor limonada Bolsa 480Gr,S/ 8.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,480.0,g,Chupetes GLOBO POP NEON!! Con chicle sabor limonada Bolsa r,8.0,vivanda,GLOBO POP,MAÍZ REVENTÓN (POP CORN)
-Chupetín Globo Pop Sabor Maracuyá 24un,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupetín Globo Pop Sabor Maracuyá,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Surtido 24un,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupete Globo Pop Surtido,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP!! Relleno con chicle sabor fresa Bolsa 480Gr,S/ 8.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,480.0,g,Chupetes GLOBO POP!! Relleno con chicle sabor fresa Bolsa r,8.0,vivanda,GLOBO POP,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP!! Con chicle sabores surtidos Bolsa 480Gr,S/ 8.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,480.0,g,Chupetes GLOBO POP!! Con chicle sabores surtidos Bolsa r,8.0,vivanda,GLOBO POP,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Fresa Bolsa 24 Undiades,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupete Globo Pop Fresa Bolsa diades,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Neon Renovado Bolsa 24 Unidades,S/ 8.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,24.0,un,Chupete Globo Pop Neon Renovado Bolsa ades,8.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Papa Amarilla Tumbay Procesada x kg,S/ 8.09 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Papa Amarilla Tumbay Procesada,8.09,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Shake 24un.,S/ 8.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,24.0,un,Chupete Globo Pop Shake .,8.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Maracuyá 25un,S/ 8.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,25.0,un,Chupete Globo Pop Maracuyá,8.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Surtido 24un,S/ 8.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,24.0,un,Chupete Globo Pop Surtido,8.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Chupetín Globo Pop Sabor Maracuyá 24un,S/ 8.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,24.0,un,Chupetín Globo Pop Sabor Maracuyá,8.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop Neon Renovado Bolsa 24 Unidades,S/ 8.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,24.0,un,Chupete Globo Pop Neon Renovado Bolsa ades,8.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 90 g,S/ 8.30,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,90.0,g,Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja,8.3,metro,,MAÍZ REVENTÓN (POP CORN)
-Papa Amarilla Peruanita Procesada Metro x kg,S/ 8.49 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Papa Amarilla Peruanita Procesada Metro,8.49,metro,,MAÍZ REVENTÓN (POP CORN)
-Papa Amarilla Tumbay x kg,S/ 8.49 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Papa Amarilla Tumbay,8.49,metro,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmas 144g,S/ 8.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,144.0,g,Galletas de Maíz Horneadas Salmas,8.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,P.A.N.,MAÍZ REVENTÓN (POP CORN)
-Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,S/ 8.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Harina de Maiz Blanco Precocida P.A.N Contenido,8.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Harina de Maíz Amarillo P.A.N 1kg,S/ 8.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.0,kg,Harina de Maíz Amarillo P.A.N,8.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmas Granos y Semillas 126g,S/ 8.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,126.0,g,Galletas de Maíz Horneadas Salmas Granos y Semillas,8.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Tortilla de Maíz Cuisine & Co Torti Hot 200g,S/ 8.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,200.0,g,Tortilla de Maíz Cuisine & Co Torti Hot,8.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortilla de Maíz Cuisine & Co Torti Hot 200g,S/ 8.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,200.0,g,Tortilla de Maíz Cuisine & Co Torti Hot,8.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Mote Precocido GUVA Bolsa 500g,S/ 8.99,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,500.0,g,Maíz Mote Precocido GUVA Bolsa,8.99,vivanda,GUVA,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz TOSTITOS con Sal Bolsa 200g,S/ 9.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,200.0,g,Tortillas de Maíz TOSTITOS con Sal Bolsa,9.0,vivanda,TOSTITOS,MAÍZ REVENTÓN (POP CORN)
-Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa 200g,S/ 9.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,200.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,9.0,vivanda,FRITO LAY,MAÍZ REVENTÓN (POP CORN)
-Piqueo VALLEALTO Maíz maní y almendras Bolsa 150Gr,S/ 9.60,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,150.0,g,Piqueo VALLEALTO Maíz maní y almendras Bolsa r,9.6,vivanda,VALLEALTO,MAÍZ REVENTÓN (POP CORN)
-Maíz Morado Metro x kg,S/ 9.79 x kg,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,kg,Maíz Morado Metro,9.79,metro,,MAÍZ REVENTÓN (POP CORN)
-Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella 340ml,S/ 9.89,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,340.0,ml,Cerveza Artesanal 7 Vidas Maíz Morado Pale Ale Botella,9.89,wong,,MAÍZ REVENTÓN (POP CORN)
-Harina Precocida DOÑAREPA Maíz Blanco Paquete 1Kg,S/ 9.90,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,1.0,kg,Harina Precocida DOÑAREPA Maíz Blanco Paquete,9.9,vivanda,DOÑAREPA,MAÍZ REVENTÓN (POP CORN)
-Harina de Maíz Blanco Precocida Doñarepa 1kg,S/ 9.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.0,kg,Harina de Maíz Blanco Precocida Doñarepa,9.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortilla de Maíz Tía Rosa 10un.,S/ 10.00,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,10.0,un,Tortilla de Maíz Tía Rosa .,10.0,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmas 144g,S/ 10.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,144.0,g,Galletas de Maíz Horneadas Salmas,10.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Canchita para Microondas PLANET POP sabor Natural Bolsa 85g Paquete 3un,S/ 10.50,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,85.0,g,Canchita para Microondas PLANET POP sabor Natural Bolsa  Paquete,10.5,vivanda,PLANET POP,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Saniito 12un,S/ 10.60,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,12.0,un,Tortillas de Maíz Saniito,10.6,metro,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz Saniito 12un,S/ 10.60,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,12.0,un,Tortillas de Maíz Saniito,10.6,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortilla de Maíz SANIITO Bolsa 12un,S/ 10.60,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,12.0,un,Tortilla de Maíz SANIITO Bolsa,10.6,vivanda,SANIITO,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Butter Light Act II Pack 3 Unid,S/ 10.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,3.0,un,Pop Corn Butter Light Act II Pack,10.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Butter Act II Pack 3 Unid,S/ 10.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,3.0,un,Pop Corn Butter Act II Pack,10.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Cereal de Maíz Azucarado Cuisine & Co Reggae Flakes 480g,S/ 10.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,480.0,g,Cereal de Maíz Azucarado Cuisine & Co Reggae Flakes,10.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa 260g,S/ 11.00,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,260.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,11.0,vivanda,FRITO LAY,MAÍZ REVENTÓN (POP CORN)
-Maíz Cancha Sierra Exportadora Desgranado Bolsa 425 g,S/ 11.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,425.0,g,Maíz Cancha Sierra Exportadora Desgranado Bolsa,11.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Arroz y Maíz Scotti 150g,S/ 11.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,150.0,g,Galletas de Arroz y Maíz Scotti,11.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmas Granos y Semillas 126g,S/ 11.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,126.0,g,Galletas de Maíz Horneadas Salmas Granos y Semillas,11.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 11.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,126.0,g,Galletas de Maíz Horneadas Salmas Maíz Morado,11.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Tortilla de Maíz SANIITO Bolsa 8un,S/ 11.70,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,8.0,un,Tortilla de Maíz SANIITO Bolsa,11.7,vivanda,SANIITO,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz EL TACO Bolsa 10un,S/ 11.70,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,10.0,un,Tortillas de Maíz EL TACO Bolsa,11.7,vivanda,EL TACO,MAÍZ REVENTÓN (POP CORN)
-"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",S/ 11.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,200.0,g,"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's",11.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Canola Cuisine & Co Botella 1 lt,S/ 11.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,l,Aceite de Canola Cuisine & Co Botella,11.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Canola Cuisine & Co Botella 1 lt,S/ 11.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.0,l,Aceite de Canola Cuisine & Co Botella,11.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Maiz Gigante con Chocolate Inka Corn 100g,S/ 11.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,100.0,g,Maiz Gigante con Chocolate Inka Corn,11.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Tortillas de Maíz El Taco 10un,S/ 12.10,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,10.0,un,Tortillas de Maíz El Taco,12.1,wong,,MAÍZ REVENTÓN (POP CORN)
-Cereal CORN FLAKES Nestlé Sin Gluten Caja 180g,S/ 12.80,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,180.0,g,Cereal CORN FLAKES Nestlé Sin Gluten Caja,12.8,vivanda,CORN FLAKES,MAÍZ REVENTÓN (POP CORN)
-Aceite Girasol Huerto Alamein 900ml,S/ 12.80,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,900.0,ml,Aceite Girasol Huerto Alamein,12.8,metro,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Corn Flakes Cuisine & Co Caja 500 g,S/ 12.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Hojuelas de Maíz Corn Flakes Cuisine & Co Caja,12.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 260g,S/ 12.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,260.0,g,Hojuelas de Maíz Azucaradas Kellogg's Zucaritas,12.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Morado Justo al Día 700g,S/ 13.40,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,700.0,g,Maíz Morado Justo al Día,13.4,wong,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Chicken AVINKA Bolsa 350g,S/ 13.70,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,350.0,g,Pop Corn Chicken AVINKA Bolsa,13.7,vivanda,AVINKA,MAÍZ REVENTÓN (POP CORN)
-Cereal de Maíz Corn Flakes 405g,S/ 13.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,405.0,g,Cereal de Maíz Corn Flakes,13.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Corn Flakes Cuisine & Co Caja 500 g,S/ 13.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,500.0,g,Hojuelas de Maíz Corn Flakes Cuisine & Co Caja,13.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop XXL 180 g,S/ 13.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,l,Chupete Globo Pop X,13.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupete Globo Pop XXL 180 g,S/ 14.40,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.0,l,Chupete Globo Pop X,14.4,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz SALMAS Horneadas Caja 216g,S/ 14.50,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,216.0,g,Galletas de Maíz SALMAS Horneadas Caja,14.5,vivanda,SALMAS,MAÍZ REVENTÓN (POP CORN)
-Aceite De Girasol Borges Botella 1 L,S/ 14.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,1.0,l,Aceite De Girasol Borges Botella,14.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Natural Act II Pack 3 Unid,S/ 14.70,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,3.0,un,Pop Corn Natural Act II Pack,14.7,metro,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Butter Act II Pack 3 Unid,S/ 14.80,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,3.0,un,Pop Corn Butter Act II Pack,14.8,wong,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Natural Act II Pack 3 Unid,S/ 14.80,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,3.0,un,Pop Corn Natural Act II Pack,14.8,wong,,MAÍZ REVENTÓN (POP CORN)
-Twelvepack Galletas de Maíz Salmas Horneadas 18g,S/ 14.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,18.0,g,Twelvepack Galletas de Maíz Salmas Horneadas,14.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Cereal Fruta Aros Maiz Cereal Angel Bolsa 420 g,S/ 14.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,420.0,g,Cereal Fruta Aros Maiz Cereal Angel Bolsa,14.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Morado en Polvo Ecoandino Orgánico 200g,S/ 14.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,200.0,g,Maíz Morado en Polvo Ecoandino Orgánico,14.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Mote Sierra Exportadora Desgranado Bolsa 425 g,S/ 14.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,425.0,g,Maíz Mote Sierra Exportadora Desgranado Bolsa,14.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Twelvepack Galletas de Maíz Salmas Horneadas 18g,S/ 14.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,18.0,g,Twelvepack Galletas de Maíz Salmas Horneadas,14.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP Neón Bolsa 24u 480g x 2u,S/ 15.00,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,480.0,g,Chupetes GLOBO POP Neón Bolsa 24u  x 2u,15.0,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Chicken Avinka 350g,S/ 15.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,350.0,g,Pop Corn Chicken Avinka,15.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Pop Corn Chicken Avinka 350g,S/ 15.30,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,350.0,g,Pop Corn Chicken Avinka,15.3,metro,,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP Sabor Fresa Bolsa 24u 480g x 2u,S/ 15.60,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,480.0,g,Chupetes GLOBO POP Sabor Fresa Bolsa 24u  x 2u,15.6,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Chupetes GLOBO POP Sabores Surtidos Bolsa 24u 480g x 2u,S/ 15.60,vega,MAÍZ REVENTÓN (POP CORN),2024-12-05 11:36:06.908991,480.0,g,Chupetes GLOBO POP Sabores Surtidos Bolsa 24u  x 2u,15.6,vega,Globo Pop,MAÍZ REVENTÓN (POP CORN)
-Pasta de Maíz Penne Sin Gluten El Dorado Bolsa 250 g,S/ 15.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,250.0,g,Pasta de Maíz Penne Sin Gluten El Dorado Bolsa,15.9,wong,,MAÍZ REVENTÓN (POP CORN)
-"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",S/ 15.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,200.0,g,"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's",15.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Cereal ANGEL Trigo integral de avena y maíz sabor fresa Bolsa 350Gr,S/ 16.10,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,350.0,g,Cereal ANGEL Trigo integral de avena y maíz sabor fresa Bolsa r,16.1,vivanda,ANGEL,MAÍZ REVENTÓN (POP CORN)
-Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa 420g,S/ 16.10,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,420.0,g,Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa,16.1,vivanda,ANGEL,MAÍZ REVENTÓN (POP CORN)
-Cereal ANGEL Trigo integral de avena y maíz sabor chocolate Bolsa 350Gr,S/ 16.10,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,350.0,g,Cereal ANGEL Trigo integral de avena y maíz sabor chocolate Bolsa r,16.1,vivanda,ANGEL,MAÍZ REVENTÓN (POP CORN)
-Talco Dr Zaidman Con Almidón de Maíz Talquera 200 g,S/ 16.30,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,200.0,g,Talco Dr Zaidman Con Almidón de Maíz Talquera,16.3,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Chulpi Desgranado Kuski Bolsa 425 g,S/ 16.30,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,425.0,g,Maíz Chulpi Desgranado Kuski Bolsa,16.3,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Kellogg's Corn Flakes 410g,S/ 16.80,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,410.0,g,Hojuelas de Maíz Kellogg's Corn Flakes,16.8,metro,,MAÍZ REVENTÓN (POP CORN)
-"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",S/ 16.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,350.0,g,"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's",16.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 420g,S/ 16.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,420.0,g,Hojuelas de Maíz Azucaradas Kellogg's Zucaritas,16.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 260g,S/ 16.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,260.0,g,Hojuelas de Maíz Azucaradas Kellogg's Zucaritas,16.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,S/ 17.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,360.0,g,Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja,17.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Sixpack Cerveza de Maíz Tres Cruces Pum Pum Lata 310ml,S/ 17.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,310.0,ml,Sixpack Cerveza de Maíz Tres Cruces Pum Pum Lata,17.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Morado Deshidratado Guva 1kg,S/ 18.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.0,kg,Maíz Morado Deshidratado Guva,18.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Sopa de Maíz Dulce Auga 430g,S/ 19.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,430.0,g,Sopa de Maíz Dulce Auga,19.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Sopa de Maíz Dulce Auga 430g,S/ 19.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,430.0,g,Sopa de Maíz Dulce Auga,19.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Barra Energética Siete Dragones Aguaymanto & Maíz Morado 5un,S/ 20.40,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,5.0,un,Barra Energética Siete Dragones Aguaymanto & Maíz Morado,20.4,wong,,MAÍZ REVENTÓN (POP CORN)
-Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas Bolsa 1Kg,S/ 22.80,vivanda,MAÍZ REVENTÓN (POP CORN),2024-12-05 21:27:37.900915,1.0,kg,Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas Bolsa,22.8,vivanda,ANGEL,MAÍZ REVENTÓN (POP CORN)
-Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,S/ 22.90,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,360.0,g,Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja,22.9,metro,,MAÍZ REVENTÓN (POP CORN)
-Maíz Gigante Original Inka Corn Doypack 500 g,S/ 24.50,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,500.0,g,Maíz Gigante Original Inka Corn Doypack,24.5,metro,,MAÍZ REVENTÓN (POP CORN)
-Aceite Original Mazola Spray Lata 142 g,S/ 24.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,142.0,g,Aceite Original Mazola Spray Lata,24.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Maíz Gigante Original Inka Corn Doypack 500 g,S/ 24.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,500.0,g,Maíz Gigante Original Inka Corn Doypack,24.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Jarabe de Maíz Glucofácil Spitze Botella 680 g,S/ 25.12,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,680.0,g,Jarabe de Maíz Glucofácil Spitze Botella,25.12,metro,,MAÍZ REVENTÓN (POP CORN)
-Bolitas de Maíz Orgánico con Chocolate Sin Gluten Gorilla Munch Nature's Path Caja 284 g,S/ 26.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,284.0,g,Bolitas de Maíz Orgánico con Chocolate Sin Gluten Gorilla Munch Nature's Path Caja,26.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Bolitas de Maíz Orgánico Sin Gluten Gorilla Munch Nature's Path Caja 284 g,S/ 26.20,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,284.0,g,Bolitas de Maíz Orgánico Sin Gluten Gorilla Munch Nature's Path Caja,26.2,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz con Miel Sin Gluten Nature's Path Caja 300 g,S/ 27.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,300.0,g,Hojuelas de Maíz con Miel Sin Gluten Nature's Path Caja,27.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Hojuelas de Maíz Orgánico Sin Gluten Fruit Juice Nature's Path Caja 300 g,S/ 27.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,300.0,g,Hojuelas de Maíz Orgánico Sin Gluten Fruit Juice Nature's Path Caja,27.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Twopack Aceite de Girasol Monteagle 900ml,S/ 29.00,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,900.0,ml,Twopack Aceite de Girasol Monteagle,29.0,metro,,MAÍZ REVENTÓN (POP CORN)
-Twopack Aceite de Girasol Monteagle 900ml,S/ 29.00,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,900.0,ml,Twopack Aceite de Girasol Monteagle,29.0,wong,,MAÍZ REVENTÓN (POP CORN)
-Talco Dr Zaidman Con Almidón de Maíz Talquera 600 g,S/ 34.20,metro,MAÍZ REVENTÓN (POP CORN),2024-12-05 15:03:32.824575,600.0,g,Talco Dr Zaidman Con Almidón de Maíz Talquera,34.2,metro,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Canola Wesson Botella 710 ml,S/ 35.80,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,710.0,ml,Aceite de Canola Wesson Botella,35.8,wong,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Maíz Mazola Original Botella 710 ml,S/ 37.50,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,710.0,ml,Aceite de Maíz Mazola Original Botella,37.5,wong,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Girasol Monteagle 3L,S/ 39.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,3.0,l,Aceite de Girasol Monteagle,39.9,wong,,MAÍZ REVENTÓN (POP CORN)
-Aceite de Maíz Mazola Original Botella 1.18 lt,S/ 55.40,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,1.18,l,Aceite de Maíz Mazola Original Botella,55.4,wong,,MAÍZ REVENTÓN (POP CORN)
-Pack x4 Sixpack Cerveza de Maíz Tres Cruces Pum Pum Lata 310ml,S/ 66.90,wong,MAÍZ REVENTÓN (POP CORN),2024-12-05 17:30:42.708171,310.0,ml,Pack x4 Sixpack Cerveza de Maíz Tres Cruces Pum Pum Lata,66.9,wong,,MAÍZ REVENTÓN (POP CORN)
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Maíz Pop Corn BELL'S Dulce Bolsa 70g,BELL'S,70.0,g,2.1,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,30.0
+Tortillas de maíz DORITOS Dinamita Bolsa 35g,Doritos,35.0,g,2.5,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,71.42857142857142
+Tortillas de maíz DORITOS Dinamita Limón Bolsa 35g,Doritos,35.0,g,2.5,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,71.42857142857142
+Camote Amarillo Especial Metro x kg,,1.0,kg,2.79,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,2.79
+Camote Morado Metro x kg,,1.0,kg,2.79,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,2.79
+Tortillas de Maíz Clásica Cuisine & Co Bolsa 65 g,,65.0,g,2.8,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.07692307692307
+Pop Corn VEGA Bolsa 400g,Vega,400.0,g,2.9,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,7.25
+Papa Blanca Yungay Metro x kg,,1.0,kg,2.99,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,2.99
+Pop Corn TIMONEL Bolsa 400g,Timonel,400.0,g,3.1,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,7.75
+Papa Canchán Procesada Especial x kg,,1.0,kg,3.29,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,3.29
+Maíz Pop Corn Cuisine & Co 500g,,500.0,g,3.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,7.0
+Maiz Cuzco Frito y Salado Cuisine&Co Bolsa 100 g,,100.0,g,3.68,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,36.800000000000004
+Pop Corn PLANET POP Mantequilla Bolsa 85g,PLANET POP,85.0,g,3.7,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.529411764705884
+Conserva de Maíz BELL'S Lata 150g,BELL'S,150.0,g,3.79,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,25.26666666666667
+Maíz Pop Corn Bolsa 350 g,,350.0,g,3.8,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,10.857142857142858
+Maíz con Miel Vita Pluss Bolsa 140 g,,140.0,g,3.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,27.857142857142854
+Tortillas de maiz VEGA Natural Bolsa 150g,Vega,150.0,g,3.9,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,26.0
+Maíz con Miel Vita Pluss Bolsa 140 g,,140.0,g,3.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,27.857142857142854
+Maíz Pop Corn Costeño 500g,,500.0,g,4.0,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.0
+Maíz Pop Corn Costeño 500g,,500.0,g,4.0,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.0
+Tortillas de Maíz DORITOS Queso Atrevido Bolsa 90g,Doritos,90.0,g,4.2,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,46.666666666666664
+Maíz Pop Corn BELL'S Bolsa 500g,BELL'S,500.0,g,4.3,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.6
+Maíz Pop Corn Máxima 500g,,500.0,g,4.3,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.6
+Maiz Pop Corn Paisana Bolsa 500 g,,500.0,g,4.4,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.8
+Pop Corn Butter Extra Act II 91g,,91.0,g,4.6,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,50.54945054945055
+Pop Corn ACT II con Extra Mantequilla Sobre 85g,Act II,85.0,g,4.6,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,54.11764705882352
+Pop Corn ACT II con Mantequilla Sobre 80g,Act II,80.0,g,4.6,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,57.49999999999999
+Pop Corn para Microondas Act II Sabor Mantequilla 91g,,91.0,g,4.6,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,50.54945054945055
+Maíz Pop Corn COSTEÑO Bolsa 500g,COSTENO,500.0,g,4.6,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.2
+Pop Corn Natural Act II Bolsa 80 g,,80.0,g,4.6,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,57.49999999999999
+Maiz Pop Corn 500 g,TOTTUS,500.0,g,4.64,tottus,2024-12-05 11:08:04.425944,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.28
+Maíz Pop Corn Cuisine & Co 500g,,500.0,g,4.7,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.4
+Maiz Cuzco Frito y Salado Cuisine&Co Bolsa 100 g,,100.0,g,4.7,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,47.0
+Maíz Pop Corn Costeño 500 g,COSTENO,500.0,g,4.8,tottus,2024-12-05 11:08:04.425944,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.6
+Maíz Pop Corn COSTEÑO Bolsa 500g,Costeño,500.0,g,4.9,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.8
+Pop Corn Natural Act II Bolsa 80 g,,80.0,g,4.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,61.25000000000001
+Tortillas de Maíz Picante Cuisine & Co Bolsa 150 g,,150.0,g,4.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,32.66666666666667
+Pop Corn para Microondas Act II Sabor Mantequilla 91g,,91.0,g,4.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,53.84615384615385
+Pop Corn Butter Extra Act II 91g,,91.0,g,4.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,53.84615384615385
+Tortillas de Maíz Clásica Cuisine & Co Bolsa 150 g,,150.0,g,4.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,32.66666666666667
+Maíz Pop Corn Tesoro Del Campo Bolsa 500 g,,500.0,g,4.95,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.9
+Maíz Pop Corn 500 g,TESORO DEL CAMPO,500.0,g,5.0,tottus,2024-12-05 11:08:04.425944,MAÍZ REVENTÓN (POP CORN),1.0,kg,10.0
+Maíz Pop Corn Tesoro Del Campo Bolsa 500 g,,500.0,g,5.0,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,10.0
+Tortillas de Maíz DORITOS Queso Atrevido Bolsa 90g,DORITOS,90.0,g,5.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,55.55555555555556
+Palitos de Maíz Cheese Tris Cheetos 120g,,120.0,g,5.2,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.333333333333336
+Palitos de Maíz Cheese Tris Cheetos 120g,,120.0,g,5.2,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.333333333333336
+Maíz Pop Corn VALLENORTE Bolsa 500gr,VALLENORTE,500.0,g,5.3,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,10.6
+Galletas de Maíz Horneadas Salmitas Caja 80 g,,80.0,g,5.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,68.75
+Maíz Tostado BELL'S Táper 150g,BELL'S,150.0,g,5.5,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,36.66666666666667
+Palitos de Maíz Cuisine & Co 180g,,180.0,g,5.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,30.555555555555554
+Tamal de Maíz Casa Verde 180g,,180.0,g,5.7,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,31.666666666666668
+Maíz Pop Corn Valle Norte Bolsa 500 g,,500.0,g,5.8,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,11.6
+Chips de Maíz Morado Orgánicos Wasi Bolsa 75 g,,75.0,g,5.99,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,79.86666666666667
+Chips de Maíz Morado Orgánicos Picante Wasi Bolsa 75 g,,75.0,g,5.99,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,79.86666666666667
+Maíz Gigante Inka Corn Original 100g,,100.0,g,5.99,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,59.900000000000006
+Maíz Chullpi BELL'S Bolsa 400g,BELL'S,400.0,g,6.2,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,15.5
+Maíz Gigante Inka Corn Chile Picante 100g,,100.0,g,6.2,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,62.0
+Maíz Gigante Inka Corn Original 100g,,100.0,g,6.2,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,62.0
+Maíz Cancha Cusco BELL'S Bolsa 400g,BELL'S,400.0,g,6.4,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.0
+Maíz Pop Corn VALLENORTE Bolsa 500g,VALLENORTE,500.0,g,6.4,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,12.8
+Maíz Pop Corn Valle Norte Bolsa 500 g,,500.0,g,6.4,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,12.8
+Palitos de Maíz CHIZITOS Bolsa 190g,FRITO LAY,190.0,g,6.8,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,35.78947368421053
+Hojuelas de Maíz Corn Flakes Cuisine & Co 200g,,200.0,g,6.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,34.5
+Maíz Dulce en Granos Fruto de Oro 425g,,425.0,g,6.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.23529411764706
+Maíz Dulce FRUTO DE ORO Lata 425g,FRUTO DE ORO,425.0,g,6.9,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.23529411764706
+Maíz Dulce en Granos Fruto de Oro 425g,,425.0,g,6.99,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.447058823529414
+Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,INKA CHIPS,125.0,g,7.8,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,62.4
+Tortillas de Maíz Cuisine & Co Sabor Queso 180g,,180.0,g,7.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.88888888888889
+Hojuelas de Maíz Corn Flakes Cuisine & Co 200g,,200.0,g,7.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,39.5
+Tortillas de Maíz Cuisine & Co Sabor Queso 180g,,180.0,g,7.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.88888888888889
+Conserva de Maíz Tierno Entero GOYA Lata 248g,GOYA,248.0,g,7.9,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,31.85483870967742
+Chupetes GLOBO POP!! Con chicle sabores surtidos Bolsa 480Gr,GLOBO POP,480.0,g,8.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.666666666666668
+Chupetes GLOBO POP NEON!! Con chicle sabor limonada Bolsa 480Gr,GLOBO POP,480.0,g,8.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,16.666666666666668
+Papa Amarilla Tumbay Procesada x kg,,1.0,kg,8.09,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.09
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 90 g,,90.0,g,8.3,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,92.22222222222223
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 90 g,,90.0,g,8.3,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,92.22222222222223
+Galletas de Maíz Horneadas Salmas 144g,,144.0,g,8.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,59.02777777777778
+Harina de Maíz Amarillo P.A.N 1kg,,1.0,kg,8.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.5
+Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,,1.0,kg,8.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,8.5
+Galletas de Maíz Horneadas Salmas Granos y Semillas 126g,,126.0,g,8.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,67.46031746031747
+Tortilla de Maíz Cuisine & Co Torti Hot 200g,,200.0,g,8.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,44.5
+Tortilla de Maíz Cuisine & Co Torti Hot 200g,,200.0,g,8.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,44.5
+Maíz Mote Precocido GUVA Bolsa 500g,GUVA,500.0,g,8.99,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,17.98
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa 200g,FRITO LAY,200.0,g,9.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,45.0
+Tortillas de Maíz TOSTITOS con Sal Bolsa 200g,TOSTITOS,200.0,g,9.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,45.0
+Harina Precocida DOÑAREPA Maíz Blanco Paquete 1Kg,DOÑAREPA,1.0,kg,9.9,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.9
+Harina de Maíz Blanco Precocida Doñarepa 1kg,,1.0,kg,9.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,9.9
+Hojuelas de Maíz Corn Flakes Kellogg's 200g,,200.0,g,10.0,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,50.0
+Hojuelas de Maíz Corn Flakes Kellogg's 200g,,200.0,g,10.2,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,51.0
+Canchita para Microondas PLANET POP sabor Natural Bolsa 85g Paquete 3un,PLANET POP,85.0,g,10.5,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,123.52941176470587
+Cereal de Maíz Azucarado Cuisine & Co Reggae Flakes 480g,,480.0,g,10.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,22.708333333333336
+Cereal de Maíz Azucarado Cuisine & Co Reggae Flakes 480g,,480.0,g,10.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,22.708333333333336
+Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa 260g,FRITO LAY,260.0,g,11.0,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,42.30769230769231
+Galletas de Maíz SALMAS Horneadas con Camote y Zanahoria Caja 126g,SALMAS,126.0,g,11.2,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,88.88888888888889
+Harina de Maíz Blanco P.A.N. Precocida Bolsa 1Kg,PAN,1.0,kg,11.3,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,11.3
+Galletas de Arroz y Maíz Scotti 150g,,150.0,g,11.3,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,75.33333333333334
+Galletas de Maíz Horneadas Salmas Maíz Morado 126g,,126.0,g,11.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,91.26984126984127
+Maiz Gigante con Chocolate Inka Corn 100g,,100.0,g,11.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,119.0
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",,200.0,g,11.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,59.5
+Tortilla de Maíz TÍA ROSA Bolsa 255g,BIMBO,255.0,g,12.1,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,47.45098039215686
+Tortillas de Maíz NACHOS Mixtas Bolsa 260g,NACHOS,260.0,g,12.3,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,47.30769230769231
+Cereal CORN FLAKES Nestlé Sin Gluten Caja 180g,CORN FLAKES,180.0,g,12.8,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,71.11111111111111
+Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 260g,,260.0,g,12.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,49.61538461538461
+Hojuelas de Maíz Corn Flakes Cuisine & Co Caja 500 g,,500.0,g,12.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,25.8
+Maíz Morado Justo al Día 700g,,700.0,g,13.4,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,19.142857142857142
+Pop Corn Chicken AVINKA Bolsa 350g,AVINKA,350.0,g,13.7,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,39.14285714285714
+Cereal de Maíz Corn Flakes 405g,,405.0,g,13.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,34.32098765432099
+Cereal de Maíz Corn Flakes 405g,,405.0,g,13.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,34.32098765432099
+Hojuelas de Maíz Corn Flakes Cuisine & Co Caja 500 g,,500.0,g,13.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,27.8
+Galletas de Maíz SALMAS Horneadas Caja 216g,SALMAS,216.0,g,14.5,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,67.12962962962963
+Twelvepack Galletas de Maíz Salmas Horneadas 18g,,18.0,g,14.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,827.7777777777778
+Maíz Morado en Polvo Ecoandino Orgánico 200g,,200.0,g,14.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,74.5
+Cereal Fruta Aros Maiz Cereal Angel Bolsa 420 g,,420.0,g,14.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,35.476190476190474
+Twelvepack Galletas de Maíz Salmas Horneadas 18g,,18.0,g,14.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,827.7777777777778
+Maíz Mote Sierra Exportadora Desgranado Bolsa 425 g,,425.0,g,14.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,35.05882352941177
+Pop Corn Chicken Avinka 350g,,350.0,g,15.3,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.714285714285715
+Pop Corn Chicken Avinka 350g,,350.0,g,15.3,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,43.714285714285715
+Chupetes GLOBO POP Sabor Fresa Bolsa 24u 480g x 2u,Globo Pop,480.0,g,15.6,vega,2024-12-05 11:36:06.908991,MAÍZ REVENTÓN (POP CORN),1.0,kg,32.5
+Pasta de Maíz Penne Sin Gluten El Dorado Bolsa 250 g,,250.0,g,15.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,63.6
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 200g",,200.0,g,15.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,79.5
+Maíz Morado Deshidratado GUVA Bolsa 1kg,GUVA,1.0,kg,15.99,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,15.99
+Cereal ANGEL Trigo integral de avena y maíz sabor fresa Bolsa 350Gr,ANGEL,350.0,g,16.1,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,46.00000000000001
+Cereal ANGEL Trigo integral de avena y maíz sabor chocolate Bolsa 350Gr,ANGEL,350.0,g,16.1,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,46.00000000000001
+Cereal de Avena Maíz y Trigo ANGEL Meli Bolsa 420g,ANGEL,420.0,g,16.1,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,38.333333333333336
+Cereal CORN FLAKES Nestlé Sin Gluten Caja 405g,CORN FLAKES,405.0,g,16.2,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,39.99999999999999
+Maíz Chulpi Desgranado Kuski Bolsa 425 g,,425.0,g,16.3,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,38.352941176470594
+Hojuelas de Maíz Kellogg's Corn Flakes 410g,,410.0,g,16.8,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,40.97560975609756
+Hojuelas de Maíz Kellogg's Corn Flakes 410g,,410.0,g,16.8,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,40.97560975609756
+Pasta de Maíz Spaghetti Sin Gluten El Dorado Bolsa 250 g,,250.0,g,16.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,67.6
+Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 420g,,420.0,g,16.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,40.238095238095234
+Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 260g,,260.0,g,16.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,64.99999999999999
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",,350.0,g,16.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,48.285714285714285
+Hojuelas de Maíz Azucaradas Kellogg's Zucaritas 420g,,420.0,g,16.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,40.238095238095234
+"Aros de Maíz, Trigo y Avena Froot Loops Kellogg's 350g",,350.0,g,16.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,48.285714285714285
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,,360.0,g,17.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,49.722222222222214
+Maíz Morado Deshidratado Guva 1kg,,1.0,kg,18.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,18.5
+Sopa de Maíz Dulce Auga 430g,,430.0,g,19.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,45.34883720930233
+Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas Bolsa 1Kg,ANGEL,1.0,kg,22.8,vivanda,2024-12-05 21:27:37.900915,MAÍZ REVENTÓN (POP CORN),1.0,kg,22.8
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,,360.0,g,22.9,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,63.61111111111111
+Aceite Original Mazola Spray Lata 142 g,,142.0,g,24.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,172.53521126760563
+Maíz Gigante Original Inka Corn Doypack 500 g,,500.0,g,24.5,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,49.0
+Aceite Original Mazola Spray Lata 142 g,,142.0,g,24.8,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,174.64788732394368
+Maíz Gigante Original Inka Corn Doypack 500 g,,500.0,g,24.9,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,49.8
+Jarabe de Maíz Glucofácil Spitze Botella 680 g,,680.0,g,25.12,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,36.94117647058823
+Hojuelas de Maíz con Miel Sin Gluten Nature's Path Caja 300 g,,300.0,g,27.5,wong,2024-12-05 17:30:42.708171,MAÍZ REVENTÓN (POP CORN),1.0,kg,91.66666666666667
+Talco Dr Zaidman Con Almidón de Maíz Talquera 600 g,,600.0,g,34.2,metro,2024-12-05 15:03:32.824575,MAÍZ REVENTÓN (POP CORN),1.0,kg,57.00000000000001

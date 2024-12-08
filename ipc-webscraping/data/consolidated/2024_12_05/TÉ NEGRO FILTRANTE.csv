@@ -1,7 +1,7 @@
-brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-,Té Negro Hornimans Caja 25 Unid,S/ 3.90,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,25.0,un,Té Negro Hornimans Caja,3.9,wong,TÉ NEGRO FILTRANTE
-,Té Negro Lipton Yellow Label 20un,S/ 7.50,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,20.0,un,Té Negro Lipton Yellow Label,7.5,wong,TÉ NEGRO FILTRANTE
-,Té Negro en Hojas Naturandes 50g,S/ 8.50,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,50.0,g,Té Negro en Hojas Naturandes,8.5,wong,TÉ NEGRO FILTRANTE
-,Infusión de Té Negro y Frutos Rojos Twinings Caja 10 unid,S/ 19.90,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,10.0,un,Infusión de Té Negro y Frutos Rojos Twinings Caja,19.9,wong,TÉ NEGRO FILTRANTE
-,Té Negro Bigelow English Breakfast 18un,S/ 26.90,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,18.0,un,Té Negro Bigelow English Breakfast,26.9,wong,TÉ NEGRO FILTRANTE
-,Té Negro Twinings English Breakfast 50 un,S/ 85.90,wong,TÉ NEGRO FILTRANTE,2024-12-05 19:28:17.645468,50.0,un,Té Negro Twinings English Breakfast,85.9,wong,TÉ NEGRO FILTRANTE
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Té Negro Hornimans Caja 25 Unid,,25.0,un,3.9,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,25.0,un,3.9
+Té Negro Lipton Yellow Label 20un,,20.0,un,7.5,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,20.0,un,7.5
+Té Negro en Hojas Naturandes 50g,,50.0,g,8.5,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,50.0,g,8.5
+Infusión de Té Negro y Frutos Rojos Twinings Caja 10 unid,,10.0,un,19.9,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,10.0,un,19.9
+Té Negro Bigelow English Breakfast 18un,,18.0,un,26.9,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,18.0,un,26.9
+Té Negro Twinings English Breakfast 50 un,,50.0,un,85.9,wong,2024-12-05 19:28:17.645468,TÉ NEGRO FILTRANTE,50.0,un,85.9

@@ -1,4 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Trozos de Jurel en Aceite Vegetal Campomar 170g,S/ 4.10,metro,JUREL,2024-12-05 15:37:26.393090,170.0,g,Trozos de Jurel en Aceite Vegetal Campomar,4.1,metro,JUREL
-Trozos de Jurel en Aceite Vegetal Campomar 170g,S/ 4.10,wong,JUREL,2024-12-05 18:07:53.583001,170.0,g,Trozos de Jurel en Aceite Vegetal Campomar,4.1,wong,JUREL
-Jurel Congelado Grande x kg,S/ 6.90 x kg,wong,JUREL,2024-12-05 18:07:53.583001,1.0,kg,Jurel Congelado Grande,6.9,wong,JUREL
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Trozos de Jurel en Aceite Vegetal Campomar 170g,,170.0,g,4.1,metro,2024-12-05 15:37:26.393090,JUREL,1,kg,24.117647058823525
+Trozos de Jurel en Aceite Vegetal Campomar 170g,,170.0,g,4.1,wong,2024-12-05 18:07:53.583001,JUREL,1,kg,24.117647058823525
+Jurel Congelado Grande x kg,,1.0,kg,6.9,wong,2024-12-05 18:07:53.583001,JUREL,1,kg,6.9

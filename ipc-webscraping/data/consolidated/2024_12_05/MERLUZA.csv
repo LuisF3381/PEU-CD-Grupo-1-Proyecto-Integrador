@@ -1,4 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Filete de Merluza con Piel Seafrost 500g,S/ 12.90,metro,MERLUZA,2024-12-05 15:37:55.278013,500.0,g,Filete de Merluza con Piel Seafrost,12.9,metro,MERLUZA
-Nuggets Empanizados de Merluza Congelados Seafrost Bolsa 1 Kg,S/ 27.50,metro,MERLUZA,2024-12-05 15:37:55.278013,1.0,kg,Nuggets Empanizados de Merluza Congelados Seafrost Bolsa,27.5,metro,MERLUZA
-Filete de Merluza Empanizado Congelado Seafrost Bolsa 1 Kg,S/ 27.90,metro,MERLUZA,2024-12-05 15:37:55.278013,1.0,kg,Filete de Merluza Empanizado Congelado Seafrost Bolsa,27.9,metro,MERLUZA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Filete de Merluza con Piel Seafrost 500g,,500.0,g,12.9,metro,2024-12-05 15:37:55.278013,MERLUZA,500.0,g,12.9
+Nuggets Empanizados de Merluza Congelados Seafrost Bolsa 1 Kg,,1.0,kg,27.5,metro,2024-12-05 15:37:55.278013,MERLUZA,1.0,kg,27.5
+Filete de Merluza Empanizado Congelado Seafrost Bolsa 1 Kg,,1.0,kg,27.9,metro,2024-12-05 15:37:55.278013,MERLUZA,1.0,kg,27.9

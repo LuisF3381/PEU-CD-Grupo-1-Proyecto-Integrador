@@ -1,10 +1,10 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Costillas de Cerdo ST. LOUIS Importado,S/ 29.90 x kg,plaza_vea,COSTILLA DE CERDO,2024-12-05 14:41:54.745940,1.95,kg,Costillas de Cerdo ST. LOUIS Importado,29.9,plaza_vea,Presentación 1.95 kg aprox.,,COSTILLA DE CERDO
-Costillas a la Oriental Otto Kunz x kg,S/ 37.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costillas a la Oriental Otto Kunz,37.9,metro,,,COSTILLA DE CERDO
-Costillas de Cerdo x kg,S/ 38.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costillas de Cerdo,38.9,metro,,,COSTILLA DE CERDO
-Media Costilla de Cerdo Texas Pork x kg,S/ 39.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Media Costilla de Cerdo Texas Pork,39.9,metro,,,COSTILLA DE CERDO
-Costilla de Cerdo San Fernando x kg,S/ 42.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costilla de Cerdo San Fernando,42.9,metro,,,COSTILLA DE CERDO
-Costilla La Segoviana x kg,S/ 44.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costilla La Segoviana,44.9,metro,,,COSTILLA DE CERDO
-Costillas St Louis San Fernando BBQ x kg,S/ 44.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costillas St Louis San Fernando BBQ,44.9,metro,,,COSTILLA DE CERDO
-Costillas St Louis San Fernando Orientales x kg,S/ 44.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costillas St Louis San Fernando Orientales,44.9,metro,,,COSTILLA DE CERDO
-Costillas St Louis Finas Hierbas San Fernando x kg,S/ 44.90 x kg,metro,COSTILLA DE CERDO,2024-12-05 15:24:21.504002,1.0,kg,Costillas St Louis Finas Hierbas San Fernando,44.9,metro,,,COSTILLA DE CERDO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Costillas de Cerdo ST. LOUIS Importado,,1.95,kg,29.9,plaza_vea,2024-12-05 14:41:54.745940,COSTILLA DE CERDO,1,kg,15.333333333333334
+Costillas a la Oriental Otto Kunz x kg,,1.0,kg,37.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,37.9
+Costillas de Cerdo x kg,,1.0,kg,38.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,38.9
+Media Costilla de Cerdo Texas Pork x kg,,1.0,kg,39.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,39.9
+Costilla de Cerdo San Fernando x kg,,1.0,kg,42.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,42.9
+Costilla La Segoviana x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,44.9
+Costillas St Louis San Fernando BBQ x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,44.9
+Costillas St Louis San Fernando Orientales x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,44.9
+Costillas St Louis Finas Hierbas San Fernando x kg,,1.0,kg,44.9,metro,2024-12-05 15:24:21.504002,COSTILLA DE CERDO,1,kg,44.9

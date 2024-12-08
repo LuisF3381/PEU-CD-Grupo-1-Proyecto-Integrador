@@ -1,17 +1,17 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Galletas Vainilla BELL'S bañadas con Chocolate...,S/ 3.90 un,plaza_vea,GALLETAS BAÑADAS,2024-12-05 14:33:22.364250,6.0,un,Galletas Vainilla BELL'S bañadas con Chocolate,3.9,plaza_vea,Paquete 6un,,GALLETAS BAÑADAS
-Galleta Bañada 192g,S/ 4.20,tottus,GALLETAS BAÑADAS,2024-12-05 11:18:21.217988,192.0,g,Galleta Bañada,4.2,tottus,,TOTTUS,GALLETAS BAÑADAS
-Galletas GLACITAS Bañadas con Sabor a Toffee B...,S/ 4.79 un,plaza_vea,GALLETAS BAÑADAS,2024-12-05 14:33:22.364250,6.0,un,Galletas GLACITAS Bañadas con Sabor a Toffee B,4.79,plaza_vea,Paquete 6un,,GALLETAS BAÑADAS
-Galletas GLACITAS Bañadas con Sabor a Fresa Bo...,S/ 4.79 un,plaza_vea,GALLETAS BAÑADAS,2024-12-05 14:33:22.364250,6.0,un,Galletas GLACITAS Bañadas con Sabor a Fresa Bo,4.79,plaza_vea,Paquete 6un,,GALLETAS BAÑADAS
-Galletas GLACITAS Bañadas en Choconieve Bolsa ...,S/ 4.79 un,plaza_vea,GALLETAS BAÑADAS,2024-12-05 14:33:22.364250,6.0,un,Galletas GLACITAS Bañadas en Choconieve Bolsa,4.79,plaza_vea,Paquete 6un,,GALLETAS BAÑADAS
-Galletas CHOCO ¡BUM! Bañadas con Sabor a Choco...,S/ 4.80 un,plaza_vea,GALLETAS BAÑADAS,2024-12-05 14:33:22.364250,6.0,un,Galletas CHOCO ¡BUM! Bañadas con Sabor a Choco,4.8,plaza_vea,Paquete 6un,,GALLETAS BAÑADAS
-Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete 6un,S/ 4.80,vivanda,GALLETAS BAÑADAS,2024-12-05 21:34:00.490782,6.0,un,Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete,4.8,vivanda,,VICTORIA,GALLETAS BAÑADAS
-Galletas GLACITAS Bañadas con Sabor a Toffee Paquete 6un,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-05 21:34:00.490782,6.0,un,Galletas GLACITAS Bañadas con Sabor a Toffee Paquete,4.9,vivanda,,VICTORIA GLACITAS,GALLETAS BAÑADAS
-Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete 6un,S/ 4.90,vivanda,GALLETAS BAÑADAS,2024-12-05 21:34:00.490782,6.0,un,Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete,4.9,vivanda,,VICTORIA GLACITAS,GALLETAS BAÑADAS
-Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete 6un,S/ 6.00,vivanda,GALLETAS BAÑADAS,2024-12-05 21:34:00.490782,6.0,un,Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete,6.0,vivanda,,PICARAS,GALLETAS BAÑADAS
-WAFER NIK VAINILLA BANADO CHOCOL 34G X 6UND,S/ 6.20,tottus,GALLETAS BAÑADAS,2024-12-05 11:18:21.217988,34.0,g,WAFER NIK VAINILLA BANADO CHOCOL  X D,6.2,tottus,,COSTA,GALLETAS BAÑADAS
-Fruta Deshidratada Bañada en Chocolate Piña Mondo Doypack 40 g,S/ 7.50,wong,GALLETAS BAÑADAS,2024-12-05 17:41:35.645604,40.0,g,Fruta Deshidratada Bañada en Chocolate Piña Mondo Doypack,7.5,wong,,,GALLETAS BAÑADAS
-Wafer Power Cre Maní Bañado Chocolate Caja x 6 Unidades,S/ 7.90,tottus,GALLETAS BAÑADAS,2024-12-05 11:18:21.217988,6.0,un,Wafer Power Cre Maní Bañado Chocolate Caja x ades,7.9,tottus,,SUBLIME,GALLETAS BAÑADAS
-Galletas Rellenas Oreo Bañadas Lata 328g,S/ 19.90,wong,GALLETAS BAÑADAS,2024-12-05 17:41:35.645604,328.0,g,Galletas Rellenas Oreo Bañadas Lata,19.9,wong,,,GALLETAS BAÑADAS
-Galletas Rellenas Oreo Bañadas Lata 328g,S/ 19.90,metro,GALLETAS BAÑADAS,2024-12-05 15:13:17.947895,328.0,g,Galletas Rellenas Oreo Bañadas Lata,19.9,metro,,,GALLETAS BAÑADAS
-Galletas Bañadas en Chocolate Gordis 150g,S/ 21.90,metro,GALLETAS BAÑADAS,2024-12-05 15:13:17.947895,150.0,g,Galletas Bañadas en Chocolate Gordis,21.9,metro,,,GALLETAS BAÑADAS
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Galletas Vainilla BELL'S bañadas con Chocolate...,,6.0,un,3.9,plaza_vea,2024-12-05 14:33:22.364250,GALLETAS BAÑADAS,6.0,un,3.9
+Galleta Bañada 192g,TOTTUS,192.0,g,4.2,tottus,2024-12-05 11:18:21.217988,GALLETAS BAÑADAS,192.0,g,4.2
+Galletas GLACITAS Bañadas con Sabor a Toffee B...,,6.0,un,4.79,plaza_vea,2024-12-05 14:33:22.364250,GALLETAS BAÑADAS,6.0,un,4.79
+Galletas GLACITAS Bañadas con Sabor a Fresa Bo...,,6.0,un,4.79,plaza_vea,2024-12-05 14:33:22.364250,GALLETAS BAÑADAS,6.0,un,4.79
+Galletas GLACITAS Bañadas en Choconieve Bolsa ...,,6.0,un,4.79,plaza_vea,2024-12-05 14:33:22.364250,GALLETAS BAÑADAS,6.0,un,4.79
+Galletas CHOCO ¡BUM! Bañadas con Sabor a Choco...,,6.0,un,4.8,plaza_vea,2024-12-05 14:33:22.364250,GALLETAS BAÑADAS,6.0,un,4.8
+Galletas CHOCO ¡BUM! Bañadas con Sabor a Chocolate Paquete 6un,VICTORIA,6.0,un,4.8,vivanda,2024-12-05 21:34:00.490782,GALLETAS BAÑADAS,6.0,un,4.8
+Galletas GLACITAS Bañadas con Sabor a Toffee Paquete 6un,VICTORIA GLACITAS,6.0,un,4.9,vivanda,2024-12-05 21:34:00.490782,GALLETAS BAÑADAS,6.0,un,4.9
+Galletas GLACITAS Bañadas con Sabor a Choconieve Paquete 6un,VICTORIA GLACITAS,6.0,un,4.9,vivanda,2024-12-05 21:34:00.490782,GALLETAS BAÑADAS,6.0,un,4.9
+Galletas PICARAS Fresa Pasión Bañadas en Chocolate Paquete 6un,PICARAS,6.0,un,6.0,vivanda,2024-12-05 21:34:00.490782,GALLETAS BAÑADAS,6.0,un,6.0
+WAFER NIK VAINILLA BANADO CHOCOL 34G X 6UND,COSTA,34.0,g,6.2,tottus,2024-12-05 11:18:21.217988,GALLETAS BAÑADAS,34.0,g,6.2
+Fruta Deshidratada Bañada en Chocolate Piña Mondo Doypack 40 g,,40.0,g,7.5,wong,2024-12-05 17:41:35.645604,GALLETAS BAÑADAS,40.0,g,7.5
+Wafer Power Cre Maní Bañado Chocolate Caja x 6 Unidades,SUBLIME,6.0,un,7.9,tottus,2024-12-05 11:18:21.217988,GALLETAS BAÑADAS,6.0,un,7.9
+Galletas Rellenas Oreo Bañadas Lata 328g,,328.0,g,19.9,wong,2024-12-05 17:41:35.645604,GALLETAS BAÑADAS,328.0,g,19.9
+Galletas Rellenas Oreo Bañadas Lata 328g,,328.0,g,19.9,metro,2024-12-05 15:13:17.947895,GALLETAS BAÑADAS,328.0,g,19.9
+Galletas Bañadas en Chocolate Gordis 150g,,150.0,g,21.9,metro,2024-12-05 15:13:17.947895,GALLETAS BAÑADAS,150.0,g,21.9

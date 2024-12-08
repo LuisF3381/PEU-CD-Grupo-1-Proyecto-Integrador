@@ -1,12 +1,12 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Coliflor Un,S/ 3.70 un,plaza_vea,BRÓCOLI,2024-12-05 15:27:23.582770,1.0,un,Coliflor Un,3.7,plaza_vea,Paquete 1un,,BRÓCOLI
-Col Corazón,S/ 3.90 un,plaza_vea,BRÓCOLI,2024-12-05 15:27:23.582770,1.0,un,Col Corazón,3.9,plaza_vea,Paquete 1un,,BRÓCOLI
-Floretes de Brócoli 500g aprox,S/ 7.49,metro,BRÓCOLI,2024-12-05 16:08:18.668966,500.0,g,Floretes de Brócoli  aprox,7.49,metro,,,BRÓCOLI
-Brócoli Metro x kg,S/ 7.99 x kg,metro,BRÓCOLI,2024-12-05 16:08:18.668966,1.0,kg,Brócoli Metro,7.99,metro,,,BRÓCOLI
-Brócoli Viva x unid,S/ 8.50,metro,BRÓCOLI,2024-12-05 16:08:18.668966,1.0,un,Brócoli Viva,8.5,metro,,,BRÓCOLI
-Nuggets de Pollo con Brócoli AVINKA Bolsa 15un,S/ 9.50,vivanda,BRÓCOLI,2024-12-05 22:09:36.057042,15.0,un,Nuggets de Pollo con Brócoli AVINKA Bolsa,9.5,vivanda,,AVINKA,BRÓCOLI
-Nuggets de Pollo con Brócoli Avinka 15un,S/ 10.99,wong,BRÓCOLI,2024-12-05 18:45:03.267426,15.0,un,Nuggets de Pollo con Brócoli Avinka,10.99,wong,,,BRÓCOLI
-Nuggets de Pollo con Brócoli Avinka 15un,S/ 10.99,metro,BRÓCOLI,2024-12-05 16:08:18.668966,15.0,un,Nuggets de Pollo con Brócoli Avinka,10.99,metro,,,BRÓCOLI
-Brócoli Viva x unid,S/ 11.50,wong,BRÓCOLI,2024-12-05 18:45:03.267426,1.0,un,Brócoli Viva,11.5,wong,,,BRÓCOLI
-Brócoli VIVA,S/ 11.99 un,plaza_vea,BRÓCOLI,2024-12-05 15:27:23.582770,1.0,un,Brócoli VIVA,11.99,plaza_vea,Paquete 1un,,BRÓCOLI
-Germinado de Brócoli Age Bandeja 100g,S/ 16.80,metro,BRÓCOLI,2024-12-05 16:08:18.668966,100.0,g,Germinado de Brócoli Age Bandeja,16.8,metro,,,BRÓCOLI
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado
+Coliflor Un,,1.0,un,3.7,plaza_vea,2024-12-05 15:27:23.582770,BRÓCOLI,1.0,un,3.7
+Col Corazón,,1.0,un,3.9,plaza_vea,2024-12-05 15:27:23.582770,BRÓCOLI,1.0,un,3.9
+Floretes de Brócoli 500g aprox,,500.0,g,7.49,metro,2024-12-05 16:08:18.668966,BRÓCOLI,500.0,g,7.49
+Brócoli Metro x kg,,1.0,kg,7.99,metro,2024-12-05 16:08:18.668966,BRÓCOLI,1.0,kg,7.99
+Brócoli Viva x unid,,1.0,un,8.5,metro,2024-12-05 16:08:18.668966,BRÓCOLI,1.0,un,8.5
+Nuggets de Pollo con Brócoli AVINKA Bolsa 15un,AVINKA,15.0,un,9.5,vivanda,2024-12-05 22:09:36.057042,BRÓCOLI,15.0,un,9.5
+Nuggets de Pollo con Brócoli Avinka 15un,,15.0,un,10.99,wong,2024-12-05 18:45:03.267426,BRÓCOLI,15.0,un,10.99
+Nuggets de Pollo con Brócoli Avinka 15un,,15.0,un,10.99,metro,2024-12-05 16:08:18.668966,BRÓCOLI,15.0,un,10.99
+Brócoli Viva x unid,,1.0,un,11.5,wong,2024-12-05 18:45:03.267426,BRÓCOLI,1.0,un,11.5
+Brócoli VIVA,,1.0,un,11.99,plaza_vea,2024-12-05 15:27:23.582770,BRÓCOLI,1.0,un,11.99
+Germinado de Brócoli Age Bandeja 100g,,100.0,g,16.8,metro,2024-12-05 16:08:18.668966,BRÓCOLI,100.0,g,16.8
