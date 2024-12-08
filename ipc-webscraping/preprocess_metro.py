@@ -117,6 +117,8 @@ for filename in os.listdir(input_path):
         # Primer procesamiento
         df = primer_procesamiento(df)
 
+        # Segundo procesamiento para limpiar la cadena
+
         # Extraemos el nombre modificado
         new_name = "_".join(filename.split('_')[1:3])  # Extrae 'ACEITE VEGETAL ENVASADO_20241204'
 

@@ -73,7 +73,7 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
         for web in webs:
             # Construir la ruta del directorio
             input_path = os.path.join(base_path, 'data', 'processed', web, current_date)
-            
+            #ADICIONAL AQUI VERIFICAR SI ESE CSV SE VA TOMAR EN CUENTA SEGUN LA WEB
             # Verificar si la ruta existe
             if os.path.exists(input_path):
                 # Buscar archivos CSV que contengan la clasificación en su nombre

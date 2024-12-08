@@ -59,3 +59,8 @@ input_dia_2 = os.path.join(current_dir, 'data', 'consolidated', '2024_12_05', 'A
 csv_paths = [input_dia_1, input_dia_2]
 result = consolidate_prices(csv_paths)
 save_consolidated_csv(result)
+
+#pendiente
+#hacer que lo haga para cada csv
+# ver el calculo del ipc
+# definir el caso base para el proceso

@@ -1,0 +1,1 @@
+# funciones en comun para el procesamiento de las cedenas de descripcion
