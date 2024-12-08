@@ -1,0 +1,105 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Yogurt Batido GLORIA Griego Sabor Mango Vaso 120g,S/ 2.20,vivanda,MANGO,2024-12-05 22:04:39.957658,120.0,g,Yogurt Batido GLORIA Griego Sabor Mango Vaso,2.2,vivanda,,GLORIA,MANGO
+Bebida de Mango Frugos del Valle Botella 300ml,S/ 2.25,wong,MANGO,2024-12-05 18:38:21.030922,300.0,ml,Bebida de Mango Frugos del Valle Botella,2.25,wong,,,MANGO
+Mango Kent x kg,S/ 2.40 x kg,plaza_vea,MANGO,2024-12-05 15:21:23.510158,0.6,kg,Mango Kent,2.4,plaza_vea,Presentación 0.6 kg aprox.,,MANGO
+Mango Haden,S/ 2.80 x kg,plaza_vea,MANGO,2024-12-05 15:21:23.510158,0.4,kg,Mango Haden,2.8,plaza_vea,Presentación 0.4 kg aprox.,,MANGO
+Mango Edward,S/ 2.90 x kg,plaza_vea,MANGO,2024-12-05 15:21:23.510158,0.6,kg,Mango Edward,2.9,plaza_vea,Presentación 0.6 kg aprox.,,MANGO
+Bebida de Mango Frugos del Valle Caja 970ml,S/ 3.90,wong,MANGO,2024-12-05 18:38:21.030922,970.0,ml,Bebida de Mango Frugos del Valle Caja,3.9,wong,,,MANGO
+Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90,vivanda,MANGO,2024-12-05 22:04:39.957658,970.0,ml,Bebida FRUGOS Sabor a Mango Caja,3.9,vivanda,,FRUGOS,MANGO
+Bebida PULP Mango Caja 1L,S/ 4.40,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,l,Bebida PULP Mango Caja,4.4,vivanda,,PULP,MANGO
+Néctar de Mango Selva Botella 300 ml,S/ 4.40,wong,MANGO,2024-12-05 18:38:21.030922,300.0,ml,Néctar de Mango Selva Botella,4.4,wong,,,MANGO
+Mango Kent Wong x kg,S/ 4.49 x kg,wong,MANGO,2024-12-05 18:38:21.030922,1.0,kg,Mango Kent Wong,4.49,wong,,,MANGO
+Bebida de Mango Pulp Caja 1 L,S/ 4.50,wong,MANGO,2024-12-05 18:38:21.030922,1.0,l,Bebida de Mango Pulp Caja,4.5,wong,,,MANGO
+Bebida de Mango Watts Caja 1L,S/ 4.50,wong,MANGO,2024-12-05 18:38:21.030922,1.0,l,Bebida de Mango Watts Caja,4.5,wong,,,MANGO
+Bebida de Mango y Fresa Frugos del Valle Caja 1L,S/ 4.50,wong,MANGO,2024-12-05 18:38:21.030922,1.0,l,Bebida de Mango y Fresa Frugos del Valle Caja,4.5,wong,,,MANGO
+Agua Gasificada LACROIX Mango Lata 355ml,S/ 4.70,vivanda,MANGO,2024-12-05 22:04:39.957658,355.0,ml,Agua Gasificada LACROIX Mango Lata,4.7,vivanda,,LACROIX,MANGO
+Compota Mango con Quinua CASA VERDE Frasco 120...,S/ 4.99 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,120.0,g,Compota Mango con Quinua CASA VERDE Frasco 120,4.99,plaza_vea,Frasco 120g,,MANGO
+Jugo de Fruta KERO Mango y Maracuyá Botella 475ml,S/ 5.70,vivanda,MANGO,2024-12-05 22:04:39.957658,475.0,ml,Jugo de Fruta KERO Mango y Maracuyá Botella,5.7,vivanda,,KERO,MANGO
+Bebida FRU+ Sabor a Mango y Durazno Botella 400ml,S/ 5.70,vivanda,MANGO,2024-12-05 22:04:39.957658,400.0,ml,Bebida FRU+ Sabor a Mango y Durazno Botella,5.7,vivanda,,FRU +,MANGO
+Bebida de Mango y Durazno Frumas Botella 400 ml,S/ 5.90,wong,MANGO,2024-12-05 18:38:21.030922,400.0,ml,Bebida de Mango y Durazno Frumas Botella,5.9,wong,,,MANGO
+"Jugo de Mango, Maracuyá y Camu Camu Kero Botella 475 ml",S/ 5.90,wong,MANGO,2024-12-05 18:38:21.030922,475.0,ml,"Jugo de Mango, Maracuyá y Camu Camu Kero Botella",5.9,wong,,,MANGO
+Bebida de Mango Mogu Mogue Botella 320 ml,S/ 5.90,wong,MANGO,2024-12-05 18:38:21.030922,320.0,ml,Bebida de Mango Mogu Mogue Botella,5.9,wong,,,MANGO
+Bebida de Mango y Maracuyá Frumas Botella 400 ml,S/ 5.90,wong,MANGO,2024-12-05 18:38:21.030922,400.0,ml,Bebida de Mango y Maracuyá Frumas Botella,5.9,wong,,,MANGO
+Pulpa de Mango Congelada El Frutero 500g,S/ 6.59,wong,MANGO,2024-12-05 18:38:21.030922,500.0,g,Pulpa de Mango Congelada El Frutero,6.59,wong,,,MANGO
+Mermelada de Mango De la Casa 250g,S/ 6.90,metro,MANGO,2024-12-05 16:03:34.351542,250.0,g,Mermelada de Mango De la Casa,6.9,metro,,,MANGO
+Melocotón para Dulce,S/ 6.90 x kg,plaza_vea,MANGO,2024-12-05 15:21:23.510158,0.75,kg,Melocotón para Dulce,6.9,plaza_vea,Presentación 0.75 kg aprox.,,MANGO
+Mango Kafro x kg,S/ 7.43 x kg,wong,MANGO,2024-12-05 18:38:21.030922,1.0,kg,Mango Kafro,7.43,wong,,,MANGO
+Twopack Bebida de Mango Frugos del Valle Caja 1L,S/ 7.50,wong,MANGO,2024-12-05 18:38:21.030922,1.0,l,Twopack Bebida de Mango Frugos del Valle Caja,7.5,wong,,,MANGO
+"Yogurt GLORIA ActiBio con Linaza Sabor a Pitahaya, Mango y Arándanos Botella 950g",S/ 7.50,vivanda,MANGO,2024-12-05 22:04:39.957658,950.0,g,"Yogurt GLORIA ActiBio con Linaza Sabor a Pitahaya, Mango y Arándanos Botella",7.5,vivanda,,GLORIA,MANGO
+Yogurt Batido GLORIA Griego Sabor Mango Bolsa 800g,S/ 7.70,vivanda,MANGO,2024-12-05 22:04:39.957658,800.0,g,Yogurt Batido GLORIA Griego Sabor Mango Bolsa,7.7,vivanda,,GLORIA,MANGO
+Néctar SELVA Mango Premium Botella 900ml,S/ 7.70,vivanda,MANGO,2024-12-05 22:04:39.957658,900.0,ml,Néctar SELVA Mango Premium Botella,7.7,vivanda,,SELVA,MANGO
+Jugo de Naranja Mango Maracuya ECOFRESH Botell...,S/ 7.80 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,475.0,ml,Jugo de Naranja Mango Maracuya ECOFRESH Botell,7.8,plaza_vea,Botella 475ml,,MANGO
+"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 475ml",S/ 7.90,wong,MANGO,2024-12-05 18:38:21.030922,475.0,ml,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",7.9,wong,,,MANGO
+Bebida FRUGOS DEL VALLE Mango Caja 235ml Six Pack,S/ 7.90,vivanda,MANGO,2024-12-05 22:04:39.957658,235.0,ml,Bebida FRUGOS DEL VALLE Mango Caja  Six Pack,7.9,vivanda,,FRUGOS,MANGO
+Sixpack Bebida de Mango Frugos del Valle Caja 235ml,S/ 7.90,wong,MANGO,2024-12-05 18:38:21.030922,235.0,ml,Sixpack Bebida de Mango Frugos del Valle Caja,7.9,wong,,,MANGO
+Sixpack Bebida Frugos del Valle Mango Fresa Caja 235ml,S/ 7.90,wong,MANGO,2024-12-05 18:38:21.030922,235.0,ml,Sixpack Bebida Frugos del Valle Mango Fresa Caja,7.9,wong,,,MANGO
+Nectar Mango Selva Botella Vidrio 900 ml,S/ 7.90,wong,MANGO,2024-12-05 18:38:21.030922,900.0,ml,Nectar Mango Selva Botella Vidrio,7.9,wong,,,MANGO
+Paleta de Helado Cuisine & Co Mango Maracuyá 108g,S/ 7.90,metro,MANGO,2024-12-05 16:03:34.351542,108.0,g,Paleta de Helado Cuisine & Co Mango Maracuyá,7.9,metro,,,MANGO
+Paleta de Helado Cuisine & Co Mango Maracuyá 108g,S/ 7.90,wong,MANGO,2024-12-05 18:38:21.030922,108.0,g,Paleta de Helado Cuisine & Co Mango Maracuyá,7.9,wong,,,MANGO
+Ready To Drink (RTD) PORTON Chilcano de Mango ...,S/ 8 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,355.0,ml,Ready To Drink (RTD) PORTON Chilcano de Mango,8.0,plaza_vea,Lata 355ml,,MANGO
+Chilcano de Mango PORTÓN Lata 355ml,S/ 8.00,vivanda,MANGO,2024-12-05 22:04:39.957658,355.0,ml,Chilcano de Mango PORTÓN Lata,8.0,vivanda,,PORTON,MANGO
+Bebida Energizante Monster Energy Mango Loco Lata 473ml,S/ 8.00,wong,MANGO,2024-12-05 18:38:21.030922,473.0,ml,Bebida Energizante Monster Energy Mango Loco Lata,8.0,wong,,,MANGO
+Bebida Ready to Drink Portón Chilcano Mango Lata 355ml,S/ 8.00,wong,MANGO,2024-12-05 18:38:21.030922,355.0,ml,Bebida Ready to Drink Portón Chilcano Mango Lata,8.0,wong,,,MANGO
+Mango en Trozos Congelado FEST Paquete 500g,S/ 8.70,vivanda,MANGO,2024-12-05 22:04:39.957658,500.0,g,Mango en Trozos Congelado FEST Paquete,8.7,vivanda,,FEST,MANGO
+Mango en Trozos Congelado FEST Paquete 500g,S/ 8.70 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,500.0,g,Mango en Trozos Congelado FEST Paquete,8.7,plaza_vea,Paquete 500g,,MANGO
+Ensal Fruta Melon Mango Uva SOLEI Bandeja 300g,S/ 8.79,vivanda,MANGO,2024-12-05 22:04:39.957658,300.0,g,Ensal Fruta Melon Mango Uva SOLEI Bandeja,8.79,vivanda,,SOLEI,MANGO
+"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",S/ 8.79 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,300.0,g,"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3",8.79,plaza_vea,Bandeja 300g,,MANGO
+Mix Para Hacer Pisco Sour WASSKA Mango y Camu ...,S/ 8.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,125.0,g,Mix Para Hacer Pisco Sour WASSKA Mango y Camu,8.9,plaza_vea,Caja 125g,,MANGO
+Sour WASSKA Mango y Camu Camu Caja 125g,S/ 8.90,vivanda,MANGO,2024-12-05 22:04:39.957658,125.0,g,Sour WASSKA Mango y Camu Camu Caja,8.9,vivanda,,WASSKA,MANGO
+Mermelada de Arándano y Mango Casa Verde 210g,S/ 9.00,metro,MANGO,2024-12-05 16:03:34.351542,210.0,g,Mermelada de Arándano y Mango Casa Verde,9.0,metro,,,MANGO
+Mermelada CASA VERDE Arándano y Mango Frasco 2...,S/ 9 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,210.0,g,Mermelada CASA VERDE Arándano y Mango Frasco 2,9.0,plaza_vea,Frasco 210g,,MANGO
+Mermelada CASA VERDE Arándano y Mango Frasco 210g,S/ 9.00,vivanda,MANGO,2024-12-05 22:04:39.957658,210.0,g,Mermelada CASA VERDE Arándano y Mango Frasco,9.0,vivanda,,CASAVERDE,MANGO
+Base para Mango Camu Camu Sour Wasska 125g,S/ 9.40,wong,MANGO,2024-12-05 18:38:21.030922,125.0,g,Base para Mango Camu Camu Sour Wasska,9.4,wong,,,MANGO
+Pulpa de Mango Congelada El Frutero 500g,S/ 9.49,metro,MANGO,2024-12-05 16:03:34.351542,500.0,g,Pulpa de Mango Congelada El Frutero,9.49,metro,,,MANGO
+Pulpa de Mango Congelado EL FRUTERO Bolsa 500g,S/ 9.80 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,500.0,g,Pulpa de Mango Congelado EL FRUTERO Bolsa,9.8,plaza_vea,Bolsa 500g,,MANGO
+Pulpa de Mango Agroselva Doypack 250g,S/ 9.89,wong,MANGO,2024-12-05 18:38:21.030922,250.0,g,Pulpa de Mango Agroselva Doypack,9.89,wong,,,MANGO
+Mango Picado SOLEI Bandeja 300g,S/ 9.90,vivanda,MANGO,2024-12-05 22:04:39.957658,300.0,g,Mango Picado SOLEI Bandeja,9.9,vivanda,,SOLEI,MANGO
+Helado Vegano Atelier Mango Coco 85g,S/ 9.90,wong,MANGO,2024-12-05 18:38:21.030922,85.0,g,Helado Vegano Atelier Mango Coco,9.9,wong,,,MANGO
+Caramelos AMBROSOLI Trifruna Chicha Mango Piña...,S/ 9.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,420.0,g,Caramelos AMBROSOLI Trifruna Chicha Mango Piña,9.9,plaza_vea,Bolsa 420g,,MANGO
+Helado Momenti Sorbetto Mango 120ml,S/ 9.90,wong,MANGO,2024-12-05 18:38:21.030922,120.0,ml,Helado Momenti Sorbetto Mango,9.9,wong,,,MANGO
+Paleta de Helado Sanúa Maracuyá Mango 70g,S/ 9.90,wong,MANGO,2024-12-05 18:38:21.030922,70.0,g,Paleta de Helado Sanúa Maracuyá Mango,9.9,wong,,,MANGO
+Helado Momenti Sorbetto Mango 120ml,S/ 9.90,metro,MANGO,2024-12-05 16:03:34.351542,120.0,ml,Helado Momenti Sorbetto Mango,9.9,metro,,,MANGO
+Mango en Trozos SOLEI Caja 300g,S/ 9.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,300.0,g,Mango en Trozos SOLEI Caja,9.9,plaza_vea,Caja 300g,,MANGO
+"Pulpa Congelada de Aguaje, Lúcuma y Mango Berries del Perú 200g",S/ 10.80,metro,MANGO,2024-12-05 16:03:34.351542,200.0,g,"Pulpa Congelada de Aguaje, Lúcuma y Mango Berries del Perú",10.8,metro,,,MANGO
+Melocotón Premium x Kg,S/ 10.90 x kg,plaza_vea,MANGO,2024-12-05 15:21:23.510158,0.3,kg,Melocotón Premium,10.9,plaza_vea,Presentación 0.3 kg aprox.,,MANGO
+"PALETA PALETTI 75GR , Fresa c/ Mango",S/ 10.90,wong,MANGO,2024-12-05 18:38:21.030922,75.0,g,"PALETA PALETTI R , Fresa c/ Mango",10.9,wong,,,MANGO
+"Pulpa Congelada de Acaí, Arándano y Mango Berries del Perú 200g",S/ 10.96,wong,MANGO,2024-12-05 18:38:21.030922,200.0,g,"Pulpa Congelada de Acaí, Arándano y Mango Berries del Perú",10.96,wong,,,MANGO
+Mango en Trozos Congelado Fest 500g,S/ 10.99,metro,MANGO,2024-12-05 16:03:34.351542,500.0,g,Mango en Trozos Congelado Fest,10.99,metro,,,MANGO
+Yogurt Griego Descremado DANLAC Sabor a Mango Vaso 420g,S/ 11.50,vivanda,MANGO,2024-12-05 22:04:39.957658,420.0,g,Yogurt Griego Descremado DANLAC Sabor a Mango Vaso,11.5,vivanda,,DANLAC,MANGO
+"Pulpa Congelada de Aguaje, Lúcuma y Mango Berries del Perú 200g",S/ 11.52,wong,MANGO,2024-12-05 18:38:21.030922,200.0,g,"Pulpa Congelada de Aguaje, Lúcuma y Mango Berries del Perú",11.52,wong,,,MANGO
+Pack Bebida FRUGOS Mango Caja 235ml Paquete 6un + Galletas Saladas RITZ Bolsa 20g Paquete 6un,S/ 11.90,vivanda,MANGO,2024-12-05 22:04:39.957658,235.0,ml,Pack Bebida FRUGOS Mango Caja  Paquete  + Galletas Saladas RITZ Bolsa  Paquete,11.9,vivanda,,FRUGOS,MANGO
+Escobilla de Baño BOREAL Mango de Madera Paquete 1un,S/ 11.90,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,un,Escobilla de Baño BOREAL Mango de Madera Paquete,11.9,vivanda,,BOREAL,MANGO
+Yogurt Vegano VAKIMU Mango Pasión Pote 500g,S/ 12.40,vivanda,MANGO,2024-12-05 22:04:39.957658,500.0,g,Yogurt Vegano VAKIMU Mango Pasión Pote,12.4,vivanda,,VAKIMU,MANGO
+Pack Bebida FRUGOS Mango y Fresa Caja 1L + Focaccia de Aceituna Refrigerada LA FLORENCIA 1un,S/ 12.60,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,l,Pack Bebida FRUGOS Mango y Fresa Caja  + Focaccia de Aceituna Refrigerada LA FLORENCIA,12.6,vivanda,,FRUGOS,MANGO
+Pack Bebida FRUGOS Mango y Fresa Caja 1L + Focaccia con Tomate Refrigerado LA FLORENCIA 1un,S/ 12.60,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,l,Pack Bebida FRUGOS Mango y Fresa Caja  + Focaccia con Tomate Refrigerado LA FLORENCIA,12.6,vivanda,,FRUGOS,MANGO
+Helado Lift Maracuya & Mango 110g,S/ 12.90,metro,MANGO,2024-12-05 16:03:34.351542,110.0,g,Helado Lift Maracuya & Mango,12.9,metro,,,MANGO
+Helado Veggie Mango & Piña Lift Pote 110 g,S/ 12.90,metro,MANGO,2024-12-05 16:03:34.351542,110.0,g,Helado Veggie Mango & Piña Lift Pote,12.9,metro,,,MANGO
+Helado Veggie Mango & Piña Lift Pote 110 g,S/ 12.90,wong,MANGO,2024-12-05 18:38:21.030922,110.0,g,Helado Veggie Mango & Piña Lift Pote,12.9,wong,,,MANGO
+Helado Lift Maracuya & Mango 110g,S/ 12.90,wong,MANGO,2024-12-05 18:38:21.030922,110.0,g,Helado Lift Maracuya & Mango,12.9,wong,,,MANGO
+Mix de Frutas El Frutero 1kg: Fresa + Mango + Piña,S/ 12.91,metro,MANGO,2024-12-05 16:03:34.351542,1.0,kg,Mix de Frutas El Frutero : Fresa + Mango + Piña,12.91,metro,,,MANGO
+Jugo de Naranja Mango Maracuya ECOFRESH Botell...,S/ 13.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,1.0,l,Jugo de Naranja Mango Maracuya ECOFRESH Botell,13.9,plaza_vea,Botella 1L,,MANGO
+Pack x2 Bebida Energizante Monster Energy Mango Loco Lata 473ml,S/ 13.90,wong,MANGO,2024-12-05 18:38:21.030922,473.0,ml,Pack x2 Bebida Energizante Monster Energy Mango Loco Lata,13.9,wong,,,MANGO
+Pack x2 Sixpack Bebida de Mango Frugos del Valle Caja 235ml,S/ 14.50,wong,MANGO,2024-12-05 18:38:21.030922,235.0,ml,Pack x2 Sixpack Bebida de Mango Frugos del Valle Caja,14.5,wong,,,MANGO
+"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 1L",S/ 14.50,wong,MANGO,2024-12-05 18:38:21.030922,1.0,l,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",14.5,wong,,,MANGO
+Bebida Ready to Drink Three Birds Mango Lata 355ml,S/ 14.90,wong,MANGO,2024-12-05 18:38:21.030922,355.0,ml,Bebida Ready to Drink Three Birds Mango Lata,14.9,wong,,,MANGO
+Bebida MOGU MOGU Mango y Coco Botella 1L,S/ 15.90,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,l,Bebida MOGU MOGU Mango y Coco Botella,15.9,vivanda,,MOGU MOGU,MANGO
+Yogurt Griego Mango con Fresa VAKIMU YOG Pote 1Kg,S/ 16.80,vivanda,MANGO,2024-12-05 22:04:39.957658,1.0,kg,Yogurt Griego Mango con Fresa VAKIMU YOG Pote,16.8,vivanda,,VAKIMU,MANGO
+"Mix Fresa, Piña y Mango Congelado EL FRUTERO B...",S/ 16.99 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,1.0,kg,"Mix Fresa, Piña y Mango Congelado EL FRUTERO B",16.99,plaza_vea,Bolsa 1Kg,,MANGO
+Ready To Drink (RTD) PISCANO Sour Mango Botell...,S/ 17.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,700.0,ml,Ready To Drink (RTD) PISCANO Sour Mango Botell,17.9,plaza_vea,Botella 700ml,,MANGO
+Mango Congelado En Trozos Del Ande Bolsa 1 Kg,S/ 17.99,metro,MANGO,2024-12-05 16:03:34.351542,1.0,kg,Mango Congelado En Trozos Del Ande Bolsa,17.99,metro,,,MANGO
+"Infusión de Naranja, Mango y Canela TWININGS C...",S/ 19.20 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,10.0,un,"Infusión de Naranja, Mango y Canela TWININGS C",19.2,plaza_vea,Caja 10un,,MANGO
+Pack x4 Bebida Energizante Monster Energy Mango Loco Lata 473ml,S/ 26.50,wong,MANGO,2024-12-05 18:38:21.030922,473.0,ml,Pack x4 Bebida Energizante Monster Energy Mango Loco Lata,26.5,wong,,,MANGO
+Mango Deshidratado Sufrut 200g,S/ 28.00,metro,MANGO,2024-12-05 16:03:34.351542,200.0,g,Mango Deshidratado Sufrut,28.0,metro,,,MANGO
+Helado de Maracuyá Mango Sanúa 473ml,S/ 29.90,wong,MANGO,2024-12-05 18:38:21.030922,473.0,ml,Helado de Maracuyá Mango Sanúa,29.9,wong,,,MANGO
+Avena Mix Mango y Chocolate +NUTRI Co Caja 400...,S/ 29.90 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,400.0,un,Avena Mix Mango y Chocolate +NUTRI Co Caja 400,29.9,plaza_vea,Caja 400un,,MANGO
+Helado Momenti Sorbetto Mango 500ml,S/ 32.90,wong,MANGO,2024-12-05 18:38:21.030922,500.0,ml,Helado Momenti Sorbetto Mango,32.9,wong,,,MANGO
+Helado Momenti Sorbetto Mango 500ml,S/ 32.90,metro,MANGO,2024-12-05 16:03:34.351542,500.0,ml,Helado Momenti Sorbetto Mango,32.9,metro,,,MANGO
+Helado Veggie Mango & Piña Lift Pote 390 g,S/ 33.50,metro,MANGO,2024-12-05 16:03:34.351542,390.0,g,Helado Veggie Mango & Piña Lift Pote,33.5,metro,,,MANGO
+Brocha Gruesa con Mango Extra Corto KISS Caja ...,S/ 33.50 un,plaza_vea,MANGO,2024-12-05 15:21:23.510158,1.0,un,Brocha Gruesa con Mango Extra Corto KISS Caja,33.5,plaza_vea,Caja 1un,,MANGO
+Helado Maracuyá y Mango Lift 390g,S/ 33.50,metro,MANGO,2024-12-05 16:03:34.351542,390.0,g,Helado Maracuyá y Mango Lift,33.5,metro,,,MANGO
+Helado Veggie Mango & Piña Lift Pote 390 g,S/ 33.50,wong,MANGO,2024-12-05 18:38:21.030922,390.0,g,Helado Veggie Mango & Piña Lift Pote,33.5,wong,,,MANGO
+Helado Maracuyá y Mango Lift 390g,S/ 33.50,wong,MANGO,2024-12-05 18:38:21.030922,390.0,g,Helado Maracuyá y Mango Lift,33.5,wong,,,MANGO
+Shampoo HERBAL ESSENCES Aloe & Mango Frasco 400ml,S/ 34.40,vivanda,MANGO,2024-12-05 22:04:39.957658,400.0,ml,Shampoo HERBAL ESSENCES Aloe & Mango Frasco,34.4,vivanda,,HERBAL ESSENCES,MANGO
+Helado Häagen Dazs Mango y Frambuesa 460ml,S/ 38.70,metro,MANGO,2024-12-05 16:03:34.351542,460.0,ml,Helado Häagen Dazs Mango y Frambuesa,38.7,metro,,,MANGO
+Helado de Mango Dulce Pasión 5L,S/ 99.90,metro,MANGO,2024-12-05 16:03:34.351542,5.0,l,Helado de Mango Dulce Pasión,99.9,metro,,,MANGO
+Helado de Mango Dulce Pasión 5L,S/ 99.90,wong,MANGO,2024-12-05 18:38:21.030922,5.0,l,Helado de Mango Dulce Pasión,99.9,wong,,,MANGO

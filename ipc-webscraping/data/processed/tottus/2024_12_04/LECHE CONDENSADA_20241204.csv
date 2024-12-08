@@ -1,0 +1,5 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+NESTLE,Leche Condensada Nestlé 393 g,S/ 6.50,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,393.0,g,Leche Condensada Nestlé,6.5
+GLORIA,Leche Condensada 393 g,S/ 6.90,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,393.0,g,Leche Condensada,6.9
+NESTLE,Leche Condensada Lata x 100 g,S/ 3.80,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,100.0,g,Leche Condensada Lata x,3.8
+BONLE,Leche Condensada Bonlé Lata x 397g,S/ 5.50,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,397.0,g,Leche Condensada Bonlé Lata x,5.5

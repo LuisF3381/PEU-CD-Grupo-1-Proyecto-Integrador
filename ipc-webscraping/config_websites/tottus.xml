@@ -4,12 +4,13 @@
     <website name="tottus" base_url="https://tottus.falabella.com.pe/tottus-pe">
         <actions>
             <!-- Aceptamos las cookies-->
-            <action type="click" selector="button#testId-accept-cookies-btn" />
+            <action optional="true" type="click" selector="button#testId-accept-cookies-btn" />
             <!-- Ingresamos el termino de busqueda -->
             <action type="input" selector="input[placeholder='Buscar en Tottus']" value="{search_term}" />
             <!-- Click en el boton de busqueda -->
             <action type="enter" selector="input[placeholder='Buscar en Tottus']" />
-            
+            <!-- Aceptamos las cookies-->
+            <action optional="true" type="click" selector="button#testId-accept-cookies-btn" />
         </actions>
         <selectors>
             <container>div.jsx-1068418086.search-results-2-grid.grid-pod</container>

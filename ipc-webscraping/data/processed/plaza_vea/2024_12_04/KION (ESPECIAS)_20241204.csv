@@ -1,0 +1,71 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1.5 kg aprox.,Pechuga Especial de Pollo Empacada al vacío SA...,S/ 17.50 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.5,kg,Pechuga Especial de Pollo Empacada al vacío SA,17.5
+Presentación 0.3 kg aprox.,Kion,S/ 9.90 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,0.3,kg,Kion,9.9
+Frasco 100ml,Esencia de Vainilla UNIVERSAL Frasco 100ml,S/ 2.30 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,ml,Esencia de Vainilla UNIVERSAL Frasco,2.3
+Paquete 8un,Papel Higiénico SUAVE Esencias Elegance Paquet...,S/ 25.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,8.0,un,Papel Higiénico SUAVE Esencias Elegance Paquet,25.9
+Paquete 32un,Papel Higiénico SUAVE Esencias Elegance Paquet...,S/ 34.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,32.0,un,Papel Higiénico SUAVE Esencias Elegance Paquet,34.9
+Presentación 0.8 kg aprox.,Guiso Especial de Res EL BUEN CORTE,S/ 38.90 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,0.8,kg,Guiso Especial de Res EL BUEN CORTE,38.9
+Bolsa 1un,Pan Baguette Especial LA FLORENCIA 1un,S/ 2.20 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,un,Pan Baguette Especial LA FLORENCIA,2.2
+Paquete 400g,Pack Jamonada Especial SUIZA Paquete 400g,S/ 10.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,400.0,g,Pack Jamonada Especial SUIZA Paquete,10.9
+Bolsa 235g,Tornillo Especial MOLITALIA Pasta para Ensalad...,S/ 3.10 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,235.0,g,Tornillo Especial MOLITALIA Pasta para Ensalad,3.1
+Paquete 3un,Condimento SIBARITA Ají especial Paquete 3Un S...,S/ 3.60 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,3.0,un,Condimento SIBARITA Ají especial Paquete  S,3.6
+Botella 90ml,Esencia de Vainila UMSHA Botella 90ml,S/ 2.20 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,90.0,ml,Esencia de Vainila UMSHA Botella,2.2
+Frasco 250g,Aderezo BELL'S Con ají panca molido y especias...,S/ 5.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,250.0,g,Aderezo BELL'S Con ají panca molido y especias,5.9
+Botella 1000g,Saca Sarro DIAMANTE Especial para Inodoros y M...,S/ 7.59 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1000.0,g,Saca Sarro DIAMANTE Especial para Inodoros y M,7.59
+Paquete 200g,Jamonada Especial SALCHICHERÍA SUIZA Paquete 2...,S/ 5.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,200.0,g,Jamonada Especial SALCHICHERÍA SUIZA Paquete 2,5.9
+Bolsa 100g,Ají especial SIBARITA Sin picante Bolsa 100Gr,S/ 2.40 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,g,Ají especial SIBARITA Sin picante Bolsa r,2.4
+Botella 750ml,Tequila JOSÉ CUERVO Especial Reposado Botella ...,S/ 63.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Tequila JOSÉ CUERVO Especial Reposado Botella,63.9
+Paquete 100g,Jamonada Especial BRAEDT Paquete 100g,S/ 2.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,g,Jamonada Especial BRAEDT Paquete,2.9
+Caja 16un,Chocolate NESTLÉ Sublime Bombones Especial Caj...,S/ 12 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,16.0,un,Chocolate NESTLÉ Sublime Bombones Especial Caj,12.0
+Caja 4Kg,Sal Belga Especial BONI para Máquinas Lavavaji...,S/ 49.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,4.0,kg,Sal Belga Especial BONI para Máquinas Lavavaji,49.9
+Botella 1000g,Desatorador para Baños DIAMANTE Fórmula Especi...,S/ 12.89 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1000.0,g,Desatorador para Baños DIAMANTE Fórmula Especi,12.89
+Bolsa 65g,"Palitos de Ajonjolí UNIÓN Chia, Kión y Ajo Bol...",S/ 3.69 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,65.0,g,"Palitos de Ajonjolí UNIÓN Chia, Kión y Ajo Bol",3.69
+Botella 625ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote...,S/ 2.20 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,625.0,ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote,2.2
+Presentación 1.2 kg aprox.,Pierna Especial de Pollo Empacada al vacío SAN...,S/ 15.49 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.2,kg,Pierna Especial de Pollo Empacada al vacío SAN,15.49
+Presentación 5 kg aprox.,Pechuga Especial de Pavita SAN FERNANDO,S/ 22.90 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,5.0,kg,Pechuga Especial de Pavita SAN FERNANDO,22.9
+Sobre 18g,Kión en Polvo TOÑA Jenjibre Sobre 18g,S/ 3.50 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,18.0,g,Kión en Polvo TOÑA Jenjibre Sobre,3.5
+Botella 750ml,Espumante TABERNERO Rosé Especial Botella 750m...,S/ 14.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Espumante TABERNERO Rosé Especial Botella 750m,14.9
+Botella 750ml,Espumante TABERNERO Semi Seco Especial Botella...,S/ 14.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Espumante TABERNERO Semi Seco Especial Botella,14.9
+Caja 1un,Máquina de Afeitar Recargable GILLETTE Venus E...,S/ 32.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,un,Máquina de Afeitar Recargable GILLETTE Venus E,32.9
+Paquete 200g,Jamonada Especial SALCHICHERÍA ALEMANA Paquete...,S/ 6.80 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,200.0,g,Jamonada Especial SALCHICHERÍA ALEMANA Paquete,6.8
+Bolsa 1kg,Manjar Blanco BELL'S Especial Bolsa 1Kg,S/ 16.20 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,kg,Manjar Blanco BELL'S Especial Bolsa,16.2
+Caja 2un,Repuestos Para Afeitar GILLETTE Venus Especial...,S/ 32.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,2.0,un,Repuestos Para Afeitar GILLETTE Venus Especial,32.9
+Paquete 110g,Queso Rulo de Cabra MARQUÉS DEL CASTILLO con E...,S/ 11.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,110.0,g,Queso Rulo de Cabra MARQUÉS DEL CASTILLO con E,11.9
+Envase 250g,Ají Especial FERYMAR Envase 250g,S/ 8.70 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,250.0,g,Ají Especial FERYMAR Envase,8.7
+Bolsa 200g,Manjar Blanco Especial BELL'S Bolsa 200g,S/ 3.50 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,200.0,g,Manjar Blanco Especial BELL'S Bolsa,3.5
+Botella 750ml,Tequila JOSÉ CUERVO Especial Silver Botella 75...,S/ 63.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Tequila JOSÉ CUERVO Especial Silver Botella 75,63.9
+Botella 750ml,Anís NAJAR Semi Dulce Especial Botella 750ml,S/ 36.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Anís NAJAR Semi Dulce Especial Botella,36.9
+Botella 750ml,Anís NAJAR Seco Especial Botella 750ml,S/ 36.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Anís NAJAR Seco Especial Botella,36.9
+Pack 2un,Pack Whisky SOMETHING Botella 750ml + Whisky S...,S/ 48.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,2.0,un,Pack Whisky SOMETHING Botella  + Whisky S,48.9
+Botella 750ml,Anís NAJAR Crema Especial Botella 750ml,S/ 41.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Anís NAJAR Crema Especial Botella,41.9
+Bolsa 100g,Salsa 2 BANDERAS Base de Ostión y Especias Bol...,S/ 2.69 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,g,Salsa 2 BANDERAS Base de Ostión y Especias Bol,2.69
+Paquete 100g,Jamonada Especial BELL'S Paquete 100g,S/ 2.60 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,g,Jamonada Especial BELL'S Paquete,2.6
+Caja 20un,Té Negro NATURE'S HEART Chai con Especias Caja...,S/ 9.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,20.0,un,Té Negro NATURE'S HEART Chai con Especias Caja,9.9
+Bolsa 500g,Manjar Blanco BELL'S Especial Bolsa 500g,S/ 9.40 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,500.0,g,Manjar Blanco BELL'S Especial Bolsa,9.4
+Botella 700ml,Ron HAVANA CLUB Añejo Especial Botella 700ml,S/ 42.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,700.0,ml,Ron HAVANA CLUB Añejo Especial Botella,42.9
+Botella 750ml,Ron ABUELO Reserva Especial Añejo Botella 750m...,S/ 42.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Ron ABUELO Reserva Especial Añejo Botella 750m,42.9
+Botella 1L,Whisky SOMETHING SPECIAL Botella 1L,S/ 59.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,l,Whisky SOMETHING SPECIAL Botella,59.9
+Bolsa 1Kg,Alimento Seco para Gatos FRISKIES Adultos Sele...,S/ 19.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,kg,Alimento Seco para Gatos FRISKIES Adultos Sele,19.9
+Botella 750ml,Whisky SOMETHING SPECIAL Botella 750ml,S/ 48.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Whisky SOMETHING SPECIAL Botella,48.9
+Bolsa 500g,Sal de Maras GOURMET Especial Bolsa 500g,S/ 9.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,500.0,g,Sal de Maras GOURMET Especial Bolsa,9.9
+Bolsa 85g,Aderezo tipo Oriental 2 BANDERAS con Soya y Es...,S/ 3.80 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,85.0,g,Aderezo tipo Oriental 2 BANDERAS con Soya y Es,3.8
+Botella 1000g,Desatorados para Cocinas DIAMANTE Fórmula Espe...,S/ 12.89 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1000.0,g,Desatorados para Cocinas DIAMANTE Fórmula Espe,12.89
+Botella 750ml,Whisky BUCHANAN'S Special Reserve 18 Años Bote...,S/ 259.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Whisky BUCHANAN'S Special Reserve 18 Años Bote,259.9
+Botella 1L,Ron HAVANA CLUB Especial Botella 1L,S/ 59.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,l,Ron HAVANA CLUB Especial Botella,59.9
+Botella 750ml,Vino Tinto TACAMA Malbec Selección Especial Bo...,S/ 44.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Vino Tinto TACAMA Malbec Selección Especial Bo,44.9
+Caja 1un,Tinte para Cabello KOLESTON Kit 121 Rubio Ceni...,S/ 29.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,1.0,un,Tinte para Cabello KOLESTON Kit 121 Rubio Ceni,29.9
+Presentación 5 kg aprox.,Pechuga Especial de Pavo REDONDOS,S/ 19.90 x kg,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,5.0,kg,Pechuga Especial de Pavo REDONDOS,19.9
+Botella 750ml,Vino Tinto TACAMA Selección Especial Carmenere...,S/ 44.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Vino Tinto TACAMA Selección Especial Carmenere,44.9
+Botella 750ml,Vino Tinto TACAMA Selección Especial Blend Bot...,S/ 44.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Vino Tinto TACAMA Selección Especial Blend Bot,44.9
+Botella 750ml,Ron CARUPANO Reserva Especial 6 años Botella 7...,S/ 49.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Ron CARUPANO Reserva Especial 6 años Botella 7,49.9
+Frasco 100g,Sal MARAS GOURMET con Especies Moledor Frasco ...,S/ 15.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,100.0,g,Sal MARAS GOURMET con Especies Moledor Frasco,15.9
+Lata 90g,Mix Sales y Especias GO BARMAN Margarita & Mic...,S/ 19.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,90.0,g,Mix Sales y Especias GO BARMAN Margarita & Mic,19.9
+Botella 750ml,Vino Tinto SEPTIMA Lote Especial Malbec Botell...,S/ 119.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Vino Tinto SEPTIMA Lote Especial Malbec Botell,119.9
+Bolsa 90g,Mix Sales y Especias GOR BARMAN Micheladas & T...,S/ 19.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,90.0,g,Mix Sales y Especias GOR BARMAN Micheladas & T,19.9
+Pack 2un,Pack Whisky SOMETHING SPECIAL Botella 750ml + ...,S/ 88.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,2.0,un,Pack Whisky SOMETHING SPECIAL Botella  +,88.9
+Frasco 240g,Salsa Acevichada ADELMI a base de Mayonesa y E...,S/ 9.10 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,240.0,g,Salsa Acevichada ADELMI a base de Mayonesa y E,9.1
+Paquete 4un,Esencias FRATELLO Sabores Variados Paquete 4un,S/ 15.80 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,4.0,un,Esencias FRATELLO Sabores Variados Paquete,15.8
+Lata 90g,Mix Sales y Especias GO BARMAN Bloody & Mary L...,S/ 19.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,90.0,g,Mix Sales y Especias GO BARMAN Bloody & Mary L,19.9
+Botella 750un,Vino Blanco UNO SPECIAL Reserve Sauvignon Blan...,S/ 69.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,un,Vino Blanco UNO SPECIAL Reserve Sauvignon Blan,69.9
+Botella 750ml,Ron CENTENARIO N° 7 Añejo Especial Botella 750...,S/ 78.90 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,750.0,ml,Ron CENTENARIO N° 7 Añejo Especial Botella 750,78.9
+Caja 18un,Infusión BIGELOW Kion y Durazno Caja 18un,S/ 26.50 un,plaza_vea,KION (ESPECIAS),2024-12-04 14:29:00.733790,18.0,un,Infusión BIGELOW Kion y Durazno Caja,26.5

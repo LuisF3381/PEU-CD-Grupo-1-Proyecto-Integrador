@@ -85,8 +85,8 @@ scraper = WebScraper_Selenium(config_path, opts)
 
 
 raw_data_file = scraper.scrape_and_save(
-        'metro', 
-        'UVA NEGRA',
+        'tottus', 
+        'ARROZ',
         output_path
         )
 """

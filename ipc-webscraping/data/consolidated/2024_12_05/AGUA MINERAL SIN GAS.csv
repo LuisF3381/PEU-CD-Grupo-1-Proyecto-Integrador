@@ -1,0 +1,75 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Agua Mineral sin gas 625 mL,S/ 1.50,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,625.0,ml,Agua Mineral sin gas,1.5,tottus,,CIELO,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS Con Gas Botella 625ml,S/ 1.60,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,625.0,ml,Agua Mineral SAN LUIS Con Gas Botella,1.6,vivanda,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS Con Gas Botella 625ml,S/ 1.60 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,625.0,ml,Agua Mineral SAN LUIS Con Gas Botella,1.6,plaza_vea,Botella 625ml,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO Con Gas Botella 600ml,S/ 1.80,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,600.0,ml,Agua Mineral SAN MATEO Con Gas Botella,1.8,vivanda,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Botella 600ml,S/ 1.80,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,600.0,ml,Agua Sin Gas Mineral San Mateo Botella,1.8,wong,,,AGUA MINERAL SIN GAS
+Agua con Gas Mineral San Mateo Botella 600ml,S/ 1.80,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,600.0,ml,Agua con Gas Mineral San Mateo Botella,1.8,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO sin Gas Botella 600ml,S/ 1.80 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,600.0,ml,Agua Mineral SAN MATEO sin Gas Botella,1.8,plaza_vea,Botella 600ml,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO Con Gas Botella 600ml,S/ 1.80 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,600.0,ml,Agua Mineral SAN MATEO Con Gas Botella,1.8,plaza_vea,Botella 600ml,,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,600.0,ml,Agua Sin Gas Mineral San Mateo Botella,1.8,metro,,,AGUA MINERAL SIN GAS
+Agua con Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,600.0,ml,Agua con Gas Mineral San Mateo Botella,1.8,metro,,,AGUA MINERAL SIN GAS
+Agua Mineral con gas 625 mL,S/ 1.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,625.0,ml,Agua Mineral con gas,1.9,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SOCOSANI Con Gas Botella 500ml,S/ 2 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,500.0,ml,Agua Mineral SOCOSANI Con Gas Botella,2.0,plaza_vea,Botella 500ml,,AGUA MINERAL SIN GAS
+Agua Mineral SOCOSANI Con Gas Botella 500ml,S/ 2.00,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,500.0,ml,Agua Mineral SOCOSANI Con Gas Botella,2.0,vivanda,,SOCOSANI,AGUA MINERAL SIN GAS
+Agua Mineral Sin Gas 600 mL,S/ 2.20,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,600.0,ml,Agua Mineral Sin Gas,2.2,tottus,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Mineral Con Gas 600 mL,S/ 2.20,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,600.0,ml,Agua Mineral Con Gas,2.2,tottus,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO Con Gas Botella 1.5L,S/ 2.20 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,1.5,l,Agua Mineral SAN MATEO Con Gas Botella,2.2,plaza_vea,Botella 1.5L,,AGUA MINERAL SIN GAS
+AGUA MESA SIN GAS BOTELLA X 1L,S/ 2.50,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,1.0,l,AGUA MESA SIN GAS BOTELLA X,2.5,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral sin gas con Tapa Deportiva 1 L,S/ 2.50,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,1.0,l,Agua Mineral sin gas con Tapa Deportiva,2.5,tottus,,CIELO,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS sin Gas Botella 1L,S/ 2.70,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,1.0,l,Agua Mineral SAN LUIS sin Gas Botella,2.7,vivanda,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral sin gas 2.5 L,S/ 2.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,2.5,l,Agua Mineral sin gas,2.9,tottus,,CIELO,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS sin Gas Botella 2.5L,S/ 3.00,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,2.5,l,Agua Mineral SAN LUIS sin Gas Botella,3.0,vivanda,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS sin Gas Botella 2.5L,S/ 3 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,2.5,l,Agua Mineral SAN LUIS sin Gas Botella,3.0,plaza_vea,Botella 2.5L,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO sin Gas Botella 2.5L,S/ 3 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,2.5,l,Agua Mineral SAN MATEO sin Gas Botella,3.0,plaza_vea,Botella 2.5L,,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Botella 2.5 L,S/ 3.20,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,2.5,l,Agua Sin Gas Mineral San Mateo Botella,3.2,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral con gas 2.5 L,S/ 3.20,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,2.5,l,Agua Mineral con gas,3.2,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral sin gas 2.5 L,S/ 3.20,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,2.5,l,Agua Mineral sin gas,3.2,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SOCOSANI Botella 355ml,S/ 3.60,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,355.0,ml,Agua Mineral con Gas SOCOSANI Botella,3.6,vivanda,,SOCOSANI,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SOCOSANI Botella 355ml,S/ 3.60 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,355.0,ml,Agua Mineral con Gas SOCOSANI Botella,3.6,plaza_vea,Botella 355ml,,AGUA MINERAL SIN GAS
+Agua Mineral Sin Gas 2.5 L,S/ 3.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,2.5,l,Agua Mineral Sin Gas,3.9,tottus,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua mineral sin gas de 3 L,S/ 3.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,3.0,l,Agua mineral sin gas de,3.9,tottus,,SAN CARLOS,AGUA MINERAL SIN GAS
+Agua Mineral SOCOSANI con Gas Botella 1L,S/ 4 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,1.0,l,Agua Mineral SOCOSANI con Gas Botella,4.0,plaza_vea,Botella 1L,,AGUA MINERAL SIN GAS
+Agua Mineral con gas 1.5Lt,S/ 5.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,1.5,l,Agua Mineral con gas t,5.9,tottus,,SOCOSANI,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SOCOSANI Botella 750ml,S/ 6.60 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,750.0,ml,Agua Mineral con Gas SOCOSANI Botella,6.6,plaza_vea,Botella 750ml,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella 330ml,S/ 6.90,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,330.0,ml,Agua Mineral EVIAN sin Gas Botella,6.9,vivanda,,EVIAN,AGUA MINERAL SIN GAS
+Agua Mineral Natural Sin Gas Acqua Panna Botella 500ml,S/ 6.90,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,500.0,ml,Agua Mineral Natural Sin Gas Acqua Panna Botella,6.9,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral sin gas 7 L,S/ 7.50,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,7.0,l,Agua Mineral sin gas,7.5,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SAN PELLEGRINO con Gas Botella 250ml,S/ 7.60,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,250.0,ml,Agua Mineral SAN PELLEGRINO con Gas Botella,7.6,vivanda,,SAN PELLEGRINO,AGUA MINERAL SIN GAS
+Agua Mineral con Gas San Pellegrino Botella 250ml,S/ 7.70,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,250.0,ml,Agua Mineral con Gas San Pellegrino Botella,7.7,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral Natural Sin Gas Acqua Panna Glass 505 ml,S/ 7.90,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,505.0,ml,Agua Mineral Natural Sin Gas Acqua Panna Glass,7.9,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS Con Gas Botella 625ml Paquete 6un,S/ 8.20,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,625.0,ml,Agua Mineral SAN LUIS Con Gas Botella  Paquete,8.2,vivanda,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS Con Gas Botella 625ml Pa...,S/ 8.20 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,6.0,un,Agua Mineral SAN LUIS Con Gas Botella  Pa,8.2,plaza_vea,Paquete 6un,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella de Vidrio 3...,S/ 8.50 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,330.0,ml,Agua Mineral EVIAN sin Gas Botella de Vidrio 3,8.5,plaza_vea,Botella 330ml,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella de Vidrio 330ml,S/ 8.50,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,330.0,ml,Agua Mineral EVIAN sin Gas Botella de Vidrio,8.5,vivanda,,EVIAN,AGUA MINERAL SIN GAS
+Agua Mineral con Gas EVIAN Sparkling Botella d...,S/ 8.50 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,330.0,ml,Agua Mineral con Gas EVIAN Sparkling Botella d,8.5,plaza_vea,Botella 330ml,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella 500ml,S/ 8.60,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,500.0,ml,Agua Mineral EVIAN sin Gas Botella,8.6,vivanda,,EVIAN,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO Con Gas Botella 600ml P...,S/ 8.89 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,6.0,un,Agua Mineral SAN MATEO Con Gas Botella  P,8.89,plaza_vea,Paquete 6un,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO sin Gas Bidón 7L,S/ 9.00,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,7.0,l,Agua Mineral SAN MATEO sin Gas Bidón,9.0,vivanda,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Bidón 7 L,S/ 9.00,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,7.0,l,Agua Sin Gas Mineral San Mateo Bidón,9.0,metro,,,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO sin Gas Botella 600ml Paquete 6un,S/ 10.20,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,600.0,ml,Agua Mineral SAN MATEO sin Gas Botella  Paquete,10.2,vivanda,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Mineral SAN MATEO Con Gas Botella 600ml Paquete 6un,S/ 10.20,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,600.0,ml,Agua Mineral SAN MATEO Con Gas Botella  Paquete,10.2,vivanda,,SAN MATEO,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,6.0,un,Agua Sin Gas Mineral San Mateo Pack ades de  c/u,10.8,wong,,,AGUA MINERAL SIN GAS
+Agua Sin Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,6.0,un,Agua Sin Gas Mineral San Mateo Pack ades de  c/u,10.8,metro,,,AGUA MINERAL SIN GAS
+Agua Con Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,6.0,un,Agua Con Gas Mineral San Mateo Pack ades de  c/u,10.8,wong,,,AGUA MINERAL SIN GAS
+Agua Con Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,6.0,un,Agua Con Gas Mineral San Mateo Pack ades de  c/u,10.8,metro,,,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SOCOSANI Botella 500ml Pa...,S/ 10.90 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,6.0,un,Agua Mineral con Gas SOCOSANI Botella  Pa,10.9,plaza_vea,Paquete 6un,,AGUA MINERAL SIN GAS
+Agua Mineral Acqua Panna Botella 750ml,S/ 11.90,metro,AGUA MINERAL SIN GAS,2024-12-05 16:52:46.272415,750.0,ml,Agua Mineral Acqua Panna Botella,11.9,metro,,,AGUA MINERAL SIN GAS
+Agua Mineral Acqua Panna Botella 750ml,S/ 12.30,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,750.0,ml,Agua Mineral Acqua Panna Botella,12.3,wong,,,AGUA MINERAL SIN GAS
+Sin gas 20 unidades de 500 mL,S/ 12.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,20.0,un,Sin gas ades de,12.9,tottus,,SAN CARLOS,AGUA MINERAL SIN GAS
+Agua Mineral con Gas EVIAN Sparkling Botella de Vidrio 750ml,S/ 13.50,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,750.0,ml,Agua Mineral con Gas EVIAN Sparkling Botella de Vidrio,13.5,vivanda,,EVIAN,AGUA MINERAL SIN GAS
+Agua Mineral con Gas EVIAN Sparkling Botella d...,S/ 13.50 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,750.0,ml,Agua Mineral con Gas EVIAN Sparkling Botella d,13.5,plaza_vea,Botella 750ml,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella 750ml,S/ 13.50 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,750.0,ml,Agua Mineral EVIAN sin Gas Botella,13.5,plaza_vea,Botella 750ml,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN sin Gas Botella 1L,S/ 13.90 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,1.0,l,Agua Mineral EVIAN sin Gas Botella,13.9,plaza_vea,Botella 1L,,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS sin Gas Botella 2.5L Paquete 6un,S/ 14.90,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,2.5,l,Agua Mineral SAN LUIS sin Gas Botella  Paquete,14.9,vivanda,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral SAN LUIS sin Gas Botella 2.5L Paq...,S/ 14.90 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,6.0,un,Agua Mineral SAN LUIS sin Gas Botella  Paq,14.9,plaza_vea,Paquete 6un,,AGUA MINERAL SIN GAS
+Pack de Agua Sin Gas 6 Unidades 2.5 L,S/ 14.90,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,6.0,un,Pack de Agua Sin Gas ades,14.9,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Sixpack Agua Mineral Sin Gas San Mateo Botella 2.5L,S/ 16.80,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,2.5,l,Sixpack Agua Mineral Sin Gas San Mateo Botella,16.8,wong,,,AGUA MINERAL SIN GAS
+Agua Mineral Evian 1.5L,S/ 17.50,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,1.5,l,Agua Mineral Evian,17.5,wong,,,AGUA MINERAL SIN GAS
+Agua mineral sin gas en bidón de 20 L,S/ 19.20,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,20.0,l,Agua mineral sin gas en bidón de,19.2,tottus,,SAN CARLOS,AGUA MINERAL SIN GAS
+Agua Mineral sin gas 20 L,S/ 24.50,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,20.0,l,Agua Mineral sin gas,24.5,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SAN PELLEGRINO 500ml Paquete 6un,S/ 41.40,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,500.0,ml,Agua Mineral con Gas SAN PELLEGRINO  Paquete,41.4,vivanda,,SAN PELLEGRINO,AGUA MINERAL SIN GAS
+Agua Mineral con Gas SAN PELLEGRINO 500ml Paqu...,S/ 41.40 un,plaza_vea,AGUA MINERAL SIN GAS,2024-12-05 16:06:32.200068,3.0,l,Agua Mineral con Gas SAN PELLEGRINO  Paqu,41.4,plaza_vea,Pack 3L,,AGUA MINERAL SIN GAS
+Agua Mineral EVIAN Sin Gas Paquete 6un Botella 330ml,S/ 41.60,vivanda,AGUA MINERAL SIN GAS,2024-12-05 22:35:03.572719,6.0,un,Agua Mineral EVIAN Sin Gas Paquete  Botella,41.6,vivanda,,EVIAN,AGUA MINERAL SIN GAS
+2X Agua Sin Gas Bidon 20L,S/ 51,tottus,AGUA MINERAL SIN GAS,2024-12-05 12:48:10.982262,20.0,l,2X Agua Sin Gas Bidon,51.0,tottus,,SAN LUIS,AGUA MINERAL SIN GAS
+Twelvepack Agua Mineral Natural Sin Gas Acqua Panna Botella 750ml,S/ 129.00,wong,AGUA MINERAL SIN GAS,2024-12-05 19:30:22.180274,750.0,ml,Twelvepack Agua Mineral Natural Sin Gas Acqua Panna Botella,129.0,wong,,,AGUA MINERAL SIN GAS

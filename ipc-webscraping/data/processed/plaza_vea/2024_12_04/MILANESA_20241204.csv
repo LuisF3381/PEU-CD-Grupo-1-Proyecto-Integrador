@@ -1,0 +1,7 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 600g,Milanesa de Pollo AVINKA Bolsa 4un,S/ 25.70 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,600.0,g,Milanesa de Pollo AVINKA Bolsa,25.7
+Bolsa 4un,Milanesa de Pechuga de Pollo OREGON FOODS Bols...,S/ 27.90 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,4.0,un,Milanesa de Pechuga de Pollo OREGON FOODS Bols,27.9
+Bolsa 4un,Milanesa de Pavo SAN FERNANDO Bolsa 415g,S/ 15.79 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,4.0,un,Milanesa de Pavo SAN FERNANDO Bolsa,15.79
+Caja 600g,Milanesa de Pescado SEAFROST Caja 600g,S/ 17.90 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,600.0,g,Milanesa de Pescado SEAFROST Caja,17.9
+Caja 400g,Milanesas de Pollo LA CHARCUTERÍA Caja 400g,S/ 22.90 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,400.0,g,Milanesas de Pollo LA CHARCUTERÍA Caja,22.9
+Bolsa 3un,Milanesa de Res Super RANCHERAS Bolsa x 3un,S/ 24.99 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,3.0,un,Milanesa de Res Super RANCHERAS Bolsa x,24.99

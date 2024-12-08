@@ -1,0 +1,5 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Gloria,Leche Condensada GLORIA Lata 393gr,S/ 6.30,vega,LECHE CONDENSADA,2024-12-04 13:45:28.644895,393.0,g,Leche Condensada GLORIA Lata r,6.3
+Nestle,Leche Condensada NESTLÉ Lata 393g,S/ 6.90,vega,LECHE CONDENSADA,2024-12-04 13:45:28.644895,393.0,g,Leche Condensada NESTLÉ Lata,6.9
+Gloria,Leche Condensada GLORIA Doypack 200gr,S/ 4.30,vega,LECHE CONDENSADA,2024-12-04 13:45:28.644895,200.0,g,Leche Condensada GLORIA Doypack r,4.3
+Nestle,Leche Condensada NESTLÉ Lata 100gr,S/ 3.90,vega,LECHE CONDENSADA,2024-12-04 13:45:28.644895,100.0,g,Leche Condensada NESTLÉ Lata r,3.9

@@ -1,0 +1,247 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
+Yogurt Yopi Laive Fresa Vaso 80 g,S/ 0.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,80.0,g,Yogurt Yopi Laive Fresa Vaso,0.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Probiótico LAIVE Fresa Vaso 120g,S/ 1.59 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt Probiótico LAIVE Fresa Vaso,1.59,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Batti Shake Vainilla Vaso 120g,S/ 1.60 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt GLORIA Batti Shake Vainilla Vaso,1.6,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Batti Shake Fresa Vaso 120g,S/ 1.60,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,120.0,g,Yogurt GLORIA Batti Shake Fresa Vaso,1.6,vivanda,,GLORIA,YOGUR MIXTO EN VASO
+Yogurt Battishake Gloria Fresa Vaso 120 g,S/ 1.70,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Battishake Gloria Fresa Vaso,1.7,wong,,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Frutado Durazno Vaso 120g,S/ 1.70 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt GLORIA Frutado Durazno Vaso,1.7,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt Batishake Gloria Vainilla Vaso 120 g,S/ 1.70,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Batishake Gloria Vainilla Vaso,1.7,wong,,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Frutado Durazno Vaso 120g,S/ 1.80,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,120.0,g,Yogurt GLORIA Frutado Durazno Vaso,1.8,vivanda,,GLORIA,YOGUR MIXTO EN VASO
+Yogurt GLORIA Parcialmente Descremado Sabor a ...,S/ 1.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,180.0,kg,Yogurt GLORIA Parcialmente Descremado Sabor a,1.9,plaza_vea,Botella 180Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Vainilla Botella...,S/ 1.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,180.0,g,Yogurt Bebible GLORIA Sabor a Vainilla Botella,1.9,plaza_vea,Botella 180g,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Durazno Botella ...,S/ 1.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,180.0,g,Yogurt Bebible GLORIA Sabor a Durazno Botella,1.9,plaza_vea,Botella 180g,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Botella 180 g,S/ 2.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,180.0,g,Yogurt Bebible Gloria Fresa Botella,2.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Vainilla Botella 180 g,S/ 2.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,180.0,g,Yogurt Bebible Gloria Vainilla Botella,2.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Lúcuma Botella 180 g,S/ 2.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,180.0,g,Yogurt Bebible Gloria Lúcuma Botella,2.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Sabor Fresa y Plátano 180g,S/ 2.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,180.0,g,Yogurt Bebible Gloria Sabor Fresa y Plátano,2.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Sabor Vainilla Francesa Laive 180g,S/ 2.00,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Sabor Vainilla Francesa Laive,2.0,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Slim Sabor Fresa 120g,S/ 2.00,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Slim Sabor Fresa,2.0,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Sabor Vainilla Francesa Laive 180g,S/ 2.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,180.0,g,Yogurt Bebible Sabor Vainilla Francesa Laive,2.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Fresa Botella 180g,S/ 2.10,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Laive Fresa Botella,2.1,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Mango Vaso 120g,S/ 2.20,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,120.0,g,Yogurt Batido GLORIA Griego Sabor Mango Vaso,2.2,vivanda,,GLORIA,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Mango 120g,S/ 2.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,120.0,g,Yogurt Gloria Griego Sabor Mango,2.2,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Botella 180 g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Gloria Fresa Botella,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Mango Vaso 1...,S/ 2.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt Batido GLORIA Griego Sabor Mango Vaso 1,2.2,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Natural 120g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Griego Sabor Natural,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso ...,S/ 2.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,115.0,g,Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso,2.2,plaza_vea,Vaso 115g,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Vainilla Botella 180 g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Gloria Vainilla Botella,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Lúcuma Botella 180 g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Gloria Lúcuma Botella,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego LAIVE con Trozos de Fresa Vaso 1...,S/ 2.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt Griego LAIVE con Trozos de Fresa Vaso 1,2.2,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Frutos Rojos 120g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Griego Sabor Frutos Rojos,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Maracuyá Vas...,S/ 2.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt Batido GLORIA Griego Sabor Maracuyá Vas,2.2,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Frutos Rojos 120g,S/ 2.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,120.0,g,Yogurt Gloria Griego Sabor Frutos Rojos,2.2,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso 115g,S/ 2.20,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,115.0,g,Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso,2.2,vivanda,,LAIVE,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 2.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,120.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,2.2,plaza_vea,Vaso 120g,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Mango 120g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Griego Sabor Mango,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Sabor Fresa y Plátano 180g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Bebible Gloria Sabor Fresa y Plátano,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego con Miel 120g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Griego con Miel,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Natural Vaso 120g,S/ 2.20,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,120.0,g,Yogurt Batido GLORIA Griego Sabor Natural Vaso,2.2,vivanda,,GLORIA,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Maracuyá 120g,S/ 2.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,120.0,g,Yogurt Gloria Griego Sabor Maracuyá,2.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Slim Sabor Frutos Rojos Botella 180g,S/ 2.40,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Gloria Slim Sabor Frutos Rojos Botella,2.4,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Zero Lacto Fresa 180g,S/ 2.40,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,180.0,g,Yogurt Gloria Zero Lacto Fresa,2.4,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido Descremado con Trozos de Fresa Laive Griego Frutado 120g,S/ 2.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,120.0,g,Yogurt Batido Descremado con Trozos de Fresa Laive Griego Frutado,2.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Batido con Trozos de Durazno Laive Griego Frutado 120g,S/ 2.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,120.0,g,Yogurt Batido con Trozos de Durazno Laive Griego Frutado,2.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Batido con Trozos de Arándano Laive Griego 120g,S/ 2.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,120.0,g,Yogurt Batido con Trozos de Arándano Laive Griego,2.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Battimix Gloria Vainilla C/Hojuelas Azucaradas Vaso 125 g,S/ 2.99,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,g,Yogurt Battimiloria Vainilla C/Hojuelas Azucaradas Vaso,2.99,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Batti Mix Mini Cookies 138g,S/ 2.99,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,138.0,g,Yogurt Gloria Batti Mix Mini Cookies,2.99,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Batti Mix Mini Cookies 138g,S/ 2.99,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,138.0,g,Yogurt Gloria Batti Mix Mini Cookies,2.99,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido Sabor Fresa con Bolitas de Chocolate Gloria Batti Mix 146g,S/ 2.99,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,146.0,g,Yogurt Batido Sabor Fresa con Bolitas de Chocolate Gloria Batti Mix,2.99,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Battimix Vainilla 146g,S/ 2.99,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,146.0,g,Yogurt Gloria Battimix Vainilla,2.99,wong,,,YOGUR MIXTO EN VASO
+Yogur Battimix GLORIA Vainilla con Hojuelas Va...,S/ 3.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,144.0,g,Yogur BattimiLORIA Vainilla con Hojuelas Va,3.1,plaza_vea,Vaso 144g,,YOGUR MIXTO EN VASO
+Yogurt Battimix GLORIA Fresa con Bolitas de Ch...,S/ 3.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,146.0,g,Yogurt BattimiLORIA Fresa con Bolitas de Ch,3.1,plaza_vea,Vaso 146g,,YOGUR MIXTO EN VASO
+Battimix GLORIA Vainilla Minicookies Vaso 138g,S/ 3.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,138.0,g,BattimiLORIA Vainilla Minicookies Vaso,3.1,plaza_vea,Vaso 138g,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Battimix Vainilla con Arroz Cruj...,S/ 3.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj,3.1,plaza_vea,Vaso 146g,,YOGUR MIXTO EN VASO
+Yogurt con Chocobolitas Cuisine & Co 125g,S/ 3.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,125.0,g,Yogurt con Chocobolitas Cuisine & Co,3.2,metro,,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Battimix Vainilla con Arroz Crujiente Bañado en Chocolate Vaso 146g,S/ 3.60,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Crujiente Bañado en Chocolate Vaso,3.6,vivanda,,GLORIA,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego con Miel 128g,S/ 3.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,128.0,g,Yogurt Gloria Griego con Miel,3.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego con Miel 128g,S/ 3.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,128.0,g,Yogurt Gloria Griego con Miel,3.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt DANLAC Maracumango Frasco 160g,S/ 4.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,160.0,g,Yogurt DANLAC Maracumango Frasco,4.2,plaza_vea,Frasco 160g,,YOGUR MIXTO EN VASO
+Yogurt Frutado DANLAC Fresa Frasco 160g,S/ 4.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,160.0,g,Yogurt Frutado DANLAC Fresa Frasco,4.2,plaza_vea,Frasco 160g,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Frutos del Bosque 160g,S/ 4.40,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Griego Vakimu Frutos del Bosque,4.4,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Frutos del Bosque 160g,S/ 4.40,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Griego Vakimu Frutos del Bosque,4.4,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Mango Pasión 160g,S/ 4.40,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Griego Vakimu Mango Pasión,4.4,wong,,,YOGUR MIXTO EN VASO
+Vasos de Plástico TAMI 7 Oz Paquete 25un,S/ 4.70,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,25.0,un,Vasos de Plástico TAMI 7 Oz Paquete,4.7,vivanda,,TAMI,YOGUR MIXTO EN VASO
+Yogurt Vakimu +Pro Fresa 160g,S/ 4.79,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Vakimu +Pro Fresa,4.79,wong,,,YOGUR MIXTO EN VASO
+Yogurt Vakimu +Pro Arándano 160g,S/ 4.88,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Vakimu +Pro Arándano,4.88,metro,,,YOGUR MIXTO EN VASO
+Vaso DARNEL Amarillo Vivo 7 Oz Paquete 12un,S/ 4.90,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,12.0,un,Vaso DARNEL Amarillo Vivo 7 Oz Paquete,4.9,vivanda,,DARNELL PERU,YOGUR MIXTO EN VASO
+Yogurt Frutado con Frutos del Bosque Danlac 160g,S/ 4.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Frutado con Frutos del Bosque Danlac,4.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Danlac Sabor Natural Frasco 160g,S/ 4.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Griego Danlac Sabor Natural Frasco,4.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Frutos del Bosque Danlac 160g,S/ 4.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Frutado con Frutos del Bosque Danlac,4.9,wong,,,YOGUR MIXTO EN VASO
+Vaso DARNEL Azul Vivo 7 Oz Paquete 12un,S/ 4.90,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,12.0,un,Vaso DARNEL Azul Vivo 7 Oz Paquete,4.9,vivanda,,DARNELL PERU,YOGUR MIXTO EN VASO
+Yogurt Frutado con Fresa Danlac 160g,S/ 4.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Frutado con Fresa Danlac,4.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Aguaymanto Danlac 160g,S/ 4.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Frutado con Aguaymanto Danlac,4.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado Danlac Maracumango 160g,S/ 4.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,160.0,g,Yogurt Frutado Danlac Maracumango,4.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Frutado Danlac Maracumango 160g,S/ 4.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Frutado Danlac Maracumango,4.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Danlac Sabor Natural Frasco 160g,S/ 4.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Griego Danlac Sabor Natural Frasco,4.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Premium Tigo Light Fresa Vaso 160 g,S/ 5.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,160.0,g,Yogurt Premium Tigo Light Fresa Vaso,5.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego DANLAC Natural Frasco 160g,S/ 5.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,160.0,g,Yogurt Griego DANLAC Natural Frasco,5.5,plaza_vea,Frasco 160g,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Vainilla Botella 1kg,S/ 5.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Bebible Gloria Vainilla Botella,5.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Natural Botella 1kg,S/ 5.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Bebible Gloria Natural Botella,5.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA sin Lactosa Fresa Botell...,S/ 5.99 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Bebible GLORIA sin Lactosa Fresa Botell,5.99,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Lúcuma Botella 1kg,S/ 5.99,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Bebible Gloria Lúcuma Botella,5.99,metro,,,YOGUR MIXTO EN VASO
+Yogurt Zero Lactosa GLORIA Sabor a Vainilla B...,S/ 5.99 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Zero Lactosa GLORIA Sabor a Vainilla B,5.99,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt VAKIMU +Pro Sabor Arándanos Pote 160g,S/ 6.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,160.0,g,Yogurt VAKIMU +Pro Sabor Arándanos Pote,6.1,plaza_vea,Pote 160g,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Durazno Botella ...,S/ 6.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Bebible GLORIA Sabor a Durazno Botella,6.2,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Natural Botella 1Kg,S/ 6.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt GLORIA Natural Botella,6.2,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Tutifruti Botell...,S/ 6.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Bebible GLORIA Sabor a Tutifruti Botell,6.2,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Fresa Botella 1K...,S/ 6.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Bebible GLORIA Sabor a Fresa Botella 1K,6.2,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible GLORIA Sabor a Vainilla Botella...,S/ 6.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Bebible GLORIA Sabor a Vainilla Botella,6.2,plaza_vea,Botella 1Kg,,YOGUR MIXTO EN VASO
+Yogurt SBELT Sabor a Vainilla Botella 946g,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt SBELT Sabor a Vainilla Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt SBELT Natural Botella 946g,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt SBELT Natural Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt SBELT Sabor a Lúcuma Botella 946g,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt SBELT Sabor a Lúcuma Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt Bebible LAIVE Bio Sabor a Fresa Botella...,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt Bebible LAIVE Bio Sabor a Fresa Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt SBELT Sabor a Fresa Botella 946g,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt SBELT Sabor a Fresa Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt LAIVE sin Lactosa Sabor a Vainilla Bote...,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt LAIVE sin Lactosa Sabor a Vainilla Bote,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt SBELT Sabor a Mora Botella 946g,S/ 6.29 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,946.0,g,Yogurt SBELT Sabor a Mora Botella,6.29,plaza_vea,Botella 946g,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sabor Mora 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sabor Mora,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sabor Fresa 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sabor Fresa,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sin Lactosa Durazno 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sin Lactosa Durazno,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Lúcuma 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sbelt Sabor Lúcuma,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Natural 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Bebible Laive Sbelt Natural,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Vainilla Francesa 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Bebible Laive Sbelt Sabor Vainilla Francesa,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Mora 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sbelt Sabor Mora,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Natural 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sbelt Natural,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sabor Vainilla Francesa 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sabor Vainilla Francesa,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sin Lactosa Fresa 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Bebible Laive Sin Lactosa Fresa,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sin Lactosa Durazno 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Bebible Laive Sin Lactosa Durazno,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Fresa 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Bebible Laive Sbelt Sabor Fresa,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Probiótico Laive Sbelt Granadilla y Linaza 946g,S/ 6.30,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,g,Yogurt Probiótico Laive Sbelt Granadilla y Linaza,6.3,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Fresa 946g,S/ 6.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,946.0,g,Yogurt Bebible Laive Sbelt Sabor Fresa,6.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Proteico Sin Lactosa Vakimu +Pro Sabor Mocca 350g,S/ 6.32,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,350.0,g,Yogurt Proteico Sin Lactosa Vakimu +Pro Sabor Mocca,6.32,metro,,,YOGUR MIXTO EN VASO
+Yogurt con Linaza Gloria Actibio Sabor Fresa 950g,S/ 6.70,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,950.0,g,Yogurt con Linaza Gloria Actibio Sabor Fresa,6.7,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego La Abuela Frambuesa Bajo en Grasa150g,S/ 6.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,150.0,g,Yogurt Griego La Abuela Frambuesa Bajo en Grasa,6.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego con Miel 800g,S/ 6.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,800.0,g,Yogurt Gloria Griego con Miel,6.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Maracuyá 800g,S/ 6.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Gloria Griego Sabor Maracuyá,6.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Natural 800g,S/ 6.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Gloria Griego Sabor Natural,6.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Frutos Rojos 800g,S/ 6.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Gloria Griego Sabor Frutos Rojos,6.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego con Miel 800g,S/ 6.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Gloria Griego con Miel,6.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Mango 800g,S/ 6.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Gloria Griego Sabor Mango,6.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Frutos Rojos 800g,S/ 6.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,800.0,g,Yogurt Gloria Griego Sabor Frutos Rojos,6.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Griego Sabor Natural 800g,S/ 6.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,800.0,g,Yogurt Gloria Griego Sabor Natural,6.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego La Abuela Vainilla Francesa Bajo en Grasa 150g,S/ 6.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,150.0,g,Yogurt Griego La Abuela Vainilla Francesa Bajo en Grasa,6.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Natural Bols...,S/ 7 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,800.0,g,Yogurt Batido GLORIA Griego Sabor Natural Bols,7.0,plaza_vea,Bolsa 800g,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Mango Bolsa ...,S/ 7 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,800.0,g,Yogurt Batido GLORIA Griego Sabor Mango Bolsa,7.0,plaza_vea,Bolsa 800g,,YOGUR MIXTO EN VASO
+Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 7 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,800.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,7.0,plaza_vea,Bolsa 800g,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Fresa 500g,S/ 7.92,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Griego Vakimu Fresa,7.92,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Mora 500g,S/ 7.92,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Griego Vakimu Mora,7.92,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Piamonte Natural sin Azúcar Botella 946 ml,S/ 8.00,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,ml,Yogurt Bebible Piamonte Natural sin Azúcar Botella,8.0,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Piamonte Vainilla Botella 946 ml,S/ 8.00,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,946.0,ml,Yogurt Bebible Piamonte Vainilla Botella,8.0,wong,,,YOGUR MIXTO EN VASO
+Vaso DARNEL Amarillo Vivo 12 Oz Paquete 12un,S/ 8.00,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,12.0,un,Vaso DARNEL Amarillo Vivo 12 Oz Paquete,8.0,vivanda,,DARNELL PERU,YOGUR MIXTO EN VASO
+Vaso DARNEL Verde Vivo 12 Oz Paquete 12un,S/ 8.00,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,12.0,un,Vaso DARNEL Verde Vivo 12 Oz Paquete,8.0,vivanda,,DARNELL PERU,YOGUR MIXTO EN VASO
+Yogurt Griego Cuisine & Co Sabor Natural 500g,S/ 8.30,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,500.0,g,Yogurt Griego Cuisine & Co Sabor Natural,8.3,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Yoleit con Fresa Botella 1.6kg,S/ 8.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.6,kg,Yogurt Bebible Yoleit con Fresa Botella,8.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Sin Lactosa Yoleit Frutos del Bosque 1.6kg,S/ 8.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.6,kg,Yogurt Bebible Sin Lactosa Yoleit Frutos del Bosque,8.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Plátano Galonera 1.7kg,S/ 8.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Gloria Fresa Plátano Galonera,8.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Sin Lactosa Yoleit Frutos del Bosque 1.6kg,S/ 8.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.6,kg,Yogurt Bebible Sin Lactosa Yoleit Frutos del Bosque,8.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Vainilla Galonera 1.7kg,S/ 8.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Gloria Vainilla Galonera,8.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Galonera 1.7kg,S/ 8.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Gloria Fresa Galonera,8.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Vainilla Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Slim Vainilla Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Fresa Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Slim Fresa Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 9.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,9.2,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Fresa Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 9.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,9.2,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 9.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,9.2,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Parcialmente Descremado Sabor a ...,S/ 9.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt GLORIA Parcialmente Descremado Sabor a,9.2,plaza_vea,Botella 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Frutos Rojos Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Slim Frutos Rojos Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Fresa Plátano Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Fresa Plátano Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Lúcuma Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Lúcuma Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Durazno Galonera 1.7kg,S/ 9.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Gloria Slim Durazno Galonera,9.2,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Durazno Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Slim Durazno Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Slim Frutos Rojos Galonera 1.7kg,S/ 9.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Gloria Slim Frutos Rojos Galonera,9.2,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Gloria Durazno Galonera 1.7kg,S/ 9.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Gloria Durazno Galonera,9.2,wong,,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 9.20 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,9.2,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Aguaymanto Danlac Botella 900g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Frutado con Aguaymanto Danlac Botella,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Fresa Danlac Botella 900g,S/ 9.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Frutado con Fresa Danlac Botella,9.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Frutos del Bosque Danlac Botella 900g,S/ 9.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Frutado con Frutos del Bosque Danlac Botella,9.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Entero Danlac Sabor Natural Botella 900g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Entero Danlac Sabor Natural Botella,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado Danlac Maracumango 900g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Frutado Danlac Maracumango,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Fresa Danlac Botella 900g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Frutado con Fresa Danlac Botella,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Frutos del Bosque Danlac Botella 900g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Frutado con Frutos del Bosque Danlac Botella,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Aguaymanto Danlac Botella 900g,S/ 9.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Frutado con Aguaymanto Danlac Botella,9.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Batido Laive Griego Sabor Mango Maracuyá 800g,S/ 9.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Batido Laive Griego Sabor Mango Maracuyá,9.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego LAIVE Frutos Rojos Botella 800g,S/ 9.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,800.0,g,Yogurt Griego LAIVE Frutos Rojos Botella,9.9,plaza_vea,Botella 800g,,YOGUR MIXTO EN VASO
+Yogurt Batido Laive Griego Sabor Frutos Rojos 800g,S/ 9.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,800.0,g,Yogurt Batido Laive Griego Sabor Frutos Rojos,9.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego LAIVE Mango y Maracuyá Botella 8...,S/ 9.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,800.0,g,Yogurt Griego LAIVE Mango y Maracuyá Botella 8,9.9,plaza_vea,Botella 800g,,YOGUR MIXTO EN VASO
+Yogurt DANLAC Maracumango Botella 900g,S/ 9.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt DANLAC Maracumango Botella,9.9,plaza_vea,Botella 900g,,YOGUR MIXTO EN VASO
+Yogurt Batido Natural Laive Griego Botella 800g,S/ 9.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,800.0,g,Yogurt Batido Natural Laive Griego Botella,9.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,6.0,un,Yogurt Parcialmente Descremado GLORIA Sabor a,10.0,plaza_vea,Paquete 6un,,YOGUR MIXTO EN VASO
+Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,6.0,un,Yogurt Parcialmente Descremado GLORIA Sabor a,10.0,plaza_vea,Paquete 6un,,YOGUR MIXTO EN VASO
+Yogurt Slim GLORIA Sabor a Durazno Galonera 1....,S/ 10.30 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Slim GLORIA Sabor a Durazno Galonera 1,10.3,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt GLORIA Slim Triple Zero Sabor a Frutos ...,S/ 10.30 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos,10.3,plaza_vea,Botella 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Slim GLORIA Sabor a Vainilla Galonera 1...,S/ 10.30 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Slim GLORIA Sabor a Vainilla Galonera 1,10.3,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Vaso Descartable 355 ml Paquete 12 unid Rojo Vivo,S/ 10.39,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,355.0,ml,Vaso Descartable  Paquete  Rojo Vivo,10.39,wong,,,YOGUR MIXTO EN VASO
+Yogurt Sin Lactosa Danlac Line Piña Pitahaya 900g,S/ 10.50,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Sin Lactosa Danlac Line Piña Pitahaya,10.5,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Zero Lacto Sabor Vainilla 1.7kg,S/ 10.50,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Gloria Zero Lacto Sabor Vainilla,10.5,wong,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Zero Lacto Sabor Vainilla 1.7kg,S/ 10.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Gloria Zero Lacto Sabor Vainilla,10.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Frutado con Fresa Danlac Line Botella 900g,S/ 10.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Frutado con Fresa Danlac Line Botella,10.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Gloria Zero Lacto Fresa 1.7kg,S/ 10.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Gloria Zero Lacto Fresa,10.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Sin Lactosa Danlac Line Piña Pitahaya 900g,S/ 10.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Sin Lactosa Danlac Line Piña Pitahaya,10.5,metro,,,YOGUR MIXTO EN VASO
+Vaso DARNEL Tami 16 Oz Traslucido Paquet 25un,S/ 10.90,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,25.0,un,Vaso DARNEL Tami 16 Oz Traslucido Paquet,10.9,vivanda,,DARNELL PERU,YOGUR MIXTO EN VASO
+Yogurt Piña Pitahaya DANLAC Botella 900g,S/ 10.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt Piña Pitahaya DANLAC Botella,10.9,plaza_vea,Botella 900g,,YOGUR MIXTO EN VASO
+Yogurt Griego Tigo Sabor Natural Sin Azúcar 500g,S/ 11.10,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,500.0,g,Yogurt Griego Tigo Sabor Natural Sin Azúcar,11.1,metro,,,YOGUR MIXTO EN VASO
+Yogurt LAIVE Sbelt Sabor a Vainilla Galonera 1...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt LAIVE Sbelt Sabor a Vainilla Galonera 1,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt DANLAC Frutado de Fresa Botella 900g,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt DANLAC Frutado de Fresa Botella,11.5,plaza_vea,Botella 900g,,YOGUR MIXTO EN VASO
+Yogurt Bebible LAIVE Bio Sabor a Durazno Galon...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Durazno Galon,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt LAIVE Sbelt Sabor a Guanábana Galonera ...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt LAIVE Sbelt Sabor a Guanábana Galonera,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Natural DANLAC Botella 900g,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt Natural DANLAC Botella,11.5,plaza_vea,Botella 900g,,YOGUR MIXTO EN VASO
+Yogurt Bebible LAIVE Bio Sabor a Lúcuma Galone...,S/ 11.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Lúcuma Galone,11.5,plaza_vea,Galonera 1.7Kg,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive con Fresa 1.7kg,S/ 11.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Laive con Fresa,11.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive con Lúcuma 1.7kg,S/ 11.50,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Laive con Lúcuma,11.5,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sabor Vainilla Francesa 1.7kg,S/ 11.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Laive Sabor Vainilla Francesa,11.5,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sabor Vainilla Francesa 1.7kg,S/ 11.50,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Laive Sabor Vainilla Francesa,11.5,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive con Lúcuma 1.7kg,S/ 11.50,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Laive con Lúcuma,11.5,metro,,,YOGUR MIXTO EN VASO
+Pack Mixto Queso Edam + Jamón Americano LAIVE ...,S/ 11.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,300.0,g,Pack Mixto Queso Edam + Jamón Americano LAIVE,11.9,plaza_vea,Pack 300g,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Fresa 1.7kg,S/ 11.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Bebible Laive Sbelt Sabor Fresa,11.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Laive Protein Sabor Vainilla Botella 800g,S/ 11.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,800.0,g,Yogurt Laive Protein Sabor Vainilla Botella,11.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado Danlac Sabor Natural Frasco 420g,S/ 11.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,420.0,g,Yogurt Griego Descremado Danlac Sabor Natural Frasco,11.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Danlac Sabor Natural Frasco 420g,S/ 11.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,420.0,g,Yogurt Griego Danlac Sabor Natural Frasco,11.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Laive Sbelt Sabor Fresa 1.7kg,S/ 11.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Bebible Laive Sbelt Sabor Fresa,11.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Vakimu +Pro Arándano 500g,S/ 11.92,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Vakimu +Pro Arándano,11.92,wong,,,YOGUR MIXTO EN VASO
+Yogurt Vakimu +Pro Fresa 500g,S/ 12.16,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Vakimu +Pro Fresa,12.16,wong,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Yo Most Fresa Pack 6 Unid x 180 ml,S/ 12.20,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,6.0,un,Yogurt Bebible Yo Most Fresa Pack  x,12.2,metro,,,YOGUR MIXTO EN VASO
+Tortillas de Maíz NACHOS Mixtas Bolsa 260g,S/ 12.30 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,260.0,g,Tortillas de Maíz NACHOS Mixtas Bolsa,12.3,plaza_vea,Bolsa 260g,,YOGUR MIXTO EN VASO
+Yogurt Laive Sin Lactosa Fresa 1.7kg,S/ 12.70,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.7,kg,Yogurt Laive Sin Lactosa Fresa,12.7,wong,,,YOGUR MIXTO EN VASO
+Yogurt Laive Sin Lactosa Fresa 1.7kg,S/ 12.70,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.7,kg,Yogurt Laive Sin Lactosa Fresa,12.7,metro,,,YOGUR MIXTO EN VASO
+Yogurt Descremado Sin Lactosa Quark Sabor Fresa 500g,S/ 12.72,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,500.0,g,Yogurt Descremado Sin Lactosa Quark Sabor Fresa,12.72,metro,,,YOGUR MIXTO EN VASO
+Yogurt Bebible Yo Most Fresa Pack 6 Unid x 180 ml,S/ 13.10,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,6.0,un,Yogurt Bebible Yo Most Fresa Pack  x,13.1,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Arándano 1 Kg,S/ 13.44,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego Vakimu Arándano,13.44,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Original 1 Kg,S/ 13.44,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego Vakimu Original,13.44,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Mango con Fresa Pote 1 Kg,S/ 13.44,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego Mango con Fresa Pote,13.44,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Arándano 1 Kg,S/ 13.44,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Vakimu Arándano,13.44,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Original 1 Kg,S/ 13.44,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Vakimu Original,13.44,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Mango con Fresa Pote 1 Kg,S/ 13.44,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Mango con Fresa Pote,13.44,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Frutos del Bosque 1 Kg,S/ 13.44,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego Vakimu Frutos del Bosque,13.44,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Vakimu Frutos del Bosque 1 Kg,S/ 13.44,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Vakimu Frutos del Bosque,13.44,metro,,,YOGUR MIXTO EN VASO
+Yogurt Deslactosado Yoleit Griego Sabor Natural Pote 950g,S/ 14.10,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,950.0,g,Yogurt Deslactosado Yoleit Griego Sabor Natural Pote,14.1,metro,,,YOGUR MIXTO EN VASO
+Yogurt Deslactosado Yoleit Griego Sabor Natural Pote 950g,S/ 14.20,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,950.0,g,Yogurt Deslactosado Yoleit Griego Sabor Natural Pote,14.2,wong,,,YOGUR MIXTO EN VASO
+Pack Mixto Jamón Pizza y Queso Edam OTTO KUNZ ...,S/ 14.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,340.0,g,Pack Mixto Jamón Pizza y Queso Edam OTTO KUNZ,14.5,plaza_vea,Paquete 340g,,YOGUR MIXTO EN VASO
+Yogurt Sin Lactosa Cuisine & Co Iron Protein Mocca 480g,S/ 14.50,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,480.0,g,Yogurt Sin Lactosa Cuisine & Co Iron Protein Mocca,14.5,wong,,,YOGUR MIXTO EN VASO
+Yogurt Quark VAKIMU Natural Pote 500g,S/ 14.70 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,500.0,g,Yogurt Quark VAKIMU Natural Pote,14.7,plaza_vea,Pote 500g,,YOGUR MIXTO EN VASO
+Yogurt Kéfir Duman 500g,S/ 14.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Kéfir Duman,14.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Natural SKYR Plusa 500g,S/ 14.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,500.0,g,Yogurt Natural SKYR Plusa,14.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt VAKIMU +Pro Sabor Arándanos Pote 500g,S/ 14.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,500.0,g,Yogurt VAKIMU +Pro Sabor Arándanos Pote,14.9,plaza_vea,Pote 500g,,YOGUR MIXTO EN VASO
+Yogurt Natural SKYR Plusa 500g,S/ 14.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,500.0,g,Yogurt Natural SKYR Plusa,14.9,metro,,,YOGUR MIXTO EN VASO
+Pack Mixto BRAEDT Jamón York + Queso Gouda 340...,S/ 14.99 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,340.0,g,Pack Mixto BRAEDT Jamón York + Queso Gouda 340,14.99,plaza_vea,Paquete 340g,,YOGUR MIXTO EN VASO
+Yogurt VAKIMU +Pro Sabor a Fresa Pote 500g,S/ 15.10 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,500.0,g,Yogurt VAKIMU +Pro Sabor a Fresa Pote,15.1,plaza_vea,Pote 500g,,YOGUR MIXTO EN VASO
+Yogurt Griego TIGO Natural Descremado Pote 1Kg,S/ 15.49 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Griego TIGO Natural Descremado Pote,15.49,plaza_vea,Pote 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Griego VAKIMU Frutos del Bosque Balde 1...,S/ 15.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1,15.9,plaza_vea,Balde 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Griego Mango con Fresa VAKIMU YOG Pote ...,S/ 15.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Griego Mango con Fresa VAKIMU YOG Pote,15.9,plaza_vea,Pote 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Griego VAKIMU Original Balde 1Kg,S/ 15.90 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,1.0,kg,Yogurt Griego VAKIMU Original Balde,15.9,plaza_vea,Balde 1Kg,,YOGUR MIXTO EN VASO
+Yogurt Griego Sin Azúcar Tigo Premium 1kg,S/ 16.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Sin Azúcar Tigo Premium,16.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego 0% Grasas Tigo Premium 1kg,S/ 16.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego 0% Grasas Tigo Premium,16.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Tigo Con Arándano y Chía Balde 1 Kg,S/ 16.00,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,1.0,kg,Yogurt Griego Tigo Con Arándano y Chía Balde,16.0,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado con Mango Danlac Frasco 900g,S/ 16.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Griego Descremado con Mango Danlac Frasco,16.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado Danlac Sabor Natural Frasco 900g,S/ 16.90,metro,YOGUR MIXTO EN VASO,2024-12-05 15:47:49.931634,900.0,g,Yogurt Griego Descremado Danlac Sabor Natural Frasco,16.9,metro,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado con Arándano Danlac Frasco 900g,S/ 16.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Griego Descremado con Arándano Danlac Frasco,16.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado Danlac Sabor Natural Frasco 900g,S/ 16.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,900.0,g,Yogurt Griego Descremado Danlac Sabor Natural Frasco,16.9,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado DANLAC Natural Pote 9...,S/ 17.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt Griego Descremado DANLAC Natural Pote 9,17.5,plaza_vea,Pote 900g,,YOGUR MIXTO EN VASO
+Yogurt Griego Descremado DANLAC Sabor a Mango ...,S/ 17.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,900.0,g,Yogurt Griego Descremado DANLAC Sabor a Mango,17.5,plaza_vea,Pote 900g,,YOGUR MIXTO EN VASO
+Yogurt Skyr PLUSA Pote 500g,S/ 17.70 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,500.0,g,Yogurt Skyr PLUSA Pote,17.7,plaza_vea,Pote 500g,,YOGUR MIXTO EN VASO
+Yogurt Griego 0% Grasas Tigo Premium 1kg,S/ 18.10,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego 0% Grasas Tigo Premium,18.1,wong,,,YOGUR MIXTO EN VASO
+Yogurt Griego La Abuela Natural 1 kg,S/ 19.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,1.0,kg,Yogurt Griego La Abuela Natural,19.9,wong,,,YOGUR MIXTO EN VASO
+Vaso Doble Pared HELLO KITTY 350ml,S/ 20.90,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,350.0,ml,Vaso Doble Pared HELLO KITTY,20.9,vivanda,,HELLO KITTY,YOGUR MIXTO EN VASO
+Yogurt Griego Tigo Straal Natural 680g,S/ 20.90,wong,YOGUR MIXTO EN VASO,2024-12-05 18:20:28.067546,680.0,g,Yogurt Griego Tigo Straal Natural,20.9,wong,,,YOGUR MIXTO EN VASO
+Pack Pisco VARGAS Pisco Quebranta Botella 750m...,S/ 27.50 un,plaza_vea,YOGUR MIXTO EN VASO,2024-12-05 15:06:21.538266,4.0,un,Pack Pisco VARGAS Pisco Quebranta Botella 750m,27.5,plaza_vea,Pack 4un,,YOGUR MIXTO EN VASO
+Vaso con Sorbete AVENT Single Niño 10oz Celeste,S/ 69.00,vivanda,YOGUR MIXTO EN VASO,2024-12-05 21:54:49.958723,10.0,oz,Vaso con Sorbete AVENT Single Niño  Celeste,69.0,vivanda,,AVENT,YOGUR MIXTO EN VASO

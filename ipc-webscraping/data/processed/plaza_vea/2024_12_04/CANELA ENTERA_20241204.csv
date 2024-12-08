@@ -1,0 +1,5 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Sobre 10g,Canela Entera SIBARITA Sobre 10g,S/ 3.59 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,10.0,g,Canela Entera SIBARITA Sobre,3.59
+Sobre 12g,Canela Entera BELL'S Sobre 12g,S/ 4.09 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,12.0,g,Canela Entera BELL'S Sobre,4.09
+Sobre 9g,Canela Entera KARIÑO Sobre 9g,S/ 4.20 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,9.0,g,Canela Entera KARIÑO Sobre,4.2
+Sobre 14.2g,Canela Entera BADIA Sobre 14.2g,S/ 5.10 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,14.2,g,Canela Entera BADIA Sobre,5.1

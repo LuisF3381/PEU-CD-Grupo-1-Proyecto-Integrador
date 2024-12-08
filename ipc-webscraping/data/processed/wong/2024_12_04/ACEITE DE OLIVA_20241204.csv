@@ -1,0 +1,80 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Aceite de Oliva Extra Virgen Cuisine & Co 1L,S/ 69.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Extra Virgen Cuisine & Co,69.8
+Aceite de Oliva Cuisine & Co 1L,S/ 55.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Cuisine & Co,55.8
+Aceite de Oliva Extra Virgen Cuisine & Co 500ml,S/ 39.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Extra Virgen Cuisine & Co,39.0
+Aceite Oliva Cuisine & Co 250ml,S/ 19.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite Oliva Cuisine & Co,19.8
+Aceite Oliva Cuisine & Co 500ml,S/ 36.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite Oliva Cuisine & Co,36.8
+Aceite de Oliva Cuisine & Co Botella 1 Lt,S/ 55.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Cuisine & Co Botella t,55.8
+Aceite de Oliva Cuisine & Co 250ml,S/ 19.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Cuisine & Co,19.8
+Aceite de Oliva Cuisine & Co Botella 500 ml,S/ 36.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Cuisine & Co Botella,36.8
+Aceite de Oliva Extra Virgen Orgánico Borges Botella 500 ml,S/ 45.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Extra Virgen Orgánico Borges Botella,45.9
+Aceite de Oliva Borges Extra Virgen Botella 500 ml,S/ 39.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Borges Extra Virgen Botella,39.9
+Aceite De Oliva Extra Suave Borges Botella 500 ml,S/ 24.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite De Oliva Extra Suave Borges Botella,24.9
+Aceite de Oliva Borges Extra Virgen Botella 250 ml,S/ 19.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Borges Extra Virgen Botella,19.9
+Mezcla de Aceite de Girasol con Aceite de Oliva Borges 1L,S/ 24.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Mezcla de Aceite de Girasol con Aceite de Oliva Borges,24.9
+Mezcla de Aceite de Canola con Aceite de Oliva Borges 1L,S/ 24.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Mezcla de Aceite de Canola con Aceite de Oliva Borges,24.9
+Aceite de Oliva Filippo Berio Extra Virgen 500ml,S/ 39.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Filippo Berio Extra Virgen,39.9
+Aceite de Oliva El Olivar Extra Virgen 1L,S/ 86.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva El Olivar Extra Virgen,86.9
+Aceite de Oliva Extra Virgen Filippo Berio 750ml,S/ 59.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,750.0,ml,Aceite de Oliva Extra Virgen Filippo Berio,59.9
+Aceite de Oliva Extra Virgen Carbonell Botella 500 ml,S/ 44.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Extra Virgen Carbonell Botella,44.9
+Aceite de Oliva El Olivar Extra Virgen 500ml,S/ 48.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva El Olivar Extra Virgen,48.9
+Aceite de Oliva Extra Virgen Carbonell Botella 1 Lt,S/ 89.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Extra Virgen Carbonell Botella t,89.9
+Aceite de Oliva La Española Extra Virgen Botella 1 L,S/ 73.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva La Española Extra Virgen Botella,73.9
+Aceite de Oliva El Olivar Extra Virgen Botella 200 ml,S/ 22.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Aceite de Oliva El Olivar Extra Virgen Botella,22.9
+Aceite de Oliva Filippo Berio Puro Botella 500 ml,S/ 39.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Filippo Berio Puro Botella,39.9
+Aceite de Oliva La Española Extra Virgen 500ml,S/ 42.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva La Española Extra Virgen,42.9
+Aceite de Oliva Filippo Berio Puro Botella 1 L,S/ 67.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Filippo Berio Puro Botella,67.9
+Aceite de Oliva Santolivo Extra Virgen 1L,S/ 83.20,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Santolivo Extra Virgen,83.2
+Aceite de Oliva Extra Virgen Carbonell Botella 250 ml,S/ 21.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Extra Virgen Carbonell Botella,21.9
+Aceite de Oliva Fat Free Pam Spray 141 g,S/ 30.30,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,141.0,g,Aceite de Oliva Fat Free Pam Spray,30.3
+Aceite de Oliva El Olivar Virgen Botella 1 L,S/ 83.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva El Olivar Virgen Botella,83.0
+Aceite de Oliva Carbonell Extra Virgen Spray 200 ml,S/ 25.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Aceite de Oliva Carbonell Extra Virgen Spray,25.9
+Aceite de Oliva Extra Virgen Huerto Alamein 2L,S/ 158.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,2.0,l,Aceite de Oliva Extra Virgen Huerto Alamein,158.8
+Aceite de Oliva Clásico Carbonell Botella 1 Lt,S/ 84.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Clásico Carbonell Botella t,84.9
+Aceite de Oliva Filippo Berio Extra Virgen 250ml,S/ 27.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Filippo Berio Extra Virgen,27.9
+Aceite de Oliva Huerto Extra Virgen Alamein Premium 1L,S/ 84.20,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Huerto Extra Virgen Alamein Premium,84.2
+Aceite de Oliva Olivos del Sur Extra Virgen Botella 1 L,S/ 92.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva Olivos del Sur Extra Virgen Botella,92.9
+Aceite de Oliva La Española Extra Virgen Botella 250 ml,S/ 25.70,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva La Española Extra Virgen Botella,25.7
+Aceite de Oliva Filippo Berio Extra Virgen Botella Spray 200 ml,S/ 22.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Aceite de Oliva Filippo Berio Extra Virgen Botella Spray,22.9
+Aceite de Oliva Santolivo Extra Virgen 500ml,S/ 49.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Santolivo Extra Virgen,49.9
+Aceite de Oliva El Olivar Puro Botella 1 L,S/ 79.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva El Olivar Puro Botella,79.8
+Aceite de Oliva El Olivar Suave Botella 500 ml,S/ 44.40,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva El Olivar Suave Botella,44.4
+Aceite de Oliva Carbonell Spray 200 ml,S/ 25.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Aceite de Oliva Carbonell Spray,25.9
+Aceite De Oliva Extra Virgen Trufa Blanca Pons Frasco 250 ml,S/ 50.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite De Oliva Extra Virgen Trufa Blanca Pons Frasco,50.9
+Aceite de Oliva Huerto Extra Virgen Alamein Premium 500ml,S/ 49.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Huerto Extra Virgen Alamein Premium,49.0
+Aceite de Oliva Olivos del Sur Extra Virgen Botella 500 ml,S/ 53.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Olivos del Sur Extra Virgen Botella,53.9
+Aceite de Oliva El Olivar Extra Virgen Intenso 500ml,S/ 53.30,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva El Olivar Extra Virgen Intenso,53.3
+Aceite De Oliva En Spray La Española Frasco 200 ml,S/ 27.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Aceite De Oliva En Spray La Española Frasco,27.9
+Aceite de Oliva Extra Virgen Olivos del Sur 750ml,S/ 75.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,750.0,ml,Aceite de Oliva Extra Virgen Olivos del Sur,75.9
+Aceite de Oliva Pago de la Jaraba 500ml,S/ 74.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva Pago de la Jaraba,74.9
+Aceite de Oliva El Olivar Extra Virgen Intenso Botella 1 L,S/ 97.50,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva El Olivar Extra Virgen Intenso Botella,97.5
+Aceite de Oliva El Olivar Puro Botella 500 ml,S/ 45.30,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva El Olivar Puro Botella,45.3
+Aceite de Oliva La Española Puro Botella 1 L,S/ 64.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,1.0,l,Aceite de Oliva La Española Puro Botella,64.9
+Aceite de Oliva La Española Puro Botella 500 ml,S/ 38.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva La Española Puro Botella,38.9
+Aceite de Oliva Filippo Berio Puro Botella 250ml,S/ 21.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Filippo Berio Puro Botella,21.9
+Aceite de Oliva El Olivar Extra Virgen Botella 250ml,S/ 32.70,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva El Olivar Extra Virgen Botella,32.7
+Aceite de Oliva Santolivo Extra Virgen 250ml,S/ 30.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Santolivo Extra Virgen,30.0
+Aceite de Oliva La Española Puro Botella 250 ml,S/ 22.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva La Española Puro Botella,22.9
+Aceite de Oliva con Ajo El Olivar Botella 250ml,S/ 29.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva con Ajo El Olivar Botella,29.9
+Aceite de Oliva Olivos del Sur Extra Virgen 250ml,S/ 37.60,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Olivos del Sur Extra Virgen,37.6
+Aceite de Oliva Extra Virgen Olivos del Sur 250ml,S/ 32.50,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Extra Virgen Olivos del Sur,32.5
+Aceite de Oliva Extra Virgen Botella 250 ml,S/ 31.40,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite de Oliva Extra Virgen Botella,31.4
+Aceite de Oliva Extra Virgen Crin Dorada Botella 375ml,S/ 19.60,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,375.0,ml,Aceite de Oliva Extra Virgen Crin Dorada Botella,19.6
+Aceite de Oliva Extra Virgen Orgánico Bragg Botella 473 ml,S/ 69.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,473.0,ml,Aceite de Oliva Extra Virgen Orgánico Bragg Botella,69.9
+Aceite De Oliva Extra Virgen Familiar Picual Castillo De Canena Botella 250 ml,S/ 45.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,ml,Aceite De Oliva Extra Virgen Familiar Picual Castillo De Canena Botella,45.9
+Aceite de Oliva El Olivar Virgen Botella 500 ml,S/ 33.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Aceite de Oliva El Olivar Virgen Botella,33.9
+Tripack Lomo de Atún en Aceite Oliva Real 80g,S/ 15.20,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,80.0,g,Tripack Lomo de Atún en Aceite Oliva Real,15.2
+Sardinas Palacio del Oriente en Aceite de Oliva Lata 125 g,S/ 17.60,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,125.0,g,Sardinas Palacio del Oriente en Aceite de Oliva Lata,17.6
+Sólido de Atún en Aceite de Oliva Real 140g,S/ 8.40,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,140.0,g,Sólido de Atún en Aceite de Oliva Real,8.4
+Filete Anchoas Valle Fértil en Aceite de Oliva VF 100 g,S/ 13.60,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,100.0,g,Filete Anchoas Valle Fértil en Aceite de Oliva VF,13.6
+Ajo Picado en Aceite de Oliva Badia 227g,S/ 14.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,227.0,g,Ajo Picado en Aceite de Oliva Badia,14.8
+Twopack Aceite de Oliva La Española Extra Virgen 500ml,S/ 85.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,500.0,ml,Twopack Aceite de Oliva La Española Extra Virgen,85.0
+Jamón de Pechuga de Pavo con Aceite de Oliva La Genovesa 150g,S/ 19.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,150.0,g,Jamón de Pechuga de Pavo con Aceite de Oliva La Genovesa,19.8
+Sardinas en Aceite de Oliva Vigilante 120g,S/ 18.80,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,120.0,g,Sardinas en Aceite de Oliva Vigilante,18.8
+Atún Claro en Aceite de Oliva Palacio de Oriente Lata 111 g,S/ 15.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,111.0,g,Atún Claro en Aceite de Oliva Palacio de Oriente Lata,15.9
+Salchicha de Pavo con Aceite de Oliva La Genovesa 300g,S/ 19.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,300.0,g,Salchicha de Pavo con Aceite de Oliva La Genovesa,19.9
+Mayonesa con Aceite de Oliva Piki 400g,S/ 22.99,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,400.0,g,Mayonesa con Aceite de Oliva Piki,22.99
+Sardinas Palacio del Oriente con Limón en Aceite de Oliva Lata 125 g,S/ 17.60,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,125.0,g,Sardinas Palacio del Oriente con Limón en Aceite de Oliva Lata,17.6
+Jamón de Pavo Ahumado con Aceite de Oliva La Genovesa 150g,S/ 20.50,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,150.0,g,Jamón de Pavo Ahumado con Aceite de Oliva La Genovesa,20.5
+Pack Olivos del Sur: Aceite de Oliva 200ml + Vinagre de Manzana 100ml,S/ 36.00,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,200.0,ml,Pack Olivos del Sur: Aceite de Oliva  + Vinagre de Manzana,36.0
+Galletas Saladas Colussi Aceite de Oliva y Romero 250g,S/ 14.90,wong,ACEITE DE OLIVA,2024-12-04 19:15:30.500122,250.0,g,Galletas Saladas Colussi Aceite de Oliva y Romero,14.9

@@ -1,0 +1,15 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+Paquete 1un,Granadilla Oxapampa x unidad,S/ 0.90 un,plaza_vea,GRANADILLA,2024-12-05 15:20:45.943330,1.0,un,Granadilla Oxapampa ad,0.9,plaza_vea,,GRANADILLA
+,Granadilla Extra x unid,S/ 1.29,wong,GRANADILLA,2024-12-05 18:36:46.419955,1.0,un,Granadilla Extra,1.29,wong,,GRANADILLA
+Botella 500ml,Citrus Granadilla TAMPICO Botella 500ml,S/ 1.70 un,plaza_vea,GRANADILLA,2024-12-05 15:20:45.943330,500.0,ml,Citrus Granadilla TAMPICO Botella,1.7,plaza_vea,,GRANADILLA
+,Bebida Tampico Granadilla Punch Botella 500ml,S/ 1.70,wong,GRANADILLA,2024-12-05 18:36:46.419955,500.0,ml,Bebida Tampico Granadilla Punch Botella,1.7,wong,,GRANADILLA
+,Bebida Rehidratante Electrolight Granadilla Botella 475 ml,S/ 2.10,wong,GRANADILLA,2024-12-05 18:36:46.419955,475.0,ml,Bebida Rehidratante Electrolight Granadilla Botella,2.1,wong,,GRANADILLA
+,Yogurt Probiótico Laive Sbelt Granadilla y Linaza 946g,S/ 6.30,wong,GRANADILLA,2024-12-05 18:36:46.419955,946.0,g,Yogurt Probiótico Laive Sbelt Granadilla y Linaza,6.3,wong,,GRANADILLA
+,Pulpa de Granadilla Congelada Natifut 250g,S/ 6.40,wong,GRANADILLA,2024-12-05 18:36:46.419955,250.0,g,Pulpa de Granadilla Congelada Natifut,6.4,wong,,GRANADILLA
+Botella 3L,Refresco ARUBA Granadilla Punch Botella 3L,S/ 6.60 un,plaza_vea,GRANADILLA,2024-12-05 15:20:45.943330,3.0,l,Refresco ARUBA Granadilla Punch Botella,6.6,plaza_vea,,GRANADILLA
+,Granadilla Tipo Exportación 4un.,S/ 6.69,wong,GRANADILLA,2024-12-05 18:36:46.419955,4.0,un,Granadilla Tipo Exportación .,6.69,wong,,GRANADILLA
+Botella 3L,Citrus Granadilla TAMPICO Botella 3L,S/ 7 un,plaza_vea,GRANADILLA,2024-12-05 15:20:45.943330,3.0,l,Citrus Granadilla TAMPICO Botella,7.0,plaza_vea,,GRANADILLA
+,Citrus Granadilla TAMPICO Botella 3L,S/ 7.00,vivanda,GRANADILLA,2024-12-05 22:04:51.798843,3.0,l,Citrus Granadilla TAMPICO Botella,7.0,vivanda,TAMPICO,GRANADILLA
+,Bebida Tampico Sabor Granadilla Punch Botella 3.78L,S/ 11.90,wong,GRANADILLA,2024-12-05 18:36:46.419955,3.78,l,Bebida Tampico Sabor Granadilla Punch Botella,11.9,wong,,GRANADILLA
+,Pulpa de Granadilla Agro Selva 250g,S/ 12.99,wong,GRANADILLA,2024-12-05 18:36:46.419955,250.0,g,Pulpa de Granadilla Agro Selva,12.99,wong,,GRANADILLA
+Botella 750ml,Jarabe de Goma BURGOS Granadilla Botella 750ml,S/ 17.90 un,plaza_vea,GRANADILLA,2024-12-05 15:20:45.943330,750.0,ml,Jarabe de Goma BURGOS Granadilla Botella,17.9,plaza_vea,,GRANADILLA

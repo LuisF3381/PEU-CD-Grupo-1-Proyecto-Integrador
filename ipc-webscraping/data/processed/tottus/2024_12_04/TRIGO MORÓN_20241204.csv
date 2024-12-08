@@ -1,0 +1,69 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+TOTTUS,Trigo Mote 500 g,S/ 4.57,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Trigo Mote,4.57
+TOTTUS,Harina de Trigo Preparada 1 kg,S/ 7.10,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,1.0,kg,Harina de Trigo Preparada,7.1
+COSTENO,Trigo Mote Costeño 500 g,S/ 4.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Trigo Mote Costeño,4.8
+GENERICO,Harina Pre Tostada Especial Renacer 500 g,S/ 16.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Harina Pre Tostada Especial Renacer,16.9
+TOTTUS,Tortillas de Trigo 8 unidades,S/ 7.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,8.0,un,Tortillas de Trigo ades,7.5
+TOTTUS,Tortillas de Trigo 6 unidades,S/ 7.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,Tortillas de Trigo ades,7.9
+TOTTUS,TORTILLAS DE TRIGO MEDIANAS 8 UND,S/ 4.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,8.0,un,TORTILLAS DE TRIGO MEDIANAS D,4.8
+TOTTUS,Tortillas de trigo con salvado 6 unidades,S/ 8.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,Tortillas de trigo con salvado ades,8.5
+TOTTUS,Pan Petipan 600 g,S/ 4.40,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,600.0,g,Pan Petipan,4.4
+BIMBO,Rapiditas Tortilla de Harina de Trigo Integral 12 Unidades,S/ 10.70,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,12.0,un,Rapiditas Tortilla de Harina de Trigo Integral ades,10.7
+DON VITTORIO,Fideos Spaghetti 950 g,S/ 7,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,Fideos Spaghetti,7.0
+TOTTUS,Semi Baguette Dulce 420 g,S/ 6.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,420.0,g,Semi Baguette Dulce,6.9
+TOTTUS,Pan Brioche la Panaderia 400 g,S/ 10.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,400.0,g,Pan Brioche la Panaderia,10.5
+CUSQUEÑA,Six Pack de Cerveza Trigo de 310 mL,S/ 19.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,310.0,ml,Six Pack de Cerveza Trigo de,19.9
+CUSQUEÑA,Six Pack de Cerveza Trigo de 355 mL,S/ 24.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,355.0,ml,Six Pack de Cerveza Trigo de,24.5
+CUSQUEÑA,Six Pack Cerveza Trigo Lager 473 mL,S/ 34.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,473.0,ml,Six Pack Cerveza Trigo Lager,34.9
+BIMBO,Rapiditas Tortilla de Harina de Trigo Wrap 6 Unidades,S/ 10.70,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,Rapiditas Tortilla de Harina de Trigo Wrap ades,10.7
+ANGEL,Cereal Ángel Copix de Trigo Chocolate y Marshmellows 740 g,S/ 22,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,740.0,g,Cereal Ángel Copix de Trigo Chocolate y Marshmellows,22.0
+DON VITTORIO,Pasta de trigo Linguini Grosso 950 g,S/ 7,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,Pasta de trigo Linguini Grosso,7.0
+NISSIN,Pasta Precocida Trigo Ramen Costilla 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,Pasta Precocida Trigo Ramen Costilla,2.3
+DON VITTORIO,Pasta Trigo Fetuccini 950 g,S/ 7,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,Pasta Trigo Fetuccini,7.0
+DON VITTORIO,Fideos de Trigo Tornillo 500 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Fideos de Trigo Tornillo,4.0
+VITAPLUS,Trigo Expandido 140 g,S/ 3.60,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,140.0,g,Trigo Expandido,3.6
+DON VITTORIO,Pasta de trigo Spaghetti bolsa de 450 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Pasta de trigo Spaghetti bolsa de,4.0
+DON VITTORIO,Fideos de Trigo Codo Rayado 500 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Fideos de Trigo Codo Rayado,4.0
+DON VITTORIO,PASTA TRIGO FETTUCCINI 450G,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,PASTA TRIGO FETTUCCINI,4.0
+BIMBO,Tortilla De Trigo Tia Rosa Bolsa 8P 465 gr,S/ 12.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,465.0,g,Tortilla De Trigo Tia Rosa Bolsa 8P r,12.9
+SUBLIME,"Cereal de Arroz, Trigo, Maíz y Cacao 230g",S/ 13.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,230.0,g,"Cereal de Arroz, Trigo, Maíz y Cacao",13.5
+NICOLINI,Fideos Trigo Tallarín Grueso 950 g,S/ 5,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,Fideos Trigo Tallarín Grueso,5.0
+,PAPILLA LIC TRIGO NAPOLITANA 200G KIGLI,S/ 15.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,200.0,g,PAPILLA LIC TRIGO NAPOLITANA  KIGLI,15.9
+ERDINGER,Cerveza de Trigo sin Alcohol 500 mL,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,ml,Cerveza de Trigo sin Alcohol,12.5
+COSECHA DEL PARAISO,Germen de Trigo Tostado Cosecha del Paraíso 500 g,S/ 25.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Germen de Trigo Tostado Cosecha del Paraíso,25.5
+COSECHA DEL PARAISO,Salvado de Trigo Entero Cosecha del Paraíso 400 g,S/ 10.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,400.0,g,Salvado de Trigo Entero Cosecha del Paraíso,10.5
+VITAPLUS,Trigo y Arrocito con Miel 120 g,S/ 4.20,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,120.0,g,Trigo y Arrocito con Miel,4.2
+NISSIN,Pasta Precocida Trigo Ramen Verdura 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,Pasta Precocida Trigo Ramen Verdura,2.3
+NISSIN,Pasta Precocida Trigo Ramen Camaron 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,Pasta Precocida Trigo Ramen Camaron,2.3
+BIMBO,Tortilla De Trigo Tia Rosa 5P 425 gr,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,425.0,g,Tortilla De Trigo Tia Rosa 5P r,12.5
+DON VITTORIO,PASTA TRIGO CORBATA GRANDE BOL X225G,S/ 2,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,225.0,g,PASTA TRIGO CORBATA GRANDE BOL X,2.0
+NICOLINI,Fideos de Pasta de Trigo Tallarín Grueso de 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Fideos de Pasta de Trigo Tallarín Grueso de,3.8
+NISSIN,Pasta Precocida Trigo Ramen Pollo Pican 85g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,85.0,g,Pasta Precocida Trigo Ramen Pollo Pican,2.3
+BIMBO,Tortilla De Trigo Tia Rosa 10P Bolsa 260 gr,S/ 11,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,260.0,g,Tortilla De Trigo Tia Rosa 10P Bolsa r,11.0
+DON VITTORIO,Pasta de Trigo Linguini Grosso de 450 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Pasta de Trigo Linguini Grosso de,4.0
+ANGEL,Cereal Ángel Meli en Aros de Trigo y Miel 420 g,S/ 15.70,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,420.0,g,Cereal Ángel Meli en Aros de Trigo y Miel,15.7
+DON VITTORIO,PASTA TRIGO CARACOL CHICO BOL X 235G,S/ 2,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,235.0,g,PASTA TRIGO CARACOL CHICO BOL X,2.0
+FORTE GOLPE,Trigo Atómico Original con Miel 150 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,150.0,g,Trigo Atómico Original con Miel,3.5
+FORTE GOLPE,Trigo Dorado Atómico con Maca 125 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,125.0,g,Trigo Dorado Atómico con Maca,3.5
+DON VITTORIO,PASTA TRIGO CODO CHICO BOLSA X 235G,S/ 2,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,235.0,g,PASTA TRIGO CODO CHICO BOLSA X,2.0
+DON MAMINO,Pan de Molde con Salvado de Trigo 560 g,S/ 13.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,560.0,g,Pan de Molde con Salvado de Trigo,13.5
+EL CEDRO,Pan Árabe Sash con Salvado de Trigo 200 g,S/ 5.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,200.0,g,Pan Árabe Sash con Salvado de Trigo,5.3
+FORTE GOLPE,Trigo Atómico Light sin Miel 100 g,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,100.0,g,Trigo Atómico Light sin Miel,3.5
+NESTUM,CEREAL INFAN TRIGO MIEL S/AZC 6MESES X350G,S/ 17.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,350.0,g,CEREAL INFAN TRIGO MIEL S/AZC 6MESES X,17.5
+COSTA,Galleta Integrales con Salvado de Trigo 6 Unidades,S/ 4.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,6.0,un,Galleta Integrales con Salvado de Trigo ades,4.3
+FORTE GOLPE,Trigo Atómico Surtido Espazial 4 Unidades,S/ 3.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,4.0,un,Trigo Atómico Surtido Espazial ades,3.5
+ANGEL,Cereal Ángel Life Fibra en Hojuelas de Trigo 300 g,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,300.0,g,Cereal Ángel Life Fibra en Hojuelas de Trigo,12.5
+ANGEL,Cereal Ángel Life Fibra en Hojuelas de Trigo 560 g,S/ 21.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,560.0,g,Cereal Ángel Life Fibra en Hojuelas de Trigo,21.5
+EL CEDRO,Pan Árabe con Salvado de Trigo 5 Unidades,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,5.0,un,Pan Árabe con Salvado de Trigo ades,4.0
+MOLITALIA,Pasta Trigo Letras Pastina Bolsa x 235 g,S/ 2.30,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,235.0,g,Pasta Trigo Letras Pastina Bolsa x,2.3
+ANGEL,Cereal Ángel Life Multigrain en Hojuelas de Trigo y Cranberries 300 g,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,300.0,g,Cereal Ángel Life Multigrain en Hojuelas de Trigo y Cranberries,12.5
+NESTLE,Cereal Kit Kat Trigo Integral Cacao Caja x 210 g,S/ 13.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,210.0,g,Cereal Kit Kat Trigo Integral Cacao Caja x,13.5
+ANGEL,Cereal Life Cero Sin Azúcar en Hojuelas de Trigo y Maíz de 300 g,S/ 12.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,300.0,g,Cereal Life Cero Sin Azúcar en Hojuelas de Trigo y Maíz de,12.5
+DON VITTORIO,Fideos Rigatoni 500 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,500.0,g,Fideos Rigatoni,4.0
+NICOLINI,Fideos Tallarín delgado 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Fideos Tallarín delgado,3.8
+DON VITTORIO,Pasta Linguini de 450 g,S/ 4,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Pasta Linguini de,4.0
+NICOLINI,Fideos Spaghetti 450 g,S/ 3.80,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,450.0,g,Fideos Spaghetti,3.8
+NICOLINI,Fideos Spaghetti 950 g,S/ 5,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,950.0,g,Fideos Spaghetti,5.0
+CLUB SOCIAL,Galletas Saladas Sixpack Integral 144 g,S/ 4.50,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,144.0,g,Galletas Saladas Sixpack Integral,4.5
+NESTLE,Cereal Chocapic Nestlé 350 g,S/ 19.90,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,350.0,g,Cereal Chocapic Nestlé,19.9
+FIBERLIGHT,Galleta de Salvado y Ajonjolí Fibralight Pack 2 Unidades,S/ 13,tottus,TRIGO MORÓN,2024-12-04 12:56:48.303741,2.0,un,Galleta de Salvado y Ajonjolí Fibralight Pack ades,13.0

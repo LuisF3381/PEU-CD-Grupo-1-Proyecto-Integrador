@@ -1,0 +1,98 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Lata 140g,Filete de Atún en Aceite Vegetal FLORIDA Lata ...,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,140.0,g,Filete de Atún en Aceite Vegetal FLORIDA Lata,5.9
+Lata 150g,Filete de Atún FLORIDA en Agua 110kcal Lata 15...,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,150.0,g,Filete de Atún FLORIDA en Agua 110kcal Lata 15,5.9
+Lata 170g,Cebada Instantánea ECCO Lata 170g,S/ 10.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,170.0,g,Cebada Instantánea ECCO Lata,10.9
+Paquete 2un,Bebida de Almendra LAIVE Vio Caja 946ml Paquet...,S/ 18.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,2.0,un,Bebida de Almendra LAIVE Vio Caja  Paquet,18.5
+Caja 946ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C...,S/ 10.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C,10.5
+Paquete 6un,Bebida de Almendra NATURE'S HEART sin Azúcar 9...,S/ 47.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida de Almendra NATURE'S HEART sin Azúcar 9,47.9
+Doypack 250g,Bebida Instantánea de Cebada ECCO Doypack 250g,S/ 16.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,250.0,g,Bebida Instantánea de Cebada ECCO Doypack,16.9
+Lata 140g,Filete de Atún FLORIDA en Aceite Girasol Lata ...,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,140.0,g,Filete de Atún FLORIDA en Aceite Girasol Lata,5.9
+Pack 3un,Filete de Atún en Aceite Vegetal FLORIDA Lata ...,S/ 13 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,3.0,un,Filete de Atún en Aceite Vegetal FLORIDA Lata,13.0
+Bolsa 800ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,800.0,ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa,2.9
+Paquete 1un,Hierba Luisa x unidad,S/ 1.29 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,un,Hierba Luisa ad,1.29
+Paquete 6un,Bebida Rehidratante SPORADE Sabores Surtidos B...,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Rehidratante SPORADE Sabores Surtidos B,9.9
+Botella 625ml,Vinagre Blanco FLORIDA Botella 625ml,S/ 3.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,625.0,ml,Vinagre Blanco FLORIDA Botella,3.5
+Paquete 6un,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 10.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Rehidratante GATORADE Tropical Fruit Bo,10.9
+Paquete 6un,Bebida FRUGOS DEL VALLE Manzana Caja 235ml Six...,S/ 7.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida FRUGOS DEL VALLE Manzana Caja  Six,7.9
+Tetrapack 946ml,Bebida de Coco LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Coco LAIVE Vio Tetrapack,9.9
+Bolsa 800ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80...,S/ 3 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,800.0,ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80,3.0
+Lata 140g,Trozos de Atún FLORIDA en Aceite Vegetal Lata ...,S/ 5.80 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,140.0,g,Trozos de Atún FLORIDA en Aceite Vegetal Lata,5.8
+Caja 1L,Bebida GLORIA Maracuyá Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida GLORIA Maracuyá Caja,3.9
+Caja 1L,Bebida GLORIA Piña Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida GLORIA Piña Caja,3.9
+Caja 1L,Bebida GLORIA Naranja Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida GLORIA Naranja Caja,3.9
+Paquete 6un,Bebida Rehidratante GATORADE Sabores Surtidos ...,S/ 10.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Rehidratante GATORADE Sabores Surtidos,10.9
+Caja 1L,Bebida de Soya UHT SOY VIDA Caja 1L,S/ 6 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida de Soya UHT SOY VIDA Caja,6.0
+Paquete 4un,Bebida de Soya LAIVE Vio Caja 946ml Paquete 4u...,S/ 25.30 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,4.0,un,Bebida de Soya LAIVE Vio Caja  Paquete 4u,25.3
+Caja 946ml,Bebida de Coco NATURE'S HEART Caja 946ml,S/ 10.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Coco NATURE'S HEART Caja,10.5
+Caja 25un,Infusión de Hierba Luisa HORNIMANS Caja 25un,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,25.0,un,Infusión de Hierba Luisa HORNIMANS Caja,3.9
+Caja 1L,Bebida GLORIA Mango Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida GLORIA Mango Caja,3.9
+Paquete 6un,Bebida FRUGOS DEL VALLE Mango Caja 235ml Six P...,S/ 7.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida FRUGOS DEL VALLE Mango Caja  Six P,7.9
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio sin Endulzante Te...,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra LAIVE Vio sin Endulzante Te,9.9
+Caja 1L,Bebida GLORIA Durazno Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida GLORIA Durazno Caja,3.9
+Tetrapack 946ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap...,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap,9.9
+Caja 100un,Hierba Luisa BELL'S Caja 100un,S/ 11.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,100.0,un,Hierba Luisa BELL'S Caja,11.5
+Paquete 12un,Bebida Rehidratante SPORADE Tropical Paquete 5...,S/ 19.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,12.0,un,Bebida Rehidratante SPORADE Tropical Paquete 5,19.5
+Botella 3L,Bebida FRUGOS Citrus Fresh Naranja Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,3.0,l,Bebida FRUGOS Citrus Fresh Naranja Botella,5.9
+Paquete 2un,Bebida de Almendra sin Azúcar NATURES HEART Ca...,S/ 18.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,2.0,un,Bebida de Almendra sin Azúcar NATURES HEART Ca,18.5
+Caja 100un,Hierba Luisa MC COLIN'S Caja 100un,S/ 12.40 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,100.0,un,Hierba Luisa MC COLIN'S Caja,12.4
+Paquete 6un,Bebida de Soya SOY VIDA Lata 390g Paquete 6un,S/ 15 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida de Soya SOY VIDA Lata  Paquete,15.0
+Caja 20un,Hierba Luisa BELL'S Caja 20un,S/ 3.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,20.0,un,Hierba Luisa BELL'S Caja,3.2
+Paquete 12un,Filete de Atún FLORIDA en Agua Paquete 12un,S/ 70.80 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,12.0,un,Filete de Atún FLORIDA en Agua Paquete,70.8
+Caja 25un,Hierba Luisa MC COLIN'S Caja 25un,S/ 4.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,25.0,un,Hierba Luisa MC COLIN'S Caja,4.2
+Botella 500ml,Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,500.0,ml,Bebida Rehidratante GATORADE Mandarina Botella,2.0
+Sobre 14g,Bebida Instantánea en Polvo CLIGHT Sin Caloría...,S/ 2.30 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,14.0,g,Bebida Instantánea en Polvo CLIGHT Sin Caloría,2.3
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra LAIVE Vio Tetrapack,9.9
+Paquete 12un,Bebida PULP Durazno Forti Hierro Caja 145ml Pa...,S/ 8.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,12.0,un,Bebida PULP Durazno Forti Hierro Caja  Pa,8.9
+Caja 946ml,Bebida de Coco y Vainilla NATURE'S HEART sin A...,S/ 10.99 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Coco y Vainilla NATURE'S HEART sin A,10.99
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Sabores de mi...,S/ 1.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,15.0,g,Bebida Instantánea en Polvo ZUKO Sabores de mi,1.2
+Caja 946ml,Bebida de Almendra NATURE'S HEART Vainilla Sin...,S/ 10.99 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra NATURE'S HEART Vainilla Sin,10.99
+Paquete 4un,Bebida Rehidratante SUEROX Surtido Botella 630...,S/ 19.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,4.0,un,Bebida Rehidratante SUEROX Surtido Botella 630,19.5
+Botella 3.03L,Bebida CIFRUT Citrus Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,3.03,l,Bebida CIFRUT Citrus Punch Botella,5.9
+Doypack 100g,Cebada Instantánea KIMBO Doypack 100g,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,100.0,g,Cebada Instantánea KIMBO Doypack,5.9
+Botella 1.5L,Bebida Rehidratante SPORADE Tropical Electroli...,S/ 5.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.5,l,Bebida Rehidratante SPORADE Tropical Electroli,5.5
+Botella 625ml,Vinagre Tinto FLORIDA Botella 625ml,S/ 3.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,625.0,ml,Vinagre Tinto FLORIDA Botella,3.5
+Botella 3.03L,Bebida CIFRUT Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,3.03,l,Bebida CIFRUT Fruit Punch Botella,5.9
+Bolsa 1Kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa...,S/ 31.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa,31.9
+Tetrapack 946ml,Bebida de Soya LAIVE Vio Tetrapack 946ml,S/ 7.60 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Soya LAIVE Vio Tetrapack,7.6
+Paquete 6un,Bebida Láctea BONLÉ Defensis Lata 390g Paquete...,S/ 15 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Láctea BONLÉ Defensis Lata  Paquete,15.0
+Paquete 6un,Bebida PULP Durazno Caja 315ml Paquete 6un,S/ 8.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida PULP Durazno Caja  Paquete,8.9
+Botella 3L,Bebida FRUGOS DEL VALLE Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,3.0,l,Bebida FRUGOS DEL VALLE Fruit Punch Botella,5.9
+Frasco 164g,Cebada Instantánea KIMBO Frasco 164g,S/ 9.10 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,164.0,g,Cebada Instantánea KIMBO Frasco,9.1
+Botella 0.95L,Bebida de Coco NATURES HEART sin Azúcar Botell...,S/ 10.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,0.95,l,Bebida de Coco NATURES HEART sin Azúcar Botell,10.5
+Bolsa 900ml,Bebida de Leche Chocolatada LAIVE Bolsa 900ml,S/ 5.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,900.0,ml,Bebida de Leche Chocolatada LAIVE Bolsa,5.5
+Botella 625ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote...,S/ 2.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,625.0,ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote,2.2
+Caja 1L,Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida FRUGOS Mango y Fresa Caja,4.5
+Caja 970ml,Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,970.0,ml,Bebida FRUGOS Sabor a Mango Caja,3.9
+Botella 500ml,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 2 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Bo,2.0
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Naranja Sobre...,S/ 1.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,15.0,g,Bebida Instantánea en Polvo ZUKO Naranja Sobre,1.2
+Paquete 6un,Bebida Energizante VOLT Ginseng Botella 300ml ...,S/ 9.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Energizante VOLT Ginseng Botella,9.9
+Botella 500ml,Bebida Rehidratante GATORADE Apple Ice Botella...,S/ 2 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,500.0,ml,Bebida Rehidratante GATORADE Apple Ice Botella,2.0
+Caja 946ml,Bebida Vegetal NATURE'S HEART Origen Caja 946m...,S/ 10.99 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida Vegetal NATURE'S HEART Origen Caja 946m,10.99
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Piña Sobre 15...,S/ 1.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,15.0,g,Bebida Instantánea en Polvo ZUKO Piña Sobre 15,1.2
+Lata 140g,Solido de Atún FLORIDA Lata 140g,S/ 6.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,140.0,g,Solido de Atún FLORIDA Lata,6.5
+Botella 300ml,Bebida Aloe KERO Uva Botella 300ml,S/ 3.10 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,300.0,ml,Bebida Aloe KERO Uva Botella,3.1
+Paquete 4un,Bebida Rehidratante SUEROX Fresa Botella 630ml...,S/ 19.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,4.0,un,Bebida Rehidratante SUEROX Fresa Botella,19.5
+Botella 300ml,Bebida Aloe KERO Piña Botella 300ml,S/ 3.10 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,300.0,ml,Bebida Aloe KERO Piña Botella,3.1
+Caja 946ml,Bebida de Almendra SILK sin Azúcar Caja 946ml,S/ 16.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra SILK sin Azúcar Caja,16.9
+Lata 250ml,Bebidas Energizantes RED BULL Ambar Edition La...,S/ 6 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,250.0,ml,Bebidas Energizantes RED BULL Ambar Edition La,6.0
+Bolsa 150g,Infusiones RENACER Cebada Tostada Bolsa 150g,S/ 6.80 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,150.0,g,Infusiones RENACER Cebada Tostada Bolsa,6.8
+Botella 1L,Bebida BELL'S Cranberry Bajo en Calorías Botel...,S/ 8.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida BELL'S Cranberry Bajo en Calorías Botel,8.5
+Caja 1L,Bebida FRUGOS Piña y Mandarina Caja 1L,S/ 4.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida FRUGOS Piña y Mandarina Caja,4.5
+Caja 1.5L,Bebida de Naranja GLORIA Caja 1.5L,S/ 5 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.5,l,Bebida de Naranja GLORIA Caja,5.0
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Fresa Sobre 1...,S/ 1.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,15.0,g,Bebida Instantánea en Polvo ZUKO Fresa Sobre 1,1.2
+Caja 2910ml,Bebida FRUGOS Sabor a Durazno Paquete 1un + Be...,S/ 12.30 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,2910.0,ml,Bebida FRUGOS Sabor a Durazno Paquete  + Be,12.3
+Caja 946ml,Bebida de Almendra NATURE'S HEART Caja 946ml,S/ 10.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,946.0,ml,Bebida de Almendra NATURE'S HEART Caja,10.5
+Paquete 4un,Bebida Energizante RED BULL Sugarfree Lata 250...,S/ 28.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,4.0,un,Bebida Energizante RED BULL Sugarfree Lata 250,28.5
+Lata 250ml,Bebida energizante RED BULL Lata 250Ml,S/ 6 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,250.0,ml,Bebida energizante RED BULL Lata 250Ml,6.0
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Limonada Sobr...,S/ 1.20 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,15.0,g,Bebida Instantánea en Polvo ZUKO Limonada Sobr,1.2
+Paquete 4un,Bebida Rehidratante SUEROX Mora Botella 630ml ...,S/ 19.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,4.0,un,Bebida Rehidratante SUEROX Mora Botella,19.5
+Botella 1.5L,Bebida FRUGOS Fresh Citrus Naranja Botella 1.5...,S/ 3.90 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.5,l,Bebida FRUGOS Fresh Citrus Naranja Botella 1.5,3.9
+Botella 390g,Bebida de Almendras Concentrada LAIVE Botella ...,S/ 6.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,390.0,g,Bebida de Almendras Concentrada LAIVE Botella,6.5
+Lata 250ml,Bebida Energizante RED BULL Red Edition Lata 2...,S/ 6 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,250.0,ml,Bebida Energizante RED BULL Red Edition Lata 2,6.0
+Botella 300ml,Bebida Natural BIO Arándano con Uva y Manzana ...,S/ 3.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,300.0,ml,Bebida Natural BIO Arándano con Uva y Manzana,3.5
+Botella 500ml,Bebida Rehidratante GATORADE Cool Blue Botella...,S/ 2 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,500.0,ml,Bebida Rehidratante GATORADE Cool Blue Botella,2.0
+Paquete 6un,Bebida Energizante RED BULL Paquete 6un Lata 2...,S/ 39.50 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,6.0,un,Bebida Energizante RED BULL Paquete  Lata 2,39.5
+Caja 1L,Bebida de Avena ORASI Caja 1L,S/ 14.60 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida de Avena ORASI Caja,14.6
+Botella 1L,Bebida Rehidratante GATORADE Frutos Tropicales...,S/ 3.60 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,l,Bebida Rehidratante GATORADE Frutos Tropicales,3.6
+Caja 1ml,Bebida de Almendra NATURE'S HEART Almendra y C...,S/ 10.99 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,1.0,ml,Bebida de Almendra NATURE'S HEART Almendra y C,10.99
+Botella 500ml,Bebida Rehidratante sin Azúcar SPORADE Apple I...,S/ 2.40 un,plaza_vea,BEBIDA ENERGIZANTE (FLUIDA),2024-12-05 16:07:20.863211,500.0,ml,Bebida Rehidratante sin Azúcar SPORADE Apple I,2.4

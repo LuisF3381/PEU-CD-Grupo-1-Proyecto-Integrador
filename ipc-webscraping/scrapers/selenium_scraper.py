@@ -57,7 +57,7 @@ class WebScraper_Selenium:
     def scroll_to_element(self, css_selector):
         try:
             # Esperar a que el elemento sea visible en el DOM
-            element = WebDriverWait(self.driver, 10).until(
+            element = WebDriverWait(self.driver, 25).until(
                 EC.visibility_of_element_located((By.CSS_SELECTOR, css_selector))
             )
             
@@ -264,7 +264,7 @@ class WebScraper_Selenium:
                         page_number += 1
 
                         # Esperar a que cargue la siguiente página
-                        WebDriverWait(self.driver, 10).until(
+                        WebDriverWait(self.driver, 25).until(
                             EC.staleness_of(containers[0])
                         )
 

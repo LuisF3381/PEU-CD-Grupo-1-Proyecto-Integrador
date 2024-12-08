@@ -1,0 +1,6 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Paquete 6un,Bizcocho CANCÚN COSTA Sabor coco y cobertura d...,S/ 3.70 un,plaza_vea,BIZCOCHOS,2024-12-04 12:57:10.604937,6.0,un,Bizcocho CANCÚN COSTA Sabor coco y cobertura d,3.7
+Bolsa 6un,Bizcocho Relleno con Doble Manjar COSTA Chocma...,S/ 6.30 un,plaza_vea,BIZCOCHOS,2024-12-04 12:57:10.604937,6.0,un,Bizcocho Relleno con Doble Manjar COSTA Chocma,6.3
+Paquete 12un,Bizcocho Pokeke COSTA Paquete 12un,S/ 7.90 un,plaza_vea,BIZCOCHOS,2024-12-04 12:57:10.604937,12.0,un,Bizcocho Pokeke COSTA Paquete,7.9
+Paquete 6un,Bizcocho COSTA Caritas Paquete 6un,S/ 3.79 un,plaza_vea,BIZCOCHOS,2024-12-04 12:57:10.604937,6.0,un,Bizcocho COSTA Caritas Paquete,3.79
+Paquete 6un,Bizcocho CHOCMAN Doble Black Paquete 6un,S/ 6.50 un,plaza_vea,BIZCOCHOS,2024-12-04 12:57:10.604937,6.0,un,Bizcocho CHOCMAN Doble Black Paquete,6.5

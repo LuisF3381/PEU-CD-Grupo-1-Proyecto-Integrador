@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1.04 kg aprox.,Chuleta de Lomo de Cerdo,S/ 18.89 x kg,plaza_vea,CHULETA DE CERDO,2024-12-04 13:09:57.705049,1.04,kg,Chuleta de Lomo de Cerdo,18.89
+Presentación 1.04 kg aprox.,Chuleta de Pierna de Cerdo con Piel,S/ 18.89 x kg,plaza_vea,CHULETA DE CERDO,2024-12-04 13:09:57.705049,1.04,kg,Chuleta de Pierna de Cerdo con Piel,18.89
+Presentación 1.04 kg aprox.,Chuleta Parrillera de Cerdo,S/ 18.89 x kg,plaza_vea,CHULETA DE CERDO,2024-12-04 13:09:57.705049,1.04,kg,Chuleta Parrillera de Cerdo,18.89

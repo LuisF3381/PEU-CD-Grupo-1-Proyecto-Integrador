@@ -1,0 +1,94 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+COCA COLA,+ Inca Kola Two Pack 2 Unidades 3 L,S/ 20.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,2.0,un,+ Inca Kola Two Pack ades,20.5
+FRUGOS DEL VALLE,Bebida Sabor Durazno 1 Lt Caja,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida Sabor Durazno t Caja,3.9
+GLORIA,Bebida de Naranja 1 L,S/ 4.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida de Naranja,4.9
+SAN LUIS,Pack de Agua sin Gas de 15 unidades,S/ 17.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,15.0,un,Pack de Agua sin Gas de ades,17.9
+COCA COLA,Gaseosa Coca-Cola Original 3 Lt Twopack,S/ 20.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa Coca-Cola Original t Twopack,20.5
+SPORADE,12 Pack Rehidratante Tropical 500 mL,S/ 20.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,12 Pack Rehidratante Tropical,20.9
+PULP,Twelve Pack de Bebida de Durazno Forti Hierro de 145 mL,S/ 11.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,145.0,ml,Twelve Pack de Bebida de Durazno Forti Hierro de,11.5
+INCA KOLA,Pack de Gaseosa Coca-Cola Sabor Original 3 L + Inka Kola Sabor Original 3 L,S/ 30.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Pack de Gaseosa Coca-Cola Sabor Original  + Inka Kola Sabor Original,30.3
+COCA COLA,Gaseosa: 1 Inca Kola 3 L + 2 Coca-Cola Sabor Original 3 L,S/ 30.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa: 1 Inca Kola  + 2 Coca-Cola Sabor Original,30.3
+FRUGOS DEL VALLE,BEBIDA FRUGOS VALLE FRESH FRUIT PUNCH BOT X 3L,S/ 5.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,BEBIDA FRUGOS VALLE FRESH FRUIT PUNCH BOT X,5.9
+FRUGOS DEL VALLE,Bebida Frugos Fresh Naranja de 3 L,S/ 5.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Bebida Frugos Fresh Naranja de,5.9
+FANTA,Gaseosa sabor Naranja 3 L,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa sabor Naranja,6.9
+FANTA,Gaseosa Sabor Kola Inglesa 3 L,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa Sabor Kola Inglesa,6.9
+SAN LUIS,Agua Mineral sin gas 7 L,S/ 7.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,7.0,l,Agua Mineral sin gas,7.5
+FANTA,Gaseosa Naranja 3 L Kola Inglesa 3 L y Sprite Lima-Limón 3 L,S/ 18.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa Naranja  Kola Inglesa  y Sprite Lima-Limón,18.9
+INCA KOLA,Gaseosa Sabor Original 3 L,S/ 11.60,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa Sabor Original,11.6
+SAN MATEO,Agua Mineral con gas Pack 6 unidades 600 mL,S/ 11.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,6.0,un,Agua Mineral con gas Pack ades,11.2
+SCHWEPPES,Ginger Ale 1.5 L,S/ 6.60,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Ginger Ale,6.6
+SAN CARLOS,Sin gas 20 unidades de 500 mL,S/ 12.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,un,Sin gas ades de,12.9
+FREE TEA,TE LIMON LIGHT BT 450 ML,S/ 2.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,450.0,ml,TE LIMON LIGHT BT,2.5
+CIELO,Agua Mineral sin gas Bidón Descartable 7 L,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,7.0,l,Agua Mineral sin gas Bidón Descartable,6.9
+FRUGOS DEL VALLE,Bebida Sabor Manzana 1.5 Lt Caja,S/ 5.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Bebida Sabor Manzana t Caja,5.5
+SAN LUIS,Pack de Agua Sin Gas 6 Unidades 2.5 L,S/ 14.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,6.0,un,Pack de Agua Sin Gas ades,14.9
+EVERVESS,Gaseosa Ginger Ale en paquete de dos botellas de 1.5 L,S/ 9.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Gaseosa Ginger Ale en paquete de dos botellas de,9.9
+COCA COLA,Two Pack Gaseosa Original 1 L,S/ 8.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Two Pack Gaseosa Original,8.3
+COCA COLA,Gaseosa Coca-Cola sabor original de 1 L,S/ 4.10,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Gaseosa Coca-Cola sabor original de,4.1
+SAN LUIS,Agua Mineral con gas 625 mL,S/ 1.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,625.0,ml,Agua Mineral con gas,1.9
+GATORADE,Tropical Pack 6 Unidades 500 mL,S/ 10.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,6.0,un,Tropical Pack ades,10.9
+SAN LUIS,2X Agua Sin Gas Bidon 20L,S/ 51,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,l,2X Agua Sin Gas Bidon,51.0
+COCA COLA,Gaseosa Zero 1.5 L,S/ 7.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Gaseosa Zero,7.2
+GLORIA,BEBIDA DE MANGO CAJA 1L,S/ 4.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,BEBIDA DE MANGO CAJA,4.9
+SCHWEPPES,Two Pack Gaseosa Ginger Ale 1.5 L,S/ 9.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Two Pack Gaseosa Ginger Ale,9.9
+SCHWEPPES,Ginger Ale Citrus 1.5 L,S/ 6.60,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Ginger Ale Citrus,6.6
+PEPSI,Gaseosa Zero Black 3 L,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa Zero Black,6.9
+INCA KOLA,Two Pack 1L,S/ 8.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Two Pack,8.3
+INCA KOLA,Six Pack de Gaseosa Sabor Original de 500 mL,S/ 15.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Six Pack de Gaseosa Sabor Original de,15.5
+CIELO,Agua Mineral sin gas Pack 6 Unidades 625 mL,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,6.0,un,Agua Mineral sin gas Pack ades,6.9
+TOTTUS,Agua de mesa sin gas bidón 7 L,S/ 5.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,7.0,l,Agua de mesa sin gas bidón,5.9
+SAN LUIS,BEBIDA CON GAS MARACUYA BOT X 625ML,S/ 2.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,625.0,ml,BEBIDA CON GAS MARACUYA BOT X,2.2
+FRUGOS DEL VALLE,BEBIDA MANGO X 970ML,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,970.0,ml,BEBIDA MANGO X,3.9
+TOTTUS,Chicha Morada 1 L,S/ 4.80,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Chicha Morada,4.8
+NATURALE,Bebida Sabor Chicha Morada 500 mL,S/ 4.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Bebida Sabor Chicha Morada,4.5
+BIO AMAYU,Bebida sabor Camu Camu y manzana de 300 mL,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,300.0,ml,Bebida sabor Camu Camu y manzana de,3.9
+ZUKO,Jugo en polvo sabor a maracuyá sobre de 15 g,S/ 1.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,15.0,g,Jugo en polvo sabor a maracuyá sobre de,1.2
+EVERVESS,Gaseosa Ginger Ale 1.5 L,S/ 5,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Gaseosa Ginger Ale,5.0
+TOTTUS,Chicha Morada 500 mL,S/ 2.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Chicha Morada,2.5
+GLORIA,Bebida Chicha Morada 320 mL,S/ 2.70,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,320.0,ml,Bebida Chicha Morada,2.7
+TOTTUS,Agua De Mesa Sin Gas Caja 20 L,S/ 19.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,l,Agua De Mesa Sin Gas Caja,19.5
+PEPSI,Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña 3 L,S/ 17.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña,17.5
+SAN MATEO,Agua Mineral Sin Gas 600 mL,S/ 2.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,600.0,ml,Agua Mineral Sin Gas,2.2
+SAN CARLOS,Agua mineral sin gas en bidón de 20 L,S/ 19.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,l,Agua mineral sin gas en bidón de,19.2
+GLORIA,Bebida de Piña 1 L,S/ 4.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida de Piña,4.9
+SAN LUIS,BEBIDA C GAS MANZANA 625MLX6UND,S/ 11,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,625.0,ml,BEBIDA C GAS MANZANA XD,11.0
+WATTS,Bebida Sabor Durazno 1 L,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida Sabor Durazno,3.9
+COCA COLA,Gaseosa 3 L,S/ 11.60,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Gaseosa,11.6
+CIELO,Agua Mineral sin gas Bidón 20 L,S/ 23.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,l,Agua Mineral sin gas Bidón,23.9
+INCA KOLA,Gaseosa Inka Cola Sin Azúcar 500 mL,S/ 3.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Gaseosa Inka Cola Sin Azúcar,3.2
+SAN LUIS,Agua Mineral sin gas 20 L,S/ 24.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,20.0,l,Agua Mineral sin gas,24.5
+MOGU MOGU,Bebida sabor mango 320 mL,S/ 4.95,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,320.0,ml,Bebida sabor mango,4.95
+FANTA,Gaseosa sabor piña en lata de 355 mL,S/ 5.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,355.0,ml,Gaseosa sabor piña en lata de,5.5
+PULP,Six Pack Bebida de Durazno 315 mL,S/ 9.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,315.0,ml,Six Pack Bebida de Durazno,9.2
+VOLT,Gamer 473 mL,S/ 4.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,473.0,ml,Gamer,4.3
+SAN CARLOS,Agua mineral sin gas de 3 L,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Agua mineral sin gas de,3.9
+VOLT,ENERGIZANTE YELLOW LT 473ML,S/ 4.30,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,473.0,ml,ENERGIZANTE YELLOW LT,4.3
+NATURALE,Bebida sabor manzana de 500 mL,S/ 4.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Bebida sabor manzana de,4.5
+FEVER TREE,Four-pack agua tónica 200 mL,S/ 22.43,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,200.0,ml,Four-pack agua tónica,22.43
+SAN MATEO,Agua Mineral Sin Gas 2.5 L,S/ 3.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,2.5,l,Agua Mineral Sin Gas,3.9
+SAPPE,Bebida Beauti Drink Collaskin 360 mL,S/ 4.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,360.0,ml,Bebida Beauti Drink Collaskin,4.9
+WATTS,Bebida Sabor Durazno 350 mL,S/ 2.10,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,350.0,ml,Bebida Sabor Durazno,2.1
+WATTS,BEBIDAS DE DURAZNO CAJA 946ML,S/ 4.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,946.0,ml,BEBIDAS DE DURAZNO CAJA,4.5
+PULP,Frugos Néctar de Durazno 1.5 L,S/ 5.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.5,l,Frugos Néctar de Durazno,5.9
+FRUGOS DEL VALLE,Bebida Sabor Durazno 1 Lt Botella,S/ 4.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida Sabor Durazno t Botella,4.5
+PULP,BT VIDRIO 300ML,S/ 2.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,300.0,ml,BT VIDRIO,2.2
+COCA COLA,Gaseosa Sabor Vainilla 355 mL,S/ 6.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,355.0,ml,Gaseosa Sabor Vainilla,6.9
+SAN LUIS,AGUA MESA SIN GAS BOTELLA X 1L,S/ 2.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,AGUA MESA SIN GAS BOTELLA X,2.5
+COCA COLA,GAS 3INCA+3COCA+3FANTA+3SPRITE 300ML,S/ 19.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,300.0,ml,GAS 3INCA+3COCA+3FANTA+3SPRITE,19.5
+GUARANA,Bebida Gaseosa Backus Zero Bot X450mL,S/ 2.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,450.0,ml,Bebida Gaseosa Backus Zero Bot X,2.2
+COCA COLA,Gaseosa Sin Azúcar 500 mL,S/ 3.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Gaseosa Sin Azúcar,3.2
+WATTS,Bebida Sabor Naranja 350 mL,S/ 2.10,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,350.0,ml,Bebida Sabor Naranja,2.1
+FREE TEA,BEBIDA NEGRO DURAZNO 500 ML,S/ 2.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,BEBIDA NEGRO DURAZNO,2.5
+FEVER TREE,Four Pack Agua Tónica Saborizada con Quinina 200 mL,S/ 22.43,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,200.0,ml,Four Pack Agua Tónica Saborizada con Quinina,22.43
+BRITVIC,Four Pack Agua Tonica Lata 150mL,S/ 16.43,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,150.0,ml,Four Pack Agua Tonica Lata,16.43
+SUEROX,Four Pack Rehidratante Mora Azul 630 mL,S/ 19.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,630.0,ml,Four Pack Rehidratante Mora Azul,19.5
+SAPPE,Bebida Beauti Drink Relaxing Calm 360 mL,S/ 4.90,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,360.0,ml,Bebida Beauti Drink Relaxing Calm,4.9
+FRUVI,Bebida sabor durazno en botella de 1 L,S/ 5.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,1.0,l,Bebida sabor durazno en botella de,5.5
+GUARANA,Bebida Gaseosa Backus Botella X300mL,S/ 1.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,300.0,ml,Bebida Gaseosa Backus Botella X,1.2
+VILIGHT,L-Carnitina Sabor A Toronja 500 mL,S/ 4.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,L-Carnitina Sabor A Toronja,4.5
+TAMPICO,Ref Citrus Punch 500 mL,S/ 1.70,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,500.0,ml,Ref Citrus Punch,1.7
+RED BULL,Four Pack de Bebida Energizante Sin Azúcar de 250 mL,S/ 28.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,250.0,ml,Four Pack de Bebida Energizante Sin Azúcar de,28.5
+GENERICO,Tableta Para Taza Sabor Chocolate Clavo Y Canela x 60 g,S/ 1.80,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,60.0,g,Tableta Para Taza Sabor Chocolate Clavo Y Canela x,1.8
+ZUKO,Jugo en polvo sabor a chicha morada sobre 15 g,S/ 1.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,15.0,g,Jugo en polvo sabor a chicha morada sobre,1.2
+INCA KOLA,Two Pack Gaseosa Sabor Original 3 L,S/ 20.50,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,3.0,l,Two Pack Gaseosa Sabor Original,20.5
+ZUKO,Jugo en polvo sabor a naranja de 15 g,S/ 1.20,tottus,ARÁNDANOS,2024-12-04 13:31:00.794060,15.0,g,Jugo en polvo sabor a naranja de,1.2

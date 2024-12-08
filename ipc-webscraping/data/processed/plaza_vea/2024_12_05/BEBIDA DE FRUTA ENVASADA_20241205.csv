@@ -1,0 +1,100 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Lata 170g,Cebada Instantánea ECCO Lata 170g,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,170.0,g,Cebada Instantánea ECCO Lata,10.9
+Bolsa 800g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 7 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,800.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,7.0
+Balde 1Kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1...,S/ 15.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1,15.9
+Paquete 2un,Bebida de Almendra LAIVE Vio Caja 946ml Paquet...,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,2.0,un,Bebida de Almendra LAIVE Vio Caja  Paquet,18.5
+Bolsa 150g,Frutos Secos VILLA NATURA Cocktail Premium Bol...,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,150.0,g,Frutos Secos VILLA NATURA Cocktail Premium Bol,8.9
+Vaso 120g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,120.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,2.2
+Botella 900g,Yogurt DANLAC Frutado Frutos del Bosque Botell...,S/ 11.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,900.0,g,Yogurt DANLAC Frutado Frutos del Bosque Botell,11.5
+Caja 946ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C...,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Almendra NATURE'S HEART Sin Azúcar C,10.5
+Paquete 6un,Bebida de Almendra NATURE'S HEART sin Azúcar 9...,S/ 47.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida de Almendra NATURE'S HEART sin Azúcar 9,47.9
+Doypack 250g,Bebida Instantánea de Cebada ECCO Doypack 250g,S/ 16.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,250.0,g,Bebida Instantánea de Cebada ECCO Doypack,16.9
+Pack 500g,Ensalada Jardinera BELL'S Bolsa 500g,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,g,Ensalada Jardinera BELL'S Bolsa,5.5
+Botella 1.7Kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos ...,S/ 10.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.7,kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos,10.3
+Botella 800g,Yogurt Griego LAIVE Frutos Rojos Botella 800g,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,800.0,g,Yogurt Griego LAIVE Frutos Rojos Botella,9.9
+Bolsa 800ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,800.0,ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa,2.9
+Bolsa 150g,Piqueo VALLE ALTO Frutos secos con almendras B...,S/ 6.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,150.0,g,Piqueo VALLE ALTO Frutos secos con almendras B,6.4
+Paquete 6un,Bebida Rehidratante SPORADE Sabores Surtidos B...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida Rehidratante SPORADE Sabores Surtidos B,9.9
+Paquete 2un,Pollo Rostizado + Papas Fritas,S/ 27.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,2.0,un,Pollo Rostizado + Papas Fritas,27.9
+Paquete 6un,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida Rehidratante GATORADE Tropical Fruit Bo,10.9
+Paquete 6un,Bebida FRUGOS DEL VALLE Manzana Caja 235ml Six...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida FRUGOS DEL VALLE Manzana Caja  Six,7.9
+Tetrapack 946ml,Bebida de Coco LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Coco LAIVE Vio Tetrapack,9.9
+Bolsa 800ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80...,S/ 3 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,800.0,ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80,3.0
+Doypack 800ml,Jabón Líquido AVAL Antibacterial Frutos Rojos ...,S/ 12.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,800.0,ml,Jabón Líquido AVAL Antibacterial Frutos Rojos,12.6
+Caja 1L,Bebida GLORIA Maracuyá Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida GLORIA Maracuyá Caja,3.9
+Caja 1L,Bebida GLORIA Piña Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida GLORIA Piña Caja,3.9
+Caja 1L,Bebida GLORIA Naranja Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida GLORIA Naranja Caja,3.9
+Paquete 6un,Bebida Rehidratante GATORADE Sabores Surtidos ...,S/ 10.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida Rehidratante GATORADE Sabores Surtidos,10.9
+Caja 20un,Infusión NATURE'S HEART Frutos Rojos Caja 20un,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,20.0,un,Infusión NATURE'S HEART Frutos Rojos Caja,9.9
+Caja 1L,Bebida de Soya UHT SOY VIDA Caja 1L,S/ 6 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida de Soya UHT SOY VIDA Caja,6.0
+Paquete 4un,Bebida de Soya LAIVE Vio Caja 946ml Paquete 4u...,S/ 25.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,4.0,un,Bebida de Soya LAIVE Vio Caja  Paquete 4u,25.3
+Caja 946ml,Bebida de Coco NATURE'S HEART Caja 946ml,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Coco NATURE'S HEART Caja,10.5
+Caja 1L,Bebida GLORIA Mango Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida GLORIA Mango Caja,3.9
+Bolsa 235g,Tornillo Especial MOLITALIA Pasta para Ensalad...,S/ 3.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,235.0,g,Tornillo Especial MOLITALIA Pasta para Ensalad,3.1
+Paquete 6un,Bebida FRUGOS DEL VALLE Mango Caja 235ml Six P...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida FRUGOS DEL VALLE Mango Caja  Six P,7.9
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio sin Endulzante Te...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Almendra LAIVE Vio sin Endulzante Te,9.9
+Caja 1L,Bebida GLORIA Durazno Caja 1L,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida GLORIA Durazno Caja,3.9
+Tetrapack 946ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrap,9.9
+Vaso 115g,Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso ...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,115.0,g,Yogurt Griego LAIVE Sabor a Frutos Rojos Vaso,2.2
+Paquete 12un,Bebida Rehidratante SPORADE Tropical Paquete 5...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,12.0,un,Bebida Rehidratante SPORADE Tropical Paquete 5,19.5
+Bolsa 150g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa...,S/ 5 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,150.0,g,Piqueo VILLA NATURA Papas fritas al hilo Bolsa,5.0
+Bolsa 250gun,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25,4.69
+Botella 3L,Bebida FRUGOS Citrus Fresh Naranja Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.0,l,Bebida FRUGOS Citrus Fresh Naranja Botella,5.9
+Paquete 2un,Bebida de Almendra sin Azúcar NATURES HEART Ca...,S/ 18.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,2.0,un,Bebida de Almendra sin Azúcar NATURES HEART Ca,18.5
+Frasco 400ml,Jabón Líquido Antibacterial AVAL Frutos Rojos ...,S/ 10.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,400.0,ml,Jabón Líquido Antibacterial AVAL Frutos Rojos,10.6
+Caja 85g,Panetón con Pasas y Frutas Confitadas TODINNIT...,S/ 4.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,85.0,g,Panetón con Pasas y Frutas Confitadas TODINNIT,4.6
+Doypack 1L,Jabón Líquido Antibacterial BACTERION Frutos R...,S/ 14.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Jabón Líquido Antibacterial BACTERION Frutos R,14.6
+Paquete 3un,Pollo Rostizado + Papas Fritas + Gaseosa 1.5L,S/ 33.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.0,un,Pollo Rostizado + Papas Fritas + Gaseosa,33.5
+Botella 1L,Jugo de Fruta NATURALE Chicha Morada Botella 1...,S/ 7.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Jugo de Fruta NATURALE Chicha Morada Botella 1,7.9
+Bolsa 500g,Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,g,Ensalada Jardinera Precocida BELL'S Bolsa,8.9
+Bolsa 150gun,Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,150.0,g,Ensalada Mix BELL'S FRESCOS Bolsa,6.59
+Bolsa 500gun,Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,g,Ensalada Americana BELL'S FRESCOS Bolsa,6.99
+Pote 1Kg,Yogurt Griego TIGO Frutos Rojos Pote 1kg,S/ 15.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,kg,Yogurt Griego TIGO Frutos Rojos Pote,15.49
+Bolsa 1Kg,Mix de Frutas Congeladas BELL'S Bolsa 1kg,S/ 12.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,kg,Mix de Frutas Congeladas BELL'S Bolsa,12.9
+Botella 950g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 9.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,950.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,9.5
+Paquete 6un,Bebida de Soya SOY VIDA Lata 390g Paquete 6un,S/ 15 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida de Soya SOY VIDA Lata  Paquete,15.0
+Bolsa 130g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol...,S/ 8.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,130.0,g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol,8.5
+Pote 200g,Mermelada de Frutos del Bosque Pote 200g,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,200.0,g,Mermelada de Frutos del Bosque Pote,4.5
+Botella 500ml,Bebida Rehidratante GATORADE Mandarina Botella...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,ml,Bebida Rehidratante GATORADE Mandarina Botella,2.0
+Sobre 14g,Bebida Instantánea en Polvo CLIGHT Sin Caloría...,S/ 2.30 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,14.0,g,Bebida Instantánea en Polvo CLIGHT Sin Caloría,2.3
+Tetrapack 946ml,Bebida de Almendra LAIVE Vio Tetrapack 946ml,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Almendra LAIVE Vio Tetrapack,9.9
+Paquete 12un,Bebida PULP Durazno Forti Hierro Caja 145ml Pa...,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,12.0,un,Bebida PULP Durazno Forti Hierro Caja  Pa,8.9
+Caja 946ml,Bebida de Coco y Vainilla NATURE'S HEART sin A...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Coco y Vainilla NATURE'S HEART sin A,10.99
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Sabores de mi...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,15.0,g,Bebida Instantánea en Polvo ZUKO Sabores de mi,1.2
+Caja 946ml,Bebida de Almendra NATURE'S HEART Vainilla Sin...,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Almendra NATURE'S HEART Vainilla Sin,10.99
+Frasco 160g,Yogurt Frutado DANLAC Frutos del Bosque Frasco...,S/ 4.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,160.0,g,Yogurt Frutado DANLAC Frutos del Bosque Frasco,4.2
+Lata 425g,Maíz Dulce FRUTO DE ORO Lata 425g,S/ 6.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,425.0,g,Maíz Dulce FRUTO DE ORO Lata,6.9
+Botella 1.7Kg,Yogurt Deslactosado YOLEIT Frutos del Bosque G...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.7,kg,Yogurt Deslactosado YOLEIT Frutos del Bosque G,9.9
+Paquete 4un,Bebida Rehidratante SUEROX Surtido Botella 630...,S/ 19.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,4.0,un,Bebida Rehidratante SUEROX Surtido Botella 630,19.5
+Caja 20un,Infusiones SAINT GOTTARD Surtido frutal Caja 2...,S/ 9.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,20.0,un,Infusiones SAINT GOTTARD Surtido frutal Caja 2,9.4
+Caja 20un,Infusiones SAINT GOTTARD Frutos del bosque Caj...,S/ 9.40 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,20.0,un,Infusiones SAINT GOTTARD Frutos del bosque Caj,9.4
+Botella 1.89L,Jugo de Fruta L'ONDA Cranberry con Splenda Bot...,S/ 18.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.89,l,Jugo de Fruta L'ONDA Cranberry con Splenda Bot,18.2
+Botella 3.03L,Bebida CIFRUT Citrus Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.03,l,Bebida CIFRUT Citrus Punch Botella,5.9
+Doypack 100g,Cebada Instantánea KIMBO Doypack 100g,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,100.0,g,Cebada Instantánea KIMBO Doypack,5.9
+Botella 1.5L,Bebida Rehidratante SPORADE Tropical Electroli...,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.5,l,Bebida Rehidratante SPORADE Tropical Electroli,5.5
+Caja 6un,Galletas con Quinua y Frutos Rojos INCASUR Caj...,S/ 9 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Galletas con Quinua y Frutos Rojos INCASUR Caj,9.0
+Botella 3.03L,Bebida CIFRUT Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.03,l,Bebida CIFRUT Fruit Punch Botella,5.9
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,840.0,g,Cereal ÁNGEL Trigo y Avena Frutas Doypack,21.9
+Caja 50un,Infusión de Frutos Rojos NATURE'S HEART Caja 5...,S/ 21 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,50.0,un,Infusión de Frutos Rojos NATURE'S HEART Caja 5,21.0
+Bolsa 1Kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa...,S/ 31.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,kg,Bebida Fortificante CHOCOLISTO Chocolate Bolsa,31.9
+Tetrapack 946ml,Bebida de Soya LAIVE Vio Tetrapack 946ml,S/ 7.60 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,946.0,ml,Bebida de Soya LAIVE Vio Tetrapack,7.6
+Paquete 6un,Bebida Láctea BONLÉ Defensis Lata 390g Paquete...,S/ 15 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida Láctea BONLÉ Defensis Lata  Paquete,15.0
+Bandeja 500g,Ensalada Rusa BELL'S Bandeja 500g,S/ 9.49 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,g,Ensalada Rusa BELL'S Bandeja,9.49
+Paquete 6un,Bebida PULP Durazno Caja 315ml Paquete 6un,S/ 8.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,6.0,un,Bebida PULP Durazno Caja  Paquete,8.9
+Botella 3L,Bebida FRUGOS DEL VALLE Fruit Punch Botella 3L,S/ 5.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.0,l,Bebida FRUGOS DEL VALLE Fruit Punch Botella,5.9
+Paquete 3un,Combo Pollo Rostizado + Papas Fritas + Chicha ...,S/ 32.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,3.0,un,Combo Pollo Rostizado + Papas Fritas + Chicha,32.9
+Frasco 164g,Cebada Instantánea KIMBO Frasco 164g,S/ 9.10 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,164.0,g,Cebada Instantánea KIMBO Frasco,9.1
+Botella 0.95L,Bebida de Coco NATURES HEART sin Azúcar Botell...,S/ 10.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,0.95,l,Bebida de Coco NATURES HEART sin Azúcar Botell,10.5
+Bolsa 900ml,Bebida de Leche Chocolatada LAIVE Bolsa 900ml,S/ 5.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,900.0,ml,Bebida de Leche Chocolatada LAIVE Bolsa,5.5
+Botella 625ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,625.0,ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Bote,2.2
+Caja 20un,Infusión NATURE'S HEART Frutas Tropicales Caja...,S/ 9.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,20.0,un,Infusión NATURE'S HEART Frutas Tropicales Caja,9.9
+Bandeja 500g,Ensalada Mixta BELL'S Bandeja 500g,S/ 10.99 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,g,Ensalada Mixta BELL'S Bandeja,10.99
+Paquete 1un,Porción de Papas Fritas,S/ 7.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,un,Porción de Papas Fritas,7.5
+Caja 1L,Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,l,Bebida FRUGOS Mango y Fresa Caja,4.5
+Caja 970ml,Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,970.0,ml,Bebida FRUGOS Sabor a Mango Caja,3.9
+Paquete 2un,2 Pollos Rostizados + 2 Papas Fritas,S/ 54.90 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,2.0,un,2 Pollos Rostizados + 2 Papas Fritas,54.9
+Botella 1Kg,Yogurt Deslactosado YOLEIT Frutos del Bosque B...,S/ 6.50 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,1.0,kg,Yogurt Deslactosado YOLEIT Frutos del Bosque B,6.5
+Botella 500ml,Bebida Rehidratante GATORADE Tropical Fruit Bo...,S/ 2 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Bo,2.0
+Botella 180g,Yogurt Descremado GLORIA Slim Triple Cero Frut...,S/ 2.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,180.0,g,Yogurt Descremado GLORIA Slim Triple Cero Frut,2.2
+Bolsa 400g,Mix Ensalada Precocida Congelada GREEN FOOD Bo...,S/ 8.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,400.0,g,Mix Ensalada Precocida Congelada GREEN FOOD Bo,8.2
+Sobre 15g,Bebida Instantánea en Polvo ZUKO Naranja Sobre...,S/ 1.20 un,plaza_vea,BEBIDA DE FRUTA ENVASADA,2024-12-05 16:09:25.843499,15.0,g,Bebida Instantánea en Polvo ZUKO Naranja Sobre,1.2

@@ -1,0 +1,26 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+CUCHARA DULCERA AMARILLO X20UN,S/ 4.11,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,CUCHARA DULCERA AMARILLO X,4.11,tottus,DARNEL,ARROZ A GRANEL
+CUCHILLO SERIES VERDE X20 UN,S/ 4.40,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,CUCHILLO SERIES VERDE X,4.4,tottus,DARNEL,ARROZ A GRANEL
+CUCHILLO AMARILLO VIVO X 20UN,S/ 4.40,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,CUCHILLO AMARILLO VIVO X,4.4,tottus,DARNEL,ARROZ A GRANEL
+CUCHILLO ROJO BISTROT X 20UN,S/ 4.40,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,CUCHILLO ROJO BISTROT X,4.4,tottus,DARNEL,ARROZ A GRANEL
+TENEDOR SERIES VERDE VIVO X 20 UN,S/ 4.50,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,TENEDOR SERIES VERDE VIVO X,4.5,tottus,DARNEL,ARROZ A GRANEL
+TENEDOR BISTROT AMARILLO X20UN,S/ 4.50,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,TENEDOR BISTROT AMARILLO X,4.5,tottus,DARNEL,ARROZ A GRANEL
+TENEDOR ROJO BISTROT X 20UN,S/ 4.50,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,20.0,un,TENEDOR ROJO BISTROT X,4.5,tottus,DARNEL,ARROZ A GRANEL
+Arroz Extra VALLENORTE Gran Reserva Bolsa 750g,S/ 4.80,vivanda,ARROZ A GRANEL,2024-12-05 21:27:41.856909,750.0,g,Arroz Extra VALLENORTE Gran Reserva Bolsa,4.8,vivanda,VALLENORTE,ARROZ A GRANEL
+Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.80,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,750.0,g,Arroz Gran Reserva Extra Valle Norte Bolsa,4.8,metro,,ARROZ A GRANEL
+Arroz Superior Gran Chalán 750g,S/ 4.90,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,750.0,g,Arroz Superior Gran Chalán,4.9,metro,,ARROZ A GRANEL
+Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.90,wong,ARROZ A GRANEL,2024-12-05 17:28:21.485734,750.0,g,Arroz Gran Reserva Extra Valle Norte Bolsa,4.9,wong,,ARROZ A GRANEL
+Arroz Extra Gran Chalán 750g,S/ 5.10,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,750.0,g,Arroz Extra Gran Chalán,5.1,metro,,ARROZ A GRANEL
+Té Verde 100 g,S/ 12.26,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,100.0,g,Té Verde,12.26,tottus,SCHAGREEN,ARROZ A GRANEL
+Cajonazo Naranja de Jugo Extra 10 Kg,S/ 15,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,10.0,kg,Cajonazo Naranja de Jugo Extra,15.0,tottus,GRANEL,ARROZ A GRANEL
+Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,wong,ARROZ A GRANEL,2024-12-05 17:28:21.485734,500.0,g,Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet,15.2,wong,,ARROZ A GRANEL
+Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,500.0,g,Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet,15.2,metro,,ARROZ A GRANEL
+Arroz Superior Gran Chalán 5kg,S/ 23.49,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,5.0,kg,Arroz Superior Gran Chalán,23.49,metro,,ARROZ A GRANEL
+Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 25.49,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,25.49,metro,,ARROZ A GRANEL
+Arroz Extra Gran Chalán 5kg,S/ 25.90,metro,ARROZ A GRANEL,2024-12-05 15:01:30.543681,5.0,kg,Arroz Extra Gran Chalán,25.9,metro,,ARROZ A GRANEL
+Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 26.50,wong,ARROZ A GRANEL,2024-12-05 17:28:21.485734,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,26.5,wong,,ARROZ A GRANEL
+Arroz Extra VALLENORTE Gran Reserva Bolsa 5Kg,S/ 27.50,vivanda,ARROZ A GRANEL,2024-12-05 21:27:41.856909,5.0,kg,Arroz Extra VALLENORTE Gran Reserva Bolsa,27.5,vivanda,VALLENORTE,ARROZ A GRANEL
+Cajonazo de Papa Canchan 10 kg,S/ 28.90,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,10.0,kg,Cajonazo de Papa Canchan,28.9,tottus,GRANEL,ARROZ A GRANEL
+Cajonazo Papa Yungay 10 kg,S/ 28.90,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,10.0,kg,Cajonazo Papa Yungay,28.9,tottus,GRANEL,ARROZ A GRANEL
+Cajonazo de Maracuya 6 kg,S/ 36,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,6.0,kg,Cajonazo de Maracuya,36.0,tottus,GRANEL,ARROZ A GRANEL
+Cajonazo Cebolla Roja 10 kg,S/ 37.80,tottus,ARROZ A GRANEL,2024-12-05 11:08:23.566991,10.0,kg,Cajonazo Cebolla Roja,37.8,tottus,GRANEL,ARROZ A GRANEL
