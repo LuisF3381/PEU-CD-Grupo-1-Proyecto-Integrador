@@ -15,7 +15,7 @@ BASE_HEADER = {
     "x-nextjs-data": "1",
     "Referer": "https://www.rappi.com.pe/tiendas/tipo/market",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
 }
 RAPPI_ACCESS_HEADER = {
     "accept": "*/*",
@@ -31,7 +31,7 @@ RAPPI_ACCESS_HEADER = {
     "sec-fetch-site": "cross-site",
     "Referer": "https://www.rappi.com.pe/",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
 }
 
 MAX_WORKERS = 4
@@ -52,7 +52,7 @@ MARKETS = {
 }
 API_URL_GUEST = "https://services.rappi.pe/api/rocket/v2/guest"
 API_URL_GUEST_PASSPORT = "https://services.rappi.pe/api/rocket/v2/guest/passport/"
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 3
 TIME_BETWEEN_ATTEMPS = 5
 CATEGORY_HEADER = {
     "accept": "*/*",
@@ -69,7 +69,7 @@ CATEGORY_HEADER = {
     "x-nextjs-data": "1",
     "Referer": "https://www.rappi.com.pe/tiendas/{0}",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
 }
 MARKET_PRODUCTS_HEADER = {
     "accept": "application/json",
@@ -92,7 +92,7 @@ MARKET_PRODUCTS_HEADER = {
     "sec-fetch-site": "cross-site",
     "Referer": "https://www.rappi.com.pe/",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
 }
 
 PRODUCT_HEADER_REFERER = "https://www.rappi.com.pe/tiendas/{0}"
@@ -119,6 +119,25 @@ MARKET_INFO_DICT = {
         "stores": [22885],
     },
 }
+NO_AYB_CATEGORIES = [
+    "Vinos Y Licores",
+    "Cigarrillos Y Vaporizadores",
+    "Limpieza Del Hogar",
+    "Farmacia",
+    "Cervezas",
+    "Mascotas",
+    "Combos",
+    "Otros",
+    "Licores",
+    "Cuidado Del Hogar",
+    "Placeres Dulces",
+    "Cuidado Personal",
+    "Vinos Y Espumantes",
+    "Cuidado Del Bebé",
+    "Cuidado De La Piel",
+    "Hogar Y Vehículos",
+    "Cuidado Capilar",
+]
 PRODUCTS_VARIABLES = {
     "limit": 50,
     "offset": 0,
@@ -157,7 +176,7 @@ class RappiCrawler:
         ]["aisles_tree_response"]["data"]["components"]
         return {
             market_id: {
-                "market_name": self.market_dict[market_id],
+                "market_name": self.market_dict[market_id].title(),
                 "category_list": market_categories_list,
             }
         }
@@ -185,18 +204,18 @@ class RappiCrawler:
             subcategories = response["pageProps"]["fallback"][
                 f"storefront/{market_id}/{market_cat_id}"
             ]["sub_aisles_response_extras"]["aisle"]["categories"]
+            subcategories = [
+                subcategory for subcategory in subcategories if len(subcategory) > 0
+            ]
         except Exception as e:
-            print(response)
-
-            raise Exception(e)
-
+            print(market_id, market_cat_id, market_cat_url)
+            raise e
         return list(
             THREAD.map(
                 lambda x: {
                     "Market_cat_url": market_cat_url,
                     "Market_subcat_id": x["id"],
                     "Market_subcat_name": x["name"],
-                    "Market_count": x["product_count"],
                 },
                 subcategories,
             )
@@ -239,7 +258,9 @@ class RappiCrawler:
                 market_cat_info_list.extend(market_future.result())
 
         self.df_market = pd.DataFrame(market_cat_info_list)
-
+        self.df_market = self.df_market[
+            ~self.df_market["Market_cat_name"].isin(NO_AYB_CATEGORIES)
+        ]
         market_subcat_info_list = []
         with ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
             market_futures = [
@@ -265,6 +286,7 @@ class RappiCrawler:
         self.df_market["Market_subcat_id"] = self.df_market["Market_subcat_id"].astype(
             str
         )
+        self.df_market.to_csv("Lista_subcats_market.csv", index=False, na_rep="None")
 
 
 class RappiScraper:
@@ -306,17 +328,29 @@ class RappiScraper:
                     headers=self.market_products_header,
                     json=current_variable,
                 ).json()
+
             except JSONDecodeError:
-                print(self.market_products_header)
+                sleep(1)
                 current_attempt += 1
             else:
-                break
-        return {
-            "Market_id": market_id,
-            "Market_cat_number": category_id,
-            "Market_subcat_id": subcategory_id,
-            "data": response["data"]["components"],
-        }
+                response = response["data"]["components"]
+                if len(response) <= 0:
+                    current_attempt += 1
+                else:
+                    break
+        try:
+            return {
+                "Market_id": market_id,
+                "Market_cat_number": category_id,
+                "Market_subcat_id": subcategory_id,
+                "data": response,
+            }
+        except Exception as e:
+            print(
+                self.market_products_header,
+                current_variable,
+            )
+            raise e
 
     def extract_market_products(self, market_subcat_info):
         subcat_id = market_subcat_info["Market_subcat_id"]
@@ -371,6 +405,7 @@ class RappiScraper:
             ]
             for market_future in as_completed(market_futures):
                 list_products.extend(market_future.result())
+        print(len(list_products))
         self.data = pd.DataFrame(list_products)
 
     def process_data(self):
@@ -380,13 +415,25 @@ class RappiScraper:
             "left",
             ["Market_id", "Market_cat_number", "Market_subcat_id"],
         )
-        self.data = self.data.drop(["Market_id", "Market_cat_number", "Market_cat_id", "Market_cat_url", "Market_subcat_id"], axis=1)
+        self.data = self.data.drop(
+            [
+                "Market_id",
+                "Market_cat_number",
+                "Market_cat_id",
+                "Market_cat_url",
+                "Market_subcat_id",
+            ],
+            axis=1,
+        )
+        self.data = self.data[self.data["Product_is_available"]]
         self.data["Product_name"] = self.data["Product_name"].replace(
             to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
         )
         self.data["Product_description"] = self.data["Product_description"].replace(
             to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
         )
+        self.data = self.data.drop_duplicates()
+        self.data.reset_index(drop=True, inplace=True)
 
     def save_data(self):
         if len(self.data) > 0:
