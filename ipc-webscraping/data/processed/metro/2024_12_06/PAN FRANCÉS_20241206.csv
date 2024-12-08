@@ -1,0 +1,4 @@
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Pan Francés Precocido Cuisine & Co 6un,S/ 5.52,metro,PAN FRANCÉS,2024-12-06 17:35:25.185951,6.0,un,Pan Francés Precocido Cuisine & Co,5.52
+Pan Francés Especial 5un,S/ 3.90,metro,PAN FRANCÉS,2024-12-06 17:35:25.185951,5.0,un,Pan Francés Especial,3.9
+Pan Francés Precocido 10un,S/ 5.90,metro,PAN FRANCÉS,2024-12-06 17:35:25.185951,10.0,un,Pan Francés Precocido,5.9

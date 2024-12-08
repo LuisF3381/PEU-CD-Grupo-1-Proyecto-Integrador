@@ -1,0 +1,7 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1.5 kg aprox.,Zapallo Macre,S/ 1.99 x kg,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,1.5,kg,Zapallo Macre,1.99
+Paquete 1un,Zapallo Italiano x unidad,S/ 1.99 un,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,1.0,un,Zapallo Italiano ad,1.99
+Paquete 1un,Caigua x unidad,S/ 0.99 un,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,1.0,un,Caigua ad,0.99
+Paquete 1un,Berenjena un,S/ 2.99 un,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,1.0,un,Berenjena un,2.99
+Presentación 0.4 kg aprox.,Zapallo Loche,S/ 18.99 x kg,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,0.4,kg,Zapallo Loche,18.99
+Paquete 1un,Caigua Chilena x un,S/ 2.99 un,plaza_vea,ZAPALLO MACRE,2024-12-07 14:03:11.020308,1.0,un,Caigua Chilena,2.99

@@ -1,158 +1,18 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Agua de Mesa San Carlos Botella 500ml,S/ 0.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,ml,Agua de Mesa San Carlos Botella,0.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN CARLOS sin Gas Botella 500ml,S/ 1.20,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,500.0,ml,Agua SAN CARLOS sin Gas Botella,1.2,vega,,San Carlos,HARINA DE TRIGO SIN PREPARAR
-Harina BENOTI Sin Prepar Paquete 180 gr,S/ 1.20,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,180.0,g,Harina BENOTI Sin Prepar Paquete r,1.2,vega,,Benoti,HARINA DE TRIGO SIN PREPARAR
-Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,180.0,g,Harina GRANO DE ORO Sin Preparar Paquete r,1.3,vega,,Grano De Oro,HARINA DE TRIGO SIN PREPARAR
-Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 1.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,750.0,ml,Agua de Mesa Sin Gas San Luis Botella,1.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua con Gas Mineral San Mateo Botella 600ml,S/ 1.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,600.0,ml,Agua con Gas Mineral San Mateo Botella,1.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 2.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,625.0,ml,Bebida Sabor Piña con Kión San Luis Botella,2.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Bebida de Agua San Luis Sabor Limón Botella 625ml,S/ 2.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,625.0,ml,Bebida de Agua San Luis Sabor Limón Botella,2.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo mote VEGA Bolsa 400g,S/ 2.60,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,400.0,g,Trigo mote VEGA Bolsa,2.6,vega,,Vega,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Tesoro del Campo 350g,S/ 2.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,350.0,g,Trigo Mote Tesoro del Campo,2.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua de Mesa Con Gas San Luis Botella 2.5L,S/ 2.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.5,l,Agua de Mesa Con Gas San Luis Botella,2.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 2.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.5,l,Agua de Mesa Sin Gas San Luis Botella,2.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN CARLOS sin Gas Botella 3L,S/ 3.00,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,3.0,l,Agua SAN CARLOS sin Gas Botella,3.0,vega,,San Carlos,HARINA DE TRIGO SIN PREPARAR
-Agua Sin Gas Mineral San Mateo Botella 2.5 L,S/ 3.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.5,l,Agua Sin Gas Mineral San Mateo Botella,3.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua sin Gas San Carlos Botella 3 L,S/ 3.30,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,3.0,l,Agua sin Gas San Carlos Botella,3.3,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Expandido Azucarado Cuisine & Co Clásico 120g,S/ 3.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,120.0,g,Trigo Expandido Azucarado Cuisine & Co Clásico,3.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Expandido Azucarado Cuisine & Co Clásico 120g,S/ 3.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,120.0,g,Trigo Expandido Azucarado Cuisine & Co Clásico,3.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Cuisine & Co 500g,S/ 3.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Trigo Mote Cuisine & Co,3.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Tesoro Del Campo Bolsa 500 g,S/ 3.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Trigo Mote Tesoro Del Campo Bolsa,3.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Maxima Bolsa 500 g,S/ 3.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Trigo Mote Maxima Bolsa,3.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo con Miel Vita Plus Bolsa 140 gr,S/ 3.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,140.0,g,Trigo con Miel Vita Plus Bolsa r,3.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo con Miel Vita Plus Bolsa 140 gr,S/ 3.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,140.0,g,Trigo con Miel Vita Plus Bolsa r,3.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Cuisine & Co 500g,S/ 3.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Trigo Mote Cuisine & Co,3.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Tesoro Del Campo Bolsa 500 g,S/ 3.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Trigo Mote Tesoro Del Campo Bolsa,3.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Nuclear Light 110 g,S/ 4.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,110.0,g,Trigo Nuclear Light,4.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Atómico Dorado Con Maca Golpe Forte Bolsa 125 g,S/ 4.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,125.0,g,Trigo Atómico Dorado Con Maca Golpe Forte Bolsa,4.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Atómico Dorado Con Maca Golpe Forte Bolsa 125 g,S/ 4.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,125.0,g,Trigo Atómico Dorado Con Maca Golpe Forte Bolsa,4.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Atómico Original Forte Golpe Bolsa 125 g,S/ 4.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,125.0,g,Trigo Atómico Original Forte Golpe Bolsa,4.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Atómico Original Forte Golpe Bolsa 125 g,S/ 4.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,125.0,g,Trigo Atómico Original Forte Golpe Bolsa,4.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Atómico Forte Golpe Light con Soya Forte Golpe 100 g,S/ 4.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,100.0,g,Trigo Atómico Forte Golpe Light con Soya Forte Golpe,4.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Costeño 500g,S/ 4.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Trigo Mote Costeño,4.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Favorita 1kg,S/ 4.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Sin Preparar Favorita,4.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Trigo Mote Costeño 500g,S/ 4.60,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Trigo Mote Costeño,4.6,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Favorita 1kg,S/ 5.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Sin Preparar Favorita,5.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina BENOTI Sin Preparar Paquete 1Kg,S/ 5.30,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina BENOTI Sin Preparar Paquete,5.3,vega,,Benoti,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Nicolini 1kg,S/ 6.10,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Sin Preparar Nicolini,6.1,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Nicolini 1kg,S/ 6.10,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Sin Preparar Nicolini,6.1,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Preparada Favorita 1kg,S/ 6.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Preparada Favorita,6.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina MOLITALIA sin Preparar Bolsa 1kg,S/ 6.20,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina MOLITALIA sin Preparar Bolsa,6.2,vega,,Molitalia,HARINA DE TRIGO SIN PREPARAR
-Harina GRANO DE ORO Preparada Paquete 1kg,S/ 6.30,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina GRANO DE ORO Preparada Paquete,6.3,vega,,Grano De Oro,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa 1kg,S/ 6.30,vivanda,HARINA DE TRIGO SIN PREPARAR,2024-12-04 17:13:37.449434,1.0,kg,Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa,6.3,vivanda,,MOLITALIA,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Molitalia 1kg,S/ 6.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Sin Preparar Molitalia,6.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo sin Preparar MOLITALIA sin Pre...,S/ 6.50 un,plaza_vea,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:54:23.175018,1.0,kg,Harina de Trigo sin Preparar MOLITALIA sin Pre,6.5,plaza_vea,Bolsa 1kg,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Grano de Oro Paquete 1 kg,S/ 6.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Sin Preparar Grano de Oro Paquete,6.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina sin Preparar 1 kg,S/ 6.60,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,1.0,kg,Harina sin Preparar,6.6,tottus,,MOLITALIA,HARINA DE TRIGO SIN PREPARAR
-Harina Cuisine & Co Preparada Bolsa 1 Kg,S/ 6.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Cuisine & Co Preparada Bolsa,6.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Cuisine & Co Sin Preparar Bolsa 1 Kg,S/ 6.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Cuisine & Co Sin Preparar Bolsa,6.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina MOLITALIA Preparada Bolsa 1kg,S/ 6.90,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina MOLITALIA Preparada Bolsa,6.9,vega,,Molitalia,HARINA DE TRIGO SIN PREPARAR
-Harina sin Preparar 1 kg,S/ 6.90,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,1.0,kg,Harina sin Preparar,6.9,tottus,,TOTTUS,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo Preparada Nicolini 1kg,S/ 6.99,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina de Trigo Preparada Nicolini,6.99,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Preparada Molitalia 1kg,S/ 6.99,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Preparada Molitalia,6.99,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Linaza Bolsa 200 g,S/ 7.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina de Linaza Bolsa,7.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Hamburguesa de Carne x un,S/ 7.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,un,Hamburguesa de Carne,7.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Molitalia 1kg,S/ 7.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Sin Preparar Molitalia,7.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Blanca Flor 1kg,S/ 7.60,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Sin Preparar Blanca Flor,7.6,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Sin Preparar Blanca Flor 1kg,S/ 7.60,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Sin Preparar Blanca Flor,7.6,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo Integral Doypack 500 g,S/ 7.70,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Harina de Trigo Integral Doypack,7.7,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Preparada Molitalia 1kg,S/ 7.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Preparada Molitalia,7.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Gaseosa Inca Kola Sin Azúcar Botella 2.25 Lt,S/ 7.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.25,l,Gaseosa Inca Kola Sin Azúcar Botella t,7.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,12.0,un,Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete,7.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,12.0,un,Tortillas de Trigo Integrales Rapiditas Bimbo Paquete,7.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo Integral Doypack 500 g,S/ 7.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Harina de Trigo Integral Doypack,7.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina BLANCA FLOR Preparada Paquete 1Kg,S/ 8.00,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina BLANCA FLOR Preparada Paquete,8.0,vega,,Blanca Flor,HARINA DE TRIGO SIN PREPARAR
-Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,S/ 8.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina de Maiz Blanco Precocida P.A.N Contenido,8.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,S/ 8.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina de Maiz Blanco Precocida P.A.N Contenido,8.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Preparada Blanca Flor 1kg,S/ 8.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina Preparada Blanca Flor,8.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maíz Amarillo P.A.N 1kg,S/ 8.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina de Maíz Amarillo P.A.N,8.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,,P.A.N.,HARINA DE TRIGO SIN PREPARAR
-Harina de Maíz Amarillo P.A.N 1kg,S/ 8.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina de Maíz Amarillo P.A.N,8.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN MATEO sin Gas Bidón 7L,S/ 8.90,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,7.0,l,Agua SAN MATEO sin Gas Bidón,8.9,vega,,San Mateo,HARINA DE TRIGO SIN PREPARAR
-Harina Preparada Blanca Flor 1kg,S/ 8.99,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina Preparada Blanca Flor,8.99,wong,,,HARINA DE TRIGO SIN PREPARAR
-Agua Sin Gas Mineral San Mateo Bidón 7 L,S/ 9.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,7.0,l,Agua Sin Gas Mineral San Mateo Bidón,9.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Yuca Marimiel 200 g,S/ 9.10,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina de Yuca Marimiel,9.1,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Arroz Costeño 1 g,S/ 9.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,g,Harina de Arroz Costeño,9.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina 7 Semillas Doypack 200 g,S/ 9.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina 7 Semillas Doypack,9.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maíz Blanco Precocida Doñarepa 1kg,S/ 9.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina de Maíz Blanco Precocida Doñarepa,9.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maíz Blanco Precocida Doñarepa 1kg,S/ 9.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina de Maíz Blanco Precocida Doñarepa,9.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Gaseosa Coca Cola Sin Azúcar Botella 300ml,S/ 10.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,300.0,ml,Sixpack Gaseosa Coca Cola Sin Azúcar Botella,10.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Gaseosa Inca Kola Sin Azúcar Botella 300ml,S/ 10.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,300.0,ml,Sixpack Gaseosa Inca Kola Sin Azúcar Botella,10.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Avena sin Gluten Mi Tierra Bolsa 400 g,S/ 10.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,400.0,g,Harina de Avena sin Gluten Mi Tierra Bolsa,10.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua Sin Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,6.0,un,Agua Sin Gas Mineral San Mateo Pack ades de  c/u,10.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua Con Gas Mineral San Mateo Pack 6 Unidades de 600 ml c/u,S/ 10.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,6.0,un,Agua Con Gas Mineral San Mateo Pack ades de  c/u,10.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Agua Sin Gas Sabor Limón San Luis Botella 625ml,S/ 11.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,625.0,ml,Sixpack Agua Sin Gas Sabor Limón San Luis Botella,11.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Yogurt Griego Tigo Sabor Natural Sin Azúcar 500g,S/ 11.10,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,g,Yogurt Griego Tigo Sabor Natural Sin Azúcar,11.1,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Coco Sin Gluten Mi Tierra Bolsa 400 g,S/ 11.70,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,400.0,g,Harina de Coco Sin Gluten Mi Tierra Bolsa,11.7,wong,,,HARINA DE TRIGO SIN PREPARAR
-Twopack Gaseosa Coca Cola Sin Azúcar Botella 1.5L,S/ 11.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.5,l,Twopack Gaseosa Coca Cola Sin Azúcar Botella,11.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Avena sin Gluten Mi Tierra Bolsa 400 g,S/ 11.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,400.0,g,Harina de Avena sin Gluten Mi Tierra Bolsa,11.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Pack Gaseosa: Coca Cola Sin Azúcar 1.5L + Inca Kola Sin Azúcar 1.5L,S/ 11.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.5,l,Pack Gaseosa: Coca Cola Sin Azúcar  + Inca Kola Sin Azúcar,11.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Ostras Vivas x un,S/ 11.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,un,Ostras Vivas,11.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Tostada de 7 Semillas Perú Inka 400g,S/ 12.40,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,400.0,g,Harina Tostada de 7 Semillas Perú Inka,12.4,wong,,,HARINA DE TRIGO SIN PREPARAR
-Queso Edam Laive Sin Lactosa 180g,S/ 13.10,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,180.0,g,Queso Edam Laive Sin Lactosa,13.1,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo Integral Doypack 1 kg,S/ 13.30,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Harina de Trigo Integral Doypack,13.3,metro,,,HARINA DE TRIGO SIN PREPARAR
-Pan de Molde Don Mamino Blanco Sin Corteza Bolsa 560 g,S/ 13.70,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,560.0,g,Pan de Molde Don Mamino Blanco Sin Corteza Bolsa,13.7,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua Sin Gas San Carlos Pack 20 Unidades de 500ml c/u,S/ 13.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,20.0,un,Agua Sin Gas San Carlos Pack ades de  c/u,13.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Pack x24 Botellas Agua Cielo 350ml,S/ 13.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,350.0,ml,Pack x24 Botellas Agua Cielo,13.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Trigo Integral Doypack 1 kg,S/ 14.20,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Harina de Trigo Integral Doypack,14.2,wong,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Agua de Mesa Sin Gas San Luis Botella 2.5L,S/ 14.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.5,l,Sixpack Agua de Mesa Sin Gas San Luis Botella,14.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Agua Sin Gas Cielo 2.5L,S/ 14.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,2.5,l,Sixpack Agua Sin Gas Cielo,14.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Gaseosa Coca Cola Sin Azúcar Botella 500ml Pack 6un,S/ 15.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,500.0,ml,Gaseosa Coca Cola Sin Azúcar Botella  Pack,15.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Twopack Agua Sin Gas Cielo Bidón 7L,S/ 15.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,7.0,l,Twopack Agua Sin Gas Cielo Bidón,15.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Soya Cruda Bolsa 500 g,S/ 15.40,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Harina de Soya Cruda Bolsa,15.4,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Soya Tostada Renacer Bolsa 500 g,S/ 15.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Harina de Soya Tostada Renacer Bolsa,15.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Coco Orgánico Cuisine & Co 350g,S/ 15.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,350.0,g,Harina de Coco Orgánico Cuisine & Co,15.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Coco Orgánico Cuisine & Co 350g,S/ 15.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,350.0,g,Harina de Coco Orgánico Cuisine & Co,15.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Pan de Molde Blanco Sin Corteza Bimbo 650g,S/ 15.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,650.0,g,Pan de Molde Blanco Sin Corteza Bimbo,15.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Yogurt Griego Sin Azúcar Tigo Premium 1kg,S/ 16.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Yogurt Griego Sin Azúcar Tigo Premium,16.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,S/ 16.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,l,Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja,16.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Siete Semilla Naturandes Chocolate 200 g,S/ 16.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina Siete Semilla Naturandes Chocolate,16.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Pre Tostada Especial Renacer 500 g,S/ 16.90,tottus,HARINA DE TRIGO SIN PREPARAR,2024-12-04 12:58:11.491695,500.0,g,Harina Pre Tostada Especial Renacer,16.9,tottus,,GENERICO,HARINA DE TRIGO SIN PREPARAR
-Harina Devil'S Foodcake Duncan Hines 432g,S/ 16.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,432.0,g,Harina Devil'S Foodcake Duncan Hines,16.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Siete Semilla Naturandes Chocolate 200 g,S/ 16.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,200.0,g,Harina Siete Semilla Naturandes Chocolate,16.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Naturandes Siete Semilla Natural Vainilla 200 g,S/ 16.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,200.0,g,Harina Naturandes Siete Semilla Natural Vainilla,16.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maca Bolsa 200 g,S/ 16.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina de Maca Bolsa,16.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Classic Yellow Duncan Hines 432g,S/ 17.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,432.0,g,Harina Classic Yellow Duncan Hines,17.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maca Bolsa 200 g,S/ 17.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,200.0,g,Harina de Maca Bolsa,17.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN MATEO Sin Gas Paquete 6 Botella 2.5L,S/ 17.70 8%,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,2.5,l,Agua SAN MATEO Sin Gas Paquete 6 Botella,17.7,vega,,San Mateo,HARINA DE TRIGO SIN PREPARAR
-Pack x15 Agua de Mesa Sin Gas San Luis Botella 750ml,S/ 17.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,750.0,ml,Pack x15 Agua de Mesa Sin Gas San Luis Botella,17.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Twopack Bebida de Almendra Nature's Heart Sin Azúcar Caja 946ml,S/ 18.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,946.0,ml,Twopack Bebida de Almendra Nature's Heart Sin Azúcar Caja,18.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Ajos sin Pelar x kg,S/ 18.99 x kg,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Ajos sin Pelar,18.99,metro,,,HARINA DE TRIGO SIN PREPARAR
-Ajos Enteros sin Pelar x kg,S/ 18.99 x kg,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Ajos Enteros sin Pelar,18.99,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN CARLOS Sin Gas Caja 20 Lt,S/ 19.00,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,20.0,l,Agua SAN CARLOS Sin Gas Caja t,19.0,vega,,San Carlos,HARINA DE TRIGO SIN PREPARAR
-Agua San Carlos Caja 20 Litros,S/ 19.20,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,20.0,l,Agua San Carlos Caja itros,19.2,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina French Vainilla Duncan Hines 432g,S/ 20.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,432.0,g,Harina French Vainilla Duncan Hines,20.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Lemon Supreme Duncan Hines 432g,S/ 20.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,432.0,g,Harina Lemon Supreme Duncan Hines,20.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina French Vainilla Duncan Hines 432g,S/ 20.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,432.0,g,Harina French Vainilla Duncan Hines,20.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Coco Orgánico Peruvian Health 450g,S/ 20.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,450.0,g,Harina de Coco Orgánico Peruvian Health,20.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Leche Concentrada Sin Lactosa Laive Botella 400g,S/ 22.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,400.0,g,Sixpack Leche Concentrada Sin Lactosa Laive Botella,22.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua SAN MATEO Sin Gas Botella 600ml,S/ 22.50,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,600.0,ml,Agua SAN MATEO Sin Gas Botella,22.5,vega,,San Mateo,HARINA DE TRIGO SIN PREPARAR
-Fourpack Leche Semidescremada UHT Laive Sin Lactosa Light Caja 946ml,S/ 23.10,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,946.0,ml,Fourpack Leche Semidescremada UHT Laive Sin Lactosa Light Caja,23.1,metro,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Leche Ultrafiltrada Sin Lactosa Gloria Zero Lacto Lata 390g,S/ 23.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,390.0,g,Sixpack Leche Ultrafiltrada Sin Lactosa Gloria Zero Lacto Lata,23.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Pack x6 Mezcla Láctea Laive Sin Lactosa 480g,S/ 23.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,480.0,g,Pack x6 Mezcla Láctea Laive Sin Lactosa,23.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Sixpack Leche Light Laive Sin Lactosa Botella 390g,S/ 23.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,390.0,g,Sixpack Leche Light Laive Sin Lactosa Botella,23.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maca Orgánica Inka Forest Doypack 200 g,S/ 24.10,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,200.0,g,Harina de Maca Orgánica Inka Forest Doypack,24.1,wong,,,HARINA DE TRIGO SIN PREPARAR
-Agua de Mesa Sin Gas San Luis Caja 20L,S/ 24.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,20.0,l,Agua de Mesa Sin Gas San Luis Caja,24.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Agua Sin Gas Cielo Caja 20 L,S/ 25.00,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,20.0,l,Agua Sin Gas Cielo Caja,25.0,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Brownie Caramel Duncan Hines 498g,S/ 26.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,498.0,g,Harina Brownie Caramel Duncan Hines,26.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Arroz Sin Gluten Bob's Red Mill Bolsa 680 g,S/ 27.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,680.0,g,Harina de Arroz Sin Gluten Bob's Red Mill Bolsa,27.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina Brownie Caramel Duncan Hines 498g,S/ 27.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,498.0,g,Harina Brownie Caramel Duncan Hines,27.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Yuca Sin Gluten Bob's Red Mill Doypack 454 g,S/ 27.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,454.0,g,Harina de Yuca Sin Gluten Bob's Red Mill Doypack,27.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maca Negra Doypack 200 g,S/ 29.40,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina de Maca Negra Doypack,29.4,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina Naturandes de Siete Semillas Clásico 460g,S/ 29.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,460.0,g,Harina Naturandes de Siete Semillas Clásico,29.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Sets Shots House Of The Dragon 45ml,S/ 29.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,45.0,ml,Sets Shots House Of The Dragon,29.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Maca Negra Doypack 200 g,S/ 30.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,200.0,g,Harina de Maca Negra Doypack,30.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Quinua Renacer Bolsa 500 g,S/ 30.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,500.0,g,Harina de Quinua Renacer Bolsa,30.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Mantequilla Sin Sal Arias 235g,S/ 32.80,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,235.0,g,Mantequilla Sin Sal Arias,32.8,metro,,,HARINA DE TRIGO SIN PREPARAR
-Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar 1.5L,S/ 33.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.5,l,Pollo Rostizado + Papas Fritas + Gaseosa Inca Kola Sin Azúcar,33.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Almendras Marimiel Doypack 200 g,S/ 36.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,200.0,g,Harina de Almendras Marimiel Doypack,36.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Harina De Maca Naturandes Frasco 340 g,S/ 38.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,340.0,g,Harina De Maca Naturandes Frasco,38.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Panceta de Cerdo en Tiras Sin Piel y con Hueso San Fernando x kg,S/ 41.90 x kg,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Panceta de Cerdo en Tiras Sin Piel y con Hueso San Fernando,41.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Panceta de Cerdo en Tiras con Piel y Sin Hueso San Fernando x kg,S/ 43.90 x kg,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,1.0,kg,Panceta de Cerdo en Tiras con Piel y Sin Hueso San Fernando,43.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Twopack Agua de Mesa Sin Gas San Luis Caja 20L,S/ 45.90,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,20.0,l,Twopack Agua de Mesa Sin Gas San Luis Caja,45.9,metro,,,HARINA DE TRIGO SIN PREPARAR
-Crocante de Manzana Joopas 1kg,S/ 52.50,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,1.0,kg,Crocante de Manzana Joopas,52.5,wong,,,HARINA DE TRIGO SIN PREPARAR
-Protector Solar Facial Neutrogena Sun Fresh Sin Color FPS70 40g,S/ 52.50,metro,HARINA DE TRIGO SIN PREPARAR,2024-12-04 20:40:10.952209,40.0,g,Protector Solar Facial Neutrogena Sun Fresh Sin Color FPS70,52.5,metro,,,HARINA DE TRIGO SIN PREPARAR
-Perlas con Vinagre Balsámico de Modena Perlamico 50g,S/ 55.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,50.0,g,Perlas con Vinagre Balsámico de Modena Perlamico,55.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Harina de Almendras Bob's Red Mill Bolsa 454 g,S/ 71.90,wong,HARINA DE TRIGO SIN PREPARAR,2024-12-04 18:06:49.711630,454.0,g,Harina de Almendras Bob's Red Mill Bolsa,71.9,wong,,,HARINA DE TRIGO SIN PREPARAR
-Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella 625ml Paquete 6un,,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,625.0,ml,Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella  Paquete,,vega,,San Luis,HARINA DE TRIGO SIN PREPARAR
-Pack Agua SAN CARLOS Sin Gas Botella 500ml x 20u + GATORADE Tropical Botella 500m x 12u,,vega,HARINA DE TRIGO SIN PREPARAR,2024-12-04 13:02:40.851830,500.0,ml,Pack Agua SAN CARLOS Sin Gas Botella  x 20u + GATORADE Tropical Botella 500m x 12u,,vega,,San Carlos,HARINA DE TRIGO SIN PREPARAR
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Harina BENOTI Sin Prepar Paquete 180 gr,Benoti,180.0,g,1.2,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.666666666666666,HARINA DE TRIGO SIN PREPARAR
+Harina GRANO DE ORO Sin Preparar Paquete 180gr,Grano De Oro,180.0,g,1.3,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,7.222222222222222,HARINA DE TRIGO SIN PREPARAR
+Trigo mote VEGA Bolsa 400g,Vega,400.0,g,2.6,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.5,HARINA DE TRIGO SIN PREPARAR
+Trigo mote TIMONEL Bolsa 400g,Timonel,400.0,g,2.9,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,7.25,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,,1.0,kg,4.29,plaza_vea,2024-12-04 12:54:23.175018,HARINA DE TRIGO SIN PREPARAR,1.0,kg,4.29,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,BELL'S,1.0,kg,4.29,vivanda,2024-12-04 17:13:37.449434,HARINA DE TRIGO SIN PREPARAR,1.0,kg,4.29,HARINA DE TRIGO SIN PREPARAR
+Harina BENOTI Sin Preparar Paquete 1Kg,Benoti,1.0,kg,5.3,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,5.3,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo NICOLINI Sin Preparar Bolsa 1K...,,1.0,kg,6.1,plaza_vea,2024-12-04 12:54:23.175018,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.1,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo NICOLINI Sin Preparar Bolsa 1Kg,NICOLINI,1.0,kg,6.1,vivanda,2024-12-04 17:13:37.449434,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.1,HARINA DE TRIGO SIN PREPARAR
+Harina GRANO DE ORO Preparada Paquete 1kg,Grano De Oro,1.0,kg,6.3,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.3,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo sin Preparar MOLITALIA sin Preparar Bolsa 1kg,MOLITALIA,1.0,kg,6.3,vivanda,2024-12-04 17:13:37.449434,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.3,HARINA DE TRIGO SIN PREPARAR
+Harina de Trigo sin Preparar MOLITALIA sin Pre...,,1.0,kg,6.5,plaza_vea,2024-12-04 12:54:23.175018,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.5,HARINA DE TRIGO SIN PREPARAR
+Harina sin Preparar 1 kg,MOLITALIA,1.0,kg,6.6,tottus,2024-12-04 12:58:11.491695,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.6,HARINA DE TRIGO SIN PREPARAR
+Harina sin Preparar 1 kg,TOTTUS,1.0,kg,6.9,tottus,2024-12-04 12:58:11.491695,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.9,HARINA DE TRIGO SIN PREPARAR
+Harina MOLITALIA Preparada Bolsa 1kg,Molitalia,1.0,kg,6.9,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,6.9,HARINA DE TRIGO SIN PREPARAR
+Harina BLANCA FLOR Preparada Paquete 1Kg,Blanca Flor,1.0,kg,8.0,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,8.0,HARINA DE TRIGO SIN PREPARAR
+Harina de Maíz PAN Precocida Bolsa 1kg,P.A.N.,1.0,kg,8.5,vega,2024-12-04 13:02:40.851830,HARINA DE TRIGO SIN PREPARAR,1.0,kg,8.5,HARINA DE TRIGO SIN PREPARAR

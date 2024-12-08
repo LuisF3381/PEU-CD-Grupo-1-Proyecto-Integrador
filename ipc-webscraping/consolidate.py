@@ -224,7 +224,7 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
             print(f"Guardado {ruta_archivo} con {len(df_sin_duplicados)} filas")
 
 # Uso del script
-CURRENT_DATE = "2024_12_05"
+CURRENT_DATE = "2024_12_07"
 
 current_dir = os.path.dirname(__file__)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')

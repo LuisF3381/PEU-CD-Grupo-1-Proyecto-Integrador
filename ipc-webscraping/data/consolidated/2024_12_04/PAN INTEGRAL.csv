@@ -1,78 +1,75 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Pan Árabe Integral 5un,S/ 2.50,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,5.0,un,Pan Árabe Integral,2.5,wong,,,PAN INTEGRAL
-Pita Chips Integrales El Cedro 50g,S/ 3.60,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,50.0,g,Pita Chips Integrales El Cedro,3.6,wong,,,PAN INTEGRAL
-Pan Integral 5un,S/ 3.90,metro,PAN INTEGRAL,2024-12-04 20:44:51.558893,5.0,un,Pan Integral,3.9,metro,,,PAN INTEGRAL
-Pan Árabe Integral El Cedro 5un,S/ 4.30,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,5.0,un,Pan Árabe Integral El Cedro,4.3,wong,,,PAN INTEGRAL
-Pan Árabe Integral LA FLORENCIA Bolsa 380g,S/ 4.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,380.0,g,Pan Árabe Integral LA FLORENCIA Bolsa,4.9,plaza_vea,Bolsa 380g,,PAN INTEGRAL
-Pan Integral LA FLORENCIA Bolsa 397g,S/ 5.00,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,397.0,g,Pan Integral LA FLORENCIA Bolsa,5.0,vivanda,,LA FLORENCIA,PAN INTEGRAL
-Pan Árabe Integral LA FLORENCIA Bolsa 380g,S/ 5.00,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,380.0,g,Pan Árabe Integral LA FLORENCIA Bolsa,5.0,vivanda,,LA FLORENCIA,PAN INTEGRAL
-Pan De La Casa Integral 350 g,S/ 5.20,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,350.0,g,Pan De La Casa Integral,5.2,tottus,,TOTTUS,PAN INTEGRAL
-Pan Pita Integral BELL'S Bolsa 300g,S/ 5.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,Pan Pita Integral BELL'S Bolsa,5.7,plaza_vea,Bolsa 300g,,PAN INTEGRAL
-Pan Pita Integral BELL'S Bolsa 300g,S/ 5.70,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,300.0,g,Pan Pita Integral BELL'S Bolsa,5.7,vivanda,,BELL'S,PAN INTEGRAL
-Pan Pita Integral BIMBO Bolsa 300g,S/ 6 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,300.0,g,Pan Pita Integral BIMBO Bolsa,6.0,plaza_vea,Bolsa 300g,,PAN INTEGRAL
-PAN PITA INTEGRAL CERO CERO X300GR,S/ 6.80,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,300.0,g,PAN PITA INTEGRAL CERO CERO XR,6.8,tottus,,BIMBO,PAN INTEGRAL
-Pan Integral 8un,S/ 6.90,metro,PAN INTEGRAL,2024-12-04 20:44:51.558893,8.0,un,Pan Integral,6.9,metro,,,PAN INTEGRAL
-Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 7.20 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,10.0,un,Pan Árabe Integral EL CEDRO con Salvado de Tri,7.2,plaza_vea,Paquete 10un,,PAN INTEGRAL
-Pan Árabe Integral 10 Unidades,S/ 7.40,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,10.0,un,Pan Árabe Integral ades,7.4,tottus,,EL CEDRO,PAN INTEGRAL
-Pan Árabe Integral EL CEDRO con Salvado de Trigo Bolsa 10un,S/ 7.50,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,10.0,un,Pan Árabe Integral EL CEDRO con Salvado de Trigo Bolsa,7.5,vivanda,,EL CEDRO,PAN INTEGRAL
-Pan Pita Integral BIMBO Bolsa 300g,S/ 7.50,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,300.0,g,Pan Pita Integral BIMBO Bolsa,7.5,vivanda,,BIMBO,PAN INTEGRAL
-Pan Molde Integral x 480 g,S/ 7.60,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,480.0,g,Pan Molde Integral x,7.6,tottus,,TOTTUS,PAN INTEGRAL
-Pan Pita Integral Bimbo Bolsa 10 unid,S/ 7.70,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,10.0,un,Pan Pita Integral Bimbo Bolsa,7.7,wong,,,PAN INTEGRAL
-Pan de Molde Integral LA FLORENCIA Bolsa 500g,S/ 7.90,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,500.0,g,Pan de Molde Integral LA FLORENCIA Bolsa,7.9,vivanda,,LA FLORENCIA,PAN INTEGRAL
-Petit Pan Integral Metro Bolsa 25 Unid,S/ 7.90,metro,PAN INTEGRAL,2024-12-04 20:44:51.558893,25.0,un,Petit Pan Integral Metro Bolsa,7.9,metro,,,PAN INTEGRAL
-Tostadas Integrales Bimbo 10un,S/ 7.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,10.0,un,Tostadas Integrales Bimbo,7.9,wong,,,PAN INTEGRAL
-Tostadas Integrales Wong 125g,S/ 7.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,125.0,g,Tostadas Integrales Wong,7.9,wong,,,PAN INTEGRAL
-"Pan Pita Integral con Semillas de Chía, Linaza y Quinua Unión Bolsa 10 unid",S/ 7.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,10.0,un,"Pan Pita Integral con Semillas de Chía, Linaza y Quinua Unión Bolsa",7.9,wong,,,PAN INTEGRAL
-Pan de Molde Integral UNIÓN Mediano Bolsa 360g,S/ 8.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,Pan de Molde Integral UNIÓN Mediano Bolsa,8.39,plaza_vea,Bolsa 360g,,PAN INTEGRAL
-Pan Árabe Mini Integral El Cedro 25un,S/ 8.40,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,25.0,un,Pan Árabe Mini Integral El Cedro,8.4,wong,,,PAN INTEGRAL
-Tostadas Integrales Unión Bolsa 10 unid,S/ 8.50,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,10.0,un,Tostadas Integrales Unión Bolsa,8.5,wong,,,PAN INTEGRAL
-Pan de Molde Integral BELL'S Mediano Bolsa 500g,S/ 8.60,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,500.0,g,Pan de Molde Integral BELL'S Mediano Bolsa,8.6,vivanda,,BELL'S,PAN INTEGRAL
-Tostadas Integrales 142 g,S/ 8.70,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,142.0,g,Tostadas Integrales,8.7,wong,,,PAN INTEGRAL
-Pan Integral Mediano Unión 360 g,S/ 8.70,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,360.0,g,Pan Integral Mediano Unión,8.7,tottus,,UNION,PAN INTEGRAL
-Pan de Molde Integral PYC Mediano Bolsa 500g,S/ 8.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral PYC Mediano Bolsa,8.9,plaza_vea,Bolsa 500g,,PAN INTEGRAL
-Pan de Molde Integral 500 g,S/ 8.90,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,500.0,g,Pan de Molde Integral,8.9,tottus,,PYC,PAN INTEGRAL
-Pan de Molde Integral Unión Mediano Bolsa 360 g,S/ 9.70,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,360.0,g,Pan de Molde Integral Unión Mediano Bolsa,9.7,wong,,,PAN INTEGRAL
-Tortilla Sash Artesanal Integral El Cedro 5un,S/ 9.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,5.0,un,Tortilla Sash Artesanal Integral El Cedro,9.9,wong,,,PAN INTEGRAL
-Pan de Molde Integral Bauducco 390g,S/ 9.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,390.0,g,Pan de Molde Integral Bauducco,9.9,wong,,,PAN INTEGRAL
-Tortillas Artesanales Integrales El Cedro 12un,S/ 9.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,12.0,un,Tortillas Artesanales Integrales El Cedro,9.9,wong,,,PAN INTEGRAL
-Galleta Artesanal Pitacrisps Con Chia Integral Tabla Gourmet Caja 100 g,S/ 10.00,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,100.0,g,Galleta Artesanal Pitacrisps Con Chia Integral Tabla Gourmet Caja,10.0,wong,,,PAN INTEGRAL
-Pan Artesano Integral BIMBO Bolsa 560g,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,560.0,g,Pan Artesano Integral BIMBO Bolsa,10.5,plaza_vea,Bolsa 560g,,PAN INTEGRAL
-Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,S/ 10.50,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,12.0,un,Tortillas de Trigo Integrales Rapiditas Bimbo Paquete,10.5,wong,,,PAN INTEGRAL
-Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 10.50 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,360.0,g,Pan de Molde Integral BIMBO Vital Multicereal,10.5,plaza_vea,Bolsa 360g,,PAN INTEGRAL
-Pan Integral BIMBO Mediano Bolsa 480g,S/ 10.70 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,Pan Integral BIMBO Mediano Bolsa,10.7,plaza_vea,Bolsa 480g,,PAN INTEGRAL
-Pan de molde integral 480 g,S/ 10.70,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,480.0,g,Pan de molde integral,10.7,tottus,,BIMBO,PAN INTEGRAL
-Pan Artesanal Multigrano Integral Masa Madre 1un,S/ 10.90,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,1.0,un,Pan Artesanal Multigrano Integral Masa Madre,10.9,vivanda,,VICTOR DOU,PAN INTEGRAL
-Pan con Granos Integrales Unión 540 g,S/ 11.40,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,540.0,g,Pan con Granos Integrales Unión,11.4,tottus,,UNION,PAN INTEGRAL
-Pan de Molde Integral Misturapan 390g,S/ 11.59,metro,PAN INTEGRAL,2024-12-04 20:44:51.558893,390.0,g,Pan de Molde Integral Misturapan,11.59,metro,,,PAN INTEGRAL
-Tortillitas Integrales Wong 12un,S/ 11.59,metro,PAN INTEGRAL,2024-12-04 20:44:51.558893,12.0,un,Tortillitas Integrales Wong,11.59,metro,,,PAN INTEGRAL
-Tortillitas Integrales Wong 12un,S/ 11.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,12.0,un,Tortillitas Integrales Wong,11.9,wong,,,PAN INTEGRAL
-Pan de Molde Integral 390g,S/ 11.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,390.0,g,Pan de Molde Integral,11.9,wong,,,PAN INTEGRAL
-Pan de Molde Tipo Artesanal Bimbo Artesano Integral 560g,S/ 11.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,560.0,g,Pan de Molde Tipo Artesanal Bimbo Artesano Integral,11.9,wong,,,PAN INTEGRAL
-Pan de molde artesano integral de 560 g,S/ 11.90,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,560.0,g,Pan de molde artesano integral de,11.9,tottus,,BIMBO,PAN INTEGRAL
-Pan Integral BIMBO Cero Cero Bolsa 560g,S/ 12.10,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,560.0,g,Pan Integral BIMBO Cero Cero Bolsa,12.1,vivanda,,BIMBO,PAN INTEGRAL
-Pan de Molde Integral UNIÓN Bolsa 495g,S/ 12.39 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,495.0,g,Pan de Molde Integral UNIÓN Bolsa,12.39,plaza_vea,Bolsa 495g,,PAN INTEGRAL
-Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,S/ 12.40,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,600.0,g,Pan de Molde Vital Integral Multicereal con Chía y Linaza,12.4,tottus,,BIMBO,PAN INTEGRAL
-Pan de Molde BIMBO Integral Bolsa 750g,S/ 12.60 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,750.0,g,Pan de Molde BIMBO Integral Bolsa,12.6,plaza_vea,Bolsa 750g,,PAN INTEGRAL
-Pan Integral Sandwich Unión 540 g,S/ 12.70,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,540.0,g,Pan Integral Sandwich Unión,12.7,tottus,,UNION,PAN INTEGRAL
-Pan de Molde Integral 6 Semillas LA FLORENCIA ...,S/ 12.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,500.0,g,Pan de Molde Integral 6 Semillas LA FLORENCIA,12.9,plaza_vea,Bolsa 500g,,PAN INTEGRAL
-Pan de Molde Integral 6 Semillas LA FLORENCIA Bolsa 500g,S/ 12.90,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,500.0,g,Pan de Molde Integral 6 Semillas LA FLORENCIA Bolsa,12.9,vivanda,,LA FLORENCIA,PAN INTEGRAL
-Pan de Molde Integral Multicereal LA FLORENCIA Bolsa 500g,S/ 12.90,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,500.0,g,Pan de Molde Integral Multicereal LA FLORENCIA Bolsa,12.9,vivanda,,LA FLORENCIA,PAN INTEGRAL
-Pan de Molde UNIÓN Granos Integrales Bolsa 540g,S/ 13.20,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,540.0,g,Pan de Molde UNIÓN Granos Integrales Bolsa,13.2,vivanda,,UNIÓN,PAN INTEGRAL
-Pan de Molde Unión Granos Integrales Bolsa 540 g,S/ 13.60,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,540.0,g,Pan de Molde Unión Granos Integrales Bolsa,13.6,wong,,,PAN INTEGRAL
-Pan Artesano Integral BIMBO Bolsa 560g,S/ 13.80,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,560.0,g,Pan Artesano Integral BIMBO Bolsa,13.8,vivanda,,BIMBO,PAN INTEGRAL
-Tortillas de Trigo Integral El Taco 10un,S/ 13.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,10.0,un,Tortillas de Trigo Integral El Taco,13.9,wong,,,PAN INTEGRAL
-Pan de Molde Integral UNIÓN Bolsa 495g,S/ 14.20,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,495.0,g,Pan de Molde Integral UNIÓN Bolsa,14.2,vivanda,,UNIÓN,PAN INTEGRAL
-Pan de Molde BIMBO Integral Bolsa 750g,S/ 14.40,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,750.0,g,Pan de Molde BIMBO Integral Bolsa,14.4,vivanda,,BIMBO,PAN INTEGRAL
-Pan de Molde Integral BIMBO Vital Multicereal Bolsa 600g,S/ 14.80,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,600.0,g,Pan de Molde Integral BIMBO Vital Multicereal Bolsa,14.8,vivanda,,BIMBO,PAN INTEGRAL
-Pan de Molde Integral BIMBO Vital Multicereal ...,S/ 14.80 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,600.0,g,Pan de Molde Integral BIMBO Vital Multicereal,14.8,plaza_vea,Bolsa 600g,,PAN INTEGRAL
-Pan de Molde Integral BIMBO Sin Bordes Bolsa 6...,S/ 15.90 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,650.0,g,Pan de Molde Integral BIMBO Sin Bordes Bolsa 6,15.9,plaza_vea,Bolsa 650g,,PAN INTEGRAL
-Pan de Molde Integral BIMBO sin Bordes Bolsa 650g,S/ 16.40,vivanda,PAN INTEGRAL,2024-12-04 17:16:44.325434,650.0,g,Pan de Molde Integral BIMBO sin Bordes Bolsa,16.4,vivanda,,BIMBO,PAN INTEGRAL
-Pan de Molde Integral Sin Bordes Bimbo Bolsa 650 g,S/ 16.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,650.0,g,Pan de Molde Integral Sin Bordes Bimbo Bolsa,16.9,wong,,,PAN INTEGRAL
-Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl...,S/ 17.79 un,plaza_vea,PAN INTEGRAL,2024-12-04 13:00:38.394665,480.0,g,Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl,17.79,plaza_vea,Bolsa 480g,,PAN INTEGRAL
-Pack x2 Tostadas Integrales Bimbo Paquete 180g,S/ 19.00,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,180.0,g,Pack x2 Tostadas Integrales Bimbo Paquete,19.0,wong,,,PAN INTEGRAL
-Pan integral sin gluten Molinos 480 g,S/ 21,tottus,PAN INTEGRAL,2024-12-04 13:01:12.093459,480.0,g,Pan integral sin gluten Molinos,21.0,tottus,,MOLINOS DEL MUNDO,PAN INTEGRAL
-Pan de Molde Integral Sin Gluten Molinos del Mundo Bolsa 480 g,S/ 21.90,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,480.0,g,Pan de Molde Integral Sin Gluten Molinos del Mundo Bolsa,21.9,wong,,,PAN INTEGRAL
-Pack x2 Pan de Molde Integral Bimbo Bolsa 480g,S/ 23.20,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,480.0,g,Pack x2 Pan de Molde Integral Bimbo Bolsa,23.2,wong,,,PAN INTEGRAL
-Pack Pan de Molde Bimbo Artesano: Original 560g + Integral 560g,S/ 27.80,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,560.0,g,Pack Pan de Molde Bimbo Artesano: Original  + Integral,27.8,wong,,,PAN INTEGRAL
-Twopack Pan de Molde Bimbo Artesano Integral 560g,S/ 28.40,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,560.0,g,Twopack Pan de Molde Bimbo Artesano Integral,28.4,wong,,,PAN INTEGRAL
-Pack x3 Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 310g,S/ 31.50,wong,PAN INTEGRAL,2024-12-04 18:16:07.422213,310.0,g,Pack x3 Tortillas de Trigo Integrales Rapiditas Bimbo Paquete,31.5,wong,,,PAN INTEGRAL
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pan Árabe Integral 5un,,5.0,un,2.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,5.0,un,2.5,PAN INTEGRAL
+Pan Integral 5un,,5.0,un,2.8,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,5.0,un,2.8,PAN INTEGRAL
+Pita Chips Integrales El Cedro 50g,,50.0,g,3.6,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,50.0,g,3.6,PAN INTEGRAL
+Pan Integral 5un,,5.0,un,3.9,metro,2024-12-04 20:44:51.558893,PAN INTEGRAL,5.0,un,3.9,PAN INTEGRAL
+Pan Árabe Integral EL CEDRO con Salvado de Tri...,,5.0,un,4.0,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,5.0,un,4.0,PAN INTEGRAL
+Pan Árabe Integral El Cedro 5un,,5.0,un,4.3,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,5.0,un,4.3,PAN INTEGRAL
+Pan Árabe Integral LA FLORENCIA Bolsa 380g,,380.0,g,4.9,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,380.0,g,4.9,PAN INTEGRAL
+Pan De La Casa Integral 350 g,TOTTUS,350.0,g,5.2,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,350.0,g,5.2,PAN INTEGRAL
+Pan Pita Integral BELL'S Bolsa 300g,,300.0,g,5.7,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,300.0,g,5.7,PAN INTEGRAL
+Pan Pita Integral 10 unidades,BIMBO,10.0,un,6.0,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,10.0,un,6.0,PAN INTEGRAL
+Pan Pita Integral BIMBO Bolsa 300g,,300.0,g,6.0,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,300.0,g,6.0,PAN INTEGRAL
+PAN PITA INTEGRAL CERO CERO X300GR,BIMBO,300.0,g,6.8,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,300.0,g,6.8,PAN INTEGRAL
+Pan Integral 8un,,8.0,un,6.9,metro,2024-12-04 20:44:51.558893,PAN INTEGRAL,8.0,un,6.9,PAN INTEGRAL
+Pan Árabe Integral EL CEDRO con Salvado de Tri...,,10.0,un,7.2,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,10.0,un,7.2,PAN INTEGRAL
+Pan Árabe Integral 10 Unidades,EL CEDRO,10.0,un,7.4,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,10.0,un,7.4,PAN INTEGRAL
+Pan de Molde Integral BELL'S Mediano Bolsa 500...,,500.0,g,7.4,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,500.0,g,7.4,PAN INTEGRAL
+Tostadas Integrales 20un,,20.0,un,7.59,metro,2024-12-04 20:44:51.558893,PAN INTEGRAL,20.0,un,7.59,PAN INTEGRAL
+Pan Pita Integral Bimbo Bolsa 10 unid,,10.0,un,7.7,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,7.7,PAN INTEGRAL
+Pan Integral 8un,,8.0,un,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,8.0,un,7.9,PAN INTEGRAL
+Petit Pan Integral Metro Bolsa 25 Unid,,25.0,un,7.9,metro,2024-12-04 20:44:51.558893,PAN INTEGRAL,25.0,un,7.9,PAN INTEGRAL
+Pan de Molde Integral LA FLORENCIA Bolsa 500g,,500.0,g,7.9,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,500.0,g,7.9,PAN INTEGRAL
+Tostadas Integrales Wong 125g,,125.0,g,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,125.0,g,7.9,PAN INTEGRAL
+Pan de Molde Integral Cuisine & Co Bolsa 500 gr,,500.0,g,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,500.0,g,7.9,PAN INTEGRAL
+Pan Pita Integral Granos Andinos Unión Bolsa 10 unid,,10.0,un,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,7.9,PAN INTEGRAL
+"Pan Pita Integral con Semillas de Chía, Linaza y Quinua Unión Bolsa 10 unid",,10.0,un,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,7.9,PAN INTEGRAL
+Tostadas Integrales Bimbo 10un,,10.0,un,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,7.9,PAN INTEGRAL
+Tostadas Integrales Bimbo Cero Cero 140g,,140.0,g,7.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,140.0,g,7.9,PAN INTEGRAL
+Pan de Molde Integral UNIÓN Mediano Bolsa 360g,,360.0,g,8.39,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,360.0,g,8.39,PAN INTEGRAL
+Pan Árabe Mini Integral El Cedro 25un,,25.0,un,8.4,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,25.0,un,8.4,PAN INTEGRAL
+Tostadas Integrales Unión Bolsa 10 unid,,10.0,un,8.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,8.5,PAN INTEGRAL
+Tostadas Integrales 142 g,,142.0,g,8.7,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,142.0,g,8.7,PAN INTEGRAL
+Pan de Molde Integral 500 g,PYC,500.0,g,8.9,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,500.0,g,8.9,PAN INTEGRAL
+Pan de Molde Integral Cuisine & Co 600g,,600.0,g,8.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,600.0,g,8.9,PAN INTEGRAL
+Tortillas Artesanales Integrales El Cedro 12un,,12.0,un,9.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,12.0,un,9.9,PAN INTEGRAL
+Tortilla Sash Artesanal Integral El Cedro 5un,,5.0,un,9.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,5.0,un,9.9,PAN INTEGRAL
+Pan de Molde Integral Bauducco 390g,,390.0,g,9.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,390.0,g,9.9,PAN INTEGRAL
+Galleta Artesanal Pitacrisps Con Chia Integral Tabla Gourmet Caja 100 g,,100.0,g,10.0,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,100.0,g,10.0,PAN INTEGRAL
+Pan Artesano Integral BIMBO Bolsa 560g,,560.0,g,10.5,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,560.0,g,10.5,PAN INTEGRAL
+Pan de Molde Integral BIMBO Vital Multicereal ...,,360.0,g,10.5,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,360.0,g,10.5,PAN INTEGRAL
+Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,,12.0,un,10.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,12.0,un,10.5,PAN INTEGRAL
+Pan de molde integral 480 g,BIMBO,480.0,g,10.7,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,480.0,g,10.7,PAN INTEGRAL
+Pan Integral BIMBO Mediano Bolsa 480g,,480.0,g,10.7,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,480.0,g,10.7,PAN INTEGRAL
+PAN INTEGRAL CERO CERO X 560G,BIMBO,560.0,g,10.8,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,560.0,g,10.8,PAN INTEGRAL
+Pan Integral BIMBO Cero Cero Bolsa 560g,,560.0,g,10.8,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,560.0,g,10.8,PAN INTEGRAL
+Pita Chips Integral Wong Caja 90 g,,90.0,g,10.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,90.0,g,10.9,PAN INTEGRAL
+Pan con Granos Integrales Unión 540 g,UNION,540.0,g,11.4,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,540.0,g,11.4,PAN INTEGRAL
+Tortillitas Integrales Wong 12un,,12.0,un,11.59,metro,2024-12-04 20:44:51.558893,PAN INTEGRAL,12.0,un,11.59,PAN INTEGRAL
+Tortillitas Integrales Wong 12un,,12.0,un,11.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,12.0,un,11.9,PAN INTEGRAL
+Pan Integral Xg 750 g,BIMBO,1.0,g,11.9,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,1.0,g,11.9,PAN INTEGRAL
+Pan de molde artesano integral de 560 g,BIMBO,560.0,g,11.9,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,560.0,g,11.9,PAN INTEGRAL
+Pan de Molde Tipo Artesanal Bimbo Artesano Integral 560g,,560.0,g,11.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,560.0,g,11.9,PAN INTEGRAL
+Pan de Molde Integral Bimbo 480g,,480.0,g,11.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,480.0,g,11.9,PAN INTEGRAL
+Pan de Molde Integral UNIÓN Bolsa 495g,,495.0,g,12.39,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,495.0,g,12.39,PAN INTEGRAL
+Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,BIMBO,600.0,g,12.4,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,600.0,g,12.4,PAN INTEGRAL
+Pan Integral Bimbo Cero Cero 560g,,560.0,g,12.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,560.0,g,12.5,PAN INTEGRAL
+Pan de Molde BIMBO Integral Bolsa 750g,,750.0,g,12.6,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,750.0,g,12.6,PAN INTEGRAL
+Pan Integral Sandwich Unión 540 g,UNION,540.0,g,12.7,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,540.0,g,12.7,PAN INTEGRAL
+Pan de Molde Integral 6 Semillas LA FLORENCIA ...,,500.0,g,12.9,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,500.0,g,12.9,PAN INTEGRAL
+Pan de Molde Integral Bimbo Bolsa 750 g,,750.0,g,13.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,750.0,g,13.5,PAN INTEGRAL
+Tortillas de Trigo Integral El Taco 10un,,10.0,un,13.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,10.0,un,13.9,PAN INTEGRAL
+Pan de Molde Integral Clásico Unión Grande Bolsa 495 g,,495.0,g,14.6,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,495.0,g,14.6,PAN INTEGRAL
+Pan de Molde Integral BIMBO Vital Multicereal ...,,600.0,g,14.8,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,600.0,g,14.8,PAN INTEGRAL
+Pan de Molde Integral BIMBO Sin Bordes Bolsa 6...,,650.0,g,15.9,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,650.0,g,15.9,PAN INTEGRAL
+Pan de Molde Integral sin Borde 650 g,BIMBO,650.0,g,16.2,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,650.0,g,16.2,PAN INTEGRAL
+Pan de Molde Integral Sin Bordes Bimbo Bolsa 650 g,,650.0,g,16.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,650.0,g,16.9,PAN INTEGRAL
+Pan de Molde Integral MOLINOS DEL MUNDO Sin Gl...,,480.0,g,17.79,plaza_vea,2024-12-04 13:00:38.394665,PAN INTEGRAL,480.0,g,17.79,PAN INTEGRAL
+Pack x2 Tostadas Integrales Bimbo Cero Cero Bolsa 140g,,140.0,g,18.4,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,140.0,g,18.4,PAN INTEGRAL
+Pack x2 Tostadas Integrales Bimbo Paquete 180g,,180.0,g,19.0,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,180.0,g,19.0,PAN INTEGRAL
+Pan integral sin gluten Molinos 480 g,MOLINOS DEL MUNDO,480.0,g,21.0,tottus,2024-12-04 13:01:12.093459,PAN INTEGRAL,480.0,g,21.0,PAN INTEGRAL
+Pan de Molde Integral Sin Gluten Molinos del Mundo Bolsa 480 g,,480.0,g,21.9,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,480.0,g,21.9,PAN INTEGRAL
+Pack x2 Pan de Molde Integral Bimbo Bolsa 480g,,480.0,g,23.2,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,480.0,g,23.2,PAN INTEGRAL
+Pack Pan de Molde Bimbo Artesano: Original 560g + Integral 560g,,560.0,g,27.8,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,560.0,g,27.8,PAN INTEGRAL
+Twopack Pan de Molde Bimbo Artesano Integral 560g,,560.0,g,28.4,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,560.0,g,28.4,PAN INTEGRAL
+Pack x3 Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 310g,,310.0,g,31.5,wong,2024-12-04 18:16:07.422213,PAN INTEGRAL,310.0,g,31.5,PAN INTEGRAL

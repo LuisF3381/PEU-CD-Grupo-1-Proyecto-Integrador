@@ -1,179 +1,141 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Cebada Instantánea Ecco 12g,S/ 1.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,g,Cebada Instantánea Ecco,1.0,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Con Gas San Luis Manzana Botella 625ml,S/ 2.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,625.0,ml,Bebida Con Gas San Luis Manzana Botella,2.2,metro,,CEBADA TOSTADA SOLUBLE
-Bebida en Polvo Clight Sin Calorías Sabor Naranja 14g,S/ 2.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Naranja,2.3,metro,,CEBADA TOSTADA SOLUBLE
-Bebida en Polvo Clight Sin Calorías Sabor Fresa 14g,S/ 2.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Fresa,2.3,metro,,CEBADA TOSTADA SOLUBLE
-Bebida en Polvo Clight Sin Calorías Sabor Piña 14g,S/ 2.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Piña,2.3,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Soya SOY VIDA Concentrada Lata 390gr,S/ 2.50,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,390.0,g,Bebida de Soya SOY VIDA Concentrada Lata r,2.5,vega,Soy Vida,CEBADA TOSTADA SOLUBLE
-Bebida Aloe KERO Piña Botella 300ml,S/ 3.00,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,300.0,ml,Bebida Aloe KERO Piña Botella,3.0,vivanda,KERO,CEBADA TOSTADA SOLUBLE
-Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml,S/ 3.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,800.0,ml,Bebida Láctea Sabor Chocolate Bonlé Bolsa,3.2,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza Cuisine & Co 200g,S/ 3.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,200.0,g,Mostaza Cuisine & Co,3.5,metro,,CEBADA TOSTADA SOLUBLE
-Mix de Cebada Coppisac 350g,S/ 3.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,350.0,g,Mix de Cebada Coppisac,3.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Chocolatada La Preferida 800ml,S/ 3.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,800.0,ml,Bebida Chocolatada La Preferida,3.6,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Piña Gloria Caja 1L,S/ 3.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Piña Gloria Caja,3.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Maracuyá Gloria Caja 1L,S/ 3.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Maracuyá Gloria Caja,3.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Durazno Frugos del Valle Caja 970ml,S/ 3.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,970.0,ml,Bebida de Durazno Frugos del Valle Caja,3.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida FRUGOS Sabor a Mango Caja 970ml,S/ 3.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,970.0,ml,Bebida FRUGOS Sabor a Mango Caja,3.9,vivanda,FRUGOS,CEBADA TOSTADA SOLUBLE
-Tortillas de maiz VEGA Picante Bolsa 150g,S/ 3.90,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,150.0,g,Tortillas de maiz VEGA Picante Bolsa,3.9,vega,Vega,CEBADA TOSTADA SOLUBLE
-Bebida de Naranja Gloria Caja 1L,S/ 3.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Naranja Gloria Caja,3.9,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea BELL'S Doypack 100g,S/ 3.99,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,100.0,g,Cebada Instantánea BELL'S Doypack,3.99,vivanda,BELL'S,CEBADA TOSTADA SOLUBLE
-Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.0,l,Bebida FRUGOS Mango y Fresa Caja,4.5,vivanda,FRUGOS,CEBADA TOSTADA SOLUBLE
-Bebida de Mango y Fresa Frugos del Valle Caja 1L,S/ 4.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Mango y Fresa Frugos del Valle Caja,4.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Naranja Gloria Caja 1.5L,S/ 4.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.5,l,Bebida de Naranja Gloria Caja,4.9,metro,,CEBADA TOSTADA SOLUBLE
-"Cerveza Sin Alcohol Mahou 0,0 Tostada Botella 330ml",S/ 5.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,330.0,ml,"Cerveza Sin Alcohol Mahou 0,0 Tostada Botella",5.0,metro,,CEBADA TOSTADA SOLUBLE
-"Cerveza Sin Alcohol Mahou 0,0 Tostada Lata 330ml",S/ 5.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,330.0,ml,"Cerveza Sin Alcohol Mahou 0,0 Tostada Lata",5.0,metro,,CEBADA TOSTADA SOLUBLE
-Galletas de Maíz Horneadas Salmitas Caja 80 g,S/ 5.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,80.0,g,Galletas de Maíz Horneadas Salmitas Caja,5.2,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza LIBBY'S Doypack 200g,S/ 5.20,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,200.0,g,Mostaza LIBBY'S Doypack,5.2,vivanda,LIBBY S,CEBADA TOSTADA SOLUBLE
-Mostaza Libbys Doypack 200 g,S/ 5.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,200.0,g,Mostaza Libbys Doypack,5.3,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza AlaCena 220g,S/ 5.40,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,220.0,g,Mostaza AlaCena,5.4,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza ALACENA Doypack 220g,S/ 5.40,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,220.0,g,Mostaza ALACENA Doypack,5.4,vivanda,ALACENA,CEBADA TOSTADA SOLUBLE
-Bebida de Durazno Frugos del Valle Caja 1.5L,S/ 5.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.5,l,Bebida de Durazno Frugos del Valle Caja,5.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Naranja Frugos del Valle Caja 1.5L,S/ 5.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.5,l,Bebida de Naranja Frugos del Valle Caja,5.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 5.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.5,l,Bebida de Manzana Frugos del Valle Caja,5.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SPORADE Tropical Electrolitos Botella 1.5L,S/ 5.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.5,l,Bebida Rehidratante SPORADE Tropical Electrolitos Botella,5.5,vivanda,SPORADE,CEBADA TOSTADA SOLUBLE
-Tostada TOSTAGRILL Paquete 225g,S/ 5.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,225.0,g,Tostada TOSTAGRILL Paquete,5.7,vivanda,TOSTAGRILL,CEBADA TOSTADA SOLUBLE
-Tostada Integral TOSTAGRILL Paquete 225g,S/ 5.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,225.0,g,Tostada Integral TOSTAGRILL Paquete,5.7,vivanda,TOSTAGRILL,CEBADA TOSTADA SOLUBLE
-Bebida Frugos del Valle Fresh Fruit Punch Botella 3L,S/ 5.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,3.0,l,Bebida Frugos del Valle Fresh Fruit Punch Botella,5.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Frugos Fresh Citrus Botella 3L,S/ 5.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,3.0,l,Bebida Frugos Fresh Citrus Botella,5.9,metro,,CEBADA TOSTADA SOLUBLE
-"Bruschetas Chips Maretti Tomate, Aceituna y Orégano 70g",S/ 5.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,70.0,g,"Bruschetas Chips Maretti Tomate, Aceituna y Orégano",5.9,metro,,CEBADA TOSTADA SOLUBLE
-Bruschetas Chips Maretti Mediterráneas 70g,S/ 5.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,70.0,g,Bruschetas Chips Maretti Mediterráneas,5.9,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Kimbo Doypack 100 g,S/ 6.10,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Cebada Instantánea Kimbo Doypack,6.1,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Soya UHT Soy Vida Caja 1L,S/ 6.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Soya UHT Soy Vida Caja,6.2,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas BELL'S Clásicas Paquete 10un,S/ 6.20,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,10.0,un,Tostadas BELL'S Clásicas Paquete,6.2,vivanda,BELL'S,CEBADA TOSTADA SOLUBLE
-Mini Tostadas Clásicas Metro 110g,S/ 6.25,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,110.0,g,Mini Tostadas Clásicas Metro,6.25,metro,,CEBADA TOSTADA SOLUBLE
-Croutones de Pan Caja 60 g,S/ 6.40,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,60.0,g,Croutones de Pan Caja,6.4,metro,,CEBADA TOSTADA SOLUBLE
-Bebida con Avena Gloria Acti Avena Caja 1L,S/ 6.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida con Avena Gloria Acti Avena Caja,6.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SUEROX Sabor a Fresa - Kiwi Botella 630ml,S/ 6.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,630.0,ml,Bebida Rehidratante SUEROX Sabor a Fresa - Kiwi Botella,6.5,vivanda,SUEROX,CEBADA TOSTADA SOLUBLE
-Tortillas Tradicionales Cuisine & Co 12un,S/ 6.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas Tradicionales Cuisine & Co,6.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas Metro Paquete 115 g,S/ 6.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,115.0,g,Tostadas Clásicas Metro Paquete,6.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas con Salvado de Trigo Cuisine & Co 12un,S/ 6.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas con Salvado de Trigo Cuisine & Co,6.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales Metro Paquete 125 g,S/ 6.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,125.0,g,Tostadas Integrales Metro Paquete,6.9,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Tostada Bolsa 150 g,S/ 7.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,150.0,g,Cebada Tostada Bolsa,7.0,metro,,CEBADA TOSTADA SOLUBLE
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3L",S/ 7.10,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,3.0,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",7.1,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Ecco 80g,S/ 7.10,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,80.0,g,Cebada Instantánea Ecco,7.1,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas PYC Paquete 8 unid,S/ 7.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,8.0,un,Tostadas Clásicas PYC Paquete,7.2,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales PYC Paquete 8 unid,S/ 7.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,8.0,un,Tostadas Integrales PYC Paquete,7.2,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas 20un,S/ 7.59,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,20.0,un,Tostadas Clásicas,7.59,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales 20un,S/ 7.59,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,20.0,un,Tostadas Integrales,7.59,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas Unión Bolsa 10 unid,S/ 7.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tostadas Clásicas Unión Bolsa,7.6,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales Unión Bolsa 10 unid,S/ 7.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tostadas Integrales Unión Bolsa,7.6,metro,,CEBADA TOSTADA SOLUBLE
-Bebida con Soya Laive Vio Caja 946ml,S/ 7.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida con Soya Laive Vio Caja,7.6,metro,,CEBADA TOSTADA SOLUBLE
-Mini Tostadas Integrales LA FLORENCIA Bolsa 36un,S/ 7.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,36.0,un,Mini Tostadas Integrales LA FLORENCIA Bolsa,7.7,vivanda,LA FLORENCIA,CEBADA TOSTADA SOLUBLE
-Mini Tostadas Clásicas LA FLORENCIA Bolsa 36un,S/ 7.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,36.0,un,Mini Tostadas Clásicas LA FLORENCIA Bolsa,7.7,vivanda,LA FLORENCIA,CEBADA TOSTADA SOLUBLE
-Bebida de Soya LAIVE Vio Tetrapack 946ml,S/ 7.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Soya LAIVE Vio Tetrapack,7.9,vivanda,LAIVE,CEBADA TOSTADA SOLUBLE
-Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete,7.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas de Trigo Clásicas Rapiditas Wraps Bimbo Paquete 6 unid,S/ 7.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,6.0,un,Tortillas de Trigo Clásicas Rapiditas Wraps Bimbo Paquete,7.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,S/ 7.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas de Trigo Integrales Rapiditas Bimbo Paquete,7.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas Bimbo Rapiditas Cero Cero 280g,S/ 7.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,280.0,g,Tortillas Bimbo Rapiditas Cero Cero,7.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas LA FLORENCIA Bolsa 200g,S/ 7.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,200.0,g,Tostadas Clásicas LA FLORENCIA Bolsa,7.9,vivanda,LA FLORENCIA,CEBADA TOSTADA SOLUBLE
-Tostaditas Piqueo Don Mamino Arito salvado de Trigo Caja 85 g,S/ 7.99,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Piqueo Don Mamino Arito salvado de Trigo Caja,7.99,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Piqueo Arito Don Mamino 85 G,S/ 7.99,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostadas Piqueo Arito Don Mamino,7.99,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales UNIÓN Paquete 10un,S/ 8.20,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,10.0,un,Tostadas Integrales UNIÓN Paquete,8.2,vivanda,UNIÓN,CEBADA TOSTADA SOLUBLE
-Tostadas Blancas UNIÓN Clásicas Paquete 10un,S/ 8.20,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,10.0,un,Tostadas Blancas UNIÓN Clásicas Paquete,8.2,vivanda,UNIÓN,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales 142 g,S/ 8.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,142.0,g,Tostadas Integrales,8.3,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas Bauducco 42g,S/ 8.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,42.0,g,Tostadas Clásicas Bauducco,8.3,metro,,CEBADA TOSTADA SOLUBLE
-Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 90 g,S/ 8.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,90.0,g,Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja,8.3,metro,,CEBADA TOSTADA SOLUBLE
-Galletas de Maíz Horneadas Salmas 144g,S/ 8.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,144.0,g,Galletas de Maíz Horneadas Salmas,8.5,metro,,CEBADA TOSTADA SOLUBLE
-Galletas Salmas Camote y Zanahoria 126g,S/ 8.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,126.0,g,Galletas Salmas Camote y Zanahoria,8.5,metro,,CEBADA TOSTADA SOLUBLE
-Galletas de Maíz Horneadas Salmas Maíz Morado 126g,S/ 8.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,126.0,g,Galletas de Maíz Horneadas Salmas Maíz Morado,8.5,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza AlaCena 400g,S/ 8.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,400.0,g,Mostaza AlaCena,8.6,metro,,CEBADA TOSTADA SOLUBLE
-Tostada Clasica BAUDUCCO Paquete de 142g,S/ 8.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,142.0,g,Tostada Clasica BAUDUCCO Paquete de,8.7,vivanda,BAUDUCCO,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Kimbo Frasco 164 g,S/ 8.70,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,164.0,g,Cebada Instantánea Kimbo Frasco,8.7,metro,,CEBADA TOSTADA SOLUBLE
-Tostaditas Piqueo Don Mamino Caja 85 g,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Piqueo Don Mamino Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostaditas Cuadradas Don Mamino Clásicas Caja 85 g,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Cuadradas Don Mamino Clásicas Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostaditas Cuadradas Don Mamino Salvado de Trigo Caja 85 g,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Cuadradas Don Mamino Salvado de Trigo Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostaditas Piqueo Don Mamino Marmoleadas Caja 85 g,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Piqueo Don Mamino Marmoleadas Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco Cuisine & Co Sin Azúcar Añadida Caja 1L,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Coco Cuisine & Co Sin Azúcar Añadida Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostaditas Cuadradas Don Mamino Marmoleadas Caja 85 g,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,85.0,g,Tostaditas Cuadradas Don Mamino Marmoleadas Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra Original Cuisine & Co Caja 1 lt,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida de Almendra Original Cuisine & Co Caja,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida De Almendra Sin Gluten y Sin Azúcar Cuisine & Co Caja 1 Litro,S/ 8.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.0,l,Bebida De Almendra Sin Gluten y Sin Azúcar Cuisine & Co Caja itro,8.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Arándanos L'ONDA con Té Verde Botella 1L,S/ 8.99,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.0,l,Bebida de Arándanos L'ONDA con Té Verde Botella,8.99,vivanda,L ONDA,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales Bimbo Cero Cero 140g,S/ 9.30,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,140.0,g,Tostadas Integrales Bimbo Cero Cero,9.3,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas BIMBO Clásicas Paquete 10un,S/ 9.40,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,10.0,un,Tostadas BIMBO Clásicas Paquete,9.4,vivanda,BIMBO,CEBADA TOSTADA SOLUBLE
-Tostadas BIMBO Integrales Paquete 10un,S/ 9.40,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,10.0,un,Tostadas BIMBO Integrales Paquete,9.4,vivanda,BIMBO,CEBADA TOSTADA SOLUBLE
-Tostadas Clásicas Bimbo Paquete 10 unid,S/ 9.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tostadas Clásicas Bimbo Paquete,9.5,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Integrales Bimbo 10un,S/ 9.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tostadas Integrales Bimbo,9.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco LAIVE Vio sin Endulzante Tetrapack 946ml,S/ 9.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrapack,9.9,vivanda,LAIVE,CEBADA TOSTADA SOLUBLE
-Tortilla Artesanal Clásica El Cedro 12un,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortilla Artesanal Clásica El Cedro,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SPORADE Sabores Surtidos Botella 500ml Paquete 6un,S/ 9.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,500.0,ml,Bebida Rehidratante SPORADE Sabores Surtidos Botella  Paquete,9.9,vivanda,SPORADE,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,6.0,un,Bebida Rehidratante Sporade Pack Surtido  x,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Mini Tostada Il Pastificio Tomate y Orégano 100g,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Mini Tostada Il Pastificio Tomate y Orégano,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Harina Tostada de 7 Semillas Perú Inka 400g,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,400.0,g,Harina Tostada de 7 Semillas Perú Inka,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Mini Tostada Il Pastificio Ajo y Orégano 100g,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Mini Tostada Il Pastificio Ajo y Orégano,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas Artesanales Integrales El Cedro 12un,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas Artesanales Integrales El Cedro,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Energizante VoL Pack 6 Botellas 300ml c/u,S/ 9.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,300.0,ml,Bebida Energizante VoL Pack 6 Botellas  c/u,9.9,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea BELL'S Frasco 170g,S/ 10.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,170.0,g,Cebada Instantánea BELL'S Frasco,10.5,vivanda,BELL'S,CEBADA TOSTADA SOLUBLE
-Bebida de Coco NATURE'S HEART Caja 946ml,S/ 10.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Coco NATURE'S HEART Caja,10.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra NATURE'S HEART Sin Azúcar Caja 946ml,S/ 10.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendra NATURE'S HEART Sin Azúcar Caja,10.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Cuisine & Co 170g,S/ 10.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,170.0,g,Cebada Instantánea Cuisine & Co,10.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco NATURES HEART sin Azúcar Botella 946ml,S/ 10.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Coco NATURES HEART sin Azúcar Botella,10.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Tortillas de Maíz Saniito 12un,S/ 10.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,12.0,un,Tortillas de Maíz Saniito,10.6,metro,,CEBADA TOSTADA SOLUBLE
-"Bruschetas Chips Maretti Tomate, Aceituna y Orégano 150g",S/ 10.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,150.0,g,"Bruschetas Chips Maretti Tomate, Aceituna y Orégano",10.6,metro,,CEBADA TOSTADA SOLUBLE
-Bruschetas Chips Maretti Mediterráneas 150g,S/ 10.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,150.0,g,Bruschetas Chips Maretti Mediterráneas,10.6,metro,,CEBADA TOSTADA SOLUBLE
-"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3.78 lt",S/ 10.63,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,3.78,l,"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella",10.63,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza B&D Frasco 425 g + Kétchup B&D Frasco 425 g,S/ 10.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,425.0,g,Mostaza B&D Frasco  + Kétchup B&D Frasco,10.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra Vainilla Nature's Heart Sin Azúcar Caja 946ml,S/ 10.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Almendra Vainilla Nature's Heart Sin Azúcar Caja,10.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco Nature's Heart Sin Azúcar Caja 946ml,S/ 10.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Coco Nature's Heart Sin Azúcar Caja,10.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Avena Nature's Heart Sin Azúcar Caja 946ml,S/ 10.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Avena Nature's Heart Sin Azúcar Caja,10.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra Nature's Heart Sin Azúcar Caja 946ml,S/ 10.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Almendra Nature's Heart Sin Azúcar Caja,10.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortilla de Trigo Tía Rosa 10un.,S/ 11.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tortilla de Trigo Tía Rosa .,11.5,metro,,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea ECCO Lata 170g,S/ 11.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,170.0,g,Cebada Instantánea ECCO Lata,11.5,vivanda,ECCO,CEBADA TOSTADA SOLUBLE
-Tortillas de Maíz Saniito 8un,S/ 11.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,8.0,un,Tortillas de Maíz Saniito,11.6,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco Laive Vio Caja 946ml,S/ 11.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Coco Laive Vio Caja,11.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco Laive Vio Sin Endulzar Caja 946ml,S/ 11.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Coco Laive Vio Sin Endulzar Caja,11.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra Laive Vio Sin Endulzar Caja 946ml,S/ 11.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,946.0,ml,Bebida de Almendra Laive Vio Sin Endulzar Caja,11.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra LAIVE Vio Tetrapack 946ml,S/ 12.00,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendra LAIVE Vio Tetrapack,12.0,vivanda,LAIVE,CEBADA TOSTADA SOLUBLE
-Tortilla de Maíz Tía Rosa 10un.,S/ 12.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Tortilla de Maíz Tía Rosa .,12.2,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza Heinz Doy Pack 368 g,S/ 12.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,368.0,g,Mostaza Heinz Doy Pack,12.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Coco y Vainilla NATURE'S HEART sin Azúcar Caja 946ml,S/ 12.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Coco y Vainilla NATURE'S HEART sin Azúcar Caja,12.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Bebida de Almendras NATURE'S HEART Almendra y Coco Caja 946ml,S/ 12.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendras NATURE'S HEART Almendra y Coco Caja,12.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Ecco 170g,S/ 12.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,170.0,g,Cebada Instantánea Ecco,12.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante GATORADE Sabores Surtidos Botella 500ml Paquete 6un,S/ 12.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,500.0,ml,Bebida Rehidratante GATORADE Sabores Surtidos Botella  Paquete,12.7,vivanda,GATORADE,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml Paquete 6un,S/ 12.70,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Botella  Paquete,12.7,vivanda,GATORADE,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,S/ 12.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,6.0,un,Bebida Rehidratante Gatorade Pack  x,12.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,S/ 12.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,6.0,un,Bebida Rehidratante Gatorade Monosabor Pack  x,12.9,metro,,CEBADA TOSTADA SOLUBLE
-Tortillas de Trigo Tía Rosa 425g,S/ 13.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,425.0,g,Tortillas de Trigo Tía Rosa,13.5,metro,,CEBADA TOSTADA SOLUBLE
-Mostaza HEINZ Doypack 368g,S/ 13.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,368.0,g,Mostaza HEINZ Doypack,13.9,vivanda,HEINZ,CEBADA TOSTADA SOLUBLE
-Bebida Instantánea de Cebada ECCO Doypack 250g,S/ 13.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,250.0,g,Bebida Instantánea de Cebada ECCO Doypack,13.9,vivanda,ECCO,CEBADA TOSTADA SOLUBLE
-Tortillas de Trigo Tía Rosa Burrera 465g,S/ 13.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,465.0,g,Tortillas de Trigo Tía Rosa Burrera,13.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Avena ORASI Caja 1L,S/ 14.60,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.0,l,Bebida de Avena ORASI Caja,14.6,vivanda,ORASI,CEBADA TOSTADA SOLUBLE
-Bebida de Soya SOY VIDA Concentrada Sixpack Lata 390gr,S/ 14.80,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,390.0,g,Bebida de Soya SOY VIDA Concentrada Sixpack Lata r,14.8,vega,Soy Vida,CEBADA TOSTADA SOLUBLE
-Twelvepack Galletas de Maíz Salmas Horneadas 18g,S/ 14.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,18.0,g,Twelvepack Galletas de Maíz Salmas Horneadas,14.9,metro,,CEBADA TOSTADA SOLUBLE
-Palitos Mini Pizza La Mole Bolsa 100 g,S/ 15.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Palitos Mini Pizza La Mole Bolsa,15.0,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Energizante MONSTER Zero Lata 473ml x 2u,S/ 15.00,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,473.0,ml,Bebida Energizante MONSTER Zero Lata  x 2u,15.0,vega,MONSTER,CEBADA TOSTADA SOLUBLE
-Bebida Energizante MONSTER Ultra Lata 473ml x 2u,S/ 15.00,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,473.0,ml,Bebida Energizante MONSTER Ultra Lata  x 2u,15.0,vega,MONSTER,CEBADA TOSTADA SOLUBLE
-Bebida Energizante MONSTER Lata 473ml x 2u,S/ 15.00,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,473.0,ml,Bebida Energizante MONSTER Lata  x 2u,15.0,vega,MONSTER,CEBADA TOSTADA SOLUBLE
-Bebida Energizante MONSTER Mango Loco Lata 473ml x 2u,S/ 15.00,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,473.0,ml,Bebida Energizante MONSTER Mango Loco Lata  x 2u,15.0,vega,MONSTER,CEBADA TOSTADA SOLUBLE
-Palitos Al Olivo La Mole 100g,S/ 15.00,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Palitos Al Olivo La Mole,15.0,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Vegetal NOT MILK Low Fat Caja 1L,S/ 15.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.0,l,Bebida Vegetal NOT MILK Low Fat Caja,15.9,vivanda,POWER NATURE,CEBADA TOSTADA SOLUBLE
-Tostadas Sin Gluten Santiveri Noglut 100g,S/ 15.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,100.0,g,Tostadas Sin Gluten Santiveri Noglut,15.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Cranberry Bajo en Calorías Cuisine & Co Botella 1.89L,S/ 15.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,1.89,l,Bebida de Cranberry Bajo en Calorías Cuisine & Co Botella,15.9,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas sin Gluten NOGLUT Paquete 100g,S/ 16.00,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,100.0,g,Tostadas sin Gluten NOGLUT Paquete,16.0,vivanda,NOGLUT,CEBADA TOSTADA SOLUBLE
-Bebida Light OCEAN SPRAY Cranberry Caja 1L,S/ 17.00,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,1.0,l,Bebida Light OCEAN SPRAY Cranberry Caja,17.0,vivanda,OCEAN SPRAY,CEBADA TOSTADA SOLUBLE
-Cebada Instantánea Ecco 250g,S/ 17.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,250.0,g,Cebada Instantánea Ecco,17.6,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Avena NATURES HEART Caja 946ml Paquete 2un,S/ 18.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Avena NATURES HEART Caja  Paquete,18.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra sin Azúcar NATURES HEART Caja 946ml Paquete 2un,S/ 18.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendra sin Azúcar NATURES HEART Caja  Paquete,18.5,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra LAIVE Vio Caja 946ml Paquete 2un,S/ 18.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendra LAIVE Vio Caja  Paquete,18.5,vivanda,LAIVE,CEBADA TOSTADA SOLUBLE
-Bebida Instantánea Nescafé Gold Capuccino 10un,S/ 19.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,10.0,un,Bebida Instantánea Nescafé Gold Capuccino,19.5,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SUEROX Surtido Botella 630ml Paquete 4un,S/ 19.50,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,630.0,ml,Bebida Rehidratante SUEROX Surtido Botella  Paquete,19.5,vivanda,SUEROX,CEBADA TOSTADA SOLUBLE
-Pack x2 Tortilla de Trigo Tía Rosa Paquete 260g,S/ 22.20,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,260.0,g,Pack x2 Tortilla de Trigo Tía Rosa Paquete,22.2,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas NATCRACKERS Datiles y Almendras Caja 160g,S/ 22.39,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,160.0,g,Tostadas NATCRACKERS Datiles y Almendras Caja,22.39,vivanda,NATCRACKERS,CEBADA TOSTADA SOLUBLE
-Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,S/ 22.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,360.0,g,Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja,22.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata 400 gr,S/ 23.10,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,400.0,g,Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata r,23.1,metro,,CEBADA TOSTADA SOLUBLE
-Pack x2 Tortilla de Maíz Tía Rosa Paquete 255g,S/ 23.40,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,255.0,g,Pack x2 Tortilla de Maíz Tía Rosa Paquete,23.4,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas NATCRACKERS Cranberry y Nuez Caja 160g,S/ 25.10,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,160.0,g,Tostadas NATCRACKERS Cranberry y Nuez Caja,25.1,vivanda,NATCRACKERS,CEBADA TOSTADA SOLUBLE
-Pack x2 Tortillas de Trigo Tía Rosa Paquete 425g,S/ 25.80,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,425.0,g,Pack x2 Tortillas de Trigo Tía Rosa Paquete,25.8,metro,,CEBADA TOSTADA SOLUBLE
-Pack x2 Tortillas de Trigo Tía Rosa Burrera Paquete 465g,S/ 26.60,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,465.0,g,Pack x2 Tortillas de Trigo Tía Rosa Burrera Paquete,26.6,metro,,CEBADA TOSTADA SOLUBLE
-Tostadas Bimbo Pack 3 unid: Tostadas Clásicas + Tostadas Integrales,S/ 27.40,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,3.0,un,Tostadas Bimbo Pack : Tostadas Clásicas + Tostadas Integrales,27.4,metro,,CEBADA TOSTADA SOLUBLE
-Tripack Tortillas Bimbo Rapiditas Cero Cero 280g,S/ 31.50,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,280.0,g,Tripack Tortillas Bimbo Rapiditas Cero Cero,31.5,metro,,CEBADA TOSTADA SOLUBLE
-Hojuelas Integrales Honey Bunches Miel Tostada 340g,S/ 38.90,metro,CEBADA TOSTADA SOLUBLE,2024-12-04 22:21:51.637871,340.0,g,Hojuelas Integrales Honey Bunches Miel Tostada,38.9,metro,,CEBADA TOSTADA SOLUBLE
-Bebida de Almendra NATURE'S HEART sin Azúcar 946ml Paquete 6un,S/ 47.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,946.0,ml,Bebida de Almendra NATURE'S HEART sin Azúcar  Paquete,47.9,vivanda,NATURE'S HEART,CEBADA TOSTADA SOLUBLE
-Mix de Semillas Tostadas con Miel PLANTERS Envase de Plástico 283g,S/ 59.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,283.0,g,Mix de Semillas Tostadas con Miel PLANTERS Envase de Plástico,59.9,vivanda,PLANTERS,CEBADA TOSTADA SOLUBLE
-Mix de Semillas Tostadas PLANTERS Envase de Plástico 292g,S/ 59.90,vivanda,CEBADA TOSTADA SOLUBLE,2024-12-04 18:17:08.593926,292.0,g,Mix de Semillas Tostadas PLANTERS Envase de Plástico,59.9,vivanda,PLANTERS,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml x 12u,S/ 78.00,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,630.0,ml,Bebida Rehidratante SUEROX Sabor a Mandarina Botella  x 12u,78.0,vega,SUEROX,CEBADA TOSTADA SOLUBLE
-Bebida FRUGOS VALLE Fresh Botella 500ml Paquete 12u,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,500.0,ml,Bebida FRUGOS VALLE Fresh Botella  Paquete 12u,,vega,Frugos,CEBADA TOSTADA SOLUBLE
-Bebida FRUGOS VALLE Fresh Fruit Punch Botella 500ml x 12u,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,500.0,ml,Bebida FRUGOS VALLE Fresh Fruit Punch Botella  x 12u,,vega,Frugos,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante SPORADE Uva Botella 500ml x 2u,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,500.0,ml,Bebida Rehidratante SPORADE Uva Botella  x 2u,,vega,Sporade,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante GATORADE Blue Pack 12un Botella 500ml,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,12.0,un,Bebida Rehidratante GATORADE Blue Pack  Botella,,vega,Gatorade,CEBADA TOSTADA SOLUBLE
-Bebida Rehidratante GATORADE Apple Ice Pack 12un Botella 500ml,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,12.0,un,Bebida Rehidratante GATORADE Apple Ice Pack  Botella,,vega,Gatorade,CEBADA TOSTADA SOLUBLE
-Bebida Energizante VOLT Gingseng Sin Azúcar Paquete 12u Botella 300ml,,vega,CEBADA TOSTADA SOLUBLE,2024-12-04 14:44:12.813733,300.0,ml,Bebida Energizante VOLT Gingseng Sin Azúcar Paquete 12u Botella,,vega,Volt,CEBADA TOSTADA SOLUBLE
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Cebada Instantánea Ecco 12g,,12.0,g,1.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,g,1.0,CEBADA TOSTADA SOLUBLE
+Bebida Con Gas San Luis Manzana Botella 625ml,,625.0,ml,2.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,625.0,ml,2.2,CEBADA TOSTADA SOLUBLE
+Bebida en Polvo Clight Sin Calorías Sabor Fresa 14g,,14.0,g,2.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,14.0,g,2.3,CEBADA TOSTADA SOLUBLE
+Bebida en Polvo Clight Sin Calorías Sabor Naranja 14g,,14.0,g,2.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,14.0,g,2.3,CEBADA TOSTADA SOLUBLE
+Bebida en Polvo Clight Sin Calorías Sabor Piña 14g,,14.0,g,2.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,14.0,g,2.3,CEBADA TOSTADA SOLUBLE
+Bebida de Soya SOY VIDA Concentrada Lata 390gr,Soy Vida,390.0,g,2.5,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,390.0,g,2.5,CEBADA TOSTADA SOLUBLE
+Maicena UNIVERSAL Bolsa 100gr,Universal,100.0,g,2.5,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,100.0,g,2.5,CEBADA TOSTADA SOLUBLE
+Maizena UNIVERSAL Bolsa 180gr,Universal,180.0,g,3.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,180.0,g,3.0,CEBADA TOSTADA SOLUBLE
+Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml,,800.0,ml,3.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,800.0,ml,3.2,CEBADA TOSTADA SOLUBLE
+Mostaza Cuisine & Co 200g,,200.0,g,3.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,200.0,g,3.5,CEBADA TOSTADA SOLUBLE
+Mix de Cebada Coppisac 350g,,350.0,g,3.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,350.0,g,3.5,CEBADA TOSTADA SOLUBLE
+Bebida Chocolatada La Preferida 800ml,,800.0,ml,3.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,800.0,ml,3.6,CEBADA TOSTADA SOLUBLE
+Bebida de Naranja Gloria Caja 1L,,1.0,l,3.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,3.9,CEBADA TOSTADA SOLUBLE
+Bebida de Maracuyá Gloria Caja 1L,,1.0,l,3.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,3.9,CEBADA TOSTADA SOLUBLE
+Bebida de Piña Gloria Caja 1L,,1.0,l,3.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,3.9,CEBADA TOSTADA SOLUBLE
+Tortillas de maiz VEGA Natural Bolsa 150g,Vega,150.0,g,3.9,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,150.0,g,3.9,CEBADA TOSTADA SOLUBLE
+Tortillas de maiz VEGA Picante Bolsa 150g,Vega,150.0,g,3.9,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,150.0,g,3.9,CEBADA TOSTADA SOLUBLE
+Bebida de Durazno Frugos del Valle Caja 970ml,,970.0,ml,3.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,970.0,ml,3.9,CEBADA TOSTADA SOLUBLE
+Bebida de Mango y Fresa Frugos del Valle Caja 1L,,1.0,l,4.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,4.5,CEBADA TOSTADA SOLUBLE
+Bebida de Naranja Gloria Caja 1.5L,,1.5,l,4.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.5,l,4.9,CEBADA TOSTADA SOLUBLE
+"Cerveza Sin Alcohol Mahou 0,0 Tostada Botella 330ml",,330.0,ml,5.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,330.0,ml,5.0,CEBADA TOSTADA SOLUBLE
+"Cerveza Sin Alcohol Mahou 0,0 Tostada Lata 330ml",,330.0,ml,5.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,330.0,ml,5.0,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Salmitas Caja 80 g,,80.0,g,5.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,80.0,g,5.2,CEBADA TOSTADA SOLUBLE
+Mostaza Libbys Doypack 200 g,,200.0,g,5.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,200.0,g,5.3,CEBADA TOSTADA SOLUBLE
+Mostaza AlaCena 220g,,220.0,g,5.4,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,220.0,g,5.4,CEBADA TOSTADA SOLUBLE
+Bebida de Durazno Frugos del Valle Caja 1.5L,,1.5,l,5.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.5,l,5.5,CEBADA TOSTADA SOLUBLE
+Bebida de Naranja Frugos del Valle Caja 1.5L,,1.5,l,5.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.5,l,5.5,CEBADA TOSTADA SOLUBLE
+Bebida de Manzana Frugos del Valle Caja 1.5L,,1.5,l,5.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.5,l,5.5,CEBADA TOSTADA SOLUBLE
+Bebida Frugos Fresh Citrus Botella 3L,,3.0,l,5.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,3.0,l,5.9,CEBADA TOSTADA SOLUBLE
+"Bruschetas Chips Maretti Tomate, Aceituna y Orégano 70g",,70.0,g,5.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,70.0,g,5.9,CEBADA TOSTADA SOLUBLE
+Bebida Frugos del Valle Fresh Fruit Punch Botella 3L,,3.0,l,5.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,3.0,l,5.9,CEBADA TOSTADA SOLUBLE
+Bruschetas Chips Maretti Mediterráneas 70g,,70.0,g,5.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,70.0,g,5.9,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Kimbo Doypack 100 g,,100.0,g,6.1,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,6.1,CEBADA TOSTADA SOLUBLE
+Bebida de Soya UHT Soy Vida Caja 1L,,1.0,l,6.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,6.2,CEBADA TOSTADA SOLUBLE
+Mini Tostadas Clásicas Metro 110g,,110.0,g,6.25,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,110.0,g,6.25,CEBADA TOSTADA SOLUBLE
+Croutones de Pan Caja 60 g,,60.0,g,6.4,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,60.0,g,6.4,CEBADA TOSTADA SOLUBLE
+Bebida con Avena Gloria Acti Avena Caja 1L,,1.0,l,6.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,6.5,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales Metro Paquete 125 g,,125.0,g,6.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,125.0,g,6.9,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas Metro Paquete 115 g,,115.0,g,6.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,115.0,g,6.9,CEBADA TOSTADA SOLUBLE
+Tortillas Tradicionales Cuisine & Co 12un,,12.0,un,6.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,6.9,CEBADA TOSTADA SOLUBLE
+Tortillas con Salvado de Trigo Cuisine & Co 12un,,12.0,un,6.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,6.9,CEBADA TOSTADA SOLUBLE
+Cebada Tostada Bolsa 150 g,,150.0,g,7.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,150.0,g,7.0,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Ecco 80g,,80.0,g,7.1,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,80.0,g,7.1,CEBADA TOSTADA SOLUBLE
+"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3L",,3.0,l,7.1,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,3.0,l,7.1,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales PYC Paquete 8 unid,,8.0,un,7.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,8.0,un,7.2,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas PYC Paquete 8 unid,,8.0,un,7.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,8.0,un,7.2,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales 20un,,20.0,un,7.59,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,20.0,un,7.59,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas 20un,,20.0,un,7.59,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,20.0,un,7.59,CEBADA TOSTADA SOLUBLE
+Bebida con Soya Laive Vio Caja 946ml,,946.0,ml,7.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,7.6,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas Unión Bolsa 10 unid,,10.0,un,7.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,7.6,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales Unión Bolsa 10 unid,,10.0,un,7.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,7.6,CEBADA TOSTADA SOLUBLE
+Tortillas Bimbo Rapiditas Cero Cero 280g,,280.0,g,7.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,280.0,g,7.9,CEBADA TOSTADA SOLUBLE
+Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid,,12.0,un,7.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,7.9,CEBADA TOSTADA SOLUBLE
+Tortillas de Trigo Clásicas Rapiditas Wraps Bimbo Paquete 6 unid,,6.0,un,7.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,6.0,un,7.9,CEBADA TOSTADA SOLUBLE
+Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete 12 unid,,12.0,un,7.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,7.9,CEBADA TOSTADA SOLUBLE
+Tostadas Piqueo Arito Don Mamino 85 G,,85.0,g,7.99,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,7.99,CEBADA TOSTADA SOLUBLE
+Tostaditas Piqueo Don Mamino Arito salvado de Trigo Caja 85 g,,85.0,g,7.99,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,7.99,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas Bauducco 42g,,42.0,g,8.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,42.0,g,8.3,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales 142 g,,142.0,g,8.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,142.0,g,8.3,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 90 g,,90.0,g,8.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,90.0,g,8.3,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Salmas 144g,,144.0,g,8.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,144.0,g,8.5,CEBADA TOSTADA SOLUBLE
+Galletas Salmas Camote y Zanahoria 126g,,126.0,g,8.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,126.0,g,8.5,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Salmas Granos y Semillas 126g,,126.0,g,8.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,126.0,g,8.5,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Salmas Maíz Morado 126g,,126.0,g,8.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,126.0,g,8.5,CEBADA TOSTADA SOLUBLE
+Mostaza AlaCena 400g,,400.0,g,8.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,400.0,g,8.6,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Kimbo Frasco 164 g,,164.0,g,8.7,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,164.0,g,8.7,CEBADA TOSTADA SOLUBLE
+Bebida De Almendra Sin Gluten y Sin Azúcar Cuisine & Co Caja 1 Litro,,1.0,l,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Cuadradas Don Mamino Salvado de Trigo Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Piqueo Don Mamino Marmoleadas Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Cuadradas Don Mamino Clásicas Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Piqueo Don Mamino Naturales Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Bebida de Coco Cuisine & Co Sin Azúcar Añadida Caja 1L,,1.0,l,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Piqueo Don Mamino Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Bebida de Almendra Original Cuisine & Co Caja 1 lt,,1.0,l,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.0,l,8.9,CEBADA TOSTADA SOLUBLE
+Tostaditas Cuadradas Don Mamino Marmoleadas Caja 85 g,,85.0,g,8.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,85.0,g,8.9,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales Bimbo Cero Cero 140g,,140.0,g,9.3,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,140.0,g,9.3,CEBADA TOSTADA SOLUBLE
+Tostadas Integrales Bimbo 10un,,10.0,un,9.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,9.5,CEBADA TOSTADA SOLUBLE
+Tostadas Clásicas Bimbo Paquete 10 unid,,10.0,un,9.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,9.5,CEBADA TOSTADA SOLUBLE
+Mini Tostada Il Pastificio Tomate y Orégano 100g,,100.0,g,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,9.9,CEBADA TOSTADA SOLUBLE
+Mini Tostada Il Pastificio Ajo y Orégano 100g,,100.0,g,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,9.9,CEBADA TOSTADA SOLUBLE
+Bebida Energizante VoL Pack 6 Botellas 300ml c/u,,300.0,ml,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,300.0,ml,9.9,CEBADA TOSTADA SOLUBLE
+Harina Tostada de 7 Semillas Perú Inka 400g,,400.0,g,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,400.0,g,9.9,CEBADA TOSTADA SOLUBLE
+Tortilla Artesanal Clásica El Cedro 12un,,12.0,un,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,9.9,CEBADA TOSTADA SOLUBLE
+Tortillas Artesanales Integrales El Cedro 12un,,12.0,un,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,9.9,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,,6.0,un,9.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,6.0,un,9.9,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Cuisine & Co 170g,,170.0,g,10.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,170.0,g,10.5,CEBADA TOSTADA SOLUBLE
+Tortillas de Maíz Saniito 12un,,12.0,un,10.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,12.0,un,10.6,CEBADA TOSTADA SOLUBLE
+"Bruschetas Chips Maretti Tomate, Aceituna y Orégano 150g",,150.0,g,10.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,150.0,g,10.6,CEBADA TOSTADA SOLUBLE
+Bruschetas Chips Maretti Mediterráneas 150g,,150.0,g,10.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,150.0,g,10.6,CEBADA TOSTADA SOLUBLE
+"Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3.78 lt",,3.78,l,10.63,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,3.78,l,10.63,CEBADA TOSTADA SOLUBLE
+Bebida de Avena Nature's Heart Sin Azúcar Caja 946ml,,946.0,ml,10.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,10.9,CEBADA TOSTADA SOLUBLE
+Bebida de Almendra Nature's Heart Sin Azúcar Caja 946ml,,946.0,ml,10.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,10.9,CEBADA TOSTADA SOLUBLE
+Bebida de Coco Nature's Heart Sin Azúcar Caja 946ml,,946.0,ml,10.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,10.9,CEBADA TOSTADA SOLUBLE
+Mostaza B&D Frasco 425 g + Kétchup B&D Frasco 425 g,,425.0,g,10.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,425.0,g,10.9,CEBADA TOSTADA SOLUBLE
+Bebida de Almendra Vainilla Nature's Heart Sin Azúcar Caja 946ml,,946.0,ml,10.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,10.9,CEBADA TOSTADA SOLUBLE
+Tortilla de Trigo Tía Rosa 10un.,,10.0,un,11.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,11.5,CEBADA TOSTADA SOLUBLE
+Tortillas de Maíz Saniito 8un,,8.0,un,11.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,8.0,un,11.6,CEBADA TOSTADA SOLUBLE
+Bebida de Almendra Laive Vio Sin Endulzar Caja 946ml,,946.0,ml,11.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,11.9,CEBADA TOSTADA SOLUBLE
+Bebida de Coco Laive Vio Sin Endulzar Caja 946ml,,946.0,ml,11.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,11.9,CEBADA TOSTADA SOLUBLE
+Bebida de Coco Laive Vio Caja 946ml,,946.0,ml,11.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,946.0,ml,11.9,CEBADA TOSTADA SOLUBLE
+Tortilla de Maíz Tía Rosa 10un.,,10.0,un,12.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,12.2,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Ecco 170g,,170.0,g,12.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,170.0,g,12.5,CEBADA TOSTADA SOLUBLE
+Mostaza Heinz Doy Pack 368 g,,368.0,g,12.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,368.0,g,12.5,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,,6.0,un,12.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,6.0,un,12.9,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,,6.0,un,12.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,6.0,un,12.9,CEBADA TOSTADA SOLUBLE
+Tortillas de Trigo Tía Rosa 425g,,425.0,g,13.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,425.0,g,13.5,CEBADA TOSTADA SOLUBLE
+Cebada Instantáneo ECCO Doypack 250gr,Ecco,250.0,g,13.9,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,250.0,g,13.9,CEBADA TOSTADA SOLUBLE
+Tortillas de Trigo Tía Rosa Burrera 465g,,465.0,g,13.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,465.0,g,13.9,CEBADA TOSTADA SOLUBLE
+Bebida de Soya SOY VIDA Concentrada Sixpack Lata 390gr,Soy Vida,390.0,g,14.8,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,390.0,g,14.8,CEBADA TOSTADA SOLUBLE
+Twelvepack Galletas de Maíz Salmas Horneadas 18g,,18.0,g,14.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,18.0,g,14.9,CEBADA TOSTADA SOLUBLE
+Bebida Energizante MONSTER Mango Loco Lata 473ml x 2u,MONSTER,473.0,ml,15.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,473.0,ml,15.0,CEBADA TOSTADA SOLUBLE
+Bebida Energizante MONSTER Lata 473ml x 2u,MONSTER,473.0,ml,15.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,473.0,ml,15.0,CEBADA TOSTADA SOLUBLE
+Palitos Al Olivo La Mole 100g,,100.0,g,15.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,15.0,CEBADA TOSTADA SOLUBLE
+Bebida Energizante MONSTER Ultra Lata 473ml x 2u,MONSTER,473.0,ml,15.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,473.0,ml,15.0,CEBADA TOSTADA SOLUBLE
+Palitos Mini Pizza La Mole Bolsa 100 g,,100.0,g,15.0,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,15.0,CEBADA TOSTADA SOLUBLE
+Bebida Energizante MONSTER Zero Lata 473ml x 2u,MONSTER,473.0,ml,15.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,473.0,ml,15.0,CEBADA TOSTADA SOLUBLE
+Bebida de Cranberry Bajo en Calorías Cuisine & Co Botella 1.89L,,1.89,l,15.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,1.89,l,15.9,CEBADA TOSTADA SOLUBLE
+Tostadas Sin Gluten Santiveri Noglut 100g,,100.0,g,15.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,100.0,g,15.9,CEBADA TOSTADA SOLUBLE
+Cebada Instantánea Ecco 250g,,250.0,g,17.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,250.0,g,17.6,CEBADA TOSTADA SOLUBLE
+Bebida Instantánea Nescafé Gold Capuccino 10un,,10.0,un,19.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,10.0,un,19.5,CEBADA TOSTADA SOLUBLE
+Pack x2 Tortilla de Trigo Tía Rosa Paquete 260g,,260.0,g,22.2,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,260.0,g,22.2,CEBADA TOSTADA SOLUBLE
+Galletas de Maíz Horneadas Sin Gluten Salmas Sanissimo Caja 360 g,,360.0,g,22.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,360.0,g,22.9,CEBADA TOSTADA SOLUBLE
+Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata 400 gr,,400.0,g,23.1,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,400.0,g,23.1,CEBADA TOSTADA SOLUBLE
+Pack x2 Tortilla de Maíz Tía Rosa Paquete 255g,,255.0,g,23.4,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,255.0,g,23.4,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante SPORADE Tropical Botella 1.5lt Paquete 6u,Sporade,1.5,l,23.5,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,1.5,l,23.5,CEBADA TOSTADA SOLUBLE
+Bruschetta con Tomate y Orégano La Mole 150g,,150.0,g,23.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,150.0,g,23.9,CEBADA TOSTADA SOLUBLE
+Pack x2 Tortillas de Trigo Tía Rosa Paquete 425g,,425.0,g,25.8,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,425.0,g,25.8,CEBADA TOSTADA SOLUBLE
+Pack x2 Tortillas de Trigo Tía Rosa Burrera Paquete 465g,,465.0,g,26.6,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,465.0,g,26.6,CEBADA TOSTADA SOLUBLE
+Tostadas Bimbo Pack 3 unid: Tostadas Clásicas + Tostadas Integrales,,3.0,un,27.4,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,3.0,un,27.4,CEBADA TOSTADA SOLUBLE
+Bebida Energizante Red Bull Sugar Free Pack de 4 unid Lata 250 ml,,4.0,un,28.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,4.0,un,28.5,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante GATORADE Tropical Fruit Pack 12un Botella 500ml,Gatorade,12.0,un,30.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,12.0,un,30.0,CEBADA TOSTADA SOLUBLE
+Tripack Tortillas Bimbo Rapiditas Cero Cero 280g,,280.0,g,31.5,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,280.0,g,31.5,CEBADA TOSTADA SOLUBLE
+Hojuelas Integrales Honey Bunches Miel Tostada 340g,,340.0,g,38.9,metro,2024-12-04 22:21:51.637871,CEBADA TOSTADA SOLUBLE,340.0,g,38.9,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante SUEROX Sabor a Mandarina Botella 630ml x 12u,SUEROX,630.0,ml,78.0,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,630.0,ml,78.0,CEBADA TOSTADA SOLUBLE
+Bebida FRUGOS VALLE Fresh Botella 500ml Paquete 12u,Frugos,500.0,ml,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,500.0,ml,,CEBADA TOSTADA SOLUBLE
+Bebida FRUGOS VALLE Fresh Fruit Punch Botella 500ml x 12u,Frugos,500.0,ml,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,500.0,ml,,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante SPORADE Uva Botella 500ml x 2u,Sporade,500.0,ml,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,500.0,ml,,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante GATORADE Blue Pack 12un Botella 500ml,Gatorade,12.0,un,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,12.0,un,,CEBADA TOSTADA SOLUBLE
+Bebida Rehidratante GATORADE Apple Ice Pack 12un Botella 500ml,Gatorade,12.0,un,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,12.0,un,,CEBADA TOSTADA SOLUBLE
+Bebida Energizante VOLT Gingseng Sin Azúcar Paquete 12u Botella 300ml,Volt,300.0,ml,,vega,2024-12-04 14:44:12.813733,CEBADA TOSTADA SOLUBLE,300.0,ml,,CEBADA TOSTADA SOLUBLE

@@ -1,0 +1,94 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1.1 kg aprox.,Hamburguesa Casera de Res LA FLORENCIA,S/ 19.90 x kg,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,1.1,kg,Hamburguesa Casera de Res LA FLORENCIA,19.9
+Presentación 1.2 kg aprox.,Hamburguesa de Res Premium LA FLORENCIA,S/ 25.90 x kg,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,1.2,kg,Hamburguesa de Res Premium LA FLORENCIA,25.9
+Paquete 14un,Hamburguesa de pollo REDONDOS Bolsa 14un,S/ 11.99 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,14.0,un,Hamburguesa de pollo REDONDOS Bolsa,11.99
+Bolsa 850g,Hamburguesa de Carne La Super SAN FERNANDO Bol...,S/ 12.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,850.0,g,Hamburguesa de Carne La Super SAN FERNANDO Bol,12.7
+Bolsa 910g,Hamburguesa de Carne La Casera SAN FERNANDO Bo...,S/ 12.60 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,910.0,g,Hamburguesa de Carne La Casera SAN FERNANDO Bo,12.6
+Paquete 8un,Hamburguesa OTTO KUNZ Premium de Res Bolsa 8un,S/ 23.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Hamburguesa OTTO KUNZ Premium de Res Bolsa,23.9
+Bolsa 4un,Hamburguesa OTTO KUNZ Premium de Res Bolsa 4un,S/ 13.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OTTO KUNZ Premium de Res Bolsa,13.9
+Bolsa 910g,Hamburguesa La Casera de Pollo SAN FERNANDO Bo...,S/ 12.69 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,910.0,g,Hamburguesa La Casera de Pollo SAN FERNANDO Bo,12.69
+Bolsa 8un,Hamburguesa de Res OREGON Foods Bolsa 8un,S/ 26.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Hamburguesa de Res OREGON Foods Bolsa,26.9
+Caja 4un,Hamburguesa OREGON FOODS Parrillera Novillo Ca...,S/ 31 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OREGON FOODS Parrillera Novillo Ca,31.0
+Caja 4un,Hamburguesa OREGON FOODS Carne Angus Caja 4un,S/ 52.59 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OREGON FOODS Carne Angus Caja,52.59
+Bolsa 600g,Mini Hamburguesas de Res RANCHERAS Bolsa 600g,S/ 17.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Mini Hamburguesas de Res RANCHERAS Bolsa,17.7
+Bolsa 14un,Hamburguesas Practiburguer con Carne BELL'S Bo...,S/ 12.99 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,14.0,un,Hamburguesas Practiburguer con Carne BELL'S Bo,12.99
+Bolsa 8un,Hamburguesa de Res y Cerdo SAN FERNANDO Bolsa ...,S/ 23.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Hamburguesa de Res y Cerdo SAN FERNANDO Bolsa,23.9
+Caja 4un,Hamburguesa de Pollo Parrillera REDONDOS Caja ...,S/ 19.30 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa de Pollo Parrillera REDONDOS Caja,19.3
+Bolsa 360g,Hamburguesa de Pollo REDONDOS Bolsa 360g,S/ 5.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,360.0,g,Hamburguesa de Pollo REDONDOS Bolsa,5.9
+Bolsa 8un,Hamburguesas Practiburguer con Carne BELL'S Bo...,S/ 7.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Hamburguesas Practiburguer con Carne BELL'S Bo,7.9
+Bolsa 510g,Hamburguesa de Pollo SAN FERNANDO Bolsa 6un,S/ 19.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,510.0,g,Hamburguesa de Pollo SAN FERNANDO Bolsa,19.5
+Caja 600g,Mini Hamburguesa Parrillera OTTO KUNZ Caja 600...,S/ 29.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Mini Hamburguesa Parrillera OTTO KUNZ Caja 600,29.9
+Bolsa 340g,Hamburguesa de Res LOS HIERROS Bolsa 4un x 85g,S/ 13.49 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,340.0,g,Hamburguesa de Res LOS HIERROS Bolsa  x,13.49
+Paquete 4un,Hamburguesa OTTO KUNZ Parrillera de Res Bolsa ...,S/ 28.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OTTO KUNZ Parrillera de Res Bolsa,28.9
+Bolsa 600g,Hamburguesa de Res LOS HIERROS Bolsa 4un x 150...,S/ 22.49 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Hamburguesa de Res LOS HIERROS Bolsa  x 150,22.49
+Presentación 1 kg aprox.,Hamburguesa de Pollo Casera REDONDOS,S/ 16.90 x kg,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,1.0,kg,Hamburguesa de Pollo Casera REDONDOS,16.9
+Caja 600g,Mini Hamburguesas OREGON FOODS Carne Angus Caj...,S/ 49.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Mini Hamburguesas OREGON FOODS Carne Angus Caj,49.5
+Caja 4un,Hamburguesa OREGON FOODS Parrillera de Pollo C...,S/ 23 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OREGON FOODS Parrillera de Pollo C,23.0
+Caja 4un,Hamburguesa Parrillera BELL'S SELECCIÓN Paquet...,S/ 17.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Parrillera BELL'S SELECCIÓN Paquet,17.9
+Caja 240g,Hamburguesa Gluten Free FLEXFOOD Caja 240g,S/ 17.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,240.0,g,Hamburguesa Gluten Free FLEXFOOD Caja,17.5
+Caja 150g,Hamburguesa de Soya BHAKTI NATURA Caja 150g,S/ 8 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,150.0,g,Hamburguesa de Soya BHAKTI NATURA Caja,8.0
+Caja 4un,Hamburguesa de Pollo Parrillera Finas Hierbas ...,S/ 17.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa de Pollo Parrillera Finas Hierbas,17.9
+Paquete 10un,Mini Hamburguesa Angus BELL'S SELECCIÓN Paquet...,S/ 22.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Mini Hamburguesa Angus BELL'S SELECCIÓN Paquet,22.9
+Caja 600g,Hamburguesa Parrillera de Pollo AVINKA Caja 4u...,S/ 20.40 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Hamburguesa Parrillera de Pollo AVINKA Caja 4u,20.4
+Bolsa 8un,Hamburguesa de Pollo OREGON FOODS Bolsa 8un,S/ 25.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Hamburguesa de Pollo OREGON FOODS Bolsa,25.9
+Caja 400g,Hamburguesa de Lentejas DELLANATURA Caja 400g,S/ 20.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,400.0,g,Hamburguesa de Lentejas DELLANATURA Caja,20.9
+Bolsa 4un,Hamburguesa de Salmón UMI Bolsa 360g,S/ 17.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa de Salmón UMI Bolsa,17.9
+Caja 10un,Hamburguesa La Magnifica Bolsa 10un,S/ 24.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Hamburguesa La Magnifica Bolsa,24.9
+Caja 4un,Hamburguesa OREGON FOODS Bife Caja 4un,S/ 55.10 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa OREGON FOODS Bife Caja,55.1
+Bolsa 500g,Hamburguesa de Trucha PISCIS Bolsa 500g,S/ 22.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,500.0,g,Hamburguesa de Trucha PISCIS Bolsa,22.9
+Caja 4un,Hamburguesa Parrillera BON BEEF Caja 4un,S/ 31.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Parrillera BON BEEF Caja,31.9
+Caja 400g,Hamburguesa de Garbanzos DELLANATURA Caja 400g,S/ 16.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,400.0,g,Hamburguesa de Garbanzos DELLANATURA Caja,16.9
+Caja 5un,Hamburguesa de Lentejas y Champiñones SANÚA Ca...,S/ 21.19 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,5.0,un,Hamburguesa de Lentejas y Champiñones SANÚA Ca,21.19
+Caja 4un,Hamburguesa Angus OTTO KUNZ Caja 4 un,S/ 57.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Angus OTTO KUNZ Caja,57.9
+Bolsa 504g,Hamburguesa de Pollo LOS HIERROS Bolsa 8un x 6...,S/ 11.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,504.0,g,Hamburguesa de Pollo LOS HIERROS Bolsa  x 6,11.9
+Caja 400g,Hamburguesa Vegetal de Finas Hierbas DELLANATU...,S/ 16.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,400.0,g,Hamburguesa Vegetal de Finas Hierbas DELLANATU,16.9
+Caja 500g,Hamburguesa de Pescado BELL'S Caja 500g,S/ 16.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,500.0,g,Hamburguesa de Pescado BELL'S Caja,16.9
+Caja 8un,Mini Hamburguesa Angus BON BEEF Caja 8un,S/ 31.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Mini Hamburguesa Angus BON BEEF Caja,31.9
+Presentación 1 kg aprox.,Hamburguesa de Pollo Parrillera Premium,S/ 25.90 x kg,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,1.0,kg,Hamburguesa de Pollo Parrillera Premium,25.9
+Caja 4un,Hamburguesa Angus BON BEEF Caja 4un,S/ 51.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Angus BON BEEF Caja,51.9
+Caja 5un,Hamburguesa de Garbanzos y Espinacas SANÚA Caj...,S/ 21.19 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,5.0,un,Hamburguesa de Garbanzos y Espinacas SANÚA Caj,21.19
+Paquete 4un,Hamburguesa Angus BELL'S SELECCIÓN Paquete 4un,S/ 32.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Angus BELL'S SELECCIÓN Paquete,32.9
+Caja 400g,Hamburguesa de Quinua DELLANATURA Caja 400g,S/ 22.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,400.0,g,Hamburguesa de Quinua DELLANATURA Caja,22.9
+Caja 600g,Hamburguesa Veggie BON BEEF Caja 600g,S/ 23.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Hamburguesa Veggie BON BEEF Caja,23.9
+Caja 5un,Hamburguesa Mixta SANÚA Caja 5un,S/ 21.19 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,5.0,un,Hamburguesa Mixta SANÚA Caja,21.19
+Caja 10un,Mix Mini Hamburguesas SANÚA Caja 500g,S/ 21.19 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Mix Mini Hamburguesas SANÚA Caja,21.19
+Paquete 4un,Hamburguesa Angus Rellena de Queso Cheddar BON...,S/ 54.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Hamburguesa Angus Rellena de Queso Cheddar BON,54.9
+Caja 36un,Nuggets de Pechuga de Pollo REDONDOS Caja 36un,S/ 14.80 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,36.0,un,Nuggets de Pechuga de Pollo REDONDOS Caja,14.8
+Paquete 10un,Nuggets de Pollo San Fernando Paquete 10un,S/ 4.40 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Nuggets de Pollo San Fernando Paquete,4.4
+Caja 24un,Nuggets Pechuga de Pollo San Fernando Caja 24u...,S/ 14.20 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,24.0,un,Nuggets Pechuga de Pollo San Fernando Caja 24u,14.2
+Bolsa 12un,Dedos de Pollo AVINKA 270g Bolsa 12un x 270g,S/ 11.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,12.0,un,Dedos de Pollo AVINKA  Bolsa  x,11.5
+Bolsa 270g,Nuggets de Pollo con Quinua AVINKA Bolsa 15un,S/ 9.49 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,270.0,g,Nuggets de Pollo con Quinua AVINKA Bolsa,9.49
+Bolsa 350g,Chicharrón de Pollo AVINKA Bolsa 350g,S/ 16.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,350.0,g,Chicharrón de Pollo AVINKA Bolsa,16.7
+Bolsa 8un,Tiras de Pechuga de Pollo Empanizados REDONDOS...,S/ 12.60 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,8.0,un,Tiras de Pechuga de Pollo Empanizados REDONDOS,12.6
+Bolsa 15un,Nuggets de Pollo con Brócoli AVINKA Bolsa 15un,S/ 9.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,15.0,un,Nuggets de Pollo con Brócoli AVINKA Bolsa,9.5
+Bolsa 15un,Nuggets de Pollo Precocido AVINKA Bolsa 15un,S/ 10.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,15.0,un,Nuggets de Pollo Precocido AVINKA Bolsa,10.5
+Bolsa 14un,La Súper Rica San Fernando Bolsa 14un,S/ 11.60 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,14.0,un,La Súper Rica San Fernando Bolsa,11.6
+Bolsa 600g,Milanesa de Pollo AVINKA Bolsa 4un,S/ 25.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Milanesa de Pollo AVINKA Bolsa,25.7
+Bolsa 300g,Deditos de Pechuga de Pollo REDONDOS Bolsa 300...,S/ 11.99 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,300.0,g,Deditos de Pechuga de Pollo REDONDOS Bolsa 300,11.99
+Bolsa 350g,Pop Corn Chicken AVINKA Bolsa 350g,S/ 13.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,350.0,g,Pop Corn Chicken AVINKA Bolsa,13.7
+Caja 400g,Alitas sabor a la Brasa REDONDOS Caja 400g,S/ 14.40 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,400.0,g,Alitas sabor a la Brasa REDONDOS Caja,14.4
+Bolsa 12un,Nuggets de Pechuga de Pollo REDONDOS Bolsa 12u...,S/ 5.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,12.0,un,Nuggets de Pechuga de Pollo REDONDOS Bolsa 12u,5.9
+Bolsa 600g,Suprema de Pollo AVINKA Bolsa 4un,S/ 24.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Suprema de Pollo AVINKA Bolsa,24.7
+Bolsa 4un,Milanesa de Pechuga de Pollo OREGON FOODS Bols...,S/ 27.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Milanesa de Pechuga de Pollo OREGON FOODS Bols,27.9
+Bolsa 10un,Chiqui Nuggets REDONDOS Bolsa 270g,S/ 5.10 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Chiqui Nuggets REDONDOS Bolsa,5.1
+Bolsa 15un,Nuggets de Pollo Safari SAN FERNANDO Bolsa 15u...,S/ 11.40 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,15.0,un,Nuggets de Pollo Safari SAN FERNANDO Bolsa 15u,11.4
+Paquete 10un,Nuggets de Pollo Crispy San Fernando Paquete 1...,S/ 5 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Nuggets de Pollo Crispy San Fernando Paquete 1,5.0
+Bolsa 10un,Nuggets de Pavita con Cereales SAN FERNANDO Bo...,S/ 8.79 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Nuggets de Pavita con Cereales SAN FERNANDO Bo,8.79
+Caja 23un,Nuggets de Pechuga de Pollo REDONDOS Caja 23un,S/ 10.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,23.0,un,Nuggets de Pechuga de Pollo REDONDOS Caja,10.9
+Paquete 5un,Nuggets de Pollo Dinosaurios San Fernando Paqu...,S/ 6.70 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,5.0,un,Nuggets de Pollo Dinosaurios San Fernando Paqu,6.7
+Bolsa 4un,Milanesa de Pavo SAN FERNANDO Bolsa 415g,S/ 15.79 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,4.0,un,Milanesa de Pavo SAN FERNANDO Bolsa,15.79
+Caja 600g,Milanesa de Pescado SEAFROST Caja 600g,S/ 17.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,600.0,g,Milanesa de Pescado SEAFROST Caja,17.9
+Paquete 15un,Nuggets de Pollo BELL'S Bolsa 15un,S/ 7.99 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,15.0,un,Nuggets de Pollo BELL'S Bolsa,7.99
+Bolsa 454g,Filete de Tilapia Apanada SANTA PRISCILA Bolsa...,S/ 29.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,454.0,g,Filete de Tilapia Apanada SANTA PRISCILA Bolsa,29.9
+Bolsa 270g,Nuggets Multigranos REDONDOS Bolsa 270g,S/ 7.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,270.0,g,Nuggets Multigranos REDONDOS Bolsa,7.9
+Bolsa 15un,Nuggets de Pechuga de Pollo OREGON FOODS Bolsa...,S/ 14.40 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,15.0,un,Nuggets de Pechuga de Pollo OREGON FOODS Bolsa,14.4
+Bolsa 300g,Chicharrón de Pechuga de Pollo OREGAN FOODS Bo...,S/ 14.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,300.0,g,Chicharrón de Pechuga de Pollo OREGAN FOODS Bo,14.9
+Presentación 1.2 kg aprox.,Nuggets de Pollo REDONDOS,S/ 19.90 x kg,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,1.2,kg,Nuggets de Pollo REDONDOS,19.9
+Bolsa 12un,Nuggets FLEXFOOD Bolsa 12un,S/ 10.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,12.0,un,Nuggets FLEXFOOD Bolsa,10.5
+Bolsa 300g,Chicken Pop Empanizados REDONDOS Bolsa 300g,S/ 11.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,300.0,g,Chicken Pop Empanizados REDONDOS Bolsa,11.9
+Bolsa 300g,Strips de Pollo OREGON FOODS Bolsa 300g,S/ 13.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,300.0,g,Strips de Pollo OREGON FOODS Bolsa,13.5
+Bolsa 10un,Nuggets de Pechuga de Pollo con Chia SAN FERNA...,S/ 6.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,10.0,un,Nuggets de Pechuga de Pollo con Chia SAN FERNA,6.9
+Bolsa 300g,Chicken Bites OREGON FOODS Bolsa 300g,S/ 13.50 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,300.0,g,Chicken Bites OREGON FOODS Bolsa,13.5
+Caja 500g,Nuggets de Pescado SEAFROST Caja 500g,S/ 17.90 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,500.0,g,Nuggets de Pescado SEAFROST Caja,17.9
+Caja 150g,Proteína de Soya BHAKTI NATURA Pollo Vegetaria...,S/ 8 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,150.0,g,Proteína de Soya BHAKTI NATURA Pollo Vegetaria,8.0
+Bolsa 3un,Milanesa de Res Super RANCHERAS Bolsa x 3un,S/ 24.99 un,plaza_vea,HAMBURGUESA,2024-12-06 13:35:34.213438,3.0,un,Milanesa de Res Super RANCHERAS Bolsa x,24.99

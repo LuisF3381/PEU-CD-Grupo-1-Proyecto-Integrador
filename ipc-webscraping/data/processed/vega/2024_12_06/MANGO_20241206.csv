@@ -1,0 +1,4 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+MONSTER,Bebida Energizante MONSTER Mango Loco Lata 473ml x 2u,S/ 15.00,vega,MANGO,2024-12-06 11:58:12.668710,473.0,ml,Bebida Energizante MONSTER Mango Loco Lata  x 2u,15.0
+Gloria,Bebida GLORIA Mango Caja 1L,S/ 4.00,vega,MANGO,2024-12-06 11:58:12.668710,1.0,l,Bebida GLORIA Mango Caja,4.0
+MONSTER,Bebida Energizante MONSTER Mango Loco Lata 473ml,S/ 8.00,vega,MANGO,2024-12-06 11:58:12.668710,473.0,ml,Bebida Energizante MONSTER Mango Loco Lata,8.0

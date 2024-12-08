@@ -1,216 +1,189 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Caigua x un,S/ 0.59,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,un,Caigua,0.59,metro,,,MANTEQUILLA ENVASADA
-Zapallo Macre x kg,S/ 1.99 x kg,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,kg,Zapallo Macre,1.99,metro,,,MANTEQUILLA ENVASADA
-Margarina Manty Pote 90 g,S/ 2.38,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,90.0,g,Margarina Manty Pote,2.38,metro,,,MANTEQUILLA ENVASADA
-Zapallito Italiano x un,S/ 2.79,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,un,Zapallito Italiano,2.79,metro,,,MANTEQUILLA ENVASADA
-Pepinillo x un,S/ 2.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,un,Pepinillo,2.8,metro,,,MANTEQUILLA ENVASADA
-Margarina MANTY Pote 90g,S/ 2.80,vega,MANTEQUILLA ENVASADA,2024-12-04 13:49:41.667280,90.0,g,Margarina MANTY Pote,2.8,vega,,Manty,MANTEQUILLA ENVASADA
-Croissant de Mantequilla x un,S/ 2.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,1.0,un,Croissant de Mantequilla,2.9,vivanda,,VIVANDA,MANTEQUILLA ENVASADA
-Margarina Sello de Oro Barra 90g,S/ 2.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,90.0,g,Margarina Sello de Oro Barra,2.9,metro,,,MANTEQUILLA ENVASADA
-Tornillo Especial MOLITALIA Pasta para Ensalad...,S/ 3.10 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,235.0,g,Tornillo Especial MOLITALIA Pasta para Ensalad,3.1,plaza_vea,Bolsa 235g,,MANTEQUILLA ENVASADA
-Pasta para Ensalada Molitalia Tornillo Especial 235g,S/ 3.10,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,235.0,g,Pasta para Ensalada Molitalia Tornillo Especial,3.1,metro,,,MANTEQUILLA ENVASADA
-Cachito de Mantequilla 5un,S/ 3.25,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,5.0,un,Cachito de Mantequilla,3.25,wong,,,MANTEQUILLA ENVASADA
-Margarina Laive Swis 90g,S/ 3.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,90.0,g,Margarina Laive Swis,3.5,metro,,,MANTEQUILLA ENVASADA
-Maíz Pop Corn PLANET POP Extra Mantequilla Bol...,S/ 3.70 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,85.0,g,Maíz Pop Corn PLANET POP Extra Mantequilla Bol,3.7,plaza_vea,Bolsa 85g,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 50g,S/ 3.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,50.0,g,Mantequilla con Sal Gloria,3.7,metro,,,MANTEQUILLA ENVASADA
-Maíz Pop Corn PLANET POP Mantequilla Bolsa 85g,S/ 3.70 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,85.0,g,Maíz Pop Corn PLANET POP Mantequilla Bolsa,3.7,plaza_vea,Bolsa 85g,,MANTEQUILLA ENVASADA
-Rabanito La Caserita 500g,S/ 3.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,500.0,g,Rabanito La Caserita,3.9,metro,,,MANTEQUILLA ENVASADA
-Salvia 4 ESTACIONES Ensalada Sobre 5g,S/ 4.10 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,5.0,g,Salvia 4 ESTACIONES Ensalada Sobre,4.1,plaza_vea,Sobre 5g,,MANTEQUILLA ENVASADA
-Berenjena x un,S/ 4.19,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,un,Berenjena,4.19,metro,,,MANTEQUILLA ENVASADA
-Margarina Sello de Oro Barra 200g,S/ 4.30,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Margarina Sello de Oro Barra,4.3,metro,,,MANTEQUILLA ENVASADA
-Margarina Manty Clásica 300g,S/ 4.40,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,300.0,g,Margarina Manty Clásica,4.4,metro,,,MANTEQUILLA ENVASADA
-Ensalada Rusa Green Food 400g,S/ 4.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,400.0,g,Ensalada Rusa Green Food,4.5,metro,,,MANTEQUILLA ENVASADA
-Canchita para Microondas ACT II con Mantequill...,S/ 4.60 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,80.0,g,Canchita para Microondas ACT II con Mantequill,4.6,plaza_vea,Bolsa 80g,,MANTEQUILLA ENVASADA
-Pop Corn ACT II con Extra Mantequilla Sobre 85g,S/ 4.60,vega,MANTEQUILLA ENVASADA,2024-12-04 13:49:41.667280,85.0,g,Pop Corn ACT II con Extra Mantequilla Sobre,4.6,vega,,Act II,MANTEQUILLA ENVASADA
-Crema a Base de Mantequilla Laive 90g,S/ 4.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,90.0,g,Crema a Base de Mantequilla Laive,4.7,wong,,,MANTEQUILLA ENVASADA
-Margarina Laive Swis 200g,S/ 4.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Margarina Laive Swis,4.8,metro,,,MANTEQUILLA ENVASADA
-Canchita para Microondas ACT II con Mantequilla Extra Bolsa 80g,S/ 4.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,80.0,g,Canchita para Microondas ACT II con Mantequilla Extra Bolsa,4.9,vivanda,,ACT II,MANTEQUILLA ENVASADA
-Canchita para Microondas ACT II con Mantequilla Bolsa 80g,S/ 4.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,80.0,g,Canchita para Microondas ACT II con Mantequilla Bolsa,4.9,vivanda,,ACT II,MANTEQUILLA ENVASADA
-Pop Corn para Microondas Act II Sabor Mantequilla 91g,S/ 4.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,91.0,g,Pop Corn para Microondas Act II Sabor Mantequilla,4.9,wong,,,MANTEQUILLA ENVASADA
-Margarina Laive Swis 200g,S/ 4.99,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Margarina Laive Swis,4.99,wong,,,MANTEQUILLA ENVASADA
-Chocolate con Mantequilla de Maní Reese's 42g,S/ 5.00,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,42.0,g,Chocolate con Mantequilla de Maní Reese's,5.0,wong,,,MANTEQUILLA ENVASADA
-Chocolate con Mantequilla de Maní Reese's 42g,S/ 5.00,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,42.0,g,Chocolate con Mantequilla de Maní Reese's,5.0,metro,,,MANTEQUILLA ENVASADA
-Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 5.20,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,24.0,g,Sixpack Galletas Saladas Club Social Sabor Mantequilla,5.2,metro,,,MANTEQUILLA ENVASADA
-Margarina SELLO DE ORO Pote 200gr,S/ 5.20 10%,vega,MANTEQUILLA ENVASADA,2024-12-04 13:49:41.667280,200.0,g,Margarina SELLO DE ORO Pote r,5.2,vega,,Sello De Oro,MANTEQUILLA ENVASADA
-Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 5.20,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,24.0,g,Sixpack Galletas Saladas Club Social Sabor Mantequilla,5.2,wong,,,MANTEQUILLA ENVASADA
-Ensalada Mix Personal BELL'S FRESCOS Bolsa 100g,S/ 5.49,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,100.0,g,Ensalada Mix Personal BELL'S FRESCOS Bolsa,5.49,vivanda,,BELL'S FRESCOS,MANTEQUILLA ENVASADA
-Ensalada Mix Personal BELL'S FRESCOS Envase 10...,S/ 5.49 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,100.0,g,Ensalada Mix Personal BELL'S FRESCOS Envase 10,5.49,plaza_vea,Envase 100gun,,MANTEQUILLA ENVASADA
-Chocolate con Leche y Mantequilla de Maní Reese's Nutrageous Barra 47 g,S/ 5.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,47.0,g,Chocolate con Leche y Mantequilla de Maní Reese's Nutrageous Barra,5.5,wong,,,MANTEQUILLA ENVASADA
-Margarina MANTY Clásica Pote 300gr,S/ 5.50 8%,vega,MANTEQUILLA ENVASADA,2024-12-04 13:49:41.667280,300.0,g,Margarina MANTY Clásica Pote r,5.5,vega,,Manty,MANTEQUILLA ENVASADA
-Margarina Manty Clásica 300g,S/ 5.60,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,300.0,g,Margarina Manty Clásica,5.6,wong,,,MANTEQUILLA ENVASADA
-Margarina Sello de Oro Pote 200g,S/ 5.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Margarina Sello de Oro Pote,5.9,wong,,,MANTEQUILLA ENVASADA
-"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",S/ 5.99 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,300.0,g,"Ensalada de Uva, Sandía y Piña BELL'S Bandeja",5.99,plaza_vea,Bandeja 300g,,MANTEQUILLA ENVASADA
-Apio Hipodrónico Ecologic x un,S/ 6.30,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,un,Apio Hipodrónico Ecologic,6.3,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 90g,S/ 6.40,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,90.0,g,Mantequilla con Sal Gloria,6.4,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 90g,S/ 6.40,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,90.0,g,Mantequilla con Sal Gloria,6.4,metro,,,MANTEQUILLA ENVASADA
-Ensalada Fresca Metro 100g,S/ 6.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,100.0,g,Ensalada Fresca Metro,6.5,metro,,,MANTEQUILLA ENVASADA
-Ensalada Mix BELL'S FRESCOS Bolsa 150g,S/ 6.59,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,150.0,g,Ensalada Mix BELL'S FRESCOS Bolsa,6.59,vivanda,,BELL'S FRESCOS,MANTEQUILLA ENVASADA
-Ensalada Parrillera Ecologic x 400 g,S/ 6.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,400.0,g,Ensalada Parrillera Ecologic x,6.7,wong,,,MANTEQUILLA ENVASADA
-Ensalada SOLEI Coco en Trozos Frasco 130g,S/ 6.79,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,130.0,g,Ensalada SOLEI Coco en Trozos Frasco,6.79,vivanda,,SOLEI,MANTEQUILLA ENVASADA
-Mantequilla LAIVE con Sal Barra 100g,S/ 6.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,100.0,g,Mantequilla LAIVE con Sal Barra,6.9,plaza_vea,Barra 100g,,MANTEQUILLA ENVASADA
-Margarina Dorina Clásica 220g,S/ 6.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,220.0,g,Margarina Dorina Clásica,6.9,metro,,,MANTEQUILLA ENVASADA
-Ensalada Personal Verde Puro 140g,S/ 6.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,140.0,g,Ensalada Personal Verde Puro,6.9,metro,,,MANTEQUILLA ENVASADA
-Margarina Dorina Light 220g,S/ 6.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,220.0,g,Margarina Dorina Light,6.9,wong,,,MANTEQUILLA ENVASADA
-Ensalada Americana BELL'S FRESCOS Bolsa 500g,S/ 6.99 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,500.0,g,Ensalada Americana BELL'S FRESCOS Bolsa,6.99,plaza_vea,Bolsa 500gun,,MANTEQUILLA ENVASADA
-Maíz Expandido Pop Corn BUCKY Sabor a Mantequi...,S/ 7 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,200.0,g,Maíz Expandido Pop Corn BUCKY Sabor a Mantequi,7.0,plaza_vea,Bolsa 200g,,MANTEQUILLA ENVASADA
-Mantequilla LAIVE con Sal Barra 100g,S/ 7.40,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,100.0,g,Mantequilla LAIVE con Sal Barra,7.4,vivanda,,LAIVE,MANTEQUILLA ENVASADA
-Ensalada Mix Primavera BELL'S FRESCOS Bolsa 150g,S/ 7.49,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,150.0,g,Ensalada Mix Primavera BELL'S FRESCOS Bolsa,7.49,vivanda,,BELL'S FRESCOS,MANTEQUILLA ENVASADA
-Floretes de Brócoli 500g aprox,S/ 7.49,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,500.0,g,Floretes de Brócoli  aprox,7.49,metro,,,MANTEQUILLA ENVASADA
-Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,S/ 7.49 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,150.0,g,Ensalada Mix Primavera BELL'S FRESCOS Táper 15,7.49,plaza_vea,Táper 150gun,,MANTEQUILLA ENVASADA
-Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,S/ 7.49 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,150.0,g,Ensalada Mia Itali BELL'S FRESCOS Envase 15,7.49,plaza_vea,Envase 150gun,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Laive 100g,S/ 7.60,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,100.0,g,Mantequilla con Sal Laive,7.6,metro,,,MANTEQUILLA ENVASADA
-Galletas COLOMBINA Butters cookies De mantequilla Bolsa 280Gr,S/ 7.70,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,280.0,g,Galletas COLOMBINA Butters cookies De mantequilla Bolsa r,7.7,vivanda,,COLOMBINA,MANTEQUILLA ENVASADA
-Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,S/ 7.70 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,12.0,g,Mix Hierbas Ensalada 4 ESTACIONES Pote,7.7,plaza_vea,Pote 12g,,MANTEQUILLA ENVASADA
-Espárragos Atado 250g,S/ 7.99,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,250.0,g,Espárragos Atado,7.99,metro,,,MANTEQUILLA ENVASADA
-Brócoli Metro x kg,S/ 7.99 x kg,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,1.0,kg,Brócoli Metro,7.99,metro,,,MANTEQUILLA ENVASADA
-Vinagreta Ranch LUREN para Ensalada Frasco 454...,S/ 8.40 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,454.0,g,Vinagreta Ranch LUREN para Ensalada Frasco 454,8.4,plaza_vea,Frasco 454g,,MANTEQUILLA ENVASADA
-Ensalada Jardinera Precocida BELL'S Bolsa 500g,S/ 8.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,500.0,g,Ensalada Jardinera Precocida BELL'S Bolsa,8.9,plaza_vea,Bolsa 500g,,MANTEQUILLA ENVASADA
-Margarina Sello de Oro Pote 400g,S/ 8.99,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,400.0,g,Margarina Sello de Oro Pote,8.99,wong,,,MANTEQUILLA ENVASADA
-"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",S/ 9.49,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,340.0,g,"Ensalada de Frutas Piña, Sandía y Papaya Natifrut",9.49,wong,,,MANTEQUILLA ENVASADA
-"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",S/ 9.49,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,340.0,g,"Ensalada de Frutas Piña, Sandía y Papaya Natifrut",9.49,metro,,,MANTEQUILLA ENVASADA
-Ensalada Rusa BELL'S FRESCOS Bolsa 500g,S/ 9.49,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,500.0,g,Ensalada Rusa BELL'S FRESCOS Bolsa,9.49,vivanda,,BELL'S FRESCOS,MANTEQUILLA ENVASADA
-Ensalada Rusa BELL'S Bandeja 500g,S/ 9.49 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,500.0,g,Ensalada Rusa BELL'S Bandeja,9.49,plaza_vea,Bandeja 500g,,MANTEQUILLA ENVASADA
-Helado de Plátano y Mantequilla de Maní Sanúa 133ml,S/ 9.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,133.0,ml,Helado de Plátano y Mantequilla de Maní Sanúa,9.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní LA FLORENCIA Pote 200g,S/ 9.70,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,200.0,g,Mantequilla de Maní LA FLORENCIA Pote,9.7,vivanda,,LA FLORENCIA,MANTEQUILLA ENVASADA
-Cachito con Mantequilla DON MAMINO Bolsa 6un,S/ 9.80,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,6.0,un,Cachito con Mantequilla DON MAMINO Bolsa,9.8,vivanda,,DON MAMINO,MANTEQUILLA ENVASADA
-Cachito De Mantequilla Don Mamino Bolsa 6 Unidades,S/ 9.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,6.0,un,Cachito De Mantequilla Don Mamino Bolsa ades,9.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal GLORIA Paquete 180g,S/ 9.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,180.0,g,Mantequilla con Sal GLORIA Paquete,9.9,plaza_vea,Paquete 180g,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 180g,S/ 9.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla con Sal Gloria,9.9,metro,,,MANTEQUILLA ENVASADA
-Cachito De Mantequilla Don Mamino Bolsa 6 Unidades,S/ 9.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,6.0,un,Cachito De Mantequilla Don Mamino Bolsa ades,9.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní LA PURITA Pote 170g,S/ 9.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,170.0,g,Mantequilla de Maní LA PURITA Pote,9.9,plaza_vea,Pote 170g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní LA PURITA Pote 170g,S/ 9.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,170.0,g,Mantequilla de Maní LA PURITA Pote,9.9,vivanda,,LA PURITA,MANTEQUILLA ENVASADA
-Mantequilla con Sal GLORIA Paquete 180g,S/ 9.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,180.0,g,Mantequilla con Sal GLORIA Paquete,9.9,vivanda,,GLORIA,MANTEQUILLA ENVASADA
-Mantequilla sin Sal GLORIA Paquete 180g,S/ 9.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,180.0,g,Mantequilla sin Sal GLORIA Paquete,9.9,vivanda,,GLORIA,MANTEQUILLA ENVASADA
-Mantequilla Gloria Sin Sal 180g,S/ 9.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla Gloria Sin Sal,9.9,metro,,,MANTEQUILLA ENVASADA
-Sazonador Pop Corn BELL'S Sabor a Mantequilla Frasco 80g,S/ 10.20,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,80.0,g,Sazonador Pop Corn BELL'S Sabor a Mantequilla Frasco,10.2,vivanda,,BELL'S,MANTEQUILLA ENVASADA
-Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.40,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,24.0,g,Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.4,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 180g,S/ 10.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla con Sal Gloria,10.5,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal GLORIA Pote 180g,S/ 10.50,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,180.0,g,Mantequilla con Sal GLORIA Pote,10.5,vivanda,,GLORIA,MANTEQUILLA ENVASADA
-Maíz Pop Corn PLANET POP Mantequilla Paquete 3...,S/ 10.50 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,3.0,un,Maíz Pop Corn PLANET POP Mantequilla Paquete 3,10.5,plaza_vea,Paquete 3un,,MANTEQUILLA ENVASADA
-Mantequilla con Sal GLORIA Pote 180g,S/ 10.50 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,180.0,g,Mantequilla con Sal GLORIA Pote,10.5,plaza_vea,Pote 180g,,MANTEQUILLA ENVASADA
-Margarina Dorina Light Pote 450 g,S/ 10.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,450.0,g,Margarina Dorina Light Pote,10.5,metro,,,MANTEQUILLA ENVASADA
-Margarina Dorina Clásica 450g,S/ 10.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,450.0,g,Margarina Dorina Clásica,10.5,metro,,,MANTEQUILLA ENVASADA
-Palomitas de Maíz PLANET POP Mantequilla Extrema Paquete 3un,S/ 10.50,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,3.0,un,Palomitas de Maíz PLANET POP Mantequilla Extrema Paquete,10.5,vivanda,,PLANET POP,MANTEQUILLA ENVASADA
-Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,24.0,g,Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.8,wong,,,MANTEQUILLA ENVASADA
-Ensalada Primavera Cuisine & Co 400g,S/ 10.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,400.0,g,Ensalada Primavera Cuisine & Co,10.8,metro,,,MANTEQUILLA ENVASADA
-Ensalada Rusa Cuisine & Co 400g,S/ 10.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,400.0,g,Ensalada Rusa Cuisine & Co,10.8,metro,,,MANTEQUILLA ENVASADA
-Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,24.0,g,Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.8,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Laive 180g,S/ 10.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla con Sal Laive,10.9,metro,,,MANTEQUILLA ENVASADA
-Ensalada Cesar's Verde Puro 250g,S/ 10.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,250.0,g,Ensalada Cesar's Verde Puro,10.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla Sin Sal Laive 180g,S/ 10.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla Sin Sal Laive,10.9,metro,,,MANTEQUILLA ENVASADA
-Sazonador Pops COSTEÑO de Pop Corn Sabor Mante...,S/ 10.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,81.0,g,Sazonador Pops COSTEÑO de Pop Corn Sabor Mante,10.9,plaza_vea,Frasco 81g,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Laive 180g,S/ 10.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,180.0,g,Mantequilla con Sal Laive,10.9,wong,,,MANTEQUILLA ENVASADA
-Ensalada Mixta BELL'S Bandeja 500g,S/ 10.99 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,500.0,g,Ensalada Mixta BELL'S Bandeja,10.99,plaza_vea,Bandeja 500g,,MANTEQUILLA ENVASADA
-Sazonador de Pop Corn Sabor Mantequilla Costeño Pops 81g,S/ 11.20,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,81.0,g,Sazonador de Pop Corn Sabor Mantequilla Costeño Pops,11.2,wong,,,MANTEQUILLA ENVASADA
-Margarina Laive Swis 450g,S/ 11.40,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,450.0,g,Margarina Laive Swis,11.4,wong,,,MANTEQUILLA ENVASADA
-Ensalada Mix de Lechugas Mattson 130g,S/ 11.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,130.0,g,Ensalada Mix de Lechugas Mattson,11.5,wong,,,MANTEQUILLA ENVASADA
-Ensalada Fresca 320g,S/ 11.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,320.0,g,Ensalada Fresca,11.7,metro,,,MANTEQUILLA ENVASADA
-Ensalada Cesar's Verde Puro 250g,S/ 11.80,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,250.0,g,Ensalada Cesar's Verde Puro,11.8,wong,,,MANTEQUILLA ENVASADA
-Mantequilla Plusa Con Sal Barra 200 g,S/ 11.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla Plusa Con Sal Barra,11.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla sin Sal LAIVE Barra 180g,S/ 11.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,180.0,g,Mantequilla sin Sal LAIVE Barra,11.9,plaza_vea,Barra 180g,,MANTEQUILLA ENVASADA
-Mantequilla con Sal LAIVE Barra 180g,S/ 11.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,180.0,g,Mantequilla con Sal LAIVE Barra,11.9,plaza_vea,Barra 180g,,MANTEQUILLA ENVASADA
-Ensalada Mix Primavera VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,120.0,g,Ensalada Mix Primavera VIVA Bandeja,11.99,plaza_vea,Bandeja 120g,,MANTEQUILLA ENVASADA
-Ensalada Mix Mediterráneo VIVA Bandeja 120g,S/ 11.99 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,120.0,g,Ensalada Mix Mediterráneo VIVA Bandeja,11.99,plaza_vea,Bandeja 120g,,MANTEQUILLA ENVASADA
-Cereal en Barra DYFFERENT Mantequilla de Maní Caja 175g,S/ 12.20,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,175.0,g,Cereal en Barra DYFFERENT Mantequilla de Maní Caja,12.2,vivanda,,DYFFERENT,MANTEQUILLA ENVASADA
-Ensalada Thai Mattson 130g,S/ 12.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,130.0,g,Ensalada Thai Mattson,12.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla sin Sal LAIVE Barra 180g,S/ 12.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,180.0,g,Mantequilla sin Sal LAIVE Barra,12.9,vivanda,,LAIVE,MANTEQUILLA ENVASADA
-Mantequilla Plusa Con Sal Barra 200 g,S/ 12.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Mantequilla Plusa Con Sal Barra,12.9,metro,,,MANTEQUILLA ENVASADA
-Sirope de Mantequilla American Classic 472g,S/ 12.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,472.0,g,Sirope de Mantequilla American Classic,12.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal LAIVE Pote 180g,S/ 12.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,180.0,g,Mantequilla con Sal LAIVE Pote,12.9,plaza_vea,Pote 180g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní LA PURITA Panela Pote 170...,S/ 12.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,170.0,g,Mantequilla de Maní LA PURITA Panela Pote 170,12.9,plaza_vea,Pote 170g,,MANTEQUILLA ENVASADA
-Mantequilla con Sal La Abuela 150g,S/ 12.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,150.0,g,Mantequilla con Sal La Abuela,12.9,wong,,,MANTEQUILLA ENVASADA
-Galletas de Mantequilla Colombina Casita de Navidad 200g Surtido,S/ 12.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Galletas de Mantequilla Colombina Casita de Navidad  Surtido,12.9,metro,,,MANTEQUILLA ENVASADA
-Barra Energética Sabor Mantequilla de Maní Caja 5 unid,S/ 12.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,5.0,un,Barra Energética Sabor Mantequilla de Maní Caja,12.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní LA PURITA con Cacao Pote 1...,S/ 12.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,170.0,g,Mantequilla de Maní LA PURITA con Cacao Pote 1,12.9,plaza_vea,Pote 170g,,MANTEQUILLA ENVASADA
-Galletas de Mantequilla Cuisine & Co 340g,S/ 12.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,340.0,g,Galletas de Mantequilla Cuisine & Co,12.9,metro,,,MANTEQUILLA ENVASADA
-Ensalada Fresca 380g,S/ 13.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,380.0,g,Ensalada Fresca,13.7,metro,,,MANTEQUILLA ENVASADA
-Ensalada Power HOME CHEF 1un,S/ 13.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,1.0,un,Ensalada Power HOME CHEF,13.9,plaza_vea,Bolsa 1un,,MANTEQUILLA ENVASADA
-Crema a Base de Mantequilla Laive 350g,S/ 13.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,350.0,g,Crema a Base de Mantequilla Laive,13.9,metro,,,MANTEQUILLA ENVASADA
-Crema a Base de Mantequilla Laive 350g,S/ 13.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,350.0,g,Crema a Base de Mantequilla Laive,13.9,wong,,,MANTEQUILLA ENVASADA
-Rosquitas al Ajo con Mantequilla y Orégano Bolsa 350 g,S/ 13.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,350.0,g,Rosquitas al Ajo con Mantequilla y Orégano Bolsa,13.9,metro,,,MANTEQUILLA ENVASADA
-Rosquitas al Ajo con Mantequilla y Orégano Bolsa 350 g,S/ 13.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,350.0,g,Rosquitas al Ajo con Mantequilla y Orégano Bolsa,13.9,wong,,,MANTEQUILLA ENVASADA
-Crema de Mantequilla Light Laive 180g,S/ 13.99,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Crema de Mantequilla Light Laive,13.99,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Laive 180g,S/ 13.99,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,180.0,g,Mantequilla con Sal Laive,13.99,wong,,,MANTEQUILLA ENVASADA
-Ensalada Power HOME CHEF 1un,S/ 14.20,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,1.0,un,Ensalada Power HOME CHEF,14.2,vivanda,,HOME CHEF,MANTEQUILLA ENVASADA
-Ensalada Fresca 380g,S/ 14.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,380.0,g,Ensalada Fresca,14.7,wong,,,MANTEQUILLA ENVASADA
-Galletas de Mantequilla Cuisine & Co 340g,S/ 14.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,340.0,g,Galletas de Mantequilla Cuisine & Co,14.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla La Chuguranita Barra 150 g,S/ 14.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,150.0,g,Mantequilla La Chuguranita Barra,14.9,metro,,,MANTEQUILLA ENVASADA
-Crema a Base de Mantequilla Light con Sal LAIVE Pote 180g,S/ 15.00,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,180.0,g,Crema a Base de Mantequilla Light con Sal LAIVE Pote,15.0,vivanda,,LAIVE,MANTEQUILLA ENVASADA
-Crema de Mantequilla Light Laive 180g,S/ 15.49,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,180.0,g,Crema de Mantequilla Light Laive,15.49,wong,,,MANTEQUILLA ENVASADA
-Ensalada de Zanahoria y Beterraga La Buena Pepa 450g,S/ 15.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,450.0,g,Ensalada de Zanahoria y Beterraga La Buena Pepa,15.5,metro,,,MANTEQUILLA ENVASADA
-Margarina La Danesa 500g,S/ 15.60,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,500.0,g,Margarina La Danesa,15.6,metro,,,MANTEQUILLA ENVASADA
-Ensalada de Col con Aliño 400g,S/ 15.80,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,400.0,g,Ensalada de Col con Aliño,15.8,wong,,,MANTEQUILLA ENVASADA
-Mantequilla Asturiana 125g,S/ 16.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,125.0,g,Mantequilla Asturiana,16.7,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Danlac Frasco 180g,S/ 16.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,180.0,g,Mantequilla con Sal Danlac Frasco,16.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Danlac Frasco 180g,S/ 16.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,180.0,g,Mantequilla con Sal Danlac Frasco,16.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní THE BUTTER FACTORY Frasco ...,S/ 16.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,200.0,g,Mantequilla de Maní THE BUTTER FACTORY Frasco,16.9,plaza_vea,Frasco 200g,,MANTEQUILLA ENVASADA
-Mantequilla Vegana Las Tres Gunas 120g,S/ 17.20,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,120.0,g,Mantequilla Vegana Las Tres Gunas,17.2,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 390g,S/ 17.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,390.0,g,Mantequilla con Sal Gloria,17.5,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Gloria 390g,S/ 17.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,390.0,g,Mantequilla con Sal Gloria,17.9,wong,,,MANTEQUILLA ENVASADA
-Galletas de Mantequilla Noel 80g Surtido,S/ 17.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,80.0,g,Galletas de Mantequilla Noel  Surtido,17.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Almendras LA FLORENCIA Pote 200...,S/ 17.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,200.0,g,Mantequilla de Almendras LA FLORENCIA Pote 200,17.9,plaza_vea,Pote 200g,,MANTEQUILLA ENVASADA
-Galletas de Mantequilla Noel 80g Surtido,S/ 17.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,80.0,g,Galletas de Mantequilla Noel  Surtido,17.9,metro,,,MANTEQUILLA ENVASADA
-Salsa de Ají Amarillo Envasado 550 g,S/ 18.10,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,550.0,g,Salsa de Ají Amarillo Envasado,18.1,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Almendras LA FLORENCIA Pote 200g,S/ 18.30,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,200.0,g,Mantequilla de Almendras LA FLORENCIA Pote,18.3,vivanda,,LA FLORENCIA,MANTEQUILLA ENVASADA
-Mantequilla Vegana Sabor Finas Hierbas Las Tres Gunas 120g,S/ 18.40,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,120.0,g,Mantequilla Vegana Sabor Finas Hierbas Las Tres Gunas,18.4,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Sin Azúcar Santa Manía Frasco 230 g,S/ 19.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,230.0,g,Mantequilla de Maní Sin Azúcar Santa Manía Frasco,19.5,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal PIAMONTE Pote 250g,S/ 19.80 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,250.0,g,Mantequilla con Sal PIAMONTE Pote,19.8,plaza_vea,Pote 250g,,MANTEQUILLA ENVASADA
-Margarina Dorina Clásica 900g,S/ 19.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,900.0,g,Margarina Dorina Clásica,19.9,wong,,,MANTEQUILLA ENVASADA
-Margarina Dorina Clásica 900g,S/ 19.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,900.0,g,Margarina Dorina Clásica,19.9,metro,,,MANTEQUILLA ENVASADA
-Ensalada Vietnamita Mattson 450 g,S/ 19.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,450.0,g,Ensalada Vietnamita Mattson,19.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Sin Azúcar Santa Manía Frasco 230 g,S/ 20.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,230.0,g,Mantequilla de Maní Sin Azúcar Santa Manía Frasco,20.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Président Barra 200 gr,S/ 20.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Mantequilla con Sal Président Barra r,20.7,metro,,,MANTEQUILLA ENVASADA
-Mantequilla PRESIDENT con Sal Barra 200g,S/ 20.70,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,200.0,g,Mantequilla PRESIDENT con Sal Barra,20.7,vivanda,,PRESIDENT,MANTEQUILLA ENVASADA
-Mantequilla PRÉSIDENT sin Sal Barra 200g,S/ 20.70,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,200.0,g,Mantequilla PRÉSIDENT sin Sal Barra,20.7,vivanda,,PRESIDENT,MANTEQUILLA ENVASADA
-Mantequilla sin Sal Président Barra 200g,S/ 20.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Mantequilla sin Sal Président Barra,20.7,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Président Barra 200 gr,S/ 20.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla con Sal Président Barra r,20.7,wong,,,MANTEQUILLA ENVASADA
-Mantequilla sin Sal Président Barra 200 gr,S/ 20.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla sin Sal Président Barra r,20.7,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Cuisine&Co Frasco 410 g,S/ 21.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,410.0,g,Mantequilla de Maní Cuisine&Co Frasco,21.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Spread 410g,S/ 21.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,410.0,g,Mantequilla de Maní Spread,21.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní SPREAD 100% Maní Frasco 41...,S/ 21.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,410.0,g,Mantequilla de Maní SPREAD 100% Maní Frasco 41,21.9,plaza_vea,Frasco 410g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Cuisine&Co Frasco 410 g,S/ 21.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,410.0,g,Mantequilla de Maní Cuisine&Co Frasco,21.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní SPREAD 100% Maní Frasco 410g,S/ 21.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,410.0,g,Mantequilla de Maní SPREAD 100% Maní Frasco,21.9,vivanda,,SPREAD,MANTEQUILLA ENVASADA
-Mantequilla de Chocomaní THE BUTTER FACTORY Fr...,S/ 21.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,200.0,g,Mantequilla de Chocomaní THE BUTTER FACTORY Fr,21.9,plaza_vea,Frasco 200g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní con Cacao Spread Chocomaní 410g,S/ 21.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,410.0,g,Mantequilla de Maní con Cacao Spread Chocomaní,21.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní SPREAD con Miel de Abeja Frasco 410g,S/ 21.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,410.0,g,Mantequilla de Maní SPREAD con Miel de Abeja Frasco,21.9,vivanda,,SPREAD,MANTEQUILLA ENVASADA
-Mantequila SPREAD 100% Almendras Frasco 230g,S/ 22 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,230.0,g,Mantequila SPREAD 100% Almendras Frasco,22.0,plaza_vea,Frasco 230g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Orgánica Wasi Frasco 240 g,S/ 23.20,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,240.0,g,Mantequilla de Maní Orgánica Wasi Frasco,23.2,metro,,,MANTEQUILLA ENVASADA
-Ensalada Festiva Wong Bandeja 350 g,S/ 23.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,350.0,g,Ensalada Festiva Wong Bandeja,23.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla LA CHUGURANITA Caja 240g,S/ 23.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,240.0,g,Mantequilla LA CHUGURANITA Caja,23.9,plaza_vea,Caja 240g,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Orgánica Wasi Frasco 240 g,S/ 23.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,240.0,g,Mantequilla de Maní Orgánica Wasi Frasco,23.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní UNIÓN Frasci 410g,S/ 24.30,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,410.0,g,Mantequilla de Maní UNIÓN Frasci,24.3,vivanda,,UNIÓN,MANTEQUILLA ENVASADA
-Mantequilla de Maní Untable Pote 410 g,S/ 25.00,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,410.0,g,Mantequilla de Maní Untable Pote,25.0,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Untable Pote 410 g,S/ 25.00,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,410.0,g,Mantequilla de Maní Untable Pote,25.0,metro,,,MANTEQUILLA ENVASADA
-Mantequilla Latteria Soresina Barra 125 g,S/ 26.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,125.0,g,Mantequilla Latteria Soresina Barra,26.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla Sin Sal Paysan Breton Barra 200 g,S/ 26.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla Sin Sal Paysan Breton Barra,26.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Crujiente Essential Everyday 454g,S/ 27.20,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,454.0,g,Mantequilla de Maní Crujiente Essential Everyday,27.2,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Pote 454 g,S/ 27.20,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,454.0,g,Mantequilla de Maní Pote,27.2,metro,,,MANTEQUILLA ENVASADA
-Crema de Avellanas Winter's Pote 350 g,S/ 28.30,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,350.0,g,Crema de Avellanas Winter's Pote,28.3,metro,,,MANTEQUILLA ENVASADA
-Crema de Avellanas Nutella 200g,S/ 28.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Crema de Avellanas Nutella,28.5,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Frutos Secos Almendras Crunchy The Butter Factory Frasco 200 g,S/ 28.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla de Frutos Secos Almendras Crunchy The Butter Factory Frasco,28.9,wong,,,MANTEQUILLA ENVASADA
-Crema de Avellanas Winter's Pote 350 g,S/ 29.30,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,350.0,g,Crema de Avellanas Winter's Pote,29.3,wong,,,MANTEQUILLA ENVASADA
-Crema de Maní Skippy 462g,S/ 29.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,462.0,g,Crema de Maní Skippy,29.7,metro,,,MANTEQUILLA ENVASADA
-Crema de Maní Skippy Natural 425g,S/ 29.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,425.0,g,Crema de Maní Skippy Natural,29.7,metro,,,MANTEQUILLA ENVASADA
-Crema de Maní Skippy Roasted Honey 462g,S/ 29.70,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,462.0,g,Crema de Maní Skippy Roasted Honey,29.7,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Peter Pan Crunchy Frasco 16.3 Onzas,S/ 29.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,16.3,oz,Mantequilla de Maní Peter Pan Crunchy Frasco,29.9,metro,,,MANTEQUILLA ENVASADA
-Aceite en Spray PAM Sabor a Mantequilla Frasco 141ml,S/ 29.90,vivanda,MANTEQUILLA ENVASADA,2024-12-04 17:41:25.517015,141.0,ml,Aceite en Spray PAM Sabor a Mantequilla Frasco,29.9,vivanda,,PAM,MANTEQUILLA ENVASADA
-Crema de Maní Skippy Natural 425g,S/ 30.40,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,425.0,g,Crema de Maní Skippy Natural,30.4,wong,,,MANTEQUILLA ENVASADA
-Crema de Maní Skippy Roasted Honey 462g,S/ 30.40,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,462.0,g,Crema de Maní Skippy Roasted Honey,30.4,wong,,,MANTEQUILLA ENVASADA
-Aceite de Mantequilla Fat Free Pam Spray 141 g,S/ 30.80,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,141.0,g,Aceite de Mantequilla Fat Free Pam Spray,30.8,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Peter Pan Creamy Frasco 16.3 Onzas,S/ 30.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,16.3,oz,Mantequilla de Maní Peter Pan Creamy Frasco,30.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Maní Peter Pan Crunchy Frasco 16.3 Onzas,S/ 30.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,16.3,oz,Mantequilla de Maní Peter Pan Crunchy Frasco,30.9,wong,,,MANTEQUILLA ENVASADA
-Helado de Plátano y Mantequilla de Maní Sanúa 473ml,S/ 31.10,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,473.0,ml,Helado de Plátano y Mantequilla de Maní Sanúa,31.1,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco 200 g,S/ 32.00,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,200.0,g,Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco,32.0,wong,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Arias 235g,S/ 32.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,235.0,g,Mantequilla con Sal Arias,32.8,metro,,,MANTEQUILLA ENVASADA
-Mantequilla Sin Sal Arias 235g,S/ 32.80,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,235.0,g,Mantequilla Sin Sal Arias,32.8,metro,,,MANTEQUILLA ENVASADA
-Mantequilla con Sal Arias 235g,S/ 32.90,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,235.0,g,Mantequilla con Sal Arias,32.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Frutos Secos Almendras The Butter Factory Frasco 200 g,S/ 32.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Mantequilla de Frutos Secos Almendras The Butter Factory Frasco,32.9,metro,,,MANTEQUILLA ENVASADA
-Pan Mini Francesitos con Orégano y Mantequilla x kg,S/ 33.90 x kg,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,1.0,kg,Pan Mini Francesitos con Orégano y Mantequilla,33.9,wong,,,MANTEQUILLA ENVASADA
-Mantequilla de Chocoalmendras THE BUTTER FACTO...,S/ 33.90 un,plaza_vea,MANTEQUILLA ENVASADA,2024-12-04 13:45:11.741261,200.0,g,Mantequilla de Chocoalmendras THE BUTTER FACTO,33.9,plaza_vea,Frasco 200g,,MANTEQUILLA ENVASADA
-Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco 200 g,S/ 34.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,200.0,g,Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco,34.9,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Almendras Sin Azúcar Santa Manía Frasco 185 g,S/ 35.50,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,185.0,g,Mantequilla de Almendras Sin Azúcar Santa Manía Frasco,35.5,metro,,,MANTEQUILLA ENVASADA
-Mantequilla de Almendras Sin Azúcar Santa Manía Frasco 185 g,S/ 35.70,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,185.0,g,Mantequilla de Almendras Sin Azúcar Santa Manía Frasco,35.7,wong,,,MANTEQUILLA ENVASADA
-"Pasta de Almendras, Castañas y Cacao Rainforest Spread Wasi Frasco 250 g",S/ 38.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,250.0,g,"Pasta de Almendras, Castañas y Cacao Rainforest Spread Wasi Frasco",38.5,wong,,,MANTEQUILLA ENVASADA
-Untable Vegetal Earth Balance Soy Free 425g,S/ 39.50,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,425.0,g,Untable Vegetal Earth Balance Soy Free,39.5,wong,,,MANTEQUILLA ENVASADA
-Crema de Avellanas y Cacao Zana Isatella 210g,S/ 43.60,wong,MANTEQUILLA ENVASADA,2024-12-04 19:18:47.447896,210.0,g,Crema de Avellanas y Cacao Zana Isatella,43.6,wong,,,MANTEQUILLA ENVASADA
-Crema de Almendras Cuisine & Co Frasco 410g,S/ 55.90,metro,MANTEQUILLA ENVASADA,2024-12-04 21:24:27.280736,410.0,g,Crema de Almendras Cuisine & Co Frasco,55.9,metro,,,MANTEQUILLA ENVASADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Zapallo Macre x kg,,1.0,kg,1.99,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,1.99,MANTEQUILLA ENVASADA
+Margarina Manty Pote 90 g,,90.0,g,2.38,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,26.444444444444443,MANTEQUILLA ENVASADA
+Pasta para Ensalada Molitalia Tornillo Especial 235g,,235.0,g,3.1,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,13.191489361702128,MANTEQUILLA ENVASADA
+Tornillo Especial MOLITALIA Pasta para Ensalad...,,235.0,g,3.1,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,13.191489361702128,MANTEQUILLA ENVASADA
+Margarina Sello de Oro Barra 90g,,90.0,g,3.3,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,36.666666666666664,MANTEQUILLA ENVASADA
+Margarina Laive Swis 90g,,90.0,g,3.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,38.888888888888886,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 50g,,50.0,g,3.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,74.0,MANTEQUILLA ENVASADA
+Margarina Laive Swis 90g,,90.0,g,3.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,42.22222222222222,MANTEQUILLA ENVASADA
+Ensalada Rusa LA FLORENCIA Bandeja 170g,,180.0,g,3.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,21.666666666666664,MANTEQUILLA ENVASADA
+Ensalada Fusilli Bandeja 170g,LA FLORENCIA,170.0,g,3.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,22.941176470588232,MANTEQUILLA ENVASADA
+Mix Hierbas Ensalada 4 ESTACIONES Sobre 5g,,5.0,g,3.99,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,798.0,MANTEQUILLA ENVASADA
+Salvia 4 ESTACIONES Ensalada Sobre 5g,,5.0,g,4.1,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,819.9999999999999,MANTEQUILLA ENVASADA
+Margarina Sello de Oro Barra 200g,,200.0,g,4.3,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,21.5,MANTEQUILLA ENVASADA
+Ensalada Rusa Green Food 400g,,400.0,g,4.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,11.25,MANTEQUILLA ENVASADA
+Canchita para Microondas ACT II con Mantequill...,,80.0,g,4.6,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,57.49999999999999,MANTEQUILLA ENVASADA
+Crema a Base de Mantequilla Laive 90g,,90.0,g,4.6,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,51.11111111111111,MANTEQUILLA ENVASADA
+Canchita para Microondas ACT II con Mantequill...,,80.0,g,4.6,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,57.49999999999999,MANTEQUILLA ENVASADA
+Crema a Base de Mantequilla Laive 90g,,90.0,g,4.7,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,52.22222222222222,MANTEQUILLA ENVASADA
+Margarina Laive Swis 200g,,200.0,g,4.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,24.0,MANTEQUILLA ENVASADA
+Chocolate con Mantequilla de Maní Reese's 42g,,42.0,g,5.0,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,119.04761904761904,MANTEQUILLA ENVASADA
+Galletas Saladas CLUB SOCIAL sabor Mantequilla...,,144.0,g,5.2,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,36.111111111111114,MANTEQUILLA ENVASADA
+Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,5.2,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,216.66666666666666,MANTEQUILLA ENVASADA
+Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,5.2,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,216.66666666666666,MANTEQUILLA ENVASADA
+Ensalada Mix Personal BELL'S FRESCOS Bolsa 100g,BELL'S FRESCOS,100.0,g,5.49,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,54.900000000000006,MANTEQUILLA ENVASADA
+Ensalada Rusa Green Food 400g,,400.0,g,5.52,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,13.799999999999999,MANTEQUILLA ENVASADA
+Margarina Sello de Oro Pote 200g,,200.0,g,5.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,29.5,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 90g,,90.0,g,6.4,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,71.11111111111111,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 90g,,90.0,g,6.4,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,71.11111111111111,MANTEQUILLA ENVASADA
+Ensalada Rusa BELL'S Bolsa 500g,BELL'S,500.0,g,6.49,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,12.98,MANTEQUILLA ENVASADA
+Ensalada Fresca Metro 100g,,100.0,g,6.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,65.0,MANTEQUILLA ENVASADA
+Ensalada Mix BELL'S FRESCOS Bolsa 150g,BELL'S FRESCOS,150.0,g,6.59,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,43.93333333333334,MANTEQUILLA ENVASADA
+Ensalada Parrillera Ecologic x 400 g,,400.0,g,6.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,16.75,MANTEQUILLA ENVASADA
+Ensalada SOLEI Coco en Trozos Frasco 130g,SOLEI,130.0,g,6.79,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,52.230769230769226,MANTEQUILLA ENVASADA
+Ensalada Personal Verde Puro 140g,,140.0,g,6.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,49.285714285714285,MANTEQUILLA ENVASADA
+Margarina Dorina Light 220g,,220.0,g,6.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,31.363636363636367,MANTEQUILLA ENVASADA
+Ensalada Mix Primavera BELL'S FRESCOS Bolsa 150g,BELL'S FRESCOS,150.0,g,7.49,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,49.93333333333334,MANTEQUILLA ENVASADA
+Ensalada Mix La Itali BELL'S FRESCOS Envase 15...,,150.0,g,7.49,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,49.93333333333334,MANTEQUILLA ENVASADA
+Ensalada Mix Primavera BELL'S FRESCOS Táper 15...,,150.0,g,7.49,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,49.93333333333334,MANTEQUILLA ENVASADA
+Floretes de Brócoli 500g aprox,,500.0,g,7.49,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,14.98,MANTEQUILLA ENVASADA
+Mantequilla con Sal Laive 100g,,100.0,g,7.6,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,76.0,MANTEQUILLA ENVASADA
+Galletas COLOMBINA Butters cookies De mantequi...,,280.0,g,7.6,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,27.14285714285714,MANTEQUILLA ENVASADA
+Ensalada Rusa Precocida GREEN FOOD Bolsa 400g,,400.0,g,7.6,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,19.0,MANTEQUILLA ENVASADA
+Galletas COLOMBINA Butters cookies De mantequilla Bolsa 280Gr,COLOMBINA,280.0,g,7.7,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,27.5,MANTEQUILLA ENVASADA
+Mix Hierbas Ensalada 4 ESTACIONES Pote 12g,,12.0,g,7.7,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,641.6666666666666,MANTEQUILLA ENVASADA
+Galletas de Mantequilla Moments 280g,,280.0,g,7.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,28.214285714285715,MANTEQUILLA ENVASADA
+Brócoli Metro x kg,,1.0,kg,7.99,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,7.99,MANTEQUILLA ENVASADA
+Mix Ensalada Precocida Congelada GREEN FOOD Bo...,,400.0,g,8.2,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,20.5,MANTEQUILLA ENVASADA
+"Ensalada de Melón, Mango y Uva SOLEI Bandeja 3...",,300.0,g,8.79,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,29.299999999999997,MANTEQUILLA ENVASADA
+Ensalada Jardinera Precocida BELL'S Bolsa 500g,,500.0,g,8.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,17.8,MANTEQUILLA ENVASADA
+Margarina Sello de Oro Pote 400g,,400.0,g,8.99,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,22.475,MANTEQUILLA ENVASADA
+"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",,340.0,g,9.49,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,27.91176470588235,MANTEQUILLA ENVASADA
+Ensalada Rusa BELL'S Bandeja 500g,,500.0,g,9.49,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,18.98,MANTEQUILLA ENVASADA
+"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",,340.0,g,9.49,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,27.91176470588235,MANTEQUILLA ENVASADA
+Mantequilla de Maní LA FLORENCIA Pote 200g,,200.0,g,9.5,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,47.5,MANTEQUILLA ENVASADA
+Mantequilla de Maní LA FLORENCIA Pote 200g,LA FLORENCIA,200.0,g,9.7,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,48.5,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 180g,,180.0,g,9.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla Gloria Sin Sal 180g,,180.0,g,9.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla con Sal GLORIA Paquete 180g,,180.0,g,9.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla de Maní LA PURITA Pote 170g,LA PURITA,170.0,g,9.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,58.23529411764706,MANTEQUILLA ENVASADA
+Mantequilla con Sal GLORIA Paquete 180g,GLORIA,180.0,g,9.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla de Maní LA PURITA Pote 170g,,170.0,g,9.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,58.23529411764706,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 180g,,180.0,g,9.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla Gloria Sin Sal 180g,,180.0,g,9.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla sin Sal GLORIA Paquete 180g,GLORIA,180.0,g,9.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Mantequilla sin Sal GLORIA Paquete 180g,,180.0,g,9.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,55.0,MANTEQUILLA ENVASADA
+Sazonador Pop Corn BELL'S Sabor a Mantequilla Frasco 80g,BELL'S,80.0,g,10.2,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,127.49999999999999,MANTEQUILLA ENVASADA
+Sazonador Pop Corn BELL'S Sabor a Mantequilla ...,,80.0,g,10.2,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,127.49999999999999,MANTEQUILLA ENVASADA
+Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.4,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,433.3333333333333,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 180g,,180.0,g,10.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,58.33333333333333,MANTEQUILLA ENVASADA
+Mantequilla con Sal GLORIA Pote 180g,GLORIA,180.0,g,10.5,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,58.33333333333333,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 180g,,180.0,g,10.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,58.33333333333333,MANTEQUILLA ENVASADA
+Margarina Dorina Clásica 450g,,450.0,g,10.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,23.333333333333336,MANTEQUILLA ENVASADA
+Ensalada Rusa Cuisine & Co 400g,,400.0,g,10.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,27.0,MANTEQUILLA ENVASADA
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,450.0,MANTEQUILLA ENVASADA
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,450.0,MANTEQUILLA ENVASADA
+Ensalada Primavera Cuisine & Co 400g,,400.0,g,10.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,27.0,MANTEQUILLA ENVASADA
+Mantequilla Sin Sal Laive 180g,,180.0,g,10.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,60.55555555555556,MANTEQUILLA ENVASADA
+Cereal en Barra DYFFERENT Mantequilla de Maní ...,,175.0,g,10.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,62.28571428571429,MANTEQUILLA ENVASADA
+Ensalada Cesar's Verde Puro 250g,,250.0,g,10.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,43.6,MANTEQUILLA ENVASADA
+Mantequilla con Sal Laive 180g,,180.0,g,10.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,60.55555555555556,MANTEQUILLA ENVASADA
+Margarina Laive Swis 450g,,450.0,g,11.4,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,25.333333333333336,MANTEQUILLA ENVASADA
+Margarina Laive Swis 450g,,450.0,g,11.4,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,25.333333333333336,MANTEQUILLA ENVASADA
+Ensalada Mix de Lechugas Mattson 130g,,130.0,g,11.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,88.46153846153845,MANTEQUILLA ENVASADA
+Ensalada Fresca 320g,,320.0,g,11.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,36.5625,MANTEQUILLA ENVASADA
+Ensalada Cesar's Verde Puro 250g,,250.0,g,11.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,47.2,MANTEQUILLA ENVASADA
+Mantequilla con Sal LAIVE Barra 180g,,180.0,g,11.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,66.11111111111111,MANTEQUILLA ENVASADA
+Crema Avellanas con Cacao Cuisine & Co 350g,,350.0,g,11.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,34.0,MANTEQUILLA ENVASADA
+Crema Avellanas con Cacao Cuisine & Co 350g,,350.0,g,11.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,34.0,MANTEQUILLA ENVASADA
+Crema de Avellanas Duo Cuisine & Co 350g,,350.0,g,11.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,34.0,MANTEQUILLA ENVASADA
+Crema de Avellanas Duo Cuisine & Co 350g,,350.0,g,11.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,34.0,MANTEQUILLA ENVASADA
+Ensalada Mix Primavera VIVA Bandeja 120g,,120.0,g,11.99,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,99.91666666666667,MANTEQUILLA ENVASADA
+Cereal en Barra DYFFERENT Mantequilla de Maní Caja 175g,DYFFERENT,175.0,g,12.2,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,69.71428571428571,MANTEQUILLA ENVASADA
+Ensalada Thai Mattson 130g,,130.0,g,12.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,96.15384615384615,MANTEQUILLA ENVASADA
+Ensalada Rusa Precocida Congelada Green Food Bolsa 1 Kg,,1.0,kg,12.68,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,12.68,MANTEQUILLA ENVASADA
+Mantequilla sin Sal LAIVE Barra 180g,LAIVE,180.0,g,12.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,71.66666666666667,MANTEQUILLA ENVASADA
+Galletas de Mantequilla Colombina Casita de Navidad 200g Surtido,,200.0,g,12.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,64.5,MANTEQUILLA ENVASADA
+Mantequilla de Maní LA PURITA con Cacao Pote 1...,,170.0,g,12.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,75.88235294117646,MANTEQUILLA ENVASADA
+Sirope de Mantequilla American Classic 472g,,472.0,g,12.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,27.330508474576273,MANTEQUILLA ENVASADA
+Mantequilla con Sal LAIVE Pote 180g,,180.0,g,12.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,71.66666666666667,MANTEQUILLA ENVASADA
+Ensalada Rusa LA FLORENCIA 400g,,400.0,g,12.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,32.25,MANTEQUILLA ENVASADA
+Mantequilla Plusa Con Sal Barra 200 g,,200.0,g,12.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,64.5,MANTEQUILLA ENVASADA
+Mantequilla con Sal La Abuela 150g,,150.0,g,12.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,86.0,MANTEQUILLA ENVASADA
+Ensalada Fresca 380g,,380.0,g,13.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,36.05263157894737,MANTEQUILLA ENVASADA
+Rosquitas de Mantequilla Natural La Cajamarqueza Bolsa 360 g,,360.0,g,13.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,38.611111111111114,MANTEQUILLA ENVASADA
+Rosquitas al Ajo con Mantequilla y Orégano Bolsa 350 g,,350.0,g,13.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,39.714285714285715,MANTEQUILLA ENVASADA
+Rosquitas de Mantequilla Natural La Cajamarqueza Bolsa 360 g,,360.0,g,13.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,38.611111111111114,MANTEQUILLA ENVASADA
+Crema a Base de Mantequilla LAIVE Pote 350g,,350.0,g,13.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,39.714285714285715,MANTEQUILLA ENVASADA
+Rosquitas al Ajo con Mantequilla y Orégano Bolsa 350 g,,350.0,g,13.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,39.714285714285715,MANTEQUILLA ENVASADA
+Crema a Base de Mantequilla Laive 350g,,350.0,g,13.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,39.714285714285715,MANTEQUILLA ENVASADA
+Crema de Mantequilla Light Laive 180g,,180.0,g,13.99,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,77.72222222222221,MANTEQUILLA ENVASADA
+Mantequilla con Sal Laive 180g,,180.0,g,13.99,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,77.72222222222221,MANTEQUILLA ENVASADA
+Ensalada Fresca 380g,,380.0,g,14.7,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,38.68421052631579,MANTEQUILLA ENVASADA
+Galletas de Mantequilla Cuisine & Co 340g,,340.0,g,14.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,43.8235294117647,MANTEQUILLA ENVASADA
+Mantequilla sin Sal PAYSAN BRETON Paquete 200g,,200.0,g,14.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,74.5,MANTEQUILLA ENVASADA
+Mantequilla La Chuguranita Barra 150 g,,150.0,g,14.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,99.33333333333334,MANTEQUILLA ENVASADA
+Crema a Base de Mantequilla Light con Sal LAIVE Pote 180g,LAIVE,180.0,g,15.0,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,83.33333333333333,MANTEQUILLA ENVASADA
+Ensalada de Zanahoria y Beterraga La Buena Pepa 450g,,450.0,g,15.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,34.44444444444444,MANTEQUILLA ENVASADA
+Margarina La Danesa 500g,,500.0,g,15.6,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,31.2,MANTEQUILLA ENVASADA
+Ensalada de Col con Aliño 400g,,400.0,g,15.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,39.5,MANTEQUILLA ENVASADA
+Mantequilla PLUSA 100% Natural Barra 200g,PLUSA,200.0,g,16.1,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,80.5,MANTEQUILLA ENVASADA
+Mantequilla Asturiana 125g,,125.0,g,16.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,133.6,MANTEQUILLA ENVASADA
+Mantequilla con Sal Danlac Frasco 180g,,180.0,g,16.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,93.88888888888887,MANTEQUILLA ENVASADA
+Mantequilla con Sal Danlac Frasco 180g,,180.0,g,16.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,93.88888888888887,MANTEQUILLA ENVASADA
+Mantequilla de Maní THE BUTTER FACTORY Frasco ...,,200.0,g,16.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,84.5,MANTEQUILLA ENVASADA
+Mantequilla con Sal Piamonte 250g,,250.0,g,16.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,67.6,MANTEQUILLA ENVASADA
+Mantequilla Vegana Las Tres Gunas 120g,,120.0,g,17.2,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,143.33333333333334,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 390g,,390.0,g,17.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,44.87179487179487,MANTEQUILLA ENVASADA
+Mantequilla con Sal Gloria 390g,,390.0,g,17.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,45.89743589743589,MANTEQUILLA ENVASADA
+Mantequilla de Almendras LA FLORENCIA Pote 200...,,200.0,g,17.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,89.5,MANTEQUILLA ENVASADA
+Mantequilla de Almendras LA FLORENCIA Pote 200g,LA FLORENCIA,200.0,g,18.3,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,91.5,MANTEQUILLA ENVASADA
+Mantequilla Vegana Dyfferent 150g,,150.0,g,19.1,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,127.33333333333334,MANTEQUILLA ENVASADA
+Mantequilla de Maní Sin Azúcar Santa Manía Frasco 230 g,,230.0,g,19.5,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,84.78260869565217,MANTEQUILLA ENVASADA
+Crema de Avellanas Nutella 140g,,140.0,g,19.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,141.42857142857142,MANTEQUILLA ENVASADA
+Ensalada Vietnamita Mattson 450 g,,450.0,g,19.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,44.22222222222222,MANTEQUILLA ENVASADA
+Crema de Avellanas Nutella 140g,,140.0,g,20.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,146.42857142857142,MANTEQUILLA ENVASADA
+Mantequilla de Maní Sin Azúcar Santa Manía Frasco 230 g,,230.0,g,20.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,89.13043478260869,MANTEQUILLA ENVASADA
+Mantequilla sin Sal Président Barra 200 gr,,200.0,g,20.7,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,103.5,MANTEQUILLA ENVASADA
+Mantequilla sin Sal Président Barra 200g,,200.0,g,20.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,103.5,MANTEQUILLA ENVASADA
+Mantequilla con Sal Président Barra 200 gr,,200.0,g,20.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,103.5,MANTEQUILLA ENVASADA
+Mantequilla de Maní SPREAD Chocomaní Frasco 410g,SPREAD,410.0,g,21.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Mantequilla de Maní SPREAD con Miel de Abeja Frasco 410g,SPREAD,410.0,g,21.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Mantequilla de Maní SPREAD Chocomaní Frasco 41...,,410.0,g,21.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Mantequilla de Chocomaní THE BUTTER FACTORY Frasco 200g,THE BUTTER FACTORY,200.0,g,21.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,109.5,MANTEQUILLA ENVASADA
+Mantequilla de Maní SPREAD 100% Maní Frasco 41...,,410.0,g,21.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Crema de Maní & Panela Cuisine & Co 410g,,410.0,g,21.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Cuisine & Co Crema de Maní con Cacao Frasco 410 g,,410.0,g,21.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Mantequilla de Maní Spread 410g,,410.0,g,21.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,53.414634146341456,MANTEQUILLA ENVASADA
+Mantequila SPREAD 100% Almendras Frasco 230g,,230.0,g,22.0,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,95.65217391304347,MANTEQUILLA ENVASADA
+Mantequilla de Maní Orgánica Wasi Frasco 240 g,,240.0,g,23.2,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,96.66666666666667,MANTEQUILLA ENVASADA
+Aceite en Spray Sabor a Mantequilla OLEICO Frasco 170g,OLEICO,170.0,g,23.6,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,138.8235294117647,MANTEQUILLA ENVASADA
+Mantequilla LA CHUGURANITA Caja 240g,LA CHUGURANITA,240.0,g,23.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,99.58333333333333,MANTEQUILLA ENVASADA
+Mantequilla LA CHUGURANITA Caja 240g,,240.0,g,23.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,99.58333333333333,MANTEQUILLA ENVASADA
+Mantequilla de Maní Untable Pote 410 g,,410.0,g,25.0,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,60.97560975609756,MANTEQUILLA ENVASADA
+Mantequilla de Maní Untable Pote 410 g,,410.0,g,25.0,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,60.97560975609756,MANTEQUILLA ENVASADA
+Mantequilla Latteria Soresina Barra 125 g,,125.0,g,26.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,212.0,MANTEQUILLA ENVASADA
+"Crema de Maní, Cacao y Panela Wasi Chocomaní Orgánico 240g",,240.0,g,26.7,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,111.25,MANTEQUILLA ENVASADA
+Mantequilla Con Sal Paysan Breton Barra 200 g,,200.0,g,26.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,134.5,MANTEQUILLA ENVASADA
+Mantequilla Sin Sal Paysan Breton Barra 200 g,,200.0,g,26.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,134.5,MANTEQUILLA ENVASADA
+Mantequilla 100% Cashews LA PURITA Pote 170g,LA PURITA,170.0,g,26.9,vivanda,2024-12-04 17:41:25.517015,MANTEQUILLA ENVASADA,1.0,kg,158.23529411764704,MANTEQUILLA ENVASADA
+Mantequilla 100% Cashews LA PURITA Pote 170g,,170.0,g,26.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,158.23529411764704,MANTEQUILLA ENVASADA
+Mantequilla de Maní Crujiente Essential Everyday 454g,,454.0,g,27.2,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,59.91189427312774,MANTEQUILLA ENVASADA
+Mantequilla de Maní Pote 454 g,,454.0,g,27.2,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,59.91189427312774,MANTEQUILLA ENVASADA
+Crema de Avellanas Nutella 200g,,200.0,g,27.3,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,136.5,MANTEQUILLA ENVASADA
+Mantequilla de Maní Crujiente Essential Everyday 454g,,454.0,g,28.2,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,62.114537444933916,MANTEQUILLA ENVASADA
+Crema de Avellanas Winter's Pote 350 g,,350.0,g,28.3,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,80.85714285714286,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Almendras The Butter Factory Frasco 200 g,,200.0,g,28.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,144.5,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Almendras Crunchy The Butter Factory Frasco 200 g,,200.0,g,28.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,144.5,MANTEQUILLA ENVASADA
+Crema de Avellanas Cremosa Sin Gluten Sorini 350 gr,,350.0,g,29.3,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,83.71428571428572,MANTEQUILLA ENVASADA
+Crema de Maní Skippy Roasted Honey 462g,,462.0,g,29.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,64.28571428571428,MANTEQUILLA ENVASADA
+Crema de Maní Skippy 462g,,462.0,g,29.7,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,64.28571428571428,MANTEQUILLA ENVASADA
+Crema de Maní Skippy Roasted Honey 462g,,462.0,g,30.4,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,65.8008658008658,MANTEQUILLA ENVASADA
+Crema de Avellanas Cremosa Sin Gluten Sorini 350 gr,,350.0,g,30.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,88.0,MANTEQUILLA ENVASADA
+Mantequilla de Almendras THE BUTTER FACTORY Fr...,,200.0,g,31.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,159.5,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco 200 g,,200.0,g,32.0,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,160.0,MANTEQUILLA ENVASADA
+Mantequilla con Sal Arias 235g,,235.0,g,32.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,139.57446808510636,MANTEQUILLA ENVASADA
+Mantequilla Sin Sal Arias 235g,,235.0,g,32.8,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,139.57446808510636,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Almendras The Butter Factory Frasco 200 g,,200.0,g,32.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,164.5,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Almendras Crunchy The Butter Factory Frasco 200 g,,200.0,g,32.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,164.5,MANTEQUILLA ENVASADA
+Mantequilla Sin Sal Arias 235g,,235.0,g,32.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,140.0,MANTEQUILLA ENVASADA
+Mantequilla de Chocoalmendras THE BUTTER FACTO...,,200.0,g,33.9,plaza_vea,2024-12-04 13:45:11.741261,MANTEQUILLA ENVASADA,1.0,kg,169.5,MANTEQUILLA ENVASADA
+Pan Mini Francesitos con Orégano y Mantequilla x kg,,1.0,kg,33.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,33.9,MANTEQUILLA ENVASADA
+Mantequilla de Frutos Secos Choco Almendras The Butter Factory Frasco 200 g,,200.0,g,34.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,174.5,MANTEQUILLA ENVASADA
+"Pasta de Almendras, Castañas y Cacao Rainforest Spread Wasi Frasco 250 g",,250.0,g,38.5,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,154.0,MANTEQUILLA ENVASADA
+Crema de Avellanas Nutella 350g,,350.0,g,38.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,111.14285714285714,MANTEQUILLA ENVASADA
+Crema de Avellanas y Cacao Zana Isatella 210g,,210.0,g,43.6,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,207.61904761904762,MANTEQUILLA ENVASADA
+Mantequilla de Maní Unión 1Kg,,1.0,kg,49.8,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,49.8,MANTEQUILLA ENVASADA
+Crema de Almendras Cuisine & Co Frasco 410g,,410.0,g,55.9,wong,2024-12-04 19:18:47.447896,MANTEQUILLA ENVASADA,1.0,kg,136.34146341463415,MANTEQUILLA ENVASADA
+Crema de Avellanas Nutella 650g,,650.0,g,68.9,metro,2024-12-04 21:24:27.280736,MANTEQUILLA ENVASADA,1.0,kg,106.0,MANTEQUILLA ENVASADA

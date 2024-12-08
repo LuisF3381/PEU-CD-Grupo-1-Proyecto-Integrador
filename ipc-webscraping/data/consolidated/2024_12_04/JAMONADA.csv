@@ -1,82 +1,82 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Jamoneta de Pollo San Fernando 85g,S/ 1.57,metro,JAMONADA,2024-12-04 21:06:45.960633,85.0,g,Jamoneta de Pollo San Fernando,1.57,metro,,,JAMONADA
-Jamonada de Pollo Redondos 85g,S/ 1.60,metro,JAMONADA,2024-12-04 21:06:45.960633,85.0,g,Jamonada de Pollo Redondos,1.6,metro,,,JAMONADA
-Mortadella La Norteña San Fernando Paquete 100 g,S/ 1.73,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Mortadella La Norteña San Fernando Paquete,1.73,metro,,,JAMONADA
-Jamonada de Pavita San Fernando Paquete 85 g,S/ 1.84,metro,JAMONADA,2024-12-04 21:06:45.960633,85.0,g,Jamonada de Pavita San Fernando Paquete,1.84,metro,,,JAMONADA
-Jamonada de Pollo BELL'S Paquete 100g,S/ 2.20 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,100.0,g,Jamonada de Pollo BELL'S Paquete,2.2,plaza_vea,Paquete 100g,,JAMONADA
-Jamonada de Pavita SAN FERNANDO Paquete 85g,S/ 2.30 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,85.0,g,Jamonada de Pavita SAN FERNANDO Paquete,2.3,plaza_vea,Paquete 85g,,JAMONADA
-Jamonada de Pavita SAN FERNANDO Paquete 85g,S/ 2.30,vivanda,JAMONADA,2024-12-04 17:29:21.709452,85.0,g,Jamonada de Pavita SAN FERNANDO Paquete,2.3,vivanda,,SAN FERNANDO,JAMONADA
-Jamonada con Pollo Cerdeña Paquete 100 g,S/ 2.30,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada con Pollo Cerdeña Paquete,2.3,metro,,,JAMONADA
-Mortadela Lonchera La Segoviana Paquete 100 g,S/ 2.50,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Mortadela Lonchera La Segoviana Paquete,2.5,metro,,,JAMONADA
-Jamonada Especial BELL'S Paquete 100g,S/ 2.60 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,100.0,g,Jamonada Especial BELL'S Paquete,2.6,plaza_vea,Paquete 100g,,JAMONADA
-Jamonada de Pavita BELL'S Paquete 100g,S/ 2.60 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,100.0,g,Jamonada de Pavita BELL'S Paquete,2.6,plaza_vea,Paquete 100g,,JAMONADA
-Jamonada Especial BRAEDT Paquete 100g,S/ 2.90 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,100.0,g,Jamonada Especial BRAEDT Paquete,2.9,plaza_vea,Paquete 100g,,JAMONADA
-Jamonada Lonchera 100 g,S/ 2.90,tottus,JAMONADA,2024-12-04 13:13:41.803562,100.0,g,Jamonada Lonchera,2.9,tottus,,BRAEDT,JAMONADA
-Jamonada Especial 100 g,S/ 2.90,tottus,JAMONADA,2024-12-04 13:13:41.803562,100.0,g,Jamonada Especial,2.9,tottus,,BRAEDT,JAMONADA
-Jamonada de Pollo Braedt Paquete 100 g,S/ 2.99,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada de Pollo Braedt Paquete,2.99,metro,,,JAMONADA
-Chicharrón de Prensa Cerdeña 100g,S/ 3.80,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Chicharrón de Prensa Cerdeña,3.8,metro,,,JAMONADA
-Jamonada con Pollo Suiza 100g,S/ 3.90,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada con Pollo Suiza,3.9,metro,,,JAMONADA
-Mortadela de Pollo Naturave 200g,S/ 3.90,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Mortadela de Pollo Naturave,3.9,metro,,,JAMONADA
-Jamonada Bologna Otto Kunz Paquete 100 g,S/ 3.90,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada Bologna Otto Kunz Paquete,3.9,metro,,,JAMONADA
-Jamonada de Pollo BRAEDT Paquete 180g,S/ 4.40 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,180.0,g,Jamonada de Pollo BRAEDT Paquete,4.4,plaza_vea,Paquete 180g,,JAMONADA
-Jamonada de Pollo Otto Kunz Paquete 100 g,S/ 4.50,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada de Pollo Otto Kunz Paquete,4.5,metro,,,JAMONADA
-Jamonada de Pollo Wong 200g,S/ 4.60,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada de Pollo Wong,4.6,wong,,,JAMONADA
-Jamonada de Pollo Cuisine & Co 200g,S/ 4.60,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada de Pollo Cuisine & Co,4.6,metro,,,JAMONADA
-Mortadela Cuisine & Co 200g,S/ 4.70,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Mortadela Cuisine & Co,4.7,wong,,,JAMONADA
-Jamonada de Pollo Braedt 180g,S/ 4.70,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Jamonada de Pollo Braedt,4.7,metro,,,JAMONADA
-Jamonada de Pollo Otto Kunz 100g,S/ 4.70,wong,JAMONADA,2024-12-04 18:51:56.473310,100.0,g,Jamonada de Pollo Otto Kunz,4.7,wong,,,JAMONADA
-JAMONADA SANDWICH X 180 GR,S/ 4.80,tottus,JAMONADA,2024-12-04 13:13:41.803562,180.0,g,JAMONADA SANDWICH X R,4.8,tottus,,SUIZA,JAMONADA
-Jamonada Especial Braedt 180g,S/ 5.20,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Jamonada Especial Braedt,5.2,metro,,,JAMONADA
-Jamonada con Pollo Suiza Paquete 200 g,S/ 5.50,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada con Pollo Suiza Paquete,5.5,metro,,,JAMONADA
-Jamonada de Pollo SALCHICHERÍA ALEMANA Paquete...,S/ 5.60 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,200.0,g,Jamonada de Pollo SALCHICHERÍA ALEMANA Paquete,5.6,plaza_vea,Paquete 200g,,JAMONADA
-Jamonada Especial Otto Kunz Paquete 100 g,S/ 5.60,metro,JAMONADA,2024-12-04 21:06:45.960633,100.0,g,Jamonada Especial Otto Kunz Paquete,5.6,metro,,,JAMONADA
-Queso de Chancho Otto Kunz 180g,S/ 5.80,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Queso de Chancho Otto Kunz,5.8,metro,,,JAMONADA
-Jamonada Especial SALCHICHERÍA SUIZA Paquete 2...,S/ 5.90 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,200.0,g,Jamonada Especial SALCHICHERÍA SUIZA Paquete 2,5.9,plaza_vea,Paquete 200g,,JAMONADA
-Jamón Especial de la Salchichería de 200 g,S/ 6.20,tottus,JAMONADA,2024-12-04 13:13:41.803562,200.0,g,Jamón Especial de la Salchichería de,6.2,tottus,,SUIZA,JAMONADA
-Jamonada Especial Suiza Paquete 200 g,S/ 6.20,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada Especial Suiza Paquete,6.2,wong,,,JAMONADA
-Jamonada Especial Suiza Paquete 200 g,S/ 6.20,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada Especial Suiza Paquete,6.2,metro,,,JAMONADA
-Chicharrón de Prensa Suiza 180g,S/ 6.20,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Chicharrón de Prensa Suiza,6.2,metro,,,JAMONADA
-Jamonada Bologna Otto Kunz 180g,S/ 6.60,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Jamonada Bologna Otto Kunz,6.6,metro,,,JAMONADA
-Jamonada Especial SALCHICHERÍA ALEMANA Paquete...,S/ 6.80 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,200.0,g,Jamonada Especial SALCHICHERÍA ALEMANA Paquete,6.8,plaza_vea,Paquete 200g,,JAMONADA
-Mortadela Especial 180g,S/ 6.90,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Mortadela Especial,6.9,metro,,,JAMONADA
-Jamonada Especial Zimmermann Paquete 200 g,S/ 6.96,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada Especial Zimmermann Paquete,6.96,wong,,,JAMONADA
-Pastel de Jamón Otto Kunz Paquete 150 g,S/ 6.99,metro,JAMONADA,2024-12-04 21:06:45.960633,150.0,g,Pastel de Jamón Otto Kunz Paquete,6.99,metro,,,JAMONADA
-Mortadela Wong 200g,S/ 6.99,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Mortadela Wong,6.99,wong,,,JAMONADA
-Mortadela Cuisine & Co 200g,S/ 6.99,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Mortadela Cuisine & Co,6.99,metro,,,JAMONADA
-Chicharrón de Prensa Salchería Alemana 200g,S/ 7.00,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Chicharrón de Prensa Salchería Alemana,7.0,metro,,,JAMONADA
-Chicharrón de Prensa Salchería Alemana 200g,S/ 7.20,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Chicharrón de Prensa Salchería Alemana,7.2,wong,,,JAMONADA
-Jamonada Polaca Otto Kunz 180g,S/ 7.22,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Jamonada Polaca Otto Kunz,7.22,metro,,,JAMONADA
-Jamonada Especial Salchichería Alemana 200g,S/ 7.50,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada Especial Salchichería Alemana,7.5,metro,,,JAMONADA
-Jamonada Especial Salchichería Alemana 200g,S/ 7.50,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada Especial Salchichería Alemana,7.5,wong,,,JAMONADA
-Jamonada Polaca SALCHICHERÍA ALEMANA Paquete 2...,S/ 7.70 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,200.0,g,Jamonada Polaca SALCHICHERÍA ALEMANA Paquete 2,7.7,plaza_vea,Paquete 200g,,JAMONADA
-Jamonada Polaca Salchichería Alemana 200g,S/ 7.90,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada Polaca Salchichería Alemana,7.9,metro,,,JAMONADA
-Jamonada Polaca Salchichería Alemana 200g,S/ 7.90,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada Polaca Salchichería Alemana,7.9,wong,,,JAMONADA
-PACK JAMONADA Y QUESO X 180 GR,S/ 7.90,tottus,JAMONADA,2024-12-04 13:13:41.803562,180.0,g,PACK JAMONADA Y QUESO X R,7.9,tottus,,BRAEDT,JAMONADA
-Jamonada Polaca Otto Kunz 180g,S/ 7.90,wong,JAMONADA,2024-12-04 18:51:56.473310,180.0,g,Jamonada Polaca Otto Kunz,7.9,wong,,,JAMONADA
-Jamonada Polaca 200 g,S/ 7.90,tottus,JAMONADA,2024-12-04 13:13:41.803562,200.0,g,Jamonada Polaca,7.9,tottus,,SALCHICHERIA ALEMANA,JAMONADA
-Chicharrón de Prensa 180g,S/ 8.00,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Chicharrón de Prensa,8.0,metro,,,JAMONADA
-Chicharrón de Prensa 180g,S/ 8.00,wong,JAMONADA,2024-12-04 18:51:56.473310,180.0,g,Chicharrón de Prensa,8.0,wong,,,JAMONADA
-Jamonada Polaca OTTO KUNZ Paquete 180g,S/ 8.49,vivanda,JAMONADA,2024-12-04 17:29:21.709452,180.0,g,Jamonada Polaca OTTO KUNZ Paquete,8.49,vivanda,,OTTO KUNZ,JAMONADA
-Jamonada Polaca OTTO KUNZ Paquete 180g,S/ 8.49 un,plaza_vea,JAMONADA,2024-12-04 13:25:44.732637,180.0,g,Jamonada Polaca OTTO KUNZ Paquete,8.49,plaza_vea,Paquete 180g,,JAMONADA
-Jamonada Especial Zimmermann Paquete 200 g,S/ 8.70,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada Especial Zimmermann Paquete,8.7,metro,,,JAMONADA
-Jamonada de Pollo Casa Europa Paquete 200 g,S/ 8.80,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Jamonada de Pollo Casa Europa Paquete,8.8,wong,,,JAMONADA
-Chicharrón de Prensa Suiza 180g,S/ 8.90,wong,JAMONADA,2024-12-04 18:51:56.473310,180.0,g,Chicharrón de Prensa Suiza,8.9,wong,,,JAMONADA
-Chicharron de Prensa Cuisine & Co 200g,S/ 8.99,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Chicharron de Prensa Cuisine & Co,8.99,wong,,,JAMONADA
-Twopack Jamonada con Pollo Suiza 200g,S/ 9.00,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Twopack Jamonada con Pollo Suiza,9.0,wong,,,JAMONADA
-Twopack Jamonada con Pollo Suiza 200g,S/ 9.00,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Twopack Jamonada con Pollo Suiza,9.0,metro,,,JAMONADA
-Queso Edam Laive + Jamonada Suiza 160g,S/ 9.10,metro,JAMONADA,2024-12-04 21:06:45.960633,160.0,g,Queso Edam Laive + Jamonada Suiza,9.1,metro,,,JAMONADA
-Pack Jamonada de Pollo + Queso Edam Braedt Paquete 180 g,S/ 9.10,metro,JAMONADA,2024-12-04 21:06:45.960633,180.0,g,Pack Jamonada de Pollo + Queso Edam Braedt Paquete,9.1,metro,,,JAMONADA
-Pack Jamonada de Pollo + Queso Edam Braedt Paquete 180 g,S/ 9.30,wong,JAMONADA,2024-12-04 18:51:56.473310,180.0,g,Pack Jamonada de Pollo + Queso Edam Braedt Paquete,9.3,wong,,,JAMONADA
-Mortadela Paquete 200 g,S/ 9.60,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Mortadela Paquete,9.6,metro,,,JAMONADA
-Jamonada Polaca Casa Europa Paquete 200 g,S/ 9.90,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada Polaca Casa Europa Paquete,9.9,metro,,,JAMONADA
-Jamonada Polaca CASA EUROPA Paquete 200g,S/ 10.00,vivanda,JAMONADA,2024-12-04 17:29:21.709452,200.0,g,Jamonada Polaca CASA EUROPA Paquete,10.0,vivanda,,CASA EUROPA,JAMONADA
-Chicharrón de Prensa Casa Europa Paquete 200 g,S/ 10.40,wong,JAMONADA,2024-12-04 18:51:56.473310,200.0,g,Chicharrón de Prensa Casa Europa Paquete,10.4,wong,,,JAMONADA
-Twopack Jamonada Especial Suiza 200g,S/ 10.50,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Twopack Jamonada Especial Suiza,10.5,metro,,,JAMONADA
-Jamonada Especial Braedt 480g,S/ 10.90,metro,JAMONADA,2024-12-04 21:06:45.960633,480.0,g,Jamonada Especial Braedt,10.9,metro,,,JAMONADA
-Pack Jamonada Especial SUIZA Paquete 400g,S/ 10.90,vivanda,JAMONADA,2024-12-04 17:29:21.709452,400.0,g,Pack Jamonada Especial SUIZA Paquete,10.9,vivanda,,LAIVE,JAMONADA
-Jamonada de Pollo Casa Europa Paquete 200 g,S/ 12.90,metro,JAMONADA,2024-12-04 21:06:45.960633,200.0,g,Jamonada de Pollo Casa Europa Paquete,12.9,metro,,,JAMONADA
-Jamonada Lonchera Braedt x kg,S/ 27.90 x kg,metro,JAMONADA,2024-12-04 21:06:45.960633,1.0,kg,Jamonada Lonchera Braedt,27.9,metro,,,JAMONADA
-Jamonada de Pollo Braedt x kg,S/ 30.50 x kg,metro,JAMONADA,2024-12-04 21:06:45.960633,1.0,kg,Jamonada de Pollo Braedt,30.5,metro,,,JAMONADA
-Jamonada De Pollo Otto Kunz x kg,S/ 35.00 x kg,metro,JAMONADA,2024-12-04 21:06:45.960633,1.0,kg,Jamonada De Pollo Otto Kunz,35.0,metro,,,JAMONADA
-Jamonada Especial Otto Kunz x Kg,S/ 40.00 x kg,metro,JAMONADA,2024-12-04 21:06:45.960633,1.0,kg,Jamonada Especial Otto Kunz,40.0,metro,,,JAMONADA
-Jamonada Polaca Otto Kunz x kg,S/ 46.00 x kg,metro,JAMONADA,2024-12-04 21:06:45.960633,1.0,kg,Jamonada Polaca Otto Kunz,46.0,metro,,,JAMONADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Jamoneta de Pollo San Fernando 85g,,85.0,g,1.57,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,18.470588235294116,JAMONADA
+Jamonada de Pollo Redondos 85g,,85.0,g,1.6,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,18.823529411764707,JAMONADA
+Mortadella La Norteña San Fernando Paquete 100 g,,100.0,g,1.73,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,17.3,JAMONADA
+Jamonada de Pavita San Fernando Paquete 85 g,,85.0,g,1.84,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,21.64705882352941,JAMONADA
+Jamonada de Pollo BELL'S Paquete 100g,,100.0,g,2.2,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,22.0,JAMONADA
+Jamonada de Pavita SAN FERNANDO Paquete 85g,,85.0,g,2.3,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,27.05882352941176,JAMONADA
+Jamonada de Pavita SAN FERNANDO Paquete 85g,SAN FERNANDO,85.0,g,2.3,vivanda,2024-12-04 17:29:21.709452,JAMONADA,1,kg,27.05882352941176,JAMONADA
+Jamonada con Pollo Cerdeña Paquete 100 g,,100.0,g,2.3,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,23.0,JAMONADA
+Mortadela Lonchera La Segoviana Paquete 100 g,,100.0,g,2.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,25.0,JAMONADA
+Jamonada Especial BELL'S Paquete 100g,,100.0,g,2.6,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,26.0,JAMONADA
+Jamonada de Pavita BELL'S Paquete 100g,,100.0,g,2.6,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,26.0,JAMONADA
+Jamonada Especial BRAEDT Paquete 100g,,100.0,g,2.9,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,29.0,JAMONADA
+Jamonada Lonchera 100 g,BRAEDT,100.0,g,2.9,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,29.0,JAMONADA
+Jamonada Especial 100 g,BRAEDT,100.0,g,2.9,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,29.0,JAMONADA
+Jamonada de Pollo Braedt Paquete 100 g,,100.0,g,2.99,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,29.900000000000002,JAMONADA
+Chicharrón de Prensa Cerdeña 100g,,100.0,g,3.8,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,38.0,JAMONADA
+Jamonada con Pollo Suiza 100g,,100.0,g,3.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,39.0,JAMONADA
+Mortadela de Pollo Naturave 200g,,200.0,g,3.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,19.5,JAMONADA
+Jamonada Bologna Otto Kunz Paquete 100 g,,100.0,g,3.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,39.0,JAMONADA
+Jamonada de Pollo BRAEDT Paquete 180g,,180.0,g,4.4,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,24.444444444444446,JAMONADA
+Jamonada de Pollo Otto Kunz Paquete 100 g,,100.0,g,4.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,45.0,JAMONADA
+Jamonada de Pollo Wong 200g,,200.0,g,4.6,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,23.0,JAMONADA
+Jamonada de Pollo Cuisine & Co 200g,,200.0,g,4.6,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,23.0,JAMONADA
+Mortadela Cuisine & Co 200g,,200.0,g,4.7,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,23.5,JAMONADA
+Jamonada de Pollo Braedt 180g,,180.0,g,4.7,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,26.11111111111111,JAMONADA
+Jamonada de Pollo Otto Kunz 100g,,100.0,g,4.7,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,47.0,JAMONADA
+JAMONADA SANDWICH X 180 GR,SUIZA,180.0,g,4.8,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,26.666666666666664,JAMONADA
+Jamonada Especial Braedt 180g,,180.0,g,5.2,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,28.88888888888889,JAMONADA
+Jamonada con Pollo Suiza Paquete 200 g,,200.0,g,5.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,27.5,JAMONADA
+Jamonada de Pollo SALCHICHERÍA ALEMANA Paquete...,,200.0,g,5.6,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,28.0,JAMONADA
+Jamonada Especial Otto Kunz Paquete 100 g,,100.0,g,5.6,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,56.0,JAMONADA
+Queso de Chancho Otto Kunz 180g,,180.0,g,5.8,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,32.22222222222222,JAMONADA
+Jamonada Especial SALCHICHERÍA SUIZA Paquete 2...,,200.0,g,5.9,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,29.5,JAMONADA
+Jamón Especial de la Salchichería de 200 g,SUIZA,200.0,g,6.2,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,31.0,JAMONADA
+Jamonada Especial Suiza Paquete 200 g,,200.0,g,6.2,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,31.0,JAMONADA
+Jamonada Especial Suiza Paquete 200 g,,200.0,g,6.2,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,31.0,JAMONADA
+Chicharrón de Prensa Suiza 180g,,180.0,g,6.2,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,34.44444444444444,JAMONADA
+Jamonada Bologna Otto Kunz 180g,,180.0,g,6.6,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,36.666666666666664,JAMONADA
+Jamonada Especial SALCHICHERÍA ALEMANA Paquete...,,200.0,g,6.8,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,34.0,JAMONADA
+Mortadela Especial 180g,,180.0,g,6.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,38.333333333333336,JAMONADA
+Jamonada Especial Zimmermann Paquete 200 g,,200.0,g,6.96,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,34.8,JAMONADA
+Pastel de Jamón Otto Kunz Paquete 150 g,,150.0,g,6.99,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,46.6,JAMONADA
+Mortadela Wong 200g,,200.0,g,6.99,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,34.95,JAMONADA
+Mortadela Cuisine & Co 200g,,200.0,g,6.99,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,34.95,JAMONADA
+Chicharrón de Prensa Salchería Alemana 200g,,200.0,g,7.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,35.0,JAMONADA
+Chicharrón de Prensa Salchería Alemana 200g,,200.0,g,7.2,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,36.0,JAMONADA
+Jamonada Polaca Otto Kunz 180g,,180.0,g,7.22,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,40.11111111111111,JAMONADA
+Jamonada Especial Salchichería Alemana 200g,,200.0,g,7.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,37.5,JAMONADA
+Jamonada Especial Salchichería Alemana 200g,,200.0,g,7.5,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,37.5,JAMONADA
+Jamonada Polaca SALCHICHERÍA ALEMANA Paquete 2...,,200.0,g,7.7,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,38.5,JAMONADA
+Jamonada Polaca Salchichería Alemana 200g,,200.0,g,7.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,39.5,JAMONADA
+Jamonada Polaca Salchichería Alemana 200g,,200.0,g,7.9,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,39.5,JAMONADA
+PACK JAMONADA Y QUESO X 180 GR,BRAEDT,180.0,g,7.9,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,43.88888888888889,JAMONADA
+Jamonada Polaca Otto Kunz 180g,,180.0,g,7.9,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,43.88888888888889,JAMONADA
+Jamonada Polaca 200 g,SALCHICHERIA ALEMANA,200.0,g,7.9,tottus,2024-12-04 13:13:41.803562,JAMONADA,1,kg,39.5,JAMONADA
+Chicharrón de Prensa 180g,,180.0,g,8.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,44.44444444444444,JAMONADA
+Chicharrón de Prensa 180g,,180.0,g,8.0,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,44.44444444444444,JAMONADA
+Jamonada Polaca OTTO KUNZ Paquete 180g,OTTO KUNZ,180.0,g,8.49,vivanda,2024-12-04 17:29:21.709452,JAMONADA,1,kg,47.166666666666664,JAMONADA
+Jamonada Polaca OTTO KUNZ Paquete 180g,,180.0,g,8.49,plaza_vea,2024-12-04 13:25:44.732637,JAMONADA,1,kg,47.166666666666664,JAMONADA
+Jamonada Especial Zimmermann Paquete 200 g,,200.0,g,8.7,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,43.5,JAMONADA
+Jamonada de Pollo Casa Europa Paquete 200 g,,200.0,g,8.8,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,44.0,JAMONADA
+Chicharrón de Prensa Suiza 180g,,180.0,g,8.9,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,49.44444444444444,JAMONADA
+Chicharron de Prensa Cuisine & Co 200g,,200.0,g,8.99,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,44.95,JAMONADA
+Twopack Jamonada con Pollo Suiza 200g,,200.0,g,9.0,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,45.0,JAMONADA
+Twopack Jamonada con Pollo Suiza 200g,,200.0,g,9.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,45.0,JAMONADA
+Queso Edam Laive + Jamonada Suiza 160g,,160.0,g,9.1,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,56.875,JAMONADA
+Pack Jamonada de Pollo + Queso Edam Braedt Paquete 180 g,,180.0,g,9.1,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,50.55555555555555,JAMONADA
+Pack Jamonada de Pollo + Queso Edam Braedt Paquete 180 g,,180.0,g,9.3,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,51.66666666666667,JAMONADA
+Mortadela Paquete 200 g,,200.0,g,9.6,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,48.0,JAMONADA
+Jamonada Polaca Casa Europa Paquete 200 g,,200.0,g,9.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,49.5,JAMONADA
+Jamonada Polaca CASA EUROPA Paquete 200g,CASA EUROPA,200.0,g,10.0,vivanda,2024-12-04 17:29:21.709452,JAMONADA,1,kg,50.0,JAMONADA
+Chicharrón de Prensa Casa Europa Paquete 200 g,,200.0,g,10.4,wong,2024-12-04 18:51:56.473310,JAMONADA,1,kg,52.0,JAMONADA
+Twopack Jamonada Especial Suiza 200g,,200.0,g,10.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,52.5,JAMONADA
+Jamonada Especial Braedt 480g,,480.0,g,10.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,22.708333333333336,JAMONADA
+Pack Jamonada Especial SUIZA Paquete 400g,LAIVE,400.0,g,10.9,vivanda,2024-12-04 17:29:21.709452,JAMONADA,1,kg,27.25,JAMONADA
+Jamonada de Pollo Casa Europa Paquete 200 g,,200.0,g,12.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,64.5,JAMONADA
+Jamonada Lonchera Braedt x kg,,1.0,kg,27.9,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,27.9,JAMONADA
+Jamonada de Pollo Braedt x kg,,1.0,kg,30.5,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,30.5,JAMONADA
+Jamonada De Pollo Otto Kunz x kg,,1.0,kg,35.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,35.0,JAMONADA
+Jamonada Especial Otto Kunz x Kg,,1.0,kg,40.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,40.0,JAMONADA
+Jamonada Polaca Otto Kunz x kg,,1.0,kg,46.0,metro,2024-12-04 21:06:45.960633,JAMONADA,1,kg,46.0,JAMONADA

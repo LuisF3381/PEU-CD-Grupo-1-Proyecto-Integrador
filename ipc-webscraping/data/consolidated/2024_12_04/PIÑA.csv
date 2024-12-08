@@ -1,179 +1,171 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Refresco UMSHA Piña Bolsa 13g,S/ 1.00,vivanda,PIÑA,2024-12-04 17:50:29.768247,13.0,g,Refresco UMSHA Piña Bolsa,1.0,vivanda,,UMSHA,PIÑA
-Refresco Instantáneo Sabor Piña Sobre 15 g,S/ 1.20,wong,PIÑA,2024-12-04 19:43:13.516552,15.0,g,Refresco Instantáneo Sabor Piña Sobre,1.2,wong,,,PIÑA
-Bebida instantánea en polvo ZUKO Piña Sobre 15Gr,S/ 1.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,15.0,g,Bebida instantánea en polvo ZUKO Piña Sobre r,1.2,vivanda,,DUKO,PIÑA
-Gelatina Bebible Umsha Frutísimos Sabor Piña 20g,S/ 1.60,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,g,Gelatina Bebible Umsha Frutísimos Sabor Piña,1.6,wong,,,PIÑA
-Gaseosa CONCORDIA Piña Botella 500ml,S/ 1.60,vivanda,PIÑA,2024-12-04 17:50:29.768247,500.0,ml,Gaseosa CONCORDIA Piña Botella,1.6,vivanda,,CONCORDIA,PIÑA
-Agua Mineral SOCOSANI Piña Botella 500ml,S/ 1.99,vivanda,PIÑA,2024-12-04 17:50:29.768247,500.0,ml,Agua Mineral SOCOSANI Piña Botella,1.99,vivanda,,SOCOSANI,PIÑA
-"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja 500ml",S/ 2.10,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,ml,"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja",2.1,wong,,,PIÑA
-Bebida Sabor Piña con Kión San Luis Botella 625ml,S/ 2.20,wong,PIÑA,2024-12-04 19:43:13.516552,625.0,ml,Bebida Sabor Piña con Kión San Luis Botella,2.2,wong,,,PIÑA
-Bebida SAN LUIS Sin Gas Sabor Piña y Kión Botella 625ml,S/ 2.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,625.0,ml,Bebida SAN LUIS Sin Gas Sabor Piña y Kión Botella,2.2,vivanda,,SAN LUIS,PIÑA
-Gelatina Yopi Sabor Piña 120g,S/ 2.20,wong,PIÑA,2024-12-04 19:43:13.516552,120.0,g,Gelatina Yopi Sabor Piña,2.2,wong,,,PIÑA
-Bebida en Polvo Clight Sin Calorías Sabor Piña 14g,S/ 2.30,wong,PIÑA,2024-12-04 19:43:13.516552,14.0,g,Bebida en Polvo Clight Sin Calorías Sabor Piña,2.3,wong,,,PIÑA
-Piña para Jugo x kg,S/ 2.42 x kg,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,kg,Piña para Jugo,2.42,metro,,,PIÑA
-Mazamorra UNIVERSAL Sabor a Piña Bolsa 150gr,S/ 2.50,vega,PIÑA,2024-12-04 14:03:27.022847,150.0,g,Mazamorra UNIVERSAL Sabor a Piña Bolsa r,2.5,vega,,Universal,PIÑA
-Gelatina Light BELL'S Piña Bolsa 19g,S/ 2.50,vivanda,PIÑA,2024-12-04 17:50:29.768247,19.0,g,Gelatina Light BELL'S Piña Bolsa,2.5,vivanda,,BELL'S,PIÑA
-Piña Hawai,S/ 2.69 x kg,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,2.0,kg,Piña Hawai,2.69,plaza_vea,Presentación 2 kg aprox.,,PIÑA
-Gaseosa Fanta Piña Botella 500ml,S/ 2.70,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,ml,Gaseosa Fanta Piña Botella,2.7,wong,,,PIÑA
-Gelatina Sin Azúcar Cuisine & Co Sabor Piña 19g,S/ 2.90,wong,PIÑA,2024-12-04 19:43:13.516552,19.0,g,Gelatina Sin Azúcar Cuisine & Co Sabor Piña,2.9,wong,,,PIÑA
-Bebida Aloe KERO Piña Botella 300ml,S/ 3.00,vivanda,PIÑA,2024-12-04 17:50:29.768247,300.0,ml,Bebida Aloe KERO Piña Botella,3.0,vivanda,,KERO,PIÑA
-Gelatina UMSHA Sabor Piña Bolsa 120g,S/ 3.20,vega,PIÑA,2024-12-04 14:03:27.022847,120.0,g,Gelatina UMSHA Sabor Piña Bolsa,3.2,vega,,UMSHA,PIÑA
-Bebida Kero Aloe Vera Sabor Piña Botella 300ml,S/ 3.20,wong,PIÑA,2024-12-04 19:43:13.516552,300.0,ml,Bebida Kero Aloe Vera Sabor Piña Botella,3.2,wong,,,PIÑA
-Mazamorra UMSHA de Piña Bolsa 125g,S/ 3.40,vivanda,PIÑA,2024-12-04 17:50:29.768247,125.0,g,Mazamorra UMSHA de Piña Bolsa,3.4,vivanda,,UMSHA,PIÑA
-Gelatina UMSHA Sabor a Piña Bolsa 120g,S/ 3.40,vivanda,PIÑA,2024-12-04 17:50:29.768247,120.0,g,Gelatina UMSHA Sabor a Piña Bolsa,3.4,vivanda,,UMSHA,PIÑA
-Gelatina Umsha Sabor Piña 120g,S/ 3.50,wong,PIÑA,2024-12-04 19:43:13.516552,120.0,g,Gelatina Umsha Sabor Piña,3.5,wong,,,PIÑA
-Gelatina Sin Azúcar Cuisine & Co Sabor Piña 19g,S/ 3.50,wong,PIÑA,2024-12-04 19:43:13.516552,19.0,g,Gelatina Sin Azúcar Cuisine & Co Sabor Piña,3.5,wong,,,PIÑA
-Gelatina UNIVERSAL Sabor a Piña Bolsa 130g,S/ 3.50 8%,vega,PIÑA,2024-12-04 14:03:27.022847,130.0,g,Gelatina UNIVERSAL Sabor a Piña Bolsa,3.5,vega,,Universal,PIÑA
-Gelatina Cuisine & Co Sabor Piña 130g,S/ 3.50,wong,PIÑA,2024-12-04 19:43:13.516552,130.0,g,Gelatina Cuisine & Co Sabor Piña,3.5,wong,,,PIÑA
-Gelatina TIMONEL Sabor a Piña Bolsa 150gr,S/ 3.50,vega,PIÑA,2024-12-04 14:03:27.022847,150.0,g,Gelatina TIMONEL Sabor a Piña Bolsa r,3.5,vega,,Timonel,PIÑA
-Gelatina BELL'S Sabor a Piña Bolsa 180g,S/ 3.60,vivanda,PIÑA,2024-12-04 17:50:29.768247,180.0,g,Gelatina BELL'S Sabor a Piña Bolsa,3.6,vivanda,,BELL'S,PIÑA
-Mazamorra de Piña UMSHA Bolsa 125g,S/ 3.70,vega,PIÑA,2024-12-04 14:03:27.022847,125.0,g,Mazamorra de Piña UMSHA Bolsa,3.7,vega,,UMSHA,PIÑA
-Gelatina UNIVERSAL Sabor a Piña Caja 19g,S/ 3.70,vivanda,PIÑA,2024-12-04 17:50:29.768247,19.0,g,Gelatina UNIVERSAL Sabor a Piña Caja,3.7,vivanda,,UNIVERSAL,PIÑA
-Gelatina Diet Universal Piña Caja 19 g,S/ 3.80,wong,PIÑA,2024-12-04 19:43:13.516552,19.0,g,Gelatina Diet Universal Piña Caja,3.8,wong,,,PIÑA
-Mazamorra de Piña Universal Bolsa 150 g,S/ 3.90,wong,PIÑA,2024-12-04 19:43:13.516552,150.0,g,Mazamorra de Piña Universal Bolsa,3.9,wong,,,PIÑA
-Bebida de Piña Gloria Caja 1L,S/ 3.90,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Bebida de Piña Gloria Caja,3.9,wong,,,PIÑA
-Bebida GLORIA Piña Caja 1L,S/ 4.00,vega,PIÑA,2024-12-04 14:03:27.022847,1.0,l,Bebida GLORIA Piña Caja,4.0,vega,,Gloria,PIÑA
-Piña Colada CARTAVIO HIT 355 ml,S/ 4.30,vega,PIÑA,2024-12-04 14:03:27.022847,355.0,ml,Piña Colada CARTAVIO HIT,4.3,vega,,Cartavio,PIÑA
-Bebida GLORIA Piña Caja 1L,S/ 4.40,vivanda,PIÑA,2024-12-04 17:50:29.768247,1.0,l,Bebida GLORIA Piña Caja,4.4,vivanda,,GLORIA,PIÑA
-Piña Golden en trozos La Dulcesita Bandeja 200 g,S/ 4.49,wong,PIÑA,2024-12-04 19:43:13.516552,200.0,g,Piña Golden en trozos La Dulcesita Bandeja,4.49,wong,,,PIÑA
-Bebida de Piña y Mandarina Frugos del Valle Caja 1L,S/ 4.50,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Bebida de Piña y Mandarina Frugos del Valle Caja,4.5,wong,,,PIÑA
-Bebida de Piña y Granadilla Golden Botella 485ml,S/ 4.50,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Bebida de Piña y Granadilla Golden Botella,4.5,wong,,,PIÑA
-Mermelada de Piña Pote 200g,S/ 4.60,vivanda,PIÑA,2024-12-04 17:50:29.768247,200.0,g,Mermelada de Piña Pote,4.6,vivanda,,LA FLORENCIA,PIÑA
-Bebida de Membrillo y Piña Golden Botella 485ml,S/ 4.79,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Bebida de Membrillo y Piña Golden Botella,4.79,metro,,,PIÑA
-Bebida de Piña y Granadilla Golden Botella 485ml,S/ 4.79,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Bebida de Piña y Granadilla Golden Botella,4.79,metro,,,PIÑA
-Bebida NATURALE Piña Botella 500ml,S/ 4.80,vivanda,PIÑA,2024-12-04 17:50:29.768247,500.0,ml,Bebida NATURALE Piña Botella,4.8,vivanda,,NATURALE,PIÑA
-Bebida Naturale Agua de Piña Golden Botella 500ml,S/ 4.90,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,ml,Bebida Naturale Agua de Piña Golden Botella,4.9,wong,,,PIÑA
-Piña Golden Metro x kg,S/ 4.99 x kg,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,kg,Piña Golden Metro,4.99,metro,,,PIÑA
-Ready To Drink (RTD) WASSKA HAPPY Piña Colada ...,S/ 4.99 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,355.0,ml,Ready To Drink (RTD) WASSKA HAPPY Piña Colada,4.99,plaza_vea,Lata 355ml,,PIÑA
-Agua de Piña Light Golden 485ml,S/ 5.00,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Agua de Piña Light Golden,5.0,wong,,,PIÑA
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Piña 14g,S/ 5.00,wong,PIÑA,2024-12-04 19:43:13.516552,14.0,g,Tripack Bebida Instantánea Clight Sin Calorías Sabor Piña,5.0,wong,,,PIÑA
-Gelatina Diet Universal con Stevia Piña Caja 19g,S/ 5.20,wong,PIÑA,2024-12-04 19:43:13.516552,19.0,g,Gelatina Diet Universal con Stevia Piña Caja,5.2,wong,,,PIÑA
-Gelatina en Polvo Royal Sabor Piña 160g,S/ 5.20,wong,PIÑA,2024-12-04 19:43:13.516552,160.0,g,Gelatina en Polvo Royal Sabor Piña,5.2,wong,,,PIÑA
-Gelatina ROYAL Sabor a Piña Bolsa 160g,S/ 5.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,160.0,g,Gelatina ROYAL Sabor a Piña Bolsa,5.2,vivanda,,ROYAL,PIÑA
-Pulpa Congelada de Piña Natifrut 250g,S/ 5.20,wong,PIÑA,2024-12-04 19:43:13.516552,250.0,g,Pulpa Congelada de Piña Natifrut,5.2,wong,,,PIÑA
-Agua de Piña Golden 485ml,S/ 5.29,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Agua de Piña Golden,5.29,metro,,,PIÑA
-Agua de Piña Golden 485ml,S/ 5.29,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Agua de Piña Golden,5.29,wong,,,PIÑA
-Jugo de Fruta KERO Naranja y Piña Botella 475ml,S/ 5.70,vivanda,PIÑA,2024-12-04 17:50:29.768247,475.0,ml,Jugo de Fruta KERO Naranja y Piña Botella,5.7,vivanda,,KERO,PIÑA
-Bebida FRU + Piña Maracuyá Botella 400ml,S/ 5.70,vivanda,PIÑA,2024-12-04 17:50:29.768247,400.0,ml,Bebida FRU + Piña Maracuyá Botella,5.7,vivanda,,FRU +,PIÑA
-Bebida de Manzana y Piña Golden Botella 485ml,S/ 5.79,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Bebida de Manzana y Piña Golden Botella,5.79,metro,,,PIÑA
-Piña Golden x kg,S/ 5.79,vivanda,PIÑA,2024-12-04 17:50:29.768247,1.0,kg,Piña Golden,5.79,vivanda,,VIVANDA,PIÑA
-"Bebida de Naranja, Piña y Camu Camu Kero Botella 475ml",S/ 5.90,wong,PIÑA,2024-12-04 19:43:13.516552,475.0,ml,"Bebida de Naranja, Piña y Camu Camu Kero Botella",5.9,wong,,,PIÑA
-Bebida con Aloe Vera SAPPE Piña Botella 300ml,S/ 5.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,300.0,ml,Bebida con Aloe Vera SAPPE Piña Botella,5.9,vivanda,,SAPPE,PIÑA
-Chilcano TABERNERO Bar Piña Menta Botella 275ml,S/ 5.90 16%,vega,PIÑA,2024-12-04 14:03:27.022847,275.0,ml,Chilcano TABERNERO Bar Piña Menta Botella,5.9,vega,,Tabernero,PIÑA
-"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",S/ 5.99 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,300.0,g,"Ensalada de Uva, Sandía y Piña BELL'S Bandeja",5.99,plaza_vea,Bandeja 300g,,PIÑA
-Piña en Trozos BELL'S en Almíbar Lata 567g,S/ 6.40,vivanda,PIÑA,2024-12-04 17:50:29.768247,567.0,g,Piña en Trozos BELL'S en Almíbar Lata,6.4,vivanda,,BELL'S,PIÑA
-Agua de Piña con Arándanos Light Golden 485ml,S/ 6.49,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Agua de Piña con Arándanos Light Golden,6.49,metro,,,PIÑA
-Piña en Trozos BELL'S Bandeja 300g,S/ 6.50 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,300.0,g,Piña en Trozos BELL'S Bandeja,6.5,plaza_vea,Bandeja 300g,,PIÑA
-"King Kong de Manjarblanco, Piña y Maní Caja 75 g",S/ 6.70,wong,PIÑA,2024-12-04 19:43:13.516552,75.0,g,"King Kong de Manjarblanco, Piña y Maní Caja",6.7,wong,,,PIÑA
-King Kong de Manjarblanco y Piña Caja 75 g,S/ 6.70,wong,PIÑA,2024-12-04 19:43:13.516552,75.0,g,King Kong de Manjarblanco y Piña Caja,6.7,wong,,,PIÑA
-Bebida Piña Colada Light Golden 485ml,S/ 6.79,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Bebida Piña Colada Light Golden,6.79,metro,,,PIÑA
-Piñas en Rodajas Cuisine & Co 565g,S/ 6.90,wong,PIÑA,2024-12-04 19:43:13.516552,565.0,g,Piñas en Rodajas Cuisine & Co,6.9,wong,,,PIÑA
-Gaseosa FANTA Piña Lata 355ml,S/ 6.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,355.0,ml,Gaseosa FANTA Piña Lata,6.9,vivanda,,FANTA,PIÑA
-Piña en Rodajas BELL'S en Almíbar Lata 567g,S/ 6.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,567.0,g,Piña en Rodajas BELL'S en Almíbar Lata,6.9,vivanda,,BELL'S,PIÑA
-Piña Colada BAHIA Lata 355ml,S/ 6.90,vega,PIÑA,2024-12-04 14:03:27.022847,355.0,ml,Piña Colada BAHIA Lata,6.9,vega,,Bahia,PIÑA
-Bebida Ready to Drink Wasska Happy Punch Piña Colada Lata 355ml,S/ 6.90,wong,PIÑA,2024-12-04 19:43:13.516552,355.0,ml,Bebida Ready to Drink Wasska Happy Punch Piña Colada Lata,6.9,wong,,,PIÑA
-Gaseosa Fanta Piña Botella 3L,S/ 6.90,wong,PIÑA,2024-12-04 19:43:13.516552,3.0,l,Gaseosa Fanta Piña Botella,6.9,wong,,,PIÑA
-Gaseosa Fanta Piña Lata 355 ml,S/ 6.90,wong,PIÑA,2024-12-04 19:43:13.516552,355.0,ml,Gaseosa Fanta Piña Lata,6.9,wong,,,PIÑA
-Gaseosa CONCORDIA Piña Botella 3L,S/ 6.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,3.0,l,Gaseosa CONCORDIA Piña Botella,6.9,vivanda,,CONCORDIA,PIÑA
-Piña Golden en trozos La Dulcesita Bandeja 400 g,S/ 6.99,wong,PIÑA,2024-12-04 19:43:13.516552,400.0,g,Piña Golden en trozos La Dulcesita Bandeja,6.99,wong,,,PIÑA
-Infusión Piña Sunka Caja 20 unid,S/ 7.00,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,un,Infusión Piña Sunka Caja,7.0,wong,,,PIÑA
-Piña en Rodajas BALI Lata 227g,S/ 7.10,vivanda,PIÑA,2024-12-04 17:50:29.768247,227.0,g,Piña en Rodajas BALI Lata,7.1,vivanda,,BALI,PIÑA
-Gaseosa Concordia Sabor Piña Botella 3 Litros,S/ 7.10,wong,PIÑA,2024-12-04 19:43:13.516552,3.0,l,Gaseosa Concordia Sabor Piña Botella itros,7.1,wong,,,PIÑA
-Gaseosa FANTA Piña Botella 3L,S/ 7.50,vivanda,PIÑA,2024-12-04 17:50:29.768247,3.0,l,Gaseosa FANTA Piña Botella,7.5,vivanda,,FANTA,PIÑA
-Sixpack Bebida Frugos del Valle Piña Mandarina Caja 235ml,S/ 7.90,wong,PIÑA,2024-12-04 19:43:13.516552,235.0,ml,Sixpack Bebida Frugos del Valle Piña Mandarina Caja,7.9,wong,,,PIÑA
-Mermelada de Piña Pote 350 g,S/ 7.90,wong,PIÑA,2024-12-04 19:43:13.516552,350.0,g,Mermelada de Piña Pote,7.9,wong,,,PIÑA
-Jugo Cold Pressed de Piña Ecofresh Botella 475ml,S/ 7.90,wong,PIÑA,2024-12-04 19:43:13.516552,475.0,ml,Jugo Cold Pressed de Piña Ecofresh Botella,7.9,wong,,,PIÑA
-Bolsa de Pino Perfumada 30 L,S/ 7.90,tottus,PIÑA,2024-12-04 13:33:13.389810,30.0,l,Bolsa de Pino Perfumada,7.9,tottus,,TOTTUS,PIÑA
-Yogurt Griego Vakimu Piña 500g,S/ 7.92,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,g,Yogurt Griego Vakimu Piña,7.92,wong,,,PIÑA
-Fourpack Gelatina Yopi Sabor Piña 120g,S/ 8.50,wong,PIÑA,2024-12-04 19:43:13.516552,120.0,g,Fourpack Gelatina Yopi Sabor Piña,8.5,wong,,,PIÑA
-Té Verde & Piña BELL'S Caja 20un,S/ 8.59,vivanda,PIÑA,2024-12-04 17:50:29.768247,20.0,un,Té Verde & Piña BELL'S Caja,8.59,vivanda,,BELL'S,PIÑA
-Jugo de Piña NATURALE Botella 1L,S/ 8.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,1.0,l,Jugo de Piña NATURALE Botella,8.9,vivanda,,NATURALE,PIÑA
-Infusión de Té Verde con Piña Cuisine & Co 20un.,S/ 8.90,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,un,Infusión de Té Verde con Piña Cuisine & Co .,8.9,wong,,,PIÑA
-Piña Golden en Trozos Congelada FEST Paquete 500g,S/ 8.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,500.0,g,Piña Golden en Trozos Congelada FEST Paquete,8.9,vivanda,,FEST,PIÑA
-Piña Golden en Trozos Congelada FEST Paquete 5...,S/ 8.90 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,500.0,g,Piña Golden en Trozos Congelada FEST Paquete 5,8.9,plaza_vea,Paquete 500g,,PIÑA
-Piña en Trozos Congelada Fest 500g,S/ 8.99,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,g,Piña en Trozos Congelada Fest,8.99,wong,,,PIÑA
-Piña en Trozos Golden 350g,S/ 8.99,wong,PIÑA,2024-12-04 19:43:13.516552,350.0,g,Piña en Trozos Golden,8.99,wong,,,PIÑA
-Agua de Piña Golden 1L,S/ 9.39,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,l,Agua de Piña Golden,9.39,metro,,,PIÑA
-Agua de Piña Light Golden 1L,S/ 9.39,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,l,Agua de Piña Light Golden,9.39,metro,,,PIÑA
-"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",S/ 9.49,metro,PIÑA,2024-12-04 21:37:18.801089,340.0,g,"Ensalada de Frutas Piña, Sandía y Papaya Natifrut",9.49,metro,,,PIÑA
-Snack de Piña Deshidratada Snack Fruits 50g,S/ 9.60,wong,PIÑA,2024-12-04 19:43:13.516552,50.0,g,Snack de Piña Deshidratada Snack Fruits,9.6,wong,,,PIÑA
-Mermelada DELGA-C Piña 0% Azúcar Frasco 310Gr,S/ 9.80,vivanda,PIÑA,2024-12-04 17:50:29.768247,310.0,g,Mermelada DELGA-C Piña 0% Azúcar Frasco r,9.8,vivanda,,DELGA-C,PIÑA
-Piña en Trozos BELL'S Bandeja 500g,S/ 9.89 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,500.0,g,Piña en Trozos BELL'S Bandeja,9.89,plaza_vea,Bandeja 500g,,PIÑA
-Piña Madura Golden x kg,S/ 9.89 x kg,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Madura Golden,9.89,wong,,,PIÑA
-Infusión de Jamaica y Piña Sunka 20un,S/ 9.90,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,un,Infusión de Jamaica y Piña Sunka,9.9,wong,,,PIÑA
-Té Verde Sabor a Piña Wawasana 20un,S/ 9.90,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,un,Té Verde Sabor a Piña Wawasana,9.9,wong,,,PIÑA
-Trifruna Chicha Manza Piña Ambrosoli Contenido 420 g,S/ 9.90,wong,PIÑA,2024-12-04 19:43:13.516552,420.0,g,Trifruna Chicha Manza Piña Ambrosoli Contenido,9.9,wong,,,PIÑA
-Twopack Gelatina en Polvo Royal Sabor Piña 160g,S/ 10.40,wong,PIÑA,2024-12-04 19:43:13.516552,160.0,g,Twopack Gelatina en Polvo Royal Sabor Piña,10.4,wong,,,PIÑA
-Gaseosa Sabor Piña Concordia Pack 6 Botellas de 500ml c/u,S/ 10.60,wong,PIÑA,2024-12-04 19:43:13.516552,500.0,ml,Gaseosa Sabor Piña Concordia Pack 6 Botellas de  c/u,10.6,wong,,,PIÑA
-Yogurt Bebible Ecologic Sabor Piña 1L,S/ 10.70,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,l,Yogurt Bebible Ecologic Sabor Piña,10.7,metro,,,PIÑA
-Yogurt Bebible Ecologic Sabor Piña 1L,S/ 10.70,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Yogurt Bebible Ecologic Sabor Piña,10.7,wong,,,PIÑA
-Pack x3 Gelatina en Polvo Royal Sabor Piña Sobre 160g,S/ 10.90,wong,PIÑA,2024-12-04 19:43:13.516552,3.0,g,Pack xelatina en Polvo Royal Sabor Piña Sobre,10.9,wong,,,PIÑA
-Gomas Dulces 2 CERRITOS Sabor Fresa Naranja Limón y Piña Bolsa 125g,S/ 10.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,125.0,g,Gomas Dulces 2 CERRITOS Sabor Fresa Naranja Limón y Piña Bolsa,10.9,vivanda,,NURIA,PIÑA
-"Pulpa Congelada de Acaí, Arándano y Piña Golden Berries del Perú 200g",S/ 10.96,wong,PIÑA,2024-12-04 19:43:13.516552,200.0,g,"Pulpa Congelada de Acaí, Arándano y Piña Golden Berries del Perú",10.96,wong,,,PIÑA
-Pack x3 Agua de Piña Light Golden Botella 485ml,S/ 10.99,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Pack x3 Agua de Piña Light Golden Botella,10.99,wong,,,PIÑA
-Sixpack Agua Sin Gas Sabor Piña con Kión San Luis Botella 625ml,S/ 11.00,wong,PIÑA,2024-12-04 19:43:13.516552,625.0,ml,Sixpack Agua Sin Gas Sabor Piña con Kión San Luis Botella,11.0,wong,,,PIÑA
-Pack x3 Agua de Piña Golden Botella 485ml,S/ 11.89,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Pack x3 Agua de Piña Golden Botella,11.89,metro,,,PIÑA
-Pack x3 Agua de Piña Golden Botella 485ml,S/ 11.89,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Pack x3 Agua de Piña Golden Botella,11.89,wong,,,PIÑA
-Pack x3 Agua de Piña Light Golden Botella 485ml,S/ 11.89,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Pack x3 Agua de Piña Light Golden Botella,11.89,metro,,,PIÑA
-Queso Rulo Cabra MARQUES DEL CASTILLO con Piña...,S/ 11.90 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,110.0,g,Queso Rulo Cabra MARQUES DEL CASTILLO con Piña,11.9,plaza_vea,Bolsa 110g,,PIÑA
-Queso Rulo Cabra MARQUES DEL CASTILLO con Piña Paquete 110g,S/ 11.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,110.0,g,Queso Rulo Cabra MARQUES DEL CASTILLO con Piña Paquete,11.9,vivanda,,MARQUÉS DEL CASTILLO,PIÑA
-Piña Golden Madura,S/ 11.90 x kg,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,2.5,kg,Piña Golden Madura,11.9,plaza_vea,Presentación 2.5 kg aprox.,,PIÑA
-Agua de Piña con Arándanos Light Golden 1L,S/ 11.99,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,l,Agua de Piña con Arándanos Light Golden,11.99,metro,,,PIÑA
-Agua de Piña con Arándanos Light Golden 1L,S/ 11.99,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Agua de Piña con Arándanos Light Golden,11.99,wong,,,PIÑA
-Caja Krea Plástica 6L Infantil Piñas,S/ 12.00,wong,PIÑA,2024-12-04 19:43:13.516552,6.0,l,Caja Krea Plástica  Infantil Piñas,12.0,wong,,,PIÑA
-Yogurt Sin Lactosa Danlac Line Piña Pitahaya 900g,S/ 12.00,metro,PIÑA,2024-12-04 21:37:18.801089,900.0,g,Yogurt Sin Lactosa Danlac Line Piña Pitahaya,12.0,metro,,,PIÑA
-Caja Krea Plástica 6L Infantil Piñas,S/ 12.00,metro,PIÑA,2024-12-04 21:37:18.801089,6.0,l,Caja Krea Plástica  Infantil Piñas,12.0,metro,,,PIÑA
-Té Verde Sabor a Piña McColin's 25un,S/ 12.20,wong,PIÑA,2024-12-04 19:43:13.516552,25.0,un,Té Verde Sabor a Piña McColin's,12.2,wong,,,PIÑA
-Piña en Rodajas Bali Lata 567 g,S/ 12.20,wong,PIÑA,2024-12-04 19:43:13.516552,567.0,g,Piña en Rodajas Bali Lata,12.2,wong,,,PIÑA
-Piña en Trozos Bali Lata 567 g,S/ 12.20,wong,PIÑA,2024-12-04 19:43:13.516552,567.0,g,Piña en Trozos Bali Lata,12.2,wong,,,PIÑA
-Piña en Rodajas BALI Lata 567g,S/ 12.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,567.0,g,Piña en Rodajas BALI Lata,12.2,vivanda,,BALI,PIÑA
-Piñas en Rodajas Best Food 565g,S/ 12.20,wong,PIÑA,2024-12-04 19:43:13.516552,565.0,g,Piñas en Rodajas Best Food,12.2,wong,,,PIÑA
-Piña Orgánica Golden x kg,S/ 12.49 x kg,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Orgánica Golden,12.49,wong,,,PIÑA
-Néctar de Piña Bajo en Calorías Ecofresh Botella 1L,S/ 12.60,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Néctar de Piña Bajo en Calorías Ecofresh Botella,12.6,wong,,,PIÑA
-Helado Veggie Mango & Piña Lift Pote 110 g,S/ 12.90,wong,PIÑA,2024-12-04 19:43:13.516552,110.0,g,Helado Veggie Mango & Piña Lift Pote,12.9,wong,,,PIÑA
-Pulpa de Piña Golden Agroselva Doypack 250g,S/ 12.99,metro,PIÑA,2024-12-04 21:37:18.801089,250.0,g,Pulpa de Piña Golden Agroselva Doypack,12.99,metro,,,PIÑA
-Tripack Agua de Piña Light con Arándanos Golden Botella 485ml,S/ 13.00,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Tripack Agua de Piña Light con Arándanos Golden Botella,13.0,metro,,,PIÑA
-Tripack Agua de Piña Light con Arándanos Golden Botella 485ml,S/ 13.00,wong,PIÑA,2024-12-04 19:43:13.516552,485.0,ml,Tripack Agua de Piña Light con Arándanos Golden Botella,13.0,wong,,,PIÑA
-Piña en Trozos Golden 500g,S/ 13.49,metro,PIÑA,2024-12-04 21:37:18.801089,500.0,g,Piña en Trozos Golden,13.49,metro,,,PIÑA
-Infusión de Jamaica con Sabor Piña Wawasana 20un,S/ 13.50,wong,PIÑA,2024-12-04 19:43:13.516552,20.0,un,Infusión de Jamaica con Sabor Piña Wawasana,13.5,wong,,,PIÑA
-Piña en Trozos Congelada BELL'S Bolsa 1kg,S/ 13.90 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,1.0,kg,Piña en Trozos Congelada BELL'S Bolsa,13.9,plaza_vea,Bolsa 1Kg,,PIÑA
-Piña Hawai en Trozos Congelados 1kg,S/ 13.99,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Hawai en Trozos Congelados,13.99,wong,,,PIÑA
-Piña en Trozos Congelada BELL'S Bolsa 1kg,S/ 14.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,1.0,kg,Piña en Trozos Congelada BELL'S Bolsa,14.2,vivanda,,BELL'S,PIÑA
-Refresco instantáneo ZUKO de Piña Display 12u Sobre 15gr,S/ 14.40,vega,PIÑA,2024-12-04 14:03:27.022847,15.0,g,Refresco instantáneo ZUKO de Piña Display 12u Sobre r,14.4,vega,,Zuko,PIÑA
-Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa 430g,S/ 14.50,vivanda,PIÑA,2024-12-04 17:50:29.768247,430.0,g,Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa,14.5,vivanda,,AMBROSOLI,PIÑA
-Pack Gaseosa PEPSI Botella 3L + Gaseosa CONCORDIA Piña Botella 3L,S/ 14.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,3.0,l,Pack Gaseosa PEPSI Botella  + Gaseosa CONCORDIA Piña Botella,14.9,vivanda,,PEPSI,PIÑA
-Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1L,S/ 14.90,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,l,Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella,14.9,wong,,,PIÑA
-"Mix de Fresa, Papaya y Piña Congelada EL FRUTERO Bolsa 1Kg",S/ 15.49,vivanda,PIÑA,2024-12-04 17:50:29.768247,1.0,kg,"Mix de Fresa, Papaya y Piña Congelada EL FRUTERO Bolsa",15.49,vivanda,,EL FRUTERO,PIÑA
-"Fruta en Trozos Piña, Papaya y Fresa Congelada Natifrut 1kg",S/ 15.72,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,"Fruta en Trozos Piña, Papaya y Fresa Congelada Natifrut",15.72,wong,,,PIÑA
-Infusiones WAWASANA Te verde piña Caja 50Un,S/ 16.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,50.0,un,Infusiones WAWASANA Te verde piña Caja,16.9,vivanda,,WAWASANA,PIÑA
-"Mix Fresa, Piña y Mango Congelado EL FRUTERO B...",S/ 16.99 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,1.0,kg,"Mix Fresa, Piña y Mango Congelado EL FRUTERO B",16.99,plaza_vea,Bolsa 1Kg,,PIÑA
-Piña Golden en Trozos Congelados 1kg,S/ 16.99,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Golden en Trozos Congelados,16.99,wong,,,PIÑA
-Trozos de Piña Golden Congelada EL FRUTERO Bol...,S/ 16.99 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,1.0,kg,Trozos de Piña Golden Congelada EL FRUTERO Bol,16.99,plaza_vea,Bolsa 1Kg,,PIÑA
-Ready To Drink (RTD) PISCANO Sour Piña Colada ...,S/ 17.90 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,700.0,ml,Ready To Drink (RTD) PISCANO Sour Piña Colada,17.9,plaza_vea,Botella 700ml,,PIÑA
-Gaseosa PEPSI + 7UP + CONCORDIA Piña Botella 3L Paquete 3un,S/ 18.20,vivanda,PIÑA,2024-12-04 17:50:29.768247,3.0,l,Gaseosa PEPSI + 7UP + CONCORDIA Piña Botella  Paquete,18.2,vivanda,,PEPSI,PIÑA
-Mermelada de Piña & Yacón con Agave ECOANDINO Orgánico Frasco 240g,S/ 19.50,vivanda,PIÑA,2024-12-04 17:50:29.768247,240.0,g,Mermelada de Piña & Yacón con Agave ECOANDINO Orgánico Frasco,19.5,vivanda,,ECOANDINO,PIÑA
-Piña Deshidratada Go Barman 60g,S/ 19.90,wong,PIÑA,2024-12-04 19:43:13.516552,60.0,g,Piña Deshidratada Go Barman,19.9,wong,,,PIÑA
-Piña en Rodajas Golden 700g,S/ 19.90,wong,PIÑA,2024-12-04 19:43:13.516552,700.0,g,Piña en Rodajas Golden,19.9,wong,,,PIÑA
-Piña Deshidratada GO BARMAN Bolsa 60g,S/ 19.90 un,plaza_vea,PIÑA,2024-12-04 13:58:10.559362,60.0,g,Piña Deshidratada GO BARMAN Bolsa,19.9,plaza_vea,Bolsa 60g,,PIÑA
-Piña Deshidratada GO BARMAN Bolsa 60g,S/ 19.90,vivanda,PIÑA,2024-12-04 17:50:29.768247,60.0,g,Piña Deshidratada GO BARMAN Bolsa,19.9,vivanda,,GO BARMAN,PIÑA
-Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1.8L,S/ 19.90,wong,PIÑA,2024-12-04 19:43:13.516552,1.8,l,Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella,19.9,wong,,,PIÑA
-Bebida Ready to Drink Tabernero Sour Piña Colada Botella 700ml,S/ 19.90,wong,PIÑA,2024-12-04 19:43:13.516552,700.0,ml,Bebida Ready to Drink Tabernero Sour Piña Colada Botella,19.9,wong,,,PIÑA
-Barras Energéticas Siete Dragones Coco y Piña 5un,S/ 20.40,wong,PIÑA,2024-12-04 19:43:13.516552,5.0,un,Barras Energéticas Siete Dragones Coco y Piña,20.4,wong,,,PIÑA
-Luces Krea F8 Led Piñas Colores 50un,S/ 22.00,metro,PIÑA,2024-12-04 21:37:18.801089,8.0,l,Luces Krea Fed Piñas Colores,22.0,metro,,,PIÑA
-Luces Krea F8 Led Piñas Colores 50un,S/ 22.00,wong,PIÑA,2024-12-04 19:43:13.516552,8.0,l,Luces Krea Fed Piñas Colores,22.0,wong,,,PIÑA
-Cereal UNIÓN con Arándanos y Piña Liofilizada Caja 350g,S/ 22.50,vivanda,PIÑA,2024-12-04 17:50:29.768247,350.0,g,Cereal UNIÓN con Arándanos y Piña Liofilizada Caja,22.5,vivanda,,UNIÓN,PIÑA
-Bebida Ready to Drink Piscano Sour Piña Colada Botella 700ml,S/ 24.50,wong,PIÑA,2024-12-04 19:43:13.516552,700.0,ml,Bebida Ready to Drink Piscano Sour Piña Colada Botella,24.5,wong,,,PIÑA
-"King Kong de Manjarblanco, Piña y Maní Caja 450 g",S/ 29.20,wong,PIÑA,2024-12-04 19:43:13.516552,450.0,g,"King Kong de Manjarblanco, Piña y Maní Caja",29.2,wong,,,PIÑA
-Chocolate Relleno con Jalea de Piña Britt 170g,S/ 32.30,wong,PIÑA,2024-12-04 19:43:13.516552,170.0,g,Chocolate Relleno con Jalea de Piña Britt,32.3,wong,,,PIÑA
-Tarta de Piña 10 Porciones,S/ 32.90,wong,PIÑA,2024-12-04 19:43:13.516552,10.0,un,Tarta de Piña,32.9,wong,,,PIÑA
-Piña Deshidratada Sufrut 200g,S/ 33.50,wong,PIÑA,2024-12-04 19:43:13.516552,200.0,g,Piña Deshidratada Sufrut,33.5,wong,,,PIÑA
-Helado Veggie Mango & Piña Lift Pote 390 g,S/ 33.50,wong,PIÑA,2024-12-04 19:43:13.516552,390.0,g,Helado Veggie Mango & Piña Lift Pote,33.5,wong,,,PIÑA
-Enrollado de Cerdo con Jamón y Piña Alamesa x kg,S/ 38.90 x kg,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Enrollado de Cerdo con Jamón y Piña Alamesa,38.9,wong,,,PIÑA
-Suplemento Nutricional Nopal Flax con Piña Adelgazante 454g,S/ 44.90,wong,PIÑA,2024-12-04 19:43:13.516552,454.0,g,Suplemento Nutricional Nopal Flax con Piña Adelgazante,44.9,wong,,,PIÑA
-Agua de Piña Light Golden 485ml,S/ 45.90,metro,PIÑA,2024-12-04 21:37:18.801089,485.0,ml,Agua de Piña Light Golden,45.9,metro,,,PIÑA
-"King Kong de Manjarblanco, Piña y Maní Caja 900 g",S/ 48.20,wong,PIÑA,2024-12-04 19:43:13.516552,900.0,g,"King Kong de Manjarblanco, Piña y Maní Caja",48.2,wong,,,PIÑA
-King Kong de Manjarblanco y Piña Caja 900 g,S/ 48.20,wong,PIÑA,2024-12-04 19:43:13.516552,900.0,g,King Kong de Manjarblanco y Piña Caja,48.2,wong,,,PIÑA
-Piña Deshidratada en Trozos Golden x kg,S/ 118.00 x kg,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Deshidratada en Trozos Golden,118.0,wong,,,PIÑA
-Piña Deshidratada en Trozos Golden x kg,S/ 118.00 x kg,metro,PIÑA,2024-12-04 21:37:18.801089,1.0,kg,Piña Deshidratada en Trozos Golden,118.0,metro,,,PIÑA
-Piña Deshidratada Golden x kg,S/ 219.50 x kg,wong,PIÑA,2024-12-04 19:43:13.516552,1.0,kg,Piña Deshidratada Golden,219.5,wong,,,PIÑA
-Agua Sin Gas SAN LUIS Sabor Piña y Kión Botella 625ml x 2u,,vega,PIÑA,2024-12-04 14:03:27.022847,625.0,ml,Agua Sin Gas SAN LUIS Sabor Piña y Kión Botella  x 2u,,vega,,San Luis,PIÑA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Refresco UMSHA Piña Bolsa 13g,UMSHA,13.0,g,1.0,vivanda,2024-12-04 17:50:29.768247,PIÑA,13.0,g,1.0,PIÑA
+Bebida instantánea en polvo ZUKO Piña Sobre 15Gr,DUKO,15.0,g,1.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,15.0,g,1.2,PIÑA
+Refresco Instantáneo Sabor Piña Sobre 15 g,,15.0,g,1.2,wong,2024-12-04 19:43:13.516552,PIÑA,15.0,g,1.2,PIÑA
+Gelatina Bebible Umsha Frutísimos Sabor Piña 20g,,20.0,g,1.6,wong,2024-12-04 19:43:13.516552,PIÑA,20.0,g,1.6,PIÑA
+Refresco Instantáneo Umsha Frutísimos Sabor Piña 20g,,20.0,g,1.6,wong,2024-12-04 19:43:13.516552,PIÑA,20.0,g,1.6,PIÑA
+Gaseosa CONCORDIA Piña Botella 500ml,CONCORDIA,500.0,ml,1.6,vivanda,2024-12-04 17:50:29.768247,PIÑA,500.0,ml,1.6,PIÑA
+"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja 500ml",,500.0,ml,2.1,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,ml,2.1,PIÑA
+Bebida Sabor Piña con Kión San Luis Botella 625ml,,625.0,ml,2.2,wong,2024-12-04 19:43:13.516552,PIÑA,625.0,ml,2.2,PIÑA
+Gelatina Yopi Sabor Piña 120g,,120.0,g,2.2,wong,2024-12-04 19:43:13.516552,PIÑA,120.0,g,2.2,PIÑA
+Bebida SAN LUIS Sin Gas Sabor Piña y Kión Botella 625ml,SAN LUIS,625.0,ml,2.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,625.0,ml,2.2,PIÑA
+Gelatina Light BELL'S Piña Bolsa 19g,BELL'S,19.0,g,2.5,vivanda,2024-12-04 17:50:29.768247,PIÑA,19.0,g,2.5,PIÑA
+Piña Hawai,,2.0,kg,2.69,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,2.0,kg,2.69,PIÑA
+Piña para Jugo x kg,,1.0,kg,2.75,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,2.75,PIÑA
+Gelatina Sin Azúcar Cuisine & Co Sabor Piña 19g,,19.0,g,2.9,wong,2024-12-04 19:43:13.516552,PIÑA,19.0,g,2.9,PIÑA
+Bebida Aloe KERO Piña Botella 300ml,KERO,300.0,ml,3.0,vivanda,2024-12-04 17:50:29.768247,PIÑA,300.0,ml,3.0,PIÑA
+Gelatina UMSHA Sabor a Piña Bolsa 120g,UMSHA,120.0,g,3.4,vivanda,2024-12-04 17:50:29.768247,PIÑA,120.0,g,3.4,PIÑA
+Gelatina Cuisine & Co Sabor Piña 130g,,130.0,g,3.5,wong,2024-12-04 19:43:13.516552,PIÑA,130.0,g,3.5,PIÑA
+Gelatina Sin Azúcar Cuisine & Co Sabor Piña 19g,,19.0,g,3.5,wong,2024-12-04 19:43:13.516552,PIÑA,19.0,g,3.5,PIÑA
+Gelatina Umsha Sabor Piña 120g,,120.0,g,3.5,wong,2024-12-04 19:43:13.516552,PIÑA,120.0,g,3.5,PIÑA
+Papaya,,1.5,kg,3.5,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,1.5,kg,3.5,PIÑA
+Gelatina BELL'S Sabor a Piña Bolsa 180g,BELL'S,180.0,g,3.6,vivanda,2024-12-04 17:50:29.768247,PIÑA,180.0,g,3.6,PIÑA
+Gelatina UNIVERSAL Sabor a Piña Caja 19g,UNIVERSAL,19.0,g,3.7,vivanda,2024-12-04 17:50:29.768247,PIÑA,19.0,g,3.7,PIÑA
+Gelatina Diet Universal Piña Caja 19 g,,19.0,g,3.8,wong,2024-12-04 19:43:13.516552,PIÑA,19.0,g,3.8,PIÑA
+Mazamorra de Piña Universal Bolsa 150 g,,150.0,g,3.9,wong,2024-12-04 19:43:13.516552,PIÑA,150.0,g,3.9,PIÑA
+Bebida de Piña Gloria Caja 1L,,1.0,l,3.9,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,l,3.9,PIÑA
+Gelatina UNIVERSAL Sabor a Piña Bolsa 130g,UNIVERSAL,130.0,g,3.99,vivanda,2024-12-04 17:50:29.768247,PIÑA,130.0,g,3.99,PIÑA
+Gelatina Universal de Piña Sobre 130g,,130.0,g,4.1,wong,2024-12-04 19:43:13.516552,PIÑA,130.0,g,4.1,PIÑA
+Bebida GLORIA Piña Caja 1L,GLORIA,1.0,l,4.4,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,l,4.4,PIÑA
+Piña Golden en trozos La Dulcesita Bandeja 200 g,,200.0,g,4.49,wong,2024-12-04 19:43:13.516552,PIÑA,200.0,g,4.49,PIÑA
+Bebida de Piña y Mandarina Frugos del Valle Caja 1L,,1.0,l,4.5,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,l,4.5,PIÑA
+Bebida de Piña y Granadilla Golden Botella 485ml,,485.0,ml,4.5,wong,2024-12-04 19:43:13.516552,PIÑA,485.0,ml,4.5,PIÑA
+Mermelada de Piña Pote 200g,LA FLORENCIA,200.0,g,4.6,vivanda,2024-12-04 17:50:29.768247,PIÑA,200.0,g,4.6,PIÑA
+Bebida de Membrillo y Piña Golden Botella 485ml,,485.0,ml,4.79,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,4.79,PIÑA
+Bebida de Piña y Granadilla Golden Botella 485ml,,485.0,ml,4.79,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,4.79,PIÑA
+Bebida NATURALE Piña Botella 500ml,NATURALE,500.0,ml,4.8,vivanda,2024-12-04 17:50:29.768247,PIÑA,500.0,ml,4.8,PIÑA
+Bebida Aloe Vera King Piña 500ml Okf,,500.0,ml,4.9,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,ml,4.9,PIÑA
+Bebida Naturale Agua de Piña Golden Botella 500ml,,500.0,ml,4.9,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,ml,4.9,PIÑA
+Piña Golden Metro x kg,,1.0,kg,4.99,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,kg,4.99,PIÑA
+Ready To Drink (RTD) WASSKA HAPPY Piña Colada ...,,355.0,ml,4.99,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,355.0,ml,4.99,PIÑA
+Tripack Bebida Instantánea Clight Sin Calorías Sabor Piña 14g,,14.0,g,5.0,wong,2024-12-04 19:43:13.516552,PIÑA,14.0,g,5.0,PIÑA
+Agua de Piña Light Golden 485ml,,485.0,ml,5.0,wong,2024-12-04 19:43:13.516552,PIÑA,485.0,ml,5.0,PIÑA
+Pulpa Congelada de Piña Natifrut 250g,,250.0,g,5.2,wong,2024-12-04 19:43:13.516552,PIÑA,250.0,g,5.2,PIÑA
+Piña Golden,,2.5,kg,5.2,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,2.5,kg,5.2,PIÑA
+Gelatina en Polvo Royal Sabor Piña 160g,,160.0,g,5.2,wong,2024-12-04 19:43:13.516552,PIÑA,160.0,g,5.2,PIÑA
+Agua de Piña Golden 485ml,,485.0,ml,5.29,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,5.29,PIÑA
+Piña Golden Wong x kg,,1.0,kg,5.69,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,5.69,PIÑA
+"Ensalada de Piña, Sandía y Melón BELL'S Bandej...",,300.0,g,5.69,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,300.0,g,5.69,PIÑA
+Jugo de Fruta KERO Naranja y Piña Botella 475ml,KERO,475.0,ml,5.7,vivanda,2024-12-04 17:50:29.768247,PIÑA,475.0,ml,5.7,PIÑA
+Bebida FRU + Piña Maracuyá Botella 400ml,FRU +,400.0,ml,5.7,vivanda,2024-12-04 17:50:29.768247,PIÑA,400.0,ml,5.7,PIÑA
+Bebida de Manzana y Piña Golden Botella 485ml,,485.0,ml,5.79,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,5.79,PIÑA
+Piña Golden x kg,VIVANDA,1.0,kg,5.79,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,kg,5.79,PIÑA
+Bebida con Aloe Vera SAPPE Piña Botella 300ml,SAPPE,300.0,ml,5.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,300.0,ml,5.9,PIÑA
+"Bebida de Naranja, Piña y Camu Camu Kero Botella 475ml",,475.0,ml,5.9,wong,2024-12-04 19:43:13.516552,PIÑA,475.0,ml,5.9,PIÑA
+"Ensalada de Uva, Sandía y Piña BELL'S Bandeja ...",,300.0,g,5.99,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,300.0,g,5.99,PIÑA
+Piña en Trozos BELL'S en Almíbar Lata 567g,BELL'S,567.0,g,6.4,vivanda,2024-12-04 17:50:29.768247,PIÑA,567.0,g,6.4,PIÑA
+Agua de Piña con Arándanos Light Golden 485ml,,485.0,ml,6.49,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,6.49,PIÑA
+Piña en Trozos BELL'S Bandeja 300g,,300.0,g,6.5,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,300.0,g,6.5,PIÑA
+Bebida Piña Colada Light Golden 485ml,,485.0,ml,6.79,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,6.79,PIÑA
+Gaseosa Fanta Piña Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 19:43:13.516552,PIÑA,355.0,ml,6.9,PIÑA
+Gaseosa FANTA Piña Lata 355ml,FANTA,355.0,ml,6.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,355.0,ml,6.9,PIÑA
+Piña en Rodajas BELL'S en Almíbar Lata 567g,BELL'S,567.0,g,6.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,567.0,g,6.9,PIÑA
+Gaseosa CONCORDIA Piña Botella 3L,CONCORDIA,3.0,l,6.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,3.0,l,6.9,PIÑA
+Bebida Ready to Drink Wasska Happy Punch Piña Colada Lata 355ml,,355.0,ml,6.9,wong,2024-12-04 19:43:13.516552,PIÑA,355.0,ml,6.9,PIÑA
+Gaseosa Fanta Piña Botella 3L,,3.0,l,6.9,wong,2024-12-04 19:43:13.516552,PIÑA,3.0,l,6.9,PIÑA
+Piña Golden en trozos La Dulcesita Bandeja 400 g,,400.0,g,6.99,wong,2024-12-04 19:43:13.516552,PIÑA,400.0,g,6.99,PIÑA
+Gaseosa Concordia Sabor Piña Botella 3 Litros,,3.0,l,7.1,wong,2024-12-04 19:43:13.516552,PIÑA,3.0,l,7.1,PIÑA
+Piña en Rodajas BALI Lata 227g,BALI,227.0,g,7.1,vivanda,2024-12-04 17:50:29.768247,PIÑA,227.0,g,7.1,PIÑA
+Gaseosa FANTA Piña Botella 3L,FANTA,3.0,l,7.5,vivanda,2024-12-04 17:50:29.768247,PIÑA,3.0,l,7.5,PIÑA
+Origens Comida para Gatos Filete de Atún con Piña Lata 85 g,,85.0,g,7.8,wong,2024-12-04 19:43:13.516552,PIÑA,85.0,g,7.8,PIÑA
+Néctar de Piña Selva Botella 900 ml,,900.0,ml,7.9,wong,2024-12-04 19:43:13.516552,PIÑA,900.0,ml,7.9,PIÑA
+Mermelada de Piña Pote 350 g,,350.0,g,7.9,wong,2024-12-04 19:43:13.516552,PIÑA,350.0,g,7.9,PIÑA
+Sixpack Bebida Frugos del Valle Piña Mandarina Caja 235ml,,235.0,ml,7.9,wong,2024-12-04 19:43:13.516552,PIÑA,235.0,ml,7.9,PIÑA
+Jugo Cold Pressed de Piña Ecofresh Botella 475ml,,475.0,ml,7.9,wong,2024-12-04 19:43:13.516552,PIÑA,475.0,ml,7.9,PIÑA
+Yogurt Griego Vakimu Piña 500g,,500.0,g,7.92,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,g,7.92,PIÑA
+Piña en Trozos Golden 350g,,350.0,g,8.49,metro,2024-12-04 21:37:18.801089,PIÑA,350.0,g,8.49,PIÑA
+Fourpack Gelatina Yopi Sabor Piña 120g,,120.0,g,8.5,wong,2024-12-04 19:43:13.516552,PIÑA,120.0,g,8.5,PIÑA
+Piña Golden en Trozos Congelada FEST Paquete 5...,,500.0,g,8.9,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,500.0,g,8.9,PIÑA
+Infusión de Té Verde con Piña Cuisine & Co 20un.,,20.0,un,8.9,wong,2024-12-04 19:43:13.516552,PIÑA,20.0,un,8.9,PIÑA
+Piña Golden en Trozos Congelada FEST Paquete 500g,FEST,500.0,g,8.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,500.0,g,8.9,PIÑA
+Piña en Trozos Congelada Fest 500g,,500.0,g,8.99,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,g,8.99,PIÑA
+Piña en Trozos Golden 350g,,350.0,g,8.99,wong,2024-12-04 19:43:13.516552,PIÑA,350.0,g,8.99,PIÑA
+Agua de Piña Golden 1L,,1.0,l,9.39,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,l,9.39,PIÑA
+Agua de Piña Light Golden 1L,,1.0,l,9.39,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,l,9.39,PIÑA
+Gelatina Zana Sabor Piña 50g,,50.0,g,9.4,wong,2024-12-04 19:43:13.516552,PIÑA,50.0,g,9.4,PIÑA
+"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",,340.0,g,9.49,metro,2024-12-04 21:37:18.801089,PIÑA,340.0,g,9.49,PIÑA
+"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",,340.0,g,9.49,wong,2024-12-04 19:43:13.516552,PIÑA,340.0,g,9.49,PIÑA
+Mermelada DELGA-C Piña 0% Azúcar Frasco 310Gr,DELGA-C,310.0,g,9.8,vivanda,2024-12-04 17:50:29.768247,PIÑA,310.0,g,9.8,PIÑA
+Piña Madura Golden x kg,,1.0,kg,9.89,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,9.89,PIÑA
+Piña en Trozos BELL'S Bandeja 500g,,500.0,g,9.89,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,500.0,g,9.89,PIÑA
+Trifruna Chicha Manza Piña Ambrosoli Contenido 420 g,,420.0,g,9.9,wong,2024-12-04 19:43:13.516552,PIÑA,420.0,g,9.9,PIÑA
+Té Verde Sabor a Piña Wawasana 20un,,20.0,un,9.9,wong,2024-12-04 19:43:13.516552,PIÑA,20.0,un,9.9,PIÑA
+Twopack Gelatina en Polvo Royal Sabor Piña 160g,,160.0,g,10.4,wong,2024-12-04 19:43:13.516552,PIÑA,160.0,g,10.4,PIÑA
+Gaseosa Sabor Piña Concordia Pack 6 Botellas de 500ml c/u,,500.0,ml,10.6,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,ml,10.6,PIÑA
+Yogurt Bebible Ecologic Sabor Piña 1L,,1.0,l,10.7,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,l,10.7,PIÑA
+Yogurt Bebible Ecologic Sabor Piña 1L,,1.0,l,10.7,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,l,10.7,PIÑA
+Pack x3 Gelatina en Polvo Royal Sabor Piña Sobre 160g,,3.0,g,10.9,wong,2024-12-04 19:43:13.516552,PIÑA,3.0,g,10.9,PIÑA
+Gomas Dulces 2 CERRITOS Sabor Fresa Naranja Limón y Piña Bolsa 125g,NURIA,125.0,g,10.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,125.0,g,10.9,PIÑA
+Pack x3 Agua de Piña Light Golden Botella 485ml,,485.0,ml,10.99,wong,2024-12-04 19:43:13.516552,PIÑA,485.0,ml,10.99,PIÑA
+Mermelada Dietética de Piña Frasco 250 g,,250.0,g,11.2,wong,2024-12-04 19:43:13.516552,PIÑA,250.0,g,11.2,PIÑA
+Pack x3 Agua de Piña Golden Botella 485ml,,485.0,ml,11.89,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,11.89,PIÑA
+Pack x3 Agua de Piña Light Golden Botella 485ml,,485.0,ml,11.89,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,11.89,PIÑA
+Pack x3 Agua de Piña Golden Botella 485ml,,485.0,ml,11.89,wong,2024-12-04 19:43:13.516552,PIÑA,485.0,ml,11.89,PIÑA
+Queso Rulo Cabra MARQUES DEL CASTILLO con Piña Paquete 110g,MARQUÉS DEL CASTILLO,110.0,g,11.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,110.0,g,11.9,PIÑA
+Piña Golden Madura,,2.5,kg,11.9,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,2.5,kg,11.9,PIÑA
+Queso Rulo Cabra MARQUES DEL CASTILLO con Piña...,,110.0,g,11.9,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,110.0,g,11.9,PIÑA
+Agua de Piña con Arándanos Light Golden 1L,,1.0,l,11.99,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,l,11.99,PIÑA
+Agua de Piña con Arándanos Light Golden 1L,,1.0,l,11.99,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,l,11.99,PIÑA
+Caja Krea Plástica 6L Infantil Piñas,,6.0,l,12.0,metro,2024-12-04 21:37:18.801089,PIÑA,6.0,l,12.0,PIÑA
+Yogurt Sin Lactosa Danlac Line Piña Pitahaya 900g,,900.0,g,12.0,wong,2024-12-04 19:43:13.516552,PIÑA,900.0,g,12.0,PIÑA
+Caja Krea Plástica 6L Infantil Piñas,,6.0,l,12.0,wong,2024-12-04 19:43:13.516552,PIÑA,6.0,l,12.0,PIÑA
+Yogurt Sin Lactosa Danlac Line Piña Pitahaya 900g,,900.0,g,12.0,metro,2024-12-04 21:37:18.801089,PIÑA,900.0,g,12.0,PIÑA
+Té Verde Sabor a Piña McColin's 25un,,25.0,un,12.2,wong,2024-12-04 19:43:13.516552,PIÑA,25.0,un,12.2,PIÑA
+Piña en Rodajas Bali Lata 567 g,,567.0,g,12.2,wong,2024-12-04 19:43:13.516552,PIÑA,567.0,g,12.2,PIÑA
+Piñas en Rodajas Best Food 565g,,565.0,g,12.2,wong,2024-12-04 19:43:13.516552,PIÑA,565.0,g,12.2,PIÑA
+Piña en Rodajas BALI Lata 567g,BALI,567.0,g,12.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,567.0,g,12.2,PIÑA
+Piña en Trozos BALI Lata 567g,BALI,567.0,g,12.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,567.0,g,12.2,PIÑA
+Piña en Trozos Bali Lata 567 g,,567.0,g,12.2,wong,2024-12-04 19:43:13.516552,PIÑA,567.0,g,12.2,PIÑA
+Piña Orgánica Golden x kg,,1.0,kg,12.49,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,12.49,PIÑA
+Pulpa de Piña Golden Agroselva Doypack 250g,,250.0,g,12.99,metro,2024-12-04 21:37:18.801089,PIÑA,250.0,g,12.99,PIÑA
+Tripack Agua de Piña Light con Arándanos Golden Botella 485ml,,485.0,ml,13.0,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,13.0,PIÑA
+Piña en Rodajas BALI Lata 836g,BALI,836.0,g,13.4,vivanda,2024-12-04 17:50:29.768247,PIÑA,836.0,g,13.4,PIÑA
+Piña en Trozos Golden 500g,,500.0,g,13.49,wong,2024-12-04 19:43:13.516552,PIÑA,500.0,g,13.49,PIÑA
+Piña en Trozos BELL'S Bandeja 700g,,700.0,g,13.49,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,700.0,g,13.49,PIÑA
+Piña en Trozos Golden 500g,,500.0,g,13.49,metro,2024-12-04 21:37:18.801089,PIÑA,500.0,g,13.49,PIÑA
+Infusión de Jamaica con Sabor Piña Wawasana 20un,,20.0,un,13.5,wong,2024-12-04 19:43:13.516552,PIÑA,20.0,un,13.5,PIÑA
+Piña Golden en Trozos Congelada El Frutero 1kg,,1.0,kg,13.59,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,13.59,PIÑA
+Piña en Trozos Congelada BELL'S Bolsa 1kg,,1.0,kg,13.9,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,1.0,kg,13.9,PIÑA
+Piña Hawai en Trozos Congelados 1kg,,1.0,kg,13.99,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,13.99,PIÑA
+Piña en Trozos Congelada BELL'S Bolsa 1kg,BELL'S,1.0,kg,14.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,kg,14.2,PIÑA
+Gomas Dulces AMBROSOLI FRUGELÉ Sabor Limón Naranja Piña Bolsa 430g,AMBROSOLI,430.0,g,14.5,vivanda,2024-12-04 17:50:29.768247,PIÑA,430.0,g,14.5,PIÑA
+Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1L,,1.0,l,14.9,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,l,14.9,PIÑA
+Pack Gaseosa PEPSI Botella 3L + Gaseosa CONCORDIA Piña Botella 3L,PEPSI,3.0,l,14.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,3.0,l,14.9,PIÑA
+"Mix de Fresa, Papaya y Piña Congelada EL FRUTERO Bolsa 1Kg",EL FRUTERO,1.0,kg,15.49,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,kg,15.49,PIÑA
+"Mix de Fresa, Papaya y Piña Congelada EL FRUTE...",,1.0,kg,15.49,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,1.0,kg,15.49,PIÑA
+"Fruta en Trozos Piña, Papaya y Fresa Congelada Natifrut 1kg",,1.0,kg,15.72,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,15.72,PIÑA
+Infusiones WAWASANA Te verde piña Caja 50Un,WAWASANA,50.0,un,16.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,50.0,un,16.9,PIÑA
+"Mix Fresa, Piña y Mango Congelado EL FRUTERO B...",,1.0,kg,16.99,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,1.0,kg,16.99,PIÑA
+"Mix Fresa, Piña y Mango Congelado EL FRUTERO Bolsa 1kg",EL FRUTERO,1.0,kg,16.99,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,kg,16.99,PIÑA
+Trozos de Piña Golden Congelada EL FRUTERO Bolsa 1Kg,EL FRUTERO,1.0,kg,16.99,vivanda,2024-12-04 17:50:29.768247,PIÑA,1.0,kg,16.99,PIÑA
+Trozos de Piña Golden Congelada EL FRUTERO Bol...,,1.0,kg,16.99,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,1.0,kg,16.99,PIÑA
+Té Verde Sabor a Piña con Stevia Wawasana 50un,,50.0,un,17.0,wong,2024-12-04 19:43:13.516552,PIÑA,50.0,un,17.0,PIÑA
+Ready To Drink (RTD) PISCANO Sour Piña Colada ...,,700.0,ml,17.9,plaza_vea,2024-12-04 13:58:10.559362,PIÑA,700.0,ml,17.9,PIÑA
+Gaseosa PEPSI + 7UP + CONCORDIA Piña Botella 3L Paquete 3un,PEPSI,3.0,l,18.2,vivanda,2024-12-04 17:50:29.768247,PIÑA,3.0,l,18.2,PIÑA
+Mermelada de Piña & Yacón con Agave ECOANDINO Orgánico Frasco 240g,ECOANDINO,240.0,g,19.5,vivanda,2024-12-04 17:50:29.768247,PIÑA,240.0,g,19.5,PIÑA
+Piña Deshidratada GO BARMAN Bolsa 60g,GO BARMAN,60.0,g,19.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,60.0,g,19.9,PIÑA
+Néctar de Tuna con Piña Bajo en Calorías Ecofresh Botella 1.8L,,1.8,l,19.9,wong,2024-12-04 19:43:13.516552,PIÑA,1.8,l,19.9,PIÑA
+Bebida Ready to Drink Tabernero Sour Piña Colada Botella 700ml,,700.0,ml,19.9,wong,2024-12-04 19:43:13.516552,PIÑA,700.0,ml,19.9,PIÑA
+Piña Deshidratada Go Barman 60g,,60.0,g,19.9,wong,2024-12-04 19:43:13.516552,PIÑA,60.0,g,19.9,PIÑA
+Barras Energéticas Siete Dragones Coco y Piña 5un,,5.0,un,20.4,wong,2024-12-04 19:43:13.516552,PIÑA,5.0,un,20.4,PIÑA
+Mermelada de Piña y Yacón Orgánica Ecoandino 240g,,240.0,g,20.7,wong,2024-12-04 19:43:13.516552,PIÑA,240.0,g,20.7,PIÑA
+Luces Krea F8 Led Piñas Colores 50un,,8.0,l,22.0,metro,2024-12-04 21:37:18.801089,PIÑA,8.0,l,22.0,PIÑA
+Luces Krea F8 Led Piñas Colores 50un,,8.0,l,22.0,wong,2024-12-04 19:43:13.516552,PIÑA,8.0,l,22.0,PIÑA
+Cereal UNIÓN con Arándanos y Piña Liofilizada Caja 350g,UNIÓN,350.0,g,22.5,vivanda,2024-12-04 17:50:29.768247,PIÑA,350.0,g,22.5,PIÑA
+Bebida Ready to Drink Piscano Sour Piña Colada Botella 700ml,,700.0,ml,24.5,wong,2024-12-04 19:43:13.516552,PIÑA,700.0,ml,24.5,PIÑA
+Licor Frutado de Pisco y Piña Burgos Botella 750ml,,750.0,ml,27.9,wong,2024-12-04 19:43:13.516552,PIÑA,750.0,ml,27.9,PIÑA
+King Kong de Manjarblanco y Piña Caja 450 g,,450.0,g,29.2,wong,2024-12-04 19:43:13.516552,PIÑA,450.0,g,29.2,PIÑA
+Chocolate Relleno con Jalea de Piña Britt 170g,,170.0,g,32.3,wong,2024-12-04 19:43:13.516552,PIÑA,170.0,g,32.3,PIÑA
+Tarta de Piña 10 Porciones,,10.0,un,32.9,wong,2024-12-04 19:43:13.516552,PIÑA,10.0,un,32.9,PIÑA
+Helado Veggie Mango & Piña Lift Pote 390 g,,390.0,g,33.5,wong,2024-12-04 19:43:13.516552,PIÑA,390.0,g,33.5,PIÑA
+Mermelada de Piña Diet Crema & Nata frasco 330 g,,330.0,g,34.9,wong,2024-12-04 19:43:13.516552,PIÑA,330.0,g,34.9,PIÑA
+Enrollado de Cerdo con Jamón y Piña Alamesa x kg,,1.0,kg,38.9,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,38.9,PIÑA
+Suplemento Nutricional Nopal Flax con Piña Adelgazante 454g,,454.0,g,44.9,wong,2024-12-04 19:43:13.516552,PIÑA,454.0,g,44.9,PIÑA
+Agua de Piña Light Golden 485ml,,485.0,ml,45.9,metro,2024-12-04 21:37:18.801089,PIÑA,485.0,ml,45.9,PIÑA
+King Kong de Manjarblanco y Piña Caja 900 g,,900.0,g,48.2,wong,2024-12-04 19:43:13.516552,PIÑA,900.0,g,48.2,PIÑA
+"King Kong de Manjarblanco, Piña y Maní Caja 900 g",,900.0,g,48.2,wong,2024-12-04 19:43:13.516552,PIÑA,900.0,g,48.2,PIÑA
+Torta Tres Leches de Piña Colada Cuisine & Co 10 Porciones,,10.0,un,51.9,wong,2024-12-04 19:43:13.516552,PIÑA,10.0,un,51.9,PIÑA
+Vodka SKYY Sabor a Piña Botella 750ml,SKYY,750.0,ml,64.9,vivanda,2024-12-04 17:50:29.768247,PIÑA,750.0,ml,64.9,PIÑA
+Piña Deshidratada en Trozos Golden x kg,,1.0,kg,118.0,metro,2024-12-04 21:37:18.801089,PIÑA,1.0,kg,118.0,PIÑA
+Piña Deshidratada en Trozos Golden x kg,,1.0,kg,118.0,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,118.0,PIÑA
+Piña Deshidratada Golden x kg,,1.0,kg,219.5,wong,2024-12-04 19:43:13.516552,PIÑA,1.0,kg,219.5,PIÑA

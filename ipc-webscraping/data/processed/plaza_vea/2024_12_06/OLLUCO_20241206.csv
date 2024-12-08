@@ -1,0 +1,3 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 0.5 kg aprox.,Olluco,S/ 6.79 x kg,plaza_vea,OLLUCO,2024-12-06 14:22:47.765196,0.5,kg,Olluco,6.79
+Bandeja 400g,Olluco Picado BELL'S Bandeja 400g,S/ 9.59 un,plaza_vea,OLLUCO,2024-12-06 14:22:47.765196,400.0,g,Olluco Picado BELL'S Bandeja,9.59

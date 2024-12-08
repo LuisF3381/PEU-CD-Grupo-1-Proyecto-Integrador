@@ -1,207 +1,102 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Yogurt GLORIA Batti Shake Fresa Vaso 120g,S/ 1.60 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,120.0,g,Yogurt GLORIA Batti Shake Fresa Vaso,1.6,plaza_vea,Vaso 120g,,LECHE FRESCA UHT
-Bebida UHT Sabor Chocolate Choco Vigor Bolsa 250ml,S/ 1.80,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,250.0,ml,Bebida UHT Sabor Chocolate Choco Vigor Bolsa,1.8,metro,,,LECHE FRESCA UHT
-Bebida UHT con Avena Vigor Bolsa 250ml,S/ 1.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,250.0,ml,Bebida UHT con Avena Vigor Bolsa,1.9,metro,,,LECHE FRESCA UHT
-Lechuga Crespa BELL'S,S/ 2.19 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.0,un,Lechuga Crespa BELL'S,2.19,plaza_vea,Paquete 1un,,LECHE FRESCA UHT
-Esencia de Vainilla UNIVERSAL Frasco 100ml,S/ 2.30 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,100.0,ml,Esencia de Vainilla UNIVERSAL Frasco,2.3,plaza_vea,Frasco 100ml,,LECHE FRESCA UHT
-Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,800.0,ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa,2.9,plaza_vea,Bolsa 800ml,,LECHE FRESCA UHT
-Bebida Chocolatada La Preferida 800ml,S/ 3.00,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,800.0,ml,Bebida Chocolatada La Preferida,3.0,wong,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada LAIVE Deli Avena Botella 250ml,S/ 3.10,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,250.0,ml,Leche Parcialmente Descremada LAIVE Deli Avena Botella,3.1,vivanda,,LAIVE,LECHE FRESCA UHT
-Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml,S/ 3.20,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Bebida Láctea Sabor Chocolate Bonlé Bolsa,3.2,metro,,,LECHE FRESCA UHT
-Bebida con Avena y Canela Laive Deli Avena 250ml,S/ 3.20,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,250.0,ml,Bebida con Avena y Canela Laive Deli Avena,3.2,wong,,,LECHE FRESCA UHT
-Blueberries BELL'S FRESCOS Bandeja 100g,S/ 3.29 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,100.0,g,Blueberries BELL'S FRESCOS Bandeja,3.29,plaza_vea,Bandeja 100g,,LECHE FRESCA UHT
-Lechuga Crespa Hidropónica BELL'S Bolsa 200g,S/ 3.29 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,200.0,g,Lechuga Crespa Hidropónica BELL'S Bolsa,3.29,plaza_vea,Bolsa 200g,,LECHE FRESCA UHT
-Bebida Yofresh Lúcuma Botella 320g,S/ 3.30,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,g,Bebida Yofresh Lúcuma Botella,3.3,metro,,,LECHE FRESCA UHT
-Mezcla Láctea La Preferida 800ml,S/ 3.30,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Mezcla Láctea La Preferida,3.3,metro,,,LECHE FRESCA UHT
-Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml,S/ 3.30,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,800.0,ml,Bebida Láctea Sabor Chocolate Bonlé Bolsa,3.3,wong,,,LECHE FRESCA UHT
-Bebida Sabor Capuccino Laive Muuu Shake 230ml,S/ 3.30,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,230.0,ml,Bebida Sabor Capuccino Laive Muuu Shake,3.3,metro,,,LECHE FRESCA UHT
-Alimento Lácteo Fresa Yofresh Botella 330 gr,S/ 3.40,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,330.0,g,Alimento Lácteo Fresa Yofresh Botella r,3.4,metro,,,LECHE FRESCA UHT
-Bebida Sabor Chocolate Laive Muuu Shake 230ml,S/ 3.40,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,230.0,ml,Bebida Sabor Chocolate Laive Muuu Shake,3.4,wong,,,LECHE FRESCA UHT
-Bebida Sabor Capuccino Laive Muuu Shake 230ml,S/ 3.40,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,230.0,ml,Bebida Sabor Capuccino Laive Muuu Shake,3.4,wong,,,LECHE FRESCA UHT
-Bebida Gloria Shake Mocaccino Botella 320ml,S/ 3.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,320.0,ml,Bebida Gloria Shake Mocaccino Botella,3.5,wong,,,LECHE FRESCA UHT
-Alimento Lácteo Fresa Yofresh Botella 330 gr,S/ 3.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,330.0,g,Alimento Lácteo Fresa Yofresh Botella r,3.5,wong,,,LECHE FRESCA UHT
-Gelatina UMSHA Sabor a Fresa Bolsa 120g,S/ 3.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,120.0,g,Gelatina UMSHA Sabor a Fresa Bolsa,3.5,plaza_vea,Sobre 120g,,LECHE FRESCA UHT
-Gloria Shake Cookies & Cream 320ml,S/ 3.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,320.0,ml,Gloria Shake Cookies & Cream,3.5,wong,,,LECHE FRESCA UHT
-Bebida Gloria Shake Mocaccino Botella 320ml,S/ 3.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Bebida Gloria Shake Mocaccino Botella,3.5,metro,,,LECHE FRESCA UHT
-Leche DANLAC Pasteurizada Chocolate Botella 250ml,S/ 3.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,250.0,ml,Leche DANLAC Pasteurizada Chocolate Botella,3.6,vivanda,,DANLAC,LECHE FRESCA UHT
-Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 250ml,S/ 3.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,250.0,ml,Leche Entera Pasteurizada Danlac Sabor Chocolate Botella,3.6,metro,,,LECHE FRESCA UHT
-Bebida Chocolatada La Preferida 800ml,S/ 3.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Bebida Chocolatada La Preferida,3.6,metro,,,LECHE FRESCA UHT
-Limpiador POETT Frescura de Lavanda Botella 90...,S/ 3.80 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,900.0,ml,Limpiador POETT Frescura de Lavanda Botella 90,3.8,plaza_vea,Botella 900ml,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Pacti Tarro Botella 390g,S/ 3.80,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche sin Lactosa LAIVE Pacti Tarro Botella,3.8,vivanda,,LAIVE,LECHE FRESCA UHT
-Mezcla Láctea UHT Bonlé 800ml,S/ 3.80,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Mezcla Láctea UHT Bonlé,3.8,metro,,,LECHE FRESCA UHT
-Lavavajilla líquido BOREAL Limón fresh Doypack...,S/ 3.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,500.0,ml,Lavavajilla líquido BOREAL Limón fresh Doypack,3.9,plaza_vea,Doypack 500ml,,LECHE FRESCA UHT
-Leche Entera UHT Laive 900ml,S/ 3.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Entera UHT Laive,3.9,metro,,,LECHE FRESCA UHT
-Gelatina UNIVERSAL Sabor a Fresa Bolsa 130g,S/ 3.99 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,130.0,g,Gelatina UNIVERSAL Sabor a Fresa Bolsa,3.99,plaza_vea,Bolsa 130g,,LECHE FRESCA UHT
-Leche Descremada VIGOR UHT Bolsa 800ml,S/ 4.00,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,800.0,ml,Leche Descremada VIGOR UHT Bolsa,4.0,vega,,Vigor,LECHE FRESCA UHT
-Leche Reconstituida Entera GLORIA Lata 390g,S/ 4.20,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche Reconstituida Entera GLORIA Lata,4.2,vivanda,,GLORIA,LECHE FRESCA UHT
-Queso Parmesano BELL'S Paquete 35g,S/ 4.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,35.0,g,Queso Parmesano BELL'S Paquete,4.2,plaza_vea,Paquete 35g,,LECHE FRESCA UHT
-Leche Evaporada BELL'S Entera Lata 410g,S/ 4.20,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,410.0,g,Leche Evaporada BELL'S Entera Lata,4.2,vivanda,,BELL'S,LECHE FRESCA UHT
-Leche UHT VIGOR Bolsa 800ml,S/ 4.20,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,800.0,ml,Leche UHT VIGOR Bolsa,4.2,vivanda,,VIGOR,LECHE FRESCA UHT
-Leche Uht Vigor Bolsa 800ml,S/ 4.30,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,800.0,ml,Leche Uht Vigor Bolsa,4.3,wong,,,LECHE FRESCA UHT
-Leche GLORIA Zero Lacto Lata 390g,S/ 4.40,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche GLORIA Zero Lacto Lata,4.4,vivanda,,ZERO LACTO,LECHE FRESCA UHT
-Leche GLORIA Niños Lata 390g,S/ 4.40,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche GLORIA Niños Lata,4.4,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Botella 390g,S/ 4.40,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche sin Lactosa LAIVE Botella,4.4,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche Uht Vigor Bolsa 800ml,S/ 4.40,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Leche Uht Vigor Bolsa,4.4,metro,,,LECHE FRESCA UHT
-Leche LAIVE Light Semidescremada UTH Bolsa 900ml,S/ 4.50,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche LAIVE Light Semidescremada UTH Bolsa,4.5,vega,,Laive,LECHE FRESCA UHT
-Leche GLORIA UHT Entera Bolsa 900ml,S/ 4.50,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche GLORIA UHT Entera Bolsa,4.5,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Entera Deslactosada con Café Danlac Capuccino Botella 250ml,S/ 4.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,250.0,ml,Leche Entera Deslactosada con Café Danlac Capuccino Botella,4.5,wong,,,LECHE FRESCA UHT
-Leche UHT LAIVE Entera Sin Lactosa Bolsa 900ml,S/ 4.60 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,900.0,ml,Leche UHT LAIVE Entera Sin Lactosa Bolsa,4.6,plaza_vea,Bolsa 900ml,,LECHE FRESCA UHT
-Leche Condensada BELL'S Lata 390g,S/ 4.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche Condensada BELL'S Lata,4.6,vivanda,,BELL'S,LECHE FRESCA UHT
-Leche UHT LAIVE Entera Sin Lactosa Bolsa 900ml,S/ 4.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche UHT LAIVE Entera Sin Lactosa Bolsa,4.6,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche UHT Vigor Light Bolsa 800ml,S/ 4.60,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,800.0,ml,Leche UHT Vigor Light Bolsa,4.6,wong,,,LECHE FRESCA UHT
-Leche UHT Vigor Light Bolsa 800ml,S/ 4.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Leche UHT Vigor Light Bolsa,4.6,metro,,,LECHE FRESCA UHT
-Leche GLORIA UHT Light Bolsa 900ml,S/ 4.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche GLORIA UHT Light Bolsa,4.6,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Condensada BELL'S Lata 390g,S/ 4.60 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,390.0,g,Leche Condensada BELL'S Lata,4.6,plaza_vea,Lata 390g,,LECHE FRESCA UHT
-Leche Fresca LAIVE sin Lactosa Bolsa 900ml,S/ 4.70,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca LAIVE sin Lactosa Bolsa,4.7,vega,,Laive,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Light Botella 390g,S/ 4.70 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,390.0,g,Leche sin Lactosa LAIVE Light Botella,4.7,plaza_vea,Botella 390g,,LECHE FRESCA UHT
-Leche Entera UHT Gloria Bolsa 900ml,S/ 4.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Leche Entera UHT Gloria Bolsa,4.9,wong,,,LECHE FRESCA UHT
-Leche Entera UHT Gloria Bolsa 900ml,S/ 4.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Entera UHT Gloria Bolsa,4.9,metro,,,LECHE FRESCA UHT
-Leche UHT sin Lactosa GLORIA Zero Bolsa 900ml,S/ 4.90,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche UHT sin Lactosa GLORIA Zero Bolsa,4.9,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Fresca GLORIA UHT Entera Bolsa 900ml,S/ 4.90,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA UHT Entera Bolsa,4.9,vega,,Gloria,LECHE FRESCA UHT
-Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,S/ 4.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,320.0,ml,Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella,4.9,wong,,,LECHE FRESCA UHT
-Bebida UHT Sabor Chocolate Choco Vigor Bolsa 800ml,S/ 4.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Bebida UHT Sabor Chocolate Choco Vigor Bolsa,4.9,metro,,,LECHE FRESCA UHT
-Gloria Pro Triple Zero Chocolate 320ml,S/ 4.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Gloria Pro Triple Zero Chocolate,4.9,metro,,,LECHE FRESCA UHT
-Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,S/ 4.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella,4.9,metro,,,LECHE FRESCA UHT
-Albahaca Deshojada BELL'S FRESCOS 120g,S/ 4.99 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,120.0,g,Albahaca Deshojada BELL'S FRESCOS,4.99,plaza_vea,Bolsa 120gun,,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Light 900ml,S/ 4.99,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Semidescremada UHT Laive Light,4.99,metro,,,LECHE FRESCA UHT
-Leche UHT Sin Lactosa Gloria Zero Lacto Bolsa 900ml,S/ 5.10,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche UHT Sin Lactosa Gloria Zero Lacto Bolsa,5.1,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Light Bolsa 900ml,S/ 5.10,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Parcialmente Descremada Gloria Light Bolsa,5.1,metro,,,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Sin Lactosa 900ml,S/ 5.30,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Semidescremada UHT Laive Sin Lactosa,5.3,metro,,,LECHE FRESCA UHT
-Leche UHT Laive Light Sin Lactosa Bolsa 900ml,S/ 5.40,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Leche UHT Laive Light Sin Lactosa Bolsa,5.4,wong,,,LECHE FRESCA UHT
-Leche UHT Light Cuisine & Co Caja 1 lt,S/ 5.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Leche UHT Light Cuisine & Co Caja,5.5,wong,,,LECHE FRESCA UHT
-Leche UHT Entera Cuisine & Co Caja 1 lt,S/ 5.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche UHT Entera Cuisine & Co Caja,5.5,metro,,,LECHE FRESCA UHT
-Bebida UHT con Avena Vigor Bolsa 800ml,S/ 5.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,800.0,ml,Bebida UHT con Avena Vigor Bolsa,5.5,metro,,,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Sin Lactosa 900ml,S/ 5.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Leche Semidescremada UHT Laive Sin Lactosa,5.5,wong,,,LECHE FRESCA UHT
-Leche UHT Entera Cuisine & Co Caja 1 lt,S/ 5.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Leche UHT Entera Cuisine & Co Caja,5.5,wong,,,LECHE FRESCA UHT
-Leche LAIVE Sin Lactosa UHT Caja 946ml,S/ 5.60,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,946.0,ml,Leche LAIVE Sin Lactosa UHT Caja,5.6,vega,,Laive,LECHE FRESCA UHT
-Bebida Sabor Chocolate Laive 900ml,S/ 5.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Bebida Sabor Chocolate Laive,5.6,metro,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE UHT Tetrapack 946ml,S/ 5.70,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche sin Lactosa LAIVE UHT Tetrapack,5.7,vivanda,,LAIVE,LECHE FRESCA UHT
-Bebida Sabor Chocolate Laive 900ml,S/ 5.70,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Bebida Sabor Chocolate Laive,5.7,wong,,,LECHE FRESCA UHT
-Leche LAIVE UHT Light Tetrapack 946ml,S/ 5.70,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche LAIVE UHT Light Tetrapack,5.7,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche en Polvo GLORIA Bolsa 96g,S/ 5.70,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,96.0,g,Leche en Polvo GLORIA Bolsa,5.7,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche LAIVE UHT Entera Tetrapack 946ml,S/ 5.70,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche LAIVE UHT Entera Tetrapack,5.7,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche Descremada SBELT UHT Tetrapack 946ml,S/ 5.89,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche Descremada SBELT UHT Tetrapack,5.89,vivanda,,SBELT,LECHE FRESCA UHT
-Salchicha Huachana BELL'S Paquete 200g,S/ 5.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,200.0,g,Salchicha Huachana BELL'S Paquete,5.9,plaza_vea,Paquete 200g,,LECHE FRESCA UHT
-Leche GLORIA UHT Entera Caja 1L,S/ 5.90,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,1.0,l,Leche GLORIA UHT Entera Caja,5.9,vega,,Gloria,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml,S/ 5.99,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Leche Semidescremada UHT Laive Sin Lactosa Caja,5.99,metro,,,LECHE FRESCA UHT
-Leche Entera UHT Laive Caja 946ml,S/ 5.99,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Leche Entera UHT Laive Caja,5.99,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Sabor Chocolate Bolsa 900ml,S/ 5.99,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Parcialmente Descremada Gloria Sabor Chocolate Bolsa,5.99,metro,,,LECHE FRESCA UHT
-Leche Descremada UHT Laive Sbelt Caja 946ml,S/ 5.99,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Leche Descremada UHT Laive Sbelt Caja,5.99,metro,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE UHT Light Tetrapack 946ml,S/ 5.99,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche sin Lactosa LAIVE UHT Light Tetrapack,5.99,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche Condensada NESTLÉ Lata 393g,S/ 6 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,393.0,g,Leche Condensada NESTLÉ Lata,6.0,plaza_vea,Lata 393g,,LECHE FRESCA UHT
-Leche Chocolatada GLORIA UHT Caja 1L,S/ 6.00,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,1.0,l,Leche Chocolatada GLORIA UHT Caja,6.0,vega,,Gloria,LECHE FRESCA UHT
-Leche Chocolatada UHT GLORIA Bolsa 900ml,S/ 6.00,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche Chocolatada UHT GLORIA Bolsa,6.0,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche GLORIA UHT Light Caja 1L,S/ 6.10,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,1.0,l,Leche GLORIA UHT Light Caja,6.1,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Descremada GLORIA Slim UHT Triple Zero Caja 1L,S/ 6.10,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,1.0,l,Leche Descremada GLORIA Slim UHT Triple Zero Caja,6.1,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Light Caja 946ml,S/ 6.10,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Leche Semidescremada UHT Laive Light Caja,6.1,wong,,,LECHE FRESCA UHT
-Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml,S/ 6.10,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Leche Semidescremada UHT Laive Sin Lactosa Caja,6.1,wong,,,LECHE FRESCA UHT
-Leche UHT Entera Gloria Botella 946ml,S/ 6.10,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Leche UHT Entera Gloria Botella,6.1,wong,,,LECHE FRESCA UHT
-Leche Entera UHT Laive Caja 946ml,S/ 6.10,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Leche Entera UHT Laive Caja,6.1,wong,,,LECHE FRESCA UHT
-Leche UHT sin Lactosa GLORIA Zero Caja 1L,S/ 6.20,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,1.0,l,Leche UHT sin Lactosa GLORIA Zero Caja,6.2,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,S/ 6.20,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche UHT Sin Lactosa Gloria Zero Lacto Caja,6.2,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Sabor Chocolate Bolsa 900ml,S/ 6.20,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Leche Parcialmente Descremada Gloria Sabor Chocolate Bolsa,6.2,wong,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Light Caja 1L,S/ 6.20,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Leche Parcialmente Descremada Gloria Light Caja,6.2,wong,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Light Caja 1L,S/ 6.20,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche Parcialmente Descremada Gloria Light Caja,6.2,metro,,,LECHE FRESCA UHT
-Yogurt Bebible GLORIA Sabor a Fresa Botella 1K...,S/ 6.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.0,kg,Yogurt Bebible GLORIA Sabor a Fresa Botella 1K,6.2,plaza_vea,Botella 1Kg,,LECHE FRESCA UHT
-Leche Condensada NESTLÉ Lata 393g,S/ 6.30,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,393.0,g,Leche Condensada NESTLÉ Lata,6.3,vivanda,,NESTLÉ,LECHE FRESCA UHT
-Leche Entera UHT Gloria Caja 1L,S/ 6.30,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche Entera UHT Gloria Caja,6.3,metro,,,LECHE FRESCA UHT
-Leche Descremada UHT Gloria Slim Triple Zero Caja 1L,S/ 6.40,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche Descremada UHT Gloria Slim Triple Zero Caja,6.4,metro,,,LECHE FRESCA UHT
-Leche Sabor Chocolate Laive Caja 946ml,S/ 6.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Leche Sabor Chocolate Laive Caja,6.5,wong,,,LECHE FRESCA UHT
-Leche Sabor Chocolate Laive Caja 946ml,S/ 6.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Leche Sabor Chocolate Laive Caja,6.5,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Niños Caja 1L,S/ 6.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Leche Parcialmente Descremada Gloria Niños Caja,6.5,wong,,,LECHE FRESCA UHT
-Bebida con Avena Gloria Acti Avena Caja 1L,S/ 6.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Bebida con Avena Gloria Acti Avena Caja,6.5,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Sabor Chocolate Caja 1L,S/ 6.70,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Leche Parcialmente Descremada Gloria Sabor Chocolate Caja,6.7,metro,,,LECHE FRESCA UHT
-Bebida con Avena Gloria Acti Avena Caja 1L,S/ 6.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Bebida con Avena Gloria Acti Avena Caja,6.9,wong,,,LECHE FRESCA UHT
-Leche Condensada GLORIA Lata 393g,S/ 6.90,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,393.0,g,Leche Condensada GLORIA Lata,6.9,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche Fresca Piamonte Bolsa 950 ml,S/ 6.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,950.0,ml,Leche Fresca Piamonte Bolsa,6.9,metro,,,LECHE FRESCA UHT
-Leche Parcialmente Descremada Gloria Sabor Chocolate Caja 1L,S/ 7.00,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Leche Parcialmente Descremada Gloria Sabor Chocolate Caja,7.0,wong,,,LECHE FRESCA UHT
-Mermelada BELL'S Fresa Frasco 350g,S/ 7.10 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,350.0,g,Mermelada BELL'S Fresa Frasco,7.1,plaza_vea,Frasco 350g,,LECHE FRESCA UHT
-Mermelada Fresa GLORIA Pote 310g,S/ 7.30 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,310.0,g,Mermelada Fresa GLORIA Pote,7.3,plaza_vea,Pote 310g,,LECHE FRESCA UHT
-Leche Fresca Piamonte Bolsa 950 ml,S/ 7.40,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,950.0,ml,Leche Fresca Piamonte Bolsa,7.4,wong,,,LECHE FRESCA UHT
-Leche Entera Pasteurizada Danlac Botella 900ml,S/ 7.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Entera Pasteurizada Danlac Botella,7.6,metro,,,LECHE FRESCA UHT
-Leche Fresca DANLAC Botella 900ml,S/ 7.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche Fresca DANLAC Botella,7.6,vivanda,,DANLAC,LECHE FRESCA UHT
-Leche Fresca DANLAC Botella 900ml,S/ 7.60 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,900.0,ml,Leche Fresca DANLAC Botella,7.6,plaza_vea,Botella 900ml,,LECHE FRESCA UHT
-Leche Entera Pasteurizada Danlac Botella 900ml,S/ 7.60,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,900.0,ml,Leche Entera Pasteurizada Danlac Botella,7.6,wong,,,LECHE FRESCA UHT
-Leche Deslactosada Light DANLAC Botella 900ml,S/ 8.00,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche Deslactosada Light DANLAC Botella,8.0,vivanda,,DANLAC,LECHE FRESCA UHT
-Espárragos Verdes BELL'S FRESCOS Paquete 300g,S/ 8 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.0,un,Espárragos Verdes BELL'S FRESCOS Paquete,8.0,plaza_vea,Paquete 1un,,LECHE FRESCA UHT
-Leche Deslactosada Danlac Light Botella 900ml,S/ 8.10,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Deslactosada Danlac Light Botella,8.1,metro,,,LECHE FRESCA UHT
-Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja 170ml,S/ 8.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,170.0,ml,Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja,8.5,metro,,,LECHE FRESCA UHT
-Sixpack Bebida Láctea Yopi Sabor Chocolate Caja 170ml,S/ 8.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,170.0,ml,Sixpack Bebida Láctea Yopi Sabor Chocolate Caja,8.5,metro,,,LECHE FRESCA UHT
-Sixpack Bebida Láctea Yopi Sabor Chocolate Caja 170ml,S/ 8.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,170.0,ml,Sixpack Bebida Láctea Yopi Sabor Chocolate Caja,8.5,wong,,,LECHE FRESCA UHT
-Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja 170ml,S/ 8.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,170.0,ml,Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja,8.5,wong,,,LECHE FRESCA UHT
-Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 900ml,S/ 8.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Entera Pasteurizada Danlac Sabor Chocolate Botella,8.6,metro,,,LECHE FRESCA UHT
-Leche Chocolatada DANLAC Botella 900ml,S/ 8.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,900.0,ml,Leche Chocolatada DANLAC Botella,8.6,vivanda,,DANLAC,LECHE FRESCA UHT
-Pack x6 Bebida Sabor Chocolate Bonlé Caja 180ml,S/ 8.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,180.0,ml,Pack x6 Bebida Sabor Chocolate Bonlé Caja,8.9,metro,,,LECHE FRESCA UHT
-Pack x6 Bebida Sabor Chocolate Bonlé Caja 180ml,S/ 8.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,180.0,ml,Pack x6 Bebida Sabor Chocolate Bonlé Caja,8.9,wong,,,LECHE FRESCA UHT
-Blueberries BELL'S FRESCOS Bandeja 300g,S/ 8.99 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.0,un,Blueberries BELL'S FRESCOS Bandeja,8.99,plaza_vea,Bandeja 1un,,LECHE FRESCA UHT
-Leche Chocolatada BONLÉ UHT Tetrapack 180ml Paquete 6un,S/ 9.00,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,180.0,ml,Leche Chocolatada BONLÉ UHT Tetrapack  Paquete,9.0,vega,,Bonle,LECHE FRESCA UHT
-Leche Deslactosada Sabor Chocolate Danlac Botella 900ml,S/ 9.10,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,900.0,ml,Leche Deslactosada Sabor Chocolate Danlac Botella,9.1,metro,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Sabor a Chocolate Caja...,S/ 9.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche sin Lactosa LAIVE Sabor a Chocolate Caja,9.2,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Yogurt GLORIA Parcialmente Descremado Sabor a ...,S/ 9.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.7,kg,Yogurt GLORIA Parcialmente Descremado Sabor a,9.2,plaza_vea,Botella 1.7Kg,,LECHE FRESCA UHT
-Sixpack Leche UHT Laive Sabor Chocolate 170ml,S/ 9.20,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,170.0,ml,Sixpack Leche UHT Laive Sabor Chocolate,9.2,wong,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Sabor a Chocolate Caja 180ml Paquete 6un,S/ 9.20,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,180.0,ml,Leche sin Lactosa LAIVE Sabor a Chocolate Caja  Paquete,9.2,vivanda,,LAIVE,LECHE FRESCA UHT
-Pollo Entero Fresco con Menudencia,S/ 9.40 x kg,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,2.2,kg,Pollo Entero Fresco con Menudencia,9.4,plaza_vea,Presentación 2.2 kg aprox.,,LECHE FRESCA UHT
-Leche Chocolatada GLORIA UHT Niños Caja 180ml ...,S/ 9.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche Chocolatada GLORIA UHT Niños Caja,9.5,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Fresa Premium BELL'S Bandeja 500g,S/ 10.59 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,500.0,g,Fresa Premium BELL'S Bandeja,10.59,plaza_vea,Bandeja 500g,,LECHE FRESCA UHT
-Jamón Pizza BELL'S Paquete 500g,S/ 10.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,500.0,g,Jamón Pizza BELL'S Paquete,10.9,plaza_vea,Paquete 500g,,LECHE FRESCA UHT
-Pollo Fresco con Menudencia Trozado en 8 Pieza...,S/ 10.90 x kg,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,2.3,kg,Pollo Fresco con Menudencia Trozado en 8 Pieza,10.9,plaza_vea,Presentación 2.3 kg aprox.,,LECHE FRESCA UHT
-Yogurt Griego DANLAC Cultivos Probióticos Fras...,S/ 10.99 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,420.0,g,Yogurt Griego DANLAC Cultivos Probióticos Fras,10.99,plaza_vea,Frasco 420g,,LECHE FRESCA UHT
-Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner...,S/ 11.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner,11.5,plaza_vea,Galonera 1.7Kg,,LECHE FRESCA UHT
-Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K...,S/ 11.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.7,kg,Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K,11.5,plaza_vea,Galonera 1.7Kg,,LECHE FRESCA UHT
-Yogurt DANLAC Frutado de Fresa Botella 900g,S/ 11.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,900.0,g,Yogurt DANLAC Frutado de Fresa Botella,11.5,plaza_vea,Botella 900g,,LECHE FRESCA UHT
-Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Vainilla Caja 180ml,S/ 11.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,180.0,ml,Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Vainilla Caja,11.6,metro,,,LECHE FRESCA UHT
-Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja 180ml,S/ 11.60,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,180.0,ml,Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja,11.6,metro,,,LECHE FRESCA UHT
-Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja 180ml,S/ 11.80,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,180.0,ml,Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja,11.8,wong,,,LECHE FRESCA UHT
-Jabón de Tocador DOVE Leche de Coco Barra 90g ...,S/ 11.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,270.0,g,Jabón de Tocador DOVE Leche de Coco Barra,11.9,plaza_vea,Paquete 270g,,LECHE FRESCA UHT
-Leche Fresca de Chocolate Piamonte Botella 950 ml,S/ 13.30,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,950.0,ml,Leche Fresca de Chocolate Piamonte Botella,13.3,wong,,,LECHE FRESCA UHT
-Leche GLORIA UHT Entera Bolsa 900ml Paquete 3u...,S/ 13.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,3.0,un,Leche GLORIA UHT Entera Bolsa  Paquete 3u,13.5,plaza_vea,Paquete 3un,,LECHE FRESCA UHT
-Leche Fresca GLORIA Zero Lacto Bolsa 900ml x 3u,S/ 14.20 9%,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA Zero Lacto Bolsa  x 3u,14.2,vega,,Gloria,LECHE FRESCA UHT
-Leche Fresca GLORIA UHT Light Bolsa 900ml Pack 3u,S/ 14.20 9%,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA UHT Light Bolsa  Pack 3u,14.2,vega,,Gloria,LECHE FRESCA UHT
-Mermelada GLORIA Fresa Frasco 950g,S/ 14.30 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,950.0,g,Mermelada GLORIA Fresa Frasco,14.3,plaza_vea,Frasco 950g,,LECHE FRESCA UHT
-Limpiador POETT Frescura de Lavanda Botella 3....,S/ 14.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,3.8,l,Limpiador POETT Frescura de Lavanda Botella 3,14.9,plaza_vea,Botella 3.8L,,LECHE FRESCA UHT
-Fresa Entera Congelada EL FRUTERO Bolsa 1Kg,S/ 15.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.0,kg,Fresa Entera Congelada EL FRUTERO Bolsa,15.5,plaza_vea,Bolsa 1Kg,,LECHE FRESCA UHT
-Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja 1 Litro,S/ 15.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja itro,15.9,metro,,,LECHE FRESCA UHT
-Bebida en Base de Vegetales Baja en Grasas Not Milk Caja 1 Litro,S/ 15.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Bebida en Base de Vegetales Baja en Grasas Not Milk Caja itro,15.9,wong,,,LECHE FRESCA UHT
-Bebida en Base de Vegetales Baja en Grasas Not Milk Caja 1 Litro,S/ 15.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Bebida en Base de Vegetales Baja en Grasas Not Milk Caja itro,15.9,metro,,,LECHE FRESCA UHT
-Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja 1 Litro,S/ 15.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja itro,15.9,wong,,,LECHE FRESCA UHT
-Tripack Leche Entera UHT Gloria Caja 1L,S/ 16.20,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Tripack Leche Entera UHT Gloria Caja,16.2,metro,,,LECHE FRESCA UHT
-Leche UHT GLORIA Entera Pack 3un x 1L,S/ 16.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,3.0,un,Leche UHT GLORIA Entera Pack  x,16.2,plaza_vea,Paquete 3un,,LECHE FRESCA UHT
-Leche UHT GLORIA Niños Pack 3un x 1L,S/ 16.30 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,3.0,un,Leche UHT GLORIA Niños Pack  x,16.3,plaza_vea,Paquete 3un,,LECHE FRESCA UHT
-Tripack Leche Parcialmente Descremada Gloria Light Caja 1L,S/ 16.40,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Tripack Leche Parcialmente Descremada Gloria Light Caja,16.4,metro,,,LECHE FRESCA UHT
-Leche UHT GLORIA Light Pack 3un x 1L,S/ 16.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,3.0,un,Leche UHT GLORIA Light Pack  x,16.5,plaza_vea,Paquete 3un,,LECHE FRESCA UHT
-Leche UHT GLORIA Entera Pack 3un x 1L,S/ 16.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,3.0,un,Leche UHT GLORIA Entera Pack  x,16.6,vivanda,,GLORIA,LECHE FRESCA UHT
-Tripack Leche Entera UHT Gloria Caja 1L,S/ 16.70,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Tripack Leche Entera UHT Gloria Caja,16.7,wong,,,LECHE FRESCA UHT
-Tripack Leche Descremada UHT Gloria Slim Triple Zero Caja 1L,S/ 16.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Tripack Leche Descremada UHT Gloria Slim Triple Zero Caja,16.9,metro,,,LECHE FRESCA UHT
-Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,S/ 16.90,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,1.0,l,Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja,16.9,wong,,,LECHE FRESCA UHT
-Tripack Leche Parcialmente Descremada Gloria Niños Caja 1L,S/ 16.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,1.0,l,Tripack Leche Parcialmente Descremada Gloria Niños Caja,16.9,metro,,,LECHE FRESCA UHT
-Leche Descremada GLORIA Slim UHT Triple Zero Caja 1L Paquete 3un,S/ 17.40,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,1.0,l,Leche Descremada GLORIA Slim UHT Triple Zero Caja  Paquete,17.4,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche UHT GLORIA Light Pack 3un x 1L,S/ 17.40,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,3.0,un,Leche UHT GLORIA Light Pack  x,17.4,vivanda,,GLORIA,LECHE FRESCA UHT
-Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella 320ml,S/ 17.90,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella,17.9,metro,,,LECHE FRESCA UHT
-Guiso de Cerdo Nacional Fresco x kg,S/ 19.90 x kg,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,1.4,kg,Guiso de Cerdo Nacional Fresco,19.9,plaza_vea,Presentación 1.4 kg aprox.,,LECHE FRESCA UHT
-Suavizante SUAVITEL Fresca Primavera 2.3L,S/ 19.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,2300.0,ml,Suavizante SUAVITEL Fresca Primavera,19.9,plaza_vea,Doypack 2300ml,,LECHE FRESCA UHT
-Leche Entera LAIVE UHT Caja 946ml Paquete 4un,S/ 22.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,4.0,un,Leche Entera LAIVE UHT Caja  Paquete,22.5,plaza_vea,Paquete 4un,,LECHE FRESCA UHT
-Leche Entera LAIVE UHT Caja 946ml Paquete 4un,S/ 22.50,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche Entera LAIVE UHT Caja  Paquete,22.5,vivanda,,LAIVE,LECHE FRESCA UHT
-Fourpack Leche Semidescremada UHT Laive Light Caja 946ml,S/ 22.80,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Fourpack Leche Semidescremada UHT Laive Light Caja,22.8,metro,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE UHT Light Caja 946ml P...,S/ 22.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,4.0,un,Leche sin Lactosa LAIVE UHT Light Caja  P,22.9,plaza_vea,Paquete 4un,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE UHT Light Caja 946ml Paquete 4un,S/ 22.90,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche sin Lactosa LAIVE UHT Light Caja  Paquete,22.9,vivanda,,LAIVE,LECHE FRESCA UHT
-Fourpack Leche Semidescremada UHT Laive Sin Lactosa Light Caja 946ml,S/ 23.10,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Fourpack Leche Semidescremada UHT Laive Sin Lactosa Light Caja,23.1,metro,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Light Botella 390g Paq...,S/ 23.20 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche sin Lactosa LAIVE Light Botella  Paq,23.2,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE Light Botella 390g Paquete 6un,S/ 23.29,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche sin Lactosa LAIVE Light Botella  Paquete,23.29,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche Reconstituida Entera GLORIA Lata 390g Pa...,S/ 23.50 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche Reconstituida Entera GLORIA Lata  Pa,23.5,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Leche Reconstituida Entera GLORIA Lata 390g Paquete 6un,S/ 23.50,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche Reconstituida Entera GLORIA Lata  Paquete,23.5,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche SBELT UHT Descremada Caja 946ml Paquete 4un,S/ 23.50,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche SBELT UHT Descremada Caja  Paquete,23.5,vivanda,,SBELT,LECHE FRESCA UHT
-Fourpack Leche Descremada UHT Laive Sbelt Caja 946ml,S/ 23.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,946.0,ml,Fourpack Leche Descremada UHT Laive Sbelt Caja,23.5,metro,,,LECHE FRESCA UHT
-Fourpack Leche Descremada UHT Laive Sbelt Caja 946ml,S/ 24.10,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,946.0,ml,Fourpack Leche Descremada UHT Laive Sbelt Caja,24.1,wong,,,LECHE FRESCA UHT
-Leche sin Lactosa LAIVE UHT Caja 946ml Paquete 4un,S/ 24.50,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,946.0,ml,Leche sin Lactosa LAIVE UHT Caja  Paquete,24.5,vivanda,,LAIVE,LECHE FRESCA UHT
-Leche Evaporada Entera GLORIA Lata 390g Paquet...,S/ 24.60 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche Evaporada Entera GLORIA Lata  Paquet,24.6,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Leche Evaporada Entera GLORIA Lata 390g Paquete 6un,S/ 24.60,vivanda,LECHE FRESCA UHT,2024-12-04 17:35:30.549203,390.0,g,Leche Evaporada Entera GLORIA Lata  Paquete,24.6,vivanda,,GLORIA,LECHE FRESCA UHT
-Leche GLORIA Zero Lacto Lata 390g Paquete 6un,S/ 24.80 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche GLORIA Zero Lacto Lata  Paquete,24.8,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Leche Light GLORIA Lata 390g Paquete 6un,S/ 24.80 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,6.0,un,Leche Light GLORIA Lata  Paquete,24.8,plaza_vea,Paquete 6un,,LECHE FRESCA UHT
-Sixpack Batido con Proteínas Gloria Pro Triple Zero Chocolate Botella 320ml,S/ 25.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Sixpack Batido con Proteínas Gloria Pro Triple Zero Chocolate Botella,25.5,metro,,,LECHE FRESCA UHT
-Sixpack Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,S/ 25.50,metro,LECHE FRESCA UHT,2024-12-04 21:15:29.781318,320.0,ml,Sixpack Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella,25.5,metro,,,LECHE FRESCA UHT
-Sixpack Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,S/ 25.50,wong,LECHE FRESCA UHT,2024-12-04 19:04:47.717068,320.0,ml,Sixpack Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella,25.5,wong,,,LECHE FRESCA UHT
-Leche Fresca GLORIA UHT Entera Pack 6 Bolsa 900ml,S/ 28.20,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA UHT Entera Pack 6 Bolsa,28.2,vega,,Gloria,LECHE FRESCA UHT
-Café Instantáneo ALTOMAYO Gourmet Frasco 170g,S/ 28.70 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,170.0,g,Café Instantáneo ALTOMAYO Gourmet Frasco,28.7,plaza_vea,Frasco 170g,,LECHE FRESCA UHT
-Café Instantáneo NESCAFÉ Fina Selección Frasco...,S/ 29.90 un,plaza_vea,LECHE FRESCA UHT,2024-12-04 13:36:06.259557,200.0,g,Café Instantáneo NESCAFÉ Fina Selección Frasco,29.9,plaza_vea,Frasco 200g,,LECHE FRESCA UHT
-Leche Fresca GLORIA UHT Entera Bolsa 900ml Caja 12u,S/ 56.40,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA UHT Entera Bolsa  Caja 12u,56.4,vega,,Gloria,LECHE FRESCA UHT
-Leche Fresca GLORIA UHT Light Bolsa 900ml Caja 12u,S/ 57.60,vega,LECHE FRESCA UHT,2024-12-04 13:41:17.589388,900.0,ml,Leche Fresca GLORIA UHT Light Bolsa  Caja 12u,57.6,vega,,Gloria,LECHE FRESCA UHT
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Leche LAIVE Sabor Chocolate Caja 170ml Sixpack,Laive,170.0,ml,1.8,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,170.0,ml,1.8,LECHE FRESCA UHT
+Bebida UHT Sabor Chocolate Choco Vigor Bolsa 250ml,,250.0,ml,1.8,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,250.0,ml,1.8,LECHE FRESCA UHT
+Bebida UHT con Avena Vigor Bolsa 250ml,,250.0,ml,1.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,250.0,ml,1.9,LECHE FRESCA UHT
+Bebida con Avena y Canela Laive Deli Avena 250ml,,250.0,ml,3.1,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,250.0,ml,3.1,LECHE FRESCA UHT
+Bebida con Avena y Canela Laive Deli Avena 250ml,,250.0,ml,3.2,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,250.0,ml,3.2,LECHE FRESCA UHT
+Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml,,800.0,ml,3.2,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,800.0,ml,3.2,LECHE FRESCA UHT
+Mezcla Láctea La Preferida 800ml,,800.0,ml,3.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,800.0,ml,3.3,LECHE FRESCA UHT
+Bebida Yofresh Lúcuma Botella 320g,,320.0,g,3.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,g,3.3,LECHE FRESCA UHT
+Bebida Sabor Capuccino Laive Muuu Shake 230ml,,230.0,ml,3.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,230.0,ml,3.3,LECHE FRESCA UHT
+Bebida Sabor Chocolate Laive Muuu Shake 230ml,,230.0,ml,3.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,230.0,ml,3.3,LECHE FRESCA UHT
+Bebida Sabor Chocolate Laive Muuu Shake 230ml,,230.0,ml,3.4,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,230.0,ml,3.4,LECHE FRESCA UHT
+Alimento Lácteo Fresa Yofresh Botella 330 gr,,330.0,g,3.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,330.0,g,3.4,LECHE FRESCA UHT
+Alimento Lácteo Durazno Yofresh Botella 330 gr,,330.0,g,3.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,330.0,g,3.4,LECHE FRESCA UHT
+Alimento Lácteo Vainilla Yofresh Botella 330g,,330.0,g,3.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,330.0,g,3.4,LECHE FRESCA UHT
+Gloria Shake Cookies & Cream 320ml,,320.0,ml,3.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,ml,3.5,LECHE FRESCA UHT
+Alimento Lácteo Fresa Yofresh Botella 330 gr,,330.0,g,3.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,330.0,g,3.5,LECHE FRESCA UHT
+Bebida Gloria Shake Capuccino Botella 320ml,,320.0,ml,3.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,ml,3.5,LECHE FRESCA UHT
+Bebida Gloria Shake Capuccino Botella 320ml,,320.0,ml,3.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,320.0,ml,3.5,LECHE FRESCA UHT
+Gloria Shake Cookies & Cream 320ml,,320.0,ml,3.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,320.0,ml,3.5,LECHE FRESCA UHT
+Bebida Gloria Shake Mocaccino Botella 320ml,,320.0,ml,3.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,ml,3.5,LECHE FRESCA UHT
+Leche Entera UHT Laive 900ml,,900.0,ml,3.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,3.9,LECHE FRESCA UHT
+Leche Descremada VIGOR UHT Bolsa 800ml,Vigor,800.0,ml,4.0,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,800.0,ml,4.0,LECHE FRESCA UHT
+Leche Sabor a Chocolate Piamonte Botella 340ml,,340.0,ml,4.3,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,340.0,ml,4.3,LECHE FRESCA UHT
+Leche Uht Vigor Bolsa 800ml,,800.0,ml,4.3,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,800.0,ml,4.3,LECHE FRESCA UHT
+Leche Entera UHT Laive 900ml,,900.0,ml,4.4,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,4.4,LECHE FRESCA UHT
+Leche Uht Vigor Bolsa 800ml,,800.0,ml,4.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,800.0,ml,4.4,LECHE FRESCA UHT
+Leche Entera Deslactosada con Café Danlac Capuccino Botella 250ml,,250.0,ml,4.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,250.0,ml,4.5,LECHE FRESCA UHT
+Leche Entera Deslactosada con Café Danlac Capuccino Botella 250ml,,250.0,ml,4.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,250.0,ml,4.5,LECHE FRESCA UHT
+Leche UHT Vigor Light Bolsa 800ml,,800.0,ml,4.6,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,800.0,ml,4.6,LECHE FRESCA UHT
+Leche Fresca LAIVE sin Lactosa Bolsa 900ml,Laive,900.0,ml,4.7,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,900.0,ml,4.7,LECHE FRESCA UHT
+Leche Entera UHT Gloria Bolsa 900ml,,900.0,ml,4.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,4.9,LECHE FRESCA UHT
+Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,,320.0,ml,4.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,320.0,ml,4.9,LECHE FRESCA UHT
+Leche Semidescremada UHT Laive Light 900ml,,900.0,ml,4.99,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,4.99,LECHE FRESCA UHT
+Leche Parcialmente Descremada Gloria Light Bolsa 900ml,,900.0,ml,5.1,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,5.1,LECHE FRESCA UHT
+Leche Parcialmente Descremada Gloria Light Bolsa 900ml,,900.0,ml,5.1,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,5.1,LECHE FRESCA UHT
+Leche Semidescremada UHT Laive Sin Lactosa 900ml,,900.0,ml,5.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,5.3,LECHE FRESCA UHT
+Leche UHT Laive Light Sin Lactosa Bolsa 900ml,,900.0,ml,5.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,5.3,LECHE FRESCA UHT
+Leche UHT Laive Light Sin Lactosa Bolsa 900ml,,900.0,ml,5.4,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,5.4,LECHE FRESCA UHT
+Leche UHT Entera Cuisine & Co Caja 1 lt,,1.0,l,5.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,5.5,LECHE FRESCA UHT
+Leche UHT Light Cuisine & Co Caja 1 lt,,1.0,l,5.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,5.5,LECHE FRESCA UHT
+Bebida Sabor Chocolate Laive 900ml,,900.0,ml,5.7,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,5.7,LECHE FRESCA UHT
+Leche LAIVE UHT Entera Caja 946ml,Laive,946.0,ml,5.7,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,946.0,ml,5.7,LECHE FRESCA UHT
+Leche GLORIA UHT Entera Caja 1L,Gloria,1.0,l,5.9,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,1.0,l,5.9,LECHE FRESCA UHT
+Leche Semidescremada UHT Laive Sin Lactosa Light Caja 946ml,,946.0,ml,5.99,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,5.99,LECHE FRESCA UHT
+Leche Entera UHT Laive Caja 946ml,,946.0,ml,5.99,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,5.99,LECHE FRESCA UHT
+Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml,,946.0,ml,5.99,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,5.99,LECHE FRESCA UHT
+Leche Entera UHT Laive Caja 946ml,,946.0,ml,6.1,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,6.1,LECHE FRESCA UHT
+Leche Semidescremada UHT Laive Light Caja 946ml,,946.0,ml,6.1,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,6.1,LECHE FRESCA UHT
+Leche Parcialmente Descremada Gloria Light Caja 1L,,1.0,l,6.2,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,6.2,LECHE FRESCA UHT
+Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,,1.0,l,6.2,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,6.2,LECHE FRESCA UHT
+Leche Entera UHT Gloria Caja 1L,,1.0,l,6.3,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,6.3,LECHE FRESCA UHT
+Leche Entera UHT Gloria Caja 1L,,1.0,l,6.4,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,6.4,LECHE FRESCA UHT
+Leche Sabor Chocolate Laive Caja 946ml,,946.0,ml,6.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,6.5,LECHE FRESCA UHT
+Bebida con Avena Gloria Acti Avena Caja 1L,,1.0,l,6.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,6.5,LECHE FRESCA UHT
+Leche Parcialmente Descremada Gloria Sabor Chocolate Caja 1L,,1.0,l,6.7,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,6.7,LECHE FRESCA UHT
+Leche Fresca Piamonte Bolsa 950 ml,,950.0,ml,6.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,950.0,ml,6.9,LECHE FRESCA UHT
+Leche Parcialmente Descremada Gloria Sabor Chocolate Caja 1L,,1.0,l,7.0,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,7.0,LECHE FRESCA UHT
+Leche Fresca Piamonte Bolsa 950 ml,,950.0,ml,7.4,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,950.0,ml,7.4,LECHE FRESCA UHT
+Leche Entera Pasteurizada Danlac Botella 900ml,,900.0,ml,7.6,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,7.6,LECHE FRESCA UHT
+Leche Entera Pasteurizada Danlac Botella 900ml,,900.0,ml,7.6,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,7.6,LECHE FRESCA UHT
+Leche Deslactosada Danlac Light Botella 900ml,,900.0,ml,8.1,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,8.1,LECHE FRESCA UHT
+Sixpack Bebida Láctea Yopi Sabor Chocolate Caja 170ml,,170.0,ml,8.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,170.0,ml,8.5,LECHE FRESCA UHT
+Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja 170ml,,170.0,ml,8.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,170.0,ml,8.5,LECHE FRESCA UHT
+Sixpack Bebida Láctea Yopi Sabor Chocolate Caja 170ml,,170.0,ml,8.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,170.0,ml,8.5,LECHE FRESCA UHT
+Sixpack Bebida Láctea Yopi Sabor Avena y Canela Caja 170ml,,170.0,ml,8.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,170.0,ml,8.5,LECHE FRESCA UHT
+Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 900ml,,900.0,ml,8.6,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,8.6,LECHE FRESCA UHT
+Leche Deslactosada Sabor Chocolate Danlac Botella 900ml,,900.0,ml,9.1,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,900.0,ml,9.1,LECHE FRESCA UHT
+Leche Deslactosada Sabor Chocolate Danlac Botella 900ml,,900.0,ml,9.1,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,9.1,LECHE FRESCA UHT
+Sixpack Leche UHT Laive Sabor Chocolate 170ml,,170.0,ml,9.2,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,170.0,ml,9.2,LECHE FRESCA UHT
+Leche GLORIA Niños Sabor a Chocolate UHT Caja 180ml Paquete 6u,Gloria,180.0,ml,9.7,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,180.0,ml,9.7,LECHE FRESCA UHT
+Sixpack Leche con Avena y Canela Gloria Acti Avena Caja 180ml,,180.0,ml,10.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,180.0,ml,10.9,LECHE FRESCA UHT
+Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Vainilla Caja 180ml,,180.0,ml,11.6,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,180.0,ml,11.6,LECHE FRESCA UHT
+Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja 180ml,,180.0,ml,11.6,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,180.0,ml,11.6,LECHE FRESCA UHT
+Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja 180ml,,180.0,ml,11.8,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,180.0,ml,11.8,LECHE FRESCA UHT
+Leche Fresca de Chocolate Piamonte Botella 950 ml,,950.0,ml,13.3,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,950.0,ml,13.3,LECHE FRESCA UHT
+Tripack Leche Entera UHT Gloria Bolsa 900ml,,900.0,ml,13.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,900.0,ml,13.9,LECHE FRESCA UHT
+Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja 1 Litro,,1.0,l,15.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,15.9,LECHE FRESCA UHT
+Bebida en Base de Vegetales Sabor Chocolate Not Milk Caja 1 Litro,,1.0,l,15.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,15.9,LECHE FRESCA UHT
+Bebida en Base de Vegetales Baja en Grasas Not Milk Caja 1 Litro,,1.0,l,15.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,15.9,LECHE FRESCA UHT
+Tripack Leche Entera UHT Gloria Caja 1L,,1.0,l,16.2,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,16.2,LECHE FRESCA UHT
+Leche GLORIA UHT Light Caja 1L x3u,Gloria,1.0,l,16.29,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,1.0,l,16.29,LECHE FRESCA UHT
+Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,,1.0,l,16.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,16.4,LECHE FRESCA UHT
+Tripack Leche Parcialmente Descremada Gloria Light Caja 1L,,1.0,l,16.4,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,16.4,LECHE FRESCA UHT
+Tripack Leche Entera UHT Gloria Caja 1L,,1.0,l,16.7,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,16.7,LECHE FRESCA UHT
+Tripack Leche Parcialmente Descremada Gloria Niños Caja 1L,,1.0,l,16.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,1.0,l,16.9,LECHE FRESCA UHT
+Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L,,1.0,l,16.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,16.9,LECHE FRESCA UHT
+Tripack Leche Parcialmente Descremada Gloria Light Caja 1L,,1.0,l,16.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,16.9,LECHE FRESCA UHT
+Tripack Leche Parcialmente Descremada Gloria Niños Caja 1L,,1.0,l,16.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,1.0,l,16.9,LECHE FRESCA UHT
+Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella 320ml,,320.0,ml,17.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,ml,17.9,LECHE FRESCA UHT
+Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella 320ml,,320.0,ml,17.9,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,320.0,ml,17.9,LECHE FRESCA UHT
+Fourpack Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml,,946.0,ml,20.9,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,20.9,LECHE FRESCA UHT
+Fourpack Leche Entera UHT Laive Caja 946ml,,946.0,ml,22.8,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,22.8,LECHE FRESCA UHT
+Fourpack Leche Semidescremada UHT Laive Sin Lactosa Light Caja 946ml,,946.0,ml,23.1,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,23.1,LECHE FRESCA UHT
+Fourpack Leche Entera UHT Laive Caja 946ml,,946.0,ml,23.3,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,23.3,LECHE FRESCA UHT
+Fourpack Leche Semidescremada UHT Laive Light Caja 946ml,,946.0,ml,23.3,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,23.3,LECHE FRESCA UHT
+Fourpack Leche Descremada UHT Laive Sbelt Caja 946ml,,946.0,ml,23.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,946.0,ml,23.5,LECHE FRESCA UHT
+Fourpack Leche Descremada UHT Laive Sbelt Caja 946ml,,946.0,ml,24.1,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,946.0,ml,24.1,LECHE FRESCA UHT
+Sixpack Batido con Proteínas Sin Lactosa Gloria Pro Chocolate Botella 320ml,,320.0,ml,25.5,wong,2024-12-04 19:04:47.717068,LECHE FRESCA UHT,320.0,ml,25.5,LECHE FRESCA UHT
+Sixpack Batido con Proteínas Gloria Pro Triple Zero Chocolate Botella 320ml,,320.0,ml,25.5,metro,2024-12-04 21:15:29.781318,LECHE FRESCA UHT,320.0,ml,25.5,LECHE FRESCA UHT
+Leche Fresca GLORIA UHT Entera Pack 6 Bolsa 900ml,Gloria,900.0,ml,28.2,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,900.0,ml,28.2,LECHE FRESCA UHT
+Leche Fresca GLORIA UHT Entera Bolsa 900ml Caja 12u,Gloria,900.0,ml,56.4,vega,2024-12-04 13:41:17.589388,LECHE FRESCA UHT,900.0,ml,56.4,LECHE FRESCA UHT

@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 400g,Papa Seca BELL'S Bolsa 400g,S/ 5.60 un,plaza_vea,PAPA SECA,2024-12-07 14:15:54.852565,400.0,g,Papa Seca BELL'S Bolsa,5.6
+Bolsa 500g,Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,PAPA SECA,2024-12-07 14:15:54.852565,500.0,g,Papa Seca COSTEÑO Bolsa,8.2
+Bolsa 500g,Papa Seca TESORO DEL CAMPO Bolsa 500g,S/ 7.69 un,plaza_vea,PAPA SECA,2024-12-07 14:15:54.852565,500.0,g,Papa Seca TESORO DEL CAMPO Bolsa,7.69

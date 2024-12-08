@@ -1,0 +1,93 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+AJINOMOTO,Sazonador Bolsa 500 g,S/ 11.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,g,Sazonador Bolsa,11.1
+ALACENA,Crema de Ají Tari 400 g,S/ 13.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,Crema de Ají Tari,13.5
+ALACENA,MAYONESA 850 GR,S/ 19.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,850.0,g,MAYONESA R,19.6
+ALACENA,Crema Huancaína 400 g,S/ 13.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,Crema Huancaína,13.5
+MARINA,Sal de mar para cocina de 1 kg,S/ 2.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,1.0,kg,Sal de mar para cocina de,2.5
+TOTTUS,VINAGRE BLANCO X 1 L,S/ 3.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,1.0,l,VINAGRE BLANCO X,3.9
+KIKKO,Salsa De Soya Siyau Frasco x 500 mL,S/ 4.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,ml,Salsa De Soya Siyau Frasco x,4.2
+TOTTUS,Sal de Maras Fina Orígenes Doypack 600 g,S/ 9.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,600.0,g,Sal de Maras Fina Orígenes Doypack,9.9
+ALACENA,Mayonesa Doypack 475 g,S/ 14,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,475.0,g,Mayonesa Doypack,14.0
+,Vinagre de Manzana Pack 2 Unidades,S/ 24.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,2.0,un,Vinagre de Manzana Pack ades,24.1
+,Canela Entera Kariño 9 g,S/ 4.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,9.0,g,Canela Entera Kariño,4.2
+TOTTUS,Comino molido 60 gr,S/ 6.70,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,60.0,g,Comino molido r,6.7
+AJINOMOTO,Caldo de Gallina Doña Gusta 6 Unidades,S/ 2.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Caldo de Gallina Doña Gusta ades,2.2
+MAGGI,Caldo sabor gallina - 25 unidades,S/ 5.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,25.0,un,Caldo sabor gallina - ades,5.5
+2 BANDERAS,Aderezo para Pavo 300 g,S/ 8.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,300.0,g,Aderezo para Pavo,8.9
+TOTTUS,Pimienta negra molida 60 g,S/ 8.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,60.0,g,Pimienta negra molida,8.4
+BADIA,Pimienta Negra Molida Frasco 56. 7 g,S/ 10.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,7.0,g,Pimienta Negra Molida Frasco 56.,10.6
+MAGGI,Cubo de Sabor Gallina 8 unidades,S/ 4.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,8.0,un,Cubo de Sabor Gallina ades,4.5
+SIBARITA,Pimienta 100% Pura 21.6 g,S/ 4.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,21.6,g,Pimienta 100% Pura,4.1
+AJINOMIX,Sazonador de arroz Deliarroz 6 unidades,S/ 1.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Sazonador de arroz Deliarroz ades,1.9
+MAGGI,Mezcla de aderezo en polvo para pollo a la brasa de 45 g,S/ 3.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,45.0,g,Mezcla de aderezo en polvo para pollo a la brasa de,3.5
+PIKI,Aderezo para Pavo 350 g,S/ 9.30,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,g,Aderezo para Pavo,9.3
+PIKI,Aderezo para Pollo 200 g,S/ 11,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,200.0,g,Aderezo para Pollo,11.0
+PIKI,Aderezo para Pollo 350 g,S/ 3.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,g,Aderezo para Pollo,3.1
+EL OLIVAR,Aderezo Casero 500 g,S/ 15,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,g,Aderezo Casero,15.0
+EL OLIVAR,Aderezo Casero 1 kg,S/ 28,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,1.0,kg,Aderezo Casero,28.0
+EL OLIVAR,Aderezo Casero 200 g,S/ 8.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,200.0,g,Aderezo Casero,8.5
+SAM WONG,Aderezo Cantonés 85 g,S/ 5,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,85.0,g,Aderezo Cantonés,5.0
+2 BANDERAS,Aderezo Oriental 85 g,S/ 3.80,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,85.0,g,Aderezo Oriental,3.8
+PIKI,ADEREZO PARA CERDO 350 GRS.,S/ 10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,g,ADEREZO PARA CERDO RS.,10.0
+SAM WONG,Aderezo Especial 90 g,S/ 4.56,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,90.0,g,Aderezo Especial,4.56
+2 BANDERAS,Aderezo para Pachamanca 300 g,S/ 9.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,300.0,g,Aderezo para Pachamanca,9.9
+SAM WONG,Aderezo para Hornear 220 g,S/ 9.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,220.0,g,Aderezo para Hornear,9.6
+2 BANDERAS,Aderezo para Adobo 100 g,S/ 3.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,100.0,g,Aderezo para Adobo,3.4
+MAGGI,Cubo de Sabor a Carne 8 unidades,S/ 4.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,8.0,un,Cubo de Sabor a Carne ades,4.5
+AJINOMOTO,Sazonador Bolsa 250 g,S/ 6.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,250.0,g,Sazonador Bolsa,6.1
+2 BANDERAS,Aderezo Criollo Bbq 90 g,S/ 3.45,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,90.0,g,Aderezo Criollo Bbq,3.45
+SAM WONG,Aderezo Especial Parrillero 400 g,S/ 15,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,Aderezo Especial Parrillero,15.0
+SIBARITA,Ajo molido Siba de 250 g,S/ 15,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,250.0,g,Ajo molido Siba de,15.0
+TOTTUS,Vinagre de Manzana 500 mL,S/ 8.30,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,ml,Vinagre de Manzana,8.3
+AJINOMOTO,Caldo Sabor Costilla de Res Doña Gusta 6 Unidades,S/ 2.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Caldo Sabor Costilla de Res Doña Gusta ades,2.2
+BADIA,Pimienta negra molida 198 g,S/ 34.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,198.0,g,Pimienta negra molida,34.5
+TOTTUS,Canela molida de 50 g,S/ 8,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,50.0,g,Canela molida de,8.0
+ALACENA,Salsa de Rocoto Uchucuta 400 g,S/ 13.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,Salsa de Rocoto Uchucuta,13.5
+PIKI,Ajo Molido 350 g,S/ 12.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,g,Ajo Molido,12.1
+BADIA,Ajo en Polvo 85.5 g,S/ 11.70,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,85.5,g,Ajo en Polvo,11.7
+ALACENA,Mayonesa 190 g,S/ 8.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,190.0,g,Mayonesa,8.6
+SIBARITA,Comino 216 g,S/ 4.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,216.0,g,Comino,4.2
+AJINOMOTO,SOPA INSTANTANEA VASO SABOR GALLINA PICANTE X 51G,S/ 3.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,51.0,g,SOPA INSTANTANEA VASO SABOR GALLINA PICANTE X,3.4
+SIBARITA,Sazonador Panquita Pack 3 Unidades,S/ 3.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,3.0,un,Sazonador Panquita Pack ades,3.6
+BADIA,Ajo en polvo 297 g,S/ 28.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,297.0,g,Ajo en polvo,28.9
+TOTTUS,Orégano molido 35 g,S/ 5.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,35.0,g,Orégano molido,5.2
+TOTTUS,Ajos en polvo de 50 g,S/ 7,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,50.0,g,Ajos en polvo de,7.0
+ALACENA,Ketchup 380 g,S/ 9.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,380.0,g,Ketchup,9.5
+MARINA,Sal de mar de mesa Emsal de 1 kg,S/ 2.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,1.0,kg,Sal de mar de mesa Emsal de,2.5
+SIBARITA,Ajo Molido 3 Unidades 72 g,S/ 4.75,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,3.0,un,Ajo Molido ades,4.75
+ALACENA,MAYONESA LIGHT 400 GR,S/ 14.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,MAYONESA LIGHT R,14.9
+TOTTUS,Pimienta Negra Molida 20 g,S/ 2.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,20.0,g,Pimienta Negra Molida,2.5
+TOTTUS,Hongos y Laurel 10 g,S/ 2,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,10.0,g,Hongos y Laurel,2.0
+TOTTUS,Pimiento Paprika 45 g,S/ 5.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,45.0,g,Pimiento Paprika,5.9
+SIBARITA,Orégano Pack 6 Unidades,S/ 2.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Orégano Pack ades,2.2
+COSTENO,Sazonador Pops Costeño de Mantequilla de 81 g,S/ 10.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,81.0,g,Sazonador Pops Costeño de Mantequilla de,10.9
+BADIA,Pimentón en Polvo Frasco 56.7 g,S/ 11.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,56.7,g,Pimentón en Polvo Frasco,11.1
+AJINOMOTO,Caldo Sabor Carne Doña Gusta 6 Unidades,S/ 2.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Caldo Sabor Carne Doña Gusta ades,2.2
+SIBARITA,Tuco Tallarines 50.4 g,S/ 5.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,50.4,g,Tuco Tallarines,5.2
+BADIA,Canela en Polvo 56.7 g,S/ 10.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,56.7,g,Canela en Polvo,10.4
+TOTTUS,Canela Entera 5 g,S/ 2.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,5.0,g,Canela Entera,2.1
+SIBARITA,Sazonador 6 unidades,S/ 2.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,6.0,un,Sazonador ades,2.6
+TOTTUS,Romero 10 g,S/ 2.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,10.0,g,Romero,2.5
+TOTTUS,Pimienta blanca molida 60 g,S/ 8,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,60.0,g,Pimienta blanca molida,8.0
+KIKKO,Salsa De Tamarindo Wantan Frasco x 350 mL,S/ 8.64,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,ml,Salsa De Tamarindo Wantan Frasco x,8.64
+BADIA,Kión Molido Frasco 42.5 g,S/ 9.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,42.5,g,Kión Molido Frasco,9.4
+,Nuez Moscada Entera Kariño 13 g,S/ 5.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,13.0,g,Nuez Moscada Entera Kariño,5.9
+BADIA,Sazón Completa 99.2 g,S/ 10.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,99.2,g,Sazón Completa,10.6
+,Orégano Entero Kariño 18 g,S/ 3.30,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,18.0,g,Orégano Entero Kariño,3.3
+AJINOSILLAO,Ajino Sillao 500 mL,S/ 4.70,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,ml,Ajino Sillao,4.7
+AJINOMIX,Mezcla lista para empanizar picante Ajinomoto 80 g,S/ 3,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,80.0,g,Mezcla lista para empanizar picante Ajinomoto,3.0
+SIBARITA,Hongos y Laurel 10 g,S/ 2.70,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,10.0,g,Hongos y Laurel,2.7
+CARMENCITA,Nuez Moscada Molida 30 g,S/ 16.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,30.0,g,Nuez Moscada Molida,16.9
+BADIA,Perejil 7 g,S/ 4.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,7.0,g,Perejil,4.5
+,Clavo de Olor Entero Kariño 8 g,S/ 4.20,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,8.0,g,Clavo de Olor Entero Kariño,4.2
+SIBARITA,Canela Entera 10 g,S/ 3.70,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,10.0,g,Canela Entera,3.7
+TOTTUS,Ají Criollo 400g,S/ 13.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,400.0,g,Ají Criollo,13.9
+COSTENO,Arveja Partida Costeño 500 g,S/ 4.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,500.0,g,Arveja Partida Costeño,4.4
+SIBARITA,Ají Amarillo En Pasta Amarillin Doypack x 550 g,S/ 18.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,550.0,g,Ají Amarillo En Pasta Amarillin Doypack x,18.1
+AJINOMOTO,Sazonador Bolsa 100 g,S/ 2.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,100.0,g,Sazonador Bolsa,2.9
+TOTTUS,Ajonjolí 20 g,S/ 2.10,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,20.0,g,Ajonjolí,2.1
+MAGGI,CUBITOCARNE MAGGIX100G,S/ 5.50,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,100.0,g,CUBITOCARNE MAGGIX,5.5
+SIBARITA,Ají Especial Panquita 250 g,S/ 8.40,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,250.0,g,Ají Especial Panquita,8.4
+HELLMANN'S,HELLMANNS MAYONESA REAL REGULAR POTE X 443 ML,S/ 18.90,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,443.0,ml,HELLMANNS MAYONESA REAL REGULAR POTE X,18.9
+KIKKO,Salsa De Soya Ajoikion Frasco x 350 mL,S/ 4.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,350.0,ml,Salsa De Soya Ajoikion Frasco x,4.6
+UNIVERSAL,Maicena 100g,S/ 2.60,tottus,ADEREZOS HIDRATADOS,2024-12-07 14:06:52.167632,100.0,g,Maicena,2.6

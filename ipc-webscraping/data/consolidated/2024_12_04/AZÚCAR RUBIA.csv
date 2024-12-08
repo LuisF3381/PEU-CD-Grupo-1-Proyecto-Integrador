@@ -1,50 +1,46 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Azúcar Impalpable UNIVERSAL Bolsa 200gr,S/ 3.10,vega,AZÚCAR RUBIA,2024-12-04 14:24:40.232076,200.0,g,Azúcar Impalpable UNIVERSAL Bolsa r,3.1,vega,,Universal,AZÚCAR RUBIA
-Azúcar Rubia Máxima 1kg,S/ 4.40,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,1.0,kg,Azúcar Rubia Máxima,4.4,metro,,,AZÚCAR RUBIA
-Azúcar Rubia BELL'S Bolsa 1Kg,S/ 4.60,vivanda,AZÚCAR RUBIA,2024-12-04 18:03:48.770750,1.0,kg,Azúcar Rubia BELL'S Bolsa,4.6,vivanda,,BELL'S,AZÚCAR RUBIA
-Azúcar Rubia BELL'S Bolsa 1Kg,S/ 4.60 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,1.0,kg,Azúcar Rubia BELL'S Bolsa,4.6,plaza_vea,Bolsa 1kg,,AZÚCAR RUBIA
-Azúcar Rubia TIMONEL Bolsa 1Kg,S/ 4.80,vega,AZÚCAR RUBIA,2024-12-04 14:24:40.232076,1.0,kg,Azúcar Rubia TIMONEL Bolsa,4.8,vega,,Timonel,AZÚCAR RUBIA
-Azúcar Rubia Cuisine & Co 1kg,S/ 4.90,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,1.0,kg,Azúcar Rubia Cuisine & Co,4.9,wong,,,AZÚCAR RUBIA
-Azúcar Rubia SAN JACINTO Bolsa 1Kg,S/ 4.90 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,1.0,kg,Azúcar Rubia SAN JACINTO Bolsa,4.9,plaza_vea,Bolsa 1Kg,,AZÚCAR RUBIA
-Azúcar Rubia CARTAVIO Bolsa 1Kg,S/ 5.10,vivanda,AZÚCAR RUBIA,2024-12-04 18:03:48.770750,1.0,kg,Azúcar Rubia CARTAVIO Bolsa,5.1,vivanda,,CARTAVIO,AZÚCAR RUBIA
-Azúcar Rubia DULFINA Bolsa 1Kg,S/ 5.10 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,1.0,kg,Azúcar Rubia DULFINA Bolsa,5.1,plaza_vea,Bolsa 1Kg,,AZÚCAR RUBIA
-Azúcar Rubia CARTAVIO Bolsa 1Kg,S/ 5.10,vega,AZÚCAR RUBIA,2024-12-04 14:24:40.232076,1.0,kg,Azúcar Rubia CARTAVIO Bolsa,5.1,vega,,Cartavio,AZÚCAR RUBIA
-Azúcar Rubia Dulfina Bolsa 1 kg,S/ 5.10,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,1.0,kg,Azúcar Rubia Dulfina Bolsa,5.1,metro,,,AZÚCAR RUBIA
-Azúcar Rubia Paramonga 1kg,S/ 5.20,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,1.0,kg,Azúcar Rubia Paramonga,5.2,metro,,,AZÚCAR RUBIA
-Azúcar Rubia 1 kg,S/ 5.20,tottus,AZÚCAR RUBIA,2024-12-04 13:46:46.539871,1.0,kg,Azúcar Rubia,5.2,tottus,,DULFINA,AZÚCAR RUBIA
-Azúcar Rubia COSTEÑO Bolsa 1Kg,S/ 5.90 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,1.0,kg,Azúcar Rubia COSTEÑO Bolsa,5.9,plaza_vea,Bolsa 1kg,,AZÚCAR RUBIA
-Azúcar Rubia Con Stevia Cuisine&Co Doypack 500 g,S/ 6.90,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,500.0,g,Azúcar Rubia Con Stevia Cuisine&Co Doypack,6.9,metro,,,AZÚCAR RUBIA
-Azúcar Rubia ONZA Light con Stevia Doypack 500g,S/ 7.30,vivanda,AZÚCAR RUBIA,2024-12-04 18:03:48.770750,500.0,g,Azúcar Rubia ONZA Light con Stevia Doypack,7.3,vivanda,,ONZA,AZÚCAR RUBIA
-Azúcar rubia con Stevia 500 gr,S/ 7.50,tottus,AZÚCAR RUBIA,2024-12-04 13:46:46.539871,500.0,g,Azúcar rubia con Stevia r,7.5,tottus,,TOTTUS,AZÚCAR RUBIA
-Azúcar Rubia Con Stevia Cuisine&Co Doypack 500 g,S/ 7.90,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,500.0,g,Azúcar Rubia Con Stevia Cuisine&Co Doypack,7.9,wong,,,AZÚCAR RUBIA
-Azúcar Rubia Onza 60un,S/ 8.20,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,60.0,un,Azúcar Rubia Onza,8.2,metro,,,AZÚCAR RUBIA
-Azúcar Rubia Onza 60un,S/ 8.30,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,60.0,un,Azúcar Rubia Onza,8.3,wong,,,AZÚCAR RUBIA
-Azúcar Rubia BELL'S Bolsa 2Kg,S/ 8.60,vivanda,AZÚCAR RUBIA,2024-12-04 18:03:48.770750,2.0,kg,Azúcar Rubia BELL'S Bolsa,8.6,vivanda,,BELL'S,AZÚCAR RUBIA
-Azúcar Rubia BELL'S Bolsa 2Kg,S/ 8.60 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,2.0,kg,Azúcar Rubia BELL'S Bolsa,8.6,plaza_vea,Bolsa 2kg,,AZÚCAR RUBIA
-Azúcar rubia light 500 gr,S/ 9.20,tottus,AZÚCAR RUBIA,2024-12-04 13:46:46.539871,500.0,g,Azúcar rubia light r,9.2,tottus,,ONZA,AZÚCAR RUBIA
-Azúcar Rubia DULFINA Bolsa 2Kg,S/ 9.50 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,2.0,kg,Azúcar Rubia DULFINA Bolsa,9.5,plaza_vea,Bolsa 2Kg,,AZÚCAR RUBIA
-Azúcar Rubia Dulfina Bolsa 2 kg,S/ 9.50,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,2.0,kg,Azúcar Rubia Dulfina Bolsa,9.5,wong,,,AZÚCAR RUBIA
-Panela Orgánica Onza 500g,S/ 10.00,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,500.0,g,Panela Orgánica Onza,10.0,metro,,,AZÚCAR RUBIA
-Panela Orgánica Onza 500g,S/ 10.00,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,500.0,g,Panela Orgánica Onza,10.0,wong,,,AZÚCAR RUBIA
-Azúcar Rubia COSTEÑO Bolsa 2Kg,S/ 10.80 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,2.0,kg,Azúcar Rubia COSTEÑO Bolsa,10.8,plaza_vea,Bolsa 2Kg,,AZÚCAR RUBIA
-Panela Orgánica Panela de Piura Caja 400 g,S/ 10.80,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,400.0,g,Panela Orgánica Panela de Piura Caja,10.8,wong,,,AZÚCAR RUBIA
-Panela Orgánica Onza 50un,S/ 10.90,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,50.0,un,Panela Orgánica Onza,10.9,metro,,,AZÚCAR RUBIA
-Panela Orgánica Onza 50un,S/ 10.90,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,50.0,un,Panela Orgánica Onza,10.9,wong,,,AZÚCAR RUBIA
-Panela Orgánica Cuisine & Co 1kg,S/ 14.60,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,1.0,kg,Panela Orgánica Cuisine & Co,14.6,wong,,,AZÚCAR RUBIA
-Azúcar de Coco Mi Tierra 250g,S/ 17.10,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,250.0,g,Azúcar de Coco Mi Tierra,17.1,wong,,,AZÚCAR RUBIA
-Azúcar Rubia Máxima Bolsa 5 kg,S/ 20.30,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,5.0,kg,Azúcar Rubia Máxima Bolsa,20.3,metro,,,AZÚCAR RUBIA
-Azúcar Rubia Metro 5kg,S/ 20.50,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,5.0,kg,Azúcar Rubia Metro,20.5,metro,,,AZÚCAR RUBIA
-Azúcar Rubia 5 kg,S/ 20.90,tottus,AZÚCAR RUBIA,2024-12-04 13:46:46.539871,5.0,kg,Azúcar Rubia,20.9,tottus,,TOTTUS,AZÚCAR RUBIA
-Azúcar Rubia Cuisine & Co 5kg,S/ 21.50,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,5.0,kg,Azúcar Rubia Cuisine & Co,21.5,wong,,,AZÚCAR RUBIA
-Azúcar Rubia Cuisine & Co 5kg,S/ 21.50,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,5.0,kg,Azúcar Rubia Cuisine & Co,21.5,metro,,,AZÚCAR RUBIA
-Azúcar Rubia Wong Bolsa 5 kg,S/ 21.90,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,5.0,kg,Azúcar Rubia Wong Bolsa,21.9,wong,,,AZÚCAR RUBIA
-Azúcar Rubia CARTAVIO Bolsa 5Kg,S/ 21.90 un,plaza_vea,AZÚCAR RUBIA,2024-12-04 14:18:51.855612,5.0,kg,Azúcar Rubia CARTAVIO Bolsa,21.9,plaza_vea,Bolsa 5kg,,AZÚCAR RUBIA
-Azúcar Rubia Dulfina Bolsa 5 kg,S/ 22.80,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,5.0,kg,Azúcar Rubia Dulfina Bolsa,22.8,metro,,,AZÚCAR RUBIA
-Azúcar Rubia DULFINA Bolsa 5Kg,S/ 22.90,vivanda,AZÚCAR RUBIA,2024-12-04 18:03:48.770750,5.0,kg,Azúcar Rubia DULFINA Bolsa,22.9,vivanda,,DULFINA,AZÚCAR RUBIA
-Azúcar Rubia Paramonga Bolsa 5 kg,S/ 22.90,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,5.0,kg,Azúcar Rubia Paramonga Bolsa,22.9,metro,,,AZÚCAR RUBIA
-Azúcar Rubia Paramonga Bolsa 5 kg,S/ 23.50,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,5.0,kg,Azúcar Rubia Paramonga Bolsa,23.5,wong,,,AZÚCAR RUBIA
-Panela Orgánica Granulada Panela de Piura Frasco 200 g,S/ 23.90,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,200.0,g,Panela Orgánica Granulada Panela de Piura Frasco,23.9,wong,,,AZÚCAR RUBIA
-Azúcar de Coco Cuisine & Co 450g,S/ 26.70,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,450.0,g,Azúcar de Coco Cuisine & Co,26.7,metro,,,AZÚCAR RUBIA
-Azúcar de Coco Orgánico Coco-Sugar Doypack 454 g,S/ 30.60,wong,AZÚCAR RUBIA,2024-12-04 20:06:25.072027,454.0,g,Azúcar de Coco Orgánico Coco-Sugar Doypack,30.6,wong,,,AZÚCAR RUBIA
-Endulzante Golden 454 gr,S/ 69,tottus,AZÚCAR RUBIA,2024-12-04 13:46:46.539871,454.0,g,Endulzante Golden r,69.0,tottus,,LAKANTO,AZÚCAR RUBIA
-Azucar Rubia Paramonga Bolsa 25 kg,S/ 107.90,metro,AZÚCAR RUBIA,2024-12-04 21:56:40.349550,25.0,kg,Azucar Rubia Paramonga Bolsa,107.9,metro,,,AZÚCAR RUBIA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Azúcar Rubia BELL'S Bolsa 1Kg,,1.0,kg,4.6,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,4.6,AZÚCAR RUBIA
+Azúcar Rubia BELL'S Bolsa 1Kg,BELL'S,1.0,kg,4.6,vivanda,2024-12-04 18:03:48.770750,AZÚCAR RUBIA,1.0,kg,4.6,AZÚCAR RUBIA
+Azúcar Rubia Metro 1kg,,1.0,kg,4.6,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.6,AZÚCAR RUBIA
+Azúcar Rubia VEGA Bolsa 1Kg,Vega,1.0,kg,4.6,vega,2024-12-04 14:24:40.232076,AZÚCAR RUBIA,1.0,kg,4.6,AZÚCAR RUBIA
+Azúcar Rubia Cuisine & Co 1kg,,1.0,kg,4.8,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.8,AZÚCAR RUBIA
+Azúcar Rubia SAN JACINTO Bolsa 1Kg,,1.0,kg,4.9,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,4.9,AZÚCAR RUBIA
+Azúcar Rubia CARTAVIO Bolsa 1Kg,CARTAVIO,1.0,kg,5.1,vivanda,2024-12-04 18:03:48.770750,AZÚCAR RUBIA,1.0,kg,5.1,AZÚCAR RUBIA
+Azúcar Rubia DULFINA Bolsa 1Kg,,1.0,kg,5.1,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,5.1,AZÚCAR RUBIA
+Azúcar Rubia Dulfina Bolsa 1 kg,,1.0,kg,5.1,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,5.1,AZÚCAR RUBIA
+Azúcar Rubia Paramonga 1kg,,1.0,kg,5.2,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,5.2,AZÚCAR RUBIA
+Azúcar Rubia 1 kg,DULFINA,1.0,kg,5.2,tottus,2024-12-04 13:46:46.539871,AZÚCAR RUBIA,1.0,kg,5.2,AZÚCAR RUBIA
+Azúcar Rubia Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,6.9,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,13.8,AZÚCAR RUBIA
+Azúcar Rubia ONZA Light con Stevia Doypack 500g,ONZA,500.0,g,7.3,vivanda,2024-12-04 18:03:48.770750,AZÚCAR RUBIA,1.0,kg,14.6,AZÚCAR RUBIA
+Azúcar Rubia Con Stevia Cuisine&Co Doypack 500 g,,500.0,g,7.9,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,15.8,AZÚCAR RUBIA
+Azúcar Rubia BELL'S Bolsa 2Kg,BELL'S,2.0,kg,8.6,vivanda,2024-12-04 18:03:48.770750,AZÚCAR RUBIA,1.0,kg,4.3,AZÚCAR RUBIA
+Azúcar Rubia Wong Bolsa 2 kg,,2.0,kg,8.9,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,4.45,AZÚCAR RUBIA
+Panela Orgánica de Piura Cuisine & Co Doypack 350 g,,350.0,g,8.9,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,25.42857142857143,AZÚCAR RUBIA
+Azúcar rubia light 500 gr,ONZA,500.0,g,9.2,tottus,2024-12-04 13:46:46.539871,AZÚCAR RUBIA,1.0,kg,18.4,AZÚCAR RUBIA
+Azúcar Rubia DULFINA Bolsa 2Kg,,2.0,kg,9.5,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,4.75,AZÚCAR RUBIA
+Panela Orgánica Onza 500g,,500.0,g,10.0,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,20.0,AZÚCAR RUBIA
+Panela Orgánica Panela de Piura Caja 400 g,,400.0,g,10.8,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,27.0,AZÚCAR RUBIA
+Azúcar Rubia COSTEÑO Bolsa 2Kg,,2.0,kg,10.8,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,5.4,AZÚCAR RUBIA
+Panela Orgánica Panela de Piura Caja 400 g,,400.0,g,10.8,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,27.0,AZÚCAR RUBIA
+Panela Granulada Ecopanela 1kg,,1.0,kg,13.9,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,13.9,AZÚCAR RUBIA
+Azúcar de Coco Mi Tierra 250g,,250.0,g,17.1,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,68.4,AZÚCAR RUBIA
+Azúcar Rubia BELL'S Bolsa 5Kg,,5.0,kg,19.8,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,3.9600000000000004,AZÚCAR RUBIA
+Azúcar Rubia VEGA Bolsa 5Kg,Vega,5.0,kg,20.2,vega,2024-12-04 14:24:40.232076,AZÚCAR RUBIA,1.0,kg,4.04,AZÚCAR RUBIA
+Azúcar Rubia Máxima Bolsa 5 kg,,5.0,kg,20.3,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.0600000000000005,AZÚCAR RUBIA
+Azúcar Rubia Metro 5kg,,5.0,kg,20.5,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.1000000000000005,AZÚCAR RUBIA
+Azúcar Rubia 5 kg,TOTTUS,5.0,kg,20.9,tottus,2024-12-04 13:46:46.539871,AZÚCAR RUBIA,1.0,kg,4.18,AZÚCAR RUBIA
+Azúcar Rubia TIMONEL Bolsa 5Kg,Timonel,5.0,kg,21.2,vega,2024-12-04 14:24:40.232076,AZÚCAR RUBIA,1.0,kg,4.24,AZÚCAR RUBIA
+Azúcar Rubia Cuisine & Co 5kg,,5.0,kg,21.5,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,4.3,AZÚCAR RUBIA
+Azúcar Rubia Cuisine & Co 5kg,,5.0,kg,21.5,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.3,AZÚCAR RUBIA
+Azúcar Rubia Wong Bolsa 5 kg,,5.0,kg,21.9,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,4.38,AZÚCAR RUBIA
+Azúcar Rubia CARTAVIO Bolsa 5Kg,CARTAVIO,5.0,kg,21.9,vivanda,2024-12-04 18:03:48.770750,AZÚCAR RUBIA,1.0,kg,4.38,AZÚCAR RUBIA
+Azúcar Rubia SAN JACINTO Bolsa 5Kg,,5.0,kg,21.9,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,4.38,AZÚCAR RUBIA
+Azúcar Rubia CARTAVIO Bolsa 5Kg,Cartavio,5.0,kg,22.0,vega,2024-12-04 14:24:40.232076,AZÚCAR RUBIA,1.0,kg,4.4,AZÚCAR RUBIA
+Azúcar Rubia DULFINA Bolsa 5Kg,,5.0,kg,22.19,plaza_vea,2024-12-04 14:18:51.855612,AZÚCAR RUBIA,1.0,kg,4.438000000000001,AZÚCAR RUBIA
+Azúcar Rubia Dulfina Bolsa 5 kg,,5.0,kg,22.8,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.5600000000000005,AZÚCAR RUBIA
+Azúcar Rubia Paramonga Bolsa 5 kg,,5.0,kg,22.9,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,4.58,AZÚCAR RUBIA
+Azúcar Rubia Paramonga Bolsa 5 kg,,5.0,kg,23.5,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,4.7,AZÚCAR RUBIA
+Panela Orgánica Granulada Panela de Piura Frasco 200 g,,200.0,g,23.9,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,119.5,AZÚCAR RUBIA
+Azúcar de Coco Cuisine & Co 450g,,450.0,g,26.7,metro,2024-12-04 21:56:40.349550,AZÚCAR RUBIA,1.0,kg,59.333333333333336,AZÚCAR RUBIA
+Azúcar de Coco Cuisine & Co 450g,,450.0,g,26.7,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,59.333333333333336,AZÚCAR RUBIA
+Azúcar de Coco Orgánico Coco-Sugar Doypack 454 g,,454.0,g,30.6,wong,2024-12-04 20:06:25.072027,AZÚCAR RUBIA,1.0,kg,67.40088105726872,AZÚCAR RUBIA

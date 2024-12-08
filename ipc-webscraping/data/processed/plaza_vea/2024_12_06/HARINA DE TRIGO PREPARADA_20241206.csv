@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 1kg,Harina de Trigo Preparada BLANCA FLOR Bolsa 1K...,S/ 8.49 un,plaza_vea,HARINA DE TRIGO PREPARADA,2024-12-06 13:07:58.406345,1.0,kg,Harina de Trigo Preparada BLANCA FLOR Bolsa 1K,8.49
+Bolsa 1kg,Harina BELL'S De trigo preparada Bolsa 1Kg,S/ 6.90 un,plaza_vea,HARINA DE TRIGO PREPARADA,2024-12-06 13:07:58.406345,1.0,kg,Harina BELL'S De trigo preparada Bolsa,6.9
+Bolsa 1kg,Harina de Trigo NICOLINI Preparada Bolsa 1Kg,S/ 6.99 un,plaza_vea,HARINA DE TRIGO PREPARADA,2024-12-06 13:07:58.406345,1.0,kg,Harina de Trigo NICOLINI Preparada Bolsa,6.99

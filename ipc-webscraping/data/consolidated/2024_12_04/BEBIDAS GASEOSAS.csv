@@ -1,267 +1,267 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Pepsi Black Botella 355ml,S/ 1.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Pepsi Black Botella,1.0,metro,,BEBIDAS GASEOSAS
-Bebida Gaseosa Backus Botella X300mL,S/ 1.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,300.0,ml,Bebida Gaseosa Backus Botella X,1.2,tottus,GUARANA,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella 355 ml,S/ 1.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Pepsi Botella,1.3,metro,,BEBIDAS GASEOSAS
-Gaseosa Cool Fresh Sabor Cola Botella 350ml,S/ 1.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,350.0,ml,Gaseosa Cool Fresh Sabor Cola Botella,1.3,metro,,BEBIDAS GASEOSAS
-Gaseosa Cool Fresh Sabor Cola Amarilla Botella 350ml,S/ 1.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,350.0,ml,Gaseosa Cool Fresh Sabor Cola Amarilla Botella,1.3,metro,,BEBIDAS GASEOSAS
-Gaseosa Cola 355 mL,S/ 1.30,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa Cola,1.3,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa Oro Botella 350ml,S/ 1.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,350.0,ml,Gaseosa Oro Botella,1.3,metro,,BEBIDAS GASEOSAS
-Gaseosa Guaranita Botella 300 ml,S/ 1.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,300.0,ml,Gaseosa Guaranita Botella,1.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Sabor Piña 500 mL,S/ 1.60,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,500.0,ml,Gaseosa Sabor Piña,1.6,tottus,CONCORDIA,BEBIDAS GASEOSAS
-Gaseosa Guaranita Botella 300 ml,S/ 1.60,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Gaseosa Guaranita Botella,1.6,wong,,BEBIDAS GASEOSAS
-Bebida H20H Limoneto Botella 500 ml,S/ 1.80,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Bebida H20H Limoneto Botella,1.8,metro,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Regular Botella 500ml,S/ 2.20,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Pepsi Regular Botella,2.2,metro,,BEBIDAS GASEOSAS
-Gaseosa 7Up Botella 500 ml,S/ 2.20,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa 7Up Botella,2.2,metro,,BEBIDAS GASEOSAS
-Gaseosa 7Up Botella 500 ml,S/ 2.20,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa 7Up Botella,2.2,wong,,BEBIDAS GASEOSAS
-Bebida Gaseosa Backus Zero Bot X450mL,S/ 2.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,450.0,ml,Bebida Gaseosa Backus Zero Bot X,2.2,tottus,GUARANA,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella 600ml,S/ 2.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,600.0,ml,Gaseosa Pepsi Botella,2.4,wong,,BEBIDAS GASEOSAS
-Bebida Rehidratante Sabor Manzana 500 mL,S/ 2.40,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,500.0,ml,Bebida Rehidratante Sabor Manzana,2.4,tottus,GATORADE,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 450ml,S/ 2.40,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,450.0,ml,Gaseosa Guarana Botella,2.4,metro,,BEBIDAS GASEOSAS
-Bebida Energizante 300 mL,S/ 2.49,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,300.0,ml,Bebida Energizante,2.49,tottus,VOLT,BEBIDAS GASEOSAS
-Bebida energizante de blueberry con maca de 300 mL,S/ 2.49,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,300.0,ml,Bebida energizante de blueberry con maca de,2.49,tottus,VOLT,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 300ml,S/ 2.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,300.0,ml,Gaseosa Inca Kola Sin Azúcar Botella,2.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 300ml,S/ 2.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Gaseosa Inca Kola Sin Azúcar Botella,2.5,wong,,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 450ml,S/ 2.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,450.0,ml,Gaseosa Guarana Botella,2.5,wong,,BEBIDAS GASEOSAS
-Gaseosa Cola 600 mL,S/ 2.70,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,600.0,ml,Gaseosa Cola,2.7,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa sabor Naranja 500 mL,S/ 2.70,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,500.0,ml,Gaseosa sabor Naranja,2.7,tottus,FANTA,BEBIDAS GASEOSAS
-Gaseosa Fanta Kola Inglesa Botella 500ml,S/ 2.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Fanta Kola Inglesa Botella,2.7,wong,,BEBIDAS GASEOSAS
-Gaseosa Sprite Lima Limón Botella 500ml,S/ 2.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Sprite Lima Limón Botella,2.7,wong,,BEBIDAS GASEOSAS
-Gaseosa FANTA Manzana Beetlejuice Botella 500ml,S/ 2.70,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Gaseosa FANTA Manzana Beetlejuice Botella,2.7,vivanda,FANTA,BEBIDAS GASEOSAS
-Gaseosa Fanta Piña Botella 500ml,S/ 2.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Fanta Piña Botella,2.7,wong,,BEBIDAS GASEOSAS
-Gaseosa Fanta Botella 500ml,S/ 2.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Fanta Botella,2.7,metro,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella x 750 ml,S/ 2.80,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,750.0,ml,Gaseosa Pepsi Botella x,2.8,wong,,BEBIDAS GASEOSAS
-Gaseosa Schweppes Ginger Ale Botella 500ml,S/ 2.80,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Schweppes Ginger Ale Botella,2.8,metro,,BEBIDAS GASEOSAS
-Gaseosa Cola 750 mL,S/ 2.80,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,750.0,ml,Gaseosa Cola,2.8,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella x 750 ml,S/ 2.80,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,750.0,ml,Gaseosa Pepsi Botella x,2.8,metro,,BEBIDAS GASEOSAS
-Gaseosa Schweppes Ginger Ale Botella 500ml,S/ 2.80,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Schweppes Ginger Ale Botella,2.8,wong,,BEBIDAS GASEOSAS
-Gaseosa Guarana Zero Botella 450 ml,S/ 2.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,450.0,ml,Gaseosa Guarana Zero Botella,2.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 500ml,S/ 3.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Inca Kola Sabor Original Botella,3.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 500ml,S/ 3.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Inca Kola Sabor Original Botella,3.0,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 500ml,S/ 3.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Coca Cola Sin Azúcar Botella,3.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 500ml,S/ 3.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Inca Kola Sin Azúcar Botella,3.0,metro,,BEBIDAS GASEOSAS
-Bebida Aloe KERO Piña Botella 300ml,S/ 3.00,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,300.0,ml,Bebida Aloe KERO Piña Botella,3.0,vivanda,KERO,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Sabor Original Botella 500ml,S/ 3.00,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Gaseosa INCA KOLA Sabor Original Botella,3.0,vivanda,INCA KOLA,BEBIDAS GASEOSAS
-Gaseosa 500 mL,S/ 3.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,500.0,ml,Gaseosa,3.2,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 1 L,S/ 3.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.0,l,Gaseosa Guarana Botella,3.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Cola 1 L,S/ 3.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.0,l,Gaseosa Cola,3.5,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa Kola Escocesa Botella 600ml,S/ 3.80,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,600.0,ml,Gaseosa Kola Escocesa Botella,3.8,metro,,BEBIDAS GASEOSAS
-Gaseosa Big Cola Lata 355ml,S/ 3.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Big Cola Lata,3.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Big Cola Lata 355ml,S/ 3.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Big Cola Lata,3.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Zero Azúcar Botella 1.5L,S/ 3.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Gaseosa Pepsi Zero Azúcar Botella,3.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 1L,S/ 4.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.0,l,Gaseosa Inca Kola Sin Azúcar Botella,4.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 1L,S/ 4.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.0,l,Gaseosa Inca Kola Sabor Original Botella,4.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Botella 1L,S/ 4.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.0,l,Gaseosa Coca Cola Botella,4.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 1L,S/ 4.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.0,l,Gaseosa Coca Cola Sin Azúcar Botella,4.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca-Cola Sin Azúcar 1 L,S/ 4.10,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.0,l,Gaseosa Coca-Cola Sin Azúcar,4.1,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Coca-Cola sabor original de 1 L,S/ 4.10,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.0,l,Gaseosa Coca-Cola sabor original de,4.1,tottus,COCA COLA,BEBIDAS GASEOSAS
-GASEOSA 1.7LT,S/ 4.30,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.7,l,GASEOSA T,4.3,tottus,BIG COLA,BEBIDAS GASEOSAS
-Gaseosa Kolita Botella 1.7L,S/ 4.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.7,l,Gaseosa Kolita Botella,4.3,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 1L,S/ 4.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.0,l,Gaseosa Inca Kola Sabor Original Botella,4.5,wong,,BEBIDAS GASEOSAS
-Gaseosa 7 Up Botella 1.5 L,S/ 4.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa 7 Up Botella,4.5,metro,,BEBIDAS GASEOSAS
-Bebida FRUGOS Mango y Fresa Caja 1L,S/ 4.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Bebida FRUGOS Mango y Fresa Caja,4.5,vivanda,FRUGOS,BEBIDAS GASEOSAS
-Bebida Beauti Drink Collaskin 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,360.0,ml,Bebida Beauti Drink Collaskin,4.9,tottus,SAPPE,BEBIDAS GASEOSAS
-BEBIDA BEAUTI DRINK BEAUTITOX 360 ML,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,360.0,ml,BEBIDA BEAUTI DRINK BEAUTITOX,4.9,tottus,SAPPE,BEBIDAS GASEOSAS
-Bebida Beauti Drink Relaxing Calm 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,360.0,ml,Bebida Beauti Drink Relaxing Calm,4.9,tottus,SAPPE,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sin Azúcar Botella 1L,S/ 4.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Gaseosa COCA COLA Sin Azúcar Botella,4.9,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Sin Azúcar Botella 1L,S/ 4.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Gaseosa INCA KOLA Sin Azúcar Botella,4.9,vivanda,INCA KOLA,BEBIDAS GASEOSAS
-Gaseosa Zero Lata 355 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa Zero Lata,4.9,tottus,PEPSI,BEBIDAS GASEOSAS
-Bebida Beauti Drink Slim 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,360.0,ml,Bebida Beauti Drink Slim,4.9,tottus,SAPPE,BEBIDAS GASEOSAS
-Gaseosa KR Guaraná Botella 3.03L,S/ 4.99,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.03,l,Gaseosa KR Guaraná Botella,4.99,metro,,BEBIDAS GASEOSAS
-Gaseosa Oro Botella 3.03 L,S/ 4.99,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.03,l,Gaseosa Oro Botella,4.99,metro,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella 1.5L,S/ 5.13,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Pepsi Botella,5.13,metro,,BEBIDAS GASEOSAS
-Gaseosa Cola 1.5 L,S/ 5.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.5,l,Gaseosa Cola,5.2,tottus,PEPSI,BEBIDAS GASEOSAS
-Ginger Ale Wong Botella 1.5 L,S/ 5.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Ginger Ale Wong Botella,5.4,wong,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Lata 355 ml,S/ 5.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Pepsi Lata,5.5,wong,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Black Lata 355ml,S/ 5.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Pepsi Black Lata,5.5,wong,,BEBIDAS GASEOSAS
-Gaseosa 7UP En Lata 355 ml,S/ 5.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa 7UP En Lata,5.5,metro,,BEBIDAS GASEOSAS
-Gaseosa 7UP En Lata 355 ml,S/ 5.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa 7UP En Lata,5.5,wong,,BEBIDAS GASEOSAS
-Gaseosa Sabor Naranja 355 mL,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa Sabor Naranja,5.5,tottus,FANTA,BEBIDAS GASEOSAS
-Gaseosa sabor piña en lata de 355 mL,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa sabor piña en lata de,5.5,tottus,FANTA,BEBIDAS GASEOSAS
-Gaseosa Cola 2 L,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,2.0,l,Gaseosa Cola,5.5,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa Pepsi Lata 355 ml,S/ 5.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Pepsi Lata,5.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 2 L,S/ 5.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.0,l,Gaseosa Guarana Botella,5.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Mountain Dew Lata 355ml,S/ 5.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Mountain Dew Lata,5.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 2 L,S/ 5.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.0,l,Gaseosa Guarana Botella,5.9,wong,,BEBIDAS GASEOSAS
-Gaseosa 7 Up Botella 3 L,S/ 5.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa 7 Up Botella,5.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Sabor Piña 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Sabor Piña,5.9,tottus,CONCORDIA,BEBIDAS GASEOSAS
-Gaseosa Sabor Fresa 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Sabor Fresa,5.9,tottus,CONCORDIA,BEBIDAS GASEOSAS
-Gaseosa Seven Up 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Seven Up,5.9,tottus,7UP,BEBIDAS GASEOSAS
-BEBIDA ELECTROL FLASHLYTE UVA BOT X625ML,S/ 6,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,625.0,ml,BEBIDA ELECTROL FLASHLYTE UVA BOT X,6.0,tottus,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella No Retornable 2 L,S/ 6.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.0,l,Gaseosa Pepsi Botella No Retornable,6.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Kola Inglesa Botella 2.25L,S/ 6.40,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.25,l,Gaseosa Fanta Kola Inglesa Botella,6.4,metro,,BEBIDAS GASEOSAS
-Gaseosa Sprite Lima Limón Botella 2.25L,S/ 6.40,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.25,l,Gaseosa Sprite Lima Limón Botella,6.4,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Lata 355 ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Inca Kola Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Crush Grape Lata 355 ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Crush Grape Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Cherry Lata 355 ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Coca Cola Cherry Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Canada Dry Ginger Ale Lata 355ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Canada Dry Ginger Ale Lata,6.5,metro,,BEBIDAS GASEOSAS
-Bebida Rehidratante SUEROX Sabor a Fresa - Kiwi Botella 630ml,S/ 6.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,630.0,ml,Bebida Rehidratante SUEROX Sabor a Fresa - Kiwi Botella,6.5,vivanda,SUEROX,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Vainilla Lata 355 ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Coca Cola Vainilla Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Sprite Lata 355ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Sprite Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Sunkist Orange Lata 355ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Sunkist Orange Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Original Lata 355 ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Fanta Original Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Concordia Sabor Naranja Botella 3 Litros,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Concordia Sabor Naranja Botella itros,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Uva Lata 355ml,S/ 6.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Gaseosa Fanta Uva Lata,6.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Schweppes Citrus Botella 1.5L,S/ 6.60,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Schweppes Citrus Botella,6.6,metro,,BEBIDAS GASEOSAS
-Ginger Ale 1.5 L,S/ 6.60,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.5,l,Ginger Ale,6.6,tottus,SCHWEPPES,BEBIDAS GASEOSAS
-Gaseosa Concordia Sabor Fresa Botella 3 Litros,S/ 6.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Concordia Sabor Fresa Botella itros,6.7,metro,,BEBIDAS GASEOSAS
-Gaseosa Concordia Sabor Piña Botella 3 Litros,S/ 6.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Concordia Sabor Piña Botella itros,6.7,metro,,BEBIDAS GASEOSAS
-Bebida Carbonatada Malta Polar Lata 355ml,S/ 6.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,355.0,ml,Bebida Carbonatada Malta Polar Lata,6.7,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Clasica Lata 355ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Coca Cola Clasica Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Sprite Lima Limón Botella 3L,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Sprite Lima Limón Botella,6.9,wong,,BEBIDAS GASEOSAS
-Agua Tonica Canada Dry Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Agua Tonica Canada Dry Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 1.5L,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Gaseosa Coca Cola Sin Azúcar Botella,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa FANTA KOLA INGLESA Botella 3L,S/ 6.90,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.0,l,Gaseosa FANTA KOLA INGLESA Botella,6.9,vega,Fanta,BEBIDAS GASEOSAS
-Gaseosa FANTA Botella 3L,S/ 6.90,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.0,l,Gaseosa FANTA Botella,6.9,vega,Fanta,BEBIDAS GASEOSAS
-Gaseosa Fanta Kola Inglesa Botella 3L,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Fanta Kola Inglesa Botella,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Inca Kola Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Fanta Piña Botella 3L,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Fanta Piña Botella,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Big Cola Botella 3.03 L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.03,l,Gaseosa Big Cola Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Piña Botella 3L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Fanta Piña Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaeosa Crush Fresa Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaeosa Crush Fresa Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 1.5L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Inca Kola Sin Azúcar Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Black Botella 3 Litros,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Pepsi Black Botella itros,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 1.5L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Coca Cola Sin Azúcar Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Botella 1.5L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Inca Kola Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Botella 1.5L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Coca Cola Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Botella 3L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Fanta Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Fanta Kola Inglesa Botella 3 Lt,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Fanta Kola Inglesa Botella t,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Sprite Lima Limón Botella 3L,S/ 6.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Sprite Lima Limón Botella,6.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Sunkist Orange Lata 355ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Sunkist Orange Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Fanta Piña Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Fanta Piña Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sin Azúcar Botella 1.5L,S/ 6.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.5,l,Gaseosa COCA COLA Sin Azúcar Botella,6.9,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Crush Grape Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Crush Grape Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Vainilla Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Coca Cola Vainilla Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Cherry Lata 355 ml,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Gaseosa Coca Cola Cherry Lata,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Sabor Cereza 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa Sabor Cereza,6.9,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Pepsi Black Botella 3 Litros,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Pepsi Black Botella itros,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa sabor Naranja 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa sabor Naranja,6.9,tottus,FANTA,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Botella 1.5L,S/ 6.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Gaseosa Inca Kola Botella,6.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Sabor Original 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,355.0,ml,Gaseosa Sabor Original,6.9,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Sabor Kola Inglesa 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Sabor Kola Inglesa,6.9,tottus,FANTA,BEBIDAS GASEOSAS
-Gaseosa Zero Black 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Zero Black,6.9,tottus,PEPSI,BEBIDAS GASEOSAS
-Gaseosa 1.5 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.5,l,Gaseosa,6.9,tottus,INCA KOLA,BEBIDAS GASEOSAS
-Ginger Ale Evervess Botella 1.5L,S/ 6.99,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Ginger Ale Evervess Botella,6.99,wong,,BEBIDAS GASEOSAS
-Gaseosa Kola Escocesa 1.5L,S/ 7.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Gaseosa Kola Escocesa,7.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Sabor Regular Botella 1.5 L,S/ 7.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.5,l,Gaseosa Sabor Regular Botella,7.2,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Zero 1.5 L,S/ 7.20,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,1.5,l,Gaseosa Zero,7.2,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 3 L,S/ 7.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Guarana Botella,7.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Guarana Botella 3 L,S/ 7.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Guarana Botella,7.5,wong,,BEBIDAS GASEOSAS
-Gaseosa SPRITE Lima Limón Botella 3L,S/ 7.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,3.0,l,Gaseosa SPRITE Lima Limón Botella,7.5,vivanda,SPRITE,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 2.25 Lt,S/ 7.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.25,l,Gaseosa Coca Cola Sin Azúcar Botella t,7.7,wong,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 2.25 Lt,S/ 7.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.25,l,Gaseosa Inca Kola Sin Azúcar Botella t,7.7,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 2.25 Lt,S/ 7.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.25,l,Gaseosa Coca Cola Sin Azúcar Botella t,7.7,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sin Azúcar Botella 2.25 Lt,S/ 7.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.25,l,Gaseosa Inca Kola Sin Azúcar Botella t,7.7,metro,,BEBIDAS GASEOSAS
-Bebida energizante Energy Zero Sugar de 473 mL,S/ 8,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,473.0,ml,Bebida energizante Energy Zero Sugar de,8.0,tottus,MONSTER,BEBIDAS GASEOSAS
-Bebida energizante Mango Loco de 473 mL,S/ 8,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,473.0,ml,Bebida energizante Mango Loco de,8.0,tottus,MONSTER,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,S/ 8.30,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Gaseosa COCA COLA Sabor Original Botella  Two Pack,8.3,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella 3 L,S/ 8.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Pepsi Botella,8.5,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Paquete 6u Botella 300ml,S/ 8.50,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,300.0,ml,Gaseosa Coca Cola Sin Azúcar Paquete 6u Botella,8.5,vega,Coca Cola,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Sin Azúcar Paquete 6u Botella 300ml,S/ 8.50,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,300.0,ml,Gaseosa INCA KOLA Sin Azúcar Paquete 6u Botella,8.5,vega,Coca Cola,BEBIDAS GASEOSAS
-Gaseosa Pepsi Botella 3 L,S/ 8.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Pepsi Botella,8.5,wong,,BEBIDAS GASEOSAS
-Bebida de Arándanos L'ONDA con Té Verde Botella 1L,S/ 8.99,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Bebida de Arándanos L'ONDA con Té Verde Botella,8.99,vivanda,L ONDA,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Botella 2.5L,S/ 9.49,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,2.5,l,Gaseosa COCA COLA Botella,9.49,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Botella 2.5L,S/ 9.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.5,l,Gaseosa Inca Kola Botella,9.7,wong,,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sin Azúcar Botella 2.25L,S/ 9.70,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,2.25,l,Gaseosa COCA COLA Sin Azúcar Botella,9.7,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Botella 2.5L,S/ 9.70,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.5,l,Gaseosa Inca Kola Botella,9.7,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Botella 2.5L,S/ 9.70,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.5,l,Gaseosa Coca Cola Botella,9.7,wong,,BEBIDAS GASEOSAS
-Pack x2 Gaseosa Big Cola 3L + Gaseosa Oro 3L,S/ 9.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,2.0,g,Pack xaseosa Big Cola  + Gaseosa Oro,9.9,metro,,BEBIDAS GASEOSAS
-Twopack Gaseosa Schweppes Citrus Botella 1.5L,S/ 9.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Twopack Gaseosa Schweppes Citrus Botella,9.9,wong,,BEBIDAS GASEOSAS
-Bebida de Coco LAIVE Vio sin Endulzante Tetrapack 946ml,S/ 9.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Coco LAIVE Vio sin Endulzante Tetrapack,9.9,vivanda,LAIVE,BEBIDAS GASEOSAS
-Bebida Energizante Regular Pack 6 Unidades 300 mL,S/ 9.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,6.0,un,Bebida Energizante Regular Pack ades,9.9,tottus,VOLT,BEBIDAS GASEOSAS
-Twopack Gaseosa Schweppes Ginger Ale Botella 1.5L,S/ 9.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Twopack Gaseosa Schweppes Ginger Ale Botella,9.9,wong,,BEBIDAS GASEOSAS
-Twopack Gaseosa Schweppes Ginger Ale Botella 1.5L,S/ 9.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Twopack Gaseosa Schweppes Ginger Ale Botella,9.9,metro,,BEBIDAS GASEOSAS
-Twopack Gaseosa Schweppes Citrus Botella 1.5L,S/ 9.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Twopack Gaseosa Schweppes Citrus Botella,9.9,metro,,BEBIDAS GASEOSAS
-Pack Evervess Mixers: Ginger Ale 1.5L + Tónica 1.5L,S/ 9.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Pack Evervess Mixers: Ginger Ale  + Tónica,9.9,metro,,BEBIDAS GASEOSAS
-Pack Evervess Mixers: Ginger Ale 1.5L + Tónica 1.5L,S/ 9.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Pack Evervess Mixers: Ginger Ale  + Tónica,9.9,wong,,BEBIDAS GASEOSAS
-Ginger Ale Evervess Two Pack 1.5 L c/u,S/ 9.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Ginger Ale Evervess Two Pack  c/u,9.9,metro,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sin Azúcar Botella 300ml,S/ 10.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,300.0,ml,Sixpack Gaseosa Inca Kola Sin Azúcar Botella,10.0,metro,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Coca Cola Sin Azúcar Botella 300ml,S/ 10.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Sixpack Gaseosa Coca Cola Sin Azúcar Botella,10.0,wong,,BEBIDAS GASEOSAS
-Bebida de Almendra NATURE'S HEART Sin Azúcar Caja 946ml,S/ 10.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Almendra NATURE'S HEART Sin Azúcar Caja,10.5,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-Bebida de Coco NATURES HEART sin Azúcar Botella 946ml,S/ 10.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Coco NATURES HEART sin Azúcar Botella,10.5,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-Tropical Pack 6 Unidades 500 mL,S/ 10.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,6.0,un,Tropical Pack ades,10.9,tottus,GATORADE,BEBIDAS GASEOSAS
-Twopack Gaseosa Pepsi Lata 355 ml,S/ 11.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,355.0,ml,Twopack Gaseosa Pepsi Lata,11.0,wong,,BEBIDAS GASEOSAS
-Twopack Gaseosa Pepsi Regular Botella 1.5L,S/ 11.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Twopack Gaseosa Pepsi Regular Botella,11.0,wong,,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Original Botella 3L,S/ 11.30,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,3.0,l,Gaseosa COCA COLA Original Botella,11.3,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa SCHWEPPES Citrus Botella 1.5 L Two Pack,S/ 11.30,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.5,l,Gaseosa SCHWEPPES Citrus Botella  Two Pack,11.3,vivanda,SCHWEPPES,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Botella 3L,S/ 11.40,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.0,l,Gaseosa INCA KOLA Botella,11.4,vega,Inca Kola,BEBIDAS GASEOSAS
-Gaseosa Sabor Original 3 L,S/ 11.60,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Sabor Original,11.6,tottus,INCA KOLA,BEBIDAS GASEOSAS
-Gaseosa 3 L,S/ 11.60,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa,11.6,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 3L,S/ 11.60,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Inca Kola Sabor Original Botella,11.6,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sabor Original Botella 3L,S/ 11.60,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Coca Cola Sabor Original Botella,11.6,wong,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sabor Original Botella 3L,S/ 11.60,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Coca Cola Sabor Original Botella,11.6,metro,,BEBIDAS GASEOSAS
-Gaseosa Inca Kola Sabor Original Botella 3L,S/ 11.60,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Inca Kola Sabor Original Botella,11.6,metro,,BEBIDAS GASEOSAS
-Pack Gaseosa: Coca Cola Sin Azúcar 1.5L + Inca Kola Sin Azúcar 1.5L,S/ 11.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Pack Gaseosa: Coca Cola Sin Azúcar  + Inca Kola Sin Azúcar,11.9,wong,,BEBIDAS GASEOSAS
-Twopack Gaseosa Coca Cola Sin Azúcar Botella 1.5L,S/ 11.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,1.5,l,Twopack Gaseosa Coca Cola Sin Azúcar Botella,11.9,wong,,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sin Azúcar 2Pack Botella 1.5L,S/ 11.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.5,l,Gaseosa COCA COLA Sin Azúcar 2Pack Botella,11.9,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Pack Gaseosa: Coca Cola Sin Azúcar 1.5L + Inca Kola Sin Azúcar 1.5L,S/ 11.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,1.5,l,Pack Gaseosa: Coca Cola Sin Azúcar  + Inca Kola Sin Azúcar,11.9,metro,,BEBIDAS GASEOSAS
-Bebida de Almendras NATURE'S HEART Almendra y Coco Caja 946ml,S/ 12.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Almendras NATURE'S HEART Almendra y Coco Caja,12.5,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml Paquete 6un,S/ 12.70,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Botella  Paquete,12.7,vivanda,GATORADE,BEBIDAS GASEOSAS
-Sixpack Gaseosa Fanta Botella 500ml,S/ 13.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Fanta Botella,13.5,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Sprite Lima Limón Botella 500ml,S/ 13.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Sprite Lima Limón Botella,13.5,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Fanta Kola Inglesa Botella 500ml,S/ 13.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Fanta Kola Inglesa Botella,13.5,wong,,BEBIDAS GASEOSAS
-Gaseosa Fanta Naranja Botella 500 ml Pack 6 unid,S/ 13.60,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Fanta Naranja Botella  Pack,13.6,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Sprite Botella 500ml,S/ 13.60,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Sprite Botella,13.6,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Sprite Botella 500ml,S/ 13.60,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Sixpack Gaseosa Sprite Botella,13.6,metro,,BEBIDAS GASEOSAS
-Bebida de Avena ORASI Caja 1L,S/ 14.60,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Bebida de Avena ORASI Caja,14.6,vivanda,ORASI,BEBIDAS GASEOSAS
-Gaseosa Pepsi Mix Two + Pack Pepsi Botella 3 L + 7up Botella 3 L,S/ 14.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Pepsi Mix Two + Pack Pepsi Botella  + 7up Botella,14.9,wong,,BEBIDAS GASEOSAS
-Gaseosa Pepsi Mix Two + Pack Pepsi Botella 3 L + 7up Botella 3 L,S/ 14.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Pepsi Mix Two + Pack Pepsi Botella  + 7up Botella,14.9,metro,,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sabor Original Botella 500ml Six Pack,S/ 15.00,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Gaseosa COCA COLA Sabor Original Botella  Six Pack,15.0,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sabor Original Botella 500ml,S/ 15.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Sixpack Gaseosa Inca Kola Sabor Original Botella,15.0,metro,,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 500ml Pack 6un,S/ 15.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Gaseosa Coca Cola Sin Azúcar Botella  Pack,15.0,wong,,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Sabor Original Botella 500ml Six Pack,S/ 15.00,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Gaseosa INCA KOLA Sabor Original Botella  Six Pack,15.0,vivanda,INCA KOLA,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Sin Azúcar Botella 500ml Pack 6un,S/ 15.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Gaseosa Coca Cola Sin Azúcar Botella  Pack,15.0,metro,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sin Azúcar Botella 500ml,S/ 15.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Inca Kola Sin Azúcar Botella,15.0,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Coca Cola Sabor Original Botella 500ml,S/ 15.00,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,500.0,ml,Sixpack Gaseosa Coca Cola Sabor Original Botella,15.0,wong,,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Sin Azúcar Botella 500ml Paquete 6un,S/ 15.00,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,500.0,ml,Gaseosa INCA KOLA Sin Azúcar Botella  Paquete,15.0,vivanda,INCA KOLA,BEBIDAS GASEOSAS
-Sixpack Gaseosa Coca Cola Sabor Original Botella 500ml,S/ 15.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Sixpack Gaseosa Coca Cola Sabor Original Botella,15.0,metro,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sin Azúcar Botella 500ml,S/ 15.00,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,500.0,ml,Sixpack Gaseosa Inca Kola Sin Azúcar Botella,15.0,metro,,BEBIDAS GASEOSAS
-Six Pack de Gaseosa Sabor Original de 500 mL,S/ 15.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,500.0,ml,Six Pack de Gaseosa Sabor Original de,15.5,tottus,INCA KOLA,BEBIDAS GASEOSAS
-Bebida Vegetal NOT MILK Low Fat Caja 1L,S/ 15.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.0,l,Bebida Vegetal NOT MILK Low Fat Caja,15.9,vivanda,POWER NATURE,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sabor Original Botella 300ml,S/ 16.40,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,300.0,ml,Sixpack Gaseosa Inca Kola Sabor Original Botella,16.4,metro,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sabor Original Botella 300ml,S/ 16.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Sixpack Gaseosa Inca Kola Sabor Original Botella,16.4,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Coca Cola Sabor Original Botella 300ml,S/ 16.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Sixpack Gaseosa Coca Cola Sabor Original Botella,16.4,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Coca Cola Sin Azúcar Botella 300ml,S/ 16.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Sixpack Gaseosa Coca Cola Sin Azúcar Botella,16.4,wong,,BEBIDAS GASEOSAS
-Sixpack Gaseosa Inca Kola Sin Azúcar Botella 300ml,S/ 16.40,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,300.0,ml,Sixpack Gaseosa Inca Kola Sin Azúcar Botella,16.4,wong,,BEBIDAS GASEOSAS
-Two Pack Pepsi 3 L c/u,S/ 16.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Two Pack Pepsi  c/u,16.5,wong,,BEBIDAS GASEOSAS
-Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña 3 L,S/ 17.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña,17.5,tottus,PEPSI,BEBIDAS GASEOSAS
-Twopack Gaseosa Coca Cola Sabor Original Botella 2.5L,S/ 17.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.5,l,Twopack Gaseosa Coca Cola Sabor Original Botella,17.9,wong,,BEBIDAS GASEOSAS
-Gaseosa PEPSI + 7UP + CONCORDIA Naranja Botella 3L Paquete 3un,S/ 18.20,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,3.0,l,Gaseosa PEPSI + 7UP + CONCORDIA Naranja Botella  Paquete,18.2,vivanda,PEPSI,BEBIDAS GASEOSAS
-Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de 3 L c/u,S/ 18.20,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de  c/u,18.2,wong,,BEBIDAS GASEOSAS
-Tripack 7up + Concordia Naranja + Pepsi 3 L c/u,S/ 18.20,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Tripack 7up + Concordia Naranja + Pepsi  c/u,18.2,metro,,BEBIDAS GASEOSAS
-Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de 3 L c/u,S/ 18.20,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de  c/u,18.2,metro,,BEBIDAS GASEOSAS
-Bebida de Avena NATURES HEART Caja 946ml Paquete 2un,S/ 18.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Avena NATURES HEART Caja  Paquete,18.5,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-Bebida de Almendra sin Azúcar NATURES HEART Caja 946ml Paquete 2un,S/ 18.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Almendra sin Azúcar NATURES HEART Caja  Paquete,18.5,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-Mix de Gaseosas Botella 3L: Fanta + Fanta Kola Inglesa + Sprite,S/ 18.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Mix de Gaseosas Botella : Fanta + Fanta Kola Inglesa + Sprite,18.9,metro,,BEBIDAS GASEOSAS
-Gaseosa Naranja 3 L Kola Inglesa 3 L y Sprite Lima-Limón 3 L,S/ 18.90,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Naranja  Kola Inglesa  y Sprite Lima-Limón,18.9,tottus,FANTA,BEBIDAS GASEOSAS
-Mix de Gaseosas Botella 3L: Fanta + Fanta Kola Inglesa + Sprite,S/ 18.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Mix de Gaseosas Botella : Fanta + Fanta Kola Inglesa + Sprite,18.9,wong,,BEBIDAS GASEOSAS
-Pack x12 Gaseosa Botella 300ml: Coca Cola + Inca Kola + Fanta + Sprite,S/ 19.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,12.0,g,Pack xaseosa Botella : Coca Cola + Inca Kola + Fanta + Sprite,19.5,wong,,BEBIDAS GASEOSAS
-Bebida Rehidratante SUEROX Surtido Botella 630ml Paquete 4un,S/ 19.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,630.0,ml,Bebida Rehidratante SUEROX Surtido Botella  Paquete,19.5,vivanda,SUEROX,BEBIDAS GASEOSAS
-+ Inca Kola Two Pack 2 Unidades 3 L,S/ 20.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,2.0,un,+ Inca Kola Two Pack ades,20.5,tottus,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,S/ 20.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,3.0,l,Gaseosa COCA COLA Sabor Original Botella  Two Pack,20.5,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa COCA COLA + INCA KOLA Botella 3L Paquete 2un,S/ 20.50,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,3.0,l,Gaseosa COCA COLA + INCA KOLA Botella  Paquete,20.5,vivanda,COCA COLA,BEBIDAS GASEOSAS
-Gaseosa Coca-Cola Original 3 Lt Twopack,S/ 20.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa Coca-Cola Original t Twopack,20.5,tottus,COCA COLA,BEBIDAS GASEOSAS
-Pack Gaseosa: Coca Cola 3L + Inca Kola 3L,S/ 20.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Pack Gaseosa: Coca Cola  + Inca Kola,20.5,wong,,BEBIDAS GASEOSAS
-Pack Evervess Mixers: 2un Ginger Ale 1.5L + 2un Tónica 1.5L,S/ 23.80,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,2.0,un,Pack Evervess Mixers:  Ginger Ale  +  Tónica,23.8,wong,,BEBIDAS GASEOSAS
-Gaseosa FANTA Kola Inglesa Botella 500ml Paquete 12u,S/ 24.00,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,500.0,ml,Gaseosa FANTA Kola Inglesa Botella  Paquete 12u,24.0,vega,Fanta,BEBIDAS GASEOSAS
-Tripack de Gaseosas: 3 L Fanta 3 L y Sprite 3 L,S/ 24.30,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Tripack de Gaseosas:  Fanta  y Sprite,24.3,tottus,INCA KOLA,BEBIDAS GASEOSAS
-Mix de Gaseosas Botella 3L: Inca Kola + Fanta + Sprite,S/ 24.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Mix de Gaseosas Botella : Inca Kola + Fanta + Sprite,24.5,wong,,BEBIDAS GASEOSAS
-Mix de Gaseosas Botella 3L: Inca Kola + Fanta + Sprite,S/ 24.50,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Mix de Gaseosas Botella : Inca Kola + Fanta + Sprite,24.5,metro,,BEBIDAS GASEOSAS
-Gaseosa FANTA Naranja 500ml Paquete 12u,S/ 26.40,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,500.0,ml,Gaseosa FANTA Naranja  Paquete 12u,26.4,vega,Fanta,BEBIDAS GASEOSAS
-Mix de Gaseosas Botella 3L: Coca Cola + Inca Kola + Fanta,S/ 26.50,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Mix de Gaseosas Botella : Coca Cola + Inca Kola + Fanta,26.5,wong,,BEBIDAS GASEOSAS
-Four Pack de Bebida Energizante Sin Azúcar de 250 mL,S/ 28.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,250.0,ml,Four Pack de Bebida Energizante Sin Azúcar de,28.5,tottus,RED BULL,BEBIDAS GASEOSAS
-Bebida Energizante Pack 4 Unidades 250 mL,S/ 28.50,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,4.0,un,Bebida Energizante Pack ades,28.5,tottus,RED BULL,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Botella 600ml Pack 12 Und,S/ 29.20 6%,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,600.0,ml,Gaseosa INCA KOLA Botella  Pack d,29.2,vega,Inca Kola,BEBIDAS GASEOSAS
-Gaseosa GUARANÁ Botella 450ml Paquete 15u,S/ 30.00,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,450.0,ml,Gaseosa GUARANÁ Botella  Paquete 15u,30.0,vega,Guarana,BEBIDAS GASEOSAS
-Gaseosa: 1 Inca Kola 3 L + 2 Coca-Cola Sabor Original 3 L,S/ 30.30,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Gaseosa: 1 Inca Kola  + 2 Coca-Cola Sabor Original,30.3,tottus,COCA COLA,BEBIDAS GASEOSAS
-Pack de Gaseosa Coca-Cola Sabor Original 3 L + Inka Kola Sabor Original 3 L,S/ 30.30,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,3.0,l,Pack de Gaseosa Coca-Cola Sabor Original  + Inka Kola Sabor Original,30.3,tottus,INCA KOLA,BEBIDAS GASEOSAS
-Gaseosa Coca Cola Original 3L + Gaseosa Inca Kola Original 3L 2un,S/ 30.30,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Gaseosa Coca Cola Original  + Gaseosa Inca Kola Original,30.3,metro,,BEBIDAS GASEOSAS
-Gaseosa INCA KOLA Botella 3L Paquete 4u,S/ 39.80 11%,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.0,l,Gaseosa INCA KOLA Botella  Paquete 4u,39.8,vega,Inca Kola,BEBIDAS GASEOSAS
-Fourpack Gaseosa Inca Kola Sabor Original Botella 3L,S/ 40.90,wong,BEBIDAS GASEOSAS,2024-12-04 20:55:03.697733,3.0,l,Fourpack Gaseosa Inca Kola Sabor Original Botella,40.9,wong,,BEBIDAS GASEOSAS
-Fourpack Gaseosa Inca Kola Sabor Original Botella 3L,S/ 40.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Fourpack Gaseosa Inca Kola Sabor Original Botella,40.9,metro,,BEBIDAS GASEOSAS
-Fourpack Gaseosa Coca Cola Sabor Original Botella 3L,S/ 40.90,metro,BEBIDAS GASEOSAS,2024-12-04 22:25:56.074166,3.0,l,Fourpack Gaseosa Coca Cola Sabor Original Botella,40.9,metro,,BEBIDAS GASEOSAS
-Gaseosa BIG COLA Botella 3.03L Paquete 6un,S/ 41.40,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.03,l,Gaseosa BIG COLA Botella  Paquete,41.4,vega,Oro,BEBIDAS GASEOSAS
-Bebida de Almendra NATURE'S HEART sin Azúcar 946ml Paquete 6un,S/ 47.90,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,946.0,ml,Bebida de Almendra NATURE'S HEART sin Azúcar  Paquete,47.9,vivanda,NATURE'S HEART,BEBIDAS GASEOSAS
-2X Agua Sin Gas Bidon 20L,S/ 51,tottus,BEBIDAS GASEOSAS,2024-12-04 14:00:22.010141,20.0,l,2X Agua Sin Gas Bidon,51.0,tottus,SAN LUIS,BEBIDAS GASEOSAS
-Gaseosa COCA COLA Botella 3L Paquete 4u,,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,3.0,l,Gaseosa COCA COLA Botella  Paquete 4u,,vega,Coca Cola,BEBIDAS GASEOSAS
-Gaseosa GUARANA Botella 2L x 6u,,vega,BEBIDAS GASEOSAS,2024-12-04 14:47:37.603405,2.0,l,Gaseosa GUARANA Botella  x 6u,,vega,Guarana,BEBIDAS GASEOSAS
-Gaseosa EVERVESS Ginger Ale Botella 1.5L Pack 2un,,vivanda,BEBIDAS GASEOSAS,2024-12-04 18:19:24.589592,1.5,l,Gaseosa EVERVESS Ginger Ale Botella  Pack,,vivanda,EVERVESS,BEBIDAS GASEOSAS
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pepsi Black Botella 355ml,,355.0,ml,1.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,1.0,BEBIDAS GASEOSAS
+Bebida Gaseosa Backus Botella X300mL,GUARANA,300.0,ml,1.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,300.0,ml,1.2,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella 355 ml,,355.0,ml,1.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,1.3,BEBIDAS GASEOSAS
+Gaseosa Cool Fresh Sabor Cola Botella 350ml,,350.0,ml,1.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,350.0,ml,1.3,BEBIDAS GASEOSAS
+Gaseosa Cool Fresh Sabor Cola Amarilla Botella 350ml,,350.0,ml,1.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,350.0,ml,1.3,BEBIDAS GASEOSAS
+Gaseosa Cola 355 mL,PEPSI,355.0,ml,1.3,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,1.3,BEBIDAS GASEOSAS
+Gaseosa Oro Botella 350ml,,350.0,ml,1.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,350.0,ml,1.3,BEBIDAS GASEOSAS
+Gaseosa Guaranita Botella 300 ml,,300.0,ml,1.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,300.0,ml,1.5,BEBIDAS GASEOSAS
+Gaseosa Sabor Piña 500 mL,CONCORDIA,500.0,ml,1.6,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,500.0,ml,1.6,BEBIDAS GASEOSAS
+Gaseosa Guaranita Botella 300 ml,,300.0,ml,1.6,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,1.6,BEBIDAS GASEOSAS
+Bebida H20H Limoneto Botella 500 ml,,500.0,ml,1.8,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,1.8,BEBIDAS GASEOSAS
+Gaseosa Pepsi Regular Botella 500ml,,500.0,ml,2.2,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,2.2,BEBIDAS GASEOSAS
+Gaseosa 7Up Botella 500 ml,,500.0,ml,2.2,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,2.2,BEBIDAS GASEOSAS
+Gaseosa 7Up Botella 500 ml,,500.0,ml,2.2,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,2.2,BEBIDAS GASEOSAS
+Bebida Gaseosa Backus Zero Bot X450mL,GUARANA,450.0,ml,2.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,450.0,ml,2.2,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella 600ml,,600.0,ml,2.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,600.0,ml,2.4,BEBIDAS GASEOSAS
+Bebida Rehidratante Sabor Manzana 500 mL,GATORADE,500.0,ml,2.4,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,500.0,ml,2.4,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 450ml,,450.0,ml,2.4,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,450.0,ml,2.4,BEBIDAS GASEOSAS
+Bebida Energizante 300 mL,VOLT,300.0,ml,2.49,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,300.0,ml,2.49,BEBIDAS GASEOSAS
+Bebida energizante de blueberry con maca de 300 mL,VOLT,300.0,ml,2.49,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,300.0,ml,2.49,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 300ml,,300.0,ml,2.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,300.0,ml,2.5,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 300ml,,300.0,ml,2.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,2.5,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 450ml,,450.0,ml,2.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,450.0,ml,2.5,BEBIDAS GASEOSAS
+Gaseosa Cola 600 mL,PEPSI,600.0,ml,2.7,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,600.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa sabor Naranja 500 mL,FANTA,500.0,ml,2.7,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa Fanta Kola Inglesa Botella 500ml,,500.0,ml,2.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa Sprite Lima Limón Botella 500ml,,500.0,ml,2.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa FANTA Manzana Beetlejuice Botella 500ml,FANTA,500.0,ml,2.7,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa Fanta Piña Botella 500ml,,500.0,ml,2.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa Fanta Botella 500ml,,500.0,ml,2.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,2.7,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella x 750 ml,,750.0,ml,2.8,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,750.0,ml,2.8,BEBIDAS GASEOSAS
+Gaseosa Schweppes Ginger Ale Botella 500ml,,500.0,ml,2.8,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,2.8,BEBIDAS GASEOSAS
+Gaseosa Cola 750 mL,PEPSI,750.0,ml,2.8,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,750.0,ml,2.8,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella x 750 ml,,750.0,ml,2.8,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,750.0,ml,2.8,BEBIDAS GASEOSAS
+Gaseosa Schweppes Ginger Ale Botella 500ml,,500.0,ml,2.8,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,2.8,BEBIDAS GASEOSAS
+Gaseosa Guarana Zero Botella 450 ml,,450.0,ml,2.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,450.0,ml,2.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 500ml,,500.0,ml,3.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,3.0,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 500ml,,500.0,ml,3.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,3.0,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 500ml,,500.0,ml,3.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,3.0,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 500ml,,500.0,ml,3.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,3.0,BEBIDAS GASEOSAS
+Bebida Aloe KERO Piña Botella 300ml,KERO,300.0,ml,3.0,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,300.0,ml,3.0,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Sabor Original Botella 500ml,INCA KOLA,500.0,ml,3.0,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,3.0,BEBIDAS GASEOSAS
+Gaseosa 500 mL,COCA COLA,500.0,ml,3.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,500.0,ml,3.2,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 1 L,,1.0,l,3.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.0,l,3.5,BEBIDAS GASEOSAS
+Gaseosa Cola 1 L,PEPSI,1.0,l,3.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.0,l,3.5,BEBIDAS GASEOSAS
+Gaseosa Kola Escocesa Botella 600ml,,600.0,ml,3.8,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,600.0,ml,3.8,BEBIDAS GASEOSAS
+Gaseosa Big Cola Lata 355ml,,355.0,ml,3.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,3.9,BEBIDAS GASEOSAS
+Gaseosa Big Cola Lata 355ml,,355.0,ml,3.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,3.9,BEBIDAS GASEOSAS
+Gaseosa Pepsi Zero Azúcar Botella 1.5L,,1.5,l,3.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,3.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 1L,,1.0,l,4.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.0,l,4.0,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 1L,,1.0,l,4.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.0,l,4.0,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Botella 1L,,1.0,l,4.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.0,l,4.0,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 1L,,1.0,l,4.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.0,l,4.0,BEBIDAS GASEOSAS
+Gaseosa Coca-Cola Sin Azúcar 1 L,COCA COLA,1.0,l,4.1,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.0,l,4.1,BEBIDAS GASEOSAS
+Gaseosa Coca-Cola sabor original de 1 L,COCA COLA,1.0,l,4.1,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.0,l,4.1,BEBIDAS GASEOSAS
+GASEOSA 1.7LT,BIG COLA,1.7,l,4.3,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.7,l,4.3,BEBIDAS GASEOSAS
+Gaseosa Kolita Botella 1.7L,,1.7,l,4.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.7,l,4.3,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 1L,,1.0,l,4.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.0,l,4.5,BEBIDAS GASEOSAS
+Gaseosa 7 Up Botella 1.5 L,,1.5,l,4.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,4.5,BEBIDAS GASEOSAS
+Bebida FRUGOS Mango y Fresa Caja 1L,FRUGOS,1.0,l,4.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,4.5,BEBIDAS GASEOSAS
+Bebida Beauti Drink Collaskin 360 mL,SAPPE,360.0,ml,4.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,360.0,ml,4.9,BEBIDAS GASEOSAS
+BEBIDA BEAUTI DRINK BEAUTITOX 360 ML,SAPPE,360.0,ml,4.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,360.0,ml,4.9,BEBIDAS GASEOSAS
+Bebida Beauti Drink Relaxing Calm 360 mL,SAPPE,360.0,ml,4.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,360.0,ml,4.9,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sin Azúcar Botella 1L,COCA COLA,1.0,l,4.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,4.9,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Sin Azúcar Botella 1L,INCA KOLA,1.0,l,4.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,4.9,BEBIDAS GASEOSAS
+Gaseosa Zero Lata 355 mL,PEPSI,355.0,ml,4.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,4.9,BEBIDAS GASEOSAS
+Bebida Beauti Drink Slim 360 mL,SAPPE,360.0,ml,4.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,360.0,ml,4.9,BEBIDAS GASEOSAS
+Gaseosa KR Guaraná Botella 3.03L,,3.03,l,4.99,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.03,l,4.99,BEBIDAS GASEOSAS
+Gaseosa Oro Botella 3.03 L,,3.03,l,4.99,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.03,l,4.99,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella 1.5L,,1.5,l,5.13,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,5.13,BEBIDAS GASEOSAS
+Gaseosa Cola 1.5 L,PEPSI,1.5,l,5.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.5,l,5.2,BEBIDAS GASEOSAS
+Ginger Ale Wong Botella 1.5 L,,1.5,l,5.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,5.4,BEBIDAS GASEOSAS
+Gaseosa Pepsi Lata 355 ml,,355.0,ml,5.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa Pepsi Black Lata 355ml,,355.0,ml,5.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa 7UP En Lata 355 ml,,355.0,ml,5.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa 7UP En Lata 355 ml,,355.0,ml,5.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa Sabor Naranja 355 mL,FANTA,355.0,ml,5.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa sabor piña en lata de 355 mL,FANTA,355.0,ml,5.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa Cola 2 L,PEPSI,2.0,l,5.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,2.0,l,5.5,BEBIDAS GASEOSAS
+Gaseosa Pepsi Lata 355 ml,,355.0,ml,5.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,5.5,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 2 L,,2.0,l,5.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.0,l,5.9,BEBIDAS GASEOSAS
+Gaseosa Mountain Dew Lata 355ml,,355.0,ml,5.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,5.9,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 2 L,,2.0,l,5.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.0,l,5.9,BEBIDAS GASEOSAS
+Gaseosa 7 Up Botella 3 L,,3.0,l,5.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,5.9,BEBIDAS GASEOSAS
+Gaseosa Sabor Piña 3 L,CONCORDIA,3.0,l,5.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,5.9,BEBIDAS GASEOSAS
+Gaseosa Sabor Fresa 3 L,CONCORDIA,3.0,l,5.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,5.9,BEBIDAS GASEOSAS
+Gaseosa Seven Up 3 L,7UP,3.0,l,5.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,5.9,BEBIDAS GASEOSAS
+BEBIDA ELECTROL FLASHLYTE UVA BOT X625ML,,625.0,ml,6.0,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,625.0,ml,6.0,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella No Retornable 2 L,,2.0,l,6.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.0,l,6.0,BEBIDAS GASEOSAS
+Gaseosa Fanta Kola Inglesa Botella 2.25L,,2.25,l,6.4,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.25,l,6.4,BEBIDAS GASEOSAS
+Gaseosa Sprite Lima Limón Botella 2.25L,,2.25,l,6.4,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.25,l,6.4,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Lata 355 ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Crush Grape Lata 355 ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Cherry Lata 355 ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Canada Dry Ginger Ale Lata 355ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Bebida Rehidratante SUEROX Sabor a Fresa - Kiwi Botella 630ml,SUEROX,630.0,ml,6.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,630.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Vainilla Lata 355 ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Sprite Lata 355ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Sunkist Orange Lata 355ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Fanta Original Lata 355 ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Concordia Sabor Naranja Botella 3 Litros,,3.0,l,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.5,BEBIDAS GASEOSAS
+Gaseosa Fanta Uva Lata 355ml,,355.0,ml,6.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.5,BEBIDAS GASEOSAS
+Gaseosa Schweppes Citrus Botella 1.5L,,1.5,l,6.6,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,6.6,BEBIDAS GASEOSAS
+Ginger Ale 1.5 L,SCHWEPPES,1.5,l,6.6,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.5,l,6.6,BEBIDAS GASEOSAS
+Gaseosa Concordia Sabor Fresa Botella 3 Litros,,3.0,l,6.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.7,BEBIDAS GASEOSAS
+Gaseosa Concordia Sabor Piña Botella 3 Litros,,3.0,l,6.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.7,BEBIDAS GASEOSAS
+Bebida Carbonatada Malta Polar Lata 355ml,,355.0,ml,6.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,355.0,ml,6.7,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Clasica Lata 355ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Sprite Lima Limón Botella 3L,,3.0,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Agua Tonica Canada Dry Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 1.5L,,1.5,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa FANTA KOLA INGLESA Botella 3L,Fanta,3.0,l,6.9,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa FANTA Botella 3L,Fanta,3.0,l,6.9,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Kola Inglesa Botella 3L,,3.0,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Piña Botella 3L,,3.0,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Big Cola Botella 3.03 L,,3.03,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.03,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Piña Botella 3L,,3.0,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaeosa Crush Fresa Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 1.5L,,1.5,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Pepsi Black Botella 3 Litros,,3.0,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 1.5L,,1.5,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Botella 1.5L,,1.5,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Botella 1.5L,,1.5,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Botella 3L,,3.0,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Kola Inglesa Botella 3 Lt,,3.0,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Sprite Lima Limón Botella 3L,,3.0,l,6.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Sunkist Orange Lata 355ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Fanta Piña Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sin Azúcar Botella 1.5L,COCA COLA,1.5,l,6.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Crush Grape Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Vainilla Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Cherry Lata 355 ml,,355.0,ml,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Sabor Cereza 355 mL,COCA COLA,355.0,ml,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Pepsi Black Botella 3 Litros,,3.0,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa sabor Naranja 3 L,FANTA,3.0,l,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Botella 1.5L,,1.5,l,6.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Sabor Original 355 mL,COCA COLA,355.0,ml,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,355.0,ml,6.9,BEBIDAS GASEOSAS
+Gaseosa Sabor Kola Inglesa 3 L,FANTA,3.0,l,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa Zero Black 3 L,PEPSI,3.0,l,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,6.9,BEBIDAS GASEOSAS
+Gaseosa 1.5 L,INCA KOLA,1.5,l,6.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.5,l,6.9,BEBIDAS GASEOSAS
+Ginger Ale Evervess Botella 1.5L,,1.5,l,6.99,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,6.99,BEBIDAS GASEOSAS
+Gaseosa Kola Escocesa 1.5L,,1.5,l,7.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,7.0,BEBIDAS GASEOSAS
+Gaseosa Sabor Regular Botella 1.5 L,COCA COLA,1.5,l,7.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.5,l,7.2,BEBIDAS GASEOSAS
+Gaseosa Zero 1.5 L,COCA COLA,1.5,l,7.2,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,1.5,l,7.2,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 3 L,,3.0,l,7.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,7.5,BEBIDAS GASEOSAS
+Gaseosa Guarana Botella 3 L,,3.0,l,7.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,7.5,BEBIDAS GASEOSAS
+Gaseosa SPRITE Lima Limón Botella 3L,SPRITE,3.0,l,7.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,3.0,l,7.5,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 2.25 Lt,,2.25,l,7.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.25,l,7.7,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 2.25 Lt,,2.25,l,7.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.25,l,7.7,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 2.25 Lt,,2.25,l,7.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.25,l,7.7,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sin Azúcar Botella 2.25 Lt,,2.25,l,7.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.25,l,7.7,BEBIDAS GASEOSAS
+Bebida energizante Energy Zero Sugar de 473 mL,MONSTER,473.0,ml,8.0,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,473.0,ml,8.0,BEBIDAS GASEOSAS
+Bebida energizante Mango Loco de 473 mL,MONSTER,473.0,ml,8.0,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,473.0,ml,8.0,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sabor Original Botella 1L Two Pack,COCA COLA,1.0,l,8.3,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,8.3,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella 3 L,,3.0,l,8.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,8.5,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Paquete 6u Botella 300ml,Coca Cola,300.0,ml,8.5,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,300.0,ml,8.5,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Sin Azúcar Paquete 6u Botella 300ml,Coca Cola,300.0,ml,8.5,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,300.0,ml,8.5,BEBIDAS GASEOSAS
+Gaseosa Pepsi Botella 3 L,,3.0,l,8.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,8.5,BEBIDAS GASEOSAS
+Bebida de Arándanos L'ONDA con Té Verde Botella 1L,L ONDA,1.0,l,8.99,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,8.99,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Botella 2.5L,COCA COLA,2.5,l,9.49,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,2.5,l,9.49,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Botella 2.5L,,2.5,l,9.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.5,l,9.7,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sin Azúcar Botella 2.25L,COCA COLA,2.25,l,9.7,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,2.25,l,9.7,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Botella 2.5L,,2.5,l,9.7,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.5,l,9.7,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Botella 2.5L,,2.5,l,9.7,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.5,l,9.7,BEBIDAS GASEOSAS
+Pack x2 Gaseosa Big Cola 3L + Gaseosa Oro 3L,,2.0,g,9.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,2.0,g,9.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Schweppes Citrus Botella 1.5L,,1.5,l,9.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Bebida de Coco LAIVE Vio sin Endulzante Tetrapack 946ml,LAIVE,946.0,ml,9.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,9.9,BEBIDAS GASEOSAS
+Bebida Energizante Regular Pack 6 Unidades 300 mL,VOLT,6.0,un,9.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,6.0,un,9.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Schweppes Ginger Ale Botella 1.5L,,1.5,l,9.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Schweppes Ginger Ale Botella 1.5L,,1.5,l,9.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Schweppes Citrus Botella 1.5L,,1.5,l,9.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Pack Evervess Mixers: Ginger Ale 1.5L + Tónica 1.5L,,1.5,l,9.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Pack Evervess Mixers: Ginger Ale 1.5L + Tónica 1.5L,,1.5,l,9.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Ginger Ale Evervess Two Pack 1.5 L c/u,,1.5,l,9.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,9.9,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sin Azúcar Botella 300ml,,300.0,ml,10.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,300.0,ml,10.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Coca Cola Sin Azúcar Botella 300ml,,300.0,ml,10.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,10.0,BEBIDAS GASEOSAS
+Bebida de Almendra NATURE'S HEART Sin Azúcar Caja 946ml,NATURE'S HEART,946.0,ml,10.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,10.5,BEBIDAS GASEOSAS
+Bebida de Coco NATURES HEART sin Azúcar Botella 946ml,NATURE'S HEART,946.0,ml,10.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,10.5,BEBIDAS GASEOSAS
+Tropical Pack 6 Unidades 500 mL,GATORADE,6.0,un,10.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,6.0,un,10.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Pepsi Lata 355 ml,,355.0,ml,11.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,355.0,ml,11.0,BEBIDAS GASEOSAS
+Twopack Gaseosa Pepsi Regular Botella 1.5L,,1.5,l,11.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,11.0,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Original Botella 3L,COCA COLA,3.0,l,11.3,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,3.0,l,11.3,BEBIDAS GASEOSAS
+Gaseosa SCHWEPPES Citrus Botella 1.5 L Two Pack,SCHWEPPES,1.5,l,11.3,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.5,l,11.3,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Botella 3L,Inca Kola,3.0,l,11.4,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.0,l,11.4,BEBIDAS GASEOSAS
+Gaseosa Sabor Original 3 L,INCA KOLA,3.0,l,11.6,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Gaseosa 3 L,COCA COLA,3.0,l,11.6,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 3L,,3.0,l,11.6,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sabor Original Botella 3L,,3.0,l,11.6,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sabor Original Botella 3L,,3.0,l,11.6,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Gaseosa Inca Kola Sabor Original Botella 3L,,3.0,l,11.6,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,11.6,BEBIDAS GASEOSAS
+Pack Gaseosa: Coca Cola Sin Azúcar 1.5L + Inca Kola Sin Azúcar 1.5L,,1.5,l,11.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,11.9,BEBIDAS GASEOSAS
+Twopack Gaseosa Coca Cola Sin Azúcar Botella 1.5L,,1.5,l,11.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,1.5,l,11.9,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sin Azúcar 2Pack Botella 1.5L,COCA COLA,1.5,l,11.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.5,l,11.9,BEBIDAS GASEOSAS
+Pack Gaseosa: Coca Cola Sin Azúcar 1.5L + Inca Kola Sin Azúcar 1.5L,,1.5,l,11.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,1.5,l,11.9,BEBIDAS GASEOSAS
+Bebida de Almendras NATURE'S HEART Almendra y Coco Caja 946ml,NATURE'S HEART,946.0,ml,12.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,12.5,BEBIDAS GASEOSAS
+Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml Paquete 6un,GATORADE,500.0,ml,12.7,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,12.7,BEBIDAS GASEOSAS
+Sixpack Gaseosa Fanta Botella 500ml,,500.0,ml,13.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,13.5,BEBIDAS GASEOSAS
+Sixpack Gaseosa Sprite Lima Limón Botella 500ml,,500.0,ml,13.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,13.5,BEBIDAS GASEOSAS
+Sixpack Gaseosa Fanta Kola Inglesa Botella 500ml,,500.0,ml,13.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,13.5,BEBIDAS GASEOSAS
+Gaseosa Fanta Naranja Botella 500 ml Pack 6 unid,,500.0,ml,13.6,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,13.6,BEBIDAS GASEOSAS
+Sixpack Gaseosa Sprite Botella 500ml,,500.0,ml,13.6,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,13.6,BEBIDAS GASEOSAS
+Sixpack Gaseosa Sprite Botella 500ml,,500.0,ml,13.6,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,13.6,BEBIDAS GASEOSAS
+Bebida de Avena ORASI Caja 1L,ORASI,1.0,l,14.6,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,14.6,BEBIDAS GASEOSAS
+Gaseosa Pepsi Mix Two + Pack Pepsi Botella 3 L + 7up Botella 3 L,,3.0,l,14.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,14.9,BEBIDAS GASEOSAS
+Gaseosa Pepsi Mix Two + Pack Pepsi Botella 3 L + 7up Botella 3 L,,3.0,l,14.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,14.9,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sabor Original Botella 500ml Six Pack,COCA COLA,500.0,ml,15.0,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sabor Original Botella 500ml,,500.0,ml,15.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 500ml Pack 6un,,500.0,ml,15.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Sabor Original Botella 500ml Six Pack,INCA KOLA,500.0,ml,15.0,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Sin Azúcar Botella 500ml Pack 6un,,500.0,ml,15.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sin Azúcar Botella 500ml,,500.0,ml,15.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Coca Cola Sabor Original Botella 500ml,,500.0,ml,15.0,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Sin Azúcar Botella 500ml Paquete 6un,INCA KOLA,500.0,ml,15.0,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Coca Cola Sabor Original Botella 500ml,,500.0,ml,15.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sin Azúcar Botella 500ml,,500.0,ml,15.0,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,500.0,ml,15.0,BEBIDAS GASEOSAS
+Six Pack de Gaseosa Sabor Original de 500 mL,INCA KOLA,500.0,ml,15.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,500.0,ml,15.5,BEBIDAS GASEOSAS
+Bebida Vegetal NOT MILK Low Fat Caja 1L,POWER NATURE,1.0,l,15.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.0,l,15.9,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sabor Original Botella 300ml,,300.0,ml,16.4,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,300.0,ml,16.4,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sabor Original Botella 300ml,,300.0,ml,16.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,16.4,BEBIDAS GASEOSAS
+Sixpack Gaseosa Coca Cola Sabor Original Botella 300ml,,300.0,ml,16.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,16.4,BEBIDAS GASEOSAS
+Sixpack Gaseosa Coca Cola Sin Azúcar Botella 300ml,,300.0,ml,16.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,16.4,BEBIDAS GASEOSAS
+Sixpack Gaseosa Inca Kola Sin Azúcar Botella 300ml,,300.0,ml,16.4,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,300.0,ml,16.4,BEBIDAS GASEOSAS
+Two Pack Pepsi 3 L c/u,,3.0,l,16.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,16.5,BEBIDAS GASEOSAS
+Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña 3 L,PEPSI,3.0,l,17.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,17.5,BEBIDAS GASEOSAS
+Twopack Gaseosa Coca Cola Sabor Original Botella 2.5L,,2.5,l,17.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.5,l,17.9,BEBIDAS GASEOSAS
+Gaseosa PEPSI + 7UP + CONCORDIA Naranja Botella 3L Paquete 3un,PEPSI,3.0,l,18.2,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,3.0,l,18.2,BEBIDAS GASEOSAS
+Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de 3 L c/u,,3.0,l,18.2,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,18.2,BEBIDAS GASEOSAS
+Tripack 7up + Concordia Naranja + Pepsi 3 L c/u,,3.0,l,18.2,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,18.2,BEBIDAS GASEOSAS
+Gaseosa Pepsi + 7Up + Concordia Sabor Piña Pack 3 Botellas de 3 L c/u,,3.0,l,18.2,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,18.2,BEBIDAS GASEOSAS
+Bebida de Avena NATURES HEART Caja 946ml Paquete 2un,NATURE'S HEART,946.0,ml,18.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,18.5,BEBIDAS GASEOSAS
+Bebida de Almendra sin Azúcar NATURES HEART Caja 946ml Paquete 2un,NATURE'S HEART,946.0,ml,18.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,18.5,BEBIDAS GASEOSAS
+Mix de Gaseosas Botella 3L: Fanta + Fanta Kola Inglesa + Sprite,,3.0,l,18.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,18.9,BEBIDAS GASEOSAS
+Gaseosa Naranja 3 L Kola Inglesa 3 L y Sprite Lima-Limón 3 L,FANTA,3.0,l,18.9,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,18.9,BEBIDAS GASEOSAS
+Mix de Gaseosas Botella 3L: Fanta + Fanta Kola Inglesa + Sprite,,3.0,l,18.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,18.9,BEBIDAS GASEOSAS
+Pack x12 Gaseosa Botella 300ml: Coca Cola + Inca Kola + Fanta + Sprite,,12.0,g,19.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,12.0,g,19.5,BEBIDAS GASEOSAS
+Bebida Rehidratante SUEROX Surtido Botella 630ml Paquete 4un,SUEROX,630.0,ml,19.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,630.0,ml,19.5,BEBIDAS GASEOSAS
++ Inca Kola Two Pack 2 Unidades 3 L,COCA COLA,2.0,un,20.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,2.0,un,20.5,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Sabor Original Botella 3L Two Pack,COCA COLA,3.0,l,20.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,3.0,l,20.5,BEBIDAS GASEOSAS
+Gaseosa COCA COLA + INCA KOLA Botella 3L Paquete 2un,COCA COLA,3.0,l,20.5,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,3.0,l,20.5,BEBIDAS GASEOSAS
+Gaseosa Coca-Cola Original 3 Lt Twopack,COCA COLA,3.0,l,20.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,20.5,BEBIDAS GASEOSAS
+Pack Gaseosa: Coca Cola 3L + Inca Kola 3L,,3.0,l,20.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,20.5,BEBIDAS GASEOSAS
+Pack Evervess Mixers: 2un Ginger Ale 1.5L + 2un Tónica 1.5L,,2.0,un,23.8,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,2.0,un,23.8,BEBIDAS GASEOSAS
+Gaseosa FANTA Kola Inglesa Botella 500ml Paquete 12u,Fanta,500.0,ml,24.0,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,500.0,ml,24.0,BEBIDAS GASEOSAS
+Tripack de Gaseosas: 3 L Fanta 3 L y Sprite 3 L,INCA KOLA,3.0,l,24.3,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,24.3,BEBIDAS GASEOSAS
+Mix de Gaseosas Botella 3L: Inca Kola + Fanta + Sprite,,3.0,l,24.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,24.5,BEBIDAS GASEOSAS
+Mix de Gaseosas Botella 3L: Inca Kola + Fanta + Sprite,,3.0,l,24.5,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,24.5,BEBIDAS GASEOSAS
+Gaseosa FANTA Naranja 500ml Paquete 12u,Fanta,500.0,ml,26.4,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,500.0,ml,26.4,BEBIDAS GASEOSAS
+Mix de Gaseosas Botella 3L: Coca Cola + Inca Kola + Fanta,,3.0,l,26.5,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,26.5,BEBIDAS GASEOSAS
+Four Pack de Bebida Energizante Sin Azúcar de 250 mL,RED BULL,250.0,ml,28.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,250.0,ml,28.5,BEBIDAS GASEOSAS
+Bebida Energizante Pack 4 Unidades 250 mL,RED BULL,4.0,un,28.5,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,4.0,un,28.5,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Botella 600ml Pack 12 Und,Inca Kola,600.0,ml,29.2,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,600.0,ml,29.2,BEBIDAS GASEOSAS
+Gaseosa GUARANÁ Botella 450ml Paquete 15u,Guarana,450.0,ml,30.0,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,450.0,ml,30.0,BEBIDAS GASEOSAS
+Gaseosa: 1 Inca Kola 3 L + 2 Coca-Cola Sabor Original 3 L,COCA COLA,3.0,l,30.3,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,30.3,BEBIDAS GASEOSAS
+Pack de Gaseosa Coca-Cola Sabor Original 3 L + Inka Kola Sabor Original 3 L,INCA KOLA,3.0,l,30.3,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,3.0,l,30.3,BEBIDAS GASEOSAS
+Gaseosa Coca Cola Original 3L + Gaseosa Inca Kola Original 3L 2un,,3.0,l,30.3,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,30.3,BEBIDAS GASEOSAS
+Gaseosa INCA KOLA Botella 3L Paquete 4u,Inca Kola,3.0,l,39.8,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.0,l,39.8,BEBIDAS GASEOSAS
+Fourpack Gaseosa Inca Kola Sabor Original Botella 3L,,3.0,l,40.9,wong,2024-12-04 20:55:03.697733,BEBIDAS GASEOSAS,3.0,l,40.9,BEBIDAS GASEOSAS
+Fourpack Gaseosa Inca Kola Sabor Original Botella 3L,,3.0,l,40.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,40.9,BEBIDAS GASEOSAS
+Fourpack Gaseosa Coca Cola Sabor Original Botella 3L,,3.0,l,40.9,metro,2024-12-04 22:25:56.074166,BEBIDAS GASEOSAS,3.0,l,40.9,BEBIDAS GASEOSAS
+Gaseosa BIG COLA Botella 3.03L Paquete 6un,Oro,3.03,l,41.4,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.03,l,41.4,BEBIDAS GASEOSAS
+Bebida de Almendra NATURE'S HEART sin Azúcar 946ml Paquete 6un,NATURE'S HEART,946.0,ml,47.9,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,946.0,ml,47.9,BEBIDAS GASEOSAS
+2X Agua Sin Gas Bidon 20L,SAN LUIS,20.0,l,51.0,tottus,2024-12-04 14:00:22.010141,BEBIDAS GASEOSAS,20.0,l,51.0,BEBIDAS GASEOSAS
+Gaseosa COCA COLA Botella 3L Paquete 4u,Coca Cola,3.0,l,,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,3.0,l,,BEBIDAS GASEOSAS
+Gaseosa GUARANA Botella 2L x 6u,Guarana,2.0,l,,vega,2024-12-04 14:47:37.603405,BEBIDAS GASEOSAS,2.0,l,,BEBIDAS GASEOSAS
+Gaseosa EVERVESS Ginger Ale Botella 1.5L Pack 2un,EVERVESS,1.5,l,,vivanda,2024-12-04 18:19:24.589592,BEBIDAS GASEOSAS,1.5,l,,BEBIDAS GASEOSAS

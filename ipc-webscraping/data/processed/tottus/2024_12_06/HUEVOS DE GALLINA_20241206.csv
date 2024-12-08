@@ -1,0 +1,4 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+GALLINAS LIBRES,PACK HUEVOS X 12UN,S/ 15.50,tottus,HUEVOS DE GALLINA,2024-12-06 13:15:41.157336,12.0,un,PACK HUEVOS X,15.5
+SAN FERNANDO,Huevos De Gallina (15 unidades),S/ 11.30,tottus,HUEVOS DE GALLINA,2024-12-06 13:15:41.157336,15.0,un,Huevos De Gallina (ades),11.3
+SAN FERNANDO,Huevos De Gallina (30 unidades),S/ 22.50,tottus,HUEVOS DE GALLINA,2024-12-06 13:15:41.157336,30.0,un,Huevos De Gallina (ades),22.5
