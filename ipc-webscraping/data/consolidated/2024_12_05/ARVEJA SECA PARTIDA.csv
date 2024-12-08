@@ -1,133 +1,25 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Avena QUAKER Tradicional Bolsa 100gr,S/ 1.30,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena QUAKER Tradicional Bolsa r,1.3,vega,,Quaker,ARVEJA SECA PARTIDA
-Avena 3 OSITOS Clásica Económica Bolsa 100g,S/ 1.50,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa,1.5,vega,,3 Ositos,ARVEJA SECA PARTIDA
-Avena Precocida BELL'S Bolsa 170g,S/ 2.79,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,170.0,g,Avena Precocida BELL'S Bolsa,2.79,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Plátano de Seda,S/ 2.79 x kg,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,1.0,kg,Plátano de Seda,2.79,plaza_vea,Presentación 1 kg aprox.,,ARVEJA SECA PARTIDA
-Galletas DEL PARAISO Avena & Manzana 100g,S/ 2.89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,100.0,g,Galletas DEL PARAISO Avena & Manzana,2.89,plaza_vea,Bolsa 100g,,ARVEJA SECA PARTIDA
-Avena Instantánea Regular BELL'S Bolsa 270g,S/ 3.20,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,270.0,g,Avena Instantánea Regular BELL'S Bolsa,3.2,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Arveja TIMONEL Bolsa 400gr,S/ 3.20,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Arveja TIMONEL Bolsa r,3.2,vega,,Timonel,ARVEJA SECA PARTIDA
-Arverja Partida BELL'S Bolsa 500g,S/ 3.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Arverja Partida BELL'S Bolsa,3.3,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Arverja Partida BELL'S Bolsa 500g,S/ 3.30,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Arverja Partida BELL'S Bolsa,3.3,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Arveja VEGA Bolsa 500g,S/ 3.30,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Arveja VEGA Bolsa,3.3,vega,,Vega,ARVEJA SECA PARTIDA
-Lechuga Seda Hidropónica BELL'S Bolsa 200g,S/ 3.39 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,200.0,g,Lechuga Seda Hidropónica BELL'S Bolsa,3.39,plaza_vea,Bolsa 200g,,ARVEJA SECA PARTIDA
-Hongos Secos con Laurel TOÑA Bolsa 13g,S/ 3.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,13.0,g,Hongos Secos con Laurel TOÑA Bolsa,3.4,plaza_vea,Bolsa 13g,,ARVEJA SECA PARTIDA
-Avena Instantánea de Manzana y Canela BELL'S Vaso 45g,S/ 3.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,45.0,g,Avena Instantánea de Manzana y Canela BELL'S Vaso,3.5,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Arveja Partida Máxima 500g,S/ 3.50,metro,ARVEJA SECA PARTIDA,2024-12-05 16:18:44.744324,500.0,g,Arveja Partida Máxima,3.5,metro,,,ARVEJA SECA PARTIDA
-Arveja COSTEÑO Bolsa 500g,S/ 3.50,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Arveja COSTEÑO Bolsa,3.5,vega,,Costeño,ARVEJA SECA PARTIDA
-Arveja Partida Máxima 500g,S/ 3.50,wong,ARVEJA SECA PARTIDA,2024-12-05 18:54:55.466987,500.0,g,Arveja Partida Máxima,3.5,wong,,,ARVEJA SECA PARTIDA
-Arveja Partida Costeño 500g,S/ 3.80,wong,ARVEJA SECA PARTIDA,2024-12-05 18:54:55.466987,500.0,g,Arveja Partida Costeño,3.8,wong,,,ARVEJA SECA PARTIDA
-Arveja Partida Costeño 500g,S/ 3.80,metro,ARVEJA SECA PARTIDA,2024-12-05 16:18:44.744324,500.0,g,Arveja Partida Costeño,3.8,metro,,,ARVEJA SECA PARTIDA
-Arveja Partida TESORO DEL CAMPO Bolsa 500g,S/ 3.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Arveja Partida TESORO DEL CAMPO Bolsa,3.8,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Arveja partida VALLENORTE Bolsa 500gr,S/ 3.90,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Arveja partida VALLENORTE Bolsa r,3.9,vega,,VALLENORTE,ARVEJA SECA PARTIDA
-Arveja Partida 500 g,S/ 4,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida,4.0,tottus,,TOTTUS,ARVEJA SECA PARTIDA
-Arveja Partida 500 g,S/ 4.20,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida,4.2,tottus,,TESORO DEL CAMPO,ARVEJA SECA PARTIDA
-Papa seca VEGA Bolsa 400g,S/ 4.30,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Papa seca VEGA Bolsa,4.3,vega,,Vega,ARVEJA SECA PARTIDA
-Arveja Verde COSTEÑO Bolsa 500g,S/ 4.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Arveja Verde COSTEÑO Bolsa,4.4,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida Costeño,4.4,tottus,,COSTENO,ARVEJA SECA PARTIDA
-Chía Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,370.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bo,4.5,plaza_vea,Bolsa 370g,,ARVEJA SECA PARTIDA
-Kiwicha Avena GRANO DE ORO Hojuelas Precocidas...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,370.0,g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas,4.5,plaza_vea,Bolsa 370g,,ARVEJA SECA PARTIDA
-Quinua Avena GRANO DE ORO Hojuelas Precocidas ...,S/ 4.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,370.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas,4.5,plaza_vea,Bolsa 370g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 200g,S/ 4.60,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,200.0,g,Avena QUAKER Tradicional Bolsa,4.6,vega,,Quaker,ARVEJA SECA PARTIDA
-Avena BELL'S Bolsa 500g,S/ 4.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Avena BELL'S Bolsa,4.7,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Avena BELL'S Bolsa 500g,S/ 4.70,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Avena BELL'S Bolsa,4.7,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 200g,S/ 4.80,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,200.0,g,Avena QUAKER Tradicional Bolsa,4.8,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Avena SANTA CATALINA Natural Bolsa 500g,S/ 4.99 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Avena SANTA CATALINA Natural Bolsa,4.99,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Papa Seca TIMONEL Bolsa 400gr,S/ 5.10,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Papa Seca TIMONEL Bolsa r,5.1,vega,,Timonel,ARVEJA SECA PARTIDA
-Avena de Chocolate 3 OSITOS Bolsa 180g,S/ 5.40,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,180.0,g,Avena de Chocolate 3 OSITOS Bolsa,5.4,vivanda,,3 OSITOS,ARVEJA SECA PARTIDA
-Avena Integral GRANO DE ORO Bolsa 500g,S/ 5.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Avena Integral GRANO DE ORO Bolsa,5.5,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Avena SANTA CATALINA con Quinua Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,280.0,g,Avena SANTA CATALINA con Quinua Bolsa,5.6,plaza_vea,Bolsa 280g,,ARVEJA SECA PARTIDA
-Kiwicha Avena SANTA CATALINA Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,280.0,g,Kiwicha Avena SANTA CATALINA Bolsa,5.6,plaza_vea,Bolsa 280g,,ARVEJA SECA PARTIDA
-Papa Seca BELL'S Bolsa 400g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,g,Papa Seca BELL'S Bolsa,5.6,plaza_vea,Bolsa 400g,,ARVEJA SECA PARTIDA
-Maca Avena SANTA CATALINA Bolsa 280g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,280.0,g,Maca Avena SANTA CATALINA Bolsa,5.6,plaza_vea,Bolsa 280g,,ARVEJA SECA PARTIDA
-Papa Seca BELL'S Bolsa 400g,S/ 5.60,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,g,Papa Seca BELL'S Bolsa,5.6,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Quinua Avena Premium 3 OSITOS Bolsa 270g,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,270.0,g,Quinua Avena Premium 3 OSITOS Bolsa,5.6,plaza_vea,Bolsa 270g,,ARVEJA SECA PARTIDA
-Avena con Cereales Andinos Premium 3 OSITOS Bo...,S/ 5.60 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,270.0,g,Avena con Cereales Andinos Premium 3 OSITOS Bo,5.6,plaza_vea,Bolsa 270g,,ARVEJA SECA PARTIDA
-Levadura Seca Instantánea SAF INSTANT Caja 125...,S/ 6 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,125.0,g,Levadura Seca Instantánea SAF INSTANT Caja 125,6.0,plaza_vea,Caja 125g,,ARVEJA SECA PARTIDA
-Levadura Seca Instantánea SAF INSTANT Caja 125g,S/ 6.00,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,125.0,g,Levadura Seca Instantánea SAF INSTANT Caja,6.0,vivanda,,SAF INSTANT,ARVEJA SECA PARTIDA
-Avena Clásica 3 OSITOS Bolsa 500gr,S/ 6.00 8%,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Avena Clásica 3 OSITOS Bolsa r,6.0,vega,,3 Ositos,ARVEJA SECA PARTIDA
-Arveja,S/ 6.19 x kg,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,0.25,kg,Arveja,6.19,plaza_vea,Presentación 0.25 kg aprox.,,ARVEJA SECA PARTIDA
-Avena SANTA CATALINA con Quinua Bolsa 280g,S/ 6.20,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,280.0,g,Avena SANTA CATALINA con Quinua Bolsa,6.2,vivanda,,SANTA CATALINA,ARVEJA SECA PARTIDA
-Piqueo VALLE ALTO Frutos secos con almendras B...,S/ 6.40 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,150.0,g,Piqueo VALLE ALTO Frutos secos con almendras B,6.4,plaza_vea,Bolsa 150g,,ARVEJA SECA PARTIDA
-Arverja Congelada BELL'S Bolsa 500g,S/ 6.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Arverja Congelada BELL'S Bolsa,6.5,plaza_vea,Pack 500g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 500gr,S/ 7.20,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Avena QUAKER Tradicional Bolsa r,7.2,vega,,Quaker,ARVEJA SECA PARTIDA
-Arveja Precocida GREEN FOOD Bolsa 400g,S/ 7.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,g,Arveja Precocida GREEN FOOD Bolsa,7.5,vivanda,,GREEN FOOD,ARVEJA SECA PARTIDA
-Arveja Precocida GREEN FOOD Bolsa 400g,S/ 7.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,g,Arveja Precocida GREEN FOOD Bolsa,7.5,plaza_vea,Bolsa 400g,,ARVEJA SECA PARTIDA
-Saca Sarro DIAMANTE Especial para Inodoros y Mayólicas Botellas 1Kg,S/ 7.59,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,1.0,kg,Saca Sarro DIAMANTE Especial para Inodoros y Mayólicas Botellas,7.59,vivanda,,DIAMANTE,ARVEJA SECA PARTIDA
-Papa Seca TESORO DEL CAMPO Bolsa 500g,S/ 7.69 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Papa Seca TESORO DEL CAMPO Bolsa,7.69,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Arverja Congelada BELL'S Bolsa 500g,S/ 7.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Arverja Congelada BELL'S Bolsa,7.9,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Mix de Arveja y Zanahoria Precocida Congelada ...,S/ 7.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,g,Mix de Arveja y Zanahoria Precocida Congelada,7.9,plaza_vea,Bolsa 400g,,ARVEJA SECA PARTIDA
-Mix de Arveja y Zanahoria Precocida Congelada GREEN FOOD Bolsa 400g,S/ 7.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,g,Mix de Arveja y Zanahoria Precocida Congelada GREEN FOOD Bolsa,7.9,vivanda,,GREEN FOOD,ARVEJA SECA PARTIDA
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.10,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Papa Seca COSTEÑO Bolsa,8.1,vivanda,,COSTENO,ARVEJA SECA PARTIDA
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Papa Seca COSTEÑO Bolsa,8.2,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 500g,S/ 8.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,500.0,g,Avena QUAKER Tradicional Bolsa,8.3,plaza_vea,Bolsa 500g,,ARVEJA SECA PARTIDA
-Avena QUAKER con Chía y Algarrobo Bolsa 330g,S/ 8.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,330.0,g,Avena QUAKER con Chía y Algarrobo Bolsa,8.5,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Avena QUAKER con Maca Bolsa 330g,S/ 8.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,330.0,g,Avena QUAKER con Maca Bolsa,8.5,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Ají Panca Seco BELL'S Bandeja 100g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,100.0,g,Ají Panca Seco BELL'S Bandeja,8.5,plaza_vea,Bandeja 100g,,ARVEJA SECA PARTIDA
-Avena QUAKER con Chía y Algarrobo Bolsa 330g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,330.0,g,Avena QUAKER con Chía y Algarrobo Bolsa,8.5,plaza_vea,Bolsa 330g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 500g,S/ 8.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Avena QUAKER Tradicional Bolsa,8.5,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Avena QUAKER con Maca Bolsa 330g,S/ 8.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,330.0,g,Avena QUAKER con Maca Bolsa,8.5,plaza_vea,Bolsa 330g,,ARVEJA SECA PARTIDA
-Frutos Secos VILLA NATURA Cocktail Premium Bol...,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,150.0,g,Frutos Secos VILLA NATURA Cocktail Premium Bol,8.9,plaza_vea,Bolsa 150g,,ARVEJA SECA PARTIDA
-Jabón Tocador REXONA Antibacterial Avena 110g ...,S/ 8.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,330.0,g,Jabón Tocador REXONA Antibacterial Avena,8.9,plaza_vea,Caja 330g,,ARVEJA SECA PARTIDA
-Avena Precocida BELL'S Bolsa 1Kg,S/ 9.20,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,1.0,kg,Avena Precocida BELL'S Bolsa,9.2,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Avena Precocida BELL'S Bolsa 1Kg,S/ 9.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,1.0,kg,Avena Precocida BELL'S Bolsa,9.2,plaza_vea,Bolsa 1kg,,ARVEJA SECA PARTIDA
-Avena BELL'S Bolsa 1Kg,S/ 9.20 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,1.0,kg,Avena BELL'S Bolsa,9.2,plaza_vea,Bolsa 1Kg,,ARVEJA SECA PARTIDA
-Avena BELL'S Bolsa 1Kg,S/ 9.20,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,1.0,kg,Avena BELL'S Bolsa,9.2,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Avena QUAKER Hojuelas de Avena Instantánea Caja 350g,S/ 9.29,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,350.0,g,Avena QUAKER Hojuelas de Avena Instantánea Caja,9.29,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Avena QUAKER Hojuelas de Avena Instantánea Caj...,S/ 9.29 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,350.0,g,Avena QUAKER Hojuelas de Avena Instantánea Caj,9.29,plaza_vea,Caja 350g,,ARVEJA SECA PARTIDA
-Avena Natural SANTA CATALINA Bolsa 900g,S/ 9.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,900.0,g,Avena Natural SANTA CATALINA Bolsa,9.5,vivanda,,SANTA CATALINA,ARVEJA SECA PARTIDA
-Avena Natural SANTA CATALINA Bolsa 900g,S/ 9.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,900.0,g,Avena Natural SANTA CATALINA Bolsa,9.5,plaza_vea,Bolsa 900g,,ARVEJA SECA PARTIDA
-Avena 3 OSITOS Premium 900g,S/ 9.50 17%,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,900.0,g,Avena 3 OSITOS Premium,9.5,vega,,3 Ositos,ARVEJA SECA PARTIDA
-Avena NATURANDES 7 Semillas Doypack 240g,S/ 9.60,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,240.0,g,Avena NATURANDES 7 Semillas Doypack,9.6,vivanda,,NATURANDES,ARVEJA SECA PARTIDA
-Jabón en Barra PALMOLIVE Avena y Azucar 3x120g,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,360.0,g,Jabón en Barra PALMOLIVE Avena y Azucar 3x,9.9,plaza_vea,Paquete 360g,,ARVEJA SECA PARTIDA
-Harina de Avena MI TIERRA Sin Gluten Bolsa 400...,S/ 9.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,g,Harina de Avena MI TIERRA Sin Gluten Bolsa 400,9.9,plaza_vea,Bolsa 400g,,ARVEJA SECA PARTIDA
-Avena Mix AMARU FOODS Lucumango Doypack 400g,S/ 9.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,g,Avena Mix AMARU FOODS Lucumango Doypack,9.9,vivanda,,AMARU,ARVEJA SECA PARTIDA
-Avena GRANO DE ORO Bolsa 1Kg,S/ 10.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,1.0,kg,Avena GRANO DE ORO Bolsa,10.5,plaza_vea,Bolsa 1kg,,ARVEJA SECA PARTIDA
-Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,1.0,kg,Avena GRANO DE ORO Bolsa,10.5,vega,,Grano De Oro,ARVEJA SECA PARTIDA
-Pan de Molde UNIÓN Multisemillas y Avena Bolsa...,S/ 10.89 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,540.0,g,Pan de Molde UNIÓN Multisemillas y Avena Bolsa,10.89,plaza_vea,Bolsa 540g,,ARVEJA SECA PARTIDA
-Queso Paria GLORIA en Tajadas Paquete 180g,S/ 10.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,180.0,g,Queso Paria GLORIA en Tajadas Paquete,10.9,plaza_vea,Bolsa 180g,,ARVEJA SECA PARTIDA
-Arverja Desvainada BELL'S FRESCOS Bandeja 300g,S/ 10.99,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,300.0,g,Arverja Desvainada BELL'S FRESCOS Bandeja,10.99,vivanda,,BELL'S FRESCOS,ARVEJA SECA PARTIDA
-Avena SANTA CATALINA Bolsa 900g,S/ 11.00,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,900.0,g,Avena SANTA CATALINA Bolsa,11.0,vega,,Santa Catalina,ARVEJA SECA PARTIDA
-Avena Integral MI TIERRA sin Gluten Bolsa 400g,S/ 11.30,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,g,Avena Integral MI TIERRA sin Gluten Bolsa,11.3,vivanda,,MI TIERRA,ARVEJA SECA PARTIDA
-Jabón de Tocador JOHNSONS Almendra y Avena Bar...,S/ 11.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,3.0,un,Jabón de Tocador JOHNSONS Almendra y Avena Bar,11.8,plaza_vea,Paquete 3un,,ARVEJA SECA PARTIDA
-Quinua Avena 3 OSITOS Bolsa 900g,S/ 11.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,900.0,g,Quinua Avena 3 OSITOS Bolsa,11.9,plaza_vea,Bolsa 900g,,ARVEJA SECA PARTIDA
-Arena para Gatos COOL CAT Bolsa 5Kg,S/ 12.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,5.0,kg,Arena para Gatos COOL CAT Bolsa,12.5,vivanda,,COOL CAT,ARVEJA SECA PARTIDA
-Avena Clásica 3 OSITOS Premium Bolsa 900g,S/ 13.60,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,900.0,g,Avena Clásica 3 OSITOS Premium Bolsa,13.6,vivanda,,3 OSITOS,ARVEJA SECA PARTIDA
-Crema de Tratamiento NUTRIBELA Nutrición Seco ...,S/ 14 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,300.0,g,Crema de Tratamiento NUTRIBELA Nutrición Seco,14.0,plaza_vea,Frasco 300g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 900g,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,900.0,g,Avena QUAKER Tradicional Bolsa,14.5,plaza_vea,Bolsa 900g,,ARVEJA SECA PARTIDA
-Avena con Quinua QUAKER Bolsa 850g,S/ 14.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,850.0,g,Avena con Quinua QUAKER Bolsa,14.5,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Avena con Quinua QUAKER Bolsa 850g,S/ 14.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,850.0,g,Avena con Quinua QUAKER Bolsa,14.5,plaza_vea,Bolsa 850g,,ARVEJA SECA PARTIDA
-Avena QUAKER Tradicional Bolsa 900g,S/ 14.50,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,900.0,g,Avena QUAKER Tradicional Bolsa,14.5,vivanda,,QUAKER,ARVEJA SECA PARTIDA
-Espumante TABERNERO Semi Seco Especial Botella...,S/ 14.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,750.0,ml,Espumante TABERNERO Semi Seco Especial Botella,14.9,plaza_vea,Botella 750ml,,ARVEJA SECA PARTIDA
-Bolígrafos PILOT Tinta Seca BP-S Blíster 4un,S/ 15.10,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,4.0,un,Bolígrafos PILOT Tinta Seca BP-S Blíster,15.1,vivanda,,PILOT,ARVEJA SECA PARTIDA
-Cereal UNIÓN Granola con miel de abeja Doypack...,S/ 15.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,g,Cereal UNIÓN Granola con miel de abeja Doypack,15.5,plaza_vea,Doypack 400g,,ARVEJA SECA PARTIDA
-Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,350.0,g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa,15.7,plaza_vea,Bolsa 350g,,ARVEJA SECA PARTIDA
-Arena para Gatos KLINKATBolsa 5Kg,S/ 15.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,5.0,kg,Arena para Gatos KLINKATBolsa,15.9,plaza_vea,Bolsa 5Kg,,ARVEJA SECA PARTIDA
-Chifles Cancha y Carne Seca EL ARTESANO Artichay Bolsa 250g,S/ 16.00,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,250.0,g,Chifles Cancha y Carne Seca EL ARTESANO Artichay Bolsa,16.0,vivanda,,EL ARTESANO,ARVEJA SECA PARTIDA
-Toalla Higiénica ALWAYS Noche Seca Pack 32un,S/ 16.00,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,32.0,un,Toalla Higiénica ALWAYS Noche Seca Pack,16.0,vega,,Always,ARVEJA SECA PARTIDA
-Miel de Abeja LA REYNA DE OXAPAMPA Frasco 175g,S/ 16.19 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,175.0,g,Miel de Abeja LA REYNA DE OXAPAMPA Frasco,16.19,plaza_vea,Frasco 175g,,ARVEJA SECA PARTIDA
-Toallas Maxi Protección Seca ALWAYS Paquete 32un,S/ 16.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,32.0,un,Toallas Maxi Protección Seca ALWAYS Paquete,16.9,vivanda,,ALWAYS,ARVEJA SECA PARTIDA
-Avena Mix MAMALAMA Aguaymanto Linaza Doypack 500g,S/ 17.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Avena Mix MAMALAMA Aguaymanto Linaza Doypack,17.9,vivanda,,MAMALAMA,ARVEJA SECA PARTIDA
-Vino Rosé TABERNERO Gran Rosé Semi Seco Botell...,S/ 17.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,750.0,ml,Vino Rosé TABERNERO Gran Rosé Semi Seco Botell,17.9,plaza_vea,Botella 750ml,,ARVEJA SECA PARTIDA
-Avena con Hojuela sin Gluten LA PURITA Bolsa 800g,S/ 18.00,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,800.0,g,Avena con Hojuela sin Gluten LA PURITA Bolsa,18.0,vivanda,,LA PURITA,ARVEJA SECA PARTIDA
-Jabón en Barra Antibacterial PROTEX Avena 6x11...,S/ 19.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,660.0,g,Jabón en Barra Antibacterial PROTEX Avena 6x11,19.9,plaza_vea,Pack 660g,,ARVEJA SECA PARTIDA
-Avena Mix MAMALAMA Cacao + Maca do 500g,S/ 20.30,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,500.0,g,Avena Mix MAMALAMA Cacao + Maca do,20.3,vivanda,,MAMALAMA,ARVEJA SECA PARTIDA
-Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,840.0,g,Cereal ÁNGEL Trigo y Avena Frutas Doypack,21.9,plaza_vea,Bolsa 840g,,ARVEJA SECA PARTIDA
-Cereal en Barra NATURA VALLEY Crunchy Miel y A...,S/ 22.30 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,253.0,g,Cereal en Barra NATURA VALLEY Crunchy Miel y A,22.3,plaza_vea,Caja 253g,,ARVEJA SECA PARTIDA
-Bandas Depilatorias Corporales DEPILÉ Piel Seca Paquete 6un,S/ 22.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,6.0,un,Bandas Depilatorias Corporales DEPILÉ Piel Seca Paquete,22.9,vivanda,,DEPILE,ARVEJA SECA PARTIDA
-Toallas Femeninas ALWAYS Nocturna Seca G Paquete 32un,S/ 23.20,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,32.0,un,Toallas Femeninas ALWAYS Nocturna Seca G Paquete,23.2,vivanda,,ALWAYS,ARVEJA SECA PARTIDA
-Crema Corporal NIVEA Piel Seca Frasco 250ml,S/ 23.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,250.0,ml,Crema Corporal NIVEA Piel Seca Frasco,23.9,vivanda,,NIVEA,ARVEJA SECA PARTIDA
-Arena para Gatos KLINKAT 100% Natural Bolsa 10...,S/ 24.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,10.0,kg,Arena para Gatos KLINKAT 100% Natural Bolsa 10,24.9,plaza_vea,Bolsa 10Kg,,ARVEJA SECA PARTIDA
-Crema Facial POND'S Clarant B3 Piel Seca Frasco 100g,S/ 25.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,100.0,g,Crema Facial POND'S Clarant B3 Piel Seca Frasco,25.9,vivanda,,POND'S,ARVEJA SECA PARTIDA
-Vino Tinto VIÑA VIEJA Malbec Semi Seco Botella...,S/ 27.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,750.0,ml,Vino Tinto VIÑA VIEJA Malbec Semi Seco Botella,27.9,plaza_vea,Botella 750ml,,ARVEJA SECA PARTIDA
-Miel de abeja BELL'S Miel de abeja natural Fra...,S/ 29.50 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,600.0,g,Miel de abeja BELL'S Miel de abeja natural Fra,29.5,plaza_vea,Frasco 600g,,ARVEJA SECA PARTIDA
-Miel de abeja LA REYNA OXAPAMPA Frasco 600Gr,S/ 30.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,600.0,g,Miel de abeja LA REYNA OXAPAMPA Frasco r,30.7,plaza_vea,Frasco 600g,,ARVEJA SECA PARTIDA
-Pack Vino Rosé TABERNERO Gran Rosé Semi Seco B...,S/ 30.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,2.0,un,Pack Vino Rosé TABERNERO Gran Rosé Semi Seco B,30.9,plaza_vea,Paquete 2un,,ARVEJA SECA PARTIDA
-Jabón para Bebé JOHNSON'S BABY Baño Líquido Av...,S/ 31.70 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,400.0,ml,Jabón para Bebé JOHNSON'S BABY Baño Líquido Av,31.7,plaza_vea,Frasco 400ml,,ARVEJA SECA PARTIDA
-Crema Corporal NIVEA Piel Seca Frasco 400ml,S/ 31.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,ml,Crema Corporal NIVEA Piel Seca Frasco,31.9,vivanda,,NIVEA,ARVEJA SECA PARTIDA
-Crema Corporal NIVEA Piel Extra Seca Frasco 400ml,S/ 31.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,400.0,ml,Crema Corporal NIVEA Piel Extra Seca Frasco,31.9,vivanda,,NIVEA,ARVEJA SECA PARTIDA
-Limpiadora NIVEA VISAGE Piel Seca Frasco 200ml,S/ 35.80,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,200.0,ml,Limpiadora NIVEA VISAGE Piel Seca Frasco,35.8,vivanda,,NIVEA,ARVEJA SECA PARTIDA
-"Enrollado de Pollo BELL'S con Jamón, Queso Tocino y Frutas Secas 1.3Kg",S/ 42.90,vivanda,ARVEJA SECA PARTIDA,2024-12-05 22:15:41.897320,1.3,kg,"Enrollado de Pollo BELL'S con Jamón, Queso Tocino y Frutas Secas",42.9,vivanda,,BELL'S,ARVEJA SECA PARTIDA
-Miel de Abeja LA REYNA OXAPAMPA Frasco 1100g,S/ 51.80 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,1100.0,g,Miel de Abeja LA REYNA OXAPAMPA Frasco,51.8,plaza_vea,Frasco 1100g,,ARVEJA SECA PARTIDA
-Pañales para Bebé HUGGIES Active Sec XXXG Paqu...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,70.0,un,Pañales para Bebé HUGGIES Active Sec XX Paqu,59.9,plaza_vea,Bolsa 70un,,ARVEJA SECA PARTIDA
-Pañales para Bebé HUGGIES Active Sec XXG Paque...,S/ 59.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,74.0,un,Pañales para Bebé HUGGIES Active Sec X Paque,59.9,plaza_vea,Bolsa 74un,,ARVEJA SECA PARTIDA
-Pañales para Bebé BABYSEC Premium XXG Paquete ...,S/ 64.90 un,plaza_vea,ARVEJA SECA PARTIDA,2024-12-05 15:37:41.298044,72.0,un,Pañales para Bebé BABYSEC Premium X Paquete,64.9,plaza_vea,Paquete 72un,,ARVEJA SECA PARTIDA
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+Avena QUAKER Tradicional Bolsa 100gr,S/ 1.30,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena QUAKER Tradicional Bolsa r,1.3,vega,Quaker,ARVEJA SECA PARTIDA
+Avena 3 OSITOS Clásica Económica Bolsa 100g,S/ 1.50,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa,1.5,vega,3 Ositos,ARVEJA SECA PARTIDA
+Arveja VEGA Bolsa 400g,S/ 2.90,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Arveja VEGA Bolsa,2.9,vega,Vega,ARVEJA SECA PARTIDA
+Arveja TIMONEL Bolsa 400gr,S/ 3.20,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Arveja TIMONEL Bolsa r,3.2,vega,Timonel,ARVEJA SECA PARTIDA
+Arveja Partida Máxima 500g,S/ 3.50,wong,ARVEJA SECA PARTIDA,2024-12-05 18:54:55.466987,500.0,g,Arveja Partida Máxima,3.5,wong,,ARVEJA SECA PARTIDA
+Arveja Partida Máxima 500g,S/ 3.50,metro,ARVEJA SECA PARTIDA,2024-12-05 16:18:44.744324,500.0,g,Arveja Partida Máxima,3.5,metro,,ARVEJA SECA PARTIDA
+Arveja Partida Costeño 500g,S/ 3.80,wong,ARVEJA SECA PARTIDA,2024-12-05 18:54:55.466987,500.0,g,Arveja Partida Costeño,3.8,wong,,ARVEJA SECA PARTIDA
+Arveja Partida Costeño 500g,S/ 3.80,metro,ARVEJA SECA PARTIDA,2024-12-05 16:18:44.744324,500.0,g,Arveja Partida Costeño,3.8,metro,,ARVEJA SECA PARTIDA
+Arveja partida VALLENORTE Bolsa 500gr,S/ 3.90,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Arveja partida VALLENORTE Bolsa r,3.9,vega,VALLENORTE,ARVEJA SECA PARTIDA
+Arveja Partida 500 g,S/ 4,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida,4.0,tottus,TOTTUS,ARVEJA SECA PARTIDA
+Arveja Partida 500 g,S/ 4.20,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida,4.2,tottus,TESORO DEL CAMPO,ARVEJA SECA PARTIDA
+Papa seca VEGA Bolsa 400g,S/ 4.30,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Papa seca VEGA Bolsa,4.3,vega,Vega,ARVEJA SECA PARTIDA
+Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARVEJA SECA PARTIDA,2024-12-05 12:20:21.910227,500.0,g,Arveja Partida Costeño,4.4,tottus,COSTENO,ARVEJA SECA PARTIDA
+Avena QUAKER Tradicional Bolsa 200g,S/ 4.60,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,200.0,g,Avena QUAKER Tradicional Bolsa,4.6,vega,Quaker,ARVEJA SECA PARTIDA
+Papa Seca TIMONEL Bolsa 400gr,S/ 5.10,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,400.0,g,Papa Seca TIMONEL Bolsa r,5.1,vega,Timonel,ARVEJA SECA PARTIDA
+Avena Clásica 3 OSITOS Bolsa 500gr,S/ 6.00 8%,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Avena Clásica 3 OSITOS Bolsa r,6.0,vega,3 Ositos,ARVEJA SECA PARTIDA
+Avena QUAKER Tradicional Bolsa 500gr,S/ 7.20,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,500.0,g,Avena QUAKER Tradicional Bolsa r,7.2,vega,Quaker,ARVEJA SECA PARTIDA
+Avena GRANO DE ORO Bolsa 1kg,S/ 10.50,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,1.0,kg,Avena GRANO DE ORO Bolsa,10.5,vega,Grano De Oro,ARVEJA SECA PARTIDA
+Avena con Quinua 3 OSITOS Premium 900g,S/ 10.69 14%,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,900.0,g,Avena con Quinua 3 OSITOS Premium,10.69,vega,3 Ositos,ARVEJA SECA PARTIDA
+Avena SANTA CATALINA Bolsa 900g,S/ 11.00,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,900.0,g,Avena SANTA CATALINA Bolsa,11.0,vega,Santa Catalina,ARVEJA SECA PARTIDA
+Avena QUAKER Original Bolsa 900gr,S/ 11.50 21%,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,900.0,g,Avena QUAKER Original Bolsa r,11.5,vega,Quaker,ARVEJA SECA PARTIDA
+Toalla Higiénica ALWAYS Noche Seca Pack 32un,S/ 16.00,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,32.0,un,Toalla Higiénica ALWAYS Noche Seca Pack,16.0,vega,Always,ARVEJA SECA PARTIDA
+Avena 3 OSITOS Clásica Económica Bolsa 100g Paquete 24u,,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa  Paquete 24u,,vega,3 Ositos,ARVEJA SECA PARTIDA
+Avena 3 OSITOS Clásica Económica Bolsa 100g x3u,,vega,ARVEJA SECA PARTIDA,2024-12-05 12:58:22.795592,100.0,g,Avena 3 OSITOS Clásica Económica Bolsa  x3u,,vega,3 Ositos,ARVEJA SECA PARTIDA

@@ -1,15 +1,4 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
 Plátano Isla Metro x kg,S/ 5.49 x kg,metro,PLÁTANO DE LA ISLA,2024-12-05 15:59:19.773970,1.0,kg,Plátano Isla Metro,5.49,metro,,,PLÁTANO DE LA ISLA
 Plátano de Isla BELL'S,S/ 5.80 x kg,plaza_vea,PLÁTANO DE LA ISLA,2024-12-05 15:17:28.419139,1.0,kg,Plátano de Isla BELL'S,5.8,plaza_vea,Presentación 1 kg aprox.,,PLÁTANO DE LA ISLA
-Cancha con Chifle VEGA Pote 150g,S/ 5.80,vega,PLÁTANO DE LA ISLA,2024-12-05 12:36:39.974217,150.0,g,Cancha con Chifle VEGA Pote,5.8,vega,,Vega,PLÁTANO DE LA ISLA
-YOG PARC DESC 1KG FRESA C PLATANO,S/ 5.90,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,1.0,kg,YOG PARC DESC  FRESA C PLATANO,5.9,tottus,,GLORIA,PLÁTANO DE LA ISLA
 Plátano Isla Wong x kg,S/ 5.99 x kg,wong,PLÁTANO DE LA ISLA,2024-12-05 18:33:43.280867,1.0,kg,Plátano Isla Wong,5.99,wong,,,PLÁTANO DE LA ISLA
-Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa 125gr,S/ 7.80,vega,PLÁTANO DE LA ISLA,2024-12-05 12:36:39.974217,125.0,g,Mix Tropical INKA CHIPS Camote Yuca Plátano Bolsa r,7.8,vega,,INKA CHIPS,PLÁTANO DE LA ISLA
-YOG PARC DES 1.7KG FRESA C PLATANO,S/ 8.90,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,1.7,kg,YOG PARC DES  FRESA C PLATANO,8.9,tottus,,GLORIA,PLÁTANO DE LA ISLA
-Snacks para Perros Sabor Plátano y Pollo Pet Care 70 g,S/ 10.50,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,70.0,g,Snacks para Perros Sabor Plátano y Pollo Pet Care,10.5,tottus,,,PLÁTANO DE LA ISLA
-Harina de plátano 250 g,S/ 12.30,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,250.0,g,Harina de plátano,12.3,tottus,,GENERICO,PLÁTANO DE LA ISLA
-Plátano Frito Sabor Cabanossi 210 g,S/ 16.50,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,210.0,g,Plátano Frito Sabor Cabanossi,16.5,tottus,,ARTICHAY,PLÁTANO DE LA ISLA
-Plátano Frito Sabor Salsa Acevichado 210 g,S/ 16.50,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,210.0,g,Plátano Frito Sabor Salsa Acevichado,16.5,tottus,,ARTICHAY,PLÁTANO DE LA ISLA
-Granola Coco Plátano 250 g,S/ 18.90,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,250.0,g,Granola Coco Plátano,18.9,tottus,,DYFFERENT,PLÁTANO DE LA ISLA
-Chocolate Plátano 80% Cacao Quma 70 g,S/ 19.90,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,70.0,g,Chocolate Plátano 80% Cacao Quma,19.9,tottus,,,PLÁTANO DE LA ISLA
-Yogy Fresas y Plátano 4 unds 100 g,S/ 24.90,tottus,PLÁTANO DE LA ISLA,2024-12-05 11:59:40.659642,4.0,un,Yogy Fresas y Plátano ds,24.9,tottus,,NATURAL HOME,PLÁTANO DE LA ISLA

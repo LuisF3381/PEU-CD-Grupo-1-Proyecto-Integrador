@@ -1,11 +1,6 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Comida para Perros RICOCAN Adultos Trocitos Sabor Cordero 100g,S/ 3.00,vega,TOCINO AHUMADO,2024-12-05 12:09:30.092115,100.0,g,Comida para Perros RICOCAN Adultos Trocitos Sabor Cordero,3.0,vega,,Ricocan,TOCINO AHUMADO
-Comida para Perros RICOCAN Adultos Trocitos Carne 100g,S/ 3.00,vega,TOCINO AHUMADO,2024-12-05 12:09:30.092115,100.0,g,Comida para Perros RICOCAN Adultos Trocitos Carne,3.0,vega,,Ricocan,TOCINO AHUMADO
 Tocino Ahumado Clásico Rico 100g,S/ 4.20,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,100.0,g,Tocino Ahumado Clásico Rico,4.2,metro,,,TOCINO AHUMADO
-Comida para Perros RICOCAN Adultos Sabor a Trocitos de Pollo y verduras Lata 290gr,S/ 6.00,vega,TOCINO AHUMADO,2024-12-05 12:09:30.092115,290.0,g,Comida para Perros RICOCAN Adultos Sabor a Trocitos de Pollo y verduras Lata r,6.0,vega,,Ricocan,TOCINO AHUMADO
-Comida para Perros RICOCAN Adultos Sabor a Trocitos de Cordero y Arroz Lata 290gr,S/ 6.00,vega,TOCINO AHUMADO,2024-12-05 12:09:30.092115,290.0,g,Comida para Perros RICOCAN Adultos Sabor a Trocitos de Cordero y Arroz Lata r,6.0,vega,,Ricocan,TOCINO AHUMADO
 Tocino Ahumado BELL'S SELECCIÓN Paquete 100g,S/ 7.90,vivanda,TOCINO AHUMADO,2024-12-05 21:46:06.059077,100.0,g,Tocino Ahumado BELL'S SELECCIÓN Paquete,7.9,vivanda,,BELL'S SELECCIÓN,TOCINO AHUMADO
-Tocino Ahumado BELL'S SELECCIÓN Paquete 100g,S/ 7.90 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,100.0,g,Tocino Ahumado BELL'S SELECCIÓN Paquete,7.9,plaza_vea,Paquete 100g,,TOCINO AHUMADO
 Tocino Ahumado La Segoviana Paquete 100 g,S/ 8.20,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,100.0,g,Tocino Ahumado La Segoviana Paquete,8.2,metro,,,TOCINO AHUMADO
 Tocino Cocido Ahumado SANT DALMAI Paquete 150g,S/ 9.50 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,150.0,g,Tocino Cocido Ahumado SANT DALMAI Paquete,9.5,plaza_vea,Bolsa 150g,,TOCINO AHUMADO
 Tocino Cocido Ahumado SANT DALMAI Paquete 150g,S/ 10.50,vivanda,TOCINO AHUMADO,2024-12-05 21:46:06.059077,150.0,g,Tocino Cocido Ahumado SANT DALMAI Paquete,10.5,vivanda,,SANT DALMAI,TOCINO AHUMADO
@@ -13,15 +8,15 @@ Tocino Natural Ahumado Cuisine & Co 200g,S/ 10.90,metro,TOCINO AHUMADO,2024-12-0
 Tocino Ahumado Otto Kunz 150g,S/ 11.22,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,150.0,g,Tocino Ahumado Otto Kunz,11.22,metro,,,TOCINO AHUMADO
 Tocino Ahumado OTTO KUNZ Paquete 150g,S/ 13.20 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,150.0,g,Tocino Ahumado OTTO KUNZ Paquete,13.2,plaza_vea,Paquete 150g,,TOCINO AHUMADO
 Tocino Ahumado Zimmermann Paquete 200 g,S/ 14.32,wong,TOCINO AHUMADO,2024-12-05 18:05:04.184547,200.0,g,Tocino Ahumado Zimmermann Paquete,14.32,wong,,,TOCINO AHUMADO
+Tocino Natural Ahumado 200 g,S/ 14.50,tottus,TOCINO AHUMADO,2024-12-05 11:36:47.997269,200.0,g,Tocino Natural Ahumado,14.5,tottus,,SALCHICHERIA ALEMANA,TOCINO AHUMADO
 Tocino Cocido SANT DALMAI Ahumado Bolsa 200g,S/ 14.90,vivanda,TOCINO AHUMADO,2024-12-05 21:46:06.059077,200.0,g,Tocino Cocido SANT DALMAI Ahumado Bolsa,14.9,vivanda,,SANT DALMAI,TOCINO AHUMADO
 TOCINO AHUMADO 200GR,S/ 14.90,tottus,TOCINO AHUMADO,2024-12-05 11:36:47.997269,200.0,g,TOCINO AHUMADO R,14.9,tottus,,TOTTUS,TOCINO AHUMADO
-Tocino Natural Ahumado Salchichería Alemana 200g,S/ 14.90,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,200.0,g,Tocino Natural Ahumado Salchichería Alemana,14.9,metro,,,TOCINO AHUMADO
-Tocino Ahumado - Paquete 200 gr,S/ 15.50,tottus,TOCINO AHUMADO,2024-12-05 11:36:47.997269,200.0,g,Tocino Ahumado - Paquete r,15.5,tottus,,BRAEDT,TOCINO AHUMADO
-Tocino Ahumado Suiza 200g,S/ 15.50,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,200.0,g,Tocino Ahumado Suiza,15.5,metro,,,TOCINO AHUMADO
+Tocino Ahumado SALCHICHERÍA SUIZA Paquete 200g,S/ 15.50 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,200.0,g,Tocino Ahumado SALCHICHERÍA SUIZA Paquete,15.5,plaza_vea,Paquete 200g,,TOCINO AHUMADO
+Tocino Ahumado BRAEDT Paquete 200g,S/ 15.50 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,200.0,g,Tocino Ahumado BRAEDT Paquete,15.5,plaza_vea,Paquete 200g,,TOCINO AHUMADO
 Tocino cocido Ahumado Casa Europa paquete 200 g,S/ 15.68,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,200.0,g,Tocino cocido Ahumado Casa Europa paquete,15.68,metro,,,TOCINO AHUMADO
 Tocino Ahumado OREGON FOOD'S Paquete 200g,S/ 16.80 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,200.0,g,Tocino Ahumado OREGON FOOD'S Paquete,16.8,plaza_vea,Paquete 200g,,TOCINO AHUMADO
 TOCINO AHUMADO SALCHICHERIA X 200 GRS,S/ 17.20,tottus,TOCINO AHUMADO,2024-12-05 11:36:47.997269,200.0,g,TOCINO AHUMADO SALCHICHERIA X RS,17.2,tottus,,SUIZA,TOCINO AHUMADO
-Tocino Cocido SANT DALMAI Ahumado Bolsa 500g,S/ 17.90 un,plaza_vea,TOCINO AHUMADO,2024-12-05 14:52:17.729106,500.0,g,Tocino Cocido SANT DALMAI Ahumado Bolsa,17.9,plaza_vea,Bolsa 500g,,TOCINO AHUMADO
+Tocino ahumado 200 g,S/ 17.50,tottus,TOCINO AHUMADO,2024-12-05 11:36:47.997269,200.0,g,Tocino ahumado,17.5,tottus,,CASA EUROPA,TOCINO AHUMADO
 Tocino Ahumado Oregon Foods 200g,S/ 17.90,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,200.0,g,Tocino Ahumado Oregon Foods,17.9,metro,,,TOCINO AHUMADO
 Tocino Ahumado Braedt Paquete 200 g,S/ 18.30,wong,TOCINO AHUMADO,2024-12-05 18:05:04.184547,200.0,g,Tocino Ahumado Braedt Paquete,18.3,wong,,,TOCINO AHUMADO
 Tocino Ahumado Braedt Paquete 200 g,S/ 18.30,metro,TOCINO AHUMADO,2024-12-05 15:35:26.964893,200.0,g,Tocino Ahumado Braedt Paquete,18.3,metro,,,TOCINO AHUMADO

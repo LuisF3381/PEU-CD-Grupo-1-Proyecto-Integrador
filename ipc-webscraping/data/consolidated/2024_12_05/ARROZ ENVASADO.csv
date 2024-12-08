@@ -1,321 +1,272 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Sazonador AJINOMIX Deli Arroz Paquete 6un,S/ 1.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,6.0,un,Sazonador AJINOMIX Deli Arroz Paquete,1.7,plaza_vea,Paquete 6un,,ARROZ ENVASADO
-Sazonador AJINOMIX Deli Arroz Paquete 6un,S/ 1.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,6.0,un,Sazonador AJINOMIX Deli Arroz Paquete,1.7,vivanda,,AJINOMIX,ARROZ ENVASADO
-Sazonador Deli Arroz Pack 6 Unid,S/ 1.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,6.0,un,Sazonador Deli Arroz Pack,1.7,metro,,,ARROZ ENVASADO
-Sazonador de arroz Deliarroz 6 unidades,S/ 1.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,6.0,un,Sazonador de arroz Deliarroz ades,1.9,tottus,,AJINOMIX,ARROZ ENVASADO
-Galleta De Arroz Costeño Dulce 45 g,S/ 2,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,45.0,g,Galleta De Arroz Costeño Dulce,2.0,tottus,,COSTENO,ARROZ ENVASADO
-Galleta De Arroz Costeño Clasica 45 g,S/ 2,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,45.0,g,Galleta De Arroz Costeño Clasica,2.0,tottus,,COSTENO,ARROZ ENVASADO
-Galletas de Arroz Costeño Clásica 50g,S/ 2.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galletas de Arroz Costeño Clásica,2.0,metro,,,ARROZ ENVASADO
-Galletas de Arroz Costeño Dulce 50g,S/ 2.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galletas de Arroz Costeño Dulce,2.0,metro,,,ARROZ ENVASADO
-Galletas de Arroz Costeño Finas Hierbas 45g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,45.0,g,Galletas de Arroz Costeño Finas Hierbas,2.1,wong,,,ARROZ ENVASADO
-Galletas de Arroz Costeño Dulce 50g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galletas de Arroz Costeño Dulce,2.1,wong,,,ARROZ ENVASADO
-Galletas de Arroz Costeño Clásica 50g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galletas de Arroz Costeño Clásica,2.1,wong,,,ARROZ ENVASADO
-Arroz BELL'S Familiar Bolsa 750g,S/ 3 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz BELL'S Familiar Bolsa,3.0,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Familiar COSECHA NORTEÑA Bolsa 750g,S/ 3.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Familiar COSECHA NORTEÑA Bolsa,3.1,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Yogurt GLORIA Battimix Vainilla con Arroz Cruj...,S/ 3.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj,3.1,plaza_vea,Vaso 146g,,ARROZ ENVASADO
-Arroz con Leche Metro Cup 190 g,S/ 3.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,190.0,g,Arroz con Leche Metro Cup,3.5,metro,,,ARROZ ENVASADO
-Arroz Atómico Nevado con Vainilla 125 g,S/ 3.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,125.0,g,Arroz Atómico Nevado con Vainilla,3.5,tottus,,FORTE GOLPE,ARROZ ENVASADO
-Arroz Superior BELL'S Bolsa 750g,S/ 3.60,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Superior BELL'S Bolsa,3.6,vivanda,,BELL'S,ARROZ ENVASADO
-Arroz Superior BELL'S Bolsa 750g,S/ 3.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Superior BELL'S Bolsa,3.6,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Superior Cuisine & Co 750g,S/ 3.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Cuisine & Co,3.6,metro,,,ARROZ ENVASADO
-Yogurt GLORIA Battimix Vainilla con Arroz Crujiente Bañado en Chocolate Vaso 146g,S/ 3.60,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Crujiente Bañado en Chocolate Vaso,3.6,vivanda,,GLORIA,ARROZ ENVASADO
-Arroz Superior VEGA Bolsa 750g,S/ 3.70,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,750.0,g,Arroz Superior VEGA Bolsa,3.7,vega,,Vega,ARROZ ENVASADO
-Conserva de Maíz BELL'S Lata 150g,S/ 3.79 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Conserva de Maíz BELL'S Lata,3.79,plaza_vea,Lata 150g,,ARROZ ENVASADO
-Arroz Extra Cuisine & Co 750g,S/ 3.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Extra Cuisine & Co,3.8,metro,,,ARROZ ENVASADO
-Arroz Extra Cuisine & Co 750g,S/ 3.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Extra Cuisine & Co,3.8,wong,,,ARROZ ENVASADO
-Arroz Extra Wong 750g,S/ 3.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Extra Wong,3.8,wong,,,ARROZ ENVASADO
-Arroz Extra Integral 750 g,S/ 3.89,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Integral,3.89,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Integral Cuisine & Co 750g,S/ 3.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Integral Cuisine & Co,3.9,wong,,,ARROZ ENVASADO
-Arroz Añejo Extra Cuisine & Co 750g,S/ 3.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Añejo Extra Cuisine & Co,3.9,wong,,,ARROZ ENVASADO
-Arroz Integral Cuisine & Co 750g,S/ 3.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Cuisine & Co,3.9,metro,,,ARROZ ENVASADO
-Arroz Superior VALLENORTE Bolsa 750g,S/ 3.99,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Superior VALLENORTE Bolsa,3.99,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Superior Valle Norte 750 g,S/ 3.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Valle Norte,3.99,tottus,,VALLENORTE,ARROZ ENVASADO
-Aceitunas Enteras en Conserva OLIVALLE Botija ...,S/ 4 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,180.0,g,Aceitunas Enteras en Conserva OLIVALLE Botija,4.0,plaza_vea,Doypack 180g,,ARROZ ENVASADO
-Arroz Extra 750 g,S/ 4,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra,4.0,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz con Leche LA FLORENCIA Envase 140g,S/ 4.00,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,140.0,g,Arroz con Leche LA FLORENCIA Envase,4.0,vivanda,,LA FLORENCIA,ARROZ ENVASADO
-Arroz Superior x 750 g,S/ 4,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior x,4.0,tottus,,FARAON,ARROZ ENVASADO
-Arroz Atómico Integral con Miel 125g,S/ 4.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,125.0,g,Arroz Atómico Integral con Miel,4.1,wong,,,ARROZ ENVASADO
-Arroz Atómico Integral con Miel 125g,S/ 4.10,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,125.0,g,Arroz Atómico Integral con Miel,4.1,metro,,,ARROZ ENVASADO
-Aceitunas Verdes Deshuesadas OLIVALLE en Conse...,S/ 4.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,160.0,g,Aceitunas Verdes Deshuesadas OLIVALLE en Conse,4.2,plaza_vea,Doypack 160g,,ARROZ ENVASADO
-Arroz Integral BELL'S Bolsa 750g,S/ 4.20,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral BELL'S Bolsa,4.2,vivanda,,BELL'S,ARROZ ENVASADO
-Arroz Superior Valle Norte Primera Cosecha Bolsa 750 g,S/ 4.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Valle Norte Primera Cosecha Bolsa,4.2,metro,,,ARROZ ENVASADO
-Arroz Atómico Nevado Forte Golpe Bolsa 125 g,S/ 4.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,125.0,g,Arroz Atómico Nevado Forte Golpe Bolsa,4.2,metro,,,ARROZ ENVASADO
-Arroz Extra FARAON Bolsa 750g,S/ 4.29 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra FARAON Bolsa,4.29,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Extra BELL'S Selección Bolsa 750g,S/ 4.30,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Extra BELL'S Selección Bolsa,4.3,vivanda,,BELL'S SELECCIÓN,ARROZ ENVASADO
-Arroz Superior Valle Norte Primera Cosecha Bolsa 750 g,S/ 4.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Superior Valle Norte Primera Cosecha Bolsa,4.3,wong,,,ARROZ ENVASADO
-Arroz Superior Costeño 750 g,S/ 4.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Costeño,4.3,tottus,,COSTENO,ARROZ ENVASADO
-Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Arveja Partida Costeño,4.4,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Extra 750 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra,4.4,tottus,,PACASMAYO,ARROZ ENVASADO
-Arroz Extra Faraón 750 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Faraón,4.4,tottus,,FARAON,ARROZ ENVASADO
-Arroz Superior Añejo Faraón Rojo 750g,S/ 4.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Superior Añejo Faraón Rojo,4.4,wong,,,ARROZ ENVASADO
-Arroz Superior Wong Bolsa 1 Kg,S/ 4.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Superior Wong Bolsa,4.4,wong,,,ARROZ ENVASADO
-Arroz Añejo Extra COSTEÑO Bolsa 750g,S/ 4.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Añejo Extra COSTEÑO Bolsa,4.5,vivanda,,COSTENO,ARROZ ENVASADO
-Arroz con Leche Cuisine & Co x 160g,S/ 4.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,160.0,g,Arroz con Leche Cuisine & Co x,4.5,metro,,,ARROZ ENVASADO
-Arroz Superior Añejo 750 g,S/ 4.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Añejo,4.5,tottus,,VALLENORTE,ARROZ ENVASADO
-Arroz Costeño Añejo Extra 750g,S/ 4.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Costeño Añejo Extra,4.5,wong,,,ARROZ ENVASADO
-Arroz Superior Gran Chalán 750 g,S/ 4.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Gran Chalán,4.6,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz con Miel + Trigo con Miel Vita Pluss Bolsa 125 g Pack 5 unid,S/ 4.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,125.0,g,Arroz con Miel + Trigo con Miel Vita Pluss Bolsa  Pack,4.6,wong,,,ARROZ ENVASADO
-Arroz Añejo 750 g,S/ 4.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Añejo,4.6,tottus,,PACASMAYO,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraón Naranja 750g,S/ 4.65,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Blanco Extra Añejo Faraón Naranja,4.65,metro,,,ARROZ ENVASADO
-Arroz Añejo Amarillo FARAÓN G3 Bolsa 1Kg,S/ 4.69,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,1.0,kg,Arroz Añejo Amarillo FARAÓN G3 Bolsa,4.69,vivanda,,FARAON,ARROZ ENVASADO
-Arroz Añejo Superior Valle Norte 750g,S/ 4.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Añejo Superior Valle Norte,4.7,metro,,,ARROZ ENVASADO
-Arroz Superior Añejo VALLENORTE Bolsa 750g,S/ 4.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Superior Añejo VALLENORTE Bolsa,4.7,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra COSTEÑO Bolsa 750g,S/ 4.70,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,750.0,g,Arroz Extra COSTEÑO Bolsa,4.7,vega,,Costeño,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraón Naranja 750g,S/ 4.75,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Blanco Extra Añejo Faraón Naranja,4.75,wong,,,ARROZ ENVASADO
-Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Gran Reserva Extra Valle Norte Bolsa,4.8,metro,,,ARROZ ENVASADO
-Maíz Pop Corn Costeño 500 g,S/ 4.80,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Maíz Pop Corn Costeño,4.8,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Añejo Superior Valle Norte 750g,S/ 4.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Añejo Superior Valle Norte,4.8,wong,,,ARROZ ENVASADO
-Arroz Gran Reserva Extra Valle Norte Bolsa 750 g,S/ 4.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Gran Reserva Extra Valle Norte Bolsa,4.9,wong,,,ARROZ ENVASADO
-Arroz Superior Gran Chalán 750g,S/ 4.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Gran Chalán,4.9,metro,,,ARROZ ENVASADO
-Arroz Extra COSTEÑO Bolsa 750g,S/ 4.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Extra COSTEÑO Bolsa,4.9,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Integral Molino Rojo Bolsa 1 Kg,S/ 4.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Integral Molino Rojo Bolsa,4.9,metro,,,ARROZ ENVASADO
-Arroz Extra Costeño 750 g,S/ 4.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Costeño,4.9,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Extra COSTEÑO Bolsa 750g,S/ 4.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Extra COSTEÑO Bolsa,4.9,vivanda,,COSTENO,ARROZ ENVASADO
-"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz 90g",S/ 4.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,90.0,g,"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz",4.9,wong,,,ARROZ ENVASADO
-Arroz Extra FARAON Bolsa 750g,S/ 5.00,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,750.0,g,Arroz Extra FARAON Bolsa,5.0,vega,,Faraon,ARROZ ENVASADO
-Arroz Extra Natural 750 g,S/ 5,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Natural,5.0,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz Integral Extra Bolsa 750 g,S/ 5.15,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Extra Bolsa,5.15,metro,,,ARROZ ENVASADO
-Arroz Superior 1 kg,S/ 5.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Arroz Superior,5.3,tottus,,PAISANA,ARROZ ENVASADO
-Ají de Pollo con Arroz Blanco 180g,S/ 5.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,180.0,g,Ají de Pollo con Arroz Blanco,5.4,metro,,,ARROZ ENVASADO
-Arroz Integral COSTEÑO Bolsa 750g,S/ 5.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Integral COSTEÑO Bolsa,5.4,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Chauda de Pollo 180g,S/ 5.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,180.0,g,Arroz Chauda de Pollo,5.5,metro,,,ARROZ ENVASADO
-Lunch Arroz Blanco LA FLORENCIA 500g,S/ 5.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Arroz Blanco LA FLORENCIA,5.5,plaza_vea,Bandeja 1un,,ARROZ ENVASADO
-Arroz Superior Paisana Bolsa 1 kg,S/ 5.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Superior Paisana Bolsa,5.5,metro,,,ARROZ ENVASADO
-Arroz Parbolizado Costeño 750g,S/ 5.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Parbolizado Costeño,5.6,metro,,,ARROZ ENVASADO
-Arroz Parbolizado COSTEÑO Bolsa 750g,S/ 5.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,750.0,g,Arroz Parbolizado COSTEÑO Bolsa,5.6,plaza_vea,Bolsa 750g,,ARROZ ENVASADO
-Arroz Integral Vallenorte 750g,S/ 5.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Vallenorte,5.6,metro,,,ARROZ ENVASADO
-Arroz Embolsado Costeño Parbolizado 750 g,S/ 5.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Embolsado Costeño Parbolizado,5.6,tottus,,COSTENO,ARROZ ENVASADO
-Papa Seca 400 g,S/ 5.65,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Papa Seca,5.65,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Integral VALLENORTE Bolsa 750g,S/ 5.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral VALLENORTE Bolsa,5.7,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra Paisana Bolsa 1 kg,S/ 5.75,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Extra Paisana Bolsa,5.75,metro,,,ARROZ ENVASADO
-Arroz Extra Paisana Bolsa 1 kg,S/ 5.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Extra Paisana Bolsa,5.8,wong,,,ARROZ ENVASADO
-Trocitos de Cordero Arroz Adulto 290 gr,S/ 5.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,290.0,g,Trocitos de Cordero Arroz Adulto r,5.9,tottus,,RICOCAN,ARROZ ENVASADO
-Arroz Integral Gran Chalán x 750 g,S/ 5.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Integral Gran Chalán x,5.9,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz Superior Paisana Bolsa 1 kg,S/ 5.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Superior Paisana Bolsa,5.99,wong,,,ARROZ ENVASADO
-Arroz Integral COSTEÑO Bolsa 750g,S/ 6.00,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral COSTEÑO Bolsa,6.0,vivanda,,COSTENO,ARROZ ENVASADO
-Aceitunas en Conserva BELL'S Verdes Enteras Bo...,S/ 6.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,250.0,g,Aceitunas en Conserva BELL'S Verdes Enteras Bo,6.1,plaza_vea,Bolsa 250g,,ARROZ ENVASADO
-Arroz Integral Paisana Bolsa 1 kg,S/ 6.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Integral Paisana Bolsa,6.2,metro,,,ARROZ ENVASADO
-Arroz Integral Costeño 750g,S/ 6.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Integral Costeño,6.2,wong,,,ARROZ ENVASADO
-Base de Arroz con Pollo PERÚ- PRIDE Bolsa 35g,S/ 6.49 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,35.0,g,Base de Arroz con Pollo PERÚ- PRIDE Bolsa,6.49,plaza_vea,Bolsa 35g,,ARROZ ENVASADO
-Conserva de Zanahoria Rallada BELL'S Lata 360...,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,360.0,g,Conserva de Zanahoria Rallada BELL'S Lata 360,6.5,plaza_vea,Lata 360g,,ARROZ ENVASADO
-Conserva de Betarraga BELL'S Lata 345g,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,345.0,g,Conserva de Betarraga BELL'S Lata,6.5,plaza_vea,Lata 345g,,ARROZ ENVASADO
-Galletas de Arroz BELL'S Bolsa 150g,S/ 6.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,150.0,g,Galletas de Arroz BELL'S Bolsa,6.5,vivanda,,BELL'S,ARROZ ENVASADO
-Galletas de Arroz BELL'S Bolsa 150g,S/ 6.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galletas de Arroz BELL'S Bolsa,6.5,plaza_vea,Bolsa 150g,,ARROZ ENVASADO
-Cereal Bar Chips 8 Unidades 21g,S/ 6.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,8.0,un,Cereal Bar Chips ades,6.6,tottus,,COSTA,ARROZ ENVASADO
-Galletas De Arroz Cuisine & Co Doypack 120 g,S/ 6.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,120.0,g,Galletas De Arroz Cuisine & Co Doypack,6.8,metro,,,ARROZ ENVASADO
-Galletas de arroz dulce costeño 150 gr,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,150.0,g,Galletas de arroz dulce costeño r,6.9,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Carnaroli SCOTTI Funghi Porcin Bolsa 210g,S/ 6.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,210.0,g,Arroz Carnaroli SCOTTI Funghi Porcin Bolsa,6.9,vivanda,,SCOTT,ARROZ ENVASADO
-Harina sin Preparar 1 kg,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Harina sin Preparar,6.9,tottus,,TOTTUS,ARROZ ENVASADO
-Galletas de Arroz Costeño Tomate Intenso Doypack 150 g,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Tomate Intenso Doypack,6.9,metro,,,ARROZ ENVASADO
-Galletas de Arroz COSTEÑO Dulce Bolsa 150g,S/ 6.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galletas de Arroz COSTEÑO Dulce Bolsa,6.9,plaza_vea,Bolsa 150g,,ARROZ ENVASADO
-Galleta de Arroz COSTEÑO Finas Hierbas Doypack 150g,S/ 6.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,150.0,g,Galleta de Arroz COSTEÑO Finas Hierbas Doypack,6.9,vivanda,,COSTEÑO,ARROZ ENVASADO
-Galletas de Arroz Costeño Pimienta Doypack 150 gr,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Pimienta Doypack r,6.9,metro,,,ARROZ ENVASADO
-Galleta de Arroz COSTEÑO Finas Hierbas Doypack...,S/ 6.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,150.0,g,Galleta de Arroz COSTEÑO Finas Hierbas Doypack,6.9,plaza_vea,Doypack 150g,,ARROZ ENVASADO
-Galletas de Arroz Dulce Sin Gluten Costeño Doypack 150 g,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Dulce Sin Gluten Costeño Doypack,6.9,metro,,,ARROZ ENVASADO
-Galletas de Arroz Clásicas Costeño 150 gr,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,150.0,g,Galletas de Arroz Clásicas Costeño r,6.9,tottus,,COSTENO,ARROZ ENVASADO
-Galletas de Arroz Costeño Finas Hierbas Doypack 150 g,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Finas Hierbas Doypack,6.9,metro,,,ARROZ ENVASADO
-Arroz Parbolizado Paisana Bolsa 1 kg,S/ 7.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Parbolizado Paisana Bolsa,7.0,metro,,,ARROZ ENVASADO
-Frijol Panamito Costeño 500 g,S/ 7,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Frijol Panamito Costeño,7.0,tottus,,COSTENO,ARROZ ENVASADO
-Harina de Trigo Preparada 1 kg,S/ 7.10,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Harina de Trigo Preparada,7.1,tottus,,TOTTUS,ARROZ ENVASADO
-Galletas de Arroz Dulce Sin Gluten Costeño Doypack 150 g,S/ 7.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,150.0,g,Galletas de Arroz Dulce Sin Gluten Costeño Doypack,7.1,wong,,,ARROZ ENVASADO
-Lenteja Costeño 500 g,S/ 7.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Lenteja Costeño,7.3,tottus,,COSTENO,ARROZ ENVASADO
-Garbanzo Costeño 500 g,S/ 7.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Garbanzo Costeño,7.4,tottus,,COSTENO,ARROZ ENVASADO
-Arroz para Cocina Oriental Mizu 1kg,S/ 7.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz para Cocina Oriental Mizu,7.6,wong,,,ARROZ ENVASADO
-Conserva VALLE FERTIL Arvejitas verdes Lata 24...,S/ 7.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,241.0,g,Conserva VALLE FERTIL Arvejitas verdes Lata 24,7.6,plaza_vea,Lata 241g,,ARROZ ENVASADO
-Conserva VALLE FERTIL Choclo dulce desgranado ...,S/ 7.60 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,248.0,g,Conserva VALLE FERTIL Choclo dulce desgranado,7.6,plaza_vea,Lata 248g,,ARROZ ENVASADO
-Arroz con Pollo BELL'S Bandeja 200g,S/ 7.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,200.0,g,Arroz con Pollo BELL'S Bandeja,7.7,plaza_vea,Bandeja 200g,,ARROZ ENVASADO
-Arroz Glaseado Tesoro Del Campo Bolsa 1 Kg,S/ 7.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Glaseado Tesoro Del Campo Bolsa,7.8,metro,,,ARROZ ENVASADO
-Arroz Glaseado Tesoro Del Campo Bolsa 1 Kg,S/ 8.25,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Glaseado Tesoro Del Campo Bolsa,8.25,wong,,,ARROZ ENVASADO
-Conserva de Pechuga de Pavo ALDELÍS en Agua y ...,S/ 8.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,155.0,g,Conserva de Pechuga de Pavo ALDELÍS en Agua y,8.4,plaza_vea,Lata 155g,,ARROZ ENVASADO
-100 Luces Krea Arroz Colores L5,S/ 8.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,100.0,l,uces Krea Arroz Colores L5,8.4,metro,,,ARROZ ENVASADO
-Rodajas de Jalapeños en Conserva VALLE FERTIL ...,S/ 8.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,225.0,g,Rodajas de Jalapeños en Conserva VALLE FERTIL,8.8,plaza_vea,Frasco 225g,,ARROZ ENVASADO
-Arroz con Pollo Seco o Aguadito PROVENZAL Sachet 58g,S/ 8.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,58.0,g,Arroz con Pollo Seco o Aguadito PROVENZAL Sachet,8.9,vivanda,,PROVENZAL,ARROZ ENVASADO
-Lunch Arroz Chaufa de Pollo LA FLORENCIA 500g,S/ 8.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,500.0,g,Lunch Arroz Chaufa de Pollo LA FLORENCIA,8.9,vivanda,,LA FLORENCIA,ARROZ ENVASADO
-Harina de Arroz COSTEÑO Bolsa 1kg,S/ 8.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,kg,Harina de Arroz COSTEÑO Bolsa,8.9,plaza_vea,Bolsa 1Kg,,ARROZ ENVASADO
-Lunch Arroz Chaufa de Pollo LA FLORENCIA 500g,S/ 8.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Arroz Chaufa de Pollo LA FLORENCIA,8.9,plaza_vea,Bandeja 1un,,ARROZ ENVASADO
-Mezcla para Arroz con Pollo Seco y Aguadito 58 g,S/ 9,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,58.0,g,Mezcla para Arroz con Pollo Seco y Aguadito,9.0,tottus,,PROVENZAL,ARROZ ENVASADO
-Base para Arroz con Pollo Provenzal Sobre 58 g,S/ 9.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,58.0,g,Base para Arroz con Pollo Provenzal Sobre,9.2,wong,,,ARROZ ENVASADO
-Vinagre de Arroz BARCIDDA Botella 500ml,S/ 9.59,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,500.0,ml,Vinagre de Arroz BARCIDDA Botella,9.59,vivanda,,BARCIDDA,ARROZ ENVASADO
-Conserva VALLE FERTIL Choclo dulce desgranado ...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,432.0,g,Conserva VALLE FERTIL Choclo dulce desgranado,9.9,plaza_vea,Lata 432g,,ARROZ ENVASADO
-Conserva VALLE FERTIL Pimiento morrón Frasco 3...,S/ 9.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,360.0,g,Conserva VALLE FERTIL Pimiento morrón Frasco 3,9.9,plaza_vea,Frasco 360g,,ARROZ ENVASADO
-Conserva VAN CAMP'S PORK AND BEANS Frijoles co...,S/ 10.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,15.0,oz,Conserva VAN CAMP'S PORK AND BEANS Frijoles co,10.1,plaza_vea,Lata 15oz,,ARROZ ENVASADO
-Conserva VALLE FERTIL Espárragos blancos Frasc...,S/ 10.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,210.0,g,Conserva VALLE FERTIL Espárragos blancos Frasc,10.2,plaza_vea,Frasco 210g,,ARROZ ENVASADO
-Conserva VALLE FERTIL Espárragos verdes Frasco...,S/ 10.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,210.0,g,Conserva VALLE FERTIL Espárragos verdes Frasco,10.2,plaza_vea,Frasco 210g,,ARROZ ENVASADO
-Verduras Picadas para Arroz con Pollo Cuisine & Co 200g,S/ 10.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,200.0,g,Verduras Picadas para Arroz con Pollo Cuisine & Co,10.3,metro,,,ARROZ ENVASADO
-Conserva VALLE FERTIL Pimiento piquillo Frasco...,S/ 10.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,290.0,g,Conserva VALLE FERTIL Pimiento piquillo Frasco,10.3,plaza_vea,Frasco 290g,,ARROZ ENVASADO
-Arroz Chaufa con Pollo Cuisine & Co 400g,S/ 10.32,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Arroz Chaufa con Pollo Cuisine & Co,10.32,metro,,,ARROZ ENVASADO
-Frijol Canario Costeño 500 g,S/ 10.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Frijol Canario Costeño,10.4,tottus,,COSTENO,ARROZ ENVASADO
-Fideos de Arroz Sha He Noodle 250g,S/ 10.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Fideos de Arroz Sha He Noodle,10.5,wong,,,ARROZ ENVASADO
-Pan de Molde Rebanado Bimbo Fuente de Calcio 480 g,S/ 10.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,480.0,g,Pan de Molde Rebanado Bimbo Fuente de Calcio,10.5,tottus,,,ARROZ ENVASADO
-Lentejas bebé de 1 kg,S/ 10.51,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Lentejas bebé de,10.51,tottus,,TOTTUS,ARROZ ENVASADO
-Pan de molde integral 480 g,S/ 10.70,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,480.0,g,Pan de molde integral,10.7,tottus,,BIMBO,ARROZ ENVASADO
-Lunch Picante de Carne con Arroz LA FLORENCIA 450g,S/ 10.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,450.0,g,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9,vivanda,,LA FLORENCIA,ARROZ ENVASADO
-Arroz con Pollo LA FLORENCIA Bandeja 450g,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,450.0,g,Arroz con Pollo LA FLORENCIA Bandeja,10.9,plaza_vea,Bandeja 450g,,ARROZ ENVASADO
-Conserva de Durazno en Mitades ACONCAGUA en Al...,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,822.0,g,Conserva de Durazno en Mitades ACONCAGUA en Al,10.9,plaza_vea,Lata 822g,,ARROZ ENVASADO
-Harina de Kiwicha Renacer 200 g,S/ 10.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,200.0,g,Harina de Kiwicha Renacer,10.9,tottus,,GENERICO,ARROZ ENVASADO
-Lunch Picante de Carne con Arroz LA FLORENCIA ...,S/ 10.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,un,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9,plaza_vea,Bandeja 1un,,ARROZ ENVASADO
-Harina De Linaza Productos Andinos 500 g,S/ 10.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Harina De Linaza Productos Andinos,10.9,tottus,,,ARROZ ENVASADO
-Galletas de Arroz Integral con Ajonjolí SuperSlim Want Want Caja 100 g,S/ 11.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,100.0,g,Galletas de Arroz Integral con Ajonjolí SuperSlim Want Want Caja,11.1,wong,,,ARROZ ENVASADO
-Galletas de Arroz Super Slim Rice Crisps Sea Salt 100g,S/ 11.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,100.0,g,Galletas de Arroz Super Slim Rice Crisps Sea Salt,11.2,wong,,,ARROZ ENVASADO
-Frutas en Conserva FRUTO DE ORO Pera en Mitade...,S/ 11.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,820.0,g,Frutas en Conserva FRUTO DE ORO Pera en Mitade,11.3,plaza_vea,Lata 820g,,ARROZ ENVASADO
-Aceitunas Verdes en Conserva OLIVOS DEL SUR En...,S/ 11.39 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,300.0,g,Aceitunas Verdes en Conserva OLIVOS DEL SUR En,11.39,plaza_vea,Doypack 300g,,ARROZ ENVASADO
-Arroz Tostado Choco Krispis Kellogg's Caja 310 g,S/ 11.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,310.0,g,Arroz Tostado Choco Krispis Kellogg's Caja,11.5,metro,,,ARROZ ENVASADO
-INFUSION HERB SURTIDO CAJA X 20UND,S/ 11.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,20.0,un,INFUSION HERB SURTIDO CAJA X D,11.5,tottus,,NATURES HEART,ARROZ ENVASADO
-Arroz DELGA-C Konjac Bajo en Calorías Doypack ...,S/ 11.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,270.0,g,Arroz DELGA-C Konjac Bajo en Calorías Doypack,11.5,plaza_vea,Doypack 270g,,ARROZ ENVASADO
-Galleta de Arroz Integral Scotti 150g,S/ 11.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,150.0,g,Galleta de Arroz Integral Scotti,11.7,wong,,,ARROZ ENVASADO
-Arroz Arborio Costeño 750g,S/ 11.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Arborio Costeño,11.9,metro,,,ARROZ ENVASADO
-Pan de molde artesano integral de 560 g,S/ 11.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,560.0,g,Pan de molde artesano integral de,11.9,tottus,,BIMBO,ARROZ ENVASADO
-Arroz Chaufa Cuisine & Co 500g,S/ 11.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Chaufa Cuisine & Co,11.99,wong,,,ARROZ ENVASADO
-Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,S/ 12.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,600.0,g,Pan de Molde Vital Integral Multicereal con Chía y Linaza,12.4,tottus,,BIMBO,ARROZ ENVASADO
-Escabeche de Pollo con Camote y Arroz Blanco Cuisine & Co 400g,S/ 12.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Escabeche de Pollo con Camote y Arroz Blanco Cuisine & Co,12.5,metro,,,ARROZ ENVASADO
-Arroz Carnaroli SCOTTI con Trufas Bolsa 210g,S/ 12.69,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,210.0,g,Arroz Carnaroli SCOTTI con Trufas Bolsa,12.69,vivanda,,SCOTT,ARROZ ENVASADO
-Pan Integral Xg 750 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,g,Pan Integral,12.9,tottus,,BIMBO,ARROZ ENVASADO
-Pan Molde Blanco Sin Corteza 560 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,560.0,g,Pan Molde Blanco Sin Corteza,12.9,tottus,,TOTTUS,ARROZ ENVASADO
-Conserva CALÉ TAPENADE Mix de aceitunas Frasco...,S/ 12.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,185.0,g,Conserva CALÉ TAPENADE Mix de aceitunas Frasco,12.9,plaza_vea,Frasco 185g,,ARROZ ENVASADO
-Arroz Chaufa con Vegetales Nadú 500g,S/ 12.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,g,Arroz Chaufa con Vegetales Nadú,12.9,metro,,,ARROZ ENVASADO
-Pan de Molde Blanco Xl 750 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Pan de Molde Blanco Xl,12.9,tottus,,BIMBO,ARROZ ENVASADO
-Lunch Seco con Frejoles y Arroz LA FLORENCIA 450g,S/ 12.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,450.0,g,Lunch Seco con Frejoles y Arroz LA FLORENCIA,12.9,vivanda,,LA FLORENCIA,ARROZ ENVASADO
-Arroz a la Jardinera Cuisine & Co 500g,S/ 12.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz a la Jardinera Cuisine & Co,12.9,wong,,,ARROZ ENVASADO
-Cereal de Avena y Arroz Cuisine & Co Sin Gluten 250g,S/ 13.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Cereal de Avena y Arroz Cuisine & Co Sin Gluten,13.2,wong,,,ARROZ ENVASADO
-Arroz a la Jardinera con Pollo al Horno Cuisine & Co 400g,S/ 13.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz a la Jardinera con Pollo al Horno Cuisine & Co,13.2,wong,,,ARROZ ENVASADO
-"Cereal de Arroz, Trigo, Maíz y Cacao 230g",S/ 13.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,230.0,g,"Cereal de Arroz, Trigo, Maíz y Cacao",13.5,tottus,,SUBLIME,ARROZ ENVASADO
-Arroz con Pollo Wong Ready Bandeja 320 g,S/ 13.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,320.0,g,Arroz con Pollo Wong Ready Bandeja,13.5,metro,,,ARROZ ENVASADO
-Arroz con Pollo Cuisine & Co 400g,S/ 13.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Arroz con Pollo Cuisine & Co,13.5,metro,,,ARROZ ENVASADO
-Conserva BELL'S Palmitos Enteros en Salmuera F...,S/ 13.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,430.0,g,Conserva BELL'S Palmitos Enteros en Salmuera F,13.9,plaza_vea,Frasco 430g,,ARROZ ENVASADO
-Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,S/ 13.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Pollo Tipakay con Arroz Chaufa Cuisine & Co,13.9,metro,,,ARROZ ENVASADO
-Galleta de Arroz Baby Mum-Mum Manzana Caja 50 gr,S/ 13.95,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galleta de Arroz Baby Mum-Mum Manzana Caja r,13.95,metro,,,ARROZ ENVASADO
-Galleta de Arroz Baby Mum-Mum Original Caja 50 gr,S/ 13.95,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galleta de Arroz Baby Mum-Mum Original Caja r,13.95,metro,,,ARROZ ENVASADO
-Galletas BABY MUM Arroz Sabor Manzana Caja 50g,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas BABY MUM Arroz Sabor Manzana Caja,13.99,plaza_vea,Caja 50g,,ARROZ ENVASADO
-Galletas BABY MUM Arroz Sabor Original Caja 50g,S/ 13.99,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,50.0,g,Galletas BABY MUM Arroz Sabor Original Caja,13.99,vivanda,,BABY MUM,ARROZ ENVASADO
-Galletas de Arroz BABY MUM sabor Zanahoria Caj...,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas de Arroz BABY MUM sabor Zanahoria Caj,13.99,plaza_vea,Caja 50g,,ARROZ ENVASADO
-Galletas BABY MUM Arroz Sabor Original Caja 50...,S/ 13.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas BABY MUM Arroz Sabor Original Caja 50,13.99,plaza_vea,Caja 50g,,ARROZ ENVASADO
-Galleta de Arroz Original Hot Kid 50 g,S/ 13.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,50.0,g,Galleta de Arroz Original Hot Kid,13.99,tottus,,,ARROZ ENVASADO
-Galleta de Arroz Baby Mum-Mum Manzana Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Manzana Caja r,14.1,wong,,,ARROZ ENVASADO
-Galleta de Arroz Baby Mum-Mum Original Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Original Caja r,14.1,wong,,,ARROZ ENVASADO
-Galleta de Arroz Baby Mum-Mum Zanahoria Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Zanahoria Caja r,14.1,wong,,,ARROZ ENVASADO
-Zero Carbo Pasta Precocida de Konjac Arroz Konjac Sin Gluten Doypack 270 g,S/ 14.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,270.0,g,Zero Carbo Pasta Precocida de Konjac Arroz Konjac Sin Gluten Doypack,14.4,wong,,,ARROZ ENVASADO
-Arroz Chaufa con Broaster Cuisine & Co 400g,S/ 14.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz Chaufa con Broaster Cuisine & Co,14.5,wong,,,ARROZ ENVASADO
-Arroz Blanco Añejo Faraon Mostaza 3kg,S/ 14.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,3.0,kg,Arroz Blanco Añejo Faraon Mostaza,14.5,metro,,,ARROZ ENVASADO
-Lomito Saltado + Papas Fritas + Arroz Blanco Cuisine & Co 400g,S/ 14.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Lomito Saltado + Papas Fritas + Arroz Blanco Cuisine & Co,14.5,wong,,,ARROZ ENVASADO
-Bebida de Arroz Orasi Caja 1L,S/ 14.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,1.0,l,Bebida de Arroz Orasi Caja,14.8,plaza_vea,Caja 1L,,ARROZ ENVASADO
-Aji de gallina con arroz Nadú Caja 340 g,S/ 14.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,340.0,g,Aji de gallina con arroz Nadú Caja,14.9,metro,,,ARROZ ENVASADO
-Galleta de Arroz Toddler Mum-Mum Fresa Caja 50 gr,S/ 14.95,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galleta de Arroz Toddler Mum-Mum Fresa Caja r,14.95,metro,,,ARROZ ENVASADO
-Arroz con Pollo NADU Bandeja 320g,S/ 14.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,320.0,g,Arroz con Pollo NADU Bandeja,14.99,plaza_vea,Bandeja 320g,,ARROZ ENVASADO
-Galletas de Arroz BABY MUM sabor Fresca Caja 50g,S/ 14.99,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,50.0,g,Galletas de Arroz BABY MUM sabor Fresca Caja,14.99,vivanda,,BABY MUM,ARROZ ENVASADO
-Galletas de Arroz BABY MUM sabor Fresca Caja 5...,S/ 14.99 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,50.0,g,Galletas de Arroz BABY MUM sabor Fresca Caja 5,14.99,plaza_vea,Caja 50g,,ARROZ ENVASADO
-Galleta de Arroz Banana 50 g,S/ 14.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,50.0,g,Galleta de Arroz Banana,14.99,tottus,,,ARROZ ENVASADO
-Galleta de Arroz Toddler Mum-Mum Fresa Caja 50 gr,S/ 15.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Toddler Mum-Mum Fresa Caja r,15.1,wong,,,ARROZ ENVASADO
-Salsa Culantrito con Espinaca Envasado 550 g,S/ 15.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,550.0,g,Salsa Culantrito con Espinaca Envasado,15.2,wong,,,ARROZ ENVASADO
-Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,g,Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet,15.2,metro,,,ARROZ ENVASADO
-Conserva VALLE FERTIL Corazón de Alcachofa Fra...,S/ 15.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,410.0,g,Conserva VALLE FERTIL Corazón de Alcachofa Fra,15.3,plaza_vea,Frasco 410g,,ARROZ ENVASADO
-Arroz con Pollo NADU Bandeja 320g,S/ 15.40,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,320.0,g,Arroz con Pollo NADU Bandeja,15.4,vivanda,,NADU,ARROZ ENVASADO
-Aceitunas Verdes Deshuesadas en Conserva OLIVO...,S/ 15.40 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,300.0,g,Aceitunas Verdes Deshuesadas en Conserva OLIVO,15.4,plaza_vea,Doypack 300g,,ARROZ ENVASADO
-Harina De Coco Mi Tierra x 400 g,S/ 15.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Harina De Coco Mi Tierra x,15.5,tottus,,NUTRISA,ARROZ ENVASADO
-Arroz Arborio Paisana Bolsa 1 kg,S/ 15.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Arborio Paisana Bolsa,15.6,wong,,,ARROZ ENVASADO
-Cereal de Avena y Arroz Cuisine & Co 350g,S/ 15.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,350.0,g,Cereal de Avena y Arroz Cuisine & Co,15.7,wong,,,ARROZ ENVASADO
-Cereal de Avena y Arroz Cuisine & Co 350g,S/ 15.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,350.0,g,Cereal de Avena y Arroz Cuisine & Co,15.7,metro,,,ARROZ ENVASADO
-Pasta De Arroz Spaghetti x 250 g,S/ 15.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,250.0,g,Pasta De Arroz Spaghetti x,15.9,tottus,,EL DORADO,ARROZ ENVASADO
-Arroz Tostado Choco Krispis Kellogg's Caja 310 g,S/ 15.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,310.0,g,Arroz Tostado Choco Krispis Kellogg's Caja,15.9,wong,,,ARROZ ENVASADO
-PAN BLANCO SIN BORDES 650G,S/ 16,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,650.0,g,PAN BLANCO SIN BORDES,16.0,tottus,,BIMBO,ARROZ ENVASADO
-Vinagre de Arroz Bárcidda 500ml,S/ 16.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,ml,Vinagre de Arroz Bárcidda,16.1,wong,,,ARROZ ENVASADO
-Arroz Pascua Cuisine & Co 500g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Pascua Cuisine & Co,16.5,wong,,,ARROZ ENVASADO
-Pasta Orgánica de Quinua y Arroz Fusilli América Orgánica 227g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Pasta Orgánica de Quinua y Arroz Fusilli América Orgánica,16.5,wong,,,ARROZ ENVASADO
-Penne de Quinua y Arroz América Orgánica 227g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Penne de Quinua y Arroz América Orgánica,16.5,wong,,,ARROZ ENVASADO
-Arroz Árabe Cuisine & Co 500g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Árabe Cuisine & Co,16.5,wong,,,ARROZ ENVASADO
-Pack de Menestras Tottus: 500 g de lentejas + 500 g de arvejas + 500 g de frijoles canarios,S/ 16.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Pack de Menestras Tottus:  de lentejas +  de arvejas +  de frijoles canarios,16.6,tottus,,TOTTUS,ARROZ ENVASADO
-Pasta de Arroz Spaghetti Sin Gluten El Dorado Bolsa 250 g,S/ 16.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Pasta de Arroz Spaghetti Sin Gluten El Dorado Bolsa,16.9,wong,,,ARROZ ENVASADO
-Arroz BELL'S Familiar Bolsa 5Kg,S/ 17.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz BELL'S Familiar Bolsa,17.5,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Cereal infantil Nestum® de arroz de 350 g,S/ 17.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,350.0,g,Cereal infantil Nestum® de arroz de,17.5,tottus,,NESTUM,ARROZ ENVASADO
-Cereal Infantil en Polvo Nestum Arroz 350g,S/ 17.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,350.0,g,Cereal Infantil en Polvo Nestum Arroz,17.9,metro,,,ARROZ ENVASADO
-Pasta Orgánica de Quinua y Arroz Spaghetti América Orgánica 227g,S/ 17.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Pasta Orgánica de Quinua y Arroz Spaghetti América Orgánica,17.9,wong,,,ARROZ ENVASADO
-GALLETAS ARROZ SIN GLUTEN MARIA X210GR,S/ 17.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,210.0,g,GALLETAS ARROZ SIN GLUTEN MARIA XR,17.9,tottus,,SANTIVERI,ARROZ ENVASADO
-Arroz Familiar COSECHA NORTEÑA Bolsa 5Kg,S/ 18.10 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Familiar COSECHA NORTEÑA Bolsa,18.1,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Salsa de Ají Amarillo Envasado 550 g,S/ 18.10,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,550.0,g,Salsa de Ají Amarillo Envasado,18.1,metro,,,ARROZ ENVASADO
-Arroz con Aceituna Cuisine & Co 500g,S/ 18.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz con Aceituna Cuisine & Co,18.5,wong,,,ARROZ ENVASADO
-Arroz Basmati Riso Scotti Caja 500 g,S/ 18.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,g,Arroz Basmati Riso Scotti Caja,18.5,metro,,,ARROZ ENVASADO
-"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja 300 gr",S/ 18.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,300.0,g,"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja r",18.9,wong,,,ARROZ ENVASADO
-Licor a Base de Arroz Hon Mirin Bárcidda 500ml,S/ 19.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,ml,Licor a Base de Arroz Hon Mirin Bárcidda,19.2,metro,,,ARROZ ENVASADO
-Aceitunas en Conserva OLIVOS DEL SUR De aceitu...,S/ 19.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,500.0,g,Aceitunas en Conserva OLIVOS DEL SUR De aceitu,19.5,plaza_vea,Doypack 500g,,ARROZ ENVASADO
-Arroz Economico VEGA Bolsa 5Kg,S/ 19.50,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Economico VEGA Bolsa,19.5,vega,,Vega,ARROZ ENVASADO
-Arroz Superior Metro Bolsa 5 kg,S/ 19.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Metro Bolsa,19.9,metro,,,ARROZ ENVASADO
-Arroz Superior BELL'S Bolsa 5Kg,S/ 19.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior BELL'S Bolsa,19.9,vivanda,,BELL'S,ARROZ ENVASADO
-Cereal Infantil en Polvo Nestum Arroz 350g,S/ 19.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,350.0,g,Cereal Infantil en Polvo Nestum Arroz,19.9,wong,,,ARROZ ENVASADO
-"Cereal Orgánico de Quinua, Kiwicha y Arroz Kids Organics Caja 240 gr",S/ 20.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,240.0,g,"Cereal Orgánico de Quinua, Kiwicha y Arroz Kids Organics Caja r",20.1,wong,,,ARROZ ENVASADO
-"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja 240 gr",S/ 20.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,240.0,g,"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja r",20.1,wong,,,ARROZ ENVASADO
-Arroz Superior Wong Bolsa 5 Kg,S/ 20.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Superior Wong Bolsa,20.4,wong,,,ARROZ ENVASADO
-Arroz Extra BELL'S Bolsa 5Kg,S/ 20.80 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra BELL'S Bolsa,20.8,plaza_vea,Bolsa 5kg,,ARROZ ENVASADO
-Arroz Superior Cuisine & Co 5kg,S/ 20.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Cuisine & Co,20.9,metro,,,ARROZ ENVASADO
-Arroz Extra Metro 5kg,S/ 20.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Metro,20.9,metro,,,ARROZ ENVASADO
-Arroz Integral Cuisine & Co 5kg,S/ 21.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Integral Cuisine & Co,21.5,metro,,,ARROZ ENVASADO
-Arroz Extra 5 kg,S/ 21.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra,21.5,tottus,,TOTTUS,ARROZ ENVASADO
-Fettuccini de arroz y yuca sin gluten 400 g,S/ 21.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Fettuccini de arroz y yuca sin gluten,21.5,tottus,,MOLINOS DEL MUNDO,ARROZ ENVASADO
-Arroz Extra Cuisine & Co 5kg,S/ 21.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Cuisine & Co,21.9,metro,,,ARROZ ENVASADO
-Arroz Extra Paisana Bolsa 5 kg,S/ 21.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Paisana Bolsa,21.9,wong,,,ARROZ ENVASADO
-Arroz Integral Cuisine & Co 5kg,S/ 21.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Integral Cuisine & Co,21.9,wong,,,ARROZ ENVASADO
-Arroz Extra Wong Bolsa 5 Kg,S/ 21.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Wong Bolsa,21.9,wong,,,ARROZ ENVASADO
-Arroz Superior 5 kg,S/ 21.96,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior,21.96,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Integral BELL'S Bolsa 5Kg,S/ 22.30 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Integral BELL'S Bolsa,22.3,plaza_vea,Bolsa 5kg,,ARROZ ENVASADO
-Arroz Superior Valle Norte Primera cosecha Bolsa 5 Kg,S/ 22.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Superior Valle Norte Primera cosecha Bolsa,22.5,wong,,,ARROZ ENVASADO
-Arroz FARAON Añejo Amarillo G3 Bolsa 5kg,S/ 22.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz FARAON Añejo Amarillo G3 Bolsa,22.7,vivanda,,FARAON,ARROZ ENVASADO
-Arroz FARAON Añejo Amarillo G3 Bolsa 5kg,S/ 22.70 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz FARAON Añejo Amarillo G3 Bolsa,22.7,plaza_vea,Bolsa 5kg,,ARROZ ENVASADO
-Arroz Extra PAISANA Bolsa 5Kg,S/ 22.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra PAISANA Bolsa,22.9,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Arroz Superior PAISANA Bolsa 5Kg,S/ 22.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior PAISANA Bolsa,22.9,plaza_vea,Bolsa 5kg,,ARROZ ENVASADO
-Arroz Añejo Superior Valle Norte 5kg,S/ 22.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Añejo Superior Valle Norte,22.9,metro,,,ARROZ ENVASADO
-Arroz Extra Cuisine & Co 5kg,S/ 22.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Cuisine & Co,22.9,wong,,,ARROZ ENVASADO
-Arroz Superior VALLENORTE Bolsa 5Kg,S/ 22.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior VALLENORTE Bolsa,22.9,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra PAISANA Bolsa 5Kg,S/ 22.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra PAISANA Bolsa,22.9,vivanda,,PAISANA,ARROZ ENVASADO
-Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K...,S/ 23.49 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K,23.49,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Arroz Superior Gran Chalán 5kg,S/ 23.49,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Gran Chalán,23.49,metro,,,ARROZ ENVASADO
-Arroz Superior Valle Norte 5 kg,S/ 23.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Valle Norte,23.5,tottus,,VALLENORTE,ARROZ ENVASADO
-Arroz Superior PAISANA Bolsa 5Kg,S/ 23.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior PAISANA Bolsa,23.9,vivanda,,PAISANA,ARROZ ENVASADO
-Arroz Integral 5 kg,S/ 24.46,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Integral,24.46,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Superior Costeño 5 kg,S/ 24.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Costeño,24.5,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Superior COSTEÑO Bolsa 5Kg,S/ 24.50,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Superior COSTEÑO Bolsa,24.5,vega,,Costeño,ARROZ ENVASADO
-Arroz Superior Añejo VALLENORTE Bolsa 5Kg,S/ 24.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Superior Añejo VALLENORTE Bolsa,24.9,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Arroz Superior Gran Chalán 5 kg,S/ 24.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Gran Chalán,24.9,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz Superior Faraón de 5 Kg,S/ 24.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Faraón de,24.9,tottus,,FARAON,ARROZ ENVASADO
-Arroz Superior Añejo VALLENORTE Bolsa 5Kg,S/ 24.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior Añejo VALLENORTE Bolsa,24.9,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 25.49,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,25.49,metro,,,ARROZ ENVASADO
-Arroz Fortificado Superior Bolsa 5 Kg,S/ 25.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Fortificado Superior Bolsa,25.5,metro,,,ARROZ ENVASADO
-Arroz Superior Costeño 5kg,S/ 25.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Costeño,25.6,metro,,,ARROZ ENVASADO
-Arroz Extra Añejo Campo Norte 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Añejo Campo Norte,25.9,metro,,,ARROZ ENVASADO
-Arroz Extra Gran Chalán 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Gran Chalán,25.9,metro,,,ARROZ ENVASADO
-Arroz Extra Costeño 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Costeño,25.9,metro,,,ARROZ ENVASADO
-Arroz Superior Añejo 5 Kg,S/ 25.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Añejo,25.9,tottus,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra FARAON Bolsa 5Kg,S/ 26.20 6%,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Extra FARAON Bolsa,26.2,vega,,Faraon,ARROZ ENVASADO
-Arroz Superior Añejo Faraón Rojo 5kg,S/ 26.25,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Añejo Faraón Rojo,26.25,metro,,,ARROZ ENVASADO
-Arroz Extra Gran Chalán 5 kg,S/ 26.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Gran Chalán,26.3,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraon Verde 5kg,S/ 26.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Blanco Extra Añejo Faraon Verde,26.5,wong,,,ARROZ ENVASADO
-Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 26.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,26.5,wong,,,ARROZ ENVASADO
-Arroz Costeño Añejo Extra 5kg,S/ 26.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Costeño Añejo Extra,26.9,wong,,,ARROZ ENVASADO
-Arroz Añejo Extra COSTEÑO Bolsa 5Kg,S/ 26.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Añejo Extra COSTEÑO Bolsa,26.9,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Arroz Añejo Extra COSTEÑO Bolsa 5kg,S/ 26.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Añejo Extra COSTEÑO Bolsa,26.9,vivanda,,COSTENO,ARROZ ENVASADO
-Harina Arroz Organica 680Gr - ENVASE 680 GR,S/ 27,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,680.0,g,Harina Arroz Organica r - ENVASE R,27.0,tottus,,BOB'S RED MILL,ARROZ ENVASADO
-Arroz Extra Añejo FARAON Naranja Bolsa 5kg,S/ 27.20 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,5.0,kg,Arroz Extra Añejo FARAON Naranja Bolsa,27.2,plaza_vea,Bolsa 5Kg,,ARROZ ENVASADO
-Arroz Mix Kiwicha y Linaza Huella Verde 500g,S/ 27.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Mix Kiwicha y Linaza Huella Verde,27.3,wong,,,ARROZ ENVASADO
-Arroz Extra VALLENORTE Gran Reserva Bolsa 5Kg,S/ 27.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra VALLENORTE Gran Reserva Bolsa,27.5,vivanda,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra Añejo FARAON Naranja Bolsa 5kg,S/ 27.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra Añejo FARAON Naranja Bolsa,27.5,vivanda,,FARAON,ARROZ ENVASADO
-Aceitunas en Conserva OLIVOS DEL SUR De botija...,S/ 27.50 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,500.0,g,Aceitunas en Conserva OLIVOS DEL SUR De botija,27.5,plaza_vea,Doypack 500g,,ARROZ ENVASADO
-Arroz Gourmet Extra Añejo Gran Chalán de 5 Kg,S/ 27.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Gourmet Extra Añejo Gran Chalán de,27.5,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraón Naranja 5kg,S/ 28.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,28.3,metro,,,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraón Naranja 5kg,S/ 28.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,28.3,wong,,,ARROZ ENVASADO
-Arroz Extra Valle Norte 5 kg,S/ 28.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Valle Norte,28.5,tottus,,VALLENORTE,ARROZ ENVASADO
-Arroz Extra Añejo Campo Norte 5kg + 750g,S/ 30.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Añejo Campo Norte  +,30.3,metro,,,ARROZ ENVASADO
-Arroz Extra Tesoro Del Campo Bolsa 5 Kg,S/ 30.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Tesoro Del Campo Bolsa,30.3,wong,,,ARROZ ENVASADO
-Ajo en Pasta Envasado 550 g,S/ 31.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,550.0,g,Ajo en Pasta Envasado,31.9,metro,,,ARROZ ENVASADO
-Arroz Arborio SCOTTI Caja 1Kg,S/ 32.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,1.0,kg,Arroz Arborio SCOTTI Caja,32.5,vivanda,,SCOTT,ARROZ ENVASADO
-Arroz Arborio Scotti Rissoto Caja 1 Kg,S/ 32.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Arborio Scotti Rissoto Caja,32.5,metro,,,ARROZ ENVASADO
-Conserva HENGSTENBERG Pepinillo polaca Frasco ...,S/ 32.90 un,plaza_vea,ARROZ ENVASADO,2024-12-05 14:24:13.717844,680.0,g,Conserva HENGSTENBERG Pepinillo polaca Frasco,32.9,plaza_vea,Frasco 680g,,ARROZ ENVASADO
-Arroz Risotto Arborio Inverni 1kg,S/ 36.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Risotto Arborio Inverni,36.2,wong,,,ARROZ ENVASADO
-Arroz con Pollo Wong x kg,S/ 37.90 x kg,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz con Pollo Wong,37.9,wong,,,ARROZ ENVASADO
-Arroz Superior Metro 10kg,S/ 39.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,10.0,kg,Arroz Superior Metro,39.7,metro,,,ARROZ ENVASADO
-Arroz superior de 10 kg,S/ 41.71,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz superior de,41.71,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Extra de 10 kg,S/ 44.05,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Extra de,44.05,tottus,,TOTTUS,ARROZ ENVASADO
-Arroz Extra Añejo Bolsa x 10 Kg,S/ 44.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Extra Añejo Bolsa x,44.5,tottus,,GRAN CHALAN,ARROZ ENVASADO
-Torta Tres Leches Arroz con Leche 8 Porciones,S/ 44.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,8.0,un,Torta Tres Leches Arroz con Leche,44.9,metro,,,ARROZ ENVASADO
-Arroz Costeño Añejo Bolsa x 10 Kg,S/ 45,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Costeño Añejo Bolsa x,45.0,tottus,,COSTENO,ARROZ ENVASADO
-Arroz Extra VEGA Pacasmayo Saco 10Kg,S/ 45.00,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,10.0,kg,Arroz Extra VEGA Pacasmayo Saco,45.0,vega,,Veguita,ARROZ ENVASADO
-Arroz Blanco Extra Añejo Faraón Naranja 10kg,S/ 45.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,10.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,45.9,metro,,,ARROZ ENVASADO
-Arroz Nir Añejado Chaparri Bolsa 10 Kg,S/ 47.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,10.0,kg,Arroz Nir Añejado Chaparri Bolsa,47.0,metro,,,ARROZ ENVASADO
-Twopack Arroz Costeño Añejo Extra 5kg,S/ 53.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Twopack Arroz Costeño Añejo Extra,53.8,wong,,,ARROZ ENVASADO
-Twopack Arroz Extra Costeño 5kg,S/ 57.00,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Twopack Arroz Extra Costeño,57.0,wong,,,ARROZ ENVASADO
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+Sazonador Deli Arroz Pack 6 Unid,S/ 1.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,6.0,un,Sazonador Deli Arroz Pack,1.8,wong,,ARROZ ENVASADO
+Galletas de Arroz Costeño Dulce 50g,S/ 2.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galletas de Arroz Costeño Dulce,2.0,metro,,ARROZ ENVASADO
+Galleta De Arroz Costeño Dulce 45 g,S/ 2,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,45.0,g,Galleta De Arroz Costeño Dulce,2.0,tottus,COSTENO,ARROZ ENVASADO
+Galleta De Arroz Costeño Clasica 45 g,S/ 2,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,45.0,g,Galleta De Arroz Costeño Clasica,2.0,tottus,COSTENO,ARROZ ENVASADO
+Galletas de Arroz Costeño Finas Hierbas 45g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,45.0,g,Galletas de Arroz Costeño Finas Hierbas,2.1,wong,,ARROZ ENVASADO
+Galletas de Arroz Costeño Dulce 50g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galletas de Arroz Costeño Dulce,2.1,wong,,ARROZ ENVASADO
+Galletas de Arroz Costeño Clásica 50g,S/ 2.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galletas de Arroz Costeño Clásica,2.1,wong,,ARROZ ENVASADO
+Arroz con Leche Metro Cup 190 g,S/ 3.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,190.0,g,Arroz con Leche Metro Cup,3.5,metro,,ARROZ ENVASADO
+Arroz Superior Metro 750g,S/ 3.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Metro,3.5,metro,,ARROZ ENVASADO
+Arroz Superior Cuisine & Co 750g,S/ 3.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Cuisine & Co,3.6,metro,,ARROZ ENVASADO
+Arroz Extra Metro 750g,S/ 3.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Extra Metro,3.7,metro,,ARROZ ENVASADO
+Arroz Extra Wong 750g,S/ 3.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Extra Wong,3.8,wong,,ARROZ ENVASADO
+Arroz Añejo Extra Cuisine & Co 750g,S/ 3.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Añejo Extra Cuisine & Co,3.9,metro,,ARROZ ENVASADO
+Arroz Añejo Extra Cuisine & Co 750g,S/ 3.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Añejo Extra Cuisine & Co,3.9,wong,,ARROZ ENVASADO
+Arroz Superior VALLENORTE Bolsa 750g,S/ 3.99,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Superior VALLENORTE Bolsa,3.99,vivanda,VALLENORTE,ARROZ ENVASADO
+Arroz Superior Valle Norte 750 g,S/ 3.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Valle Norte,3.99,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Extra 750 g,S/ 4,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra,4.0,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Superior COSTEÑO Bolsa 750g,S/ 4.20,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,750.0,g,Arroz Superior COSTEÑO Bolsa,4.2,vega,Costeño,ARROZ ENVASADO
+Arroz Superior Valle Norte Primera Cosecha Bolsa 750 g,S/ 4.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Valle Norte Primera Cosecha Bolsa,4.2,metro,,ARROZ ENVASADO
+Arroz Atómico Nevado Forte Golpe Bolsa 125 g,S/ 4.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,125.0,g,Arroz Atómico Nevado Forte Golpe Bolsa,4.2,metro,,ARROZ ENVASADO
+Arroz Integral BELL'S Bolsa 750g,S/ 4.20,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral BELL'S Bolsa,4.2,vivanda,BELL'S,ARROZ ENVASADO
+Arroz Superior Valle Norte Primera Cosecha Bolsa 750 g,S/ 4.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Superior Valle Norte Primera Cosecha Bolsa,4.3,wong,,ARROZ ENVASADO
+Arroz con Leche Cuisine & Co x 160g,S/ 4.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,160.0,g,Arroz con Leche Cuisine & Co x,4.3,wong,,ARROZ ENVASADO
+Arroz Superior Añejo Faraón Rojo 750g,S/ 4.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Añejo Faraón Rojo,4.3,metro,,ARROZ ENVASADO
+Arroz Superior Costeño 750g,S/ 4.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Superior Costeño,4.3,metro,,ARROZ ENVASADO
+Arroz Extra 750 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra,4.4,tottus,PACASMAYO,ARROZ ENVASADO
+Pan Petipan 600 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,600.0,g,Pan Petipan,4.4,tottus,TOTTUS,ARROZ ENVASADO
+Arveja Partida Costeño 500 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Arveja Partida Costeño,4.4,tottus,COSTENO,ARROZ ENVASADO
+Arroz Extra Añejo Campo Norte 750g,S/ 4.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Extra Añejo Campo Norte,4.4,metro,,ARROZ ENVASADO
+Arroz Extra Faraón 750 g,S/ 4.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Faraón,4.4,tottus,FARAON,ARROZ ENVASADO
+Arroz Superior Añejo 750 g,S/ 4.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Añejo,4.5,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Costeño Añejo Extra 750g,S/ 4.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Costeño Añejo Extra,4.5,wong,,ARROZ ENVASADO
+Arroz Añejo Extra COSTEÑO Bolsa 750g,S/ 4.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Añejo Extra COSTEÑO Bolsa,4.5,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Costeño Añejo Extra 750g,S/ 4.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Costeño Añejo Extra,4.5,metro,,ARROZ ENVASADO
+Arroz Extra Añejo Premium 750 g,S/ 4.52,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Añejo Premium,4.52,tottus,TOTTUS,ARROZ ENVASADO
+Trigo Mote 500 g,S/ 4.57,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Trigo Mote,4.57,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Extra FARAON Bolsa 750g,S/ 4.60,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Extra FARAON Bolsa,4.6,vivanda,FARAON,ARROZ ENVASADO
+Arroz Superior Gran Chalán 750 g,S/ 4.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Superior Gran Chalán,4.6,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Añejo 750 g,S/ 4.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Añejo,4.6,tottus,PACASMAYO,ARROZ ENVASADO
+Arroz Blanco Extra Añejo Faraón Naranja 750g,S/ 4.65,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Blanco Extra Añejo Faraón Naranja,4.65,metro,,ARROZ ENVASADO
+Arroz Añejo Amarillo FARAÓN G3 Bolsa 1Kg,S/ 4.69,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,1.0,kg,Arroz Añejo Amarillo FARAÓN G3 Bolsa,4.69,vivanda,FARAON,ARROZ ENVASADO
+Arroz Extra COSTEÑO Bolsa 750g,S/ 4.70,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,750.0,g,Arroz Extra COSTEÑO Bolsa,4.7,vega,Costeño,ARROZ ENVASADO
+Arroz Añejo Superior Valle Norte 750g,S/ 4.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Añejo Superior Valle Norte,4.7,metro,,ARROZ ENVASADO
+Arroz Superior Costeño 750g,S/ 4.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Superior Costeño,4.7,wong,,ARROZ ENVASADO
+Arroz Blanco Extra Añejo Faraón Naranja 750g,S/ 4.75,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Blanco Extra Añejo Faraón Naranja,4.75,wong,,ARROZ ENVASADO
+Arroz Añejo Superior Valle Norte 750g,S/ 4.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Añejo Superior Valle Norte,4.8,wong,,ARROZ ENVASADO
+Arroz Extra VALLENORTE Gran Reserva Bolsa 750g,S/ 4.80,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Extra VALLENORTE Gran Reserva Bolsa,4.8,vivanda,VALLENORTE,ARROZ ENVASADO
+Maíz Pop Corn Costeño 500 g,S/ 4.80,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Maíz Pop Corn Costeño,4.8,tottus,COSTENO,ARROZ ENVASADO
+"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz 90g",S/ 4.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,90.0,g,"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz",4.9,metro,,ARROZ ENVASADO
+Arroz Extra Costeño 750 g,S/ 4.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Costeño,4.9,tottus,COSTENO,ARROZ ENVASADO
+Arroz Extra Costeño 750g,S/ 4.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Extra Costeño,4.9,wong,,ARROZ ENVASADO
+Arroz Extra COSTEÑO Bolsa 750g,S/ 4.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Extra COSTEÑO Bolsa,4.9,vivanda,COSTENO,ARROZ ENVASADO
+"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz 90g",S/ 4.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,90.0,g,"Compota Smiley Kids Pera, Zapallito, Espinaca y Arroz",4.9,wong,,ARROZ ENVASADO
+Arroz Integral Molino Rojo Bolsa 1 Kg,S/ 4.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Integral Molino Rojo Bolsa,4.9,metro,,ARROZ ENVASADO
+Arroz con Quinua Negra Fincandina Bolsa 500 g,S/ 4.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz con Quinua Negra Fincandina Bolsa,4.99,wong,,ARROZ ENVASADO
+Arroz Extra Natural 750 g,S/ 5,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Extra Natural,5.0,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Extra Gran Chalán 750g,S/ 5.10,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Extra Gran Chalán,5.1,metro,,ARROZ ENVASADO
+Arroz Integral Extra Bolsa 750 g,S/ 5.15,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Extra Bolsa,5.15,metro,,ARROZ ENVASADO
+Arroz Integral Costeño 750g,S/ 5.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Costeño,5.4,metro,,ARROZ ENVASADO
+Lunch Arroz Blanco LA FLORENCIA 500g,S/ 5.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,500.0,g,Lunch Arroz Blanco LA FLORENCIA,5.5,vivanda,LA FLORENCIA,ARROZ ENVASADO
+Arroz Superior Paisana Bolsa 1 kg,S/ 5.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Superior Paisana Bolsa,5.5,metro,,ARROZ ENVASADO
+Arroz Extra Tesoro Del Campo Bolsa 750 g,S/ 5.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Extra Tesoro Del Campo Bolsa,5.5,wong,,ARROZ ENVASADO
+Arroz Integral 750 g,S/ 5.59,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Integral,5.59,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Embolsado Costeño Parbolizado 750 g,S/ 5.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Embolsado Costeño Parbolizado,5.6,tottus,COSTENO,ARROZ ENVASADO
+Arroz Integral Vallenorte 750g,S/ 5.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Integral Vallenorte,5.6,metro,,ARROZ ENVASADO
+Papa Seca 400 g,S/ 5.65,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Papa Seca,5.65,tottus,TOTTUS,ARROZ ENVASADO
+Frijol Panamito 500 g,S/ 5.70,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Frijol Panamito,5.7,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Integral Vallenorte 750g,S/ 5.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Integral Vallenorte,5.7,wong,,ARROZ ENVASADO
+Arroz Integral VALLENORTE Bolsa 750g,S/ 5.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral VALLENORTE Bolsa,5.7,vivanda,VALLENORTE,ARROZ ENVASADO
+Lentejas bebé de 500 g,S/ 5.72,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Lentejas bebé de,5.72,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Parbolizado COSTEÑO Bolsa 750g,S/ 5.80,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Parbolizado COSTEÑO Bolsa,5.8,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Extra Paisana Bolsa 1 kg,S/ 5.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Extra Paisana Bolsa,5.8,wong,,ARROZ ENVASADO
+Trocitos de Cordero Arroz Adulto 290 gr,S/ 5.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,290.0,g,Trocitos de Cordero Arroz Adulto r,5.9,tottus,RICOCAN,ARROZ ENVASADO
+Arroz Integral Gran Chalán x 750 g,S/ 5.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Integral Gran Chalán x,5.9,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Superior Paisana Bolsa 1 kg,S/ 5.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Superior Paisana Bolsa,5.99,wong,,ARROZ ENVASADO
+Arroz Integral COSTEÑO Bolsa 750g,S/ 6.00,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz Integral COSTEÑO Bolsa,6.0,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Integral Costeño 750g,S/ 6.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Integral Costeño,6.2,wong,,ARROZ ENVASADO
+Arroz Integral Paisana Bolsa 1 kg,S/ 6.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Integral Paisana Bolsa,6.2,metro,,ARROZ ENVASADO
+Base de Arroz con Pollo PERÚ- PRIDE Bolsa 35g,S/ 6.49,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,35.0,g,Base de Arroz con Pollo PERÚ- PRIDE Bolsa,6.49,vivanda,PERU PRIDE,ARROZ ENVASADO
+Galletas de Arroz BELL'S Bolsa 150g,S/ 6.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,150.0,g,Galletas de Arroz BELL'S Bolsa,6.5,vivanda,BELL'S,ARROZ ENVASADO
+Cereal Bar Chips 8 Unidades 21g,S/ 6.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,8.0,un,Cereal Bar Chips ades,6.6,tottus,COSTA,ARROZ ENVASADO
+Galletas De Arroz Cuisine & Co Doypack 120 g,S/ 6.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,120.0,g,Galletas De Arroz Cuisine & Co Doypack,6.8,metro,,ARROZ ENVASADO
+Galletas De Arroz Cuisine & Co Doypack 120 g,S/ 6.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,120.0,g,Galletas De Arroz Cuisine & Co Doypack,6.8,wong,,ARROZ ENVASADO
+Galletas de Arroz Clásicas Costeño 150 gr,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,150.0,g,Galletas de Arroz Clásicas Costeño r,6.9,tottus,COSTENO,ARROZ ENVASADO
+Galleta de Arroz COSTEÑO Finas Hierbas Doypack 150g,S/ 6.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,150.0,g,Galleta de Arroz COSTEÑO Finas Hierbas Doypack,6.9,vivanda,COSTEÑO,ARROZ ENVASADO
+Harina sin Preparar 1 kg,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Harina sin Preparar,6.9,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Carnaroli SCOTTI Funghi Porcin Bolsa 210g,S/ 6.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,210.0,g,Arroz Carnaroli SCOTTI Funghi Porcin Bolsa,6.9,vivanda,SCOTT,ARROZ ENVASADO
+Galletas de arroz con tomate intenso costeño de 150 g,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,150.0,g,Galletas de arroz con tomate intenso costeño de,6.9,tottus,COSTENO,ARROZ ENVASADO
+Galletas de arroz dulce costeño 150 gr,S/ 6.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,150.0,g,Galletas de arroz dulce costeño r,6.9,tottus,COSTENO,ARROZ ENVASADO
+Galletas de Arroz COSTEÑO Dulce Bolsa 150g,S/ 6.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,150.0,g,Galletas de Arroz COSTEÑO Dulce Bolsa,6.9,vivanda,COSTEÑO,ARROZ ENVASADO
+Galletas de Arroz Costeño Finas Hierbas Doypack 150 g,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Finas Hierbas Doypack,6.9,metro,,ARROZ ENVASADO
+Galletas de Arroz Costeño Tomate Intenso Doypack 150 g,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Tomate Intenso Doypack,6.9,metro,,ARROZ ENVASADO
+Galletas de Arroz Costeño Pimienta Doypack 150 gr,S/ 6.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,150.0,g,Galletas de Arroz Costeño Pimienta Doypack r,6.9,metro,,ARROZ ENVASADO
+Arroz Integral con Quinua Roja Fincandina 500g,S/ 6.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Integral con Quinua Roja Fincandina,6.99,wong,,ARROZ ENVASADO
+Arroz Parbolizado Paisana Bolsa 1 kg,S/ 7.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Parbolizado Paisana Bolsa,7.0,metro,,ARROZ ENVASADO
+Galletas de Arroz Costeño Finas Hierbas Doypack 150 g,S/ 7.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,150.0,g,Galletas de Arroz Costeño Finas Hierbas Doypack,7.1,wong,,ARROZ ENVASADO
+Harina de Trigo Preparada 1 kg,S/ 7.10,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Harina de Trigo Preparada,7.1,tottus,TOTTUS,ARROZ ENVASADO
+Galletas de Arroz Clásicas Sin Gluten Costeño Doypack 150 g,S/ 7.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,150.0,g,Galletas de Arroz Clásicas Sin Gluten Costeño Doypack,7.1,wong,,ARROZ ENVASADO
+Lenteja Costeño 500 g,S/ 7.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Lenteja Costeño,7.3,tottus,COSTENO,ARROZ ENVASADO
+Arroz Integral Paisana Bolsa 1 kg,S/ 7.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Integral Paisana Bolsa,7.3,wong,,ARROZ ENVASADO
+Garbanzo Costeño 500 g,S/ 7.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Garbanzo Costeño,7.4,tottus,COSTENO,ARROZ ENVASADO
+Arroz para Cocina Oriental Mizu 1kg,S/ 7.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz para Cocina Oriental Mizu,7.6,wong,,ARROZ ENVASADO
+Pallar Costeño 500 g,S/ 7.70,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Pallar Costeño,7.7,tottus,COSTENO,ARROZ ENVASADO
+Arroz con Pollo BELL'S FRESCOS Bandeja 200g,S/ 7.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,200.0,g,Arroz con Pollo BELL'S FRESCOS Bandeja,7.7,vivanda,BELL'S FRESCOS,ARROZ ENVASADO
+Arroz Glaseado Tesoro Del Campo Bolsa 1 Kg,S/ 7.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Glaseado Tesoro Del Campo Bolsa,7.8,metro,,ARROZ ENVASADO
+Trocitos en Salsa Ricocan Adultos Cordero y Arroz 290g,S/ 7.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,290.0,g,Trocitos en Salsa Ricocan Adultos Cordero y Arroz,7.9,metro,,ARROZ ENVASADO
+Arroz Glaseado Tesoro Del Campo Bolsa 1 Kg,S/ 8.25,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Glaseado Tesoro Del Campo Bolsa,8.25,wong,,ARROZ ENVASADO
+100 Luces Krea Arroz Colores L5,S/ 8.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,100.0,l,uces Krea Arroz Colores L5,8.4,metro,,ARROZ ENVASADO
+Arroz Blanco Cuisine & Co 400g,S/ 8.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz Blanco Cuisine & Co,8.5,wong,,ARROZ ENVASADO
+Base para Arroz con Pollo Provenzal Sobre 58 g,S/ 8.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,58.0,g,Base para Arroz con Pollo Provenzal Sobre,8.9,metro,,ARROZ ENVASADO
+Linaza Familiar 300 g,S/ 8.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,300.0,g,Linaza Familiar,8.9,tottus,NATURANDES,ARROZ ENVASADO
+Harina de Arroz COSTEÑO Bolsa 1kg,S/ 8.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,1.0,kg,Harina de Arroz COSTEÑO Bolsa,8.9,vivanda,COSTEÑO,ARROZ ENVASADO
+Harina De Arroz Costeño x 1 Kg,S/ 8.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,kg,Harina De Arroz Costeño x,8.9,tottus,COSTENO,ARROZ ENVASADO
+Harina de Arroz Costeño 1 g,S/ 8.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,g,Harina de Arroz Costeño,8.9,metro,,ARROZ ENVASADO
+Fideos de Arroz Fansi Vermicelli 250g,S/ 8.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,250.0,g,Fideos de Arroz Fansi Vermicelli,8.9,metro,,ARROZ ENVASADO
+Mezcla para Arroz con Pollo Seco y Aguadito 58 g,S/ 9,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,58.0,g,Mezcla para Arroz con Pollo Seco y Aguadito,9.0,tottus,PROVENZAL,ARROZ ENVASADO
+Base para Arroz con Pollo Provenzal Sobre 58 g,S/ 9.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,58.0,g,Base para Arroz con Pollo Provenzal Sobre,9.2,wong,,ARROZ ENVASADO
+Vinagre de Arroz BARCIDDA Botella 500ml,S/ 9.59,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,500.0,ml,Vinagre de Arroz BARCIDDA Botella,9.59,vivanda,BARCIDDA,ARROZ ENVASADO
+Verduras Picadas para Arroz con Pollo Cuisine & Co 200g,S/ 10.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,200.0,g,Verduras Picadas para Arroz con Pollo Cuisine & Co,10.3,metro,,ARROZ ENVASADO
+Arroz Chaufa con Pollo Cuisine & Co 400g,S/ 10.32,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Arroz Chaufa con Pollo Cuisine & Co,10.32,metro,,ARROZ ENVASADO
+Frijol Canario Costeño 500 g,S/ 10.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Frijol Canario Costeño,10.4,tottus,COSTENO,ARROZ ENVASADO
+Fideos de Arroz Sha He Noodle 250g,S/ 10.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Fideos de Arroz Sha He Noodle,10.5,wong,,ARROZ ENVASADO
+Pan de molde integral 480 g,S/ 10.70,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,480.0,g,Pan de molde integral,10.7,tottus,BIMBO,ARROZ ENVASADO
+Harina De Linaza Productos Andinos 500 g,S/ 10.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,500.0,g,Harina De Linaza Productos Andinos,10.9,tottus,,ARROZ ENVASADO
+Harina de Kiwicha Renacer 200 g,S/ 10.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,200.0,g,Harina de Kiwicha Renacer,10.9,tottus,GENERICO,ARROZ ENVASADO
+Lunch Picante de Carne con Arroz LA FLORENCIA 450g,S/ 10.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,450.0,g,Lunch Picante de Carne con Arroz LA FLORENCIA,10.9,vivanda,LA FLORENCIA,ARROZ ENVASADO
+Galletas de Arroz Integral con Ajonjolí SuperSlim Want Want Caja 100 g,S/ 11.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,100.0,g,Galletas de Arroz Integral con Ajonjolí SuperSlim Want Want Caja,11.1,wong,,ARROZ ENVASADO
+Galletas de Arroz Super Slim Rice Crisps Sea Salt 100g,S/ 11.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,100.0,g,Galletas de Arroz Super Slim Rice Crisps Sea Salt,11.2,wong,,ARROZ ENVASADO
+Pan Multisemillas con Avena Unión de 540 g,S/ 11.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,540.0,g,Pan Multisemillas con Avena Unión de,11.4,tottus,UNION,ARROZ ENVASADO
+INFUSION HERB SURTIDO CAJA X 20UND,S/ 11.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,20.0,un,INFUSION HERB SURTIDO CAJA X D,11.5,tottus,NATURES HEART,ARROZ ENVASADO
+Arroz Tostado Choco Krispis Kellogg's Caja 310 g,S/ 11.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,310.0,g,Arroz Tostado Choco Krispis Kellogg's Caja,11.5,metro,,ARROZ ENVASADO
+Arroz DELGA-C Konjac Bajo en Calorías Doypack 270g,S/ 11.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,270.0,g,Arroz DELGA-C Konjac Bajo en Calorías Doypack,11.5,vivanda,DELGA-C,ARROZ ENVASADO
+Galleta de Arroz Integral Scotti 150g,S/ 11.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,150.0,g,Galleta de Arroz Integral Scotti,11.7,wong,,ARROZ ENVASADO
+Arroz Embolsado Costeño Arborio 750 g,S/ 11.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Arroz Embolsado Costeño Arborio,11.9,tottus,COSTENO,ARROZ ENVASADO
+Arroz Arborio Costeño 750g,S/ 11.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,750.0,g,Arroz Arborio Costeño,11.9,metro,,ARROZ ENVASADO
+Pan de molde artesano integral de 560 g,S/ 11.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,560.0,g,Pan de molde artesano integral de,11.9,tottus,BIMBO,ARROZ ENVASADO
+Arroz Chaufa Cuisine & Co 500g,S/ 11.99,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Chaufa Cuisine & Co,11.99,wong,,ARROZ ENVASADO
+Arroz COSTEÑO Arborio Bolsa 750Gr,S/ 12.00,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,750.0,g,Arroz COSTEÑO Arborio Bolsa r,12.0,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Chaufa con Pollo Cuisine & Co 400g,S/ 12.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz Chaufa con Pollo Cuisine & Co,12.2,wong,,ARROZ ENVASADO
+Arroz Arborio Costeño 750g,S/ 12.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,750.0,g,Arroz Arborio Costeño,12.4,wong,,ARROZ ENVASADO
+Pan de Molde Vital Integral Multicereal con Chía y Linaza 600 g,S/ 12.40,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,600.0,g,Pan de Molde Vital Integral Multicereal con Chía y Linaza,12.4,tottus,BIMBO,ARROZ ENVASADO
+Arroz Carnaroli SCOTTI con Trufas Bolsa 210g,S/ 12.69,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,210.0,g,Arroz Carnaroli SCOTTI con Trufas Bolsa,12.69,vivanda,SCOTT,ARROZ ENVASADO
+Lunch Seco con Frejoles y Arroz LA FLORENCIA 450g,S/ 12.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,450.0,g,Lunch Seco con Frejoles y Arroz LA FLORENCIA,12.9,vivanda,LA FLORENCIA,ARROZ ENVASADO
+Pan Integral Xg 750 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,1.0,g,Pan Integral,12.9,tottus,BIMBO,ARROZ ENVASADO
+Pan Molde Blanco Sin Corteza 560 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,560.0,g,Pan Molde Blanco Sin Corteza,12.9,tottus,TOTTUS,ARROZ ENVASADO
+Pan de Molde Blanco Xl 750 g,S/ 12.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,750.0,g,Pan de Molde Blanco Xl,12.9,tottus,BIMBO,ARROZ ENVASADO
+Cereal de Avena y Arroz Cuisine & Co Sin Gluten 250g,S/ 13.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,250.0,g,Cereal de Avena y Arroz Cuisine & Co Sin Gluten,13.2,metro,,ARROZ ENVASADO
+Arroz con Pollo Cuisine & Co 400g,S/ 13.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz con Pollo Cuisine & Co,13.2,wong,,ARROZ ENVASADO
+Arroz a la Jardinera con Pollo al Horno Cuisine & Co 400g,S/ 13.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,400.0,g,Arroz a la Jardinera con Pollo al Horno Cuisine & Co,13.2,wong,,ARROZ ENVASADO
+Cereal de Avena y Arroz Cuisine & Co Sin Gluten 250g,S/ 13.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Cereal de Avena y Arroz Cuisine & Co Sin Gluten,13.2,wong,,ARROZ ENVASADO
+Arroz con Pollo Cuisine & Co 400g,S/ 13.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Arroz con Pollo Cuisine & Co,13.5,metro,,ARROZ ENVASADO
+Pan de Molde Blanco sin Corteza 560 g,S/ 13.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,560.0,g,Pan de Molde Blanco sin Corteza,13.5,tottus,DON MAMINO,ARROZ ENVASADO
+"Cereal de Arroz, Trigo, Maíz y Cacao 230g",S/ 13.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,230.0,g,"Cereal de Arroz, Trigo, Maíz y Cacao",13.5,tottus,SUBLIME,ARROZ ENVASADO
+Pollo Tipakay con Arroz Chaufa Cuisine & Co 400g,S/ 13.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,400.0,g,Pollo Tipakay con Arroz Chaufa Cuisine & Co,13.9,metro,,ARROZ ENVASADO
+Bebida de Arroz Orasi 1L,S/ 13.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,l,Bebida de Arroz Orasi,13.9,metro,,ARROZ ENVASADO
+Galleta de Arroz Baby Mum-Mum Original Caja 50 gr,S/ 13.95,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galleta de Arroz Baby Mum-Mum Original Caja r,13.95,metro,,ARROZ ENVASADO
+Galleta de Arroz Baby Mum-Mum Zanahoria Caja 50 gr,S/ 13.95,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,50.0,g,Galleta de Arroz Baby Mum-Mum Zanahoria Caja r,13.95,metro,,ARROZ ENVASADO
+Galleta de Arroz Original Hot Kid 50 g,S/ 13.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,50.0,g,Galleta de Arroz Original Hot Kid,13.99,tottus,,ARROZ ENVASADO
+Verduras para Arroz con Pollo Wong Bandeja 200g,S/ 14.00,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,200.0,g,Verduras para Arroz con Pollo Wong Bandeja,14.0,wong,,ARROZ ENVASADO
+Galleta de Arroz Baby Mum-Mum Zanahoria Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Zanahoria Caja r,14.1,wong,,ARROZ ENVASADO
+Galleta de Arroz Baby Mum-Mum Manzana Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Manzana Caja r,14.1,wong,,ARROZ ENVASADO
+Galleta de Arroz Baby Mum-Mum Original Caja 50 gr,S/ 14.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Baby Mum-Mum Original Caja r,14.1,wong,,ARROZ ENVASADO
+Zero Carbo Pasta Precocida de Konjac Arroz Konjac Sin Gluten Doypack 270 g,S/ 14.40,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,270.0,g,Zero Carbo Pasta Precocida de Konjac Arroz Konjac Sin Gluten Doypack,14.4,wong,,ARROZ ENVASADO
+Arroz con Pollo Wong Ready Bandeja 320 g,S/ 14.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,320.0,g,Arroz con Pollo Wong Ready Bandeja,14.5,wong,,ARROZ ENVASADO
+Arroz Blanco Añejo Faraon Mostaza 3kg,S/ 14.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,3.0,kg,Arroz Blanco Añejo Faraon Mostaza,14.5,metro,,ARROZ ENVASADO
+Arroz Arborio Paisana Bolsa 1 kg,S/ 14.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Arborio Paisana Bolsa,14.9,metro,,ARROZ ENVASADO
+Aji de gallina con arroz Nadú Caja 340 g,S/ 14.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,340.0,g,Aji de gallina con arroz Nadú Caja,14.9,metro,,ARROZ ENVASADO
+Galleta de Arroz Banana 50 g,S/ 14.99,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,50.0,g,Galleta de Arroz Banana,14.99,tottus,,ARROZ ENVASADO
+Galletas de Arroz BABY MUM sabor Fresca Caja 50g,S/ 14.99,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,50.0,g,Galletas de Arroz BABY MUM sabor Fresca Caja,14.99,vivanda,BABY MUM,ARROZ ENVASADO
+Galleta de Arroz Toddler Mum-Mum Banana Caja 50 gr,S/ 15.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,50.0,g,Galleta de Arroz Toddler Mum-Mum Banana Caja r,15.1,wong,,ARROZ ENVASADO
+Salsa Culantrito con Espinaca Envasado 550 g,S/ 15.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,550.0,g,Salsa Culantrito con Espinaca Envasado,15.2,wong,,ARROZ ENVASADO
+Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet 500 g,S/ 15.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,g,Mimma Galletas para Perros Huesitos Raza Grande Arroz con Carne Sachet,15.2,metro,,ARROZ ENVASADO
+Salsa Culantrito con Espinaca Envasado 550 g,S/ 15.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,550.0,g,Salsa Culantrito con Espinaca Envasado,15.2,metro,,ARROZ ENVASADO
+Arroz con Pollo NADU Bandeja 320g,S/ 15.40,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,320.0,g,Arroz con Pollo NADU Bandeja,15.4,vivanda,NADU,ARROZ ENVASADO
+Vinagre de Arroz Bárcidda 500ml,S/ 15.40,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,ml,Vinagre de Arroz Bárcidda,15.4,metro,,ARROZ ENVASADO
+Harina De Coco Mi Tierra x 400 g,S/ 15.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Harina De Coco Mi Tierra x,15.5,tottus,NUTRISA,ARROZ ENVASADO
+Arroz Arborio Paisana Bolsa 1 kg,S/ 15.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Arborio Paisana Bolsa,15.6,wong,,ARROZ ENVASADO
+Cereal de Avena y Arroz Cuisine & Co 350g,S/ 15.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,350.0,g,Cereal de Avena y Arroz Cuisine & Co,15.7,metro,,ARROZ ENVASADO
+Cereal de Avena y Arroz Cuisine & Co 350g,S/ 15.70,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,350.0,g,Cereal de Avena y Arroz Cuisine & Co,15.7,wong,,ARROZ ENVASADO
+Pasta De Arroz Spaghetti x 250 g,S/ 15.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,250.0,g,Pasta De Arroz Spaghetti x,15.9,tottus,EL DORADO,ARROZ ENVASADO
+PAN BLANCO SIN BORDES 650G,S/ 16,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,650.0,g,PAN BLANCO SIN BORDES,16.0,tottus,BIMBO,ARROZ ENVASADO
+Vinagre de Arroz Bárcidda 500ml,S/ 16.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,ml,Vinagre de Arroz Bárcidda,16.1,wong,,ARROZ ENVASADO
+Pasta Orgánica de Quinua y Arroz Fusilli América Orgánica 227g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Pasta Orgánica de Quinua y Arroz Fusilli América Orgánica,16.5,wong,,ARROZ ENVASADO
+Penne de Quinua y Arroz América Orgánica 227g,S/ 16.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Penne de Quinua y Arroz América Orgánica,16.5,wong,,ARROZ ENVASADO
+Arroz Tostado Choco Krispis Kellogg's 420g,S/ 16.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,420.0,g,Arroz Tostado Choco Krispis Kellogg's,16.9,wong,,ARROZ ENVASADO
+Pasta de Arroz Spaghetti Sin Gluten El Dorado Bolsa 250 g,S/ 16.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,250.0,g,Pasta de Arroz Spaghetti Sin Gluten El Dorado Bolsa,16.9,wong,,ARROZ ENVASADO
+Arroz Tostado Choco Krispis Kellogg's 420g,S/ 16.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,420.0,g,Arroz Tostado Choco Krispis Kellogg's,16.9,metro,,ARROZ ENVASADO
+Arroz con Leche x kg,S/ 16.90 x kg,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz con Leche,16.9,wong,,ARROZ ENVASADO
+Cereal infantil Nestum® de arroz de 350 g,S/ 17.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,350.0,g,Cereal infantil Nestum® de arroz de,17.5,tottus,NESTUM,ARROZ ENVASADO
+Arroz Familiar Maxima Bolsa 5 kg,S/ 17.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Familiar Maxima Bolsa,17.5,metro,,ARROZ ENVASADO
+Pasta Orgánica de Quinua y Arroz Spaghetti América Orgánica 227g,S/ 17.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,227.0,g,Pasta Orgánica de Quinua y Arroz Spaghetti América Orgánica,17.9,wong,,ARROZ ENVASADO
+GALLETAS ARROZ SIN GLUTEN MARIA X210GR,S/ 17.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,210.0,g,GALLETAS ARROZ SIN GLUTEN MARIA XR,17.9,tottus,SANTIVERI,ARROZ ENVASADO
+Salsa de Ají Amarillo Envasado 550 g,S/ 18.10,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,550.0,g,Salsa de Ají Amarillo Envasado,18.1,metro,,ARROZ ENVASADO
+Salsa de Ají Amarillo Envasado 550 g,S/ 18.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,550.0,g,Salsa de Ají Amarillo Envasado,18.1,wong,,ARROZ ENVASADO
+Arroz Basmati Riso Scotti Caja 500 g,S/ 18.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,500.0,g,Arroz Basmati Riso Scotti Caja,18.5,metro,,ARROZ ENVASADO
+"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja 300 gr",S/ 18.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,300.0,g,"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja r",18.9,metro,,ARROZ ENVASADO
+"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja 300 gr",S/ 18.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,300.0,g,"Papilla de Cereal Orgánico Instantáneo de Quinua, Kiwicha, Cañihua y Arroz Kids Organics Caja r",18.9,wong,,ARROZ ENVASADO
+Arroz Economico VEGA Bolsa 5Kg,S/ 19.50,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Economico VEGA Bolsa,19.5,vega,Vega,ARROZ ENVASADO
+Arroz Superior BELL'S Bolsa 5Kg,S/ 19.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior BELL'S Bolsa,19.9,vivanda,BELL'S,ARROZ ENVASADO
+Cereal Infantil en Polvo Nestum Arroz 350g,S/ 19.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,350.0,g,Cereal Infantil en Polvo Nestum Arroz,19.9,wong,,ARROZ ENVASADO
+"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja 240 gr",S/ 20.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,240.0,g,"Cereal Orgánico de Quinua, Arroz y Cacao Kids Organics Caja r",20.1,wong,,ARROZ ENVASADO
+"Cereal Orgánico de Quinua, Kiwicha y Arroz Kids Organics Caja 240 gr",S/ 20.10,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,240.0,g,"Cereal Orgánico de Quinua, Kiwicha y Arroz Kids Organics Caja r",20.1,wong,,ARROZ ENVASADO
+Arroz Extra BELL'S Bolsa 5Kg,S/ 20.80,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra BELL'S Bolsa,20.8,vivanda,BELL'S,ARROZ ENVASADO
+Arroz con Pollo Wong x kg,S/ 20.90 x kg,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz con Pollo Wong,20.9,metro,,ARROZ ENVASADO
+Arroz Extra Metro 5kg,S/ 20.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Metro,20.9,metro,,ARROZ ENVASADO
+Arroz Superior Cuisine & Co 5kg,S/ 20.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Cuisine & Co,20.9,metro,,ARROZ ENVASADO
+Arroz Integral Cuisine & Co 5kg,S/ 21.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Integral Cuisine & Co,21.5,metro,,ARROZ ENVASADO
+Fettuccini de arroz y yuca sin gluten 400 g,S/ 21.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,400.0,g,Fettuccini de arroz y yuca sin gluten,21.5,tottus,MOLINOS DEL MUNDO,ARROZ ENVASADO
+Aceite De Arroz Costeño Botella 900 ml,S/ 21.70,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,900.0,ml,Aceite De Arroz Costeño Botella,21.7,metro,,ARROZ ENVASADO
+Arroz Integral Cuisine & Co 5kg,S/ 21.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Integral Cuisine & Co,21.9,wong,,ARROZ ENVASADO
+Arroz Extra Cuisine & Co 5kg,S/ 21.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Cuisine & Co,21.9,metro,,ARROZ ENVASADO
+Arroz Extra Wong Bolsa 5 Kg,S/ 21.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Wong Bolsa,21.9,wong,,ARROZ ENVASADO
+Arroz Superior 5 kg,S/ 21.96,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior,21.96,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Superior Valle Norte Primera cosecha Bolsa 5 Kg,S/ 22.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Valle Norte Primera cosecha Bolsa,22.5,metro,,ARROZ ENVASADO
+Arroz Extra Cuisine & Co 5kg,S/ 22.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Cuisine & Co,22.9,wong,,ARROZ ENVASADO
+Arroz Superior VALLENORTE Bolsa 5Kg,S/ 22.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior VALLENORTE Bolsa,22.9,vivanda,VALLENORTE,ARROZ ENVASADO
+Arroz Añejo Superior Valle Norte 5kg,S/ 22.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Añejo Superior Valle Norte,22.9,metro,,ARROZ ENVASADO
+Arroz Superior Gran Chalán 5kg,S/ 23.49,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Gran Chalán,23.49,metro,,ARROZ ENVASADO
+Arroz Extra Añejo Cuisine&Co Bolsa 5 kg,S/ 23.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Añejo Cuisine&Co Bolsa,23.5,wong,,ARROZ ENVASADO
+Arroz Superior Valle Norte 5 kg,S/ 23.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Valle Norte,23.5,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Superior Paisana Bolsa 5 kg,S/ 24.20,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Paisana Bolsa,24.2,metro,,ARROZ ENVASADO
+Arroz Integral 5 kg,S/ 24.46,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Integral,24.46,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Superior Costeño 5 kg,S/ 24.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Costeño,24.5,tottus,COSTENO,ARROZ ENVASADO
+Arroz Superior Paisana Bolsa 5 kg,S/ 24.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Superior Paisana Bolsa,24.6,wong,,ARROZ ENVASADO
+Arroz Superior Faraón de 5 Kg,S/ 24.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Faraón de,24.9,tottus,FARAON,ARROZ ENVASADO
+Arroz Extra GRAN CHALAN Bolsa 5 kg,S/ 24.90 4%,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Extra GRAN CHALAN Bolsa,24.9,vega,Gran Chalan,ARROZ ENVASADO
+Arroz Superior Añejo VALLENORTE Bolsa 5Kg,S/ 24.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Superior Añejo VALLENORTE Bolsa,24.9,vivanda,VALLENORTE,ARROZ ENVASADO
+Arroz Superior Gran Chalán 5 kg,S/ 24.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Gran Chalán,24.9,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 25.49,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,25.49,metro,,ARROZ ENVASADO
+Arroz Fortificado Superior Bolsa 5 Kg,S/ 25.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Fortificado Superior Bolsa,25.5,metro,,ARROZ ENVASADO
+Arroz Superior Costeño 5kg,S/ 25.60,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Costeño,25.6,metro,,ARROZ ENVASADO
+Arroz Costeño Añejo Extra 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Costeño Añejo Extra,25.9,metro,,ARROZ ENVASADO
+Arroz Extra Añejo Campo Norte 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Añejo Campo Norte,25.9,metro,,ARROZ ENVASADO
+Arroz Superior Añejo 5 Kg,S/ 25.90,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Superior Añejo,25.9,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Extra Costeño 5kg,S/ 25.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Costeño,25.9,metro,,ARROZ ENVASADO
+Arroz Extra FARAON Bolsa 5Kg,S/ 26.20 6%,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,5.0,kg,Arroz Extra FARAON Bolsa,26.2,vega,Faraon,ARROZ ENVASADO
+Arroz Superior Añejo Faraón Rojo 5kg,S/ 26.25,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Superior Añejo Faraón Rojo,26.25,metro,,ARROZ ENVASADO
+Arroz Extra Gran Chalán 5 kg,S/ 26.30,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Gran Chalán,26.3,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg,S/ 26.50,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Gran Reserva Extra Valle Norte Bolsa,26.5,wong,,ARROZ ENVASADO
+Arroz Superior Añejo Faraón Rojo 5kg,S/ 26.75,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Superior Añejo Faraón Rojo,26.75,wong,,ARROZ ENVASADO
+Arroz Añejo Extra COSTEÑO Bolsa 5kg,S/ 26.90,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Añejo Extra COSTEÑO Bolsa,26.9,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Costeño Añejo Extra 5kg,S/ 26.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Costeño Añejo Extra,26.9,wong,,ARROZ ENVASADO
+Harina Arroz Organica 680Gr - ENVASE 680 GR,S/ 27,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,680.0,g,Harina Arroz Organica r - ENVASE R,27.0,tottus,BOB'S RED MILL,ARROZ ENVASADO
+Arroz Mix Kiwicha y Linaza Huella Verde 500g,S/ 27.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,500.0,g,Arroz Mix Kiwicha y Linaza Huella Verde,27.3,wong,,ARROZ ENVASADO
+Arroz Extra VALLENORTE Gran Reserva Bolsa 5Kg,S/ 27.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra VALLENORTE Gran Reserva Bolsa,27.5,vivanda,VALLENORTE,ARROZ ENVASADO
+Arroz Gourmet Extra Añejo Gran Chalán de 5 Kg,S/ 27.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Gourmet Extra Añejo Gran Chalán de,27.5,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Extra Añejo FARAON Naranja Bolsa 5kg,S/ 27.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra Añejo FARAON Naranja Bolsa,27.5,vivanda,FARAON,ARROZ ENVASADO
+Arroz Extra Costeño 5 kg,S/ 27.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Costeño,27.5,tottus,COSTENO,ARROZ ENVASADO
+Arroz Extra Faraón de 5 Kg,S/ 27.60,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Faraón de,27.6,tottus,FARAON,ARROZ ENVASADO
+Arroz Extra COSTEÑO Bolsa 5Kg,S/ 27.70,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,5.0,kg,Arroz Extra COSTEÑO Bolsa,27.7,vivanda,COSTENO,ARROZ ENVASADO
+Arroz Blanco Extra Añejo Faraón Naranja 5kg,S/ 28.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,28.3,wong,,ARROZ ENVASADO
+Arroz Extra Valle Norte 5 kg,S/ 28.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,5.0,kg,Arroz Extra Valle Norte,28.5,tottus,VALLENORTE,ARROZ ENVASADO
+Arroz Extra Costeño 5kg,S/ 28.60,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Costeño,28.6,wong,,ARROZ ENVASADO
+Arroz Extra Tesoro Del Campo Bolsa 5 Kg,S/ 30.30,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Arroz Extra Tesoro Del Campo Bolsa,30.3,wong,,ARROZ ENVASADO
+Arroz Extra Añejo Campo Norte 5kg + 750g,S/ 30.30,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Arroz Extra Añejo Campo Norte  +,30.3,metro,,ARROZ ENVASADO
+Ajo en Pasta Envasado 550 g,S/ 31.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,550.0,g,Ajo en Pasta Envasado,31.9,metro,,ARROZ ENVASADO
+Arroz Arborio SCOTTI Caja 1Kg,S/ 32.50,vivanda,ARROZ ENVASADO,2024-12-05 21:27:43.230292,1.0,kg,Arroz Arborio SCOTTI Caja,32.5,vivanda,SCOTT,ARROZ ENVASADO
+Arroz Arborio Scotti Rissoto Caja 1 Kg,S/ 32.50,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,1.0,kg,Arroz Arborio Scotti Rissoto Caja,32.5,metro,,ARROZ ENVASADO
+Arroz Risotto Arborio Inverni 1kg,S/ 36.20,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Risotto Arborio Inverni,36.2,wong,,ARROZ ENVASADO
+Arroz Chaufa x kg,S/ 37.90 x kg,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,1.0,kg,Arroz Chaufa,37.9,wong,,ARROZ ENVASADO
+Arroz Extra de 10 kg,S/ 44.05,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Extra de,44.05,tottus,TOTTUS,ARROZ ENVASADO
+Arroz Extra Añejo Bolsa x 10 Kg,S/ 44.50,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Extra Añejo Bolsa x,44.5,tottus,GRAN CHALAN,ARROZ ENVASADO
+Arroz Costeño Añejo Bolsa x 10 Kg,S/ 45,tottus,ARROZ ENVASADO,2024-12-05 11:07:40.526558,10.0,kg,Arroz Costeño Añejo Bolsa x,45.0,tottus,COSTENO,ARROZ ENVASADO
+Arroz Extra VEGA Pacasmayo Saco 10Kg,S/ 45.00,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,10.0,kg,Arroz Extra VEGA Pacasmayo Saco,45.0,vega,Veguita,ARROZ ENVASADO
+Arroz Blanco Extra Añejo Faraón Naranja 10kg,S/ 45.90,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,10.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,45.9,metro,,ARROZ ENVASADO
+Arroz Blanco Extra Añejo Faraón Naranja 10kg,S/ 45.90,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,10.0,kg,Arroz Blanco Extra Añejo Faraón Naranja,45.9,wong,,ARROZ ENVASADO
+Arroz Nir Añejado Chaparri Bolsa 10 Kg,S/ 47.00,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,10.0,kg,Arroz Nir Añejado Chaparri Bolsa,47.0,metro,,ARROZ ENVASADO
+Twopack Arroz Costeño Añejo Extra 5kg,S/ 53.80,metro,ARROZ ENVASADO,2024-12-05 15:03:32.699540,5.0,kg,Twopack Arroz Costeño Añejo Extra,53.8,metro,,ARROZ ENVASADO
+Twopack Arroz Costeño Añejo Extra 5kg,S/ 53.80,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Twopack Arroz Costeño Añejo Extra,53.8,wong,,ARROZ ENVASADO
+Twopack Arroz Extra Costeño 5kg,S/ 57.00,wong,ARROZ ENVASADO,2024-12-05 17:30:42.491945,5.0,kg,Twopack Arroz Extra Costeño,57.0,wong,,ARROZ ENVASADO
+Arroz Superior TIMONEL Bolsa 1Kg,,vega,ARROZ ENVASADO,2024-12-05 11:36:02.001973,1.0,kg,Arroz Superior TIMONEL Bolsa,,vega,Timonel,ARROZ ENVASADO

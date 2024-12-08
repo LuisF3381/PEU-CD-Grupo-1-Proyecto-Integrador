@@ -60,6 +60,13 @@ def eliminar_duplicados(df):
 def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output_path):
     # Crear el directorio de salida si no existe
     os.makedirs(output_path, exist_ok=True)
+
+    # Leer el archivo de web por producto
+    current_dir = os.path.dirname(__file__)
+    csv_path_prod_web = os.path.join(current_dir, 'base_period', 'Productos_x_web.csv')
+
+    df_producto_web = pd.read_csv(csv_path_prod_web)
+    
     
     # Iterar por cada fila del DataFrame de clasificaciones
     for _, fila in df_clasificaciones.iterrows():
@@ -69,11 +76,13 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
         df_clasificacion = pd.DataFrame()
         
         # Iterar por cada web
-        webs = ['metro', 'plaza_vea', 'tottus', 'vega', 'vivanda', 'wong']
+        webs = ['metro', 'plaza_vea', 'tottus', 'vega', 'vivanda', 'wong', 'tambo']
         for web in webs:
             # Construir la ruta del directorio
             input_path = os.path.join(base_path, 'data', 'processed', web, current_date)
+            
             #ADICIONAL AQUI VERIFICAR SI ESE CSV SE VA TOMAR EN CUENTA SEGUN LA WEB
+
             # Verificar si la ruta existe
             if os.path.exists(input_path):
                 # Buscar archivos CSV que contengan la clasificación en su nombre
@@ -90,8 +99,19 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
                         # Agregar columna de web para trazabilidad
                         df_actual['WEB'] = web
                         
-                        # Consolidar
-                        df_clasificacion = pd.concat([df_clasificacion, df_actual], ignore_index=True)
+
+                        
+                        # Verificamos si se mapea o no
+                        nombre_producto = archivo_csv.split("_")[0]
+                        fila_seleccionada = df_producto_web[df_producto_web["CLASIFICACION"] == nombre_producto]
+                        valor_web = fila_seleccionada[web].iloc[0]
+
+
+                        # Consolidar (solo si se mapeo que existe en la web)
+                        if valor_web == "SI":
+                            df_clasificacion = pd.concat([df_clasificacion, df_actual], ignore_index=True)
+                        
+                        
                     except Exception as e:
                         print(f"Error al leer {ruta_completa}: {e}")
         

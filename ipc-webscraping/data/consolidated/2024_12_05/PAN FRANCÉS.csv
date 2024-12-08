@@ -1,34 +1,14 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Fideo SAN JORGE Letras y Números Bolsa 250gr,S/ 1.70,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,250.0,g,Fideo SAN JORGE Letras y Números Bolsa r,1.7,vega,,San Jorge,PAN FRANCÉS
-Galleta SAN JORGE Vainilla Familiar Paquete 120gr,S/ 1.70,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,120.0,g,Galleta SAN JORGE Vainilla Familiar Paquete r,1.7,vega,,San Jorge,PAN FRANCÉS
-Galletas SAN JORGE Coconut Paquete 55g x 2u,S/ 2.00,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,55.0,g,Galletas SAN JORGE Coconut Paquete  x 2u,2.0,vega,,San Jorge,PAN FRANCÉS
-Pan Francés Especial 5un,S/ 2.80,wong,PAN FRANCÉS,2024-12-05 17:39:12.056209,5.0,un,Pan Francés Especial,2.8,wong,,,PAN FRANCÉS
-Fideo SAN JORGE Spaghetti Bolsa 500gr,S/ 3.00,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,500.0,g,Fideo SAN JORGE Spaghetti Bolsa r,3.0,vega,,San Jorge,PAN FRANCÉS
-Galleta SAN JORGE Soda Gourmet 250gr,S/ 3.70,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,250.0,g,Galleta SAN JORGE Soda Gourmet r,3.7,vega,,San Jorge,PAN FRANCÉS
-Pan Francés Especial 5un,S/ 3.90,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,5.0,un,Pan Francés Especial,3.9,metro,,,PAN FRANCÉS
-Pan Francés Precocido Congelado BELL'S Bolsa 5un,S/ 4.00,vivanda,PAN FRANCÉS,2024-12-05 21:32:46.277177,5.0,un,Pan Francés Precocido Congelado BELL'S Bolsa,4.0,vivanda,,BELL'S,PAN FRANCÉS
-Galletas Navideñas COLOMBINA Navidad Bolsa 150g,S/ 4.20 7%,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,150.0,g,Galletas Navideñas COLOMBINA Navidad Bolsa,4.2,vega,,San Jorge,PAN FRANCÉS
-Pan Francés DON MAMINO Precocido Bolsa 250g,S/ 4.50 un,plaza_vea,PAN FRANCÉS,2024-12-05 14:31:46.708762,250.0,g,Pan Francés DON MAMINO Precocido Bolsa,4.5,plaza_vea,Bolsa 250g,,PAN FRANCÉS
 Pan Francés Precocido Congelado 6 Unidades,S/ 4.50,tottus,PAN FRANCÉS,2024-12-05 11:16:19.147587,6.0,un,Pan Francés Precocido Congelado ades,4.5,tottus,,TOTTUS,PAN FRANCÉS
-Pan Francés Precocido Don Mamino 5 Unidades,S/ 4.50,tottus,PAN FRANCÉS,2024-12-05 11:16:19.147587,5.0,un,Pan Francés Precocido Don Mamino ades,4.5,tottus,,DGNOTTAS,PAN FRANCÉS
 Pan Francés DON MAMINO Precocido Bolsa 250g,S/ 4.90,vivanda,PAN FRANCÉS,2024-12-05 21:32:46.277177,250.0,g,Pan Francés DON MAMINO Precocido Bolsa,4.9,vivanda,,DON MAMINO,PAN FRANCÉS
 Pan Frances Pre-Cocido Don Mamino Contenido 5 Unidades,S/ 5.00,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,5.0,un,Pan Frances Pre-Cocido Don Mamino Contenido ades,5.0,metro,,,PAN FRANCÉS
-Pan Francés Refrigerado Bolsa 6un,S/ 5.00,vivanda,PAN FRANCÉS,2024-12-05 21:32:46.277177,6.0,un,Pan Francés Refrigerado Bolsa,5.0,vivanda,,VIVANDA,PAN FRANCÉS
 Pan Frances Pre-Cocido Don Mamino Contenido 5 Unidades,S/ 5.10,wong,PAN FRANCÉS,2024-12-05 17:39:12.056209,5.0,un,Pan Frances Pre-Cocido Don Mamino Contenido ades,5.1,wong,,,PAN FRANCÉS
-Pan Francés Precocido Cuisine & Co 6un,S/ 5.52,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,6.0,un,Pan Francés Precocido Cuisine & Co,5.52,metro,,,PAN FRANCÉS
 Pan Francés Precocido Cuisine & Co 6un,S/ 5.52,wong,PAN FRANCÉS,2024-12-05 17:39:12.056209,6.0,un,Pan Francés Precocido Cuisine & Co,5.52,wong,,,PAN FRANCÉS
-Pan Francés Precocido 10un,S/ 5.90,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,10.0,un,Pan Francés Precocido,5.9,metro,,,PAN FRANCÉS
+Pan Francés Precocido Cuisine & Co 6un,S/ 5.52,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,6.0,un,Pan Francés Precocido Cuisine & Co,5.52,metro,,,PAN FRANCÉS
 Pan Mini Francés LA FLORENCIA Bolsa 550g,S/ 5.90 un,plaza_vea,PAN FRANCÉS,2024-12-05 14:31:46.708762,550.0,g,Pan Mini Francés LA FLORENCIA Bolsa,5.9,plaza_vea,Bolsa 550g,,PAN FRANCÉS
+Pan Francés Precocido 10un,S/ 5.90,metro,PAN FRANCÉS,2024-12-05 15:11:45.110354,10.0,un,Pan Francés Precocido,5.9,metro,,,PAN FRANCÉS
 Pan Francés Precocido 10un,S/ 6.90,wong,PAN FRANCÉS,2024-12-05 17:39:12.056209,10.0,un,Pan Francés Precocido,6.9,wong,,,PAN FRANCÉS
 Pan Mini Francés LA FLORENCIA Bolsa 550g,S/ 7.00,vivanda,PAN FRANCÉS,2024-12-05 21:32:46.277177,550.0,g,Pan Mini Francés LA FLORENCIA Bolsa,7.0,vivanda,,LA FLORENCIA,PAN FRANCÉS
+Mini Francés 600 g,S/ 7.90,tottus,PAN FRANCÉS,2024-12-05 11:16:19.147587,600.0,g,Mini Francés,7.9,tottus,,TOTTUS,PAN FRANCÉS
 Pan Francés x Kg,S/ 7.90 x kg,plaza_vea,PAN FRANCÉS,2024-12-05 14:31:46.708762,0.42,kg,Pan Francés,7.9,plaza_vea,Presentación 0.42 kg aprox.,,PAN FRANCÉS
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,,P.A.N.,PAN FRANCÉS
-Agua SAN MATEO sin Gas Bidón 7L,S/ 8.90,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,7.0,l,Agua SAN MATEO sin Gas Bidón,8.9,vega,,San Mateo,PAN FRANCÉS
 Pan Artesano Francés Bolsa x 425 g,S/ 11.60,tottus,PAN FRANCÉS,2024-12-05 11:16:19.147587,425.0,g,Pan Artesano Francés Bolsa x,11.6,tottus,,BIMBO,PAN FRANCÉS
-Agua SAN MATEO Sin Gas Paquete 6 Botella 2.5L,S/ 17.70 8%,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,2.5,l,Agua SAN MATEO Sin Gas Paquete 6 Botella,17.7,vega,,San Mateo,PAN FRANCÉS
-Agua SAN CARLOS Sin Gas Caja 20 Lt,S/ 19.00,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,20.0,l,Agua SAN CARLOS Sin Gas Caja t,19.0,vega,,San Carlos,PAN FRANCÉS
-Agua SAN MATEO Sin Gas Botella 600ml,S/ 22.50,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,600.0,ml,Agua SAN MATEO Sin Gas Botella,22.5,vega,,San Mateo,PAN FRANCÉS
-Vale de Pavo SAN FERNANDO 7kg,S/ 105.90,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,7.0,kg,Vale de Pavo SAN FERNANDO,105.9,vega,,San Fernando,PAN FRANCÉS
-Comida para Perros SUPERCAN Cachorros Carne y Leche Bolsa 25kg,S/ 152.50,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,25.0,kg,Comida para Perros SUPERCAN Cachorros Carne y Leche Bolsa,152.5,vega,,Super Can,PAN FRANCÉS
-Comida para Perro SUPERCAN Adultos Carne y Cereal Razas Medianas y Grandes Bolsa 25kg,S/ 152.50,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,25.0,kg,Comida para Perro SUPERCAN Adultos Carne y Cereal Razas Medianas y Grandes Bolsa,152.5,vega,,Super Can,PAN FRANCÉS
-Agua SAN MATEO Con Gas Paquete 15u Botella 600ml,,vega,PAN FRANCÉS,2024-12-05 11:45:27.673088,600.0,ml,Agua SAN MATEO Con Gas Paquete 15u Botella,,vega,,San Mateo,PAN FRANCÉS

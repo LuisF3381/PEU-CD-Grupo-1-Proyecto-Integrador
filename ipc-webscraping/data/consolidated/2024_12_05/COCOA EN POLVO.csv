@@ -1,41 +1,40 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Cocoa WINTERS Reforzada Bolsa 40g,S/ 3.70,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,40.0,g,Cocoa WINTERS Reforzada Bolsa,3.7,vega,,Winter'S,COCOA EN POLVO
-Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Sobre 90 gr,S/ 6.60,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,90.0,g,Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Sobre r,6.6,wong,,,COCOA EN POLVO
-Cocoa en Polvo Winter's La Abuelita 150g,S/ 6.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,150.0,g,Cocoa en Polvo Winter's La Abuelita,6.7,metro,,,COCOA EN POLVO
-COCOA X160G,S/ 6.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,160.0,g,COCOA X,6.9,tottus,,TOTTUS,COCOA EN POLVO
-Cocoa Timonel Bolsa 160g,S/ 8.90 10%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,160.0,g,Cocoa Timonel Bolsa,8.9,vega,,Timonel,COCOA EN POLVO
-Chocolatada en Polvo Miskísimoo Doypack 200 g,S/ 9.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,200.0,g,Chocolatada en Polvo Miskísimoo Doypack,9.7,metro,,,COCOA EN POLVO
-Chocolatada en Polvo Miskísimoo Doypack 200 g,S/ 9.90,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,200.0,g,Chocolatada en Polvo Miskísimoo Doypack,9.9,wong,,,COCOA EN POLVO
-7 Semillas en Polvo Miskísimoo 184g,S/ 10.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,184.0,g,7 Semillas en Polvo Miskísimoo,10.1,metro,,,COCOA EN POLVO
-Alimento Granulado MILO Activ - Go Doypack 190g,S/ 10.50 4%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,190.0,g,Alimento Granulado MILO Activ - Go Doypack,10.5,vega,,Milo,COCOA EN POLVO
-Fortificante CHOCOLISTO Winter's Chocolate Frasco 300gr,S/ 10.90 9%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,300.0,g,Fortificante CHOCOLISTO Winter's Chocolate Frasco r,10.9,vega,,Winter'S,COCOA EN POLVO
-Fortificante NESQUIK Sabor a Chocolate Lata 380g,S/ 11.20,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,380.0,g,Fortificante NESQUIK Sabor a Chocolate Lata,11.2,vega,,Nesquik,COCOA EN POLVO
-Bebida Instantánea en Polvo Kiwigen Sabor Vainilla 180g,S/ 12.10,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor Vainilla,12.1,wong,,,COCOA EN POLVO
-Bebida Instantánea en Polvo Kiwigen Sabor a Fresa 180g,S/ 12.10,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor a Fresa,12.1,wong,,,COCOA EN POLVO
-Bebida Instantánea en Polvo Kiwigen Sabor Vainilla 180g,S/ 12.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor Vainilla,12.1,metro,,,COCOA EN POLVO
-Bebida Instantánea en Polvo Kiwigen Sabor a Fresa 180g,S/ 12.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor a Fresa,12.1,metro,,,COCOA EN POLVO
-Alimento En Polvo Con Avena Chocoso Cuisine&Co Doypack 380 g,S/ 12.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,380.0,g,Alimento En Polvo Con Avena Chocoso Cuisine&Co Doypack,12.5,wong,,,COCOA EN POLVO
-Cocoa Winters 150g,S/ 13.50,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,150.0,g,Cocoa Winters,13.5,tottus,,WINTER'S,COCOA EN POLVO
-Alimento Granulado MILO Activ - Go Doypack 350g,S/ 13.90 7%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,350.0,g,Alimento Granulado MILO Activ - Go Doypack,13.9,vega,,Milo,COCOA EN POLVO
-Cocoa Orgánica de 170 g,S/ 14.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,170.0,g,Cocoa Orgánica de,14.9,tottus,,MACADOR,COCOA EN POLVO
-Cocoa WINTER'S Pote 180gr,S/ 15.00 6%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,180.0,g,Cocoa WINTER'S Pote r,15.0,vega,,Winter'S,COCOA EN POLVO
-Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack 200 g,S/ 16.00,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,200.0,g,Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack,16.0,wong,,,COCOA EN POLVO
-Bebida Nutricional en Polvo con Cacao Mornings Ecoandino Doypack 200 g,S/ 17.40,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,200.0,g,Bebida Nutricional en Polvo con Cacao Mornings Ecoandino Doypack,17.4,wong,,,COCOA EN POLVO
-COCOA WINTERS X 180G,S/ 17.50,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,180.0,g,COCOA WINTERS X,17.5,tottus,,WINTER'S,COCOA EN POLVO
-COCOA X 500G,S/ 17.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,500.0,g,COCOA X,17.9,tottus,,TOTTUS,COCOA EN POLVO
-Chocolatada en Polvo Miskísimoo 400g,S/ 18.50,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,400.0,g,Chocolatada en Polvo Miskísimoo,18.5,metro,,,COCOA EN POLVO
-Cacao en Polvo Donofrio 150g,S/ 19.50,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,150.0,g,Cacao en Polvo Donofrio,19.5,metro,,,COCOA EN POLVO
-Cacao en Polvo Donofrio 150g,S/ 19.70,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,150.0,g,Cacao en Polvo Donofrio,19.7,wong,,,COCOA EN POLVO
-Cocoa Orgánico 230 g,S/ 19.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,230.0,g,Cocoa Orgánico,19.9,tottus,,MACADOR,COCOA EN POLVO
-Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack 350 g,S/ 20.90,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,350.0,g,Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack,20.9,metro,,,COCOA EN POLVO
-Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata 400 gr,S/ 23.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,400.0,g,Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata r,23.1,metro,,,COCOA EN POLVO
-Bebida Instantánea en Polvo Sabor Fresa Kiwigen Lata 400 gr,S/ 23.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,400.0,g,Bebida Instantánea en Polvo Sabor Fresa Kiwigen Lata r,23.5,wong,,,COCOA EN POLVO
-Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja 8 unid,S/ 24.80,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,8.0,un,Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja,24.8,metro,,,COCOA EN POLVO
-Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja 8 unid,S/ 25.90,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,8.0,un,Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja,25.9,wong,,,COCOA EN POLVO
-Cocoa Winters 360 g,S/ 28.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,360.0,g,Cocoa Winters,28.9,tottus,,WINTER'S,COCOA EN POLVO
-Bebida Instantánea en Polvo Sin Azúcar Kiwigen Golden Lata 550 g,S/ 42.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,550.0,g,Bebida Instantánea en Polvo Sin Azúcar Kiwigen Golden Lata,42.7,metro,,,COCOA EN POLVO
-Cocoa WINTER'S Reforzada Display 50u Bolsa 10g,S/ 48.50,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,10.0,g,Cocoa WINTER'S Reforzada Display 50u Bolsa,48.5,vega,,Winter'S,COCOA EN POLVO
-Cocoa en Polvo Winter's 900g,S/ 62.00,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,900.0,g,Cocoa en Polvo Winter's,62.0,wong,,,COCOA EN POLVO
-Cocoa en Polvo Winter's 900g,S/ 62.00,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,900.0,g,Cocoa en Polvo Winter's,62.0,metro,,,COCOA EN POLVO
-Cocoa WINTERS Doypack 900g,S/ 63.50,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,900.0,g,Cocoa WINTERS Doypack,63.5,vega,,Winter'S,COCOA EN POLVO
-Bebida de Chocolate en Polvo Lakanto 283g,S/ 78.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,283.0,g,Bebida de Chocolate en Polvo Lakanto,78.5,wong,,,COCOA EN POLVO
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+Cocoa WINTERS Reforzada Bolsa 40g,S/ 3.70,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,40.0,g,Cocoa WINTERS Reforzada Bolsa,3.7,vega,Winter'S,COCOA EN POLVO
+Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Sobre 90 gr,S/ 6.60,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,90.0,g,Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Sobre r,6.6,wong,,COCOA EN POLVO
+Cocoa en Polvo Winter's La Abuelita 150g,S/ 6.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,150.0,g,Cocoa en Polvo Winter's La Abuelita,6.7,metro,,COCOA EN POLVO
+COCOA X160G,S/ 6.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,160.0,g,COCOA X,6.9,tottus,TOTTUS,COCOA EN POLVO
+Cocoa Timonel Bolsa 160g,S/ 8.90 10%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,160.0,g,Cocoa Timonel Bolsa,8.9,vega,Timonel,COCOA EN POLVO
+Chocolatada en Polvo Miskísimoo Doypack 200 g,S/ 9.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,200.0,g,Chocolatada en Polvo Miskísimoo Doypack,9.7,metro,,COCOA EN POLVO
+7 Semillas en Polvo Miskísimoo 184g,S/ 10.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,184.0,g,7 Semillas en Polvo Miskísimoo,10.1,metro,,COCOA EN POLVO
+Alimento Granulado MILO Activ - Go Doypack 190g,S/ 10.50 4%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,190.0,g,Alimento Granulado MILO Activ - Go Doypack,10.5,vega,Milo,COCOA EN POLVO
+Fortificante CHOCOLISTO Winter's Chocolate Frasco 300gr,S/ 10.90 9%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,300.0,g,Fortificante CHOCOLISTO Winter's Chocolate Frasco r,10.9,vega,Winter'S,COCOA EN POLVO
+Bebida Instantánea en Polvo Kiwigen Sabor Vainilla 180g,S/ 12.10,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor Vainilla,12.1,wong,,COCOA EN POLVO
+Bebida Instantánea en Polvo Kiwigen Sabor a Fresa 180g,S/ 12.10,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor a Fresa,12.1,wong,,COCOA EN POLVO
+Bebida Instantánea en Polvo Kiwigen Sabor a Fresa 180g,S/ 12.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor a Fresa,12.1,metro,,COCOA EN POLVO
+Bebida Instantánea en Polvo Kiwigen Sabor Vainilla 180g,S/ 12.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor Vainilla,12.1,metro,,COCOA EN POLVO
+Alimento En Polvo Con Avena Chocoso Cuisine&Co Doypack 380 g,S/ 12.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,380.0,g,Alimento En Polvo Con Avena Chocoso Cuisine&Co Doypack,12.5,wong,,COCOA EN POLVO
+Bebida Instantánea en Polvo Kiwigen Sabor Chocolate 180g,S/ 12.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,180.0,g,Bebida Instantánea en Polvo Kiwigen Sabor Chocolate,12.5,wong,,COCOA EN POLVO
+Cocoa Winters 150g,S/ 13.50,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,150.0,g,Cocoa Winters,13.5,tottus,WINTER'S,COCOA EN POLVO
+Alimento Granulado MILO Activ - Go Doypack 350g,S/ 13.90 7%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,350.0,g,Alimento Granulado MILO Activ - Go Doypack,13.9,vega,Milo,COCOA EN POLVO
+Cocoa Orgánica de 170 g,S/ 14.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,170.0,g,Cocoa Orgánica de,14.9,tottus,MACADOR,COCOA EN POLVO
+Cocoa WINTER'S Pote 180gr,S/ 15.00 6%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,180.0,g,Cocoa WINTER'S Pote r,15.0,vega,Winter'S,COCOA EN POLVO
+Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack 200 g,S/ 16.00,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,200.0,g,Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack,16.0,wong,,COCOA EN POLVO
+COCOA WINTERS X 180G,S/ 17.50,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,180.0,g,COCOA WINTERS X,17.5,tottus,WINTER'S,COCOA EN POLVO
+Chocolatada en Polvo Miskísimoo 400g,S/ 18.50,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,400.0,g,Chocolatada en Polvo Miskísimoo,18.5,metro,,COCOA EN POLVO
+Alimento Granulado MILO Activ-go Lata 380gr,S/ 19.20 4%,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,380.0,g,Alimento Granulado MILO Activ-go Lata r,19.2,vega,Milo,COCOA EN POLVO
+Cacao en Polvo Donofrio 150g,S/ 19.50,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,150.0,g,Cacao en Polvo Donofrio,19.5,metro,,COCOA EN POLVO
+Cacao en Polvo Donofrio 150g,S/ 19.70,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,150.0,g,Cacao en Polvo Donofrio,19.7,wong,,COCOA EN POLVO
+Cocoa Orgánico 230 g,S/ 19.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,230.0,g,Cocoa Orgánico,19.9,tottus,MACADOR,COCOA EN POLVO
+Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack 350 g,S/ 20.90,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,350.0,g,Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack,20.9,metro,,COCOA EN POLVO
+Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack 350 g,S/ 21.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,350.0,g,Bebida Nutricional en Polvo Andean Chocolate Nunatura Doypack,21.5,wong,,COCOA EN POLVO
+Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata 400 gr,S/ 23.10,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,400.0,g,Bebida Instantánea en Polvo Sabor Chocolate Kiwigen Lata r,23.1,metro,,COCOA EN POLVO
+Bebida Instantánea en Polvo Sabor Fresa Kiwigen Lata 400 gr,S/ 23.50,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,400.0,g,Bebida Instantánea en Polvo Sabor Fresa Kiwigen Lata r,23.5,wong,,COCOA EN POLVO
+Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja 8 unid,S/ 24.80,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,8.0,un,Cocoa en Polvo con Chocolate Swiss Miss Rich Chocolate Caja,24.8,metro,,COCOA EN POLVO
+Cocoa en Polvo con Marshmallows Swiss Miss Caja 10 unid,S/ 25.90,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,10.0,un,Cocoa en Polvo con Marshmallows Swiss Miss Caja,25.9,wong,,COCOA EN POLVO
+Bebida Instantánea en Polvo Golden Kiwigen Lata 340 gr,S/ 27.90,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,340.0,g,Bebida Instantánea en Polvo Golden Kiwigen Lata r,27.9,wong,,COCOA EN POLVO
+Cocoa Winters 360 g,S/ 28.90,tottus,COCOA EN POLVO,2024-12-05 12:46:05.292356,360.0,g,Cocoa Winters,28.9,tottus,WINTER'S,COCOA EN POLVO
+Bebida Instantánea en Polvo Sin Azúcar Kiwigen Golden Lata 550 g,S/ 42.70,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,550.0,g,Bebida Instantánea en Polvo Sin Azúcar Kiwigen Golden Lata,42.7,metro,,COCOA EN POLVO
+Cocoa WINTER'S Reforzada Display 50u Bolsa 10g,S/ 48.50,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,10.0,g,Cocoa WINTER'S Reforzada Display 50u Bolsa,48.5,vega,Winter'S,COCOA EN POLVO
+Cocoa en Polvo Winter's 900g,S/ 62.00,wong,COCOA EN POLVO,2024-12-05 19:29:42.410647,900.0,g,Cocoa en Polvo Winter's,62.0,wong,,COCOA EN POLVO
+Cocoa en Polvo Winter's 900g,S/ 62.00,metro,COCOA EN POLVO,2024-12-05 16:51:17.464295,900.0,g,Cocoa en Polvo Winter's,62.0,metro,,COCOA EN POLVO
+Cocoa WINTERS Doypack 900g,S/ 63.50,vega,COCOA EN POLVO,2024-12-05 13:27:03.914047,900.0,g,Cocoa WINTERS Doypack,63.5,vega,Winter'S,COCOA EN POLVO

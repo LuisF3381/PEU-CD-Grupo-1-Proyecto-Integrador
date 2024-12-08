@@ -1,182 +1,45 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Gomitas MOGUL Pastillas Frutales Extreme bolsa 35 g,S/ 1.50,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,35.0,g,Gomitas MOGUL Pastillas Frutales Extreme bolsa,1.5,vega,,Arcor,GOMA DE MASCAR
-Goma Artesco en Barra Sticky Neon 21gr Surtido,S/ 2.80,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,21.0,g,Goma Artesco en Barra Sticky Neon r Surtido,2.8,wong,,,GOMA DE MASCAR
-Goma Artesco en Barra Sticky Neon 21gr,S/ 2.80,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,21.0,g,Goma Artesco en Barra Sticky Neon r,2.8,metro,,,GOMA DE MASCAR
-Marshmellows Mr. Mallo Fresas Bolsa 100 g,S/ 2.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Mr. Mallo Fresas Bolsa,2.9,metro,,,GOMA DE MASCAR
-Marshmellows Mr. Mallo Watermelons Bolsa 100 g,S/ 2.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Mr. Mallo Watermelons Bolsa,2.9,metro,,,GOMA DE MASCAR
-Goma Gelat Gusanos Acido Surt Bolsa x 90 gr,S/ 2.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,90.0,g,Goma Gelat Gusanos Acido Surt Bolsa x r,2.9,tottus,,AMBROSOLI,GOMA DE MASCAR
-Goma Gelatina Gusanos Surtido Bolsa x 90 gr,S/ 2.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,90.0,g,Goma Gelatina Gusanos Surtido Bolsa x r,2.9,tottus,,AMBROSOLI,GOMA DE MASCAR
-Marshmellows Mr. Mallo Limones Bolsa 100 g,S/ 2.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Mr. Mallo Limones Bolsa,2.9,metro,,,GOMA DE MASCAR
-Marshmellows Mr. Mallo Manzanas Bolsa 100 g,S/ 2.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Mr. Mallo Manzanas Bolsa,2.9,metro,,,GOMA DE MASCAR
-Marshmellows Mr. Mallo Limones Bolsa 100 g,S/ 2.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,100.0,g,Marshmellows Mr. Mallo Limones Bolsa,2.9,wong,,,GOMA DE MASCAR
-Gomitas Grissly Aros Acid 78g,S/ 3.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,78.0,g,Gomitas Grissly Aros Acid,3.0,wong,,,GOMA DE MASCAR
-Gomas Grissly Gusanos 80g,S/ 3.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Gomas Grissly Gusanos,3.0,wong,,,GOMA DE MASCAR
-Gomitas Grissly Aros Acid 78g,S/ 3.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,78.0,g,Gomitas Grissly Aros Acid,3.0,metro,,,GOMA DE MASCAR
-Gomas Grissly Delfin 80g,S/ 3.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Gomas Grissly Delfin,3.0,metro,,,GOMA DE MASCAR
-Gomas Grissly Osos 80g,S/ 3.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Gomas Grissly Osos,3.0,wong,,,GOMA DE MASCAR
-Gomitas Ambrosoli Donas Play 70g,S/ 3.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,70.0,g,Gomitas Ambrosoli Donas Play,3.2,wong,,,GOMA DE MASCAR
-Gomitas Ambrosoli Ambrosito Ácido 90g,S/ 3.20,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Ambrosoli Ambrosito Ácido,3.2,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Enamoras Play 70g,S/ 3.20,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,70.0,g,Gomitas Ambrosoli Enamoras Play,3.2,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Donas Play 70g,S/ 3.20,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,70.0,g,Gomitas Ambrosoli Donas Play,3.2,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Caliptus Mix 90g,S/ 3.20,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Ambrosoli Caliptus Mix,3.2,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Caliptus Mix 90g,S/ 3.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Ambrosoli Caliptus Mix,3.2,wong,,,GOMA DE MASCAR
-Goma Pegafan Pote 200 ml,S/ 3.30,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,200.0,ml,Goma Pegafan Pote,3.3,metro,,,GOMA DE MASCAR
-Gomitas Ambrosito 90g,S/ 3.40,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Ambrosito,3.4,metro,,,GOMA DE MASCAR
-Gomitas Ambrosito 90g,S/ 3.40,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Ambrosito,3.4,wong,,,GOMA DE MASCAR
-Goma de Mascar TRIDENT Splash Fresa Bolsa 17.1...,S/ 3.60 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,17.1,g,Goma de Mascar TRIDENT Splash Fresa Bolsa 17.1,3.6,plaza_vea,Bolsa 17.1g,,GOMA DE MASCAR
-Goma de Mascar TRIDENT Splash Yerbabuena Bolsa 17.1g,S/ 3.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,17.1,g,Goma de Mascar TRIDENT Splash Yerbabuena Bolsa,3.6,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Splash Menta Bolsa 17.1g,S/ 3.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,17.1,g,Goma de Mascar TRIDENT Splash Menta Bolsa,3.6,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma en Barra Pegafan 36 gr,S/ 3.80,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,36.0,g,Goma en Barra Pegafan r,3.8,wong,,,GOMA DE MASCAR
-Goma en Barra Pegafan 36 gr,S/ 3.80,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,36.0,g,Goma en Barra Pegafan r,3.8,metro,,,GOMA DE MASCAR
-Goma en Barra Vinifan Circular Naranja Forte 40g,S/ 3.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,40.0,g,Goma en Barra Vinifan Circular Naranja Forte,3.9,metro,,,GOMA DE MASCAR
-Goma en Barra Vinifan Circular Pastel Forte 40g,S/ 3.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,40.0,g,Goma en Barra Vinifan Circular Pastel Forte,3.9,wong,,,GOMA DE MASCAR
-Goma en Barra Vinifan Circular Naranja Forte 40g,S/ 3.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,40.0,g,Goma en Barra Vinifan Circular Naranja Forte,3.9,wong,,,GOMA DE MASCAR
-Goma en Barra Vinifan Circular Pastel Forte 40g,S/ 3.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,40.0,g,Goma en Barra Vinifan Circular Pastel Forte,3.9,metro,,,GOMA DE MASCAR
-Goma en Barra Layconsa 21 g,S/ 4.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,21.0,g,Goma en Barra Layconsa,4.0,metro,,,GOMA DE MASCAR
-Gomas FINI Flor Bolsa 80g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Gomas FINI Flor Bolsa,4.2,vega,,Fini,GOMA DE MASCAR
-Gomas FINI Sabor Mora Bolsa 90g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomas FINI Sabor Mora Bolsa,4.2,vega,,Fini,GOMA DE MASCAR
-Gomas FINI Sabor Fresa Ácido Bolsa 90g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomas FINI Sabor Fresa Ácido Bolsa,4.2,vega,,Fini,GOMA DE MASCAR
-Gomitas FINI Dentaduras Bolsa 90gr,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomitas FINI Dentaduras Bolsa r,4.2,vega,,Fini,GOMA DE MASCAR
-Masticable Re galiz FINI Fresa Ácida Bolsa 80 g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Masticable Re galiz FINI Fresa Ácida Bolsa,4.2,vega,,Fini,GOMA DE MASCAR
-Artesco Goma en Barra Sticky Power Clear Tubo 21 g,S/ 4.40,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,21.0,g,Artesco Goma en Barra Sticky Power Clear Tubo,4.4,wong,,,GOMA DE MASCAR
-Marshmellows Colombina Millows Navidad 145g,S/ 4.40,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,145.0,g,Marshmellows Colombina Millows Navidad,4.4,wong,,,GOMA DE MASCAR
-Artesco Goma en Barra Sticky Power Clear Tubo 21 g,S/ 4.40,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,21.0,g,Artesco Goma en Barra Sticky Power Clear Tubo,4.4,metro,,,GOMA DE MASCAR
-Vinifan Goma en Barra Forte 40 g,S/ 4.60,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,40.0,g,Vinifan Goma en Barra Forte,4.6,wong,,,GOMA DE MASCAR
-Gomitas Mogul Extreme Tutti Frutti 80g,S/ 4.60,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Gomitas Mogul Extreme Tutti Frutti,4.6,wong,,,GOMA DE MASCAR
-Gomitas Mogul Moras 80g,S/ 4.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Gomitas Mogul Moras,4.6,metro,,,GOMA DE MASCAR
-Vinifan Goma en Barra Forte 40 g,S/ 4.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,40.0,g,Vinifan Goma en Barra Forte,4.6,metro,,,GOMA DE MASCAR
-Artesco Goma en Barra Sticky Tubo 40 g,S/ 4.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,40.0,g,Artesco Goma en Barra Sticky Tubo,4.6,metro,,,GOMA DE MASCAR
-Gomitas Mogul Extreme Sandía 80g,S/ 4.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Gomitas Mogul Extreme Sandía,4.6,metro,,,GOMA DE MASCAR
-Gomitas Mogul Extreme Tutti Frutti 80g,S/ 4.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Gomitas Mogul Extreme Tutti Frutti,4.6,metro,,,GOMA DE MASCAR
-Gomitas Sabor Mora Fini Moras 90g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Sabor Mora Fini Moras,4.9,wong,,,GOMA DE MASCAR
-Regaliz Sabor Uva Fini Tubos Ácidos 80g,S/ 4.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Regaliz Sabor Uva Fini Tubos Ácidos,4.9,metro,,,GOMA DE MASCAR
-Regaliz Sabor Frutas Silvestres y Nata Fini Tubos Ácidos 80g,S/ 4.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,80.0,g,Regaliz Sabor Frutas Silvestres y Nata Fini Tubos Ácidos,4.9,metro,,,GOMA DE MASCAR
-Gomitas Sabor Plátano Fini Bananitos 90g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Sabor Plátano Fini Bananitos,4.9,wong,,,GOMA DE MASCAR
-Gomitas Ácidas Sabores Surtidos Fini Gusanos Ácidos 90g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Ácidas Sabores Surtidos Fini Gusanos Ácidos,4.9,wong,,,GOMA DE MASCAR
-Chicle Sabor Sandía Fini Sandía Ácida 80g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Chicle Sabor Sandía Fini Sandía Ácida,4.9,wong,,,GOMA DE MASCAR
-Goma Moras 90 g,S/ 4.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,90.0,g,Goma Moras,4.9,tottus,,FINI,GOMA DE MASCAR
-Goma Ositos 90 gr,S/ 4.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,90.0,g,Goma Ositos r,4.9,tottus,,FINI,GOMA DE MASCAR
-Gomitas Ácidas Sabores Surtidos Fini Gusanos Ácidos 90g,S/ 4.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Ácidas Sabores Surtidos Fini Gusanos Ácidos,4.9,metro,,,GOMA DE MASCAR
-GOMA PULPOS BOLSA 80G,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,GOMA PULPOS BOLSA,4.9,wong,,,GOMA DE MASCAR
-Gomitas Sabor Plátano Fini Bananitos 90g,S/ 4.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Sabor Plátano Fini Bananitos,4.9,metro,,,GOMA DE MASCAR
-Regaliz Sabor Fresa y Nata Fini Tubos Ácidos 80g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Regaliz Sabor Fresa y Nata Fini Tubos Ácidos,4.9,wong,,,GOMA DE MASCAR
-Gomitas Sabores Surtidos Fini Ositos 90g,S/ 4.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Sabores Surtidos Fini Ositos,4.9,metro,,,GOMA DE MASCAR
-Regaliz Sabor Uva Fini Tubos Ácidos 80g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,80.0,g,Regaliz Sabor Uva Fini Tubos Ácidos,4.9,wong,,,GOMA DE MASCAR
-Marshmellows Mr. Mallo American BBQ Bolsa 250 g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,250.0,g,Marshmellows Mr. Mallo American BBQ Bolsa,4.9,wong,,,GOMA DE MASCAR
-Gomitas Sabor Fresa y Nata Fini Besos 90g,S/ 4.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Sabor Fresa y Nata Fini Besos,4.9,wong,,,GOMA DE MASCAR
-Marshmallows Millows Surtidos Bolsa 145 g,S/ 5.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,145.0,g,Marshmallows Millows Surtidos Bolsa,5.0,metro,,,GOMA DE MASCAR
-Marshmallows Millows Margarita Bolsa 145 g,S/ 5.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,145.0,g,Marshmallows Millows Margarita Bolsa,5.0,metro,,,GOMA DE MASCAR
-Goma en Barra Artesco Power Sticky 40g,S/ 5.00,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,40.0,g,Goma en Barra Artesco Power Sticky,5.0,metro,,,GOMA DE MASCAR
-Marshmallows Millows Conejos Bolsa 145 g,S/ 5.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,145.0,g,Marshmallows Millows Conejos Bolsa,5.0,wong,,,GOMA DE MASCAR
-Marshmallows Millows Margarita Bolsa 145 g,S/ 5.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,145.0,g,Marshmallows Millows Margarita Bolsa,5.0,wong,,,GOMA DE MASCAR
-Artesco Goma en Barra Stick Magic Tubo 25 g,S/ 5.20,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,25.0,g,Artesco Goma en Barra Stick Magic Tubo,5.2,metro,,,GOMA DE MASCAR
-Artesco Goma en Barra Stick Magic Tubo 25 g,S/ 5.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,25.0,g,Artesco Goma en Barra Stick Magic Tubo,5.2,wong,,,GOMA DE MASCAR
-Goma de Mascar HUBBA BUBBA Max Original Bolsa 40g,S/ 5.50,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,40.0,g,Goma de Mascar HUBBA BUBBA Max Original Bolsa,5.5,vivanda,,HUBBA BUBBA,GOMA DE MASCAR
-Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bolsa 40g,S/ 5.50,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,40.0,g,Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bolsa,5.5,vivanda,,HUBBA BUBBA,GOMA DE MASCAR
-Goma de Mascar HUBBA BUBBA Max Original Bolsa ...,S/ 5.50 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,40.0,g,Goma de Mascar HUBBA BUBBA Max Original Bolsa,5.5,plaza_vea,Bolsa 40g,,GOMA DE MASCAR
-Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bo...,S/ 5.50 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,40.0,g,Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bo,5.5,plaza_vea,Bolsa 40g,,GOMA DE MASCAR
-Gomitas Amos 4D Dinosaurios 90g,S/ 5.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Amos 4D Dinosaurios,5.9,wong,,,GOMA DE MASCAR
-Gomitas Trolli Sharks 100g,S/ 5.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Gomitas Trolli Sharks,5.9,metro,,,GOMA DE MASCAR
-Goma de Mascar ORBIT Fresa Caja 26.6g,S/ 5.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,26.6,g,Goma de Mascar ORBIT Fresa Caja,5.9,vivanda,,ORBIT,GOMA DE MASCAR
-Gomitas Amos 4D Ácidas Building Sticks 90g,S/ 5.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Amos 4D Ácidas Building Sticks,5.9,wong,,,GOMA DE MASCAR
-Peine de goma dura negro 1 unidad,S/ 5.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,1.0,un,Peine de goma dura negro ad,5.9,tottus,,CONAIR,GOMA DE MASCAR
-Gomitas Amos 4D Cupcakes 90g,S/ 5.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Amos 4D Cupcakes,5.9,metro,,,GOMA DE MASCAR
-Goma de Mascar WRIGLEYS Orbit Azul Caja 12un,S/ 5.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar WRIGLEYS Orbit Azul Caja,5.9,plaza_vea,Caja 12un,,GOMA DE MASCAR
-Goma de Mascar WRIGLEYS Orbit Verde Caja 14un,S/ 5.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,14.0,un,Goma de Mascar WRIGLEYS Orbit Verde Caja,5.9,plaza_vea,Caja 14un,,GOMA DE MASCAR
-Gomitas Amos 4D Bloques 90g,S/ 5.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Amos 4D Bloques,5.9,wong,,,GOMA DE MASCAR
-Gomitas Trolli Classic Bears 100g,S/ 5.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Gomitas Trolli Classic Bears,5.9,metro,,,GOMA DE MASCAR
-Gomitas Trolli Sour Glow Worms 100g,S/ 5.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,100.0,g,Gomitas Trolli Sour Glow Worms,5.9,wong,,,GOMA DE MASCAR
-Gomitas Trolli Octopus 100g,S/ 5.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Gomitas Trolli Octopus,5.9,metro,,,GOMA DE MASCAR
-Gomitas Amos 4D Dinosaurios 90g,S/ 5.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,90.0,g,Gomitas Amos 4D Dinosaurios,5.9,metro,,,GOMA DE MASCAR
-Gomitas Amos 4D Frutas 90g,S/ 5.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Amos 4D Frutas,5.9,wong,,,GOMA DE MASCAR
-Goma de Mascar EXTRA MENTA Polar Ice Caja 15un,S/ 6.00,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,15.0,un,Goma de Mascar EXTRA MENTA Polar Ice Caja,6.0,vivanda,,EXTRA MENTA,GOMA DE MASCAR
-Marshmellows Tropical Bolsa 100 g,S/ 6.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Tropical Bolsa,6.6,metro,,,GOMA DE MASCAR
-Marshmellows Tropical Mini Bolsa 100 g,S/ 6.60,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,g,Marshmellows Tropical Mini Bolsa,6.6,metro,,,GOMA DE MASCAR
-Goma de Mascar WRIGLEYS Orbit Verde Caja 14un,S/ 6.70,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,14.0,un,Goma de Mascar WRIGLEYS Orbit Verde Caja,6.7,vivanda,,WRIGLEY S,GOMA DE MASCAR
-Chicle Sin Azúcar Menta Polar Wrigley's Extra Caja 15 unid,S/ 6.70,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,15.0,un,Chicle Sin Azúcar Menta Polar Wrigley's Extra Caja,6.7,wong,,,GOMA DE MASCAR
-Marshmellows Tropical Bolsa 100 g,S/ 6.70,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,100.0,g,Marshmellows Tropical Bolsa,6.7,wong,,,GOMA DE MASCAR
-Goma de Mascar WRIGLEYS Orbit Azul Caja 12un,S/ 6.70,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar WRIGLEYS Orbit Azul Caja,6.7,vivanda,,WRIGLEY S,GOMA DE MASCAR
-Marshmallow Rocky Mountain Clásicos 150g,S/ 7.70,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,150.0,g,Marshmallow Rocky Mountain Clásicos,7.7,wong,,,GOMA DE MASCAR
-Marshmallow Rocky Mountain Mini Fruit 150g,S/ 7.70,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,150.0,g,Marshmallow Rocky Mountain Mini Fruit,7.7,metro,,,GOMA DE MASCAR
-Marshmallow Rocky Mountain Clásicos 150g,S/ 7.70,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,150.0,g,Marshmallow Rocky Mountain Clásicos,7.7,metro,,,GOMA DE MASCAR
-Olé Olé Festival de Sabores 45un,S/ 7.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,45.0,un,Olé Olé Festival de Sabores,7.9,metro,,,GOMA DE MASCAR
-Marshmallows Cuisine & Co 283g,S/ 7.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,283.0,g,Marshmallows Cuisine & Co,7.9,metro,,,GOMA DE MASCAR
-Olé Olé Festival de Sabores 45un,S/ 7.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,45.0,un,Olé Olé Festival de Sabores,7.9,wong,,,GOMA DE MASCAR
-Pack x4 Gomitas Mogul Frutales 35g,S/ 7.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,4.0,g,Pack xomitas Mogul Frutales,7.9,metro,,,GOMA DE MASCAR
-Goma en Barra Uhu Stic 21 gr,S/ 7.91,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,21.0,g,Goma en Barra Uhu Stic r,7.91,wong,,,GOMA DE MASCAR
-Goma de Mascar con Centro Líquido MENTOS Spearmint Frasco 30g,S/ 8.10,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,30.0,g,Goma de Mascar con Centro Líquido MENTOS Spearmint Frasco,8.1,vivanda,,MENTOS,GOMA DE MASCAR
-Goma de Mascar con Centro Líquido MENTOS Fresh Mint Frasco 30g,S/ 8.10,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,30.0,g,Goma de Mascar con Centro Líquido MENTOS Fresh Mint Frasco,8.1,vivanda,,MENTOS,GOMA DE MASCAR
-Goma de Mascar con Centro Líquido MENTOS Fresh...,S/ 8.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,30.0,g,Goma de Mascar con Centro Líquido MENTOS Fresh,8.3,plaza_vea,Frasco 30g,,GOMA DE MASCAR
-Goma en Barra Uhu Stic 21 gr,S/ 8.80,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,21.0,g,Goma en Barra Uhu Stic r,8.8,metro,,,GOMA DE MASCAR
-Golosina ARCOR Masticable Frutas Bolsa 412 g,S/ 8.90,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,412.0,g,Golosina ARCOR Masticable Frutas Bolsa,8.9,vega,,Arcor,GOMA DE MASCAR
-Mix de Gomitas Trolli Gummi Lunch 77.5g,S/ 8.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,77.5,g,Mix de Gomitas Trolli Gummi Lunch,8.9,metro,,,GOMA DE MASCAR
-Goma de Mascar TRIDENT Fresa y Limón Empaque 44.6g,S/ 9.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,44.6,g,Goma de Mascar TRIDENT Fresa y Limón Empaque,9.2,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma Crayola Escarchada Bl 5 un.,S/ 9.40,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,5.0,un,Goma Crayola Escarchada Bl .,9.4,wong,,,GOMA DE MASCAR
-Gomas AMBROSOLI Frugele Bolsa 100 un,S/ 9.50,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,100.0,un,Gomas AMBROSOLI Frugele Bolsa,9.5,vega,,Ambrosoli,GOMA DE MASCAR
-Gomitas Trolli Mini Burger 90g,S/ 9.80,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,90.0,g,Gomitas Trolli Mini Burger,9.8,wong,,,GOMA DE MASCAR
-Gomas de mascar GROSSO Sabores Surtidos Bolsa 325g,S/ 9.90,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,325.0,g,Gomas de mascar GROSSO Sabores Surtidos Bolsa,9.9,vega,,Sapito,GOMA DE MASCAR
-Gomitas Menta 2 Cerritos 150g,S/ 10.10,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,150.0,g,Gomitas Menta 2 Cerritos,10.1,metro,,,GOMA DE MASCAR
-Gomitas Menta 2 Cerritos 150g,S/ 10.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,150.0,g,Gomitas Menta 2 Cerritos,10.2,wong,,,GOMA DE MASCAR
-Gomitas Frutales 2 Cerritos Bolsa 125 gr,S/ 10.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,125.0,g,Gomitas Frutales 2 Cerritos Bolsa r,10.2,wong,,,GOMA DE MASCAR
-Marshmellows Millows Unicornio 50un,S/ 10.70,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,50.0,un,Marshmellows Millows Unicornio,10.7,wong,,,GOMA DE MASCAR
-Marshmellows Millows Unicornio 50un,S/ 10.70,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,50.0,un,Marshmellows Millows Unicornio,10.7,metro,,,GOMA DE MASCAR
-Goma de Mascar WRIGLEY S Hubba Bubba Envase 56...,S/ 10.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,56.7,g,Goma de Mascar WRIGLEY S Hubba Bubba Envase 56,10.9,plaza_vea,Envase de Plastico 56.7g,,GOMA DE MASCAR
-Marshmallow Millows Fresa Bolsa 290g,S/ 10.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,290.0,g,Marshmallow Millows Fresa Bolsa,10.9,wong,,,GOMA DE MASCAR
-Marshmallow Millows Corazones Bolsa 290g,S/ 10.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,290.0,g,Marshmallow Millows Corazones Bolsa,10.9,metro,,,GOMA DE MASCAR
-Marshmellows Tropical Bolsa 255 g,S/ 10.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,255.0,g,Marshmellows Tropical Bolsa,10.9,wong,,,GOMA DE MASCAR
-Gomas Frutales 150 g,S/ 10.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,150.0,g,Gomas Frutales,10.9,tottus,,2 CERRITOS,GOMA DE MASCAR
-Chicle Splot Bola Colombina Bolsa 100 und,S/ 11.10,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,100.0,un,Chicle Splot Bola Colombina Bolsa d,11.1,metro,,,GOMA DE MASCAR
-Caja Sorpresa Arcor Halloween Sorpresa Dinos 100g,S/ 11.30,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,100.0,g,Caja Sorpresa Arcor Halloween Sorpresa Dinos,11.3,wong,,,GOMA DE MASCAR
-Gomitas Ambrosoli Flipy 480g,S/ 11.50,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,480.0,g,Gomitas Ambrosoli Flipy,11.5,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Gusanos Ácidos 480g,S/ 11.50,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,480.0,g,Gomitas Ambrosoli Gusanos Ácidos,11.5,wong,,,GOMA DE MASCAR
-Gomitas Ambrosoli Gusanos Ácidos 480g,S/ 11.50,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,480.0,g,Gomitas Ambrosoli Gusanos Ácidos,11.5,metro,,,GOMA DE MASCAR
-Gomitas Ambrosoli Flipy 480g,S/ 11.50,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,480.0,g,Gomitas Ambrosoli Flipy,11.5,wong,,,GOMA DE MASCAR
-Regaliz Fini Cono Surtido 105g,S/ 11.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,105.0,g,Regaliz Fini Cono Surtido,11.9,wong,,,GOMA DE MASCAR
-Plato Pet's Fun Goma y Acero Doble Celeste 440ml,S/ 11.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,440.0,ml,Plato Pet's Fun Goma y Acero Doble Celeste,11.9,wong,,,GOMA DE MASCAR
-Plato Pet's Fun Goma y Acero Doble Nude 440ml,S/ 11.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,440.0,ml,Plato Pet's Fun Goma y Acero Doble Nude,11.9,wong,,,GOMA DE MASCAR
-Gomas Gusanos Ácidos Bolsa x 480 g,S/ 11.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,480.0,g,Gomas Gusanos Ácidos Bolsa x,11.9,tottus,,AMBROSOLI,GOMA DE MASCAR
-Gomas Flippy Bolsa x 480 g,S/ 11.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,480.0,g,Gomas Flippy Bolsa x,11.9,tottus,,AMBROSOLI,GOMA DE MASCAR
-Gomas Frutillas Ácidas 500 g,S/ 12.40,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,500.0,g,Gomas Frutillas Ácidas,12.4,metro,,,GOMA DE MASCAR
-Goma de Mascar WRIGLEY S Hubba Bubba Envase 56.7g,S/ 12.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,56.7,g,Goma de Mascar WRIGLEY S Hubba Bubba Envase,12.6,vivanda,,WRIGLEY S,GOMA DE MASCAR
-Gomas Frutillas Ácidas 500 g,S/ 12.70,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,500.0,g,Gomas Frutillas Ácidas,12.7,wong,,,GOMA DE MASCAR
-Marshmellows Fini Boo 250g,S/ 12.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,250.0,g,Marshmellows Fini Boo,12.9,metro,,,GOMA DE MASCAR
-Gomitas Fini Little Mix 165g,S/ 12.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,165.0,g,Gomitas Fini Little Mix,12.9,wong,,,GOMA DE MASCAR
-Gomitas Fini Little Mix 165g,S/ 12.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,165.0,g,Gomitas Fini Little Mix,12.9,metro,,,GOMA DE MASCAR
-Gomitas Fini Wild Strawberries 165g,S/ 12.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,165.0,g,Gomitas Fini Wild Strawberries,12.9,wong,,,GOMA DE MASCAR
-Marshmellows Tropical 255g,S/ 13.10,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,255.0,g,Marshmellows Tropical,13.1,metro,,,GOMA DE MASCAR
-Marsmallows Sabor Vainilla Fini Trenza Tricolor 250g,S/ 13.40,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,250.0,g,Marsmallows Sabor Vainilla Fini Trenza Tricolor,13.4,wong,,,GOMA DE MASCAR
-Jarabe de Goma Porte Fino Botella 750ml,S/ 13.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,750.0,ml,Jarabe de Goma Porte Fino Botella,13.9,metro,,,GOMA DE MASCAR
-Gomitas Mogul Dientes 500g,S/ 14.00,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,500.0,g,Gomitas Mogul Dientes,14.0,wong,,,GOMA DE MASCAR
-Jarabe de Goma Light Cuisine & Co Botella 750ml,S/ 14.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,750.0,ml,Jarabe de Goma Light Cuisine & Co Botella,14.9,wong,,,GOMA DE MASCAR
-Jarabe de Goma Cuisine & Co 750ml,S/ 14.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,750.0,ml,Jarabe de Goma Cuisine & Co,14.9,metro,,,GOMA DE MASCAR
-Jarabe de Goma Cuisine & Co 750ml,S/ 14.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,750.0,ml,Jarabe de Goma Cuisine & Co,14.9,wong,,,GOMA DE MASCAR
-JARABE DE GOMA 750ML,S/ 14.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,750.0,ml,JARABE DE GOMA,14.9,tottus,,TOTTUS,GOMA DE MASCAR
-Gomitas Ambrosoli Frugel 430g,S/ 14.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,430.0,g,Gomitas Ambrosoli Frugel,14.9,wong,,,GOMA DE MASCAR
-Gomitas Ambrosoli Frugel 430g,S/ 14.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,430.0,g,Gomitas Ambrosoli Frugel,14.9,metro,,,GOMA DE MASCAR
-Marshmallow Rocky Mountain Clásicos 300g,S/ 14.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,300.0,g,Marshmallow Rocky Mountain Clásicos,14.9,wong,,,GOMA DE MASCAR
-Jarabe de Goma Espumante Vargas Botella 750 ml,S/ 15.50,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,750.0,ml,Jarabe de Goma Espumante Vargas Botella,15.5,metro,,,GOMA DE MASCAR
-Jarabe de Goma Light Bizarro 500ml,S/ 15.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,500.0,ml,Jarabe de Goma Light Bizarro,15.9,wong,,,GOMA DE MASCAR
-Paleta de Marshmallow Chin Chin Choco Paletón Navidad 10un,S/ 15.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,10.0,un,Paleta de Marshmallow Chin Chin Choco Paletón Navidad,15.9,wong,,,GOMA DE MASCAR
-Scotch Topes de Goma Transparentes 12un,S/ 15.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,12.0,un,Scotch Topes de Goma Transparentes,15.9,wong,,,GOMA DE MASCAR
-Marshmallows Rocky Mountain Mega 340g,S/ 16.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,340.0,g,Marshmallows Rocky Mountain Mega,16.9,metro,,,GOMA DE MASCAR
-Malvaviscos Bañados con Chocolate Conguitos 2 Cerritos 200g,S/ 17.10,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,200.0,g,Malvaviscos Bañados con Chocolate Conguitos 2 Cerritos,17.1,metro,,,GOMA DE MASCAR
-Malvaviscos Bañados con Chocolate Conguitos 2 Cerritos Bolsa 200 gr,S/ 17.20,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,200.0,g,Malvaviscos Bañados con Chocolate Conguitos 2 Cerritos Bolsa r,17.2,wong,,,GOMA DE MASCAR
-Jarabe de Goma Espumante Burgos Botella 750 ml,S/ 17.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,750.0,ml,Jarabe de Goma Espumante Burgos Botella,17.9,metro,,,GOMA DE MASCAR
-Jarabe de Goma Espumante Burgos Botella 750 ml,S/ 17.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,750.0,ml,Jarabe de Goma Espumante Burgos Botella,17.9,wong,,,GOMA DE MASCAR
-Jarabe de Goma Vargas Chavalier750 ml,S/ 18.50,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,750.0,ml,Jarabe de Goma Vargas Chavalier,18.5,metro,,,GOMA DE MASCAR
-Jarabe de Goma Vargas Chavalier750 ml,S/ 18.50,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,750.0,ml,Jarabe de Goma Vargas Chavalier,18.5,wong,,,GOMA DE MASCAR
-Renovador de gomas 500mL,S/ 19.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,500.0,ml,Renovador de gomas,19.9,tottus,,ECO FULL,GOMA DE MASCAR
-Gomitas Masticables Swedish Fish Mini 340g,S/ 29.90,wong,GOMA DE MASCAR,2024-12-05 19:07:22.334876,340.0,g,Gomitas Masticables Swedish Fish Mini,29.9,wong,,,GOMA DE MASCAR
-Gomitas Masticables Sour Patch Kids 340g,S/ 29.90,metro,GOMA DE MASCAR,2024-12-05 16:30:09.002364,340.0,g,Gomitas Masticables Sour Patch Kids,29.9,metro,,,GOMA DE MASCAR
-Mascarilla de Hydra Macadamia de 350 g,S/ 30.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,350.0,g,Mascarilla de Hydra Macadamia de,30.9,tottus,,BE NATURAL,GOMA DE MASCAR
-Tratamiento Reparador Argán 350 g,S/ 30.90,tottus,GOMA DE MASCAR,2024-12-05 12:31:00.507227,350.0,g,Tratamiento Reparador Argán,30.9,tottus,,BE NATURAL,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Fresh Caja 12un,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Evup Fresh Caja,32.9,plaza_vea,Caja 12un,,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Fresh Caja 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Evup Fresh Caja,32.9,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Herbal Caja 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Evup Herbal Caja,32.9,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Menta Paquete 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Evup Menta Paquete,32.9,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Coolb Paquete 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Evup Coolb Paquete,32.9,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Sabor a Sandía Caja 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Sabor a Sandía Caja,32.9,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Coolb Paquete 12un,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Evup Coolb Paquete,32.9,plaza_vea,Paquete 12un,,GOMA DE MASCAR
-Goma de Mascar TRIDENT Evup Sabor a Mora Caja ...,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,18.0,un,Goma de Mascar TRIDENT Evup Sabor a Mora Caja,32.9,plaza_vea,Caja 18un,,GOMA DE MASCAR
-Goma de Mascar sin Azúcar TRIDENT Menta 6 x45.5g,S/ 41.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,45.5,g,Goma de Mascar sin Azúcar TRIDENT Menta 6 x,41.2,vivanda,,TRIDENT,GOMA DE MASCAR
-Goma de Mascar TRIDENT Yerbabuena Caja 12un,S/ 43.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Yerbabuena Caja,43.3,plaza_vea,Caja 12un,,GOMA DE MASCAR
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
+,Goma de Mascar TRIDENT Splash Yerbabuena Bolsa 17.1g,S/ 3.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,17.1,g,Goma de Mascar TRIDENT Splash Yerbabuena Bolsa,3.6,vivanda,TRIDENT,GOMA DE MASCAR
+Bolsa 17.1g,Goma de Mascar TRIDENT Splash Fresa Bolsa 17.1...,S/ 3.60 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,17.1,g,Goma de Mascar TRIDENT Splash Fresa Bolsa 17.1,3.6,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Splash Menta Bolsa 17.1g,S/ 3.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,17.1,g,Goma de Mascar TRIDENT Splash Menta Bolsa,3.6,vivanda,TRIDENT,GOMA DE MASCAR
+,Gomitas FINI Gusanos Ácidos Bolsa 90gr,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomitas FINI Gusanos Ácidos Bolsa r,4.2,vega,Fini,GOMA DE MASCAR
+,Masticable Re galiz FINI Tutti Frutti Ácido Bolsa 80 g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Masticable Re galiz FINI Tutti Frutti Ácido Bolsa,4.2,vega,Fini,GOMA DE MASCAR
+,Gomas FINI Regaliz Twister Ácido Bolsa 80gr,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Gomas FINI Regaliz Twister Ácido Bolsa r,4.2,vega,Fini,GOMA DE MASCAR
+,Masticable Re galiz FINI Fresa Ácida Bolsa 80 g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Masticable Re galiz FINI Fresa Ácida Bolsa,4.2,vega,Fini,GOMA DE MASCAR
+,Gomas FINI Flor Bolsa 80g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,80.0,g,Gomas FINI Flor Bolsa,4.2,vega,Fini,GOMA DE MASCAR
+,Gomitas FINI Dentaduras Bolsa 90gr,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomitas FINI Dentaduras Bolsa r,4.2,vega,Fini,GOMA DE MASCAR
+,Gomas FINI Sabor Mora Bolsa 90g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomas FINI Sabor Mora Bolsa,4.2,vega,Fini,GOMA DE MASCAR
+,Gomas FINI Sabor Fresa Ácido Bolsa 90g,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomas FINI Sabor Fresa Ácido Bolsa,4.2,vega,Fini,GOMA DE MASCAR
+,Gomitas FINI Ositos Bolsa 90gr,S/ 4.20,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,90.0,g,Gomitas FINI Ositos Bolsa r,4.2,vega,Fini,GOMA DE MASCAR
+Bolsa 40g,Goma de Mascar HUBBA BUBBA Max Original Bolsa ...,S/ 5.50 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,40.0,g,Goma de Mascar HUBBA BUBBA Max Original Bolsa,5.5,plaza_vea,,GOMA DE MASCAR
+Bolsa 40g,Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bo...,S/ 5.50 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,40.0,g,Goma de Mascar HUBBA BUBBA Max Fresa Sandia Bo,5.5,plaza_vea,,GOMA DE MASCAR
+Caja 14un,Goma de Mascar WRIGLEYS Orbit Verde Caja 14un,S/ 5.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,14.0,un,Goma de Mascar WRIGLEYS Orbit Verde Caja,5.9,plaza_vea,,GOMA DE MASCAR
+Caja 26.6g,Goma de Mascar ORBIT Fresa Caja 26.6g,S/ 5.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,26.6,g,Goma de Mascar ORBIT Fresa Caja,5.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar ORBIT Fresa Caja 26.6g,S/ 5.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,26.6,g,Goma de Mascar ORBIT Fresa Caja,5.9,vivanda,ORBIT,GOMA DE MASCAR
+Caja 12un,Goma de Mascar WRIGLEYS Orbit Azul Caja 12un,S/ 5.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar WRIGLEYS Orbit Azul Caja,5.9,plaza_vea,,GOMA DE MASCAR
+Caja 15un,Goma de Mascar WRIGLEY'S Doublemint Caja 15un,S/ 6 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,15.0,un,Goma de Mascar WRIGLEY'S Doublemint Caja,6.0,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar WRIGLEYS Orbit Verde Caja 14un,S/ 6.70,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,14.0,un,Goma de Mascar WRIGLEYS Orbit Verde Caja,6.7,vivanda,WRIGLEY S,GOMA DE MASCAR
+,Goma de Mascar WRIGLEYS Orbit Azul Caja 12un,S/ 6.70,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar WRIGLEYS Orbit Azul Caja,6.7,vivanda,WRIGLEY S,GOMA DE MASCAR
+Envase 30g,Goma de Mascar MENTOS Frutos Rojos Envase 30g,S/ 8.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,30.0,g,Goma de Mascar MENTOS Frutos Rojos Envase,8.3,plaza_vea,,GOMA DE MASCAR
+Frasco 30g,Goma de Mascar con Centro Líquido MENTOS Fresh...,S/ 8.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,30.0,g,Goma de Mascar con Centro Líquido MENTOS Fresh,8.3,plaza_vea,,GOMA DE MASCAR
+Frasco 30g,Goma de Mascar con Centro Líquido MENTOS Spear...,S/ 8.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,30.0,g,Goma de Mascar con Centro Líquido MENTOS Spear,8.3,plaza_vea,,GOMA DE MASCAR
+,Golosina ARCOR Masticable Frutas Bolsa 412 g,S/ 8.90,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,412.0,g,Golosina ARCOR Masticable Frutas Bolsa,8.9,vega,Arcor,GOMA DE MASCAR
+Empaque 44.6g,Goma de Mascar TRIDENT Fresa y Limón Empaque 4...,S/ 8.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,44.6,g,Goma de Mascar TRIDENT Fresa y Limón Empaque 4,8.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Menta Envase 45.5g,S/ 9.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,45.5,g,Goma de Mascar TRIDENT Menta Envase,9.2,vivanda,TRIDENT,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Yerbabuena Botella 45.5g,S/ 9.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,45.5,g,Goma de Mascar TRIDENT Yerbabuena Botella,9.2,vivanda,TRIDENT,GOMA DE MASCAR
+,Gomas de mascar GROSSO Sabores Surtidos Bolsa 325g,S/ 9.90,vega,GOMA DE MASCAR,2024-12-05 13:10:16.201094,325.0,g,Gomas de mascar GROSSO Sabores Surtidos Bolsa,9.9,vega,Sapito,GOMA DE MASCAR
+Envase de Plastico 56.7g,Goma de Mascar WRIGLEY S Hubba Bubba Envase 56...,S/ 10.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,56.7,g,Goma de Mascar WRIGLEY S Hubba Bubba Envase 56,10.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar WRIGLEY S Hubba Bubba Envase 56.7g,S/ 12.60,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,56.7,g,Goma de Mascar WRIGLEY S Hubba Bubba Envase,12.6,vivanda,WRIGLEY S,GOMA DE MASCAR
+,Goma de Mascar sin Azúcar TRIDENT Fresa y Limón 10un x17g,S/ 24.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,10.0,un,Goma de Mascar sin Azúcar TRIDENT Fresa y Limón  x,24.9,vivanda,TRIDENT,GOMA DE MASCAR
+Paquete 12un,Goma de Mascar TRIDENT Evup Coolb Paquete 12un,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Evup Coolb Paquete,32.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Evup Coolb Paquete 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Evup Coolb Paquete,32.9,vivanda,TRIDENT,GOMA DE MASCAR
+Caja 12un,Goma de Mascar TRIDENT Sabor a Sandía Caja 12u...,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Sabor a Sandía Caja 12u,32.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Sabor a Sandía Caja 12un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Sabor a Sandía Caja,32.9,vivanda,TRIDENT,GOMA DE MASCAR
+Caja 12un,Goma de Mascar TRIDENT Evup Herbal Caja 12un,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Evup Herbal Caja,32.9,plaza_vea,,GOMA DE MASCAR
+Caja 12un,Goma de Mascar TRIDENT Evup Fresh Caja 12un,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Evup Fresh Caja,32.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Evup Sabor a Mora Caja 18un,S/ 32.90,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,18.0,un,Goma de Mascar TRIDENT Evup Sabor a Mora Caja,32.9,vivanda,TRIDENT,GOMA DE MASCAR
+Caja 18un,Goma de Mascar TRIDENT Evup Sabor a Mora Caja ...,S/ 32.90 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,18.0,un,Goma de Mascar TRIDENT Evup Sabor a Mora Caja,32.9,plaza_vea,,GOMA DE MASCAR
+,Goma de Mascar sin Azúcar TRIDENT Menta 6 x45.5g,S/ 41.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,45.5,g,Goma de Mascar sin Azúcar TRIDENT Menta 6 x,41.2,vivanda,TRIDENT,GOMA DE MASCAR
+,Goma de Mascar sin Azúcar TRIDENT Fresa 6un x45.5g,S/ 41.20,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,6.0,un,Goma de Mascar sin Azúcar TRIDENT Fresa  x,41.2,vivanda,TRIDENT,GOMA DE MASCAR
+,Goma de Mascar TRIDENT Yerbabuena Caja 12un,S/ 43.30,vivanda,GOMA DE MASCAR,2024-12-05 22:22:15.203786,12.0,un,Goma de Mascar TRIDENT Yerbabuena Caja,43.3,vivanda,TRIDENT,GOMA DE MASCAR
+Caja 12un,Goma de Mascar TRIDENT Yerbabuena Caja 12un,S/ 43.30 un,plaza_vea,GOMA DE MASCAR,2024-12-05 15:47:23.669798,12.0,un,Goma de Mascar TRIDENT Yerbabuena Caja,43.3,plaza_vea,,GOMA DE MASCAR

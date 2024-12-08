@@ -1,42 +1,33 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Infusiones DEL VALLE Anís Caja 25 un,S/ 1.70,vega,JAMÓN DEL PAÍS,2024-12-05 12:07:21.544605,25.0,un,Infusiones DEL VALLE Anís Caja,1.7,vega,,Del Valle,JAMÓN DEL PAÍS
-Infusiones DEL VALLE Te Canela Clavo Caja 25 un,S/ 1.70,vega,JAMÓN DEL PAÍS,2024-12-05 12:07:21.544605,25.0,un,Infusiones DEL VALLE Te Canela Clavo Caja,1.7,vega,,Del Valle,JAMÓN DEL PAÍS
-Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90g,S/ 2.60,vega,JAMÓN DEL PAÍS,2024-12-05 12:07:21.544605,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta,2.6,vega,,Sol Del Cuzco,JAMÓN DEL PAÍS
-Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta 90gr,S/ 2.60,vega,JAMÓN DEL PAÍS,2024-12-05 12:07:21.544605,90.0,g,Chocolate para Taza SOL DEL CUZCO con Clavo y Canela Tableta r,2.6,vega,,Sol Del Cuzco,JAMÓN DEL PAÍS
-Infusiones DEL VALLE Anís Caja 100 un,S/ 6.40,vega,JAMÓN DEL PAÍS,2024-12-05 12:07:21.544605,100.0,un,Infusiones DEL VALLE Anís Caja,6.4,vega,,Del Valle,JAMÓN DEL PAÍS
 Semi Baguette Multi Semillas 3 Unidades,S/ 6.90,tottus,JAMÓN DEL PAÍS,2024-12-05 11:34:54.388359,3.0,un,Semi Baguette Multi Semillas ades,6.9,tottus,,TOTTUS,JAMÓN DEL PAÍS
 Jamón del País SALCHICHERÍA ALEMANA Paquete 15...,S/ 8.90 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,150.0,g,Jamón del País SALCHICHERÍA ALEMANA Paquete 15,8.9,plaza_vea,Paquete 150g,,JAMÓN DEL PAÍS
 Jamón de País CASA EUROPA Empaque 150g,S/ 9.29 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,105.0,g,Jamón de País CASA EUROPA Empaque,9.29,plaza_vea,Empaque 105g,,JAMÓN DEL PAÍS
 Jamón del País Wong 150g,S/ 9.50,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,150.0,g,Jamón del País Wong,9.5,wong,,,JAMÓN DEL PAÍS
 Jamón del País Casa Europa 150g,S/ 9.68,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,150.0,g,Jamón del País Casa Europa,9.68,metro,,,JAMÓN DEL PAÍS
 Jamón del País La Segoviana 200g,S/ 9.80,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,200.0,g,Jamón del País La Segoviana,9.8,metro,,,JAMÓN DEL PAÍS
-Jamón del País OREGON FOOD'S Paquete 150g,S/ 10.90,vivanda,JAMÓN DEL PAÍS,2024-12-05 21:45:34.791830,150.0,g,Jamón del País OREGON FOOD'S Paquete,10.9,vivanda,,OREGON FOOD'S,JAMÓN DEL PAÍS
 Jamón del País 250 gr,S/ 10.90,tottus,JAMÓN DEL PAÍS,2024-12-05 11:34:54.388359,250.0,g,Jamón del País r,10.9,tottus,,TOTTUS,JAMÓN DEL PAÍS
+Jamón del País OREGON FOOD'S Paquete 150g,S/ 10.90,vivanda,JAMÓN DEL PAÍS,2024-12-05 21:45:34.791830,150.0,g,Jamón del País OREGON FOOD'S Paquete,10.9,vivanda,,OREGON FOOD'S,JAMÓN DEL PAÍS
 Jamón del País Oregon Foods 150g,S/ 11.50,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,150.0,g,Jamón del País Oregon Foods,11.5,wong,,,JAMÓN DEL PAÍS
 Jamón del País Oregon Foods 150g,S/ 11.50,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,150.0,g,Jamón del País Oregon Foods,11.5,metro,,,JAMÓN DEL PAÍS
-Jamón de País CASA EUROPA Empaque 150g,S/ 11.90,vivanda,JAMÓN DEL PAÍS,2024-12-05 21:45:34.791830,150.0,g,Jamón de País CASA EUROPA Empaque,11.9,vivanda,,CASA EUROPA,JAMÓN DEL PAÍS
-Jamón del País OTTO KUNZ Paquete 150g,S/ 11.90 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,150.0,g,Jamón del País OTTO KUNZ Paquete,11.9,plaza_vea,Paquete 150g,,JAMÓN DEL PAÍS
+Jamón del País OTTO KUNZ Paquete 150g,S/ 11.90,vivanda,JAMÓN DEL PAÍS,2024-12-05 21:45:34.791830,150.0,g,Jamón del País OTTO KUNZ Paquete,11.9,vivanda,,OTTO KUNZ,JAMÓN DEL PAÍS
 JAMON DEL PAIS X 150GRMS,S/ 12.40,tottus,JAMÓN DEL PAÍS,2024-12-05 11:34:54.388359,150.0,g,JAMON DEL PAIS X RMS,12.4,tottus,,CASA EUROPA,JAMÓN DEL PAÍS
-Jamón del País Gourmet SALCHICHERÍA ALEMANA Pa...,S/ 12.50 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,150.0,g,Jamón del País Gourmet SALCHICHERÍA ALEMANA Pa,12.5,plaza_vea,Paquete 150g,,JAMÓN DEL PAÍS
 Jamón del País Casa Europa 150g,S/ 12.50,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,150.0,g,Jamón del País Casa Europa,12.5,wong,,,JAMÓN DEL PAÍS
+Jamón del País Gourmet SALCHICHERÍA ALEMANA Pa...,S/ 12.50 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,150.0,g,Jamón del País Gourmet SALCHICHERÍA ALEMANA Pa,12.5,plaza_vea,Paquete 150g,,JAMÓN DEL PAÍS
 Jamón del País SALCHICHERÍA SUIZA Paquete 180g,S/ 12.90 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,180.0,g,Jamón del País SALCHICHERÍA SUIZA Paquete,12.9,plaza_vea,Paquete 180g,,JAMÓN DEL PAÍS
 Jamón del País Milano Paquete 300 g,S/ 13.10,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,300.0,g,Jamón del País Milano Paquete,13.1,metro,,,JAMÓN DEL PAÍS
 Jamón del País Otto Kunz 150g,S/ 14.40,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,150.0,g,Jamón del País Otto Kunz,14.4,metro,,,JAMÓN DEL PAÍS
-Jamón del País BRAEDT Paquete 200g,S/ 14.50 un,plaza_vea,JAMÓN DEL PAÍS,2024-12-05 14:51:34.118935,200.0,g,Jamón del País BRAEDT Paquete,14.5,plaza_vea,Paquete 200g,,JAMÓN DEL PAÍS
 Jamón del País Otto Kunz 150g,S/ 14.60,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,150.0,g,Jamón del País Otto Kunz,14.6,wong,,,JAMÓN DEL PAÍS
 Jamón del País Suiza 180g,S/ 15.80,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,180.0,g,Jamón del País Suiza,15.8,metro,,,JAMÓN DEL PAÍS
-Jamón del País BRAEDT Paquete 200g,S/ 17.90,vivanda,JAMÓN DEL PAÍS,2024-12-05 21:45:34.791830,200.0,g,Jamón del País BRAEDT Paquete,17.9,vivanda,,BRAEDT,JAMÓN DEL PAÍS
+Jamón del País Zimmermann Paquete 200 g,S/ 15.92,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,200.0,g,Jamón del País Zimmermann Paquete,15.92,wong,,,JAMÓN DEL PAÍS
 Jamón del País Braedt 200g,S/ 18.50,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,200.0,g,Jamón del País Braedt,18.5,metro,,,JAMÓN DEL PAÍS
-Jamón del País Braedt 200g,S/ 18.50,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,200.0,g,Jamón del País Braedt,18.5,wong,,,JAMÓN DEL PAÍS
 Jamón del País Zimmermann Paquete 200 g,S/ 19.90,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,200.0,g,Jamón del País Zimmermann Paquete,19.9,metro,,,JAMÓN DEL PAÍS
 Jamón del País San Fernando x kg,S/ 56.50 x kg,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,1.0,kg,Jamón del País San Fernando,56.5,wong,,,JAMÓN DEL PAÍS
 Jamón del País Zimmermann x kg,S/ 61.12 x kg,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,1.0,kg,Jamón del País Zimmermann,61.12,wong,,,JAMÓN DEL PAÍS
+JAMON DEL PAIS X KG,S/ 66.90,tottus,JAMÓN DEL PAÍS,2024-12-05 11:34:54.388359,1.0,kg,JAMON DEL PAIS,66.9,tottus,,BRAEDT,JAMÓN DEL PAÍS
 Jamón del País Artesanal Braedt x kg,S/ 69.00 x kg,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,1.0,kg,Jamón del País Artesanal Braedt,69.0,metro,,,JAMÓN DEL PAÍS
-Jamón del País Suiza x kg,S/ 71.50 x kg,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,1.0,kg,Jamón del País Suiza,71.5,metro,,,JAMÓN DEL PAÍS
 Jamón del País Oregon Foods x kg,S/ 71.90 x kg,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,1.0,kg,Jamón del País Oregon Foods,71.9,wong,,,JAMÓN DEL PAÍS
 JAMON DEL PAIS X KG,S/ 72,tottus,JAMÓN DEL PAÍS,2024-12-05 11:34:54.388359,1.0,kg,JAMON DEL PAIS,72.0,tottus,,CASA EUROPA,JAMÓN DEL PAÍS
 Jamón del País Otto Kunz x kg,S/ 76.00 x kg,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,1.0,kg,Jamón del País Otto Kunz,76.0,metro,,,JAMÓN DEL PAÍS
 Jamón del País Artesanal Braedt x kg,S/ 87.00 x kg,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,1.0,kg,Jamón del País Artesanal Braedt,87.0,wong,,,JAMÓN DEL PAÍS
-Jamón del País Artesanal Braedt x kg,S/ 87.00 x kg,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,1.0,kg,Jamón del País Artesanal Braedt,87.0,metro,,,JAMÓN DEL PAÍS
 Jamón del País Gourmet Otto Kunz x kg,S/ 89.00 x kg,metro,JAMÓN DEL PAÍS,2024-12-05 15:33:58.785074,1.0,kg,Jamón del País Gourmet Otto Kunz,89.0,metro,,,JAMÓN DEL PAÍS
 Jamón del País Gourmet Otto Kunz x kg,S/ 89.00 x kg,wong,JAMÓN DEL PAÍS,2024-12-05 18:03:33.888655,1.0,kg,Jamón del País Gourmet Otto Kunz,89.0,wong,,,JAMÓN DEL PAÍS

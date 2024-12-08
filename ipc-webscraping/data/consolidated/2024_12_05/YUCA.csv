@@ -1,59 +1,53 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
 Yuca x kg,S/ 2.89 x kg,metro,YUCA,2024-12-05 16:23:45.861850,1.0,kg,Yuca,2.89,metro,,,YUCA
-Yuca,S/ 4.49 x kg,plaza_vea,YUCA,2024-12-05 15:41:51.853722,1.0,kg,Yuca,4.49,plaza_vea,Presentación 1 kg aprox.,,YUCA
+Fécula de Yuca UNIVERSAL Sobre 180g,S/ 3.30,vivanda,YUCA,2024-12-05 22:18:29.451487,180.0,g,Fécula de Yuca UNIVERSAL Sobre,3.3,vivanda,,UNIVERSAL,YUCA
 Yuca x kg,S/ 4.49 x kg,wong,YUCA,2024-12-05 19:00:00.486715,1.0,kg,Yuca,4.49,wong,,,YUCA
 Chifles Picantes Cuisine & Co 100g,S/ 4.90,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Chifles Picantes Cuisine & Co,4.9,wong,,,YUCA
 Chifles Jalapeños Cuisine & Co 100g,S/ 4.90,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Chifles Jalapeños Cuisine & Co,4.9,wong,,,YUCA
 Piqueo VILLA NATURA Chifles camotes y yucas fr...,S/ 5 un,plaza_vea,YUCA,2024-12-05 15:41:51.853722,150.0,g,Piqueo VILLA NATURA Chifles camotes y yucas fr,5.0,plaza_vea,Bolsa 150g,,YUCA
+Camote Frito en Hojuelas Cuisine & Co Pote 100 g,S/ 5.50,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Camote Frito en Hojuelas Cuisine & Co Pote,5.5,metro,,,YUCA
 Palitos de Yuca con Ajonjolí 100g,S/ 5.52,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Palitos de Yuca con Ajonjolí,5.52,metro,,,YUCA
 Palitos de Yuca con Queso Metro Caja 100g,S/ 5.52,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Palitos de Yuca con Queso Metro Caja,5.52,metro,,,YUCA
-Camote Frito en Hojuelas Cuisine & Co Pote 100 g,S/ 5.60,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Camote Frito en Hojuelas Cuisine & Co Pote,5.6,wong,,,YUCA
-Papa Seca 400 g,S/ 5.65,tottus,YUCA,2024-12-05 12:25:01.691860,400.0,g,Papa Seca,5.65,tottus,,TOTTUS,YUCA
 Camote Frito Cuisine & Co Bolsa 130 gr,S/ 5.90,metro,YUCA,2024-12-05 16:23:45.861850,130.0,g,Camote Frito Cuisine & Co Bolsa r,5.9,metro,,,YUCA
 Camote Frito Cuisine & Co Bolsa 130 gr,S/ 5.90,wong,YUCA,2024-12-05 19:00:00.486715,130.0,g,Camote Frito Cuisine & Co Bolsa r,5.9,wong,,,YUCA
+Hojuelas de Camote Tiyapuy Bolsa 160 g,S/ 6.20,wong,YUCA,2024-12-05 19:00:00.486715,160.0,g,Hojuelas de Camote Tiyapuy Bolsa,6.2,wong,,,YUCA
 Chifles del Vraem Tiyapuy 142g,S/ 6.20,wong,YUCA,2024-12-05 19:00:00.486715,142.0,g,Chifles del Vraem Tiyapuy,6.2,wong,,,YUCA
-Hojuelas de Camote Tiyapuy Bolsa 160 g,S/ 6.20,metro,YUCA,2024-12-05 16:23:45.861850,160.0,g,Hojuelas de Camote Tiyapuy Bolsa,6.2,metro,,,YUCA
-Chifles Jalapeños Cuisine & Co 100g,S/ 6.60,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Chifles Jalapeños Cuisine & Co,6.6,metro,,,YUCA
-Chifles Picantes Cuisine & Co 100g,S/ 6.60,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Chifles Picantes Cuisine & Co,6.6,metro,,,YUCA
+Chifles del Vraem Tiyapuy 142g,S/ 6.30,metro,YUCA,2024-12-05 16:23:45.861850,142.0,g,Chifles del Vraem Tiyapuy,6.3,metro,,,YUCA
 Chifles Norteños Cuisine & Co Pote 100 g,S/ 6.60,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Chifles Norteños Cuisine & Co Pote,6.6,metro,,,YUCA
+Chifles Norteños Cuisine & Co Pote 100 g,S/ 6.80,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Chifles Norteños Cuisine & Co Pote,6.8,wong,,,YUCA
 Palitos de Yuca con Ajonjolí 100g,S/ 6.88,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Palitos de Yuca con Ajonjolí,6.88,wong,,,YUCA
 Palitos de Yuca con Queso 100g,S/ 6.88,wong,YUCA,2024-12-05 19:00:00.486715,100.0,g,Palitos de Yuca con Queso,6.88,wong,,,YUCA
 Yuca en Trozos FIFU Bolsa 500g,S/ 6.90,vivanda,YUCA,2024-12-05 22:18:29.451487,500.0,g,Yuca en Trozos FIFU Bolsa,6.9,vivanda,,FIFU,YUCA
-Chifle Acevichado Cuisine & Co 150g,S/ 6.90,wong,YUCA,2024-12-05 19:00:00.486715,150.0,g,Chifle Acevichado Cuisine & Co,6.9,wong,,,YUCA
 Palitos de Yuca con Queso 100g,S/ 6.90,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Palitos de Yuca con Queso,6.9,metro,,,YUCA
+Chifle Acevichado Cuisine & Co 150g,S/ 6.90,wong,YUCA,2024-12-05 19:00:00.486715,150.0,g,Chifle Acevichado Cuisine & Co,6.9,wong,,,YUCA
+Chifle Acevichado Cuisine & Co 150g,S/ 6.90,metro,YUCA,2024-12-05 16:23:45.861850,150.0,g,Chifle Acevichado Cuisine & Co,6.9,metro,,,YUCA
 Palitos de Yuca con Ajonjolí 100g,S/ 6.90,metro,YUCA,2024-12-05 16:23:45.861850,100.0,g,Palitos de Yuca con Ajonjolí,6.9,metro,,,YUCA
 Yuca en Trozos Green Food 400g,S/ 7.12,wong,YUCA,2024-12-05 19:00:00.486715,400.0,g,Yuca en Trozos Green Food,7.12,wong,,,YUCA
 Chifles Salados Villa Natura 150g,S/ 7.30,metro,YUCA,2024-12-05 16:23:45.861850,150.0,g,Chifles Salados Villa Natura,7.3,metro,,,YUCA
-Camote en Hojuelas Inka Chips 130g,S/ 7.50,metro,YUCA,2024-12-05 16:23:45.861850,130.0,g,Camote en Hojuelas Inka Chips,7.5,metro,,,YUCA
+Camote en Hojuelas Inka Chips 130g,S/ 7.50,wong,YUCA,2024-12-05 19:00:00.486715,130.0,g,Camote en Hojuelas Inka Chips,7.5,wong,,,YUCA
 Hojuelas de Camote Villa Natura 150g,S/ 7.50,metro,YUCA,2024-12-05 16:23:45.861850,150.0,g,Hojuelas de Camote Villa Natura,7.5,metro,,,YUCA
+Camote en Hojuelas Inka Chips 130g,S/ 7.50,metro,YUCA,2024-12-05 16:23:45.861850,130.0,g,Camote en Hojuelas Inka Chips,7.5,metro,,,YUCA
 Chifles Norteños Milys 160g,S/ 7.60,wong,YUCA,2024-12-05 19:00:00.486715,160.0,g,Chifles Norteños Milys,7.6,wong,,,YUCA
 Yuca en Trozos FIFU Bolsa 500g,S/ 7.90 un,plaza_vea,YUCA,2024-12-05 15:41:51.853722,500.0,g,Yuca en Trozos FIFU Bolsa,7.9,plaza_vea,Bolsa 500g,,YUCA
-Piqueo INKA CHIPS Camote yuca chifles Bolsa 125Gr,S/ 8.00,vivanda,YUCA,2024-12-05 22:18:29.451487,125.0,g,Piqueo INKA CHIPS Camote yuca chifles Bolsa r,8.0,vivanda,,INKA,YUCA
-Chifles Crickets Sabor Leche de Tigre 150g,S/ 8.50,wong,YUCA,2024-12-05 19:00:00.486715,150.0,g,Chifles Crickets Sabor Leche de Tigre,8.5,wong,,,YUCA
+Piqueo INKA CHIPS Camote yuca chifles Bolsa 12...,S/ 8 un,plaza_vea,YUCA,2024-12-05 15:41:51.853722,125.0,g,Piqueo INKA CHIPS Camote yuca chifles Bolsa 12,8.0,plaza_vea,Bolsa 125g,,YUCA
+Pituca Chips Original 146g,S/ 8.20,metro,YUCA,2024-12-05 16:23:45.861850,146.0,g,Pituca Chips Original,8.2,metro,,,YUCA
 Yuca en Hojuelas Inka Chips 130g,S/ 8.50,metro,YUCA,2024-12-05 16:23:45.861850,130.0,g,Yuca en Hojuelas Inka Chips,8.5,metro,,,YUCA
-Piqueo INKA CHIPS Yucas fritas en hojuelas Bol...,S/ 8.50 un,plaza_vea,YUCA,2024-12-05 15:41:51.853722,130.0,g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol,8.5,plaza_vea,Bolsa 130g,,YUCA
 Piqueo INKA CHIPS Yucas fritas en hojuelas Bolsa 130Gr,S/ 8.70,vivanda,YUCA,2024-12-05 22:18:29.451487,130.0,g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bolsa r,8.7,vivanda,,INKA,YUCA
-Veggie Chips Yuca 130 g,S/ 9,tottus,YUCA,2024-12-05 12:25:01.691860,130.0,g,Veggie Chips Yuca,9.0,tottus,,INKA CHIPS,YUCA
-Yuca en Hojuelas Inka Chips 130g,S/ 9.00,wong,YUCA,2024-12-05 19:00:00.486715,130.0,g,Yuca en Hojuelas Inka Chips,9.0,wong,,,YUCA
 Chifles Karinto Salados 150g,S/ 9.30,metro,YUCA,2024-12-05 16:23:45.861850,150.0,g,Chifles Karinto Salados,9.3,metro,,,YUCA
-Chifles Corte Delgado Cuisine & Co Bolsa 200 gr,S/ 9.60,metro,YUCA,2024-12-05 16:23:45.861850,200.0,g,Chifles Corte Delgado Cuisine & Co Bolsa r,9.6,metro,,,YUCA
-Chifles Karinto Salados 150g,S/ 9.60,wong,YUCA,2024-12-05 19:00:00.486715,150.0,g,Chifles Karinto Salados,9.6,wong,,,YUCA
 Chifles Corte Delgado Cuisine & Co Bolsa 200 gr,S/ 9.70,wong,YUCA,2024-12-05 19:00:00.486715,200.0,g,Chifles Corte Delgado Cuisine & Co Bolsa r,9.7,wong,,,YUCA
-Chifles Norteños Milys 250g,S/ 9.90,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Norteños Milys,9.9,wong,,,YUCA
-Chifles Picantes Crickets 200g,S/ 9.90,wong,YUCA,2024-12-05 19:00:00.486715,200.0,g,Chifles Picantes Crickets,9.9,wong,,,YUCA
-Yuca Amarilla Precocida GREEN FOOD Bolsa 400g,S/ 10.20 un,plaza_vea,YUCA,2024-12-05 15:41:51.853722,400.0,g,Yuca Amarilla Precocida GREEN FOOD Bolsa,10.2,plaza_vea,Bolsa 400g,,YUCA
-Chifles Salados Veggie Chips 250g,S/ 10.80,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Salados Veggie Chips,10.8,wong,,,YUCA
+Chifles Salados Veggie Chips 250g,S/ 10.30,metro,YUCA,2024-12-05 16:23:45.861850,250.0,g,Chifles Salados Veggie Chips,10.3,metro,,,YUCA
+Chifles Crickets Leche de Tigre 250g,S/ 11.20,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Crickets Leche de Tigre,11.2,wong,,,YUCA
 Chifles Salados Crickets 250g,S/ 11.20,metro,YUCA,2024-12-05 16:23:45.861850,250.0,g,Chifles Salados Crickets,11.2,metro,,,YUCA
 Chifles Picantes Crickets 250 g,S/ 11.20,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Picantes Crickets,11.2,wong,,,YUCA
-Chifles Salados Bolsa 250 g,S/ 13.90,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Salados Bolsa,13.9,wong,,,YUCA
 "Carapulcra con Chancho, Yuca y Arroz Blanco Cuisine & Co 400g",S/ 13.90,metro,YUCA,2024-12-05 16:23:45.861850,400.0,g,"Carapulcra con Chancho, Yuca y Arroz Blanco Cuisine & Co",13.9,metro,,,YUCA
 Chifles Salados con Cancha y Cecina Bolsa 250 g,S/ 13.90,metro,YUCA,2024-12-05 16:23:45.861850,250.0,g,Chifles Salados con Cancha y Cecina Bolsa,13.9,metro,,,YUCA
+Chifles Salados Bolsa 250 g,S/ 13.90,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Salados Bolsa,13.9,wong,,,YUCA
+Chifles Salados con Cancha y Cecina Bolsa 250 g,S/ 13.90,wong,YUCA,2024-12-05 19:00:00.486715,250.0,g,Chifles Salados con Cancha y Cecina Bolsa,13.9,wong,,,YUCA
 "Carapulcra con Chancho, Yuca y Arroz Blanco Cuisine & Co 400g",S/ 14.50,wong,YUCA,2024-12-05 19:00:00.486715,400.0,g,"Carapulcra con Chancho, Yuca y Arroz Blanco Cuisine & Co",14.5,wong,,,YUCA
+Tostones Inka Chips Sabor Jalapeño 230g,S/ 15.50,wong,YUCA,2024-12-05 19:00:00.486715,230.0,g,Tostones Inka Chips Sabor Jalapeño,15.5,wong,,,YUCA
 Tostones con Sal Inka Chips 240g,S/ 15.50,wong,YUCA,2024-12-05 19:00:00.486715,240.0,g,Tostones con Sal Inka Chips,15.5,wong,,,YUCA
-Chifles Salados Villa Natura 500g,S/ 18.90,wong,YUCA,2024-12-05 19:00:00.486715,500.0,g,Chifles Salados Villa Natura,18.9,wong,,,YUCA
-Chifles Salados Villa Natura 500g,S/ 18.90,metro,YUCA,2024-12-05 16:23:45.861850,500.0,g,Chifles Salados Villa Natura,18.9,metro,,,YUCA
 Chifles Norteños Milys 500g,S/ 18.90,metro,YUCA,2024-12-05 16:23:45.861850,500.0,g,Chifles Norteños Milys,18.9,metro,,,YUCA
+Chifles Salados Villa Natura 500g,S/ 18.90,metro,YUCA,2024-12-05 16:23:45.861850,500.0,g,Chifles Salados Villa Natura,18.9,metro,,,YUCA
 Yuca Amarilla Precocida Congelada x 1Kg,S/ 21.60,wong,YUCA,2024-12-05 19:00:00.486715,1.0,kg,Yuca Amarilla Precocida Congelada x,21.6,wong,,,YUCA
-Chifles Salados Crickets 500g,S/ 21.90,metro,YUCA,2024-12-05 16:23:45.861850,500.0,g,Chifles Salados Crickets,21.9,metro,,,YUCA
+Chifles Picantes Crickets 500 g,S/ 21.90,wong,YUCA,2024-12-05 19:00:00.486715,500.0,g,Chifles Picantes Crickets,21.9,wong,,,YUCA
 Chifles Estilo Piurano Máxima 750g,S/ 23.90,metro,YUCA,2024-12-05 16:23:45.861850,750.0,g,Chifles Estilo Piurano Máxima,23.9,metro,,,YUCA
-Harina de Yuca Sin Gluten Bob's Red Mill Doypack 454 g,S/ 27.90,wong,YUCA,2024-12-05 19:00:00.486715,454.0,g,Harina de Yuca Sin Gluten Bob's Red Mill Doypack,27.9,wong,,,YUCA

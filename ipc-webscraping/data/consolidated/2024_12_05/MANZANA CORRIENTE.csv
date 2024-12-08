@@ -1,294 +1,116 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-BEBIDA FRESH MANZANA BOT X 500ML,S/ 1.60,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,500.0,ml,BEBIDA FRESH MANZANA BOT X,1.6,tottus,,FRUGOS DEL VALLE,MANZANA CORRIENTE
-Agua Mineral SOCOSANI Manzana Botella 500ml,S/ 1.99 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Agua Mineral SOCOSANI Manzana Botella,1.99,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Agua Mineral SOCOSANI Manzana Botella 500ml,S/ 1.99,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,500.0,ml,Agua Mineral SOCOSANI Manzana Botella,1.99,vivanda,,SOCOSANI,MANZANA CORRIENTE
-Agua Manzana con gas 500 mL,S/ 2,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,500.0,ml,Agua Manzana con gas,2.0,tottus,,SOCOSANI,MANZANA CORRIENTE
-Agua Socosani Saborizada Manzana Botella 500 ml,S/ 2.00,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Agua Socosani Saborizada Manzana Botella,2.0,wong,,,MANZANA CORRIENTE
-Agua con Gas SAN LUIS Sabor a Manzana Botella 625ml,S/ 2.20,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,625.0,ml,Agua con Gas SAN LUIS Sabor a Manzana Botella,2.2,vivanda,,SAN LUIS,MANZANA CORRIENTE
-BEBIDA CON GAS MANZANA BOT X 625ML,S/ 2.20,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,625.0,ml,BEBIDA CON GAS MANZANA BOT X,2.2,tottus,,SAN LUIS,MANZANA CORRIENTE
-Agua con Gas SAN LUIS Sabor a Manzana Botella ...,S/ 2.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,625.0,ml,Agua con Gas SAN LUIS Sabor a Manzana Botella,2.2,plaza_vea,Botella 625ml,,MANZANA CORRIENTE
-Bebida Rehidratante Sabor Manzana 500 mL,S/ 2.40,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,500.0,ml,Bebida Rehidratante Sabor Manzana,2.4,tottus,,GATORADE,MANZANA CORRIENTE
-Compota de Fruta BELL'S Manzana Frasco 113g,S/ 2.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,113.0,g,Compota de Fruta BELL'S Manzana Frasco,2.5,plaza_vea,Frasco 113g,,MANZANA CORRIENTE
-COMPOTA DE MANZANA X 90G,S/ 2.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,90.0,g,COMPOTA DE MANZANA X,2.5,tottus,,TOTTUS,MANZANA CORRIENTE
-Compota Pera Y Manzana - ENVASE 90 GR,S/ 2.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,90.0,g,Compota Pera Y Manzana - ENVASE R,2.5,tottus,,TOTTUS,MANZANA CORRIENTE
-Gaseosa Fanta Beetlejuice Manzana Verde Botella 500ml,S/ 2.70,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Gaseosa Fanta Beetlejuice Manzana Verde Botella,2.7,wong,,,MANZANA CORRIENTE
-Gaseosa FANTA Manzana Beetlejuice Botella 500m...,S/ 2.70 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Gaseosa FANTA Manzana Beetlejuice Botella 500m,2.7,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Gaseosa Fanta Beetlejuice Manzana Verde Botella 500ml,S/ 2.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Gaseosa Fanta Beetlejuice Manzana Verde Botella,2.7,metro,,,MANZANA CORRIENTE
-Maizena DURYEA Caja 100gr,S/ 2.90,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,100.0,g,Maizena DURYEA Caja r,2.9,vega,,Duryea,MANZANA CORRIENTE
-Colado Orgánico Manzana Bebé 90g,S/ 2.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,90.0,g,Colado Orgánico Manzana Bebé,2.9,tottus,,TOTTUS,MANZANA CORRIENTE
-Chuño UNIVERSAL Bolsa 180gr,S/ 3.30,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,180.0,g,Chuño UNIVERSAL Bolsa r,3.3,vega,,Universal,MANZANA CORRIENTE
-Avena Instantánea de Manzana y Canela BELL'S Vaso 45g,S/ 3.50,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,45.0,g,Avena Instantánea de Manzana y Canela BELL'S Vaso,3.5,vivanda,,BELL'S,MANZANA CORRIENTE
-Bebida Natural BIO Arándano con Uva y Manzana ...,S/ 3.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,300.0,ml,Bebida Natural BIO Arándano con Uva y Manzana,3.5,plaza_vea,Botella 300ml,,MANZANA CORRIENTE
-Manzana Rayada Metro x kg,S/ 3.59 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Rayada Metro,3.59,metro,,,MANZANA CORRIENTE
-"Bebida de Manzana, Aguaje y Cocona Bio Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Bebida de Manzana, Aguaje y Cocona Bio Botella",3.6,metro,,,MANZANA CORRIENTE
-Jugo de Manzana y Camu Camu Bio Botella 300ml,S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,Jugo de Manzana y Camu Camu Bio Botella,3.6,metro,,,MANZANA CORRIENTE
-"Bebida de Manzana, Aguaymanto y Carambola Bio Amayu Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Bebida de Manzana, Aguaymanto y Carambola Bio Amayu Botella",3.6,metro,,,MANZANA CORRIENTE
-"Jugo de Arándano, Uva y Manzana Bio Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Jugo de Arándano, Uva y Manzana Bio Botella",3.6,metro,,,MANZANA CORRIENTE
-Jugo de Manzana y Camu Camu Bio Botella 300ml,S/ 3.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,300.0,ml,Jugo de Manzana y Camu Camu Bio Botella,3.8,wong,,,MANZANA CORRIENTE
-"Bebida de Manzana, Aguaje y Cocona Bio Botella 300ml",S/ 3.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,300.0,ml,"Bebida de Manzana, Aguaje y Cocona Bio Botella",3.8,wong,,,MANZANA CORRIENTE
-"Jugo de Arándano, Uva y Manzana Bio Botella 300ml",S/ 3.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,300.0,ml,"Jugo de Arándano, Uva y Manzana Bio Botella",3.8,wong,,,MANZANA CORRIENTE
-Manzana Israel x kg,S/ 3.82 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Manzana Israel,3.82,wong,,,MANZANA CORRIENTE
-Bebida sabor Camu Camu y manzana de 300 mL,S/ 3.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,300.0,ml,Bebida sabor Camu Camu y manzana de,3.9,tottus,,BIO AMAYU,MANZANA CORRIENTE
-Bebida FRUGOS DEL VALLE Sabor a Manzana Caja 970ml,S/ 3.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,970.0,ml,Bebida FRUGOS DEL VALLE Sabor a Manzana Caja,3.9,vivanda,,FRUGOS,MANZANA CORRIENTE
-Bebida FRUGOS DEL VALLE Sabor a Manzana Caja 9...,S/ 3.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,970.0,ml,Bebida FRUGOS DEL VALLE Sabor a Manzana Caja 9,3.9,plaza_vea,Caja 970ml,,MANZANA CORRIENTE
-Lavavajilla líquido BOREAL Manzana Doypack 500...,S/ 3.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Lavavajilla líquido BOREAL Manzana Doypack 500,3.9,plaza_vea,Doypack 500ml,,MANZANA CORRIENTE
-Bebida sabor arándanos uva y manzana de 300 mL,S/ 3.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,300.0,ml,Bebida sabor arándanos uva y manzana de,3.9,tottus,,BIO AMAYU,MANZANA CORRIENTE
-Bebida de Manzana Frugos del Valle Caja 970ml,S/ 3.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,970.0,ml,Bebida de Manzana Frugos del Valle Caja,3.9,metro,,,MANZANA CORRIENTE
-Compota de Manzana Agú 113g,S/ 3.99,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota de Manzana Agú,3.99,metro,,,MANZANA CORRIENTE
-Compota Sabor Manzana Agú 113g,S/ 3.99,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota Sabor Manzana Agú,3.99,metro,,,MANZANA CORRIENTE
-Colado AGÚ Sabor a Manzana Doypack 113g,S/ 3.99 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,113.0,g,Colado AGÚ Sabor a Manzana Doypack,3.99,plaza_vea,Doypack 113g,,MANZANA CORRIENTE
-Colado HEINZ Manzana Frasco 113g,S/ 4 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,113.0,g,Colado HEINZ Manzana Frasco,4.0,plaza_vea,Frasco 113g,,MANZANA CORRIENTE
-Compota de Manzana Agú 113g,S/ 4.10,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,113.0,g,Compota de Manzana Agú,4.1,wong,,,MANZANA CORRIENTE
-Ambientador Glade en Gel bolsa Manzana Canela 30g,S/ 4.30,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,30.0,g,Ambientador Glade en Gel bolsa Manzana Canela,4.3,metro,,,MANZANA CORRIENTE
-Ambientador en gel GLADE Manzana y canela Empaque 31Gr,S/ 4.30,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,31.0,g,Ambientador en gel GLADE Manzana y canela Empaque r,4.3,vivanda,,GLADE,MANZANA CORRIENTE
-Ambientador Glade en Gel bolsa Manzana Canela 30g,S/ 4.30,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,30.0,g,Ambientador Glade en Gel bolsa Manzana Canela,4.3,wong,,,MANZANA CORRIENTE
-Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1L,S/ 4.40,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.0,l,Néctar FRUGOS DEL VALLE Sabor a Manzana Caja,4.4,vivanda,,FRUGOS,MANZANA CORRIENTE
-Bebida sabor manzana de 500 mL,S/ 4.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,500.0,ml,Bebida sabor manzana de,4.5,tottus,,NATURALE,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Plátano AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Plátano AMA Pouch,4.9,metro,,,MANZANA CORRIENTE
-Bebida de Manzana Naturale Botella 500 ml,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Bebida de Manzana Naturale Botella,4.9,wong,,,MANZANA CORRIENTE
-Compota Smiley Kids Manzana + Plátano + Arándano 90g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Compota Smiley Kids Manzana + Plátano + Arándano,4.9,metro,,,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Arándano AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Arándano AMA Pouch,4.9,metro,,,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Mango AMA Pouch 90 g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Puré de Frutas Orgánico Manzana y Mango AMA Pouch,4.9,wong,,,MANZANA CORRIENTE
-PROTECTOR TOMA CORRIENTE X 12UN,S/ 4.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,12.0,un,PROTECTOR TOMA CORRIENTE X,4.9,tottus,,TOP GAN,MANZANA CORRIENTE
-Compota Smiley Kids Manzana y Ciruela 90g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Compota Smiley Kids Manzana y Ciruela,4.9,wong,,,MANZANA CORRIENTE
-Mermelada de Manzana y Canela Aconcagua 200g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,200.0,g,Mermelada de Manzana y Canela Aconcagua,4.9,metro,,,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Mango AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Mango AMA Pouch,4.9,metro,,,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Plátano AMA Pouch 90 g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Puré de Frutas Orgánico Manzana y Plátano AMA Pouch,4.9,wong,,,MANZANA CORRIENTE
-Compota Smiley Kids Manzana + Plátano + Arándano 90g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Compota Smiley Kids Manzana + Plátano + Arándano,4.9,wong,,,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana y Arándano AMA Pouch 90 g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Puré de Frutas Orgánico Manzana y Arándano AMA Pouch,4.9,wong,,,MANZANA CORRIENTE
-Compota de Manzana en Frasco de 113 g,S/ 4.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,113.0,g,Compota de Manzana en Frasco de,4.9,tottus,,GERBER,MANZANA CORRIENTE
-Puré de Frutas Orgánico Manzana AMA Pouch 90 g,S/ 4.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,90.0,g,Puré de Frutas Orgánico Manzana AMA Pouch,4.9,wong,,,MANZANA CORRIENTE
-Jugo de Fruta L'ONDA Manzana Botella 500ml,S/ 5.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Jugo de Fruta L'ONDA Manzana Botella,5.2,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Puré de Manzana Cuisine & Co 250g,S/ 5.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,250.0,g,Puré de Manzana Cuisine & Co,5.2,metro,,,MANZANA CORRIENTE
-Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1...,S/ 5.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.5,l,Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1,5.5,plaza_vea,Caja 1.5L,,MANZANA CORRIENTE
-Lavavajillas en Pasta Home Care Manzana 800g,S/ 5.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,g,Lavavajillas en Pasta Home Care Manzana,5.5,metro,,,MANZANA CORRIENTE
-Bebida de Manzana y Piña Golden Botella 485ml,S/ 5.79,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,485.0,ml,Bebida de Manzana y Piña Golden Botella,5.79,metro,,,MANZANA CORRIENTE
-Avena Instantánea con Manzana y Canela Sin Gluten Dyfferent Pote 65 g,S/ 5.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,65.0,g,Avena Instantánea con Manzana y Canela Sin Gluten Dyfferent Pote,5.8,wong,,,MANZANA CORRIENTE
-Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,S/ 5.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,150.0,g,Avena Con Manzana Instantánea Santa Catalina Bolsa,5.8,metro,,,MANZANA CORRIENTE
-Mini Tarta de Manzana LA FLORENCIA 1un,S/ 5.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,un,Mini Tarta de Manzana LA FLORENCIA,5.9,plaza_vea,Bandeja 1un,,MANZANA CORRIENTE
-Avena Instantánea Cuisine & Co Manzana y Canela 45g,S/ 5.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,45.0,g,Avena Instantánea Cuisine & Co Manzana y Canela,5.9,wong,,,MANZANA CORRIENTE
-Chilcano Piscano Manzana Botella 275 ml,S/ 5.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,ml,Chilcano Piscano Manzana Botella,5.9,metro,,,MANZANA CORRIENTE
-Bebida con Aloe Vera SAPPE Sabor Manzana Botel...,S/ 5.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,300.0,ml,Bebida con Aloe Vera SAPPE Sabor Manzana Botel,5.9,plaza_vea,Botella 300ml,,MANZANA CORRIENTE
-Chilcano Piscano Manzana Botella 275 ml,S/ 5.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,275.0,ml,Chilcano Piscano Manzana Botella,5.9,wong,,,MANZANA CORRIENTE
-Lavavajilla en Pasta Sapolio Manzana 800g,S/ 6.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,g,Lavavajilla en Pasta Sapolio Manzana,6.0,metro,,,MANZANA CORRIENTE
-Cereal Bar COSTA Manzana y Canela Caja 12un,S/ 6 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,12.0,un,Cereal Bar COSTA Manzana y Canela Caja,6.0,plaza_vea,Caja 12un,,MANZANA CORRIENTE
-Lavavajilla en Pasta Sapolio Manzana 800g,S/ 6.00,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,800.0,g,Lavavajilla en Pasta Sapolio Manzana,6.0,wong,,,MANZANA CORRIENTE
-Lavavajillas SAPOLIO Manzana Pote 800g,S/ 6 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,800.0,g,Lavavajillas SAPOLIO Manzana Pote,6.0,plaza_vea,Pote 800g,,MANZANA CORRIENTE
-Harina BENOTI Preparada Paquete 1Kg,S/ 6.00,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,1.0,kg,Harina BENOTI Preparada Paquete,6.0,vega,,Benoti,MANZANA CORRIENTE
-Mini Tarta de Manzana LA FLORENCIA 1un,S/ 6.00,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.0,un,Mini Tarta de Manzana LA FLORENCIA,6.0,vivanda,,LA FLORENCIA,MANZANA CORRIENTE
-Puré de Manzana y Plátano Orgánico AMA TIME Do...,S/ 6.10 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,90.0,g,Puré de Manzana y Plátano Orgánico AMA TIME Do,6.1,plaza_vea,Doypack 90g,,MANZANA CORRIENTE
-Puré de Manzana Orgánico AMA TIME Doypack 90g,S/ 6.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,90.0,g,Puré de Manzana Orgánico AMA TIME Doypack,6.2,plaza_vea,Doypack 90g,,MANZANA CORRIENTE
-Puré de Manzana y Arándano Orgánico AMA TIME D...,S/ 6.30 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,90.0,g,Puré de Manzana y Arándano Orgánico AMA TIME D,6.3,plaza_vea,Doypack 90g,,MANZANA CORRIENTE
-Lavavajilla en Pasta CLORANDINA Manzana Pote 1000gr,S/ 6.30,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,1000.0,g,Lavavajilla en Pasta CLORANDINA Manzana Pote r,6.3,vega,,Clorandina,MANZANA CORRIENTE
-Pera Packhams x kg,S/ 6.39 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Packhams,6.39,metro,,,MANZANA CORRIENTE
-Bebida con Aloe Vera SAPPE Sabor Manzana Botella 300ml,S/ 6.40,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,300.0,ml,Bebida con Aloe Vera SAPPE Sabor Manzana Botella,6.4,vivanda,,SAPPE,MANZANA CORRIENTE
-Jugo de Fruta AMA Manzana Durazno Caja 200ml,S/ 6.40,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,200.0,ml,Jugo de Fruta AMA Manzana Durazno Caja,6.4,wong,,,MANZANA CORRIENTE
-Bebida Rehidratante SUEROX Sabor a Manzana Botella 630ml,S/ 6.50,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,630.0,ml,Bebida Rehidratante SUEROX Sabor a Manzana Botella,6.5,vega,,SUEROX,MANZANA CORRIENTE
-Bebida Rehidratante SUEROX Sabor a Manzana Bot...,S/ 6.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,630.0,ml,Bebida Rehidratante SUEROX Sabor a Manzana Bot,6.5,plaza_vea,Botella 630ml,,MANZANA CORRIENTE
-Bebida Rehidratante Suerox Manzana Botella 630ml,S/ 6.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,630.0,ml,Bebida Rehidratante Suerox Manzana Botella,6.5,wong,,,MANZANA CORRIENTE
-Bebida Rehidratante Suerox Manzana Botella 630ml,S/ 6.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,630.0,ml,Bebida Rehidratante Suerox Manzana Botella,6.5,metro,,,MANZANA CORRIENTE
-Rehidratante Manzana 630 mL,S/ 6.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,630.0,ml,Rehidratante Manzana,6.5,tottus,,SUEROX,MANZANA CORRIENTE
-Barras de Cereales Cereal Bar Manzana y Canela 12un,S/ 6.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,12.0,un,Barras de Cereales Cereal Bar Manzana y Canela,6.6,metro,,,MANZANA CORRIENTE
-Cereal Bar Manzana Canela 12 Unidades 12g,S/ 6.60,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,12.0,un,Cereal Bar Manzana Canela ades,6.6,tottus,,COSTA,MANZANA CORRIENTE
-Jugo Ama Manzana Mango Tetra 200ml,S/ 6.60,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,200.0,ml,Jugo Ama Manzana Mango Tetra,6.6,wong,,,MANZANA CORRIENTE
-Bebida Manzana Con Aloe Sappe Frasco 300 ml,S/ 6.60,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,300.0,ml,Bebida Manzana Con Aloe Sappe Frasco,6.6,wong,,,MANZANA CORRIENTE
-Harina MOLITALIA Preparada Bolsa 1kg,S/ 6.90,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,1.0,kg,Harina MOLITALIA Preparada Bolsa,6.9,vega,,Molitalia,MANZANA CORRIENTE
-Barras de Cereales Cereal Bar Manzana y Canela 12un,S/ 6.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,12.0,un,Barras de Cereales Cereal Bar Manzana y Canela,6.9,wong,,,MANZANA CORRIENTE
-Ready To Drink (RTD) SPARK Manzana Lata 473ml,S/ 7.10 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,473.0,ml,Ready To Drink (RTD) SPARK Manzana Lata,7.1,plaza_vea,Lata 473ml,,MANZANA CORRIENTE
-"Infusión de Muña, Manzana Deshidratada LA CASA...",S/ 7.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,60.0,g,"Infusión de Muña, Manzana Deshidratada LA CASA",7.2,plaza_vea,Doypack 60g,,MANZANA CORRIENTE
-Aromatizador BOREAL Manzana-Canela Cono 212g,S/ 7.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,212.0,g,Aromatizador BOREAL Manzana-Canela Cono,7.5,plaza_vea,Pote 212g,,MANZANA CORRIENTE
-Avena Instantánea BELL'S Manzana y Canela Bols...,S/ 7.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,270.0,g,Avena Instantánea BELL'S Manzana y Canela Bols,7.5,plaza_vea,Bolsa 270g,,MANZANA CORRIENTE
-Twopack Bebida de Manzana Frugos del Valle Caja 1L,S/ 7.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Twopack Bebida de Manzana Frugos del Valle Caja,7.5,metro,,,MANZANA CORRIENTE
-Aromatizador BOREAL Manzana-Canela Cono 212g,S/ 7.50,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,212.0,g,Aromatizador BOREAL Manzana-Canela Cono,7.5,vivanda,,BOREAL,MANZANA CORRIENTE
-Avena Instantánea BELL'S Manzana y Canela Bolsa 270g,S/ 7.50,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,270.0,g,Avena Instantánea BELL'S Manzana y Canela Bolsa,7.5,vivanda,,BELL'S,MANZANA CORRIENTE
-Twopack Bebida de Manzana Frugos del Valle Caja 1L,S/ 7.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,l,Twopack Bebida de Manzana Frugos del Valle Caja,7.5,wong,,,MANZANA CORRIENTE
-Manzana Roja x kg,S/ 7.59 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Manzana Roja,7.59,wong,,,MANZANA CORRIENTE
-Ambientador Glade Aerosol Manzana Canela 275ml,S/ 7.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,ml,Ambientador Glade Aerosol Manzana Canela,7.7,metro,,,MANZANA CORRIENTE
-Bebida FRUGOS DEL VALLE Manzana Caja 235ml Six...,S/ 7.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,6.0,un,Bebida FRUGOS DEL VALLE Manzana Caja  Six,7.9,plaza_vea,Paquete 6un,,MANZANA CORRIENTE
-Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 7.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,235.0,ml,Sixpack Bebida de Manzana Frugos del Valle Caja,7.9,metro,,,MANZANA CORRIENTE
-Manzana Royal Gala Importada,S/ 7.90 x kg,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,0.6,kg,Manzana Royal Gala Importada,7.9,plaza_vea,Presentación 0.6 kg aprox.,,MANZANA CORRIENTE
-Bebida De Manzana Naturale Botella 1 Litro,S/ 7.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Bebida De Manzana Naturale Botella itro,7.9,metro,,,MANZANA CORRIENTE
-Manzana Roja Importada,S/ 7.90 x kg,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,0.6,kg,Manzana Roja Importada,7.9,plaza_vea,Presentación 0.6 kg aprox.,,MANZANA CORRIENTE
-Bebida De Manzana Naturale Botella 1 Litro,S/ 7.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,l,Bebida De Manzana Naturale Botella itro,7.9,wong,,,MANZANA CORRIENTE
-Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 7.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,235.0,ml,Sixpack Bebida de Manzana Frugos del Valle Caja,7.9,wong,,,MANZANA CORRIENTE
-Bebida Sabor Manzana 1 L,S/ 7.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,1.0,l,Bebida Sabor Manzana,7.9,tottus,,NATURALE,MANZANA CORRIENTE
-Manzana Verde Importada,S/ 7.98 x kg,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,0.6,kg,Manzana Verde Importada,7.98,plaza_vea,Presentación 0.6 kg aprox.,,MANZANA CORRIENTE
-Pera Canela Importada x kg,S/ 7.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Canela Importada,7.99,metro,,,MANZANA CORRIENTE
-Pera Packhams x kg,S/ 7.99 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Pera Packhams,7.99,wong,,,MANZANA CORRIENTE
-Harina BLANCA FLOR Preparada Paquete 1Kg,S/ 8.00,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,1.0,kg,Harina BLANCA FLOR Preparada Paquete,8.0,vega,,Blanca Flor,MANZANA CORRIENTE
-Manzana Verde x kg,S/ 8.16 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Verde,8.16,metro,,,MANZANA CORRIENTE
-Manzana Verde x kg,S/ 8.16 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Manzana Verde,8.16,wong,,,MANZANA CORRIENTE
-Manzana Roja x kg,S/ 8.19 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Roja,8.19,metro,,,MANZANA CORRIENTE
-Ambientador Aerosol Manzana Canela 275 mL,S/ 8.30,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,275.0,ml,Ambientador Aerosol Manzana Canela,8.3,tottus,,GLADE,MANZANA CORRIENTE
-Pera Americana D'Anjou x kg,S/ 8.49 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Americana D'Anjou,8.49,metro,,,MANZANA CORRIENTE
-Puré de Manzana Cuisine & Co 500g,S/ 8.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,g,Puré de Manzana Cuisine & Co,8.5,metro,,,MANZANA CORRIENTE
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,,P.A.N.,MANZANA CORRIENTE
-Manzanas Deshidratadas Wel-B 12g,S/ 8.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,12.0,g,Manzanas Deshidratadas Wel-B,8.7,metro,,,MANZANA CORRIENTE
-Manzanas Deshidratadas Wel-B 12g,S/ 8.70,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,12.0,g,Manzanas Deshidratadas Wel-B,8.7,wong,,,MANZANA CORRIENTE
-Puré con Manzana Exótico Casa Verde 370g,S/ 8.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,370.0,g,Puré con Manzana Exótico Casa Verde,8.9,metro,,,MANZANA CORRIENTE
-Lavavajilla Líquido SAPOLIO Manzana Botella 750 ml,S/ 8.90 3%,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,750.0,ml,Lavavajilla Líquido SAPOLIO Manzana Botella,8.9,vega,,Sapolio,MANZANA CORRIENTE
-Mizena DURYEA Caja 500gr,S/ 8.90 10%,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,500.0,g,Mizena DURYEA Caja r,8.9,vega,,Duryea,MANZANA CORRIENTE
-Piqueo BANANA CHIPS Hojuelas de plátano Bolsa ...,S/ 8.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,250.0,g,Piqueo BANANA CHIPS Hojuelas de plátano Bolsa,8.9,plaza_vea,Bolsa 250g,,MANZANA CORRIENTE
-Manzana Royal Gala x kg,S/ 8.99 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Manzana Royal Gala,8.99,wong,,,MANZANA CORRIENTE
-Manzana Pink Lady x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Pink Lady,8.99,metro,,,MANZANA CORRIENTE
-Manzana Royal Gala x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Royal Gala,8.99,metro,,,MANZANA CORRIENTE
-Manzana Pink Lady x kg,S/ 8.99 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Manzana Pink Lady,8.99,wong,,,MANZANA CORRIENTE
-Manzana Americana Royal Gala x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Americana Royal Gala,8.99,metro,,,MANZANA CORRIENTE
-Sixpack Bebida Frugos del Valle Fresh Manzana Botella 500ml,S/ 9.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Sixpack Bebida Frugos del Valle Fresh Manzana Botella,9.0,metro,,,MANZANA CORRIENTE
-Fruna AMBROSOLI Trifuna Fresa - Durazno - Manzana Bolsa 70 un,S/ 9.00,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,70.0,un,Fruna AMBROSOLI Trifuna Fresa - Durazno - Manzana Bolsa,9.0,vega,,Ambrosoli,MANZANA CORRIENTE
-Conserva BELL'S Puré de manzana Frasco 470g,S/ 9.20,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,470.0,g,Conserva BELL'S Puré de manzana Frasco,9.2,vivanda,,BELL'S,MANZANA CORRIENTE
-Vinagre de Manzana ACAVILLE Botella 500ml,S/ 9.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Vinagre de Manzana ACAVILLE Botella,9.5,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Puré de Manzana Exótico CASA VERDE Frasco 370g,S/ 9.50,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,370.0,g,Puré de Manzana Exótico CASA VERDE Frasco,9.5,vivanda,,CASAVERDE,MANZANA CORRIENTE
-Lavavajilla Líquida Sapolio Manzana Frasco 750 ml,S/ 9.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,750.0,ml,Lavavajilla Líquida Sapolio Manzana Frasco,9.5,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana ACAVILLE Botella 500ml,S/ 9.50,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,500.0,ml,Vinagre de Manzana ACAVILLE Botella,9.5,vivanda,,ACAVILLE,MANZANA CORRIENTE
-Vinagre de Manzana MANZANARES Botella 500ml,S/ 9.60,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,500.0,ml,Vinagre de Manzana MANZANARES Botella,9.6,vivanda,,MANZANARES,MANZANA CORRIENTE
-Vinagre de Manzana MANZANARES Botella 500ml,S/ 9.60 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Vinagre de Manzana MANZANARES Botella,9.6,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Snack de Manzana Deshidratada Snack Fruits 50g,S/ 9.60,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,50.0,g,Snack de Manzana Deshidratada Snack Fruits,9.6,wong,,,MANZANA CORRIENTE
-Jugo de Fruta L'ONDA Manzana Botella 945ml,S/ 9.70 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,945.0,ml,Jugo de Fruta L'ONDA Manzana Botella,9.7,plaza_vea,Botella 945ml,,MANZANA CORRIENTE
-Mini Croissant Chips de Manzana y Canela 320 g,S/ 9.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,320.0,g,Mini Croissant Chips de Manzana y Canela,9.9,tottus,,TOTTUS,MANZANA CORRIENTE
-Twopack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 9.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.5,l,Twopack Bebida de Manzana Frugos del Valle Caja,9.9,wong,,,MANZANA CORRIENTE
-Galletas de Pie de Manzana Merba 225g,S/ 9.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,225.0,g,Galletas de Pie de Manzana Merba,9.9,wong,,,MANZANA CORRIENTE
-Puré con Manzana Exótico Casa Verde 370g,S/ 9.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,370.0,g,Puré con Manzana Exótico Casa Verde,9.9,wong,,,MANZANA CORRIENTE
-Jabón en Barra PALMOLIVE Naturals Banana y Agu...,S/ 9.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,3.0,un,Jabón en Barra PALMOLIVE Naturals Banana y Agu,9.9,plaza_vea,Paquete 3un,,MANZANA CORRIENTE
-Galletas de Pie de Manzana Merba 225g,S/ 9.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,225.0,g,Galletas de Pie de Manzana Merba,9.9,metro,,,MANZANA CORRIENTE
-Twopack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 9.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.5,l,Twopack Bebida de Manzana Frugos del Valle Caja,9.9,metro,,,MANZANA CORRIENTE
-Caramelos Masticables AMBROSOLI Trifruna Manza...,S/ 9.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,420.0,g,Caramelos Masticables AMBROSOLI Trifruna Manza,9.9,plaza_vea,Bolsa 420g,,MANZANA CORRIENTE
-Snacks PET CARE Banana y Pollo Bolsa TMC-46 10...,S/ 10.10 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,10.0,un,Snacks PET CARE Banana y Pollo Bolsa TMC-46 10,10.1,plaza_vea,10un,,MANZANA CORRIENTE
-Pack Néctar FRUGOS Manzana Caja 235ml Paquete ...,S/ 10.70 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,2.0,un,Pack Néctar FRUGOS Manzana Caja  Paquete,10.7,plaza_vea,Pack 2un,,MANZANA CORRIENTE
-Puré de Manzana D'Marco Frasco 900 g,S/ 10.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,900.0,g,Puré de Manzana D'Marco Frasco,10.8,metro,,,MANZANA CORRIENTE
-Ambientador Glade Aerosol Manzana Canela 400ml,S/ 10.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,ml,Ambientador Glade Aerosol Manzana Canela,10.9,metro,,,MANZANA CORRIENTE
-Puré de Manzana Cuisine&Co Frasco 850 g,S/ 10.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,850.0,g,Puré de Manzana Cuisine&Co Frasco,10.9,metro,,,MANZANA CORRIENTE
-Ambientador Glade Aerosol Manzana Canela 400ml,S/ 10.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,400.0,ml,Ambientador Glade Aerosol Manzana Canela,10.9,wong,,,MANZANA CORRIENTE
-Ambientador GLADE Cubo Manzana y Canela Caja 180g,S/ 11.00,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,180.0,g,Ambientador GLADE Cubo Manzana y Canela Caja,11.0,vivanda,,GLADE,MANZANA CORRIENTE
-Ambientador GLADE Cubo Manzana y Canela Caja 1...,S/ 11 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,180.0,g,Ambientador GLADE Cubo Manzana y Canela Caja 1,11.0,plaza_vea,Caja 180g,,MANZANA CORRIENTE
-Vinagre de Manzana PERU PRIDE Botella 500ml,S/ 11.10 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Vinagre de Manzana PERU PRIDE Botella,11.1,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Emoliente Canela y Clavo NATURANDES Manzana De...,S/ 11.10 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,150.0,g,Emoliente Canela y Clavo NATURANDES Manzana De,11.1,plaza_vea,Bolsa 150g,,MANZANA CORRIENTE
-Vinagre HUERTO ALAMEIN De Manzana Botella 500M...,S/ 11.29 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,ml,Vinagre HUERTO ALAMEIN De Manzana Botella 500M,11.29,plaza_vea,Botella 500ml,,MANZANA CORRIENTE
-Puré de Manzana D'Marco Frasco 900 g,S/ 11.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,900.0,g,Puré de Manzana D'Marco Frasco,11.5,wong,,,MANZANA CORRIENTE
-Puré de Manzana Cuisine & Co 500g,S/ 11.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,g,Puré de Manzana Cuisine & Co,11.5,wong,,,MANZANA CORRIENTE
-Vinagre de Manzana Frasco 500 ml,S/ 11.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Frasco,11.8,metro,,,MANZANA CORRIENTE
-Pack Néctar FRUGOS Manzana Caja 235ml Paquete 6un + Galletas Saladas RITZ Bolsa 20g Paquete 6un,S/ 11.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,235.0,ml,Pack Néctar FRUGOS Manzana Caja  Paquete  + Galletas Saladas RITZ Bolsa  Paquete,11.9,vivanda,,FRUGOS,MANZANA CORRIENTE
-Vinagre de Manzana Frasco 500 ml,S/ 11.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Manzana Frasco,11.9,wong,,,MANZANA CORRIENTE
-Membrillo x kg,S/ 12.14 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Membrillo,12.14,metro,,,MANZANA CORRIENTE
-Suavizante SUAVITEL Frescura de Manzana Botella 970ml,S/ 12.50,vega,MANZANA CORRIENTE,2024-12-05 12:33:27.743209,970.0,ml,Suavizante SUAVITEL Frescura de Manzana Botella,12.5,vega,,Suavitel,MANZANA CORRIENTE
-Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana 970ml,S/ 12.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,970.0,ml,Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana,12.5,metro,,,MANZANA CORRIENTE
-Membrillo x kg,S/ 12.59 x kg,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Membrillo,12.59,wong,,,MANZANA CORRIENTE
-Vinagre de Manzana Perú Pride Botella 500 ml,S/ 12.70,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Manzana Perú Pride Botella,12.7,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico De Nigris Botella 500 ml,S/ 12.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Sidra de Manzana Orgánico De Nigris Botella,12.9,metro,,,MANZANA CORRIENTE
-Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 12.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,g,Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co,12.9,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico De Nigris Botella 500 ml,S/ 12.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Sidra de Manzana Orgánico De Nigris Botella,12.9,wong,,,MANZANA CORRIENTE
-Sixpack Bebida con Gas San Luis Manzana Botella 625ml,S/ 13.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,625.0,ml,Sixpack Bebida con Gas San Luis Manzana Botella,13.2,metro,,,MANZANA CORRIENTE
-Sixpack Bebida con Gas San Luis Manzana Botella 625ml,S/ 13.20,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,625.0,ml,Sixpack Bebida con Gas San Luis Manzana Botella,13.2,wong,,,MANZANA CORRIENTE
-Sixpack Bebida con Gas San Luis Manzana Botella 625ml,S/ 13.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,625.0,ml,Sixpack Bebida con Gas San Luis Manzana Botella,13.2,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana Perú Pride Botella 500 ml,S/ 13.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Perú Pride Botella,13.5,metro,,,MANZANA CORRIENTE
-Lavavajilla líquido SAPOLIO Manzana Frasco 125...,S/ 13.70 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1250.0,ml,Lavavajilla líquido SAPOLIO Manzana Frasco 125,13.7,plaza_vea,Botella 1250ml,,MANZANA CORRIENTE
-JUGO DE MANZANA L ONDA X 1.89 L,S/ 13.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,1.89,l,JUGO DE MANZANA L ONDA X,13.9,tottus,,LONDA,MANZANA CORRIENTE
-Lavavajilla Líquido Manzana 1250 ml,S/ 13.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,1250.0,ml,Lavavajilla Líquido Manzana,13.9,tottus,,SAPOLIO,MANZANA CORRIENTE
-Galleta de Arroz Baby Mum-Mum Manzana Caja 50 gr,S/ 13.95,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,50.0,g,Galleta de Arroz Baby Mum-Mum Manzana Caja r,13.95,metro,,,MANZANA CORRIENTE
-Galletas BABY MUM Arroz Sabor Manzana Caja 50g,S/ 13.99 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,50.0,g,Galletas BABY MUM Arroz Sabor Manzana Caja,13.99,plaza_vea,Caja 50g,,MANZANA CORRIENTE
-Galletas BABY MUM Arroz Sabor Manzana Caja 50g,S/ 13.99,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,50.0,g,Galletas BABY MUM Arroz Sabor Manzana Caja,13.99,vivanda,,BABY MUM,MANZANA CORRIENTE
-Cereal CROSOY Granola manzana pecana y canela Bolsa 380Gr,S/ 14.20,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,380.0,g,Cereal CROSOY Granola manzana pecana y canela Bolsa r,14.2,vivanda,,CROSOY,MANZANA CORRIENTE
-Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,380.0,g,Cereal CROSOY Granola manzana pecana y canela,14.2,plaza_vea,Bolsa 380g,,MANZANA CORRIENTE
-Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 14.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,235.0,ml,Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja,14.5,wong,,,MANZANA CORRIENTE
-Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 14.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,235.0,ml,Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja,14.5,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana 1 Lt,S/ 14.80,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,1.0,l,Vinagre de Manzana t,14.8,tottus,,TOTTUS,MANZANA CORRIENTE
-Puff Snack Manzana y Plátano WANT WANT Baby Mu...,S/ 14.80 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,50.0,g,Puff Snack Manzana y Plátano WANT WANT Baby Mu,14.8,plaza_vea,Botella 50g,,MANZANA CORRIENTE
-Vinagre BELL'S De Manzana Botella 1L,S/ 14.80 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,l,Vinagre BELL'S De Manzana Botella,14.8,plaza_vea,Botella 1L,,MANZANA CORRIENTE
-Tripack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 14.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.5,l,Tripack Bebida de Manzana Frugos del Valle Caja,14.9,metro,,,MANZANA CORRIENTE
-Jabon Liquido Manzana 800 ml,S/ 14.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,800.0,ml,Jabon Liquido Manzana,14.9,tottus,,PALMOLIVE,MANZANA CORRIENTE
-Jabon Liquido PALMOLIVE Manzana Doypack 800ml,S/ 14.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,800.0,ml,Jabon Liquido PALMOLIVE Manzana Doypack,14.9,plaza_vea,Doypack 800ml,,MANZANA CORRIENTE
-Tripack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 14.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.5,l,Tripack Bebida de Manzana Frugos del Valle Caja,14.9,wong,,,MANZANA CORRIENTE
-Galletas con Quinua y Manzana +NUTRI Co Caja 6un,S/ 14.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,6.0,un,Galletas con Quinua y Manzana +NUTRI Co Caja,14.9,tottus,,NUTRI CO,MANZANA CORRIENTE
-Galletas TODDLER MUM Arroz Sabor Banana Caja 5...,S/ 14.99 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,50.0,g,Galletas TODDLER MUM Arroz Sabor Banana Caja 5,14.99,plaza_vea,Caja 50g,,MANZANA CORRIENTE
-Vinagre de Manzana Olivos Del Sur Botella 500 ml,S/ 15.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Olivos Del Sur Botella,15.2,metro,,,MANZANA CORRIENTE
-Jabón Líquido para Manos Palmolive Flor de Manzana & Gardenia 800ml,S/ 15.40,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,ml,Jabón Líquido para Manos Palmolive Flor de Manzana & Gardenia,15.4,metro,,,MANZANA CORRIENTE
-"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela 30g",S/ 15.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,30.0,g,"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela",15.6,metro,,,MANZANA CORRIENTE
-Duo Pack VEGGIE Chips Banana Bolsa 500g,S/ 15.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,500.0,g,Duo Pack VEGGIE Chips Banana Bolsa,15.9,plaza_vea,Bolsa 500g,,MANZANA CORRIENTE
-Puré de Manzana Cuisine & Co 1kg,S/ 15.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Puré de Manzana Cuisine & Co,15.9,metro,,,MANZANA CORRIENTE
-Snack Rice Puff Baby Mum Mum Manzana y Plátano 50g,S/ 15.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,50.0,g,Snack Rice Puff Baby Mum Mum Manzana y Plátano,15.9,metro,,,MANZANA CORRIENTE
-Aloe Vera Manzana 1 Lt,S/ 16,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,1.0,l,Aloe Vera Manzana t,16.0,tottus,,SAPPE,MANZANA CORRIENTE
-"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela 30g",S/ 16.20,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,30.0,g,"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela",16.2,wong,,,MANZANA CORRIENTE
-Galletas con Quinua y Manzana +NUTRI Co Caja 6un,S/ 16.20,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,6.0,un,Galletas con Quinua y Manzana +NUTRI Co Caja,16.2,vivanda,,NUTRISHAKE,MANZANA CORRIENTE
-Keke de Manzana con Canela 8 Porciones,S/ 16.72,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,8.0,un,Keke de Manzana con Canela,16.72,wong,,,MANZANA CORRIENTE
-Bebida de Manzana L'Onda Botella 1.89L,S/ 16.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.89,l,Bebida de Manzana L'Onda Botella,16.8,wong,,,MANZANA CORRIENTE
-Jugo de Manzana Kedem Botella 1.89L,S/ 16.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.89,l,Jugo de Manzana Kedem Botella,16.9,wong,,,MANZANA CORRIENTE
-Jugo de Manzana Kedem Botella 1.89L,S/ 16.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.89,l,Jugo de Manzana Kedem Botella,16.9,metro,,,MANZANA CORRIENTE
-Lavavajillas Líquido Eco House Manzana 900ml,S/ 16.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,900.0,ml,Lavavajillas Líquido Eco House Manzana,16.9,metro,,,MANZANA CORRIENTE
-Ambientador Glade Toque Manzana Canela 2 repuestos 18gr,S/ 17.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,18.0,g,Ambientador Glade Toque Manzana Canela 2 repuestos r,17.0,metro,,,MANZANA CORRIENTE
-Lavavajillas Líquido La Oca Manzana Verde 1L,S/ 17.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,l,Lavavajillas Líquido La Oca Manzana Verde,17.9,wong,,,MANZANA CORRIENTE
-Lavavajillas Líquido La Oca Manzana Verde 1L,S/ 17.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Lavavajillas Líquido La Oca Manzana Verde,17.9,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana Kemal Kükrer 500ml,S/ 17.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Manzana Kemal Kükrer,17.9,wong,,,MANZANA CORRIENTE
-Vinagre de Manzana Kemal Kükrer 500ml,S/ 17.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Kemal Kükrer,17.9,metro,,,MANZANA CORRIENTE
-Shampoo H&S Manzana Fresh Frasco 375ml,S/ 18.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,375.0,ml,Shampoo H&S Manzana Fresh Frasco,18.5,plaza_vea,Frasco 375ml,,MANZANA CORRIENTE
-Granola Manzana Canela 250 g,S/ 18.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,250.0,g,Granola Manzana Canela,18.9,tottus,,DYFFERENT,MANZANA CORRIENTE
-Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana 2.3L,S/ 18.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,2.3,l,Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana,18.9,wong,,,MANZANA CORRIENTE
-Granola Dyfferent Sabor Manzana Canela 250g,S/ 18.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,250.0,g,Granola Dyfferent Sabor Manzana Canela,18.9,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana OLIVOS DEL SUR Botella 1L,S/ 18.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,l,Vinagre de Manzana OLIVOS DEL SUR Botella,18.9,plaza_vea,Botella 1L,,MANZANA CORRIENTE
-Lavavajilla Líquido Desengrasante LA OCA Manza...,S/ 19 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,l,Lavavajilla Líquido Desengrasante LA OCA Manza,19.0,plaza_vea,Botella 1L,,MANZANA CORRIENTE
-Lavavajilla Líquido Desengrasante LA OCA Manzana Verde Botella 1L,S/ 19.40,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.0,l,Lavavajilla Líquido Desengrasante LA OCA Manzana Verde Botella,19.4,vivanda,,LA OCA,MANZANA CORRIENTE
-Absorbente de Humedad Cojín Manzana Canela 2 x 50 gr,S/ 19.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,50.0,g,Absorbente de Humedad Cojín Manzana Canela 2 x r,19.5,tottus,,TOTTUS,MANZANA CORRIENTE
-Shampoo Head & Shoulders Manzana Fresh 375 ml,S/ 19.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,375.0,ml,Shampoo Head & Shoulders Manzana Fresh,19.5,tottus,,HEAD AND SHOULDERS,MANZANA CORRIENTE
-Shampoo Head & Shoulders Manzana Fresh 375ml,S/ 19.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,375.0,ml,Shampoo Head & Shoulders Manzana Fresh,19.5,wong,,,MANZANA CORRIENTE
-Granola Dyfferent Sabor Manzana Canela 250g,S/ 19.60,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,250.0,g,Granola Dyfferent Sabor Manzana Canela,19.6,wong,,,MANZANA CORRIENTE
-Stick'n Notas Adhesivas con Hueco Manzana Pack 400 unid,S/ 19.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,un,Stick'n Notas Adhesivas con Hueco Manzana Pack,19.7,metro,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana De Nigris Botella 1 Lt,S/ 19.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Vinagre de Sidra de Manzana De Nigris Botella t,19.9,metro,,,MANZANA CORRIENTE
-Ambientador Eléctrico ETERNA Fragancia Manzana...,S/ 19.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,2.0,un,Ambientador Eléctrico ETERNA Fragancia Manzana,19.9,plaza_vea,Caja 2un,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana con Miel y Arándanos Botella 500 ml,S/ 19.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Sidra de Manzana con Miel y Arándanos Botella,19.9,wong,,,MANZANA CORRIENTE
-Vodka STARK Manzana Botella 750ml,S/ 19.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,750.0,ml,Vodka STARK Manzana Botella,19.9,plaza_vea,Botella 750ml,,MANZANA CORRIENTE
-"Infusión Manzanilla, Canela y Manzana Twinings Caja 10 Unidades",S/ 19.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,10.0,un,"Infusión Manzanilla, Canela y Manzana Twinings Caja ades",19.9,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana De Nigris Botella 1 Lt,S/ 19.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,l,Vinagre de Sidra de Manzana De Nigris Botella t,19.9,wong,,,MANZANA CORRIENTE
-Infusión de Manzana y Canela Nature's Heart 6un,S/ 20.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,6.0,un,Infusión de Manzana y Canela Nature's Heart,20.5,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana PERU PRIDE Botella 1L,S/ 20.79 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,l,Vinagre de Manzana PERU PRIDE Botella,20.79,plaza_vea,Botella 1L,,MANZANA CORRIENTE
-Chocolate Dark MARANA San Martín Tableta 70g,S/ 21.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,70.0,g,Chocolate Dark MARANA San Martín Tableta,21.9,plaza_vea,Tableta 70g,,MANZANA CORRIENTE
-Jugo de Manzana Langers Botella 64 Onzas,S/ 22.40,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,64.0,oz,Jugo de Manzana Langers Botella,22.4,wong,,,MANZANA CORRIENTE
-Ambientador Glade Aceites Naturales Manzana Canela 1 repuesto 21ml,S/ 22.60,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,21.0,ml,Ambientador Glade Aceites Naturales Manzana Canela 1 repuesto,22.6,wong,,,MANZANA CORRIENTE
-Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1.5L + Keke Redondo Marmoleado 1un,S/ 22.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.5,l,Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja  + Keke Redondo Marmoleado,22.9,vivanda,,FRUGOS,MANZANA CORRIENTE
-Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1.5L + Keke Redondo Naranja 1un,S/ 22.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.5,l,Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja  + Keke Redondo Naranja,22.9,vivanda,,FRUGOS,MANZANA CORRIENTE
-Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja 1.5L + Keke Redondo de Vainilla 1un,S/ 22.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,1.5,l,Pack Néctar FRUGOS DEL VALLE Sabor a Manzana Caja  + Keke Redondo de Vainilla,22.9,vivanda,,FRUGOS,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico Bragg Botella 473 ml,S/ 22.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,473.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,22.9,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico Bragg Botella 473 ml,S/ 22.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,473.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,22.9,metro,,,MANZANA CORRIENTE
-Ambientador GLADE Vela Manzana y Canela Unidad...,S/ 23.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,96.0,g,Ambientador GLADE Vela Manzana y Canela Unidad,23.2,plaza_vea,Frasco 96g,,MANZANA CORRIENTE
-Ambientador Aceites Naturales Manzana Canela 1 Repuesto 21 mL,S/ 23.70,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,21.0,ml,Ambientador Aceites Naturales Manzana Canela 1 Repuesto,23.7,tottus,,GLADE,MANZANA CORRIENTE
-Müsli Manzana 275 g,S/ 23.80,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,275.0,g,Müsli Manzana,23.8,tottus,,KELLOGGS,MANZANA CORRIENTE
-Ambientador Glade en Vela Manzana y Canela 96g,S/ 24.10,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,96.0,g,Ambientador Glade en Vela Manzana y Canela,24.1,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana Pack 2 Unidades,S/ 24.10,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,2.0,un,Vinagre de Manzana Pack ades,24.1,tottus,,,MANZANA CORRIENTE
-Cereal KELLOGGS Musli Manzana Caja 275g,S/ 24.90,vivanda,MANZANA CORRIENTE,2024-12-05 22:00:36.996919,275.0,g,Cereal KELLOGGS Musli Manzana Caja,24.9,vivanda,,KELLOGG S,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella 500 ml,S/ 24.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella,24.9,metro,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella 500 ml,S/ 24.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,500.0,ml,Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella,24.9,wong,,,MANZANA CORRIENTE
-Vodka de Manzana Verde de 750 mL,S/ 25.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,750.0,ml,Vodka de Manzana Verde de,25.9,tottus,,RUSS KAYA,MANZANA CORRIENTE
-Tarta de Manzana LA FLORENCIA 1un,S/ 25.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,1.0,un,Tarta de Manzana LA FLORENCIA,25.9,plaza_vea,Bandeja 1un,,MANZANA CORRIENTE
-Muesli con Manzana Kellogg's 275g,S/ 25.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,g,Muesli con Manzana Kellogg's,25.9,metro,,,MANZANA CORRIENTE
-Bebida de Jugo de Arándano y Manzana Ocean Spray 1.89L,S/ 26.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.89,l,Bebida de Jugo de Arándano y Manzana Ocean Spray,26.9,wong,,,MANZANA CORRIENTE
-Ambientador Glade en Gel Manzana Canela 2 repuestos 16g,S/ 28.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,16.0,g,Ambientador Glade en Gel Manzana Canela 2 repuestos,28.2,metro,,,MANZANA CORRIENTE
-Ambientador Glade en Gel Manzana Canela 2 repuestos 16g,S/ 28.20,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,16.0,g,Ambientador Glade en Gel Manzana Canela 2 repuestos,28.2,wong,,,MANZANA CORRIENTE
-Aromatizante de Ambiente en Gel GLADE Manzana ...,S/ 28.20 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,2.0,un,Aromatizante de Ambiente en Gel GLADE Manzana,28.2,plaza_vea,Paquete 2un,,MANZANA CORRIENTE
-Sidra The Good Cider Manzana Botella 750ml,S/ 28.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,750.0,ml,Sidra The Good Cider Manzana Botella,28.9,wong,,,MANZANA CORRIENTE
-Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto 21ml,S/ 29.10,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,21.0,ml,Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto,29.1,metro,,,MANZANA CORRIENTE
-Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto 21ml,S/ 29.10,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,21.0,ml,Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto,29.1,wong,,,MANZANA CORRIENTE
-Vinagre de Manzana Botella 1 Lt + 500 ml,S/ 29.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Vinagre de Manzana Botella t +,29.5,metro,,,MANZANA CORRIENTE
-Vinagre de Manzana PERU PRIDE Pack Botella 1L ...,S/ 29.50 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,2.0,un,Vinagre de Manzana PERU PRIDE Pack Botella,29.5,plaza_vea,Pack 2un,,MANZANA CORRIENTE
-Shampoo Head & Shoulders Manzana Fresh 650ml,S/ 29.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,650.0,ml,Shampoo Head & Shoulders Manzana Fresh,29.9,wong,,,MANZANA CORRIENTE
-Licor de Manzana 750 mL,S/ 32.90,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,750.0,ml,Licor de Manzana,32.9,tottus,,SOUR APPLE,MANZANA CORRIENTE
-Strudel de Manzana 8 Porciones,S/ 32.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,8.0,un,Strudel de Manzana,32.9,metro,,,MANZANA CORRIENTE
-Strudel de Manzana 8 Porciones,S/ 32.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,8.0,un,Strudel de Manzana,32.9,wong,,,MANZANA CORRIENTE
-Ambientador Glade Aceites Naturales Manzana Canela 2 repuestos 42ml,S/ 33.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,42.0,ml,Ambientador Glade Aceites Naturales Manzana Canela 2 repuestos,33.9,wong,,,MANZANA CORRIENTE
-Mini Pie de Manzana Congelado Tortas Gaby 4 Porciones,S/ 34.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,4.0,un,Mini Pie de Manzana Congelado Tortas Gaby,34.9,wong,,,MANZANA CORRIENTE
-Ambientador en spray GLADE Manzana y canela re...,S/ 35.30 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,270.0,ml,Ambientador en spray GLADE Manzana y canela re,35.3,plaza_vea,Frasco 270ml,,MANZANA CORRIENTE
-Silicona 400 ml Manzana,S/ 35.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,ml,Silicona  Manzana,35.5,metro,,,MANZANA CORRIENTE
-Pack Olivos del Sur: Aceite de Oliva 200ml + Vinagre de Manzana 100ml,S/ 36.00,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,200.0,ml,Pack Olivos del Sur: Aceite de Oliva  + Vinagre de Manzana,36.0,wong,,,MANZANA CORRIENTE
-Ambientador Glade Automático en Aerosol Repuesto Manzana y Canela 175g,S/ 36.80,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,175.0,g,Ambientador Glade Automático en Aerosol Repuesto Manzana y Canela,36.8,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico Bragg Botella 946 ml,S/ 37.90,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,946.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,37.9,wong,,,MANZANA CORRIENTE
-Keke de Manzana & Canela No Sugar 472g,S/ 38.00,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,472.0,g,Keke de Manzana & Canela No Sugar,38.0,wong,,,MANZANA CORRIENTE
-Vinagre de Sidra de Manzana Orgánico Bragg Botella 946 ml,S/ 38.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,946.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,38.9,metro,,,MANZANA CORRIENTE
-Cereal en Barra PROTEIN SNACK Banana Chips Caj...,S/ 39.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,210.0,g,Cereal en Barra PROTEIN SNACK Banana Chips Caj,39.9,plaza_vea,Caja 210g,,MANZANA CORRIENTE
-Ambientador Aceites Naturales Manzana Canela 2 Repuestos 42 mL,S/ 41.30,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,42.0,ml,Ambientador Aceites Naturales Manzana Canela 2 Repuestos,41.3,tottus,,GLADE,MANZANA CORRIENTE
-Nopal Manzana Nuestra Salud 454 g,S/ 43.50,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,454.0,g,Nopal Manzana Nuestra Salud,43.5,tottus,,,MANZANA CORRIENTE
-Ambientador Eléctrico GLADE Manzana y Canela E...,S/ 45.40 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,189.0,ml,Ambientador Eléctrico GLADE Manzana y Canela E,45.4,plaza_vea,Paquete 189ml,,MANZANA CORRIENTE
-Ambientador Glade Aceites Naturales Manzana y Canela 3 repuestos 63ml,S/ 46.30,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,63.0,ml,Ambientador Glade Aceites Naturales Manzana y Canela 3 repuestos,46.3,metro,,,MANZANA CORRIENTE
-Ambientador Aceites Naturales Manzana Y Canela 3 Repuestos 63 mL,S/ 49.80,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,63.0,ml,Ambientador Aceites Naturales Manzana Y Canela 3 Repuestos,49.8,tottus,,GLADE,MANZANA CORRIENTE
-Ambientador Glade Automático en Aerosol Aparato Manzana y Canela 175g,S/ 52.20,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,175.0,g,Ambientador Glade Automático en Aerosol Aparato Manzana y Canela,52.2,wong,,,MANZANA CORRIENTE
-Ambientador Glade Automático en Aerosol Aparato Manzana y Canela 175g,S/ 52.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,175.0,g,Ambientador Glade Automático en Aerosol Aparato Manzana y Canela,52.2,metro,,,MANZANA CORRIENTE
-Crocante de Manzana Joopas 1kg,S/ 52.50,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,1.0,kg,Crocante de Manzana Joopas,52.5,wong,,,MANZANA CORRIENTE
-Ambientador Automático En Aerosol Aparato Manzana Y Canela 175 g,S/ 56.20,tottus,MANZANA CORRIENTE,2024-12-05 11:56:43.749517,175.0,g,Ambientador Automático En Aerosol Aparato Manzana Y Canela,56.2,tottus,,GLADE,MANZANA CORRIENTE
-Shampoo & Body Wash Attitude Natural Care Manzana 473ml,S/ 70.00,wong,MANZANA CORRIENTE,2024-12-05 18:31:33.420883,473.0,ml,Shampoo & Body Wash Attitude Natural Care Manzana,70.0,wong,,,MANZANA CORRIENTE
-Vino Blanco MANZANOS Botella 750ml,S/ 79.90 un,plaza_vea,MANZANA CORRIENTE,2024-12-05 15:15:13.047462,750.0,ml,Vino Blanco MANZANOS Botella,79.9,plaza_vea,Botella 750ml,,MANZANA CORRIENTE
+description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
+Bebida Frugos Fresh Manzana Botella 500ml,S/ 1.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Bebida Frugos Fresh Manzana Botella,1.6,metro,MANZANA CORRIENTE
+Agua Socosani Saborizada Manzana Botella 500 ml,S/ 1.99,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Agua Socosani Saborizada Manzana Botella,1.99,metro,MANZANA CORRIENTE
+Bebida Con Gas San Luis Manzana Botella 625ml,S/ 2.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,625.0,ml,Bebida Con Gas San Luis Manzana Botella,2.2,metro,MANZANA CORRIENTE
+Gaseosa Fanta Beetlejuice Manzana Verde Botella 500ml,S/ 2.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Gaseosa Fanta Beetlejuice Manzana Verde Botella,2.7,metro,MANZANA CORRIENTE
+Marshmellows Mr. Mallo Manzanas Bolsa 100 g,S/ 2.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,100.0,g,Marshmellows Mr. Mallo Manzanas Bolsa,2.9,metro,MANZANA CORRIENTE
+Manzana Israel Añawi Metro x kg,S/ 3.39 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Israel Añawi Metro,3.39,metro,MANZANA CORRIENTE
+Manzana Rayada Metro x kg,S/ 3.59 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Rayada Metro,3.59,metro,MANZANA CORRIENTE
+"Bebida de Manzana, Aguaymanto y Carambola Bio Amayu Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Bebida de Manzana, Aguaymanto y Carambola Bio Amayu Botella",3.6,metro,MANZANA CORRIENTE
+"Jugo de Arándano, Uva y Manzana Bio Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Jugo de Arándano, Uva y Manzana Bio Botella",3.6,metro,MANZANA CORRIENTE
+Jugo de Manzana y Camu Camu Bio Botella 300ml,S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,Jugo de Manzana y Camu Camu Bio Botella,3.6,metro,MANZANA CORRIENTE
+"Bebida de Manzana, Aguaje y Cocona Bio Botella 300ml",S/ 3.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,300.0,ml,"Bebida de Manzana, Aguaje y Cocona Bio Botella",3.6,metro,MANZANA CORRIENTE
+Bebida de Manzana Frugos del Valle Caja 970ml,S/ 3.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,970.0,ml,Bebida de Manzana Frugos del Valle Caja,3.9,metro,MANZANA CORRIENTE
+Compota de Manzana Agú 113g,S/ 3.99,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota de Manzana Agú,3.99,metro,MANZANA CORRIENTE
+Compota Sabor Manzana Agú 113g,S/ 3.99,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota Sabor Manzana Agú,3.99,metro,MANZANA CORRIENTE
+Ambientador Glade en Gel bolsa Manzana Canela 30g,S/ 4.30,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,30.0,g,Ambientador Glade en Gel bolsa Manzana Canela,4.3,metro,MANZANA CORRIENTE
+Bebida de Manzana Naturale Botella 500 ml,S/ 4.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Bebida de Manzana Naturale Botella,4.6,metro,MANZANA CORRIENTE
+Puré de Frutas Orgánico Manzana y Mango AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Mango AMA Pouch,4.9,metro,MANZANA CORRIENTE
+Mermelada de Manzana y Canela Aconcagua 200g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,200.0,g,Mermelada de Manzana y Canela Aconcagua,4.9,metro,MANZANA CORRIENTE
+Puré de Frutas Orgánico Manzana y Plátano AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Plátano AMA Pouch,4.9,metro,MANZANA CORRIENTE
+Puré de Frutas Orgánico Manzana y Arándano AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana y Arándano AMA Pouch,4.9,metro,MANZANA CORRIENTE
+Puré de Frutas Orgánico Manzana AMA Pouch 90 g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Puré de Frutas Orgánico Manzana AMA Pouch,4.9,metro,MANZANA CORRIENTE
+Compota Smiley Kids Manzana + Plátano + Arándano 90g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Compota Smiley Kids Manzana + Plátano + Arándano,4.9,metro,MANZANA CORRIENTE
+Compota Smiley Kids Manzana y Ciruela 90g,S/ 4.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,90.0,g,Compota Smiley Kids Manzana y Ciruela,4.9,metro,MANZANA CORRIENTE
+Compota de Manzana Gerber 113g,S/ 5.10,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota de Manzana Gerber,5.1,metro,MANZANA CORRIENTE
+Puré de Manzana Cuisine & Co 250g,S/ 5.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,250.0,g,Puré de Manzana Cuisine & Co,5.2,metro,MANZANA CORRIENTE
+Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 5.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.5,l,Bebida de Manzana Frugos del Valle Caja,5.5,metro,MANZANA CORRIENTE
+Lavavajillas en Pasta Home Care Manzana 800g,S/ 5.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,g,Lavavajillas en Pasta Home Care Manzana,5.5,metro,MANZANA CORRIENTE
+Bebida de Manzana y Piña Golden Botella 485ml,S/ 5.79,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,485.0,ml,Bebida de Manzana y Piña Golden Botella,5.79,metro,MANZANA CORRIENTE
+Compota de Manzana Heinz Frasco 113 g,S/ 5.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,113.0,g,Compota de Manzana Heinz Frasco,5.8,metro,MANZANA CORRIENTE
+Avena Con Manzana Instantánea Santa Catalina Bolsa 150 g,S/ 5.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,150.0,g,Avena Con Manzana Instantánea Santa Catalina Bolsa,5.8,metro,MANZANA CORRIENTE
+Chilcano Piscano Manzana Botella 275 ml,S/ 5.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,ml,Chilcano Piscano Manzana Botella,5.9,metro,MANZANA CORRIENTE
+Jugo de Manzana Florida's Nature Lata 340ml,S/ 5.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,340.0,ml,Jugo de Manzana Florida's Nature Lata,5.9,metro,MANZANA CORRIENTE
+Avena Instantánea Cuisine & Co Manzana y Canela 45g,S/ 5.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,45.0,g,Avena Instantánea Cuisine & Co Manzana y Canela,5.9,metro,MANZANA CORRIENTE
+Manzana Delicia Kinder x kg,S/ 5.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Delicia Kinder,5.99,metro,MANZANA CORRIENTE
+Lavavajilla en Pasta Sapolio Manzana 800g,S/ 6.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,g,Lavavajilla en Pasta Sapolio Manzana,6.0,metro,MANZANA CORRIENTE
+Jugo de Fruta AMA Manzana Durazno Caja 200ml,S/ 6.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,200.0,ml,Jugo de Fruta AMA Manzana Durazno Caja,6.2,metro,MANZANA CORRIENTE
+Pera Packhams x kg,S/ 6.39 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Packhams,6.39,metro,MANZANA CORRIENTE
+Bebida Rehidratante Suerox Manzana Botella 630ml,S/ 6.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,630.0,ml,Bebida Rehidratante Suerox Manzana Botella,6.5,metro,MANZANA CORRIENTE
+Barras de Cereales Cereal Bar Manzana y Canela 12un,S/ 6.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,12.0,un,Barras de Cereales Cereal Bar Manzana y Canela,6.6,metro,MANZANA CORRIENTE
+Twopack Bebida de Manzana Frugos del Valle Caja 1L,S/ 7.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Twopack Bebida de Manzana Frugos del Valle Caja,7.5,metro,MANZANA CORRIENTE
+Puré de Manzana D'Marco Frasco 500g,S/ 7.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,g,Puré de Manzana D'Marco Frasco,7.6,metro,MANZANA CORRIENTE
+Ambientador Glade Aerosol Manzana Canela 275ml,S/ 7.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,ml,Ambientador Glade Aerosol Manzana Canela,7.7,metro,MANZANA CORRIENTE
+Bebida De Manzana Naturale Botella 1 Litro,S/ 7.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Bebida De Manzana Naturale Botella itro,7.9,metro,MANZANA CORRIENTE
+Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 7.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,235.0,ml,Sixpack Bebida de Manzana Frugos del Valle Caja,7.9,metro,MANZANA CORRIENTE
+Pera Canela Importada x kg,S/ 7.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Canela Importada,7.99,metro,MANZANA CORRIENTE
+Manzana Verde x kg,S/ 8.16 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Verde,8.16,metro,MANZANA CORRIENTE
+Manzana Roja x kg,S/ 8.19 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Roja,8.19,metro,MANZANA CORRIENTE
+Pera Americana D'Anjou x kg,S/ 8.49 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Pera Americana D'Anjou,8.49,metro,MANZANA CORRIENTE
+Puré de Manzana Cuisine & Co 500g,S/ 8.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,g,Puré de Manzana Cuisine & Co,8.5,metro,MANZANA CORRIENTE
+Manzanas Deshidratadas Wel-B 12g,S/ 8.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,12.0,g,Manzanas Deshidratadas Wel-B,8.7,metro,MANZANA CORRIENTE
+Puré con Manzana Exótico Casa Verde 370g,S/ 8.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,370.0,g,Puré con Manzana Exótico Casa Verde,8.9,metro,MANZANA CORRIENTE
+Manzana Americana Royal Gala x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Americana Royal Gala,8.99,metro,MANZANA CORRIENTE
+Manzana Fuji x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Fuji,8.99,metro,MANZANA CORRIENTE
+Manzana Royal Gala x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Royal Gala,8.99,metro,MANZANA CORRIENTE
+Manzana Pink Lady x kg,S/ 8.99 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Manzana Pink Lady,8.99,metro,MANZANA CORRIENTE
+Sixpack Bebida Frugos del Valle Fresh Manzana Botella 500ml,S/ 9.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Sixpack Bebida Frugos del Valle Fresh Manzana Botella,9.0,metro,MANZANA CORRIENTE
+Lavavajilla Líquida Sapolio Manzana Frasco 750 ml,S/ 9.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,750.0,ml,Lavavajilla Líquida Sapolio Manzana Frasco,9.5,metro,MANZANA CORRIENTE
+Snack de Manzana Deshidratada Snack Fruits 50g,S/ 9.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,50.0,g,Snack de Manzana Deshidratada Snack Fruits,9.6,metro,MANZANA CORRIENTE
+Galletas de Pie de Manzana Merba 225g,S/ 9.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,225.0,g,Galletas de Pie de Manzana Merba,9.9,metro,MANZANA CORRIENTE
+Twopack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 9.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.5,l,Twopack Bebida de Manzana Frugos del Valle Caja,9.9,metro,MANZANA CORRIENTE
+Puré de Manzana D'Marco Frasco 900 g,S/ 10.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,900.0,g,Puré de Manzana D'Marco Frasco,10.8,metro,MANZANA CORRIENTE
+Ambientador Glade Aerosol Manzana Canela 400ml,S/ 10.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,ml,Ambientador Glade Aerosol Manzana Canela,10.9,metro,MANZANA CORRIENTE
+Puré de Manzana Cuisine&Co Frasco 850 g,S/ 10.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,850.0,g,Puré de Manzana Cuisine&Co Frasco,10.9,metro,MANZANA CORRIENTE
+Aromatizador en Aerosol Glade Deleite de Manzana 400ml,S/ 11.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,ml,Aromatizador en Aerosol Glade Deleite de Manzana,11.5,metro,MANZANA CORRIENTE
+Vinagre de Manzana Frasco 500 ml,S/ 11.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Frasco,11.8,metro,MANZANA CORRIENTE
+Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,S/ 11.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,g,Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co,11.9,metro,MANZANA CORRIENTE
+Avena Instantánea Sabor Manzana y Canela Cuisine&Co Bolsa 380 g,S/ 11.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,380.0,g,Avena Instantánea Sabor Manzana y Canela Cuisine&Co Bolsa,11.9,metro,MANZANA CORRIENTE
+Membrillo x kg,S/ 12.14 x kg,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Membrillo,12.14,metro,MANZANA CORRIENTE
+Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana 970ml,S/ 12.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,970.0,ml,Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana,12.5,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana Orgánico De Nigris Botella 500 ml,S/ 12.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Sidra de Manzana Orgánico De Nigris Botella,12.9,metro,MANZANA CORRIENTE
+Sixpack Bebida con Gas San Luis Manzana Botella 625ml,S/ 13.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,625.0,ml,Sixpack Bebida con Gas San Luis Manzana Botella,13.2,metro,MANZANA CORRIENTE
+Sixpack Bebida con Gas San Luis Manzana Botella 625ml,S/ 13.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,625.0,ml,Sixpack Bebida con Gas San Luis Manzana Botella,13.2,metro,MANZANA CORRIENTE
+Vinagre de Manzana Perú Pride Botella 500 ml,S/ 13.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Perú Pride Botella,13.5,metro,MANZANA CORRIENTE
+Lavavajilla Líquida Sapolio Manzana 1.25 L,S/ 13.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.25,l,Lavavajilla Líquida Sapolio Manzana,13.9,metro,MANZANA CORRIENTE
+Galleta de Arroz Baby Mum-Mum Manzana Caja 50 gr,S/ 13.95,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,50.0,g,Galleta de Arroz Baby Mum-Mum Manzana Caja r,13.95,metro,MANZANA CORRIENTE
+"Granola Crosoy Manzana, Canela y Pecanas 380g",S/ 14.40,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,380.0,g,"Granola Crosoy Manzana, Canela y Pecanas",14.4,metro,MANZANA CORRIENTE
+Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja 235ml,S/ 14.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,235.0,ml,Pack x2 Sixpack Bebida de Manzana Frugos del Valle Caja,14.5,metro,MANZANA CORRIENTE
+Tripack Bebida de Manzana Frugos del Valle Caja 1.5L,S/ 14.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.5,l,Tripack Bebida de Manzana Frugos del Valle Caja,14.9,metro,MANZANA CORRIENTE
+Keke de Manzana con Canela 8 Porciones,S/ 15.12,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,8.0,un,Keke de Manzana con Canela,15.12,metro,MANZANA CORRIENTE
+Vinagre de Manzana Olivos Del Sur Botella 500 ml,S/ 15.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Olivos Del Sur Botella,15.2,metro,MANZANA CORRIENTE
+Jabón Líquido para Manos Palmolive Flor de Manzana & Gardenia 800ml,S/ 15.40,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,800.0,ml,Jabón Líquido para Manos Palmolive Flor de Manzana & Gardenia,15.4,metro,MANZANA CORRIENTE
+"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela 30g",S/ 15.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,30.0,g,"Sixpack Galletas +Nutri Co Quinua Manzana, Avena y Canela",15.6,metro,MANZANA CORRIENTE
+Puré de Manzana Cuisine & Co 1kg,S/ 15.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,kg,Puré de Manzana Cuisine & Co,15.9,metro,MANZANA CORRIENTE
+Snack Rice Puff Baby Mum Mum Manzana y Plátano 50g,S/ 15.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,50.0,g,Snack Rice Puff Baby Mum Mum Manzana y Plátano,15.9,metro,MANZANA CORRIENTE
+Jugo de Manzana Kedem Botella 1.89L,S/ 16.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.89,l,Jugo de Manzana Kedem Botella,16.9,metro,MANZANA CORRIENTE
+Lavavajillas Líquido Eco House Manzana 900ml,S/ 16.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,900.0,ml,Lavavajillas Líquido Eco House Manzana,16.9,metro,MANZANA CORRIENTE
+Jugo de Manzana Kedem Light Botella 1.89L,S/ 16.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.89,l,Jugo de Manzana Kedem Light Botella,16.9,metro,MANZANA CORRIENTE
+Ambientador Glade Toque Manzana Canela 2 repuestos 18gr,S/ 17.00,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,18.0,g,Ambientador Glade Toque Manzana Canela 2 repuestos r,17.0,metro,MANZANA CORRIENTE
+Vinagre de Manzana Kemal Kükrer 500ml,S/ 17.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Manzana Kemal Kükrer,17.9,metro,MANZANA CORRIENTE
+Lavavajillas Líquido La Oca Manzana Verde 1L,S/ 17.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Lavavajillas Líquido La Oca Manzana Verde,17.9,metro,MANZANA CORRIENTE
+Shampoo Head & Shoulders Manzana Fresh 375ml,S/ 18.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,375.0,ml,Shampoo Head & Shoulders Manzana Fresh,18.9,metro,MANZANA CORRIENTE
+Granola Dyfferent Sabor Manzana Canela 250g,S/ 18.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,250.0,g,Granola Dyfferent Sabor Manzana Canela,18.9,metro,MANZANA CORRIENTE
+Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana 2.3L,S/ 18.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,2.3,l,Suavizante de Telas Suavitel Cuidado Superior Frescura de Manzana,18.9,metro,MANZANA CORRIENTE
+Stick'n Notas Adhesivas con Hueco Manzana Pack 400 unid,S/ 19.70,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,un,Stick'n Notas Adhesivas con Hueco Manzana Pack,19.7,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana con Miel y Arándanos Botella 500 ml,S/ 19.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Sidra de Manzana con Miel y Arándanos Botella,19.9,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana De Nigris Botella 1 Lt,S/ 19.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Vinagre de Sidra de Manzana De Nigris Botella t,19.9,metro,MANZANA CORRIENTE
+Infusión de Manzana y Canela Nature's Heart 6un,S/ 20.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,6.0,un,Infusión de Manzana y Canela Nature's Heart,20.5,metro,MANZANA CORRIENTE
+Ambientador Glade Aceites Naturales Manzana Canela 1 repuesto 21ml,S/ 22.60,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,21.0,ml,Ambientador Glade Aceites Naturales Manzana Canela 1 repuesto,22.6,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana Orgánico Bragg Botella 473 ml,S/ 22.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,473.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,22.9,metro,MANZANA CORRIENTE
+Ambientador Glade en Vela Manzana y Canela 96g,S/ 24.10,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,96.0,g,Ambientador Glade en Vela Manzana y Canela,24.1,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella 500 ml,S/ 24.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,500.0,ml,Vinagre de Sidra de Manzana con Miel y Cúrcuma Botella,24.9,metro,MANZANA CORRIENTE
+Muesli con Manzana Kellogg's 275g,S/ 25.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,275.0,g,Muesli con Manzana Kellogg's,25.9,metro,MANZANA CORRIENTE
+Ambientador Glade en Gel Manzana Canela 2 repuestos 16g,S/ 28.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,16.0,g,Ambientador Glade en Gel Manzana Canela 2 repuestos,28.2,metro,MANZANA CORRIENTE
+Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto 21ml,S/ 29.10,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,21.0,ml,Ambientador Glade Aceites Naturales Manzana Canela + 1 repuesto,29.1,metro,MANZANA CORRIENTE
+Vinagre de Manzana Botella 1 Lt + 500 ml,S/ 29.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,1.0,l,Vinagre de Manzana Botella t +,29.5,metro,MANZANA CORRIENTE
+Shampoo Head & Shoulders Manzana Fresh 650ml,S/ 29.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,650.0,ml,Shampoo Head & Shoulders Manzana Fresh,29.9,metro,MANZANA CORRIENTE
+Strudel de Manzana 8 Porciones,S/ 32.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,8.0,un,Strudel de Manzana,32.9,metro,MANZANA CORRIENTE
+Ambientador Glade Aceites Naturales Manzana Canela 2 repuestos 42ml,S/ 33.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,42.0,ml,Ambientador Glade Aceites Naturales Manzana Canela 2 repuestos,33.9,metro,MANZANA CORRIENTE
+Silicona 400 ml Manzana,S/ 35.50,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,400.0,ml,Silicona  Manzana,35.5,metro,MANZANA CORRIENTE
+Ambientador Glade Automático en Aerosol Repuesto Manzana y Canela 175g,S/ 36.80,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,175.0,g,Ambientador Glade Automático en Aerosol Repuesto Manzana y Canela,36.8,metro,MANZANA CORRIENTE
+Vinagre de Sidra de Manzana Orgánico Bragg Botella 946 ml,S/ 38.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,946.0,ml,Vinagre de Sidra de Manzana Orgánico Bragg Botella,38.9,metro,MANZANA CORRIENTE
+Nopal Flax Manzana 454 g,S/ 40.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,454.0,g,Nopal Flax Manzana,40.2,metro,MANZANA CORRIENTE
+Licor de Crema de Manzana y Canela Burgos 750ml,S/ 44.90,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,750.0,ml,Licor de Crema de Manzana y Canela Burgos,44.9,metro,MANZANA CORRIENTE
+Ambientador Glade Aceites Naturales Manzana y Canela 3 repuestos 63ml,S/ 46.30,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,63.0,ml,Ambientador Glade Aceites Naturales Manzana y Canela 3 repuestos,46.3,metro,MANZANA CORRIENTE
+Ambientador Glade Automático en Aerosol Aparato Manzana y Canela 175g,S/ 52.20,metro,MANZANA CORRIENTE,2024-12-05 15:58:08.591480,175.0,g,Ambientador Glade Automático en Aerosol Aparato Manzana y Canela,52.2,metro,MANZANA CORRIENTE

@@ -1,25 +1,20 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Albahaca BELL'S FRESCOS Bolsa 80g,S/ 2.49,vivanda,ALBAHACA,2024-12-05 22:23:36.187162,80.0,g,Albahaca BELL'S FRESCOS Bolsa,2.49,vivanda,,BELL'S FRESCOS,ALBAHACA
 Albahaca BELL'S Bolsa 80g,S/ 2.49 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,80.0,g,Albahaca BELL'S Bolsa,2.49,plaza_vea,Bolsa 80g,,ALBAHACA
 Albahaca Hidropónica 80g,S/ 3.00,metro,ALBAHACA,2024-12-05 16:31:30.029414,80.0,g,Albahaca Hidropónica,3.0,metro,,,ALBAHACA
-Albahaca Hidropónica 80g,S/ 3.00,wong,ALBAHACA,2024-12-05 19:08:50.242042,80.0,g,Albahaca Hidropónica,3.0,wong,,,ALBAHACA
-Palitos con Albahaca y Parmesano EDITH Bolsa 5...,S/ 3.20 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,55.0,g,Palitos con Albahaca y Parmesano EDITH Bolsa 5,3.2,plaza_vea,Bolsa 55g,,ALBAHACA
 Palitos con Albahaca Edith 55g,S/ 3.30,metro,ALBAHACA,2024-12-05 16:31:30.029414,55.0,g,Palitos con Albahaca Edith,3.3,metro,,,ALBAHACA
+Concentrado de Espinaca y Albahaca Pomarola 110g,S/ 3.50,metro,ALBAHACA,2024-12-05 16:31:30.029414,110.0,g,Concentrado de Espinaca y Albahaca Pomarola,3.5,metro,,,ALBAHACA
 Albahaca Ecologic 120g,S/ 4.80,metro,ALBAHACA,2024-12-05 16:31:30.029414,120.0,g,Albahaca Ecologic,4.8,metro,,,ALBAHACA
-Albahaca Ecologic 120g,S/ 4.80,wong,ALBAHACA,2024-12-05 19:08:50.242042,120.0,g,Albahaca Ecologic,4.8,wong,,,ALBAHACA
 Albahaca Deshojada BELL'S FRESCOS 120g,S/ 4.99 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,120.0,g,Albahaca Deshojada BELL'S FRESCOS,4.99,plaza_vea,Bolsa 120gun,,ALBAHACA
+Fideos Spaguetti SANTA CATALINA Mediterráneo E...,S/ 5.30 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,400.0,g,Fideos Spaguetti SANTA CATALINA Mediterráneo E,5.3,plaza_vea,Bolsa 400g,,ALBAHACA
 Fideos SANTA CATALINA Espinaca y albahaca Bolsa 400Gr,S/ 5.30,vivanda,ALBAHACA,2024-12-05 22:23:36.187162,400.0,g,Fideos SANTA CATALINA Espinaca y albahaca Bolsa r,5.3,vivanda,,SANTA CATALINA,ALBAHACA
 Albahaca Fresca Verde Puro 120g,S/ 5.50,metro,ALBAHACA,2024-12-05 16:31:30.029414,120.0,g,Albahaca Fresca Verde Puro,5.5,metro,,,ALBAHACA
-Albahaca Morada La Huerta 160g,S/ 6.19,wong,ALBAHACA,2024-12-05 19:08:50.242042,160.0,g,Albahaca Morada La Huerta,6.19,wong,,,ALBAHACA
 Albahaca Fresca VERDE PURO Bolsa 120g,S/ 7.29 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,120.0,g,Albahaca Fresca VERDE PURO Bolsa,7.29,plaza_vea,Bolsa 120g,,ALBAHACA
-Papas Fritas INKA CHIPS Tomate Albahaca y Oliva Bolsa 115g,S/ 7.80,vega,ALBAHACA,2024-12-05 13:11:39.104449,115.0,g,Papas Fritas INKA CHIPS Tomate Albahaca y Oliva Bolsa,7.8,vega,,INKA CHIPS,ALBAHACA
-Papas onduladas con tomate albahaca y aceite de oliva de 115 g,S/ 8.50,tottus,ALBAHACA,2024-12-05 12:32:52.632906,115.0,g,Papas onduladas con tomate albahaca y aceite de oliva de,8.5,tottus,,INKA CHIPS,ALBAHACA
-Palitos Tomate y Albahaca Sannissimo 90 g,S/ 8.90,tottus,ALBAHACA,2024-12-05 12:32:52.632906,90.0,g,Palitos Tomate y Albahaca Sannissimo,8.9,tottus,,SANISSIMO,ALBAHACA
-Albahaca BADIA Frasco 21.3g,S/ 9.70 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,21.3,g,Albahaca BADIA Frasco,9.7,plaza_vea,Frasco 21.3g,,ALBAHACA
+"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva 115g",S/ 8.10,metro,ALBAHACA,2024-12-05 16:31:30.029414,115.0,g,"Papa en Hojuelas Inka Chips Tomate, Albahaca y Oliva",8.1,metro,,,ALBAHACA
 Albahaca BADIA Frasco 21.3g,S/ 9.70,vivanda,ALBAHACA,2024-12-05 22:23:36.187162,21.3,g,Albahaca BADIA Frasco,9.7,vivanda,,BADIA,ALBAHACA
+Albahaca BADIA Frasco 21.3g,S/ 9.70 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,21.3,g,Albahaca BADIA Frasco,9.7,plaza_vea,Frasco 21.3g,,ALBAHACA
 Nachos Horneados Sanissimo Sabor Tomate y Albahaca 160g,S/ 9.90,metro,ALBAHACA,2024-12-05 16:31:30.029414,160.0,g,Nachos Horneados Sanissimo Sabor Tomate y Albahaca,9.9,metro,,,ALBAHACA
 Nachos SANISSIMO Sabor Albahaca y Tomate Bolsa...,S/ 12.30 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,160.0,g,Nachos SANISSIMO Sabor Albahaca y Tomate Bolsa,12.3,plaza_vea,Bolsa 160g,,ALBAHACA
+Polpa de Tomate MUTTI con Albahaca Frasco 700g,S/ 19.90 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,700.0,g,Polpa de Tomate MUTTI con Albahaca Frasco,19.9,plaza_vea,Frasco 700g,,ALBAHACA
 Pesto de Albahaca BARILLA Frasco 190g,S/ 22.90 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,190.0,g,Pesto de Albahaca BARILLA Frasco,22.9,plaza_vea,Frasco 190g,,ALBAHACA
 Aceite de Palta Sabor a Albahaca OLIVOS DEL SU...,S/ 37.90 un,plaza_vea,ALBAHACA,2024-12-05 15:49:08.538880,250.0,ml,Aceite de Palta Sabor a Albahaca OLIVOS DEL SU,37.9,plaza_vea,Botella 250ml,,ALBAHACA
 Aceite de Palta Sabor a Albahaca OLIVOS DEL SUR Botella 250ml,S/ 48.40,vivanda,ALBAHACA,2024-12-05 22:23:36.187162,250.0,ml,Aceite de Palta Sabor a Albahaca OLIVOS DEL SUR Botella,48.4,vivanda,,OLIVOS DEL SUR,ALBAHACA
-Aceite Esencial Hana Albahaca 10ml,S/ 57.00,wong,ALBAHACA,2024-12-05 19:08:50.242042,10.0,ml,Aceite Esencial Hana Albahaca,57.0,wong,,,ALBAHACA

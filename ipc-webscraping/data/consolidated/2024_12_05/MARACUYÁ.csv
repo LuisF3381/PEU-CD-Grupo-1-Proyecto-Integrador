@@ -1,155 +1,128 @@
 description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
 Granadilla Oxapampa x unidad,S/ 0.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,1.0,un,Granadilla Oxapampa ad,0.9,plaza_vea,Paquete 1un,,MARACUYÁ
-Refresco UMSHA Maracuyá Bolsa 13g,S/ 1.00,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,13.0,g,Refresco UMSHA Maracuyá Bolsa,1.0,vivanda,,UMSHA,MARACUYÁ
 Jugo en polvo sabor a maracuyá sobre de 15 g,S/ 1.20,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,15.0,g,Jugo en polvo sabor a maracuyá sobre de,1.2,tottus,,ZUKO,MARACUYÁ
 Refresco Instantáneo Sabor Maracuyá Sobre 15 g,S/ 1.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,15.0,g,Refresco Instantáneo Sabor Maracuyá Sobre,1.2,wong,,,MARACUYÁ
-Refresco UMSHA Frutísimos Maracuyá Bolsa 20g,S/ 1.30,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,20.0,g,Refresco UMSHA Frutísimos Maracuyá Bolsa,1.3,vivanda,,UMSHA,MARACUYÁ
+Refresco Instantáneo Sabor Maracuyá Sobre 15 g,S/ 1.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,15.0,g,Refresco Instantáneo Sabor Maracuyá Sobre,1.2,metro,,,MARACUYÁ
+Refresco Instantáneo Umsha Frutísimos Sabor Maracuyá 20g,S/ 1.60,metro,MARACUYÁ,2024-12-05 15:54:43.103743,20.0,g,Refresco Instantáneo Umsha Frutísimos Sabor Maracuyá,1.6,metro,,,MARACUYÁ
+Yogurt Gloria Slim Sabor Maracuyá 120g,S/ 1.60,metro,MARACUYÁ,2024-12-05 15:54:43.103743,120.0,g,Yogurt Gloria Slim Sabor Maracuyá,1.6,metro,,,MARACUYÁ
+Refresco Instantáneo Umsha Frutísimos Sabor Maracuyá 20g,S/ 1.60,wong,MARACUYÁ,2024-12-05 18:27:56.405023,20.0,g,Refresco Instantáneo Umsha Frutísimos Sabor Maracuyá,1.6,wong,,,MARACUYÁ
 Yogurt Gloria Slim Sabor Maracuyá 120g,S/ 2.00,wong,MARACUYÁ,2024-12-05 18:27:56.405023,120.0,g,Yogurt Gloria Slim Sabor Maracuyá,2.0,wong,,,MARACUYÁ
-Yogurt GLORIA Slim Sabor a Maracuyá Vaso 120g,S/ 2.00,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,120.0,g,Yogurt GLORIA Slim Sabor a Maracuyá Vaso,2.0,vivanda,,GLORIA,MARACUYÁ
-Bebida Con Gas San Luis Maracuyá Botella 625ml,S/ 2.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,625.0,ml,Bebida Con Gas San Luis Maracuyá Botella,2.2,wong,,,MARACUYÁ
-Agua con Gas SAN LUIS Sabor a Maracuyá Botella 625ml,S/ 2.20,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,625.0,ml,Agua con Gas SAN LUIS Sabor a Maracuyá Botella,2.2,vivanda,,SAN LUIS,MARACUYÁ
+Yogurt Gloria Griego Sabor Maracuyá 120g,S/ 2.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,120.0,g,Yogurt Gloria Griego Sabor Maracuyá,2.2,metro,,,MARACUYÁ
+BEBIDA CON GAS MARACUYA BOT X 625ML,S/ 2.20,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,625.0,ml,BEBIDA CON GAS MARACUYA BOT X,2.2,tottus,,SAN LUIS,MARACUYÁ
 Yogurt Gloria Griego Sabor Maracuyá 120g,S/ 2.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,120.0,g,Yogurt Gloria Griego Sabor Maracuyá,2.2,wong,,,MARACUYÁ
-Yogurt Batido GLORIA Griego Sabor Maracuyá Vaso 120g,S/ 2.20,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,120.0,g,Yogurt Batido GLORIA Griego Sabor Maracuyá Vaso,2.2,vivanda,,GLORIA,MARACUYÁ
 Bebida Rehidratante Powerade Maracuyá Botella 600ml,S/ 2.40,metro,MARACUYÁ,2024-12-05 15:54:43.103743,600.0,ml,Bebida Rehidratante Powerade Maracuyá Botella,2.4,metro,,,MARACUYÁ
-REHIDRATANTE MARACUYA BOTELLA X 600ML,S/ 2.40,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,600.0,ml,REHIDRATANTE MARACUYA BOTELLA X,2.4,tottus,,POWERADE,MARACUYÁ
-Bebida Rehidratante POWERADE Maracuyá Botella 600ml,S/ 2.40,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,600.0,ml,Bebida Rehidratante POWERADE Maracuyá Botella,2.4,vivanda,,POWERADE,MARACUYÁ
 Bebida Rehidratante Powerade Maracuyá Botella 600ml,S/ 2.40,wong,MARACUYÁ,2024-12-05 18:27:56.405023,600.0,ml,Bebida Rehidratante Powerade Maracuyá Botella,2.4,wong,,,MARACUYÁ
+Té negro de mango maracuyá Huerto del Edén 25 unidades,S/ 2.70,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,25.0,un,Té negro de mango maracuyá Huerto del Edén ades,2.7,tottus,,HUERTO DEL EDEN,MARACUYÁ
 Bebida de Maracuyá Gloria Caja 1L,S/ 3.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.0,l,Bebida de Maracuyá Gloria Caja,3.9,metro,,,MARACUYÁ
-Bebida GLORIA Maracuya Caja 1L,S/ 4.00,vega,MARACUYÁ,2024-12-05 12:31:32.818540,1.0,l,Bebida GLORIA Maracuya Caja,4.0,vega,,Gloria,MARACUYÁ
+Bebida de Maracuyá Gloria Caja 1L,S/ 3.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,l,Bebida de Maracuyá Gloria Caja,3.9,wong,,,MARACUYÁ
 Bebida sabor mango maracuyá y camu camu de 475 mL,S/ 4.40,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,475.0,ml,Bebida sabor mango maracuyá y camu camu de,4.4,tottus,,KERO,MARACUYÁ
-Bebida GLORIA Maracuyá Caja 1L,S/ 4.40,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,1.0,l,Bebida GLORIA Maracuyá Caja,4.4,vivanda,,GLORIA,MARACUYÁ
-Jugo de Fruta NATURALE Maracuyá Botella 500ml,S/ 4.80,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,500.0,ml,Jugo de Fruta NATURALE Maracuyá Botella,4.8,vivanda,,NATURALE,MARACUYÁ
-Vodka de Maracuyá Salvaje 355 mL,S/ 4.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,355.0,ml,Vodka de Maracuyá Salvaje,4.9,tottus,,RUSS KAYA,MARACUYÁ
-Bebida Naturale Maracuyá Botella 500ml,S/ 4.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,500.0,ml,Bebida Naturale Maracuyá Botella,4.9,metro,,,MARACUYÁ
-Bebida Naturale Maracuyá Botella 500ml,S/ 4.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,500.0,ml,Bebida Naturale Maracuyá Botella,4.9,wong,,,MARACUYÁ
+Bebida Sabor Maracuyá 500 ml - ENVASE 500 ML,S/ 4.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,500.0,ml,Bebida Sabor Maracuyá  - ENVASE,4.5,tottus,,NATURALE,MARACUYÁ
+Ready To Drink (RTD) WASSKA HAPPY Maracuyá Pun...,S/ 4.99 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,355.0,ml,Ready To Drink (RTD) WASSKA HAPPY Maracuyá Pun,4.99,plaza_vea,Lata 355ml,,MARACUYÁ
 Chocolate Relleno con Jalea de Maracuyá Britt 28g,S/ 4.99,wong,MARACUYÁ,2024-12-05 18:27:56.405023,28.0,g,Chocolate Relleno con Jalea de Maracuyá Britt,4.99,wong,,,MARACUYÁ
-HELADO FRIO RICO PALETA MARACUYA ANCASH X93ML,S/ 5,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,93.0,ml,HELADO FRIO RICO PALETA MARACUYA ANCASH X,5.0,tottus,,D'ONOFRIO,MARACUYÁ
 BEBIDA MANGO MARACUYA 400ML,S/ 5.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,400.0,ml,BEBIDA MANGO MARACUYA,5.5,tottus,,FRUMAS,MARACUYÁ
 Bebida sabor piña y maracuyá de 400 mL,S/ 5.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,400.0,ml,Bebida sabor piña y maracuyá de,5.5,tottus,,FRUMAS,MARACUYÁ
 Yogurt Bebible Oquendo Sabor Mandarina - Maracuyá Bolsa 946ml,S/ 5.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,946.0,ml,Yogurt Bebible Oquendo Sabor Mandarina - Maracuyá Bolsa,5.5,metro,,,MARACUYÁ
-Jugo de Fruta KERO Mango y Maracuyá Botella 475ml,S/ 5.70,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,475.0,ml,Jugo de Fruta KERO Mango y Maracuyá Botella,5.7,vivanda,,KERO,MARACUYÁ
-Bebida FRU + Mango Maracuyá Botella 400ml,S/ 5.70,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,400.0,ml,Bebida FRU + Mango Maracuyá Botella,5.7,vivanda,,FRU +,MARACUYÁ
 "Jugo de Mango, Maracuyá y Camu Camu Kero Botella 475 ml",S/ 5.80,metro,MARACUYÁ,2024-12-05 15:54:43.103743,475.0,ml,"Jugo de Mango, Maracuyá y Camu Camu Kero Botella",5.8,metro,,,MARACUYÁ
-Bebida Chilcano de Pisco Piscano Maracuyá Botella 275ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,275.0,ml,Bebida Chilcano de Pisco Piscano Maracuyá Botella,5.9,wong,,,MARACUYÁ
-Bebida de Piña y Maracuyá Frumas Botella 400 ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,400.0,ml,Bebida de Piña y Maracuyá Frumas Botella,5.9,wong,,,MARACUYÁ
-Ready To Drink (RTD) PISCANO Chilcano Maracuyá...,S/ 5.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,355.0,ml,Ready To Drink (RTD) PISCANO Chilcano Maracuyá,5.9,plaza_vea,Lata 355ml,,MARACUYÁ
+Tuna Roja,S/ 5.88 x kg,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,0.25,kg,Tuna Roja,5.88,plaza_vea,Presentación 0.25 kg aprox.,,MARACUYÁ
 Bebida de Mango y Maracuyá Frumas Botella 400 ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,400.0,ml,Bebida de Mango y Maracuyá Frumas Botella,5.9,metro,,,MARACUYÁ
-Chilcano TABERNERO BAR Maracuyá Botella 275 ml,S/ 5.90 16%,vega,MARACUYÁ,2024-12-05 12:31:32.818540,275.0,ml,Chilcano TABERNERO BAR Maracuyá Botella,5.9,vega,,Tabernero,MARACUYÁ
-Bebida Ready to Drink Chilcano Bar Maracuyá Botella 275ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Ready to Drink Chilcano Bar Maracuyá Botella,5.9,metro,,,MARACUYÁ
-Bebida de Mango y Maracuyá Frumas Botella 400 ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,400.0,ml,Bebida de Mango y Maracuyá Frumas Botella,5.9,wong,,,MARACUYÁ
-Bebida Ready to Drink Chilcano Sabor Maracuyá Piscano Zero Botella 275ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Ready to Drink Chilcano Sabor Maracuyá Piscano Zero Botella,5.9,metro,,,MARACUYÁ
+"Jugo de Mango, Maracuyá y Camu Camu Kero Botella 475 ml",S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,475.0,ml,"Jugo de Mango, Maracuyá y Camu Camu Kero Botella",5.9,wong,,,MARACUYÁ
+Ready To Drink (RTD) PISCANO Chilcano Maracuyá...,S/ 5.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,355.0,ml,Ready To Drink (RTD) PISCANO Chilcano Maracuyá,5.9,plaza_vea,Lata 355ml,,MARACUYÁ
+Bebida Chilcano de Pisco Piscano Maracuyá Botella 275ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,275.0,ml,Bebida Chilcano de Pisco Piscano Maracuyá Botella,5.9,wong,,,MARACUYÁ
 Bebida de Piña y Maracuyá Frumas Botella 400 ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,400.0,ml,Bebida de Piña y Maracuyá Frumas Botella,5.9,metro,,,MARACUYÁ
+Bebida Ready to Drink Chilcano Bar Maracuyá Botella 275ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Ready to Drink Chilcano Bar Maracuyá Botella,5.9,metro,,,MARACUYÁ
+Bebida Ready to Drink Chilcano Sabor Maracuyá Piscano Zero Botella 275ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Ready to Drink Chilcano Sabor Maracuyá Piscano Zero Botella,5.9,metro,,,MARACUYÁ
+Bebida de Piña y Maracuyá Frumas Botella 400 ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,400.0,ml,Bebida de Piña y Maracuyá Frumas Botella,5.9,wong,,,MARACUYÁ
+Bebida Chilcano de Pisco Piscano Maracuyá Botella 275ml,S/ 5.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Chilcano de Pisco Piscano Maracuyá Botella,5.9,metro,,,MARACUYÁ
+Bebida de Mango y Maracuyá Frumas Botella 400 ml,S/ 5.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,400.0,ml,Bebida de Mango y Maracuyá Frumas Botella,5.9,wong,,,MARACUYÁ
+Ready To Drink (RTD) PISCANO Chilcano Maracuyá...,S/ 5.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,275.0,ml,Ready To Drink (RTD) PISCANO Chilcano Maracuyá,5.9,plaza_vea,Botella 275ml,,MARACUYÁ
+Yogurt Bebible Gloria Slim Maracuyá Botella 1kg,S/ 5.99,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,kg,Yogurt Bebible Gloria Slim Maracuyá Botella,5.99,wong,,,MARACUYÁ
 Yogurt Bebible Gloria Slim Maracuyá Botella 1kg,S/ 5.99,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.0,kg,Yogurt Bebible Gloria Slim Maracuyá Botella,5.99,metro,,,MARACUYÁ
 Maracuyá 275 mL,S/ 6.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,275.0,ml,Maracuyá,6.5,tottus,,PISCANO,MARACUYÁ
-Chilcano TABERNERO Maracuyá Botella 275ml,S/ 6.50,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,275.0,ml,Chilcano TABERNERO Maracuyá Botella,6.5,vivanda,,TABERNERO,MARACUYÁ
+Maracuyá 275 mL,S/ 6.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,275.0,ml,Maracuyá,6.5,tottus,,PISCANO,MARACUYÁ
 Chilcano Bar Maracuyá 275 mL,S/ 6.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,275.0,ml,Chilcano Bar Maracuyá,6.5,tottus,,TABERNERO,MARACUYÁ
-Yogurt Gloria Griego Sabor Maracuyá 800g,S/ 6.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,800.0,g,Yogurt Gloria Griego Sabor Maracuyá,6.9,wong,,,MARACUYÁ
+Ready To Drink (RTD) CHILCANO BAR Tabernero Ma...,S/ 6.50 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,275.0,ml,Ready To Drink (RTD) CHILCANO BAR Tabernero Ma,6.5,plaza_vea,Botella 275ml,,MARACUYÁ
 Yogurt Gloria Griego Sabor Maracuyá 800g,S/ 6.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,800.0,g,Yogurt Gloria Griego Sabor Maracuyá,6.9,metro,,,MARACUYÁ
+Bebida Chilcano de Pisco Piscano Maracuyá Lata 473ml,S/ 6.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,473.0,ml,Bebida Chilcano de Pisco Piscano Maracuyá Lata,6.9,metro,,,MARACUYÁ
+Bebida Ready to Drink Wasska Happy Punch Maracuyá Lata 355ml,S/ 6.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Bebida Ready to Drink Wasska Happy Punch Maracuyá Lata,6.9,metro,,,MARACUYÁ
+Mix para Pisco Sour de Maracuyá sobre de 125 g,S/ 6.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,125.0,g,Mix para Pisco Sour de Maracuyá sobre de,6.9,tottus,,3 2 1 SOUR,MARACUYÁ
 Bebida Ready to Drink Wasska Happy Punch Maracuyá Lata 355ml,S/ 6.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Bebida Ready to Drink Wasska Happy Punch Maracuyá Lata,6.9,wong,,,MARACUYÁ
-Yogurt GLORIA Slim Triple Zero Sabor a Maracuyá Botella 1Kg,S/ 7.00,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,1.0,kg,Yogurt GLORIA Slim Triple Zero Sabor a Maracuyá Botella,7.0,vivanda,,GLORIA,MARACUYÁ
-Tripack Jabón de Glicerina Family Care Maracuyá 100g,S/ 7.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,100.0,g,Tripack Jabón de Glicerina Family Care Maracuyá,7.5,metro,,,MARACUYÁ
-Bebida Ready to Drink Chilcano Bar Maracuyá Lata 310ml,S/ 7.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,310.0,ml,Bebida Ready to Drink Chilcano Bar Maracuyá Lata,7.5,metro,,,MARACUYÁ
+Bebida Ready to Drink Chilcano Bar Maracuyá Lata 310ml,S/ 7.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,310.0,ml,Bebida Ready to Drink Chilcano Bar Maracuyá Lata,7.5,wong,,,MARACUYÁ
 Acondicionador Amarás Reparación Divina 260 mL,S/ 7.63,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,260.0,ml,Acondicionador Amarás Reparación Divina,7.63,tottus,,AMARAS,MARACUYÁ
 Maracuyá Metro x kg,S/ 7.79 x kg,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.0,kg,Maracuyá Metro,7.79,metro,,,MARACUYÁ
-Maracuyá,S/ 7.79 x kg,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,0.5,kg,Maracuyá,7.79,plaza_vea,Presentación 0.5 kg aprox.,,MARACUYÁ
-Tripack Jabón de Glicerina Family Care Maracuyá 100g,S/ 7.80,wong,MARACUYÁ,2024-12-05 18:27:56.405023,100.0,g,Tripack Jabón de Glicerina Family Care Maracuyá,7.8,wong,,,MARACUYÁ
-Paleta de Helado Cuisine & Co Mango Maracuyá 108g,S/ 7.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,108.0,g,Paleta de Helado Cuisine & Co Mango Maracuyá,7.9,metro,,,MARACUYÁ
-Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata 355ml,S/ 7.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata,7.9,metro,,,MARACUYÁ
-Paleta de Helado Cuisine & Co Mango Maracuyá 108g,S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,108.0,g,Paleta de Helado Cuisine & Co Mango Maracuyá,7.9,wong,,,MARACUYÁ
-"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 475ml",S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,475.0,ml,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",7.9,wong,,,MARACUYÁ
-Paleta de Helado Cuisine & Co Cheesecake Maracuyá 108g,S/ 7.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,108.0,g,Paleta de Helado Cuisine & Co Cheesecake Maracuyá,7.9,metro,,,MARACUYÁ
 Paleta de Helado Cuisine & Co Cheesecake Maracuyá 108g,S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,108.0,g,Paleta de Helado Cuisine & Co Cheesecake Maracuyá,7.9,wong,,,MARACUYÁ
-Chupetes BOM BOM BUM con Chicle sabor Maracuyá Bolsa 456g,S/ 8.00,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,456.0,g,Chupetes BOM BOM BUM con Chicle sabor Maracuyá Bolsa,8.0,vivanda,,BON BON,MARACUYÁ
-Chupetín Globo Pop Sabor Maracuyá 24un,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,24.0,un,Chupetín Globo Pop Sabor Maracuyá,8.0,metro,,,MARACUYÁ
-Ready To Drink (RTD) PORTON Chilcano de Maracu...,S/ 8 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,355.0,ml,Ready To Drink (RTD) PORTON Chilcano de Maracu,8.0,plaza_vea,Lata 355ml,,MARACUYÁ
-Chupetines Maracuyá 456 g,S/ 8,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,456.0,g,Chupetines Maracuyá,8.0,tottus,,BON BON BUM,MARACUYÁ
-Chupete Globo Pop Maracuyá 25un,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,25.0,un,Chupete Globo Pop Maracuyá,8.0,metro,,,MARACUYÁ
-Chilcano de Maracuyá PORTÓN Lata 355ml,S/ 8.00,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,355.0,ml,Chilcano de Maracuyá PORTÓN Lata,8.0,vivanda,,PORTON,MARACUYÁ
+Paleta de Helado Cuisine & Co Mango Maracuyá 108g,S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,108.0,g,Paleta de Helado Cuisine & Co Mango Maracuyá,7.9,wong,,,MARACUYÁ
+Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata 355ml,S/ 7.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata,7.9,metro,,,MARACUYÁ
+Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata 355ml,S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Cerveza Artesanal Candelaria Sunset Maracuyá & Sal de Maras Lata,7.9,wong,,,MARACUYÁ
+"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 475ml",S/ 7.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,475.0,ml,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",7.9,wong,,,MARACUYÁ
+Maracuyá x kg,S/ 7.99 x kg,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,kg,Maracuyá,7.99,wong,,,MARACUYÁ
 Chupete Maracuya 432 g,S/ 8,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,432.0,g,Chupete Maracuya,8.0,tottus,,GLOBO POP,MARACUYÁ
-Bebida Ready to Drink Portón Chilcano Sabor Maracuyá Lata 355ml,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Bebida Ready to Drink Portón Chilcano Sabor Maracuyá Lata,8.0,metro,,,MARACUYÁ
+Chupetín Globo Pop Sabor Maracuyá 24un,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,24.0,un,Chupetín Globo Pop Sabor Maracuyá,8.0,metro,,,MARACUYÁ
+Chupetes Bon Bon Bum Maracuyá 24un,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,24.0,un,Chupetes Bon Bon Bum Maracuyá,8.0,metro,,,MARACUYÁ
+Chupete Globo Pop Maracuyá 25un,S/ 8.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,25.0,un,Chupete Globo Pop Maracuyá,8.0,metro,,,MARACUYÁ
+Bebida Ready to Drink Portón Chilcano Sabor Maracuyá Lata 355ml,S/ 8.00,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Bebida Ready to Drink Portón Chilcano Sabor Maracuyá Lata,8.0,wong,,,MARACUYÁ
 Chupetín Globo Pop Sabor Maracuyá 24un,S/ 8.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,24.0,un,Chupetín Globo Pop Sabor Maracuyá,8.2,wong,,,MARACUYÁ
-Chilcano Pisco Portón Maracuyá 355 mL,S/ 8.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,355.0,ml,Chilcano Pisco Portón Maracuyá,8.5,tottus,,PORTON,MARACUYÁ
-Chupetin Colorado Maracuyá 425g,S/ 8.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,425.0,g,Chupetin Colorado Maracuyá,8.5,wong,,,MARACUYÁ
+Chupetes Bon Bon Bum Maracuyá 24un,S/ 8.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,24.0,un,Chupetes Bon Bon Bum Maracuyá,8.2,wong,,,MARACUYÁ
 Bebida Ready to Drink MF Spirit Maracuyá Botella 275ml,S/ 8.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,275.0,ml,Bebida Ready to Drink MF Spirit Maracuyá Botella,8.5,metro,,,MARACUYÁ
+Chilcano Pisco Portón Maracuyá 355 mL,S/ 8.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,355.0,ml,Chilcano Pisco Portón Maracuyá,8.5,tottus,,PORTON,MARACUYÁ
 Chupetin Colorado Maracuyá 425g,S/ 8.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,425.0,g,Chupetin Colorado Maracuyá,8.5,metro,,,MARACUYÁ
-Sour WASSKA Maracuyá Caja 125g,S/ 8.90,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,125.0,g,Sour WASSKA Maracuyá Caja,8.9,vivanda,,WASSKA,MARACUYÁ
-Mix Para Hacer Pisco Sour WASSKA Maracuyá Sobr...,S/ 8.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,125.0,g,Mix Para Hacer Pisco Sour WASSKA Maracuyá Sobr,8.9,plaza_vea,Caja 125g,,MARACUYÁ
-REFRESCO DE MARACUYA 1L,S/ 8.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,1.0,l,REFRESCO DE MARACUYA,8.9,tottus,,NATURALE,MARACUYÁ
+Chupetin Colorado Maracuyá 425g,S/ 8.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,425.0,g,Chupetin Colorado Maracuyá,8.5,wong,,,MARACUYÁ
 Six Pack de Paletas Helado Frutado de Maracuyá 6 unidades,S/ 8.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,6.0,un,Six Pack de Paletas Helado Frutado de Maracuyá ades,8.9,tottus,,TOTTUS,MARACUYÁ
-Bebida De Maracuya Naturale Botella 1 Litro,S/ 8.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.0,l,Bebida De Maracuya Naturale Botella itro,8.9,metro,,,MARACUYÁ
-Bebida De Maracuya Naturale Botella 1 Litro,S/ 8.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,l,Bebida De Maracuya Naturale Botella itro,8.9,wong,,,MARACUYÁ
 Base para Maracuyá Sour Wasska 125g,S/ 8.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,125.0,g,Base para Maracuyá Sour Wasska,8.9,metro,,,MARACUYÁ
-Yogurt Bebible Gloria Slim Maracuyá Galonera 1.7kg,S/ 9.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.7,kg,Yogurt Bebible Gloria Slim Maracuyá Galonera,9.2,metro,,,MARACUYÁ
+Miel para Pisco Sour Maracuyá 125 g,S/ 8.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,125.0,g,Miel para Pisco Sour Maracuyá,8.9,tottus,,WASSKA,MARACUYÁ
+Mix Para Hacer Pisco Sour WASSKA Maracuyá Sobr...,S/ 8.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,125.0,g,Mix Para Hacer Pisco Sour WASSKA Maracuyá Sobr,8.9,plaza_vea,Caja 125g,,MARACUYÁ
 Yogurt Bebible Gloria Slim Maracuyá Galonera 1.7kg,S/ 9.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.7,kg,Yogurt Bebible Gloria Slim Maracuyá Galonera,9.2,wong,,,MARACUYÁ
+Yogurt Bebible Gloria Slim Maracuyá Galonera 1.7kg,S/ 9.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.7,kg,Yogurt Bebible Gloria Slim Maracuyá Galonera,9.2,metro,,,MARACUYÁ
 Base para Maracuyá Sour Wasska 125g,S/ 9.40,wong,MARACUYÁ,2024-12-05 18:27:56.405023,125.0,g,Base para Maracuyá Sour Wasska,9.4,wong,,,MARACUYÁ
-Paleta de Helado de Yogurt Berries del Perú Aguaymanto y Maracuyá 80g,S/ 9.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,80.0,g,Paleta de Helado de Yogurt Berries del Perú Aguaymanto y Maracuyá,9.9,wong,,,MARACUYÁ
-Paleta de Helado Sanúa Maracuyá Mango 70g,S/ 9.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,70.0,g,Paleta de Helado Sanúa Maracuyá Mango,9.9,wong,,,MARACUYÁ
-Yogurt Batido Laive Griego Sabor Mango Maracuyá 800g,S/ 9.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,800.0,g,Yogurt Batido Laive Griego Sabor Mango Maracuyá,9.9,wong,,,MARACUYÁ
-Helado Momenti Sorbetto Pitahaya & Maracuyá 120ml,S/ 9.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,120.0,ml,Helado Momenti Sorbetto Pitahaya & Maracuyá,9.9,metro,,,MARACUYÁ
+Triple Zero Yogurt Maracuya 1.7Kg,S/ 9.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,1.7,kg,Triple Zero Yogurt Maracuya,9.5,tottus,,GLORIA,MARACUYÁ
+Yogurt Batido Laive Griego Sabor Mango Maracuyá 800g,S/ 9.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,800.0,g,Yogurt Batido Laive Griego Sabor Mango Maracuyá,9.9,metro,,,MARACUYÁ
 Helado Momenti Sorbetto Pitahaya & Maracuyá 120ml,S/ 9.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,120.0,ml,Helado Momenti Sorbetto Pitahaya & Maracuyá,9.9,wong,,,MARACUYÁ
+Paleta de Helado Sanúa Maracuyá Mango 70g,S/ 9.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,70.0,g,Paleta de Helado Sanúa Maracuyá Mango,9.9,wong,,,MARACUYÁ
 Cóctel Montesierpe Sour de Maracuyá Lata 473 ml,S/ 10.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,473.0,ml,Cóctel Montesierpe Sour de Maracuyá Lata,10.5,metro,,,MARACUYÁ
-Yogurt Griego Mango Maracuyá 800 g,S/ 10.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,800.0,g,Yogurt Griego Mango Maracuyá,10.5,tottus,,LAIVE,MARACUYÁ
-Yogurt Griego LAIVE Mango y Maracuyá Botella 800g,S/ 10.70,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,800.0,g,Yogurt Griego LAIVE Mango y Maracuyá Botella,10.7,vivanda,,LAIVE,MARACUYÁ
-Kombucha Veda Maracuyá Botella 260ml,S/ 10.75,metro,MARACUYÁ,2024-12-05 15:54:43.103743,260.0,ml,Kombucha Veda Maracuyá Botella,10.75,metro,,,MARACUYÁ
 Kombucha Veda Maracuyá Botella 260ml,S/ 10.75,wong,MARACUYÁ,2024-12-05 18:27:56.405023,260.0,ml,Kombucha Veda Maracuyá Botella,10.75,wong,,,MARACUYÁ
-Ready To Drink (RTD) FOUR LOKO Maracuyá Lata 4...,S/ 10.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,473.0,ml,Ready To Drink (RTD) FOUR LOKO Maracuyá Lata 4,10.9,plaza_vea,Lata 473ml,,MARACUYÁ
-Yogurt GLORIA Slim Triple Zero Sabor a Maracuyá Botella 1.7Kg,S/ 11.60,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,1.7,kg,Yogurt GLORIA Slim Triple Zero Sabor a Maracuyá Botella,11.6,vivanda,,GLORIA,MARACUYÁ
-Acondicionador Amarás Reparación Divina 475 mL,S/ 12.53,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,475.0,ml,Acondicionador Amarás Reparación Divina,12.53,tottus,,AMARAS,MARACUYÁ
+Shampoo Reparación Divina Maracuya Amaras 400 mL,S/ 11.13,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,400.0,ml,Shampoo Reparación Divina Maracuya Amaras,11.13,tottus,,,MARACUYÁ
+Mermelada Dietética D'Marco De Maracuyá/Papaya Frasco 210 g,S/ 12.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,210.0,g,Mermelada Dietética D'Marco De Maracuyá/Papaya Frasco,12.9,wong,,,MARACUYÁ
+Pulpa de Maracuyá Congelada FIFU Bolsa 500g,S/ 12.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,500.0,g,Pulpa de Maracuyá Congelada FIFU Bolsa,12.9,plaza_vea,Bolsa 500g,,MARACUYÁ
 Pulpa de Maracuyá Congelada EL FRUTERO Bolsa 5...,S/ 12.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,500.0,g,Pulpa de Maracuyá Congelada EL FRUTERO Bolsa 5,12.9,plaza_vea,Bolsa 500g,,MARACUYÁ
+Helado Lift Maracuya & Mango 110g,S/ 12.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,110.0,g,Helado Lift Maracuya & Mango,12.9,wong,,,MARACUYÁ
+Concentrado de Maracuya Agro Selva 500g,S/ 12.99,wong,MARACUYÁ,2024-12-05 18:27:56.405023,500.0,g,Concentrado de Maracuya Agro Selva,12.99,wong,,,MARACUYÁ
 Pulpa de Maracuyá Agroselva Doypack 250g,S/ 12.99,wong,MARACUYÁ,2024-12-05 18:27:56.405023,250.0,g,Pulpa de Maracuyá Agroselva Doypack,12.99,wong,,,MARACUYÁ
 Sixpack Bebida con Gas San Luis Maracuyá Botella 625ml,S/ 13.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,625.0,ml,Sixpack Bebida con Gas San Luis Maracuyá Botella,13.2,metro,,,MARACUYÁ
 Sixpack Bebida con Gas San Luis Maracuyá Botella 625ml,S/ 13.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,625.0,ml,Sixpack Bebida con Gas San Luis Maracuyá Botella,13.2,wong,,,MARACUYÁ
-Sixpack Bebida con Gas San Luis Maracuyá Botella 625ml,S/ 13.20,wong,MARACUYÁ,2024-12-05 18:27:56.405023,625.0,ml,Sixpack Bebida con Gas San Luis Maracuyá Botella,13.2,wong,,,MARACUYÁ
-Pulpa de Maracuyá Congelada El Frutero 500g,S/ 14.29,metro,MARACUYÁ,2024-12-05 15:54:43.103743,500.0,g,Pulpa de Maracuyá Congelada El Frutero,14.29,metro,,,MARACUYÁ
-Refresco Instantáneo ZUKO de Maracuya Display 12u Sobre 15gr,S/ 14.40,vega,MARACUYÁ,2024-12-05 12:31:32.818540,15.0,g,Refresco Instantáneo ZUKO de Maracuya Display 12u Sobre r,14.4,vega,,Zuko,MARACUYÁ
+Sixpack Bebida con Gas San Luis Maracuyá Botella 625ml,S/ 13.20,metro,MARACUYÁ,2024-12-05 15:54:43.103743,625.0,ml,Sixpack Bebida con Gas San Luis Maracuyá Botella,13.2,metro,,,MARACUYÁ
 Mermelada Kusi Maracuyá con Quinua y Stevia Frasco 230 gr,S/ 14.40,wong,MARACUYÁ,2024-12-05 18:27:56.405023,230.0,g,Mermelada Kusi Maracuyá con Quinua y Stevia Frasco r,14.4,wong,,,MARACUYÁ
-"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 1L",S/ 14.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,l,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",14.5,wong,,,MARACUYÁ
 Salsa Chimichurri Maracuyá Parrillero Premium 190g,S/ 14.50,metro,MARACUYÁ,2024-12-05 15:54:43.103743,190.0,g,Salsa Chimichurri Maracuyá Parrillero Premium,14.5,metro,,,MARACUYÁ
+"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella 1L",S/ 14.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,l,"Jugo Cold Pressed de Naranja, Mango y Maracuyá Ecofresh Botella",14.5,wong,,,MARACUYÁ
 Tratamiento Capilar Amaras Reparación Divina Maracuya Frasco 300mL,S/ 15.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,300.0,ml,Tratamiento Capilar Amaras Reparación Divina Maracuya Frasco,15.9,tottus,,,MARACUYÁ
-Yogurt Griego 0% Grasas Tigo Premium Mango - Maracuyá 1kg,S/ 16.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,1.0,kg,Yogurt Griego 0% Grasas Tigo Premium Mango - Maracuyá,16.0,metro,,,MARACUYÁ
 Pionono de Chocolate Relleno con Maracuyá Dolcce Mimi 12un,S/ 16.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,12.0,un,Pionono de Chocolate Relleno con Maracuyá Dolcce Mimi,16.9,metro,,,MARACUYÁ
 Shampoo Reparación Divina Maracuya Amaras 700 mL,S/ 17.43,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,700.0,ml,Shampoo Reparación Divina Maracuya Amaras,17.43,tottus,,,MARACUYÁ
-Yogurt Griego Parcialmente Descremado TIGO Sabor Mango - Maracuyá Pote 1Kg,S/ 17.80,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,1.0,kg,Yogurt Griego Parcialmente Descremado TIGO Sabor Mango - Maracuyá Pote,17.8,vivanda,,TIGO,MARACUYÁ
-Rtd Sour Maracuyá Montesierpe Botella 700ml,S/ 17.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,700.0,ml,Rtd Sour Maracuyá Montesierpe Botella,17.9,metro,,,MARACUYÁ
-Pisco Sour PISCANO Maracuyá Botella 700ml,S/ 17.90,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,700.0,ml,Pisco Sour PISCANO Maracuyá Botella,17.9,vivanda,,PISCANO,MARACUYÁ
+Ready To Drink (RTD) PISCANO Sour Maracuyá Bot...,S/ 17.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,700.0,ml,Ready To Drink (RTD) PISCANO Sour Maracuyá Bot,17.9,plaza_vea,Botella 700ml,,MARACUYÁ
 Yogurt Griego 0% Grasas Tigo Premium Mango - Maracuyá 1kg,S/ 18.30,wong,MARACUYÁ,2024-12-05 18:27:56.405023,1.0,kg,Yogurt Griego 0% Grasas Tigo Premium Mango - Maracuyá,18.3,wong,,,MARACUYÁ
-Ready To Drink (RTD) TABERNERO Sour Maracuyá B...,S/ 19.90 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,700.0,ml,Ready To Drink (RTD) TABERNERO Sour Maracuyá B,19.9,plaza_vea,Botella 700ml,,MARACUYÁ
 Bebida Ready to Drink Tabernero Sour Maracuyá Botella 700ml,S/ 19.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,700.0,ml,Bebida Ready to Drink Tabernero Sour Maracuyá Botella,19.9,wong,,,MARACUYÁ
-Bebida Ready to Drink Tabernero Sour Maracuyá Botella 700ml,S/ 19.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,700.0,ml,Bebida Ready to Drink Tabernero Sour Maracuyá Botella,19.9,metro,,,MARACUYÁ
-Pisco Sour TABERNERO Maracuyá Botella 700ml,S/ 19.90,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,700.0,ml,Pisco Sour TABERNERO Maracuyá Botella,19.9,vivanda,,TABERNERO,MARACUYÁ
-Mermelada Dietética D'Marco Maracuyá y Papaya Frasco 470 g,S/ 21.80,wong,MARACUYÁ,2024-12-05 18:27:56.405023,470.0,g,Mermelada Dietética D'Marco Maracuyá y Papaya Frasco,21.8,wong,,,MARACUYÁ
-Helado Cuisine & Co Cheesecake Maracuyá 900ml,S/ 21.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,900.0,ml,Helado Cuisine & Co Cheesecake Maracuyá,21.9,metro,,,MARACUYÁ
-Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata 355ml,S/ 21.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata,21.9,wong,,,MARACUYÁ
 Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata 355ml,S/ 21.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata,21.9,metro,,,MARACUYÁ
-Helado Cuisine & Co Cheesecake Maracuyá 900ml,S/ 21.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,900.0,ml,Helado Cuisine & Co Cheesecake Maracuyá,21.9,wong,,,MARACUYÁ
+Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata 355ml,S/ 21.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Fourpack Bebida Mike's Hard Lemonade Maracuyá Lata,21.9,wong,,,MARACUYÁ
+Helado Cuisine & Co Cheesecake Maracuyá 900ml,S/ 21.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,900.0,ml,Helado Cuisine & Co Cheesecake Maracuyá,21.9,metro,,,MARACUYÁ
 Concentrado de Maracuya Agro Selva 500g,S/ 22.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,500.0,g,Concentrado de Maracuya Agro Selva,22.0,metro,,,MARACUYÁ
 Maracuyá Pack 4 Unidades 355 mL,S/ 22.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,4.0,un,Maracuyá Pack ades,22.5,tottus,,PISCANO,MARACUYÁ
-King Kong de Manjarblanco y Maracuyá Caja 230 g,S/ 22.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,230.0,g,King Kong de Manjarblanco y Maracuyá Caja,22.5,wong,,,MARACUYÁ
 Chocolate Oscuro Britt 70% Cacao Maracuyá 100g,S/ 23.10,wong,MARACUYÁ,2024-12-05 18:27:56.405023,100.0,g,Chocolate Oscuro Britt 70% Cacao Maracuyá,23.1,wong,,,MARACUYÁ
 Ambientador Glade en Vela Maracuyá + Hawaiian Breeze 96g,S/ 24.10,metro,MARACUYÁ,2024-12-05 15:54:43.103743,96.0,g,Ambientador Glade en Vela Maracuyá + Hawaiian Breeze,24.1,metro,,,MARACUYÁ
 Helado Frío Rico Mini Maracuyá Multipack 5 Unidades,S/ 24.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,5.0,un,Helado Frío Rico Mini Maracuyá Multipack ades,24.5,tottus,,DONOFRIO,MARACUYÁ
+Paleta Mini de Helado Frio Rico Maracuyá 5un,S/ 24.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,5.0,un,Paleta Mini de Helado Frio Rico Maracuyá,24.9,metro,,,MARACUYÁ
 Helado Frio Rico Crocante Maracuyá 900ml,S/ 24.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,900.0,ml,Helado Frio Rico Crocante Maracuyá,24.9,metro,,,MARACUYÁ
 Paleta Mini de Helado Frio Rico Maracuyá 5un,S/ 24.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,5.0,un,Paleta Mini de Helado Frio Rico Maracuyá,24.9,wong,,,MARACUYÁ
-HELADO FRIO RICO CROCANTE MARACUYA 900ML,S/ 24.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,900.0,ml,HELADO FRIO RICO CROCANTE MARACUYA,24.9,tottus,,D'ONOFRIO,MARACUYÁ
 Helado Frio Rico Crocante Maracuyá 900ml,S/ 24.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,900.0,ml,Helado Frio Rico Crocante Maracuyá,24.9,wong,,,MARACUYÁ
-Helado FRIO RICO Maracuyá Pote 900ml,S/ 24.90,vivanda,MARACUYÁ,2024-12-05 21:59:08.222306,900.0,ml,Helado FRIO RICO Maracuyá Pote,24.9,vivanda,,FRIO RICO,MARACUYÁ
+HELADO FRIO RICO CROCANTE MARACUYA 900ML,S/ 24.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,900.0,ml,HELADO FRIO RICO CROCANTE MARACUYA,24.9,tottus,,D'ONOFRIO,MARACUYÁ
 Pisco Sour de Maracuyá de 750 mL,S/ 25.90,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,750.0,ml,Pisco Sour de Maracuyá de,25.9,tottus,,TABERNERO,MARACUYÁ
 Ambientador En Vela Maracuyá + Hawaiian Breeze 96 g,S/ 26.50,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,96.0,g,Ambientador En Vela Maracuyá + Hawaiian Breeze,26.5,tottus,,GLADE,MARACUYÁ
 Licor Frutado de Pisco y Maracuyá Burgos Botella 750ml,S/ 27.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,750.0,ml,Licor Frutado de Pisco y Maracuyá Burgos Botella,27.9,wong,,,MARACUYÁ
 Helado de Maracuyá Mango Sanúa 473ml,S/ 29.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,473.0,ml,Helado de Maracuyá Mango Sanúa,29.9,wong,,,MARACUYÁ
 Chocolate Relleno con Jalea de Maracuyá Britt 170g,S/ 32.30,wong,MARACUYÁ,2024-12-05 18:27:56.405023,170.0,g,Chocolate Relleno con Jalea de Maracuyá Britt,32.3,wong,,,MARACUYÁ
 Helado Wong Premium Maracuyá 500g,S/ 32.50,wong,MARACUYÁ,2024-12-05 18:27:56.405023,500.0,g,Helado Wong Premium Maracuyá,32.5,wong,,,MARACUYÁ
+Helado Momenti Sorbetto Pitahaya & Maracuyá 500ml,S/ 32.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,500.0,ml,Helado Momenti Sorbetto Pitahaya & Maracuyá,32.9,metro,,,MARACUYÁ
 Sixpack Bebida Mike's Hard Lemonade Maracuyá Lata 355ml,S/ 33.00,metro,MARACUYÁ,2024-12-05 15:54:43.103743,355.0,ml,Sixpack Bebida Mike's Hard Lemonade Maracuyá Lata,33.0,metro,,,MARACUYÁ
-Sixpack Bebida Mike's Hard Lemonade Maracuyá Lata 355ml,S/ 33.00,wong,MARACUYÁ,2024-12-05 18:27:56.405023,355.0,ml,Sixpack Bebida Mike's Hard Lemonade Maracuyá Lata,33.0,wong,,,MARACUYÁ
 Cajonazo de Maracuya 6 kg,S/ 36,tottus,MARACUYÁ,2024-12-05 11:55:20.597379,6.0,kg,Cajonazo de Maracuya,36.0,tottus,,GRANEL,MARACUYÁ
-Cheesecake Horneado de Maracuyá Dulce Pasión 10 Porciones,S/ 47.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,10.0,un,Cheesecake Horneado de Maracuyá Dulce Pasión,47.9,metro,,,MARACUYÁ
 Cheesecake de Maracuyá Dulce Pasión 10 Porciones,S/ 47.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,10.0,un,Cheesecake de Maracuyá Dulce Pasión,47.9,metro,,,MARACUYÁ
 Cheesecake de Maracuyá Dulce Pasión 10 Porciones,S/ 47.92,wong,MARACUYÁ,2024-12-05 18:27:56.405023,10.0,un,Cheesecake de Maracuyá Dulce Pasión,47.92,wong,,,MARACUYÁ
 Torta de Maracuyá 16 Porciones,S/ 49.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,16.0,un,Torta de Maracuyá,49.9,metro,,,MARACUYÁ
-Torta Tres Leches de Maracuyá 16 Porciones,S/ 53.93,metro,MARACUYÁ,2024-12-05 15:54:43.103743,16.0,un,Torta Tres Leches de Maracuyá,53.93,metro,,,MARACUYÁ
 Torta de Maracuyá 16 Porciones,S/ 55.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,16.0,un,Torta de Maracuyá,55.9,wong,,,MARACUYÁ
 Cheesecake Horneado de Maracuyá Dulce Pasión 10 Porciones,S/ 55.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,10.0,un,Cheesecake Horneado de Maracuyá Dulce Pasión,55.9,wong,,,MARACUYÁ
-Pack Pisco CUATRO GALLOS Puro Quebranta Botell...,S/ 68.89 un,plaza_vea,MARACUYÁ,2024-12-05 15:12:52.210383,2.0,un,Pack Pisco CUATRO GALLOS Puro Quebranta Botell,68.89,plaza_vea,Pack 2un,,MARACUYÁ
-Torta Tres Leches de Maracuyá 16 Porciones,S/ 69.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,16.0,un,Torta Tres Leches de Maracuyá,69.9,wong,,,MARACUYÁ
-Helado de Maracuyá Dulce Pasión 5L,S/ 99.90,metro,MARACUYÁ,2024-12-05 15:54:43.103743,5.0,l,Helado de Maracuyá Dulce Pasión,99.9,metro,,,MARACUYÁ
 Helado de Maracuyá Dulce Pasión 5L,S/ 99.90,wong,MARACUYÁ,2024-12-05 18:27:56.405023,5.0,l,Helado de Maracuyá Dulce Pasión,99.9,wong,,,MARACUYÁ
