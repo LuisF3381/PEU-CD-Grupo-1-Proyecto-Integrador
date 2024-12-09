@@ -1,22 +1,15 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Chuleta Punta de Lomo x kg,S/ 14.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta Punta de Lomo,14.9,metro,,,CHULETA DE CERDO
-Chuleta Ahumada La Segoviana Paquete 300 g,S/ 15.90,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,300.0,g,Chuleta Ahumada La Segoviana Paquete,15.9,wong,,,CHULETA DE CERDO
-Chuleta Ahumada La Segoviana Paquete 300 g,S/ 15.90,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,300.0,g,Chuleta Ahumada La Segoviana Paquete,15.9,metro,,,CHULETA DE CERDO
-Chuleta Punta de Lomo x kg,S/ 16.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta Punta de Lomo,16.9,wong,,,CHULETA DE CERDO
-Chuleta de Lomo de Cerdo con Piel Porcionado x kg,S/ 18.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Lomo de Cerdo con Piel Porcionado,18.9,metro,,,CHULETA DE CERDO
-Chuleta de Lomo con Piel de Cerdo x kg,S/ 18.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Lomo con Piel de Cerdo,18.9,metro,,,CHULETA DE CERDO
-Chuleta de Pierna con Piel de Cerdo x kg,S/ 21.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Pierna con Piel de Cerdo,21.9,metro,,,CHULETA DE CERDO
-Chuleta de Pierna de Cerdo con Piel Porcionada x kg,S/ 21.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Pierna de Cerdo con Piel Porcionada,21.9,wong,,,CHULETA DE CERDO
-Chuleta de Brazuelo con Piel de Cerdo x kg,S/ 21.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Brazuelo con Piel de Cerdo,21.9,metro,,,CHULETA DE CERDO
-Chuleta de Brazuelo con Piel de Cerdo x kg,S/ 21.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Brazuelo con Piel de Cerdo,21.9,wong,,,CHULETA DE CERDO
-Chuleta de Brazuelo de Cerdo Con Piel Metro x kg,S/ 21.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Brazuelo de Cerdo Con Piel Metro,21.9,metro,,,CHULETA DE CERDO
-Chuleta de Lomo con Piel de Cerdo x kg,S/ 22.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Lomo con Piel de Cerdo,22.9,wong,,,CHULETA DE CERDO
-Chuleta Parrillera de Cerdo x kg,S/ 22.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta Parrillera de Cerdo,22.9,wong,,,CHULETA DE CERDO
-Chuleta de Lomo de Cerdo con Piel Porcionado x kg,S/ 22.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Lomo de Cerdo con Piel Porcionado,22.9,wong,,,CHULETA DE CERDO
-Chuleta Parrillera de Cerdo x kg,S/ 22.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta Parrillera de Cerdo,22.9,metro,,,CHULETA DE CERDO
-Chuleta de Brazuelo de Cerdo con Piel Nacional del Sur Metro x kg,S/ 25.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Brazuelo de Cerdo con Piel Nacional del Sur Metro,25.9,metro,,,CHULETA DE CERDO
-Chuleta de Lomo Duroc Redondos x kg,S/ 28.80 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Lomo Duroc Redondos,28.8,wong,,,CHULETA DE CERDO
-Chuleta de Lomo Duroc Redondos x kg,S/ 31.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Lomo Duroc Redondos,31.9,metro,,,CHULETA DE CERDO
-Chuleta de Hombro de Cerdo Duroc Redondos x kg,S/ 32.90 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta de Hombro de Cerdo Duroc Redondos,32.9,wong,,,CHULETA DE CERDO
-Chuleta de Cerdo Ahumada Kassler Zimmermann x kg,S/ 41.90 x kg,metro,CHULETA DE CERDO,2024-12-05 15:22:31.285237,1.0,kg,Chuleta de Cerdo Ahumada Kassler Zimmermann,41.9,metro,,,CHULETA DE CERDO
-Chuleta Ahumada Kassler Cerdeña x kg,S/ 48.50 x kg,wong,CHULETA DE CERDO,2024-12-05 17:51:04.471510,1.0,kg,Chuleta Ahumada Kassler Cerdeña,48.5,wong,,,CHULETA DE CERDO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Chuleta de Lomo de Cerdo con Piel Porcionado x kg,,1.0,kg,18.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,18.9,CHULETA DE CERDO
+Chuleta de Lomo con Piel de Cerdo x kg,,1.0,kg,18.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,18.9,CHULETA DE CERDO
+Chuleta de Pierna con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,21.9,CHULETA DE CERDO
+Chuleta de Pierna de Cerdo con Piel Porcionada x kg,,1.0,kg,21.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,21.9,CHULETA DE CERDO
+Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,21.9,CHULETA DE CERDO
+Chuleta de Brazuelo con Piel de Cerdo x kg,,1.0,kg,21.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,21.9,CHULETA DE CERDO
+Chuleta de Brazuelo de Cerdo Con Piel Metro x kg,,1.0,kg,21.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,21.9,CHULETA DE CERDO
+Chuleta de Lomo con Piel de Cerdo x kg,,1.0,kg,22.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,22.9,CHULETA DE CERDO
+Chuleta Parrillera de Cerdo x kg,,1.0,kg,22.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,22.9,CHULETA DE CERDO
+Chuleta de Lomo de Cerdo con Piel Porcionado x kg,,1.0,kg,22.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,22.9,CHULETA DE CERDO
+Chuleta Parrillera de Cerdo x kg,,1.0,kg,22.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,22.9,CHULETA DE CERDO
+Chuleta de Brazuelo de Cerdo con Piel Nacional del Sur Metro x kg,,1.0,kg,25.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,25.9,CHULETA DE CERDO
+Chuleta de Hombro de Cerdo Duroc Redondos x kg,,1.0,kg,32.9,wong,2024-12-05 17:51:04.471510,CHULETA DE CERDO,1,kg,32.9,CHULETA DE CERDO
+Chuleta de Cerdo Ahumada Kassler Zimmermann x kg,,1.0,kg,41.9,metro,2024-12-05 15:22:31.285237,CHULETA DE CERDO,1,kg,41.9,CHULETA DE CERDO

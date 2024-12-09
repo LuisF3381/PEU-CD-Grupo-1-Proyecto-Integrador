@@ -1,32 +1,12 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja 500ml",S/ 2.10,metro,PAPAYA,2024-12-05 15:58:20.233840,500.0,ml,"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja",2.1,metro,,,PAPAYA
-"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja 500ml",S/ 2.10,wong,PAPAYA,2024-12-05 18:33:10.217683,500.0,ml,"Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja",2.1,wong,,,PAPAYA
-Papaya Metro x kg,S/ 3.29 x kg,metro,PAPAYA,2024-12-05 15:58:20.233840,1.0,kg,Papaya Metro,3.29,metro,,,PAPAYA
-Papaya Sur Metro x kg,S/ 3.99 x kg,metro,PAPAYA,2024-12-05 15:58:20.233840,1.0,kg,Papaya Sur Metro,3.99,metro,,,PAPAYA
-Papaya Picada BELL'S FRESCOS Bandeja 300g,S/ 5.69,vivanda,PAPAYA,2024-12-05 22:01:50.362703,300.0,g,Papaya Picada BELL'S FRESCOS Bandeja,5.69,vivanda,,BELL'S FRESCOS,PAPAYA
-Papaya en Trozos BELL'S Bandeja 300g,S/ 5.69 un,plaza_vea,PAPAYA,2024-12-05 15:17:05.446814,300.0,g,Papaya en Trozos BELL'S Bandeja,5.69,plaza_vea,Bandeja 300g,,PAPAYA
-Origens Comida para Gatos Filete de Atún con Papaya Lata 85 g,S/ 7.80,metro,PAPAYA,2024-12-05 15:58:20.233840,85.0,g,Origens Comida para Gatos Filete de Atún con Papaya Lata,7.8,metro,,,PAPAYA
-Papaya en Trozos Congelada Fest 500g,S/ 7.99,metro,PAPAYA,2024-12-05 15:58:20.233840,500.0,g,Papaya en Trozos Congelada Fest,7.99,metro,,,PAPAYA
-Papaya en Trozos Congelada Fest 500g,S/ 7.99,wong,PAPAYA,2024-12-05 18:33:10.217683,500.0,g,Papaya en Trozos Congelada Fest,7.99,wong,,,PAPAYA
-Papaya en Trozos Congelada FEST Paquete 500g,S/ 7.99 un,plaza_vea,PAPAYA,2024-12-05 15:17:05.446814,500.0,g,Papaya en Trozos Congelada FEST Paquete,7.99,plaza_vea,Bolsa 500g,,PAPAYA
-Papaya en Trozos Natifrut 280g,S/ 8.49,wong,PAPAYA,2024-12-05 18:33:10.217683,280.0,g,Papaya en Trozos Natifrut,8.49,wong,,,PAPAYA
-"Ensalada de Frutas Piña, Sandía y Papaya Natifrut 340g",S/ 9.49,metro,PAPAYA,2024-12-05 15:58:20.233840,340.0,g,"Ensalada de Frutas Piña, Sandía y Papaya Natifrut",9.49,metro,,,PAPAYA
-Mermelada Dietética D'Marco De Maracuyá/Papaya Frasco 210 g,S/ 12.90,wong,PAPAYA,2024-12-05 18:33:10.217683,210.0,g,Mermelada Dietética D'Marco De Maracuyá/Papaya Frasco,12.9,wong,,,PAPAYA
-Mermelada Dietética D'Marco De Piña/Papaya Frasco 220 g,S/ 12.90,wong,PAPAYA,2024-12-05 18:33:10.217683,220.0,g,Mermelada Dietética D'Marco De Piña/Papaya Frasco,12.9,wong,,,PAPAYA
-Piña en Trozos Golden 500g,S/ 13.49,wong,PAPAYA,2024-12-05 18:33:10.217683,500.0,g,Piña en Trozos Golden,13.49,wong,,,PAPAYA
-Papaya Congelada En Trozos 1Kg,S/ 14.90,tottus,PAPAYA,2024-12-05 11:59:15.316603,1.0,kg,Papaya Congelada En Trozos,14.9,tottus,,TOTTUS,PAPAYA
-Mix de Frutas El Frutero 1kg: Fresa + Papaya + Piña,S/ 14.99,wong,PAPAYA,2024-12-05 18:33:10.217683,1.0,kg,Mix de Frutas El Frutero : Fresa + Papaya + Piña,14.99,wong,,,PAPAYA
-"Mix de Fresa, Papaya y Piña Congelada EL FRUTE...",S/ 15.49 un,plaza_vea,PAPAYA,2024-12-05 15:17:05.446814,1.0,kg,"Mix de Fresa, Papaya y Piña Congelada EL FRUTE",15.49,plaza_vea,Bolsa 1Kg,,PAPAYA
-Trozos de Papaya Congelada EL FRUTERO Bolsa 1K...,S/ 15.69 un,plaza_vea,PAPAYA,2024-12-05 15:17:05.446814,1.0,kg,Trozos de Papaya Congelada EL FRUTERO Bolsa 1K,15.69,plaza_vea,Bolsa 1Kg,,PAPAYA
-Trozos de Papaya Congelada EL FRUTERO Bolsa 1Kg,S/ 15.69,vivanda,PAPAYA,2024-12-05 22:01:50.362703,1.0,kg,Trozos de Papaya Congelada EL FRUTERO Bolsa,15.69,vivanda,,EL FRUTERO,PAPAYA
-"Fruta en Trozos Piña, Papaya y Sandía Congelada Natifrut 1kg",S/ 15.72,metro,PAPAYA,2024-12-05 15:58:20.233840,1.0,kg,"Fruta en Trozos Piña, Papaya y Sandía Congelada Natifrut",15.72,metro,,,PAPAYA
-"Fruta en Trozos Piña, Papaya y Sandía Congelada Natifrut 1kg",S/ 15.72,wong,PAPAYA,2024-12-05 18:33:10.217683,1.0,kg,"Fruta en Trozos Piña, Papaya y Sandía Congelada Natifrut",15.72,wong,,,PAPAYA
-"Fruta en Trozos Piña, Papaya y Fresa Congelada Natifrut 1kg",S/ 15.72,metro,PAPAYA,2024-12-05 15:58:20.233840,1.0,kg,"Fruta en Trozos Piña, Papaya y Fresa Congelada Natifrut",15.72,metro,,,PAPAYA
-Mix Fresa Papaya Y Piña Congelada Trozos 1Kg,S/ 16,tottus,PAPAYA,2024-12-05 11:59:15.316603,1.0,kg,Mix Fresa Papaya Y Piña Congelada Trozos,16.0,tottus,,TOTTUS,PAPAYA
-Papaya en Trozos Congelados Natifrut 1kg,S/ 16.14,metro,PAPAYA,2024-12-05 15:58:20.233840,1.0,kg,Papaya en Trozos Congelados Natifrut,16.14,metro,,,PAPAYA
-Papaya En Trozos Congelada 1Kg,S/ 16.50,tottus,PAPAYA,2024-12-05 11:59:15.316603,1.0,kg,Papaya En Trozos Congelada,16.5,tottus,,EL FRUTERO,PAPAYA
-Mix De Frutas Congeladas Fresa Papaya Y Pina 1Kg,S/ 16.50,tottus,PAPAYA,2024-12-05 11:59:15.316603,1.0,kg,Mix De Frutas Congeladas Fresa Papaya Y Pina,16.5,tottus,,AFRIKA&CO,PAPAYA
-Mermelada Dietética D'Marco Maracuyá y Papaya Frasco 470 g,S/ 21.80,wong,PAPAYA,2024-12-05 18:33:10.217683,470.0,g,Mermelada Dietética D'Marco Maracuyá y Papaya Frasco,21.8,wong,,,PAPAYA
-Loción de Manos y Cuerpo Creightons Mango & Papaya 400ml,S/ 29.90,metro,PAPAYA,2024-12-05 15:58:20.233840,400.0,ml,Loción de Manos y Cuerpo Creightons Mango & Papaya,29.9,metro,,,PAPAYA
-EXFOLIANTE FACIAL PAPAYA X200ML,S/ 39.90,tottus,PAPAYA,2024-12-05 11:59:15.316603,200.0,ml,EXFOLIANTE FACIAL PAPAYA X,39.9,tottus,,PETAL FRESH,PAPAYA
-MASCARILLA FACIAL PAPAYA X200ML,S/ 39.90,tottus,PAPAYA,2024-12-05 11:59:15.316603,200.0,ml,MASCARILLA FACIAL PAPAYA X,39.9,tottus,,PETAL FRESH,PAPAYA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Papaya Metro x kg,,1.0,kg,3.29,metro,2024-12-05 15:58:20.233840,PAPAYA,1.0,kg,3.29,PAPAYA
+Papaya Sur Metro x kg,,1.0,kg,3.99,metro,2024-12-05 15:58:20.233840,PAPAYA,1.0,kg,3.99,PAPAYA
+Papaya Picada BELL'S FRESCOS Bandeja 300g,BELL'S FRESCOS,300.0,g,5.69,vivanda,2024-12-05 22:01:50.362703,PAPAYA,300.0,g,5.69,PAPAYA
+Papaya en Trozos BELL'S Bandeja 300g,,300.0,g,5.69,plaza_vea,2024-12-05 15:17:05.446814,PAPAYA,300.0,g,5.69,PAPAYA
+Papaya en Trozos Congelada Fest 500g,,500.0,g,7.99,metro,2024-12-05 15:58:20.233840,PAPAYA,500.0,g,7.99,PAPAYA
+Papaya en Trozos Congelada Fest 500g,,500.0,g,7.99,wong,2024-12-05 18:33:10.217683,PAPAYA,500.0,g,7.99,PAPAYA
+Papaya en Trozos Congelada FEST Paquete 500g,,500.0,g,7.99,plaza_vea,2024-12-05 15:17:05.446814,PAPAYA,500.0,g,7.99,PAPAYA
+Papaya en Trozos Natifrut 280g,,280.0,g,8.49,wong,2024-12-05 18:33:10.217683,PAPAYA,280.0,g,8.49,PAPAYA
+Papaya Congelada En Trozos 1Kg,TOTTUS,1.0,kg,14.9,tottus,2024-12-05 11:59:15.316603,PAPAYA,1.0,kg,14.9,PAPAYA
+Papaya en Trozos Congelados Natifrut 1kg,,1.0,kg,16.14,metro,2024-12-05 15:58:20.233840,PAPAYA,1.0,kg,16.14,PAPAYA
+Papaya En Trozos Congelada 1Kg,EL FRUTERO,1.0,kg,16.5,tottus,2024-12-05 11:59:15.316603,PAPAYA,1.0,kg,16.5,PAPAYA

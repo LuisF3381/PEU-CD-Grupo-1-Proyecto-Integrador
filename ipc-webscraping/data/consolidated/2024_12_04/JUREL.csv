@@ -1,5 +1,2 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,CLASIFICACION
-Trozos de Jurel en Aceite Vegetal Campomar 170g,S/ 4.10,metro,JUREL,2024-12-04 21:09:25.692958,170.0,g,Trozos de Jurel en Aceite Vegetal Campomar,4.1,metro,,JUREL
-Jurel Congelado Grande x kg,S/ 6.90 x kg,wong,JUREL,2024-12-04 18:55:30.681652,1.0,kg,Jurel Congelado Grande,6.9,wong,,JUREL
-Alimento Rambala parte de Gato Pavo Jurel 500g,S/ 12.20,wong,JUREL,2024-12-04 18:55:30.681652,500.0,g,Alimento Rambala parte de Gato Pavo Jurel,12.2,wong,,JUREL
-Alimento para Gatos RAMBALA Todas las Etapas y...,S/ 13.90 un,plaza_vea,JUREL,2024-12-04 13:28:30.527350,500.0,g,Alimento para Gatos RAMBALA Todas las Etapas y,13.9,plaza_vea,Bolsa 500g,JUREL
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Jurel Congelado Grande x kg,,1.0,kg,6.9,wong,2024-12-04 18:55:30.681652,JUREL,1,kg,6.9,JUREL

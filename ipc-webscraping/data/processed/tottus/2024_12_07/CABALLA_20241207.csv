@@ -1,0 +1,5 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+CAMPOMAR,Sólido de Caballa en Aceite 170 g,S/ 5.70,tottus,CABALLA,2024-12-07 13:10:42.413860,170.0,g,Sólido de Caballa en Aceite,5.7
+FRESCOMAR,Trozos De Caballa 170 g,S/ 4.80,tottus,CABALLA,2024-12-07 13:10:42.413860,170.0,g,Trozos De Caballa,4.8
+CAMPOMAR,Sixpack Sólido Caballa x 150 g,S/ 29.90,tottus,CABALLA,2024-12-07 13:10:42.413860,150.0,g,Sixpack Sólido Caballa x,29.9
+CAMPOMAR,Sólido Caballa Lata x 150 g,S/ 5.70,tottus,CABALLA,2024-12-07 13:10:42.413860,150.0,g,Sólido Caballa Lata x,5.7

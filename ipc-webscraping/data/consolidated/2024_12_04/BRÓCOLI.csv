@@ -1,12 +1,5 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Coliflor Un,S/ 3.70 un,plaza_vea,BRÓCOLI,2024-12-04 14:02:33.918472,1.0,un,Coliflor Un,3.7,plaza_vea,Paquete 1un,,BRÓCOLI
-Col Corazón,S/ 3.90 un,plaza_vea,BRÓCOLI,2024-12-04 14:02:33.918472,1.0,un,Col Corazón,3.9,plaza_vea,Paquete 1un,,BRÓCOLI
-Floretes de Brócoli 500g aprox,S/ 7.49,metro,BRÓCOLI,2024-12-04 21:40:15.285091,500.0,g,Floretes de Brócoli  aprox,7.49,metro,,,BRÓCOLI
-Brócoli Metro x kg,S/ 7.99 x kg,metro,BRÓCOLI,2024-12-04 21:40:15.285091,1.0,kg,Brócoli Metro,7.99,metro,,,BRÓCOLI
-Brócoli Viva x unid,S/ 8.50,metro,BRÓCOLI,2024-12-04 21:40:15.285091,1.0,un,Brócoli Viva,8.5,metro,,,BRÓCOLI
-Nuggets de Pollo con Brócoli AVINKA Bolsa 15un,S/ 9.50,vivanda,BRÓCOLI,2024-12-04 17:53:47.239085,15.0,un,Nuggets de Pollo con Brócoli AVINKA Bolsa,9.5,vivanda,,AVINKA,BRÓCOLI
-Nuggets de Pollo con Brócoli Avinka 15un,S/ 10.99,wong,BRÓCOLI,2024-12-04 19:43:56.331074,15.0,un,Nuggets de Pollo con Brócoli Avinka,10.99,wong,,,BRÓCOLI
-Nuggets de Pollo con Brócoli Avinka 15un,S/ 10.99,metro,BRÓCOLI,2024-12-04 21:40:15.285091,15.0,un,Nuggets de Pollo con Brócoli Avinka,10.99,metro,,,BRÓCOLI
-Brócoli Viva x unid,S/ 11.50,wong,BRÓCOLI,2024-12-04 19:43:56.331074,1.0,un,Brócoli Viva,11.5,wong,,,BRÓCOLI
-Brócoli VIVA,S/ 11.99 un,plaza_vea,BRÓCOLI,2024-12-04 14:02:33.918472,1.0,un,Brócoli VIVA,11.99,plaza_vea,Paquete 1un,,BRÓCOLI
-Germinado de Brócoli Age Bandeja 100g,S/ 16.80,metro,BRÓCOLI,2024-12-04 21:40:15.285091,100.0,g,Germinado de Brócoli Age Bandeja,16.8,metro,,,BRÓCOLI
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Brócoli Metro x kg,,1.0,kg,7.99,metro,2024-12-04 21:40:15.285091,BRÓCOLI,1.0,kg,7.99,BRÓCOLI
+Brócoli Viva x unid,,1.0,un,8.5,metro,2024-12-04 21:40:15.285091,BRÓCOLI,1.0,un,8.5,BRÓCOLI
+Brócoli Viva x unid,,1.0,un,11.5,wong,2024-12-04 19:43:56.331074,BRÓCOLI,1.0,un,11.5,BRÓCOLI
+Brócoli VIVA,,1.0,un,11.99,plaza_vea,2024-12-04 14:02:33.918472,BRÓCOLI,1.0,un,11.99,BRÓCOLI

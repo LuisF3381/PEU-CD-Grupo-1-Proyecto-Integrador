@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Ají amarillo BELL'S Molido Sobre 10Gr,S/ 1.59 un,plaza_vea,AJÍ AMARILLO MOLIDO,2024-12-05 15:54:18.552974,10.0,g,Ají amarillo BELL'S Molido Sobre r,1.59,plaza_vea,Sobre 10g,,AJÍ AMARILLO MOLIDO
-Ají Amarillo BELL'S Molido Sobre 10g,S/ 1.59,vivanda,AJÍ AMARILLO MOLIDO,2024-12-05 22:27:04.340181,10.0,g,Ají Amarillo BELL'S Molido Sobre,1.59,vivanda,,BELL'S,AJÍ AMARILLO MOLIDO
-Ají Amarillo Molido RICASA Doypack 100g,S/ 2.20 un,plaza_vea,AJÍ AMARILLO MOLIDO,2024-12-05 15:54:18.552974,100.0,g,Ají Amarillo Molido RICASA Doypack,2.2,plaza_vea,Doypack 100g,,AJÍ AMARILLO MOLIDO
-Salsa PIKI Ají amarillo molido Doypack 350g,S/ 8.69 un,plaza_vea,AJÍ AMARILLO MOLIDO,2024-12-05 15:54:18.552974,350.0,g,Salsa PIKI Ají amarillo molido Doypack,8.69,plaza_vea,Doypack 350g,,AJÍ AMARILLO MOLIDO
-Ají Amarillo Molido Piki 350g,S/ 10.90,metro,AJÍ AMARILLO MOLIDO,2024-12-05 16:37:08.674253,350.0,g,Ají Amarillo Molido Piki,10.9,metro,,,AJÍ AMARILLO MOLIDO
-Salsa PIKI Ají amarillo molido Doypack 350g,S/ 12.50,vivanda,AJÍ AMARILLO MOLIDO,2024-12-05 22:27:04.340181,350.0,g,Salsa PIKI Ají amarillo molido Doypack,12.5,vivanda,,PIKI,AJÍ AMARILLO MOLIDO
-Ají Amarillo Molido SIBARITA Amarillin Doypack...,S/ 18.10 un,plaza_vea,AJÍ AMARILLO MOLIDO,2024-12-05 15:54:18.552974,550.0,g,Ají Amarillo Molido SIBARITA Amarillin Doypack,18.1,plaza_vea,Doypack 550g,,AJÍ AMARILLO MOLIDO
-Ají Amarillo Molido Piki 1kg,S/ 21.90,wong,AJÍ AMARILLO MOLIDO,2024-12-05 19:14:12.931927,1.0,kg,Ají Amarillo Molido Piki,21.9,wong,,,AJÍ AMARILLO MOLIDO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Ají amarillo BELL'S Molido Sobre 10Gr,,10.0,g,1.59,plaza_vea,2024-12-05 15:54:18.552974,AJÍ AMARILLO MOLIDO,1,kg,159.0,AJÍ AMARILLO MOLIDO
+Ají Amarillo BELL'S Molido Sobre 10g,BELL'S,10.0,g,1.59,vivanda,2024-12-05 22:27:04.340181,AJÍ AMARILLO MOLIDO,1,kg,159.0,AJÍ AMARILLO MOLIDO
+Ají Amarillo Molido RICASA Doypack 100g,,100.0,g,2.2,plaza_vea,2024-12-05 15:54:18.552974,AJÍ AMARILLO MOLIDO,1,kg,22.0,AJÍ AMARILLO MOLIDO
+Salsa PIKI Ají amarillo molido Doypack 350g,,350.0,g,8.69,plaza_vea,2024-12-05 15:54:18.552974,AJÍ AMARILLO MOLIDO,1,kg,24.82857142857143,AJÍ AMARILLO MOLIDO
+Ají Amarillo Molido Piki 350g,,350.0,g,10.9,metro,2024-12-05 16:37:08.674253,AJÍ AMARILLO MOLIDO,1,kg,31.142857142857146,AJÍ AMARILLO MOLIDO
+Salsa PIKI Ají amarillo molido Doypack 350g,PIKI,350.0,g,12.5,vivanda,2024-12-05 22:27:04.340181,AJÍ AMARILLO MOLIDO,1,kg,35.714285714285715,AJÍ AMARILLO MOLIDO
+Ají Amarillo Molido SIBARITA Amarillin Doypack...,,550.0,g,18.1,plaza_vea,2024-12-05 15:54:18.552974,AJÍ AMARILLO MOLIDO,1,kg,32.909090909090914,AJÍ AMARILLO MOLIDO
+Ají Amarillo Molido Piki 1kg,,1.0,kg,21.9,wong,2024-12-05 19:14:12.931927,AJÍ AMARILLO MOLIDO,1,kg,21.9,AJÍ AMARILLO MOLIDO

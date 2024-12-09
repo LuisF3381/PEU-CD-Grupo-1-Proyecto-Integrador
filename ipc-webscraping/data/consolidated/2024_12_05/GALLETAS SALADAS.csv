@@ -1,81 +1,61 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Galletas Saladas FIELD Cream Cracker Paquete 7...,S/ 1.40 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,5.0,g,Galletas Saladas FIELD Cream Cracker Paquete 7,1.4,plaza_vea,"Paquete 73,5g",,GALLETAS SALADAS
-Galleta Mini RITZ Bolsa 50gr,S/ 1.50,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,50.0,g,Galleta Mini RITZ Bolsa r,1.5,vega,,Ritz,GALLETAS SALADAS
-Galletas Saladas Ritz Mini 50g,S/ 1.50,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,50.0,g,Galletas Saladas Ritz Mini,1.5,metro,,,GALLETAS SALADAS
-Galletas Saladas RITZ sabor Original Paquete 5...,S/ 1.50 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,52.5,g,Galletas Saladas RITZ sabor Original Paquete 5,1.5,plaza_vea,Bolsa 52.5g,,GALLETAS SALADAS
-Galletas Saladas RITZ Mini Original Bolsa 50g,S/ 1.50 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,50.0,g,Galletas Saladas RITZ Mini Original Bolsa,1.5,plaza_vea,Paquete 50 g,,GALLETAS SALADAS
-Galletas FIELD Cream Crakers Bolsa 73.5gr,S/ 1.60,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,73.5,g,Galletas FIELD Cream Crakers Bolsa r,1.6,vega,,Cream Cracker,GALLETAS SALADAS
-Galleta SAN JORGE Soda Familiar 75gr,S/ 1.60,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,75.0,g,Galleta SAN JORGE Soda Familiar r,1.6,vega,,San Jorge,GALLETAS SALADAS
-Galleta Crackelet de Jamón Ahumado de 47 g,S/ 1.60,tottus,GALLETAS SALADAS,2024-12-05 11:19:34.689466,47.0,g,Galleta Crackelet de Jamón Ahumado de,1.6,tottus,,COSTA,GALLETAS SALADAS
-Galletas Saladas Ritz Mini 50g,S/ 1.70,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,50.0,g,Galletas Saladas Ritz Mini,1.7,wong,,,GALLETAS SALADAS
-Galletas Saladas Ritz Original 52.5g,S/ 1.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,52.5,g,Galletas Saladas Ritz Original,1.9,metro,,,GALLETAS SALADAS
-Galletas Saladas Ritz 70g,S/ 2.00,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,70.0,g,Galletas Saladas Ritz,2.0,metro,,,GALLETAS SALADAS
-Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,S/ 2.90,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,6.0,g,Pack xalletas Saladas Horneadas Cuisine & Co Gustits,2.9,wong,,,GALLETAS SALADAS
-Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,S/ 2.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,6.0,g,Pack xalletas Saladas Horneadas Cuisine & Co Gustits,2.9,metro,,,GALLETAS SALADAS
-Galletas RITZ Taco 52.5g x 2u,S/ 3.00,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,52.5,g,Galletas RITZ Taco  x 2u,3.0,vega,,Ritz,GALLETAS SALADAS
-Cancha Chulpi Salada Cuisine & Co Bolsa 100 g,S/ 3.12,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,100.0,g,Cancha Chulpi Salada Cuisine & Co Bolsa,3.12,wong,,,GALLETAS SALADAS
-Galleta SODA V Soda Victoria Paquete 6un,S/ 3.50,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,6.0,un,Galleta SODA V Soda Victoria Paquete,3.5,vega,,Costa,GALLETAS SALADAS
-Galletas Saladas FIELD Soda Paquete 6un,S/ 3.50 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,6.0,un,Galletas Saladas FIELD Soda Paquete,3.5,plaza_vea,Bolsa 6un,,GALLETAS SALADAS
-Galleta SAN JORGE Soda Gourmet 250gr,S/ 3.70,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,250.0,g,Galleta SAN JORGE Soda Gourmet r,3.7,vega,,San Jorge,GALLETAS SALADAS
-Sixpack Galletas Saladas Ritz Sabor Original 22.4g,S/ 3.80,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,22.4,g,Sixpack Galletas Saladas Ritz Sabor Original,3.8,wong,,,GALLETAS SALADAS
-Cancha Chulpi Salada Cuisine & Co Bolsa 100 g,S/ 3.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,100.0,g,Cancha Chulpi Salada Cuisine & Co Bolsa,3.9,metro,,,GALLETAS SALADAS
-Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,S/ 3.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,150.0,g,Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa r,3.9,metro,,,GALLETAS SALADAS
-Galletas Saladas RITZ Bolsa 20g Paquete 6un,S/ 4.00,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,20.0,g,Galletas Saladas RITZ Bolsa  Paquete,4.0,vivanda,,NABISCO RITZ,GALLETAS SALADAS
-Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,S/ 4.10,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,150.0,g,Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa r,4.1,wong,,,GALLETAS SALADAS
-Galletas COSTA Gretel Manjar Paquete 6u 32g,S/ 4.30,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,32.0,g,Galletas COSTA Gretel Manjar Paquete 6u,4.3,vega,,Costa,GALLETAS SALADAS
-Galletas COSTA Agua Line Paquete 6u 42g,S/ 4.40,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,42.0,g,Galletas COSTA Agua Line Paquete 6u,4.4,vega,,Costa,GALLETAS SALADAS
-Galletas Saladas CLUB SOCIAL sabor Original Pa...,S/ 4.50 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,144.0,g,Galletas Saladas CLUB SOCIAL sabor Original Pa,4.5,plaza_vea,Bolsa 144g,,GALLETAS SALADAS
-Galletas Saladas CLUB SOCIAL Integrales Paquet...,S/ 4.50 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,144.0,g,Galletas Saladas CLUB SOCIAL Integrales Paquet,4.5,plaza_vea,Bolsa 144g,,GALLETAS SALADAS
-Galleta RITZ Regular Paquete 6u 20gr,S/ 4.50,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,20.0,g,Galleta RITZ Regular Paquete 6u r,4.5,vega,,Ritz,GALLETAS SALADAS
-Sixpack Galletas Saladas Club Social Integral 24g,S/ 4.60,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Sixpack Galletas Saladas Club Social Integral,4.6,metro,,,GALLETAS SALADAS
-Sixpack Galletas Saladas Club Social Original 24g,S/ 4.60,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Sixpack Galletas Saladas Club Social Original,4.6,metro,,,GALLETAS SALADAS
-Sixpack Galletas Saladas Club Social Original 24g,S/ 4.60,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Sixpack Galletas Saladas Club Social Original,4.6,wong,,,GALLETAS SALADAS
-Galleta CLUB SOCIAL 24g Paquete 6un,S/ 4.70,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,24.0,g,Galleta CLUB SOCIAL  Paquete,4.7,vega,,Club Social,GALLETAS SALADAS
-Galletas Saladas RITZ sabor Queso Paquete 6un,S/ 4.79 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,6.0,un,Galletas Saladas RITZ sabor Queso Paquete,4.79,plaza_vea,Paquete 6un,,GALLETAS SALADAS
-Galletas Saladas DORÉ Paquete 6un,S/ 4.90 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,6.0,un,Galletas Saladas DORÉ Paquete,4.9,plaza_vea,Paquete 6un,,GALLETAS SALADAS
-Galletas Saladas DORÉ Paquete 6un,S/ 4.90,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,6.0,un,Galletas Saladas DORÉ Paquete,4.9,vivanda,,DORE,GALLETAS SALADAS
-Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 4.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,30.0,g,Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,4.9,metro,,,GALLETAS SALADAS
-Galletas Saladas CLUB SOCIAL sabor Mantequilla...,S/ 5.20 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,144.0,g,Galletas Saladas CLUB SOCIAL sabor Mantequilla,5.2,plaza_vea,Bolsa 144g,,GALLETAS SALADAS
-Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 5.20,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Sixpack Galletas Saladas Club Social Sabor Mantequilla,5.2,wong,,,GALLETAS SALADAS
-Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 5.20,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Sixpack Galletas Saladas Club Social Sabor Mantequilla,5.2,metro,,,GALLETAS SALADAS
-Tripack Galletas Saladas Ritz Original 52.5g,S/ 5.30,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,52.5,g,Tripack Galletas Saladas Ritz Original,5.3,metro,,,GALLETAS SALADAS
-Galleta Salada Taco 241 g,S/ 5.50,tottus,GALLETAS SALADAS,2024-12-05 11:19:34.689466,241.0,g,Galleta Salada Taco,5.5,tottus,,DUCALES,GALLETAS SALADAS
-Galletas Saladas Ducales 241g,S/ 5.70,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,241.0,g,Galletas Saladas Ducales,5.7,metro,,,GALLETAS SALADAS
-Galletas Saladas Doré Paquete 24 g Pack 6 unid,S/ 5.80,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Galletas Saladas Doré Paquete  Pack,5.8,metro,,,GALLETAS SALADAS
-Galletas Saladas Ducales 241g,S/ 5.90,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,241.0,g,Galletas Saladas Ducales,5.9,wong,,,GALLETAS SALADAS
-Galletas Saladas Doré 230g,S/ 6.00,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,230.0,g,Galletas Saladas Doré,6.0,metro,,,GALLETAS SALADAS
-Galletas FIELD Cream Crakers Bolsa 258gr,S/ 6.40,vega,GALLETAS SALADAS,2024-12-05 11:49:16.899897,258.0,g,Galletas FIELD Cream Crakers Bolsa r,6.4,vega,,Cream Cracker,GALLETAS SALADAS
-Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,S/ 6.50,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,150.0,g,Papas Fritas Onduladas Saladas Cuisine & Co Bolsa r,6.5,wong,,,GALLETAS SALADAS
-Galletas Saladas FIELD Cream Cracker Paquete 2...,S/ 6.59 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,258.0,g,Galletas Saladas FIELD Cream Cracker Paquete 2,6.59,plaza_vea,Bolsa 258g,,GALLETAS SALADAS
-Galletas Saladas Cream Crackers 258g,S/ 6.60,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,258.0,g,Galletas Saladas Cream Crackers,6.6,metro,,,GALLETAS SALADAS
-Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 7.70,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,30.0,g,Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,7.7,metro,,,GALLETAS SALADAS
-Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 7.70,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,30.0,g,Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,7.7,wong,,,GALLETAS SALADAS
-Pack x2 Sixpack Galletas Saladas Ritz Original 20g,S/ 7.90,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,20.0,g,Pack x2 Sixpack Galletas Saladas Ritz Original,7.9,wong,,,GALLETAS SALADAS
-Pack x2 Sixpack Galletas Saladas Ritz Original 20g,S/ 7.90,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,20.0,g,Pack x2 Sixpack Galletas Saladas Ritz Original,7.9,metro,,,GALLETAS SALADAS
-Pack Trozos de Atún en Aceite Vegetal CAMPOMAR...,S/ 8.80 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,2.0,un,Pack Trozos de Atún en Aceite Vegetal CAMPOMAR,8.8,plaza_vea,Pack 2un,,GALLETAS SALADAS
-Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.00,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,30.0,g,Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,9.0,wong,,,GALLETAS SALADAS
-Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.00,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,30.0,g,Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,9.0,metro,,,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Club Social Original 24g,S/ 9.20,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Twopack Sixpack Galletas Saladas Club Social Original,9.2,wong,,,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Club Social Integral 24g,S/ 9.20,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Twopack Sixpack Galletas Saladas Club Social Integral,9.2,wong,,,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Club Social Original 24g,S/ 9.20,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Twopack Sixpack Galletas Saladas Club Social Original,9.2,metro,,,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,S/ 9.98,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,30.0,g,Twopack Sixpack Galletas Saladas Ritz Sandwich Sabor Queso,9.98,wong,,,GALLETAS SALADAS
-Galleta Salada TABLA GOURMET Caja 100g,S/ 10.30,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,100.0,g,Galleta Salada TABLA GOURMET Caja,10.3,vivanda,,TABLA GOURMET,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.40,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.4,metro,,,GALLETAS SALADAS
-Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.40,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.4,wong,,,GALLETAS SALADAS
-Pack Bebida FRUGOS Mango Caja 235ml Paquete 6u...,S/ 10.70 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,2.0,un,Pack Bebida FRUGOS Mango Caja  Paquete 6u,10.7,plaza_vea,Pack 2un,,GALLETAS SALADAS
-Pack Néctar FRUGOS DEL VALLE Sabor a Naranja 2...,S/ 10.70 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,2.0,un,Pack Néctar FRUGOS DEL VALLE Sabor a Naranja 2,10.7,plaza_vea,Pack 2un,,GALLETAS SALADAS
-Pack Néctar FRUGOS Manzana Caja 235ml Paquete ...,S/ 10.70 un,plaza_vea,GALLETAS SALADAS,2024-12-05 14:35:08.977138,2.0,un,Pack Néctar FRUGOS Manzana Caja  Paquete,10.7,plaza_vea,Pack 2un,,GALLETAS SALADAS
-Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.8,wong,,,GALLETAS SALADAS
-Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,S/ 10.80,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla,10.8,metro,,,GALLETAS SALADAS
-Tripack Sixpack Galletas Saladas Club Social Integral 24g,S/ 10.80,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,24.0,g,Tripack Sixpack Galletas Saladas Club Social Integral,10.8,metro,,,GALLETAS SALADAS
-Tripack Sixpack Galletas Saladas Club Social Integral 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Tripack Sixpack Galletas Saladas Club Social Integral,10.8,wong,,,GALLETAS SALADAS
-Tripack Sixpack Galletas Saladas Club Social Original 24g,S/ 10.80,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,24.0,g,Tripack Sixpack Galletas Saladas Club Social Original,10.8,wong,,,GALLETAS SALADAS
-Pack Néctar FRUGOS DEL VALLE Sabor a Naranja 235ml Six Pack + Galletas Saladas RITZ Bolsa 20g Paquete 6un,S/ 11.90,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,235.0,ml,Pack Néctar FRUGOS DEL VALLE Sabor a Naranja  Six Pack + Galletas Saladas RITZ Bolsa  Paquete,11.9,vivanda,,FRUGOS,GALLETAS SALADAS
-Pack Néctar FRUGOS DEL VALLE Sabor a Durazno 235ml Six Pack + Galletas Saladas RITZ Bolsa 20g Paquete 6un,S/ 11.90,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,235.0,ml,Pack Néctar FRUGOS DEL VALLE Sabor a Durazno  Six Pack + Galletas Saladas RITZ Bolsa  Paquete,11.9,vivanda,,FRUGOS,GALLETAS SALADAS
-Habas Saladas Villa Natura 250g,S/ 12.20,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,250.0,g,Habas Saladas Villa Natura,12.2,wong,,,GALLETAS SALADAS
-Almendras Saladas Cuisine&Co Pote 200 g,S/ 14.36,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,200.0,g,Almendras Saladas Cuisine&Co Pote,14.36,wong,,,GALLETAS SALADAS
-Galletas Saladas Colussi Reduced Salt 250g,S/ 14.90,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,250.0,g,Galletas Saladas Colussi Reduced Salt,14.9,wong,,,GALLETAS SALADAS
-Galletas Saladas Colussi Aceite de Oliva y Romero 250g,S/ 14.90,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,250.0,g,Galletas Saladas Colussi Aceite de Oliva y Romero,14.9,wong,,,GALLETAS SALADAS
-Galletas Saladas con Quinua y Finas Hierbas +NUTRI Co Caja 6un,S/ 15.30,vivanda,GALLETAS SALADAS,2024-12-05 21:35:23.014531,6.0,un,Galletas Saladas con Quinua y Finas Hierbas +NUTRI Co Caja,15.3,vivanda,,NUTRISHAKE,GALLETAS SALADAS
-Almendras Laminadas Saladas Gozana 70g,S/ 17.00,wong,GALLETAS SALADAS,2024-12-05 17:44:05.556753,70.0,g,Almendras Laminadas Saladas Gozana,17.0,wong,,,GALLETAS SALADAS
-Almendras Saladas Cuisine&Co Pote 200 g,S/ 18.50,metro,GALLETAS SALADAS,2024-12-05 15:16:02.393367,200.0,g,Almendras Saladas Cuisine&Co Pote,18.5,metro,,,GALLETAS SALADAS
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Galletas Saladas FIELD Cream Cracker Paquete 7...,,5.0,g,1.4,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,5.0,g,1.4,GALLETAS SALADAS
+Galletas Saladas Ritz Mini 50g,,50.0,g,1.5,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,50.0,g,1.5,GALLETAS SALADAS
+Galletas Saladas RITZ sabor Original Paquete 5...,,52.5,g,1.5,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,52.5,g,1.5,GALLETAS SALADAS
+Galletas Saladas RITZ Mini Original Bolsa 50g,,50.0,g,1.5,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,50.0,g,1.5,GALLETAS SALADAS
+Galletas Saladas Ritz Mini 50g,,50.0,g,1.7,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,50.0,g,1.7,GALLETAS SALADAS
+Galletas Saladas Ritz Original 52.5g,,52.5,g,1.9,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,52.5,g,1.9,GALLETAS SALADAS
+Galletas Saladas Ritz 70g,,70.0,g,2.0,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,70.0,g,2.0,GALLETAS SALADAS
+Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,,6.0,g,2.9,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,6.0,g,2.9,GALLETAS SALADAS
+Pack x6 Galletas Saladas Horneadas Cuisine & Co Gustits 21g,,6.0,g,2.9,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,6.0,g,2.9,GALLETAS SALADAS
+Galletas Saladas FIELD Soda Paquete 6un,,6.0,un,3.5,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,6.0,un,3.5,GALLETAS SALADAS
+Sixpack Galletas Saladas Ritz Sabor Original 22.4g,,22.4,g,3.8,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,22.4,g,3.8,GALLETAS SALADAS
+Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,,150.0,g,3.9,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,150.0,g,3.9,GALLETAS SALADAS
+Galletas Saladas RITZ Bolsa 20g Paquete 6un,NABISCO RITZ,20.0,g,4.0,vivanda,2024-12-05 21:35:23.014531,GALLETAS SALADAS,20.0,g,4.0,GALLETAS SALADAS
+Galletas Saladas Jamón Ahumado Crackelet Costa Bolsa 150 gr,,150.0,g,4.1,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,150.0,g,4.1,GALLETAS SALADAS
+Galletas Saladas CLUB SOCIAL sabor Original Pa...,,144.0,g,4.5,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,144.0,g,4.5,GALLETAS SALADAS
+Galletas Saladas CLUB SOCIAL Integrales Paquet...,,144.0,g,4.5,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,144.0,g,4.5,GALLETAS SALADAS
+Sixpack Galletas Saladas Club Social Integral 24g,,24.0,g,4.6,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,4.6,GALLETAS SALADAS
+Sixpack Galletas Saladas Club Social Original 24g,,24.0,g,4.6,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,4.6,GALLETAS SALADAS
+Sixpack Galletas Saladas Club Social Original 24g,,24.0,g,4.6,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,4.6,GALLETAS SALADAS
+Galletas Saladas RITZ sabor Queso Paquete 6un,,6.0,un,4.79,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,6.0,un,4.79,GALLETAS SALADAS
+Galletas Saladas DORÉ Paquete 6un,,6.0,un,4.9,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,6.0,un,4.9,GALLETAS SALADAS
+Galletas Saladas DORÉ Paquete 6un,DORE,6.0,un,4.9,vivanda,2024-12-05 21:35:23.014531,GALLETAS SALADAS,6.0,un,4.9,GALLETAS SALADAS
+Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,4.9,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,30.0,g,4.9,GALLETAS SALADAS
+Galletas Saladas CLUB SOCIAL sabor Mantequilla...,,144.0,g,5.2,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,144.0,g,5.2,GALLETAS SALADAS
+Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,5.2,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,5.2,GALLETAS SALADAS
+Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,5.2,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,5.2,GALLETAS SALADAS
+Tripack Galletas Saladas Ritz Original 52.5g,,52.5,g,5.3,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,52.5,g,5.3,GALLETAS SALADAS
+Galletas Saladas Ducales 241g,,241.0,g,5.7,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,241.0,g,5.7,GALLETAS SALADAS
+Galletas Saladas Doré Paquete 24 g Pack 6 unid,,24.0,g,5.8,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,5.8,GALLETAS SALADAS
+Galletas Saladas Ducales 241g,,241.0,g,5.9,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,241.0,g,5.9,GALLETAS SALADAS
+Galletas Saladas Doré 230g,,230.0,g,6.0,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,230.0,g,6.0,GALLETAS SALADAS
+Papas Fritas Onduladas Saladas Cuisine & Co Bolsa 150 gr,,150.0,g,6.5,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,150.0,g,6.5,GALLETAS SALADAS
+Galletas Saladas FIELD Cream Cracker Paquete 2...,,258.0,g,6.59,plaza_vea,2024-12-05 14:35:08.977138,GALLETAS SALADAS,258.0,g,6.59,GALLETAS SALADAS
+Galletas Saladas Cream Crackers 258g,,258.0,g,6.6,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,258.0,g,6.6,GALLETAS SALADAS
+Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,7.7,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,30.0,g,7.7,GALLETAS SALADAS
+Pack x3 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,7.7,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,30.0,g,7.7,GALLETAS SALADAS
+Pack x2 Sixpack Galletas Saladas Ritz Original 20g,,20.0,g,7.9,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,20.0,g,7.9,GALLETAS SALADAS
+Pack x2 Sixpack Galletas Saladas Ritz Original 20g,,20.0,g,7.9,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,20.0,g,7.9,GALLETAS SALADAS
+Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,9.0,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,30.0,g,9.0,GALLETAS SALADAS
+Pack x2 Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,9.0,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,30.0,g,9.0,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Club Social Original 24g,,24.0,g,9.2,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,9.2,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Club Social Integral 24g,,24.0,g,9.2,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,9.2,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Club Social Original 24g,,24.0,g,9.2,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,9.2,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Ritz Sandwich Sabor Queso 30g,,30.0,g,9.98,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,30.0,g,9.98,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.4,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,10.4,GALLETAS SALADAS
+Twopack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.4,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,10.4,GALLETAS SALADAS
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.8,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,10.8,GALLETAS SALADAS
+Tripack Sixpack Galletas Saladas Club Social Sabor Mantequilla 24g,,24.0,g,10.8,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,10.8,GALLETAS SALADAS
+Tripack Sixpack Galletas Saladas Club Social Integral 24g,,24.0,g,10.8,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,24.0,g,10.8,GALLETAS SALADAS
+Tripack Sixpack Galletas Saladas Club Social Integral 24g,,24.0,g,10.8,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,10.8,GALLETAS SALADAS
+Tripack Sixpack Galletas Saladas Club Social Original 24g,,24.0,g,10.8,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,24.0,g,10.8,GALLETAS SALADAS
+Pack Néctar FRUGOS DEL VALLE Sabor a Naranja 235ml Six Pack + Galletas Saladas RITZ Bolsa 20g Paquete 6un,FRUGOS,235.0,ml,11.9,vivanda,2024-12-05 21:35:23.014531,GALLETAS SALADAS,235.0,ml,11.9,GALLETAS SALADAS
+Pack Néctar FRUGOS DEL VALLE Sabor a Durazno 235ml Six Pack + Galletas Saladas RITZ Bolsa 20g Paquete 6un,FRUGOS,235.0,ml,11.9,vivanda,2024-12-05 21:35:23.014531,GALLETAS SALADAS,235.0,ml,11.9,GALLETAS SALADAS
+Habas Saladas Villa Natura 250g,,250.0,g,12.2,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,250.0,g,12.2,GALLETAS SALADAS
+Almendras Saladas Cuisine&Co Pote 200 g,,200.0,g,14.36,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,200.0,g,14.36,GALLETAS SALADAS
+Galletas Saladas Colussi Reduced Salt 250g,,250.0,g,14.9,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,250.0,g,14.9,GALLETAS SALADAS
+Galletas Saladas Colussi Aceite de Oliva y Romero 250g,,250.0,g,14.9,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,250.0,g,14.9,GALLETAS SALADAS
+Galletas Saladas con Quinua y Finas Hierbas +NUTRI Co Caja 6un,NUTRISHAKE,6.0,un,15.3,vivanda,2024-12-05 21:35:23.014531,GALLETAS SALADAS,6.0,un,15.3,GALLETAS SALADAS
+Almendras Laminadas Saladas Gozana 70g,,70.0,g,17.0,wong,2024-12-05 17:44:05.556753,GALLETAS SALADAS,70.0,g,17.0,GALLETAS SALADAS
+Almendras Saladas Cuisine&Co Pote 200 g,,200.0,g,18.5,metro,2024-12-05 15:16:02.393367,GALLETAS SALADAS,200.0,g,18.5,GALLETAS SALADAS

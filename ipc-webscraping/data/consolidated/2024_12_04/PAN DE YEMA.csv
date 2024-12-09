@@ -1,29 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Galleta SAN JORGE Soda Familiar 75gr,S/ 1.60,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,75.0,g,Galleta SAN JORGE Soda Familiar r,1.6,vega,,San Jorge,PAN DE YEMA
-Galleta SAN JORGE Vainilla Familiar Paquete 120gr,S/ 1.70,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,120.0,g,Galleta SAN JORGE Vainilla Familiar Paquete r,1.7,vega,,San Jorge,PAN DE YEMA
-Galletas SAN JORGE Coconut Paquete 55g x 2u,S/ 2.00,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,55.0,g,Galletas SAN JORGE Coconut Paquete  x 2u,2.0,vega,,San Jorge,PAN DE YEMA
-Pan de Yema 5un,S/ 2.80,wong,PAN DE YEMA,2024-12-04 18:13:03.084893,5.0,un,Pan de Yema,2.8,wong,,,PAN DE YEMA
-Pan de Yema 5un,S/ 2.80,wong,PAN DE YEMA,2024-12-04 18:13:03.084893,5.0,un,Pan de Yema,2.8,wong,,,PAN DE YEMA
-Fideo SAN JORGE Spaghetti Bolsa 500gr,S/ 3.00,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,500.0,g,Fideo SAN JORGE Spaghetti Bolsa r,3.0,vega,,San Jorge,PAN DE YEMA
-Galletas SAN JORGE Vainilla Gourmet Paquete 250g,S/ 3.80,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,250.0,g,Galletas SAN JORGE Vainilla Gourmet Paquete,3.8,vega,,San Jorge,PAN DE YEMA
-Pan de Yema 5un,S/ 3.90,metro,PAN DE YEMA,2024-12-04 20:43:34.023103,5.0,un,Pan de Yema,3.9,metro,,,PAN DE YEMA
-Galletas Navideñas COLOMBINA Navidad Bolsa 150g,S/ 4.20 7%,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,150.0,g,Galletas Navideñas COLOMBINA Navidad Bolsa,4.2,vega,,San Jorge,PAN DE YEMA
-Pan de Yema LA FLORENCIA Bolsa 310g,S/ 4.20 un,plaza_vea,PAN DE YEMA,2024-12-04 12:59:30.377909,6.0,un,Pan de Yema LA FLORENCIA Bolsa,4.2,plaza_vea,Bolsa 6un,,PAN DE YEMA
-Pan de Yema LA FLORENCIA Bolsa 310g,S/ 4.30,vivanda,PAN DE YEMA,2024-12-04 17:16:12.263769,310.0,g,Pan de Yema LA FLORENCIA Bolsa,4.3,vivanda,,LA FLORENCIA,PAN DE YEMA
-Galleta SAN JORGE Soda Paquete 7un,S/ 4.80,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,7.0,un,Galleta SAN JORGE Soda Paquete,4.8,vega,,San Jorge,PAN DE YEMA
-Pan de Yema Wong 8un,S/ 5.90,wong,PAN DE YEMA,2024-12-04 18:13:03.084893,8.0,un,Pan de Yema Wong,5.9,wong,,,PAN DE YEMA
-Fórmula Láctea Liquida NAN 2 Bebés Lata 390g,S/ 6.10,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,390.0,g,Fórmula Láctea Liquida NAN 2 Bebés Lata,6.1,vega,,Nan,PAN DE YEMA
-Pan de Yema Metro 8un,S/ 6.59,metro,PAN DE YEMA,2024-12-04 20:43:34.023103,8.0,un,Pan de Yema Metro,6.59,metro,,,PAN DE YEMA
-Pan De Yema Don Mamino Bolsa 6 Unidades,S/ 8.50,wong,PAN DE YEMA,2024-12-04 18:13:03.084893,6.0,un,Pan De Yema Don Mamino Bolsa ades,8.5,wong,,,PAN DE YEMA
-Pan De Yema Don Mamino Bolsa 6 Unidades,S/ 8.50,metro,PAN DE YEMA,2024-12-04 20:43:34.023103,6.0,un,Pan De Yema Don Mamino Bolsa ades,8.5,metro,,,PAN DE YEMA
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,,P.A.N.,PAN DE YEMA
-Agua SAN MATEO sin Gas Bidón 7L,S/ 8.90,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,7.0,l,Agua SAN MATEO sin Gas Bidón,8.9,vega,,San Mateo,PAN DE YEMA
-Pan de Molde de Yema Misturapan 390g,S/ 11.59,metro,PAN DE YEMA,2024-12-04 20:43:34.023103,390.0,g,Pan de Molde de Yema Misturapan,11.59,metro,,,PAN DE YEMA
-Pan de Molde Yema 390g,S/ 11.90,wong,PAN DE YEMA,2024-12-04 18:13:03.084893,390.0,g,Pan de Molde Yema,11.9,wong,,,PAN DE YEMA
-Agua SAN CARLOS Sin Gas Caja 20 Lt,S/ 19.00,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,20.0,l,Agua SAN CARLOS Sin Gas Caja t,19.0,vega,,San Carlos,PAN DE YEMA
-Vale de Pavo SAN FERNANDO 7kg,S/ 105.90,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,7.0,kg,Vale de Pavo SAN FERNANDO,105.9,vega,,San Fernando,PAN DE YEMA
-Comida para Perro SUPERCAN Adultos Carne y Cereal Razas Medianas y Grandes Bolsa 25kg,S/ 152.50,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,25.0,kg,Comida para Perro SUPERCAN Adultos Carne y Cereal Razas Medianas y Grandes Bolsa,152.5,vega,,Super Can,PAN DE YEMA
-Comida para Perros SUPERCAN Cachorros Carne y Leche Bolsa 25kg,S/ 152.50,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,25.0,kg,Comida para Perros SUPERCAN Cachorros Carne y Leche Bolsa,152.5,vega,,Super Can,PAN DE YEMA
-Agua SAN CARLOS Sin Gas Botella 500ml Paquete 20u,,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,500.0,ml,Agua SAN CARLOS Sin Gas Botella  Paquete 20u,,vega,,San Carlos,PAN DE YEMA
-Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella 625ml Paquete 6un,,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,625.0,ml,Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella  Paquete,,vega,,San Luis,PAN DE YEMA
-Agua SAN MATEO Con Gas Paquete 15u Botella 600ml,,vega,PAN DE YEMA,2024-12-04 13:09:08.715940,600.0,ml,Agua SAN MATEO Con Gas Paquete 15u Botella,,vega,,San Mateo,PAN DE YEMA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pan de Yema 5un,,5.0,un,2.8,wong,2024-12-04 18:13:03.084893,PAN DE YEMA,5.0,un,2.8,PAN DE YEMA
+Pan de Yema 5un,,5.0,un,2.8,wong,2024-12-04 18:13:03.084893,PAN DE YEMA,5.0,un,2.8,PAN DE YEMA
+Pan de Yema 5un,,5.0,un,3.9,metro,2024-12-04 20:43:34.023103,PAN DE YEMA,5.0,un,3.9,PAN DE YEMA
+Pan de Yema LA FLORENCIA Bolsa 310g,LA FLORENCIA,310.0,g,4.3,vivanda,2024-12-04 17:16:12.263769,PAN DE YEMA,310.0,g,4.3,PAN DE YEMA
+Pan De Yema Don Mamino Bolsa 6 Unidades,,6.0,un,8.5,metro,2024-12-04 20:43:34.023103,PAN DE YEMA,6.0,un,8.5,PAN DE YEMA
+Pan De Yema Don Mamino Bolsa 6 Unidades,,6.0,un,8.5,wong,2024-12-04 18:13:03.084893,PAN DE YEMA,6.0,un,8.5,PAN DE YEMA
+Pan de Molde de Yema Misturapan 390g,,390.0,g,11.59,metro,2024-12-04 20:43:34.023103,PAN DE YEMA,390.0,g,11.59,PAN DE YEMA
+Pan de Molde Yema 390g,,390.0,g,11.9,wong,2024-12-04 18:13:03.084893,PAN DE YEMA,390.0,g,11.9,PAN DE YEMA

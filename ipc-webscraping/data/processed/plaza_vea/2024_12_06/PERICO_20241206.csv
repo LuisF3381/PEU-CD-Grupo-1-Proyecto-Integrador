@@ -1,0 +1,5 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 500g,Porciones de Perico BELL'S Bolsa 500g,S/ 25.50 un,plaza_vea,PERICO,2024-12-06 13:38:44.005140,500.0,g,Porciones de Perico BELL'S Bolsa,25.5
+Bolsa 300g,Perico en Porciones PESCANOVA Congelado Bolsa ...,S/ 14.90 un,plaza_vea,PERICO,2024-12-06 13:38:44.005140,300.0,g,Perico en Porciones PESCANOVA Congelado Bolsa,14.9
+Bolsa 500g,Porciones de Perico A-1 Bolsa 500g,S/ 38.90 un,plaza_vea,PERICO,2024-12-06 13:38:44.005140,500.0,g,Porciones de Perico A-1 Bolsa,38.9
+Caja 500g,Porciones de Perico Empanizado SEAFROST Caja 5...,S/ 18.90 un,plaza_vea,PERICO,2024-12-06 13:38:44.005140,500.0,g,Porciones de Perico Empanizado SEAFROST Caja 5,18.9

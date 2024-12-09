@@ -1,18 +1,7 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Filete de Caballa VEGA en Aceite Vegetal Lata 170g,S/ 4.40,vega,CABALLA,2024-12-04 13:34:30.865470,170.0,g,Filete de Caballa VEGA en Aceite Vegetal Lata,4.4,vega,,Vega,CABALLA
-Filete de Caballa FRESCOMAR Aceite Vegetal Lat...,S/ 4.80 un,plaza_vea,CABALLA,2024-12-04 13:27:23.942819,170.0,g,Filete de Caballa FRESCOMAR Aceite Vegetal Lat,4.8,plaza_vea,Lata 170g,,CABALLA
-Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,S/ 4.90,wong,CABALLA,2024-12-04 18:53:54.242069,170.0,g,Filete de Caballa en Aceite Vegetal Cuisine & Co,4.9,wong,,,CABALLA
-Filete de Caballa en Aceite Vegetal Tambomar 120g,S/ 5.10,metro,CABALLA,2024-12-04 21:08:46.365164,120.0,g,Filete de Caballa en Aceite Vegetal Tambomar,5.1,metro,,,CABALLA
-Filete de Caballa Marinero 140g,S/ 5.20,metro,CABALLA,2024-12-04 21:08:46.365164,140.0,g,Filete de Caballa Marinero,5.2,metro,,,CABALLA
-Sólido de Caballa CAMPOMAR en Aceite Vegetal L...,S/ 5.20 un,plaza_vea,CABALLA,2024-12-04 13:27:23.942819,170.0,g,Sólido de Caballa CAMPOMAR en Aceite Vegetal L,5.2,plaza_vea,Lata 170g,,CABALLA
-Sólido de Caballa CAMPOMAR en Aceite Vegetal L...,S/ 5.20 un,plaza_vea,CABALLA,2024-12-04 13:27:23.942819,150.0,g,Sólido de Caballa CAMPOMAR en Aceite Vegetal L,5.2,plaza_vea,Lata 150g,,CABALLA
-Sólido de Caballa CAMPOMAR en Aceite Vegetal Lata 150g,S/ 5.20,vivanda,CABALLA,2024-12-04 17:31:29.801803,150.0,g,Sólido de Caballa CAMPOMAR en Aceite Vegetal Lata,5.2,vivanda,,CAMPOMAR,CABALLA
-Sólido de Caballa CAMPOMAR en Aceite Vegetal Lata 170g,S/ 5.20,vivanda,CABALLA,2024-12-04 17:31:29.801803,170.0,g,Sólido de Caballa CAMPOMAR en Aceite Vegetal Lata,5.2,vivanda,,CAMPOMAR,CABALLA
-Filete de Caballa Marinero 140g,S/ 5.20,wong,CABALLA,2024-12-04 18:53:54.242069,140.0,g,Filete de Caballa Marinero,5.2,wong,,,CABALLA
-Sólido de Caballa Campomar en Aceite Lata 170gr,S/ 5.30,wong,CABALLA,2024-12-04 18:53:54.242069,170.0,g,Sólido de Caballa Campomar en Aceite Lata r,5.3,wong,,,CABALLA
-Sólido de Caballa Campomar en Aceite Lata 170 gr,S/ 5.30,metro,CABALLA,2024-12-04 21:08:46.365164,170.0,g,Sólido de Caballa Campomar en Aceite Lata r,5.3,metro,,,CABALLA
-Sólido de Caballa en Aceite 170 g,S/ 5.70,tottus,CABALLA,2024-12-04 13:15:35.916640,170.0,g,Sólido de Caballa en Aceite,5.7,tottus,,CAMPOMAR,CABALLA
-Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,S/ 30.20,wong,CABALLA,2024-12-04 18:53:54.242069,170.0,g,Pack x6 Sólido Caballa Aceite Vegetal Campomar,30.2,wong,,,CABALLA
-Caballa Sardina Salmón Gatos Adultos Lata 80gr x10 und,S/ 75,tottus,CABALLA,2024-12-04 13:15:35.916640,80.0,g,Caballa Sardina Salmón Gatos Adultos Lata r xd,75.0,tottus,,AMITY,CABALLA
-Leonardo Libre de Granos para Gatitos 1.8 Kg,S/ 117.90,tottus,CABALLA,2024-12-04 13:15:35.916640,1.8,kg,Leonardo Libre de Granos para Gatitos,117.9,tottus,,GENERICO,CABALLA
-Caballa Sardina Y Salmón Gatos Adultos Lata 80gr 20und,S/ 150,tottus,CABALLA,2024-12-04 13:15:35.916640,80.0,g,Caballa Sardina Y Salmón Gatos Adultos Lata r d,150.0,tottus,,AMITY,CABALLA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Filete de Caballa VEGA en Aceite Vegetal Lata 170g,Vega,170.0,g,4.4,vega,2024-12-04 13:34:30.865470,CABALLA,170.0,g,4.4,CABALLA
+Filete de Caballa en Aceite Vegetal Cuisine & Co 170g,,170.0,g,4.9,wong,2024-12-04 18:53:54.242069,CABALLA,170.0,g,4.9,CABALLA
+Filete de Caballa Marinero 140g,,140.0,g,5.2,wong,2024-12-04 18:53:54.242069,CABALLA,140.0,g,5.2,CABALLA
+Sólido de Caballa Campomar en Aceite Lata 170gr,,170.0,g,5.3,wong,2024-12-04 18:53:54.242069,CABALLA,170.0,g,5.3,CABALLA
+Combo Agua TIMONEL Botella 2.5L + Filete de caballa VEGA Lata 170g + Galleta Soda SAN JORGE Paquete 7u,Timonel,2.5,l,11.0,vega,2024-12-04 13:34:30.865470,CABALLA,2.5,l,11.0,CABALLA
+Pack x6 Sólido Caballa Aceite Vegetal Campomar 170g,,170.0,g,30.2,wong,2024-12-04 18:53:54.242069,CABALLA,170.0,g,30.2,CABALLA

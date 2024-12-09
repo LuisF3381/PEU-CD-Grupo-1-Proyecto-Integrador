@@ -1,26 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Harina BENOTI Sin Prepar Paquete 180 gr,S/ 1.20,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,180.0,g,Harina BENOTI Sin Prepar Paquete r,1.2,vega,,Benoti,HARINA DE MAÍZ BLANCO
-Harina GRANO DE ORO Sin Preparar Paquete 180gr,S/ 1.30,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,180.0,g,Harina GRANO DE ORO Sin Preparar Paquete r,1.3,vega,,Grano De Oro,HARINA DE MAÍZ BLANCO
-Arroz Extra COSTEÑO Bolsa 750g,S/ 4.70,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,750.0,g,Arroz Extra COSTEÑO Bolsa,4.7,vega,,Costeño,HARINA DE MAÍZ BLANCO
-Maíz Pop Corn COSTEÑO Bolsa 500g,S/ 4.90,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,500.0,g,Maíz Pop Corn COSTEÑO Bolsa,4.9,vega,,Costeño,HARINA DE MAÍZ BLANCO
-Harina BENOTI Sin Preparar Paquete 1Kg,S/ 5.30,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina BENOTI Sin Preparar Paquete,5.3,vega,,Benoti,HARINA DE MAÍZ BLANCO
-Maíz Pop Corn VALLENORTE Bolsa 500gr,S/ 5.30,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,500.0,g,Maíz Pop Corn VALLENORTE Bolsa r,5.3,vega,,VALLENORTE,HARINA DE MAÍZ BLANCO
-Harina BENOTI Preparada Paquete 1Kg,S/ 6.00,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina BENOTI Preparada Paquete,6.0,vega,,Benoti,HARINA DE MAÍZ BLANCO
-Harina MOLITALIA sin Preparar Bolsa 1kg,S/ 6.20,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina MOLITALIA sin Preparar Bolsa,6.2,vega,,Molitalia,HARINA DE MAÍZ BLANCO
-Harina GRANO DE ORO Preparada Paquete 1kg,S/ 6.30,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina GRANO DE ORO Preparada Paquete,6.3,vega,,Grano De Oro,HARINA DE MAÍZ BLANCO
-Harina MORIXE de Maiz Blanco Bolsa 1Kg,S/ 6.90,vivanda,HARINA DE MAÍZ BLANCO,2024-12-04 17:13:43.173704,1.0,kg,Harina MORIXE de Maiz Blanco Bolsa,6.9,vivanda,,MORIXE,HARINA DE MAÍZ BLANCO
-Harina MOLITALIA Preparada Bolsa 1kg,S/ 6.90,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina MOLITALIA Preparada Bolsa,6.9,vega,,Molitalia,HARINA DE MAÍZ BLANCO
-Harina BLANCA FLOR Preparada Paquete 1Kg,S/ 8.00,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina BLANCA FLOR Preparada Paquete,8.0,vega,,Blanca Flor,HARINA DE MAÍZ BLANCO
-Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,S/ 8.50,wong,HARINA DE MAÍZ BLANCO,2024-12-04 18:05:00.756363,1.0,kg,Harina de Maiz Blanco Precocida P.A.N Contenido,8.5,wong,,,HARINA DE MAÍZ BLANCO
-Harina de Maíz PAN Precocida Bolsa 1kg,S/ 8.50 13%,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,kg,Harina de Maíz PAN Precocida Bolsa,8.5,vega,,P.A.N.,HARINA DE MAÍZ BLANCO
-Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,S/ 8.50,metro,HARINA DE MAÍZ BLANCO,2024-12-04 20:38:03.617300,1.0,kg,Harina de Maiz Blanco Precocida P.A.N Contenido,8.5,metro,,,HARINA DE MAÍZ BLANCO
-Mizena DURYEA Caja 500gr,S/ 8.90 10%,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,500.0,g,Mizena DURYEA Caja r,8.9,vega,,Duryea,HARINA DE MAÍZ BLANCO
-Harina de Maíz Blanco P.A.N. Precocida Bolsa 1...,S/ 9.50 un,plaza_vea,HARINA DE MAÍZ BLANCO,2024-12-04 12:55:31.744690,1.0,kg,Harina de Maíz Blanco P.A.N. Precocida Bolsa 1,9.5,plaza_vea,Bolsa 1kg,,HARINA DE MAÍZ BLANCO
-Harina Precocida DOÑAREPA Maíz Blanco Paquete ...,S/ 9.80 un,plaza_vea,HARINA DE MAÍZ BLANCO,2024-12-04 12:55:31.744690,1.0,kg,Harina Precocida DOÑAREPA Maíz Blanco Paquete,9.8,plaza_vea,Paquete 1Kg,,HARINA DE MAÍZ BLANCO
-Harina de Maíz Blanco Precocida Doñarepa 1kg,S/ 9.80,metro,HARINA DE MAÍZ BLANCO,2024-12-04 20:38:03.617300,1.0,kg,Harina de Maíz Blanco Precocida Doñarepa,9.8,metro,,,HARINA DE MAÍZ BLANCO
-Harina Precocida DOÑAREPA Maíz Blanco Paquete 1Kg,S/ 9.90,vivanda,HARINA DE MAÍZ BLANCO,2024-12-04 17:13:43.173704,1.0,kg,Harina Precocida DOÑAREPA Maíz Blanco Paquete,9.9,vivanda,,DOÑAREPA,HARINA DE MAÍZ BLANCO
-Harina de Maíz Blanco Precocida Doñarepa 1kg,S/ 9.90,wong,HARINA DE MAÍZ BLANCO,2024-12-04 18:05:00.756363,1.0,kg,Harina de Maíz Blanco Precocida Doñarepa,9.9,wong,,,HARINA DE MAÍZ BLANCO
-Ron CABO BLANCO Black Botella 1L,S/ 17.90,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,1.0,l,Ron CABO BLANCO Black Botella,17.9,vega,,CABO BLANCO,HARINA DE MAÍZ BLANCO
-Panetón BLANCA FLOR Caja 900g,S/ 24.90 11%,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,900.0,g,Panetón BLANCA FLOR Caja,24.9,vega,,Blanca Flor,HARINA DE MAÍZ BLANCO
-Arroz Extra GRAN CHALAN Bolsa 5 kg,S/ 24.90 4%,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,5.0,kg,Arroz Extra GRAN CHALAN Bolsa,24.9,vega,,Gran Chalan,HARINA DE MAÍZ BLANCO
-Arroz Extra FARAON Bolsa 5Kg,S/ 26.20 4%,vega,HARINA DE MAÍZ BLANCO,2024-12-04 13:03:51.673580,5.0,kg,Arroz Extra FARAON Bolsa,26.2,vega,,Faraon,HARINA DE MAÍZ BLANCO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Harina MORIXE de Maiz Blanco Bolsa 1Kg,MORIXE,1.0,kg,6.9,vivanda,2024-12-04 17:13:43.173704,HARINA DE MAÍZ BLANCO,1.0,kg,6.9,HARINA DE MAÍZ BLANCO
+Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,,1.0,kg,8.5,wong,2024-12-04 18:05:00.756363,HARINA DE MAÍZ BLANCO,1.0,kg,8.5,HARINA DE MAÍZ BLANCO
+Harina de Maiz Blanco Precocida P.A.N Contenido 1 kg,,1.0,kg,8.5,metro,2024-12-04 20:38:03.617300,HARINA DE MAÍZ BLANCO,1.0,kg,8.5,HARINA DE MAÍZ BLANCO

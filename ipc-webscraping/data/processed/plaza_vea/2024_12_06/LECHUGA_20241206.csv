@@ -1,0 +1,30 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 300g,Lechuga Americana BELL's Bolsa 300g,S/ 1.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,300.0,g,Lechuga Americana BELL's Bolsa,1.99
+Paquete 1un,Lechuga Crespa BELL'S,S/ 2.19 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Crespa BELL'S,2.19
+Bolsa 200g,Lechuga Seda Hidropónica BELL'S Bolsa 200g,S/ 3.39 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,200.0,g,Lechuga Seda Hidropónica BELL'S Bolsa,3.39
+Bolsa 200g,Lechuga Crespa Hidropónica BELL'S Bolsa 200g,S/ 3.29 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,200.0,g,Lechuga Crespa Hidropónica BELL'S Bolsa,3.29
+Bolsa 200g,Lechuga Roja Hidropónica BELL'S Bolsa 200g,S/ 3.69 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,200.0,g,Lechuga Roja Hidropónica BELL'S Bolsa,3.69
+Bolsa 1un,Lechuga Americana de Verano VIVA Bolsa Unidad,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Americana de Verano VIVA Bolsa Unidad,4.99
+Bolsa 200g,Lechuga Crespa Entera VERDE PURO Bolsa 200g,S/ 3.69 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,200.0,g,Lechuga Crespa Entera VERDE PURO Bolsa,3.69
+Paquete 1un,Lechuga Entera VERDE PURO,S/ 7.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Entera VERDE PURO,7.99
+Bolsa 1un,Mix de Lechuga VERDE PURO Bolsa Unidad,S/ 7.59 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Mix de Lechuga VERDE PURO Bolsa Unidad,7.59
+Bolsa 170gun,Lechuga Romana BELL'S FRESCOS Bolsa 170g,S/ 3.69 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,170.0,g,Lechuga Romana BELL'S FRESCOS Bolsa,3.69
+Paquete 1un,Lechuga Hidropónica,S/ 3.29 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Hidropónica,3.29
+Bolsa 1un,Lechuga Butterhead VIVA Bolsa Unidad,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Butterhead VIVA Bolsa Unidad,4.99
+Paquete 1un,Lechuga Crespa VIVA x un,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Crespa VIVA,4.99
+Bolsa 1un,Lechuga Romana VIVA Bolsa 1un,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Lechuga Romana VIVA Bolsa,4.99
+Bolsa 350g,Espinaca BELL'S Bolsa 350g,S/ 3.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,350.0,g,Espinaca BELL'S Bolsa,3.99
+Bolsa 60g,Culantro BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,60.0,g,Culantro BELL'S Bolsa,1.99
+Bolsa 80g,Albahaca BELL'S Bolsa 80g,S/ 2.49 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,80.0,g,Albahaca BELL'S Bolsa,2.49
+Bolsa 150g,Espinaca Bebé BELL'S Bolsa 150g,S/ 4.39 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,150.0,g,Espinaca Bebé BELL'S Bolsa,4.39
+Bolsa 60g,Perejil BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,60.0,g,Perejil BELL'S Bolsa,1.99
+Bolsa 120gun,Albahaca Deshojada BELL'S FRESCOS 120g,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,120.0,g,Albahaca Deshojada BELL'S FRESCOS,4.99
+Bolsa 500g,Espinaca VERDE PURO Bolsa 500g,S/ 8.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,500.0,g,Espinaca VERDE PURO Bolsa,8.99
+Paquete 1un,Huacatay Atado,S/ 1.49 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,1.0,un,Huacatay Atado,1.49
+Bolsa 300g,Acelga BELL'S Bolsa 300g,S/ 3.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,300.0,g,Acelga BELL'S Bolsa,3.99
+Paquete 160g,Arúgula VERDE PURO Paquete 160g,S/ 7.60 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,160.0,g,Arúgula VERDE PURO Paquete,7.6
+Bolsa 180g,Espinaca Bebé VERDE PURO Bolsa 180g,S/ 8.59 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,180.0,g,Espinaca Bebé VERDE PURO Bolsa,8.59
+Bolsa 70gun,Arúgula Hidropónica BELL'S FRESCOS Bolsa 70g,S/ 4.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,70.0,g,Arúgula Hidropónica BELL'S FRESCOS Bolsa,4.99
+Bolsa 120g,Albahaca Fresca VERDE PURO Bolsa 120g,S/ 7.29 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,120.0,g,Albahaca Fresca VERDE PURO Bolsa,7.29
+Táper 120g,Berros Hidropónicos VERDE PURO Taper 120g,S/ 10.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,120.0,g,Berros Hidropónicos VERDE PURO Taper,10.99
+Bolsa 120g,Acelga Fresca VERDE PURO Bolsa 120g,S/ 5.99 un,plaza_vea,LECHUGA,2024-12-06 14:08:44.676343,120.0,g,Acelga Fresca VERDE PURO Bolsa,5.99

@@ -1,0 +1,101 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 2.2 kg aprox.,Pollo Entero Fresco con Menudencia,S/ 9.40 x kg,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,2.2,kg,Pollo Entero Fresco con Menudencia,9.4
+Paquete 6un,Leche Reconstituida Entera GLORIA Lata 390g Pa...,S/ 22.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche Reconstituida Entera GLORIA Lata  Pa,22.9
+Paquete 6un,Leche GLORIA Zero Lacto Lata 390g Paquete 6un,S/ 23.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche GLORIA Zero Lacto Lata  Paquete,23.5
+Caja 1L,Leche UHT sin Lactosa GLORIA Zero Caja 1L Paqu...,S/ 15.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,l,Leche UHT sin Lactosa GLORIA Zero Caja  Paqu,15.9
+Paquete 1un,Choclo Entero un,S/ 1.89 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,un,Choclo Entero un,1.89
+Paquete 6un,Leche Light GLORIA Lata 390g Paquete 6un,S/ 23.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche Light GLORIA Lata  Paquete,23.5
+Paquete 3un,Leche UHT GLORIA Entera Pack 3un x 1L,S/ 15.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,3.0,un,Leche UHT GLORIA Entera Pack  x,15.9
+Presentación 0.25 kg aprox.,Ajo Entero,S/ 14.99 x kg,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,0.25,kg,Ajo Entero,14.99
+Bolsa 500g,Lenteja Bebé BELL'S Bolsa 500g,S/ 5.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Lenteja Bebé BELL'S Bolsa,5.2
+Galonera 1.7Kg,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,8.9
+Paquete 3un,Leche UHT GLORIA Light Pack 3un x 1L,S/ 16.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,3.0,un,Leche UHT GLORIA Light Pack  x,16.5
+Bolsa 500g,Lentejas BELL'S Bolsa 500g,S/ 4.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Lentejas BELL'S Bolsa,4.9
+Bandeja 200g,Champiñon Entero BELL'S Bandeja 200g,S/ 4.99 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,200.0,g,Champiñon Entero BELL'S Bandeja,4.99
+Paquete 6un,Leche sin Lactosa LAIVE Botella 390g Paquete 6...,S/ 23.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche sin Lactosa LAIVE Botella  Paquete 6,23.2
+Paquete 4un,Leche sin Lactosa LAIVE UHT Caja 946ml Paquete...,S/ 24.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,4.0,un,Leche sin Lactosa LAIVE UHT Caja  Paquete,24.5
+Galonera 1.7Kg,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,8.9
+Paquete 6un,Leche GLORIA Niños Lata 390g Paquete 6un,S/ 24.80 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche GLORIA Niños Lata  Paquete,24.8
+Paquete 1un,Poro Entero un,S/ 1.29 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,un,Poro Entero un,1.29
+Paquete 6un,Leche sin Lactosa LAIVE Light Botella 390g Paq...,S/ 23.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche sin Lactosa LAIVE Light Botella  Paq,23.2
+Bolsa 800g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 7 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,7.0
+Paquete 3un,Leche GLORIA UHT Entera Bolsa 900ml Paquete 3u...,S/ 13.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,3.0,un,Leche GLORIA UHT Entera Bolsa  Paquete 3u,13.5
+Paquete 12un,Leche Reconstituida Entera GLORIA Lata 390g Pa...,S/ 49.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,12.0,un,Leche Reconstituida Entera GLORIA Lata  Pa,49.2
+Balde 1Kg,Yogurt Griego VAKIMU Original Balde 1Kg,S/ 15.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Griego VAKIMU Original Balde,15.9
+Bolsa 500g,Lenteja Bebé TESORO DEL CAMPO Bolsa 500g,S/ 5.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Lenteja Bebé TESORO DEL CAMPO Bolsa,5.5
+Bolsa 500g,Lenteja COSTEÑO Bolsa 500g,S/ 6.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Lenteja COSTEÑO Bolsa,6.6
+Lata 393g,Leche Condensada NESTLÉ Lata 393g,S/ 6 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,393.0,g,Leche Condensada NESTLÉ Lata,6.0
+Paquete 3un,Leche Descremada GLORIA Slim UHT Triple Zero C...,S/ 16.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,3.0,un,Leche Descremada GLORIA Slim UHT Triple Zero C,16.5
+Bandeja 200g,Champiñones Enteros PACCU Bandeja 200g,S/ 6.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,200.0,g,Champiñones Enteros PACCU Bandeja,6.5
+Vaso 146g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj...,S/ 3.10 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,146.0,g,Yogurt GLORIA Battimix Vainilla con Arroz Cruj,3.1
+Paquete 6un,Leche Evaporada Entera GLORIA Lata 390g Paquet...,S/ 22.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche Evaporada Entera GLORIA Lata  Paquet,22.9
+Galonera 1.7Kg,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,8.9
+Presentación 1.2 kg aprox.,Pechuga Entera de Pollo Empacada al vacío SAN ...,S/ 14.90 x kg,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.2,kg,Pechuga Entera de Pollo Empacada al vacío SAN,14.9
+Botella 900ml,Leche Fresca DANLAC Botella 900ml,S/ 7.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,ml,Leche Fresca DANLAC Botella,7.6
+Paquete 270g,Jabón de Tocador DOVE Leche de Coco Barra 90g ...,S/ 11.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,270.0,g,Jabón de Tocador DOVE Leche de Coco Barra,11.9
+Bolsa 900ml,Leche UHT LAIVE Entera Bolsa 900ml,S/ 3.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,ml,Leche UHT LAIVE Entera Bolsa,3.9
+Sobre 10g,Canela Entera SIBARITA Sobre 10g,S/ 3.59 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,10.0,g,Canela Entera SIBARITA Sobre,3.59
+Botella 900g,Yogurt DANLAC Maracumango Botella 900g,S/ 9.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt DANLAC Maracumango Botella,9.9
+Galonera 1.7Kg,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,8.9
+Lata 390g,Leche Condensada BELL'S Lata 390g,S/ 4.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,390.0,g,Leche Condensada BELL'S Lata,4.6
+Galonera 1.7Kg,Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner...,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Fresa Galoner,11.5
+Paquete 6un,Leche Chocolatada GLORIA UHT Niños Caja 180ml ...,S/ 9.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche Chocolatada GLORIA UHT Niños Caja,9.5
+Paquete 3un,Leche UHT GLORIA Niños Pack 3un x 1L,S/ 16.30 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,3.0,un,Leche UHT GLORIA Niños Pack  x,16.3
+Sobre 8g,Orégano BELL'S Entero Sobre 8Gr,S/ 1.10 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,8.0,g,Orégano BELL'S Entero Sobre r,1.1
+Bolsa 800g,Yogurt Batido GLORIA Griego Sabor Natural Bols...,S/ 7 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Batido GLORIA Griego Sabor Natural Bols,7.0
+Pote 900g,Yogurt Griego Descremado DANLAC Natural Pote 9...,S/ 17.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt Griego Descremado DANLAC Natural Pote 9,17.5
+Lata 390g,Leche Reconstituida Entera GLORIA Lata 390g,S/ 4.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,390.0,g,Leche Reconstituida Entera GLORIA Lata,4.2
+Bolsa 1Kg,Fresa Entera Congelada EL FRUTERO Bolsa 1Kg,S/ 15.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Fresa Entera Congelada EL FRUTERO Bolsa,15.5
+Botella 900g,Yogurt DANLAC Frutado de Fresa Botella 900g,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt DANLAC Frutado de Fresa Botella,11.5
+Pote 500g,Yogurt Skyr PLUSA Pote 500g,S/ 17.70 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Yogurt Skyr PLUSA Pote,17.7
+Balde 1Kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1...,S/ 15.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Griego VAKIMU Frutos del Bosque Balde 1,15.9
+Galonera 1.7Kg,Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K...,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt LAIVE Sbelt Sabor a Fresa Galonera 1.7K,11.5
+Galonera 1.7Kg,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Parcialmente Descremado GLORIA Sabor a,8.9
+Galonera 1.7Kg,Yogurt Slim GLORIA Sabor a Vainilla Galonera 1...,S/ 10.30 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Slim GLORIA Sabor a Vainilla Galonera 1,10.3
+Botella 390g,Leche sin Lactosa LAIVE Botella 390g,S/ 4.40 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,390.0,g,Leche sin Lactosa LAIVE Botella,4.4
+Paquete 6un,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 10 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Yogurt Parcialmente Descremado GLORIA Sabor a,10.0
+Botella 900g,Yogurt Natural DANLAC Botella 900g,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt Natural DANLAC Botella,11.5
+Paquete 4un,Leche sin Lactosa LAIVE UHT Light Caja 946ml P...,S/ 22.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,4.0,un,Leche sin Lactosa LAIVE UHT Light Caja  P,22.9
+Galonera 1.7Kg,Yogurt Bebible LAIVE Bio Sabor a Vainilla Galo...,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Bebible LAIVE Bio Sabor a Vainilla Galo,11.5
+Caja 200ml,Crema de Leche UHT GLORIA Caja 200ml,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,200.0,ml,Crema de Leche UHT GLORIA Caja,8.9
+Paquete 6un,Leche LAIVE Practi Tarro Botella 390g Paquete ...,S/ 21.29 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche LAIVE Practi Tarro Botella  Paquete,21.29
+Paquete 6un,Leche GLORIA Reconstituida 6 Pack Lata 170g,S/ 12.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche GLORIA Reconstituida 6 Pack Lata,12.9
+Galonera 1.7Kg,Yogurt LAIVE Sbelt Sabor a Vainilla Galonera 1...,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt LAIVE Sbelt Sabor a Vainilla Galonera 1,11.5
+Botella 1Kg,Yogurt Bebible GLORIA Sabor a Fresa Botella 1K...,S/ 6.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Bebible GLORIA Sabor a Fresa Botella 1K,6.2
+Vaso 120g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos...,S/ 2.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,120.0,g,Yogurt Batido GLORIA Griego Sabor Frutos Rojos,2.2
+Galonera 1.7Kg,Yogurt Sabor a Fresa sin Lactosa LAIVE Galoner...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Sabor a Fresa sin Lactosa LAIVE Galoner,8.9
+Botella 1.7Kg,Yogurt GLORIA Parcialmente Descremado Sabor a ...,S/ 8.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt GLORIA Parcialmente Descremado Sabor a,8.9
+Botella 900g,Yogurt DANLAC Frutado Frutos del Bosque Botell...,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt DANLAC Frutado Frutos del Bosque Botell,11.5
+Bolsa 390g,Leche LAIVE Bolsitarro Bolsa 390g,S/ 3.40 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,390.0,g,Leche LAIVE Bolsitarro Bolsa,3.4
+Bolsa 500g,Lenteja Bebé VALLENORTE Bolsa 500g,S/ 6.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,500.0,g,Lenteja Bebé VALLENORTE Bolsa,6.5
+Paquete 4un,Leche Entera LAIVE UHT Caja 946ml Paquete 4un,S/ 22.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,4.0,un,Leche Entera LAIVE UHT Caja  Paquete,22.5
+Botella 1.7Kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos ...,S/ 10.30 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt GLORIA Slim Triple Zero Sabor a Frutos,10.3
+Botella 390g,Leche sin Lactosa LAIVE Light Botella 390g,S/ 4.70 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,390.0,g,Leche sin Lactosa LAIVE Light Botella,4.7
+Botella 800g,Yogurt Griego LAIVE Frutos Rojos Botella 800g,S/ 9.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Griego LAIVE Frutos Rojos Botella,9.9
+Bolsa 800g,Yogurt Batido GLORIA Griego Sabor Mango Bolsa ...,S/ 7 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Batido GLORIA Griego Sabor Mango Bolsa,7.0
+Sobre 12g,Canela Entera BELL'S Sobre 12g,S/ 4.09 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,12.0,g,Canela Entera BELL'S Sobre,4.09
+Vaso 120g,Yogurt GLORIA Batti Shake Fresa Vaso 120g,S/ 1.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,120.0,g,Yogurt GLORIA Batti Shake Fresa Vaso,1.6
+Vaso 120g,Yogurt GLORIA Batti Shake Vainilla Vaso 120g,S/ 1.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,120.0,g,Yogurt GLORIA Batti Shake Vainilla Vaso,1.6
+Bolsa 800g,Yogurt Batido GLORIA Griego con Miel Bolsa 800...,S/ 7 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Batido GLORIA Griego con Miel Bolsa 800,7.0
+Galonera 1.7Kg,Yogurt Slim GLORIA Sabor a Fresa Galonera 1.7K...,S/ 10.30 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt Slim GLORIA Sabor a Fresa Galonera 1.7K,10.3
+Frasco 420g,Yogurt Griego DANLAC Cultivos Probióticos Fras...,S/ 10.99 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,420.0,g,Yogurt Griego DANLAC Cultivos Probióticos Fras,10.99
+Paquete 6un,Leche sin Lactosa LAIVE Sabor a Chocolate Caja...,S/ 9.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche sin Lactosa LAIVE Sabor a Chocolate Caja,9.2
+Pack 2un,Pack HERBAL ESSENCES Shampoo Leche de Coco Fra...,S/ 51.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,2.0,un,Pack HERBAL ESSENCES Shampoo Leche de Coco Fra,51.9
+Bolsa 900ml,Leche UHT LAIVE Entera Sin Lactosa Bolsa 900ml,S/ 4.60 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,ml,Leche UHT LAIVE Entera Sin Lactosa Bolsa,4.6
+Bolsa 800ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa...,S/ 2.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,ml,Bebida de Leche Chocolatada LA PREFERIDA Bolsa,2.9
+Pote 1Kg,Yogurt Griego de Arándanos VAKIMU YOG Pote 1Kg,S/ 15.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Griego de Arándanos VAKIMU YOG Pote,15.9
+Botella 1Kg,Yogurt Bebible GLORIA Sabor a Vainilla Botella...,S/ 6.20 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Bebible GLORIA Sabor a Vainilla Botella,6.2
+Bolsa 800ml,Leche UHT VIGOR Bolsa 800ml,S/ 2.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,ml,Leche UHT VIGOR Bolsa,2.9
+Vaso 146g,Yogurt Battimix GLORIA Fresa con Bolitas de Ch...,S/ 3.10 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,146.0,g,Yogurt BattimiLORIA Fresa con Bolitas de Ch,3.1
+Paquete 6un,Yogurt Parcialmente Descremado GLORIA Sabor a ...,S/ 10 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Yogurt Parcialmente Descremado GLORIA Sabor a,10.0
+10L Rollo 20un,Bolsas de Basura ETERNA Aromas 10L Rollo 20un,S/ 7.30 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,10.0,l,Bolsas de Basura ETERNA Aromas  Rollo,7.3
+Vaso 120g,Yogurt GLORIA Frutado Fresa Vaso 120g,S/ 1.70 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,120.0,g,Yogurt GLORIA Frutado Fresa Vaso,1.7
+Paquete 4un,Leche SBELT UHT Descremada Caja 946ml Paquete ...,S/ 23.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,4.0,un,Leche SBELT UHT Descremada Caja  Paquete,23.5
+Bolsa 800ml,Leche Light VIGOR Bolsa 800ml,S/ 3.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,ml,Leche Light VIGOR Bolsa,3.9
+Pote 900g,Yogurt Griego Descremado DANLAC Sabor a Aránda...,S/ 17.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,900.0,g,Yogurt Griego Descremado DANLAC Sabor a Aránda,17.5
+Lata 300g,Crema de Leche NESTLÉ Lata 300g,S/ 10.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,300.0,g,Crema de Leche NESTLÉ Lata,10.9
+Botella 1Kg,Yogurt Bebible GLORIA sin Lactosa Fresa Botell...,S/ 5.99 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.0,kg,Yogurt Bebible GLORIA sin Lactosa Fresa Botell,5.99
+Botella 800g,Yogurt Griego Natural LAIVE Botella 800g,S/ 9.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,g,Yogurt Griego Natural LAIVE Botella,9.9
+Galonera 1.7Kg,Yogurt LAIVE Sbelt Sabor a Durazno Galonera 1....,S/ 11.50 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,1.7,kg,Yogurt LAIVE Sbelt Sabor a Durazno Galonera 1,11.5
+Bolsa 800ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80...,S/ 3 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,800.0,ml,Bebida de Leche UHT BONLÉ Chocolatada Bolsa 80,3.0
+Paquete 6un,Leche GLORIA Light Lata 170g Paquete 6un,S/ 14.90 un,plaza_vea,YOGUR DE LECHE ENTERA,2024-12-07 13:40:33.723537,6.0,un,Leche GLORIA Light Lata  Paquete,14.9

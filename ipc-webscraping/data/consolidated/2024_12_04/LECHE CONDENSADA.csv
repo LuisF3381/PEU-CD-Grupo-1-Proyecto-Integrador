@@ -1,21 +1,19 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Leche Condensada NESTLÉ Toppings Lata 100g,S/ 3.00,vivanda,LECHE CONDENSADA,2024-12-04 17:38:52.688129,100.0,g,Leche Condensada NESTLÉ Toppings Lata,3.0,vivanda,,NESTLÉ,LECHE CONDENSADA
-Leche Condensada NESTLÉ Toppings Lata 100g,S/ 3 un,plaza_vea,LECHE CONDENSADA,2024-12-04 13:39:23.810303,100.0,g,Leche Condensada NESTLÉ Toppings Lata,3.0,plaza_vea,Lata 100g,,LECHE CONDENSADA
-Leche Condensada NESTLÉ Lata 100g,S/ 3.80 un,plaza_vea,LECHE CONDENSADA,2024-12-04 13:39:23.810303,100.0,g,Leche Condensada NESTLÉ Lata,3.8,plaza_vea,Lata 100g,,LECHE CONDENSADA
-Leche Condensada Lata x 100 g,S/ 3.80,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,100.0,g,Leche Condensada Lata x,3.8,tottus,,NESTLE,LECHE CONDENSADA
-Leche Condensada BELL'S Lata 390g,S/ 4.60,vivanda,LECHE CONDENSADA,2024-12-04 17:38:52.688129,390.0,g,Leche Condensada BELL'S Lata,4.6,vivanda,,BELL'S,LECHE CONDENSADA
-Leche Condensada Gloria Doy Pack 200 g,S/ 5.30,metro,LECHE CONDENSADA,2024-12-04 21:19:05.464544,200.0,g,Leche Condensada Gloria Doy Pack,5.3,metro,,,LECHE CONDENSADA
-Alimento Azucarado Bonlé 397g,S/ 5.50,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,397.0,g,Alimento Azucarado Bonlé,5.5,wong,,,LECHE CONDENSADA
-Condensada Nestlé Topping 397g,S/ 5.50,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,397.0,g,Condensada Nestlé Topping,5.5,wong,,,LECHE CONDENSADA
-Condensada Nestlé Topping 397g,S/ 5.50,metro,LECHE CONDENSADA,2024-12-04 21:19:05.464544,397.0,g,Condensada Nestlé Topping,5.5,metro,,,LECHE CONDENSADA
-Leche Condensada Cuisine & Co Lata 397g,S/ 5.90,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,397.0,g,Leche Condensada Cuisine & Co Lata,5.9,wong,,,LECHE CONDENSADA
-Leche Condensada Nestlé Lata 393g,S/ 6.20,metro,LECHE CONDENSADA,2024-12-04 21:19:05.464544,393.0,g,Leche Condensada Nestlé Lata,6.2,metro,,,LECHE CONDENSADA
-Leche Condensada Gloria 393g,S/ 6.50,metro,LECHE CONDENSADA,2024-12-04 21:19:05.464544,393.0,g,Leche Condensada Gloria,6.5,metro,,,LECHE CONDENSADA
-Leche Condensada Nestlé 393 g,S/ 6.50,tottus,LECHE CONDENSADA,2024-12-04 13:22:33.119539,393.0,g,Leche Condensada Nestlé,6.5,tottus,,NESTLE,LECHE CONDENSADA
-Leche Condensada Gloria 393g,S/ 6.50,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,393.0,g,Leche Condensada Gloria,6.5,wong,,,LECHE CONDENSADA
-Leche Condensada NESTLÉ Lata 393g,S/ 6.90,vega,LECHE CONDENSADA,2024-12-04 13:45:28.644895,393.0,g,Leche Condensada NESTLÉ Lata,6.9,vega,,Nestle,LECHE CONDENSADA
-Leche Condensada Sin Lactosa Nestlé 387g,S/ 7.40,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,387.0,g,Leche Condensada Sin Lactosa Nestlé,7.4,wong,,,LECHE CONDENSADA
-Leche Condensada Sin Lactosa Nestlé 387g,S/ 7.40,metro,LECHE CONDENSADA,2024-12-04 21:19:05.464544,387.0,g,Leche Condensada Sin Lactosa Nestlé,7.4,metro,,,LECHE CONDENSADA
-Leche Condensada NESTLÉ Sin Lactosa Lata 387g,S/ 8 un,plaza_vea,LECHE CONDENSADA,2024-12-04 13:39:23.810303,387.0,g,Leche Condensada NESTLÉ Sin Lactosa Lata,8.0,plaza_vea,Lata 387g,,LECHE CONDENSADA
-Bebida a Base de Coco Condensada Lata 320 g,S/ 12.90,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,320.0,g,Bebida a Base de Coco Condensada Lata,12.9,wong,,,LECHE CONDENSADA
-Leche Condesada de Coco Orgánica Lata 210 g,S/ 20.50,wong,LECHE CONDENSADA,2024-12-04 19:08:27.568007,210.0,g,Leche Condesada de Coco Orgánica Lata,20.5,wong,,,LECHE CONDENSADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Condensada Topping Nestle 100g,,100.0,g,3.0,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,30.0,LECHE CONDENSADA
+Leche Condensada NESTLÉ Toppings Lata 100g,,100.0,g,3.0,plaza_vea,2024-12-04 13:39:23.810303,LECHE CONDENSADA,1.0,kg,30.0,LECHE CONDENSADA
+Leche Condensada Lata x 100 g,NESTLE,100.0,g,3.8,tottus,2024-12-04 13:22:33.119539,LECHE CONDENSADA,1.0,kg,38.0,LECHE CONDENSADA
+Leche Condensada Nestlé Lata 100g,,100.0,g,3.8,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,38.0,LECHE CONDENSADA
+Leche Condensada NESTLÉ Lata 100g,,100.0,g,3.8,plaza_vea,2024-12-04 13:39:23.810303,LECHE CONDENSADA,1.0,kg,38.0,LECHE CONDENSADA
+Leche Condensada BELL'S Lata 390g,,390.0,g,4.6,plaza_vea,2024-12-04 13:39:23.810303,LECHE CONDENSADA,1.0,kg,11.794871794871792,LECHE CONDENSADA
+Leche Condensada Gloria Doy Pack 200 g,,200.0,g,5.3,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,26.5,LECHE CONDENSADA
+Leche Condensada Gloria Doy Pack 200 g,,200.0,g,5.3,metro,2024-12-04 21:19:05.464544,LECHE CONDENSADA,1.0,kg,26.5,LECHE CONDENSADA
+Condensada Nestlé Topping 397g,,397.0,g,5.5,metro,2024-12-04 21:19:05.464544,LECHE CONDENSADA,1.0,kg,13.853904282115868,LECHE CONDENSADA
+Leche Condensada Bonlé Lata x 397g,BONLE,397.0,g,5.5,tottus,2024-12-04 13:22:33.119539,LECHE CONDENSADA,1.0,kg,13.853904282115868,LECHE CONDENSADA
+Leche Condensada Cuisine & Co Lata 397g,,397.0,g,5.9,metro,2024-12-04 21:19:05.464544,LECHE CONDENSADA,1.0,kg,14.86146095717884,LECHE CONDENSADA
+Leche Condensada Nestlé Lata 393g,,393.0,g,6.2,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,15.776081424936388,LECHE CONDENSADA
+Leche Condensada Nestlé Lata 393g,,393.0,g,6.2,metro,2024-12-04 21:19:05.464544,LECHE CONDENSADA,1.0,kg,15.776081424936388,LECHE CONDENSADA
+Leche Condensada NESTLÉ Lata 393g,NESTLÉ,393.0,g,6.3,vivanda,2024-12-04 17:38:52.688129,LECHE CONDENSADA,1.0,kg,16.03053435114504,LECHE CONDENSADA
+Leche Condensada GLORIA Lata 393g,GLORIA,393.0,g,6.9,vivanda,2024-12-04 17:38:52.688129,LECHE CONDENSADA,1.0,kg,17.55725190839695,LECHE CONDENSADA
+Leche Condensada Sin Lactosa Nestlé 387g,,387.0,g,7.4,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,19.121447028423773,LECHE CONDENSADA
+Bebida a Base de Coco Condensada Lata 320 g,,320.0,g,12.9,wong,2024-12-04 19:08:27.568007,LECHE CONDENSADA,1.0,kg,40.3125,LECHE CONDENSADA
+Leche Condensada Gloria Doypack 1.2 Kg,,1.2,kg,15.9,metro,2024-12-04 21:19:05.464544,LECHE CONDENSADA,1.0,kg,13.25,LECHE CONDENSADA

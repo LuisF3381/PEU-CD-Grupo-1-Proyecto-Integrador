@@ -1,64 +1,10 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Zanahoria Especial x kg,S/ 1.49 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Zanahoria Especial,1.49,metro,,,ZANAHORIA
-Zanahoria,S/ 1.68 x kg,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,0.5,kg,Zanahoria,1.68,plaza_vea,Presentación 0.5 kg aprox.,,ZANAHORIA
-Zanahoria x kg,S/ 3.59 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Zanahoria,3.59,metro,,,ZANAHORIA
-Bastones de Apio y Zanahoría BELL'S FRESCOS 250g,S/ 3.99,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,250.0,g,Bastones de Apio y Zanahoría BELL'S FRESCOS,3.99,vivanda,,BELL'S FRESCOS,ZANAHORIA
-Maní Tostado Molido El Guaranguito 180g,S/ 4.19,metro,ZANAHORIA,2024-12-04 21:48:20.917499,180.0,g,Maní Tostado Molido El Guaranguito,4.19,metro,,,ZANAHORIA
-Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25...,S/ 4.69 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 25,4.69,plaza_vea,Bolsa 250gun,,ZANAHORIA
-Ensalada Col Zanahoria BELL'S FRESCOS Bolsa 250g,S/ 4.69,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,250.0,g,Ensalada Col Zanahoria BELL'S FRESCOS Bolsa,4.69,vivanda,,BELL'S FRESCOS,ZANAHORIA
-Zanahoria en Cubos Congelada Green Food 400g,S/ 4.72,wong,ZANAHORIA,2024-12-04 19:54:56.732092,400.0,g,Zanahoria en Cubos Congelada Green Food,4.72,wong,,,ZANAHORIA
-Zanahoria Rodajas Congelada Green Food 400g,S/ 5.20,wong,ZANAHORIA,2024-12-04 19:54:56.732092,400.0,g,Zanahoria Rodajas Congelada Green Food,5.2,wong,,,ZANAHORIA
-Fideos SANTA CATALINA con Tomate y Zanahoria Bolsa 400g,S/ 5.30,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,400.0,g,Fideos SANTA CATALINA con Tomate y Zanahoria Bolsa,5.3,vivanda,,SANTA CATALINA,ZANAHORIA
-Zanahoria Justo al Día 700g,S/ 5.50,wong,ZANAHORIA,2024-12-04 19:54:56.732092,700.0,g,Zanahoria Justo al Día,5.5,wong,,,ZANAHORIA
-Habas Justo al Día 700g,S/ 5.80,wong,ZANAHORIA,2024-12-04 19:54:56.732092,700.0,g,Habas Justo al Día,5.8,wong,,,ZANAHORIA
-"Bebida de Naranja, Fresa y Zanahoria x 350 ml",S/ 5.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,"Bebida de Naranja, Fresa y Zanahoria x",5.9,tottus,,TANDEM HEALTHY,ZANAHORIA
-MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,MIX ARVEJA/ZANAHORIA X R,6.0,tottus,,TOTTUS,ZANAHORIA
-MIX ARVEJA/ZANAHORIA X 400GR,S/ 6,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,400.0,g,MIX ARVEJA/ZANAHORIA X R,6.0,tottus,,TOTTUS,ZANAHORIA
-Zanahoria Baby Hidropónica Ecologic 250g,S/ 6.20,wong,ZANAHORIA,2024-12-04 19:54:56.732092,250.0,g,Zanahoria Baby Hidropónica Ecologic,6.2,wong,,,ZANAHORIA
-Zanahoria Rallada Ecologic 300g,S/ 6.30,wong,ZANAHORIA,2024-12-04 19:54:56.732092,300.0,g,Zanahoria Rallada Ecologic,6.3,wong,,,ZANAHORIA
-Conserva de Zanahoria Rallada BELL'S Lata 360g,S/ 6.50,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,360.0,g,Conserva de Zanahoria Rallada BELL'S Lata,6.5,vivanda,,BELL'S,ZANAHORIA
-Conserva de Zanahoria Rallada BELL'S Lata 360...,S/ 6.50 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,360.0,g,Conserva de Zanahoria Rallada BELL'S Lata 360,6.5,plaza_vea,Lata 360g,,ZANAHORIA
-Jugo de Naranja Zanahoria ECOFRESH Botella 400ml,S/ 6.59,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,400.0,ml,Jugo de Naranja Zanahoria ECOFRESH Botella,6.59,vivanda,,ECOFRESH,ZANAHORIA
-Jugo de Naranja Zanahoria ECOFRESH Botella 400...,S/ 6.59 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,400.0,ml,Jugo de Naranja Zanahoria ECOFRESH Botella 400,6.59,plaza_vea,Botella 400ml,,ZANAHORIA
-Zanahoria Congelada BELL'S Bolsa 500g,S/ 6.90 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,500.0,g,Zanahoria Congelada BELL'S Bolsa,6.9,plaza_vea,Bolsa 500g,,ZANAHORIA
-Zanahoria Congelada BELL'S Bolsa 500g,S/ 6.90,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,500.0,g,Zanahoria Congelada BELL'S Bolsa,6.9,vivanda,,BELL'S,ZANAHORIA
-Zanahoria Baby ASPERIO Frasco 370g,S/ 7.40,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,370.0,g,Zanahoria Baby ASPERIO Frasco,7.4,vivanda,,ASPERIO,ZANAHORIA
-Zanahoria Baby ASPERIO Frasco 370g,S/ 7.40 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,370.0,g,Zanahoria Baby ASPERIO Frasco,7.4,plaza_vea,Frasco 370g,,ZANAHORIA
-Semillas de Zanahoria en sobre 2 gr,S/ 7.40,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,2.0,g,Semillas de Zanahoria en sobre r,7.4,tottus,,HORTUS,ZANAHORIA
-Habas Metro x kg,S/ 7.79 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Habas Metro,7.79,metro,,,ZANAHORIA
-Jugo de Naranja Zanahoria ECOFRESH Botella 475...,S/ 7.80 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,475.0,ml,Jugo de Naranja Zanahoria ECOFRESH Botella 475,7.8,plaza_vea,Botella 475ml,,ZANAHORIA
-Jugo Cold Pressed de Naranja con Zanahoria Ecofresh Botella 475ml,S/ 7.90,wong,ZANAHORIA,2024-12-04 19:54:56.732092,475.0,ml,Jugo Cold Pressed de Naranja con Zanahoria Ecofresh Botella,7.9,wong,,,ZANAHORIA
-Mix de Arveja y Zanahoria Precocida Congelada GREEN FOOD Bolsa 400g,S/ 7.90,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,400.0,g,Mix de Arveja y Zanahoria Precocida Congelada GREEN FOOD Bolsa,7.9,vivanda,,GREEN FOOD,ZANAHORIA
-Arveja Desvainada 150g,S/ 8.30,metro,ZANAHORIA,2024-12-04 21:48:20.917499,150.0,g,Arveja Desvainada,8.3,metro,,,ZANAHORIA
-Mix Col Zanahoria Ecologic 250g,S/ 8.60,wong,ZANAHORIA,2024-12-04 19:54:56.732092,250.0,g,Mix Col Zanahoria Ecologic,8.6,wong,,,ZANAHORIA
-CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,CRUNCHIE DE ZANAHORIA  KIGLI,9.5,tottus,,,ZANAHORIA
-CRUNCHIE DE ZANAHORIA 40G KIGLI,S/ 9.50,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,40.0,g,CRUNCHIE DE ZANAHORIA  KIGLI,9.5,tottus,,,ZANAHORIA
-"Infusión de Cúrcuma, Zanahoria y Naranja Sunka 20un",S/ 9.90,wong,ZANAHORIA,2024-12-04 19:54:56.732092,20.0,un,"Infusión de Cúrcuma, Zanahoria y Naranja Sunka",9.9,wong,,,ZANAHORIA
-Arveja x kg,S/ 10.79 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Arveja,10.79,metro,,,ZANAHORIA
-Arveja x kg,S/ 10.99 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Arveja,10.99,metro,,,ZANAHORIA
-SAN SALMAS CAMOTE Y ZANAHORIA X 126G,S/ 11,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,126.0,g,SAN SALMAS CAMOTE Y ZANAHORIA X,11.0,tottus,,BIMBO,ZANAHORIA
-Galletas de Maíz SALMAS Horneadas con Camote y Zanahoria Caja 126g,S/ 11.20,vivanda,ZANAHORIA,2024-12-04 17:58:26.177904,126.0,g,Galletas de Maíz SALMAS Horneadas con Camote y Zanahoria Caja,11.2,vivanda,,SALMAS,ZANAHORIA
-Yogurt Griego Danlac Aguaymanto con Zanahoria 420g,S/ 11.90,wong,ZANAHORIA,2024-12-04 19:54:56.732092,420.0,g,Yogurt Griego Danlac Aguaymanto con Zanahoria,11.9,wong,,,ZANAHORIA
-Yogurt Griego Danlac Aguaymanto con Zanahoria 420g,S/ 11.90,metro,ZANAHORIA,2024-12-04 21:48:20.917499,420.0,g,Yogurt Griego Danlac Aguaymanto con Zanahoria,11.9,metro,,,ZANAHORIA
-Vainita Metro x kg,S/ 11.99 x kg,metro,ZANAHORIA,2024-12-04 21:48:20.917499,1.0,kg,Vainita Metro,11.99,metro,,,ZANAHORIA
-Jugo Nectar de Naranja Zanahoria ECOFRESH Bote...,S/ 12.50 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,1.0,l,Jugo Nectar de Naranja Zanahoria ECOFRESH Bote,12.5,plaza_vea,Botella 1L,,ZANAHORIA
-Néctar de Naranja con Zanahoria Bajo en Calorías Ecofresh Botella 1L,S/ 12.60,wong,ZANAHORIA,2024-12-04 19:54:56.732092,1.0,l,Néctar de Naranja con Zanahoria Bajo en Calorías Ecofresh Botella,12.6,wong,,,ZANAHORIA
-Jugo de Naranja Zanahoria ECOFRESH Botella 1L,S/ 13.90 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,1.0,l,Jugo de Naranja Zanahoria ECOFRESH Botella,13.9,plaza_vea,Botella 1L,,ZANAHORIA
-Galleta de Arroz Baby Mum-Mum Zanahoria Caja 50 gr,S/ 14.10,wong,ZANAHORIA,2024-12-04 19:54:56.732092,50.0,g,Galleta de Arroz Baby Mum-Mum Zanahoria Caja r,14.1,wong,,,ZANAHORIA
-Ensalada de Zanahoria y Beterraga La Buena Pepa 450g,S/ 15.50,wong,ZANAHORIA,2024-12-04 19:54:56.732092,450.0,g,Ensalada de Zanahoria y Beterraga La Buena Pepa,15.5,wong,,,ZANAHORIA
-Keke Vegano de Zanahoria Yöy 275g,S/ 16.92,wong,ZANAHORIA,2024-12-04 19:54:56.732092,275.0,g,Keke Vegano de Zanahoria Yöy,16.92,wong,,,ZANAHORIA
-Yogurt Griego Danlac Aguaymanto con Zanahoria 900g,S/ 19.40,wong,ZANAHORIA,2024-12-04 19:54:56.732092,900.0,g,Yogurt Griego Danlac Aguaymanto con Zanahoria,19.4,wong,,,ZANAHORIA
-Yogurt Griego Danlac Aguaymanto con Zanahoria 900g,S/ 19.40,metro,ZANAHORIA,2024-12-04 21:48:20.917499,900.0,g,Yogurt Griego Danlac Aguaymanto con Zanahoria,19.4,metro,,,ZANAHORIA
-Néctar de Naranja con Zanahoria Bajo en Calorías Ecofresh 1.8L,S/ 19.90,wong,ZANAHORIA,2024-12-04 19:54:56.732092,1.8,l,Néctar de Naranja con Zanahoria Bajo en Calorías Ecofresh,19.9,wong,,,ZANAHORIA
-Keke Vegano de Zanahoria Yöy 550g,S/ 25.42,wong,ZANAHORIA,2024-12-04 19:54:56.732092,550.0,g,Keke Vegano de Zanahoria Yöy,25.42,wong,,,ZANAHORIA
-Aceite Esencial de Zanahoria fco de 5ml,S/ 31,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,5.0,ml,Aceite Esencial de Zanahoria fco de,31.0,tottus,,EKALA,ZANAHORIA
-Loción de Zanahoria Hawaiian Tropic Carrot FPS10 240ml,S/ 51.90,metro,ZANAHORIA,2024-12-04 21:48:20.917499,240.0,ml,Loción de Zanahoria Hawaiian Tropic Carrot FPS10,51.9,metro,,,ZANAHORIA
-Loción Bronceadora de Zanahoria con SPF 10 Hawaiian Tropical 240 mL,S/ 51.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,240.0,ml,Loción Bronceadora de Zanahoria con SPF 10 Hawaiian Tropical,51.9,tottus,,HAWAIIAN TROPIC,ZANAHORIA
-Bronceador con Zanahoría Hawaiian Tropic Carrot SPF 30 Frasco 240 ml,S/ 52.90,metro,ZANAHORIA,2024-12-04 21:48:20.917499,240.0,ml,Bronceador con Zanahoría Hawaiian Tropic Carrot SPF 30 Frasco,52.9,metro,,,ZANAHORIA
-Bronceador con Zanahoría Hawaiian Tropic Carrot SPF 30 Frasco 240 ml,S/ 52.90,wong,ZANAHORIA,2024-12-04 19:54:56.732092,240.0,ml,Bronceador con Zanahoría Hawaiian Tropic Carrot SPF 30 Frasco,52.9,wong,,,ZANAHORIA
-"Bebida de Naranja, Fresa y Zanahoria de 350 ml x 12 unidades",S/ 68,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,350.0,ml,"Bebida de Naranja, Fresa y Zanahoria de  x ades",68.0,tottus,,TANDEM HEALTHY,ZANAHORIA
-Pack Hawaiian Tropic: Gel After Sun 240ml + Loción de Zanahoria 240ml,S/ 86.80,metro,ZANAHORIA,2024-12-04 21:48:20.917499,240.0,ml,Pack Hawaiian Tropic: Gel After Sun  + Loción de Zanahoria,86.8,metro,,,ZANAHORIA
-Pack Hawaiian Tropic: Gel After Sun 240ml + Loción de Zanahoria 240ml,S/ 86.80,wong,ZANAHORIA,2024-12-04 19:54:56.732092,240.0,ml,Pack Hawaiian Tropic: Gel After Sun  + Loción de Zanahoria,86.8,wong,,,ZANAHORIA
-"Comida para Gatos FRISKIES Gatitos Pollo, Lech...",S/ 105.50 un,plaza_vea,ZANAHORIA,2024-12-04 14:10:20.562465,7.5,kg,"Comida para Gatos FRISKIES Gatitos Pollo, Lech",105.5,plaza_vea,Bolsa 7.5Kg,,ZANAHORIA
-Pollo y Zanahoria Gato Esterilizado Lata 70gr x12und,S/ 157.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,70.0,g,Pollo y Zanahoria Gato Esterilizado Lata r xd,157.9,tottus,,BRAVERY,ZANAHORIA
-Belcando Junior Pollo con zanahorias Sobre 125gr x 16und,S/ 194.90,tottus,ZANAHORIA,2024-12-04 13:40:27.401647,125.0,g,Belcando Junior Pollo con zanahorias Sobre r x d,194.9,tottus,,GENERICO,ZANAHORIA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Zanahoria Especial x kg,,1.0,kg,1.49,metro,2024-12-04 21:48:20.917499,ZANAHORIA,1.0,kg,1.49,ZANAHORIA
+Zanahoria,,0.5,kg,1.68,plaza_vea,2024-12-04 14:10:20.562465,ZANAHORIA,0.5,kg,1.68,ZANAHORIA
+Zanahoria x kg,,1.0,kg,3.59,wong,2024-12-04 19:54:56.732092,ZANAHORIA,1.0,kg,3.59,ZANAHORIA
+Zanahoria x kg,,1.0,kg,3.59,metro,2024-12-04 21:48:20.917499,ZANAHORIA,1.0,kg,3.59,ZANAHORIA
+Zanahoria en Cubos Congelada Green Food 400g,,400.0,g,4.72,wong,2024-12-04 19:54:56.732092,ZANAHORIA,400.0,g,4.72,ZANAHORIA
+Zanahoria Justo al Día 700g,,700.0,g,5.5,wong,2024-12-04 19:54:56.732092,ZANAHORIA,700.0,g,5.5,ZANAHORIA
+Zanahoria Rallada Ecologic 300g,,300.0,g,6.3,wong,2024-12-04 19:54:56.732092,ZANAHORIA,300.0,g,6.3,ZANAHORIA
+Zanahoria Congelada BELL'S Bolsa 500g,BELL'S,500.0,g,6.9,vivanda,2024-12-04 17:58:26.177904,ZANAHORIA,500.0,g,6.9,ZANAHORIA
+Zanahoria Baby ASPERIO Frasco 370g,,370.0,g,7.4,plaza_vea,2024-12-04 14:10:20.562465,ZANAHORIA,370.0,g,7.4,ZANAHORIA

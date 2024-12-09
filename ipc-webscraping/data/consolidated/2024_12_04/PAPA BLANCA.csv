@@ -1,72 +1,10 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Lavadora WT13WPBK 13 Kg Smart Motion Carga Superior Blanco,"S/ 1,099",tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,13.0,kg,Lavadora WT13WPBK  Smart Motion Carga Superior Blanco,1.0,tottus,,LG,PAPA BLANCA
-Lavadora WT16WVTB 16 Kg TurboDrum Carga Superior Blanco,"S/ 1,399",tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,16.0,kg,Lavadora WT16WVTB  TurboDrum Carga Superior Blanco,1.0,tottus,,LG,PAPA BLANCA
-Papa Blanca x kg,S/ 1.59 x kg,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,1.0,kg,Papa Blanca,1.59,metro,,,PAPA BLANCA
-Papa Blanca Cocktail x kg,S/ 1.99 x kg,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,1.0,kg,Papa Blanca Cocktail,1.99,metro,,,PAPA BLANCA
-Papa Blanca Metro x kg,S/ 2.60 x kg,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,1.0,kg,Papa Blanca Metro,2.6,metro,,,PAPA BLANCA
-Papa Blanca Yungay Metro x kg,S/ 2.99 x kg,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,1.0,kg,Papa Blanca Yungay Metro,2.99,metro,,,PAPA BLANCA
-Papa Blanca Yungay x kg,S/ 2.99 x kg,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,1.0,kg,Papa Blanca Yungay,2.99,wong,,,PAPA BLANCA
-Papa Blanca Yungay,S/ 3.19 x kg,plaza_vea,PAPA BLANCA,2024-12-04 14:15:34.522805,1.0,kg,Papa Blanca Yungay,3.19,plaza_vea,Presentación 1 kg aprox.,,PAPA BLANCA
-Papa Blanca Cocktail x kg,S/ 3.29 x kg,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,1.0,kg,Papa Blanca Cocktail,3.29,wong,,,PAPA BLANCA
-Papa Blanca Canchán Procesada x kgs,S/ 3.39 x kg,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,1.0,kg,Papa Blanca Canchán Procesada s,3.39,metro,,,PAPA BLANCA
-Papa Blanca Canchán Procesada x kgs,S/ 3.39 x kg,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,1.0,kg,Papa Blanca Canchán Procesada s,3.39,wong,,,PAPA BLANCA
-VINAGRE BLANCO X 1 L,S/ 3.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,1.0,l,VINAGRE BLANCO X,3.9,tottus,,TOTTUS,PAPA BLANCA
-Papa Blanca Yungay x kg,S/ 4.39,vivanda,PAPA BLANCA,2024-12-04 18:01:50.005389,1.0,kg,Papa Blanca Yungay,4.39,vivanda,,VIVANDA,PAPA BLANCA
-Papa Blanca Perricholi Procesada Wong x kg,S/ 4.79 x kg,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,1.0,kg,Papa Blanca Perricholi Procesada Wong,4.79,wong,,,PAPA BLANCA
-Marshmellows Millows Cilindro Blanco 145 g,S/ 4.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,145.0,g,Marshmellows Millows Cilindro Blanco,4.9,tottus,,COLOMBINA,PAPA BLANCA
-Vinagre de Vino Blanco 600 mL,S/ 5.20,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,600.0,ml,Vinagre de Vino Blanco,5.2,tottus,,VENTURO,PAPA BLANCA
-Papa Cocktail Blanca Agro Selecto 800g,S/ 6.00,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,800.0,g,Papa Cocktail Blanca Agro Selecto,6.0,wong,,,PAPA BLANCA
-Papas LAYS Clásicas Bolsa 210gr,S/ 7.00,vega,PAPA BLANCA,2024-12-04 14:21:03.236731,210.0,g,Papas LAYS Clásicas Bolsa r,7.0,vega,,Lays,PAPA BLANCA
-Papa Blanca Yungay Agro Selecto 2kg,S/ 8.08,wong,PAPA BLANCA,2024-12-04 20:02:34.039402,2.0,kg,Papa Blanca Yungay Agro Selecto,8.08,wong,,,PAPA BLANCA
-Harina de Maíz Blanco Precocido 1 kg,S/ 8.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,1.0,kg,Harina de Maíz Blanco Precocido,8.5,tottus,,PAN,PAPA BLANCA
-Papa Blanca Yungay Agro Selecto 2kg,S/ 8.50,metro,PAPA BLANCA,2024-12-04 21:53:29.611084,2.0,kg,Papa Blanca Yungay Agro Selecto,8.5,metro,,,PAPA BLANCA
-Manjar Blanco x 500 g,S/ 11.30,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,500.0,g,Manjar Blanco x,11.3,tottus,,LAIVE,PAPA BLANCA
-Packx3 Jabón Blanco 90 g,S/ 12.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,90.0,g,Packx3 Jabón Blanco,12.5,tottus,,DOVE,PAPA BLANCA
-Vino Blanco 750 mL,S/ 12.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco,12.9,tottus,,BERNINA,PAPA BLANCA
-Pan Molde Blanco Sin Corteza 560 g,S/ 12.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,560.0,g,Pan Molde Blanco Sin Corteza,12.9,tottus,,TOTTUS,PAPA BLANCA
-Manjar Blanco Nestlé 500 g,S/ 13.10,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,500.0,g,Manjar Blanco Nestlé,13.1,tottus,,NESTLE,PAPA BLANCA
-Pan de Molde Blanco sin Corteza 560 g,S/ 13.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,560.0,g,Pan de Molde Blanco sin Corteza,13.5,tottus,,DON MAMINO,PAPA BLANCA
-Papel Bond Fotocopia 75 Gr A-4 500 Hojas,S/ 13.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,75.0,g,Papel Bond Fotocopia r A-4 500 Hojas,13.9,tottus,,OFISCOOL,PAPA BLANCA
-Vino Blanco Semi Seco 11.5° 750 mL,S/ 14.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Semi Seco 11.5°,14.9,tottus,,TABERNERO,PAPA BLANCA
-Vino Blanco 0.75L,S/ 14.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,0.75,l,Vino Blanco,14.9,tottus,,SANTIAGO QUEIROLO,PAPA BLANCA
-Vino Chenin Blanco Semiseco Perú Viña Vieja 11° 750 mL,S/ 14.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Chenin Blanco Semiseco Perú Viña Vieja 11°,14.9,tottus,,VINA VIEJA,PAPA BLANCA
-VINO BLANCO CHENIN BT 750ML,S/ 14.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,VINO BLANCO CHENIN BT,14.9,tottus,,MONTESIERPE,PAPA BLANCA
-Vino Blanco Moscato Ecopello 750 mL,S/ 15.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Moscato Ecopello,15.9,tottus,,E COPELLO,PAPA BLANCA
-PAN BLANCO SIN BORDES 650G,S/ 16,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,650.0,g,PAN BLANCO SIN BORDES,16.0,tottus,,BIMBO,PAPA BLANCA
-Vino Blanco Semi Seco 14° 750 mL,S/ 16.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Semi Seco 14°,16.9,tottus,,TACAMA,PAPA BLANCA
-Vino Blanco 10° 750 mL,S/ 17.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco 10°,17.5,tottus,,SANTIAGO QUEIROLO,PAPA BLANCA
-Vino Gran Blanco Seco 13.5° 750 mL,S/ 22.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Gran Blanco Seco 13.5°,22.9,tottus,,TACAMA,PAPA BLANCA
-Manjar Blanco Nestlé 1 kg,S/ 23.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,1.0,kg,Manjar Blanco Nestlé,23.9,tottus,,NESTLE,PAPA BLANCA
-Vino blanco Chenin seco 750 mL,S/ 23.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino blanco Chenin seco,23.9,tottus,,MONTESIERPE,PAPA BLANCA
-Vino Blanco 12.5° 750 mL,S/ 24.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco 12.5°,24.5,tottus,,FRONTERA,PAPA BLANCA
-Pack X2 Legging Bebé Niña,S/ 24.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,2.0,l,Pack Xegging Bebé Niña,24.9,tottus,,REDWOOD,PAPA BLANCA
-Ron Blanco 750 mL,S/ 25.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Ron Blanco,25.9,tottus,,CARTAVIO,PAPA BLANCA
-Vino Blanco Sauvignon Casa Viva 750 mL,S/ 26.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Sauvignon Casa Viva,26.9,tottus,,TOTTUS,PAPA BLANCA
-Vino Blanco De Blancos 12° 750 mL,S/ 28.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco De Blancos 12°,28.9,tottus,,TABERNERO,PAPA BLANCA
-Vino Blanco Sauvignon Blanc 750 mL,S/ 29.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Sauvignon Blanc,29.5,tottus,,INTIPALKA,PAPA BLANCA
-Vino Blanco Chardonnay 14.5° 750 mL,S/ 29.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Chardonnay 14.5°,29.5,tottus,,INTIPALKA,PAPA BLANCA
-Ron Blanco 40° 1 L,S/ 29.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,1.0,l,Ron Blanco 40°,29.9,tottus,,CARTAVIO,PAPA BLANCA
-Vino Blanco Solana 750 mL,S/ 29.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Solana,29.9,tottus,,RAIMAT,PAPA BLANCA
-Vino Patrimonial Quebranta Blanco 750 mL,S/ 32.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Patrimonial Quebranta Blanco,32.9,tottus,,FINCA ROTONDO,PAPA BLANCA
-Vino blanco Marqués de Vitoria 750 mL,S/ 34.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino blanco Marqués de Vitoria,34.9,tottus,,MARQUES DE VITORIA,PAPA BLANCA
-Vino Blanco Rutini Reserva Sauvignon 750 mL,S/ 36.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Rutini Reserva Sauvignon,36.9,tottus,,TOTTUS,PAPA BLANCA
-Vino Blanco Chardonnay Classic Series 13.9° 750 mL,S/ 36.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Chardonnay Classic Series 13.9°,36.9,tottus,,MONTES,PAPA BLANCA
-Vino Blanco Sauvignon Blanc Portillo 750 mL,S/ 36.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Sauvignon Blanc Portillo,36.9,tottus,,SALENTEIN,PAPA BLANCA
-Vino Blanco 750 mL,S/ 39.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco,39.9,tottus,,BLACK TOWER,PAPA BLANCA
-Vino Blanco Torrontés Alamos 13.5° 750 mL,S/ 41.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Torrontés Alamos 13.5°,41.9,tottus,,ALAMO,PAPA BLANCA
-Vino blanco de blancos Sauvignon 750 mL,S/ 42.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino blanco de blancos Sauvignon,42.9,tottus,,TACAMA,PAPA BLANCA
-Vino Blanco Torrontes 750 mL,S/ 44.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Torrontes,44.9,tottus,,FINCA LA LINDA,PAPA BLANCA
-Vino Blanco Viura Marqués De Cáceres 13.5° 750 mL,S/ 45.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Viura Marqués De Cáceres 13.5°,45.9,tottus,,MARQUES DE CACERES,PAPA BLANCA
-Vino Blanco Chenin 750 mL,S/ 47.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Chenin,47.9,tottus,,LOS HAROLDOS,PAPA BLANCA
-Vino blanco semidulce 750 mL,S/ 47.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino blanco semidulce,47.9,tottus,,EL COTO,PAPA BLANCA
-Vino Blanco Sauvignon 750 mL,S/ 48.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Sauvignon,48.9,tottus,,LAS MULAS,PAPA BLANCA
-Vino Blanco Reserva Sauvignon 13.5° 750 mL,S/ 49.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Reserva Sauvignon 13.5°,49.9,tottus,,ERRAZURIZ,PAPA BLANCA
-Vino Blanco Terroir Series 750 mL,S/ 51.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Terroir Series,51.9,tottus,,KAIKEN,PAPA BLANCA
-Hervidor Eléctrico Blanco 2.5 Litros,S/ 59.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,2.5,l,Hervidor Eléctrico Blanco itros,59.9,tottus,,RECCO,PAPA BLANCA
-Vino Blanco Verdejo 13° 750 mL,S/ 64.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Verdejo 13°,64.9,tottus,,PROTOS,PAPA BLANCA
-Vino blanco Escorihuela Gascón Sauvignon Blanc 750 mL,S/ 64.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino blanco Escorihuela Gascón Sauvignon Blanc,64.9,tottus,,ESCORIHUELA GASCON,PAPA BLANCA
-Vino Blanco 750 mL,S/ 67.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco,67.9,tottus,,FAUSTINO,PAPA BLANCA
-Vino Blanco Chardonnay 13.5° 750 mL,S/ 76.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Chardonnay 13.5°,76.9,tottus,,CATENA ZAPATA,PAPA BLANCA
-Vino Blanco Selección De Parcelas Chardonnay 14.2° 750 mL,S/ 94.50,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco Selección De Parcelas Chardonnay 14.2°,94.5,tottus,,NAVARRO CORREAS,PAPA BLANCA
-Vino Blanco España 13° 750 mL,S/ 116,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco España 13°,116.0,tottus,,SANTIAGO RUIZ,PAPA BLANCA
-Vino Blanco 750 mL,S/ 309.90,tottus,PAPA BLANCA,2024-12-04 13:44:30.633398,750.0,ml,Vino Blanco,309.9,tottus,,CATENA ZAPATA,PAPA BLANCA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Papa Blanca x kg,,1.0,kg,1.59,metro,2024-12-04 21:53:29.611084,PAPA BLANCA,1,kg,1.59,PAPA BLANCA
+Papa Blanca Metro x kg,,1.0,kg,2.6,metro,2024-12-04 21:53:29.611084,PAPA BLANCA,1,kg,2.6,PAPA BLANCA
+Papa Blanca,,0.5,kg,2.79,plaza_vea,2024-12-04 14:15:34.522805,PAPA BLANCA,1,kg,5.58,PAPA BLANCA
+Papa Blanca Yungay Metro x kg,,1.0,kg,2.99,metro,2024-12-04 21:53:29.611084,PAPA BLANCA,1,kg,2.99,PAPA BLANCA
+Papa Blanca Cocktail x kg,,1.0,kg,3.29,wong,2024-12-04 20:02:34.039402,PAPA BLANCA,1,kg,3.29,PAPA BLANCA
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,metro,2024-12-04 21:53:29.611084,PAPA BLANCA,1,kg,3.39,PAPA BLANCA
+Papa Blanca Canchán Procesada x kgs,,1.0,kg,3.39,wong,2024-12-04 20:02:34.039402,PAPA BLANCA,1,kg,3.39,PAPA BLANCA
+Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,metro,2024-12-04 21:53:29.611084,PAPA BLANCA,1,kg,7.5,PAPA BLANCA
+Papa Cocktail Blanca Agro Selecto 800g,,800.0,g,6.0,wong,2024-12-04 20:02:34.039402,PAPA BLANCA,1,kg,7.5,PAPA BLANCA

@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Bolsa 60g,Culantro BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,CULANTRO,2024-12-07 14:23:03.609683,60.0,g,Culantro BELL'S Bolsa,1.99
+Doypack 550g,Salsa de Culantro SIBARITA Culantrito Doypack ...,S/ 15.20 un,plaza_vea,CULANTRO,2024-12-07 14:23:03.609683,550.0,g,Salsa de Culantro SIBARITA Culantrito Doypack,15.2
+Bolsa 7.1g,Culantro BADIA Deshidratado Bolsa 7.1g,S/ 4.40 un,plaza_vea,CULANTRO,2024-12-07 14:23:03.609683,7.1,g,Culantro BADIA Deshidratado Bolsa,4.4

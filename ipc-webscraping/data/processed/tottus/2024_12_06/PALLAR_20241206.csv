@@ -1,0 +1,5 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+COSTENO,Pallar Costeño 500 g,S/ 7.70,tottus,PALLAR,2024-12-06 13:43:40.461289,500.0,g,Pallar Costeño,7.7
+TOTTUS,Pallar 500 g,S/ 5.70,tottus,PALLAR,2024-12-06 13:43:40.461289,500.0,g,Pallar,5.7
+TESORO DEL CAMPO,Pallar Seleccionado 500 g,S/ 7.80,tottus,PALLAR,2024-12-06 13:43:40.461289,500.0,g,Pallar Seleccionado,7.8
+TOTTUS,Pallar con Tocino 425 gr,S/ 7.80,tottus,PALLAR,2024-12-06 13:43:40.461289,425.0,g,Pallar con Tocino r,7.8

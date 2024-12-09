@@ -1,180 +1,156 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Chorizo Extra GOIKOA Paquete 70g,S/ 5.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,70.0,g,Chorizo Extra GOIKOA Paquete,5.9,plaza_vea,Paquete 70g,,CHORIZO
-Chorizo Extra GOIKOA Paquete 70g,S/ 7.00,vivanda,CHORIZO,2024-12-04 17:29:01.677190,70.0,g,Chorizo Extra GOIKOA Paquete,7.0,vivanda,,GOIKOA,CHORIZO
-Chorizo Especial Cocktail Wong 250g,S/ 9.90,wong,CHORIZO,2024-12-04 18:52:07.132403,250.0,g,Chorizo Especial Cocktail Wong,9.9,wong,,,CHORIZO
-Chorizo Reserva HIBERO Paquete 80g,S/ 10.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,80.0,g,Chorizo Reserva HIBERO Paquete,10.9,plaza_vea,Blíster 80g,,CHORIZO
-Chorizo Cocido Parrillero San Fernando Paquete 480 g,S/ 10.96,metro,CHORIZO,2024-12-04 21:05:17.459898,480.0,g,Chorizo Cocido Parrillero San Fernando Paquete,10.96,metro,,,CHORIZO
-Chorizo Finas Hierbas Cocktail BRAEDT Paquete ...,S/ 11.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,250.0,g,Chorizo Finas Hierbas Cocktail BRAEDT Paquete,11.5,plaza_vea,Paquete 250g,,CHORIZO
-Chorizo Español HIBERO Pieza 140g,S/ 11.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,140.0,g,Chorizo Español HIBERO Pieza,11.9,plaza_vea,Blíster 140g,,CHORIZO
-Chorizo Parrillero Precocido BRAEDT Cocktail E...,S/ 11.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,250.0,g,Chorizo Parrillero Precocido BRAEDT Cocktail E,11.9,plaza_vea,Empaque 250g,,CHORIZO
-Chorizo Español HIBERO Pieza 140g,S/ 11.90,vivanda,CHORIZO,2024-12-04 17:29:01.677190,140.0,g,Chorizo Español HIBERO Pieza,11.9,vivanda,,HIBERO,CHORIZO
-Salchichas Cocktail Parrilleras Zimmermann 300g,S/ 12.40,wong,CHORIZO,2024-12-04 18:52:07.132403,300.0,g,Salchichas Cocktail Parrilleras Zimmermann,12.4,wong,,,CHORIZO
-Chorizo Parrillero Precocido Coctel Braedt Paquete 250 g,S/ 12.40,metro,CHORIZO,2024-12-04 21:05:17.459898,250.0,g,Chorizo Parrillero Precocido Coctel Braedt Paquete,12.4,metro,,,CHORIZO
-Chorizo Italiano OTTO KUNZ Paquete 220g,S/ 12.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,220.0,g,Chorizo Italiano OTTO KUNZ Paquete,12.5,plaza_vea,Paquete 220g,,CHORIZO
-Chorizo Parrillero Rico Casero 500g,S/ 12.90,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Parrillero Rico Casero,12.9,metro,,,CHORIZO
-CHORIZO F HIERBAS PRECO S ALEMANA 320G,S/ 12.90,tottus,CHORIZO,2024-12-04 13:12:30.601036,320.0,g,CHORIZO F HIERBAS PRECO S ALEMANA,12.9,tottus,,SALCHICHERIA ALEMANA,CHORIZO
-Chorizo Sarta Español HIBERO Pieza 140g,S/ 12.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,140.0,g,Chorizo Sarta Español HIBERO Pieza,12.9,plaza_vea,Blíster 140g,,CHORIZO
-Chorizo Italiano Paquete 220 g,S/ 13.10,metro,CHORIZO,2024-12-04 21:05:17.459898,220.0,g,Chorizo Italiano Paquete,13.1,metro,,,CHORIZO
-Chorizo Parrillero San Fernando 400g,S/ 13.12,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Parrillero San Fernando,13.12,metro,,,CHORIZO
-Chorizo Coctel Finas Hierbas Braedt Paquete 250 g,S/ 13.50,wong,CHORIZO,2024-12-04 18:52:07.132403,250.0,g,Chorizo Coctel Finas Hierbas Braedt Paquete,13.5,wong,,,CHORIZO
-Chorizo Parrillero Precocido Braedt Paquete 6 unid,S/ 13.51,metro,CHORIZO,2024-12-04 21:05:17.459898,6.0,un,Chorizo Parrillero Precocido Braedt Paquete,13.51,metro,,,CHORIZO
-Chorizo Parrillero Precocido BRAEDT Paquete 50...,S/ 13.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Parrillero Precocido BRAEDT Paquete 50,13.9,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Finas Hierbas Suiza Gourmet 400g,S/ 13.90,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Finas Hierbas Suiza Gourmet,13.9,wong,,,CHORIZO
-Chorizo Precocido Suiza 5un,S/ 13.90,wong,CHORIZO,2024-12-04 18:52:07.132403,5.0,un,Chorizo Precocido Suiza,13.9,wong,,,CHORIZO
-Chorizo Precocido Suiza 5un,S/ 13.90,metro,CHORIZO,2024-12-04 21:05:17.459898,5.0,un,Chorizo Precocido Suiza,13.9,metro,,,CHORIZO
-Chorizo Parrillero Suiza 400g,S/ 13.90,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Parrillero Suiza,13.9,wong,,,CHORIZO
-Chorizo Parrillero Precocido Braedt Paquete 6 unid,S/ 13.90,wong,CHORIZO,2024-12-04 18:52:07.132403,6.0,un,Chorizo Parrillero Precocido Braedt Paquete,13.9,wong,,,CHORIZO
-Chorizo Precocido San Fernando Paquete 500 g,S/ 14.02,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Precocido San Fernando Paquete,14.02,metro,,,CHORIZO
-Chorizo Cóctel Italiano Precocido La Segoviana 300g,S/ 14.10,metro,CHORIZO,2024-12-04 21:05:17.459898,300.0,g,Chorizo Cóctel Italiano Precocido La Segoviana,14.1,metro,,,CHORIZO
-Chorizo Parrillero Brasa San Fernando 400g,S/ 14.32,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Parrillero Brasa San Fernando,14.32,metro,,,CHORIZO
-Chorizo Precocido LA SEGOVIANA Paquete 500g,S/ 14.70 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Precocido LA SEGOVIANA Paquete,14.7,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Curado Cuisine & Co Laminado 80g,S/ 14.90,wong,CHORIZO,2024-12-04 18:52:07.132403,80.0,g,Chorizo Curado Cuisine & Co Laminado,14.9,wong,,,CHORIZO
-Chorizo Parrillero Precocido SALCHICHERÍA SUIZ...,S/ 14.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Parrillero Precocido SALCHICHERÍA SUIZ,14.9,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Parrillero Cuisine & Co 400g,S/ 14.90,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Parrillero Cuisine & Co,14.9,wong,,,CHORIZO
-Chorizo Parrillero Wong 400g,S/ 14.90,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Parrillero Wong,14.9,wong,,,CHORIZO
-Chorizo OTTO KUNZ Parrillero Paquete 400Gr,S/ 14.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo OTTO KUNZ Parrillero Paquete r,14.9,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Finas Hierbas SAN FERNANDO Paquete 400g,S/ 14.99,vivanda,CHORIZO,2024-12-04 17:29:01.677190,400.0,g,Chorizo Finas Hierbas SAN FERNANDO Paquete,14.99,vivanda,,SAN FERNANDO,CHORIZO
-Chorizo Parrillero Fresco Braedt Paquete 500 g,S/ 15.21,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Parrillero Fresco Braedt Paquete,15.21,metro,,,CHORIZO
-Chorizo Precocido Finas Hierbas SALCHICHERÍA A...,S/ 15.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Precocido Finas Hierbas SALCHICHERÍA A,15.5,plaza_vea,Paquete 4un,,CHORIZO
-Chorizo Parrillero Fresco Braedt Paquete 500 g,S/ 15.50,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Parrillero Fresco Braedt Paquete,15.5,wong,,,CHORIZO
-Chorizo Parrillero SALCHICHERÍA SUIZA Paquete ...,S/ 15.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Parrillero SALCHICHERÍA SUIZA Paquete,15.5,plaza_vea,Paquete 400g,,CHORIZO
-Mix Zimmermann Chorizo: Parrillero 2un + Miel de Maple 2un,S/ 15.68,wong,CHORIZO,2024-12-04 18:52:07.132403,2.0,un,Mix Zimmermann Chorizo: Parrillero  + Miel de Maple,15.68,wong,,,CHORIZO
-Chorizo Parrillero Precocido Zimmermann Paquete 500 g,S/ 15.70,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Parrillero Precocido Zimmermann Paquete,15.7,metro,,,CHORIZO
-Salchichas Cocktail Parrilleras Zimmermann 300g,S/ 15.70,metro,CHORIZO,2024-12-04 21:05:17.459898,300.0,g,Salchichas Cocktail Parrilleras Zimmermann,15.7,metro,,,CHORIZO
-Pack Chorizos Cocktail Otto Kunz 370g,S/ 15.76,metro,CHORIZO,2024-12-04 21:05:17.459898,370.0,g,Pack Chorizos Cocktail Otto Kunz,15.76,metro,,,CHORIZO
-Chorizo al Chimichurri Zimmermann Paquete 400 g,S/ 15.84,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo al Chimichurri Zimmermann Paquete,15.84,wong,,,CHORIZO
-PACK CHORIZOS COCKTAIL 16 UNIDADES,S/ 15.90,tottus,CHORIZO,2024-12-04 13:12:30.601036,16.0,un,PACK CHORIZOS COCKTAIL ADES,15.9,tottus,,OTTO KUNZ,CHORIZO
-Chorizo Parrillero Razzeto 480g,S/ 15.90,metro,CHORIZO,2024-12-04 21:05:17.459898,480.0,g,Chorizo Parrillero Razzeto,15.9,metro,,,CHORIZO
-Chorizo Alemán Salchichería Alemana 500g,S/ 15.90,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Alemán Salchichería Alemana,15.9,wong,,,CHORIZO
-Chorizo Alemán Salchichería Alemana 500g,S/ 15.90,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Alemán Salchichería Alemana,15.9,metro,,,CHORIZO
-Chorizo Finas Hierbas SALCHICHERÍA SUIZA Paque...,S/ 15.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Finas Hierbas SALCHICHERÍA SUIZA Paque,15.9,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Finas Hierbas Zimmermann 400g,S/ 16.16,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Finas Hierbas Zimmermann,16.16,wong,,,CHORIZO
-CHORIZO MIEL DE MAPLE NR 400GR,S/ 16.50,tottus,CHORIZO,2024-12-04 13:12:30.601036,400.0,g,CHORIZO MIEL DE MAPLE NR R,16.5,tottus,,TOTTUS,CHORIZO
-CHORIZO FINAS HIERBAS NR 400GR,S/ 16.50,tottus,CHORIZO,2024-12-04 13:12:30.601036,400.0,g,CHORIZO FINAS HIERBAS NR R,16.5,tottus,,TOTTUS,CHORIZO
-Mix Zimmermann Chorizo: Parrillero 2un + Miel de Maple 2un,S/ 16.50,metro,CHORIZO,2024-12-04 21:05:17.459898,2.0,un,Mix Zimmermann Chorizo: Parrillero  + Miel de Maple,16.5,metro,,,CHORIZO
-Choribrasa Casa Europa Paquete 250 g,S/ 16.60,metro,CHORIZO,2024-12-04 21:05:17.459898,250.0,g,Choribrasa Casa Europa Paquete,16.6,metro,,,CHORIZO
-CHORIZO PRECOCIDO SALCHICHERIA X 400 GR,S/ 16.90,tottus,CHORIZO,2024-12-04 13:12:30.601036,400.0,g,CHORIZO PRECOCIDO SALCHICHERIA X R,16.9,tottus,,SUIZA,CHORIZO
-Chorizo Parrillero Zimmermann 400g,S/ 16.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Parrillero Zimmermann,16.9,metro,,,CHORIZO
-Chorizo Parrillero Cocktail Zimmermann Paquete 300 g,S/ 16.90,metro,CHORIZO,2024-12-04 21:05:17.459898,300.0,g,Chorizo Parrillero Cocktail Zimmermann Paquete,16.9,metro,,,CHORIZO
-Chorizo Finas Hierbas SALCHICHERÍA ALEMANA Bol...,S/ 16.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,1.0,un,Chorizo Finas Hierbas SALCHICHERÍA ALEMANA Bol,16.9,plaza_vea,Bolsa 1un,,CHORIZO
-Chorizo a las Finas Hierbas Otto Kunz Paquete 400 g,S/ 17.08,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo a las Finas Hierbas Otto Kunz Paquete,17.08,metro,,,CHORIZO
-Chorizo Extra La Leyenda Paquete 100 g,S/ 17.20,wong,CHORIZO,2024-12-04 18:52:07.132403,100.0,g,Chorizo Extra La Leyenda Paquete,17.2,wong,,,CHORIZO
-Chorizo Curado Español CASA EUROPA Paquete 150...,S/ 17.30 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,150.0,g,Chorizo Curado Español CASA EUROPA Paquete 150,17.3,plaza_vea,Paquete 150g,,CHORIZO
-Chorizo Parrillero Cerdeña 750g,S/ 17.40,metro,CHORIZO,2024-12-04 21:05:17.459898,750.0,g,Chorizo Parrillero Cerdeña,17.4,metro,,,CHORIZO
-Chorizo Parrillero Artesanal BRAEDT 400g,S/ 17.70,vivanda,CHORIZO,2024-12-04 17:29:01.677190,400.0,g,Chorizo Parrillero Artesanal BRAEDT,17.7,vivanda,,BRAEDT,CHORIZO
-Chorizo Picante BRAEDT Paquete 400g,S/ 17.70 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Picante BRAEDT Paquete,17.7,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Finas Hierbas BRAEDT Paquete 400g,S/ 17.70 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Finas Hierbas BRAEDT Paquete,17.7,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Alemán BRAEDT Paquete 400g,S/ 17.70 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Alemán BRAEDT Paquete,17.7,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Aleman BRAEDT 400g,S/ 17.70,vivanda,CHORIZO,2024-12-04 17:29:01.677190,400.0,g,Chorizo Aleman BRAEDT,17.7,vivanda,,BRAEDT,CHORIZO
-Chorizo Ahumado BRAEDT 400g,S/ 17.70,vivanda,CHORIZO,2024-12-04 17:29:01.677190,400.0,g,Chorizo Ahumado BRAEDT,17.7,vivanda,,BRAEDT,CHORIZO
-Chorizo Finas Hierbas OTTO KUNZ Paquete 400g,S/ 17.80 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Finas Hierbas OTTO KUNZ Paquete,17.8,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Curado Español Casa Europa Paquete 150 g,S/ 17.90,wong,CHORIZO,2024-12-04 18:52:07.132403,150.0,g,Chorizo Curado Español Casa Europa Paquete,17.9,wong,,,CHORIZO
-Chorizo Ahumado 400gr,S/ 17.90,tottus,CHORIZO,2024-12-04 13:12:30.601036,400.0,g,Chorizo Ahumado r,17.9,tottus,,SALCHICHERIA ALEMANA,CHORIZO
-Chorizo Ahumado Salchichería Alemana 400g,S/ 17.90,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Ahumado Salchichería Alemana,17.9,wong,,,CHORIZO
-Choribrasa Cocktail Casa Europa Paquete 250 g,S/ 17.90,wong,CHORIZO,2024-12-04 18:52:07.132403,250.0,g,Choribrasa Cocktail Casa Europa Paquete,17.9,wong,,,CHORIZO
-Chorizo con Queso Braedt 400g,S/ 17.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo con Queso Braedt,17.9,metro,,,CHORIZO
-Chorizo Parrillero Artesanal Braedt 400g,S/ 17.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Parrillero Artesanal Braedt,17.9,metro,,,CHORIZO
-Chorizo Ahumado Salchichería Alemana 400g,S/ 17.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Ahumado Salchichería Alemana,17.9,metro,,,CHORIZO
-Chorizo Parrillero Precocido SALCHICHERÍA ALEM...,S/ 17.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Parrillero Precocido SALCHICHERÍA ALEM,17.9,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Ahumado Precocido Casa Europa Paquete 300 g,S/ 18.10,wong,CHORIZO,2024-12-04 18:52:07.132403,300.0,g,Chorizo Ahumado Precocido Casa Europa Paquete,18.1,wong,,,CHORIZO
-Chorizo Finas Hierbas Oregon Foods 400g,S/ 18.28,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Finas Hierbas Oregon Foods,18.28,wong,,,CHORIZO
-Chorizo Ahumado Braedt 400g,S/ 18.40,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Ahumado Braedt,18.4,metro,,,CHORIZO
-Chorizo Finas Hierbas Braedt 400g,S/ 18.40,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Finas Hierbas Braedt,18.4,metro,,,CHORIZO
-Chorizo Parrillero Crudo Casa Europa Paquete 500 g,S/ 18.48,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Parrillero Crudo Casa Europa Paquete,18.48,metro,,,CHORIZO
-Chorizo Braedt Picante 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Braedt Picante,18.5,wong,,,CHORIZO
-Chorizo Parrillero Crudo SALCHICHERIA ALEMANA ...,S/ 18.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Parrillero Crudo SALCHICHERIA ALEMANA,18.5,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Alemán Braedt 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Alemán Braedt,18.5,wong,,,CHORIZO
-Chorizo Parrillero Artesanal Braedt 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Parrillero Artesanal Braedt,18.5,wong,,,CHORIZO
-Chorizo Finas Hierbas Braedt 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Finas Hierbas Braedt,18.5,wong,,,CHORIZO
-Chorizo Ahumado Braedt 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Ahumado Braedt,18.5,wong,,,CHORIZO
-Chorizo Precocido con Queso Cheddar Otto Kunz 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Precocido con Queso Cheddar Otto Kunz,18.5,wong,,,CHORIZO
-Chorizo con Queso Braedt 400g,S/ 18.50,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo con Queso Braedt,18.5,wong,,,CHORIZO
-CHORIZO CAMPESTRE X 400 GR,S/ 18.50,tottus,CHORIZO,2024-12-04 13:12:30.601036,400.0,g,CHORIZO CAMPESTRE X R,18.5,tottus,,OTTO KUNZ,CHORIZO
-Chorizo Precocido con Queso Cheddar Otto Kunz 400g,S/ 18.50,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Precocido con Queso Cheddar Otto Kunz,18.5,metro,,,CHORIZO
-Pack Cóctel Otto Kunz Paquete 320 g,S/ 18.70,wong,CHORIZO,2024-12-04 18:52:07.132403,320.0,g,Pack Cóctel Otto Kunz Paquete,18.7,wong,,,CHORIZO
-Chorizo Campestre Precocido Otto Kunz Paquete 400 g,S/ 18.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Campestre Precocido Otto Kunz Paquete,18.9,metro,,,CHORIZO
-Chorizo Sarta Picante GOIKOA Paquete 225g,S/ 19 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,225.0,g,Chorizo Sarta Picante GOIKOA Paquete,19.0,plaza_vea,Paquete 225g,,CHORIZO
-Chorizo Finas Hierbas Casa Europa Paquete 400 g,S/ 19.04,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Finas Hierbas Casa Europa Paquete,19.04,wong,,,CHORIZO
-Chorizo Fina Hierbas Salchichería Alemana 400g,S/ 19.40,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Fina Hierbas Salchichería Alemana,19.4,metro,,,CHORIZO
-Chorizo Cocktail OTTO KUNZ 370g,S/ 19.50,vivanda,CHORIZO,2024-12-04 17:29:01.677190,370.0,g,Chorizo Cocktail OTTO KUNZ,19.5,vivanda,,OTTO KUNZ,CHORIZO
-Pack Chorizos Cocktail Otto Kunz 370g,S/ 19.70,wong,CHORIZO,2024-12-04 18:52:07.132403,370.0,g,Pack Chorizos Cocktail Otto Kunz,19.7,wong,,,CHORIZO
-Chorizo Campestre OTTO KUNZ 400g,S/ 19.70,vivanda,CHORIZO,2024-12-04 17:29:01.677190,400.0,g,Chorizo Campestre OTTO KUNZ,19.7,vivanda,,OTTO KUNZ,CHORIZO
-Chorizo Campestre OTTO KUNZ Paquete 400g,S/ 19.70 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Campestre OTTO KUNZ Paquete,19.7,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Precocido Brasa Braedt Paquete 400 g,S/ 19.70,wong,CHORIZO,2024-12-04 18:52:07.132403,400.0,g,Chorizo Precocido Brasa Braedt Paquete,19.7,wong,,,CHORIZO
-Chorizo con Miel de Maple Zimmermann 400g,S/ 19.80,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo con Miel de Maple Zimmermann,19.8,metro,,,CHORIZO
-Pack Parrillero Casa Europa Paquete 450 g,S/ 19.84,metro,CHORIZO,2024-12-04 21:05:17.459898,450.0,g,Pack Parrillero Casa Europa Paquete,19.84,metro,,,CHORIZO
-Chorizo Parrillero Precocido Casa Europa Paquete 500 g,S/ 19.84,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Parrillero Precocido Casa Europa Paquete,19.84,metro,,,CHORIZO
-Chorizo Español OTTO KUNZ Paquete 100g,S/ 19.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,100.0,g,Chorizo Español OTTO KUNZ Paquete,19.9,plaza_vea,Caja 100g,,CHORIZO
-Tabla HIBERO Jamón Serrano + Chorizo + Salchic...,S/ 19.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,105.0,g,Tabla HIBERO Jamón Serrano + Chorizo + Salchic,19.9,plaza_vea,Blíster 105g,,CHORIZO
-Tabla HIBERO Jamón Serrano + Chorizo + Salchichón Paquete 105g,S/ 19.90,vivanda,CHORIZO,2024-12-04 17:29:01.677190,105.0,g,Tabla HIBERO Jamón Serrano + Chorizo + Salchichón Paquete,19.9,vivanda,,HIBERO,CHORIZO
-Chorizo Parrillero Salchichería Alemana 500g,S/ 19.90,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Parrillero Salchichería Alemana,19.9,wong,,,CHORIZO
-Chorizo Finas Hierbas Zimmermann 400g,S/ 20.20,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Finas Hierbas Zimmermann,20.2,metro,,,CHORIZO
-Chorizo Parrillero OREGON FOOD'S Paquete 500g,S/ 20.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Parrillero OREGON FOOD'S Paquete,20.5,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Parrillero CASA EUROPA Paquete 500g,S/ 20.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Parrillero CASA EUROPA Paquete,20.5,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Angus Otto Kunz 300g,S/ 20.80,wong,CHORIZO,2024-12-04 18:52:07.132403,300.0,g,Chorizo Angus Otto Kunz,20.8,wong,,,CHORIZO
-Chorizo Parrillero LA GENOVESA Paquete 420g,S/ 20.90,vivanda,CHORIZO,2024-12-04 17:29:01.677190,420.0,g,Chorizo Parrillero LA GENOVESA Paquete,20.9,vivanda,,LA GENOVESA,CHORIZO
-Chorizo Finas Hierbas OREGON FOOD'S Paquete 40...,S/ 20.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Finas Hierbas OREGON FOOD'S Paquete 40,20.9,plaza_vea,Paquete 400g,,CHORIZO
-Pack Parrillero Casa Europa Paquete 450 g,S/ 21.08,wong,CHORIZO,2024-12-04 18:52:07.132403,450.0,g,Pack Parrillero Casa Europa Paquete,21.08,wong,,,CHORIZO
-Chorizo Extra en Lonjas El Pozo 80g,S/ 21.10,wong,CHORIZO,2024-12-04 18:52:07.132403,80.0,g,Chorizo Extra en Lonjas El Pozo,21.1,wong,,,CHORIZO
-Chorizo Sarta Fort El Pozo Loncheado 80g,S/ 21.30,wong,CHORIZO,2024-12-04 18:52:07.132403,80.0,g,Chorizo Sarta Fort El Pozo Loncheado,21.3,wong,,,CHORIZO
-Chorizo Parrillero OREGON FOOD'S Caja 5un,S/ 21.50,vivanda,CHORIZO,2024-12-04 17:29:01.677190,5.0,un,Chorizo Parrillero OREGON FOOD'S Caja,21.5,vivanda,,OREGON FOOD'S,CHORIZO
-Chorizo OREGON FOOD'S Mix Cocktail Caja 18un,S/ 21.50,vivanda,CHORIZO,2024-12-04 17:29:01.677190,18.0,un,Chorizo OREGON FOOD'S Mix Cocktail Caja,21.5,vivanda,,OREGON FOOD'S,CHORIZO
-Chorizo Finas Hierbas Oregon Foods 400g,S/ 21.50,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Finas Hierbas Oregon Foods,21.5,metro,,,CHORIZO
-Chorizo Parrillero OREGON FOOD'S Caja 5un,S/ 21.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,5.0,un,Chorizo Parrillero OREGON FOOD'S Caja,21.5,plaza_vea,Caja 5un,,CHORIZO
-Chorizo Parrillero Fresco Oregon Foods 500g,S/ 21.90,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Parrillero Fresco Oregon Foods,21.9,wong,,,CHORIZO
-Chorizo Precocido Parrillero CASA EUROPA Paque...,S/ 21.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Precocido Parrillero CASA EUROPA Paque,21.9,plaza_vea,Paquete 500g,,CHORIZO
-Mix Chorizos Cocktail Osso 360g,S/ 22.36,wong,CHORIZO,2024-12-04 18:52:07.132403,360.0,g,Mix Chorizos Cocktail Osso,22.36,wong,,,CHORIZO
-Chorizo Algarrobina LA GENOVESA Paquete 420g,S/ 22.50,vivanda,CHORIZO,2024-12-04 17:29:01.677190,420.0,g,Chorizo Algarrobina LA GENOVESA Paquete,22.5,vivanda,,LA GENOVESA,CHORIZO
-Chorizo Picante LA GENOVESA Paquete 420g,S/ 22.50,vivanda,CHORIZO,2024-12-04 17:29:01.677190,420.0,g,Chorizo Picante LA GENOVESA Paquete,22.5,vivanda,,LA GENOVESA,CHORIZO
-Chorizo Plant Based Della Natura 400g,S/ 22.70,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Plant Based Della Natura,22.7,metro,,,CHORIZO
-Chorizo Precocido Cocktail CASA EUROPA 500g,S/ 22.90,vivanda,CHORIZO,2024-12-04 17:29:01.677190,500.0,g,Chorizo Precocido Cocktail CASA EUROPA,22.9,vivanda,,CASA EUROPA,CHORIZO
-Chorizo Sarta Otto Kunz Paquete 250 g,S/ 23.00,wong,CHORIZO,2024-12-04 18:52:07.132403,250.0,g,Chorizo Sarta Otto Kunz Paquete,23.0,wong,,,CHORIZO
-Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete 500 g,S/ 23.36,metro,CHORIZO,2024-12-04 21:05:17.459898,500.0,g,Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete,23.36,metro,,,CHORIZO
-Chorizo Ibérico de Bellota La Bellota Lonchado 100g,S/ 23.67,wong,CHORIZO,2024-12-04 18:52:07.132403,100.0,g,Chorizo Ibérico de Bellota La Bellota Lonchado,23.67,wong,,,CHORIZO
-Chorizo Parrillero Argentino Oregon Foods 400g,S/ 23.90,metro,CHORIZO,2024-12-04 21:05:17.459898,400.0,g,Chorizo Parrillero Argentino Oregon Foods,23.9,metro,,,CHORIZO
-Chorizo Argentino OREGON FOOD'S Paquete 400g,S/ 23.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,400.0,g,Chorizo Argentino OREGON FOOD'S Paquete,23.9,plaza_vea,Paquete 400g,,CHORIZO
-Chorizo Parrillero Precocido CASA EUROPA 500g,S/ 24.10,vivanda,CHORIZO,2024-12-04 17:29:01.677190,500.0,g,Chorizo Parrillero Precocido CASA EUROPA,24.1,vivanda,,CASA EUROPA,CHORIZO
-Chorizo Mix Cocktail Parrillero CASA EUROPA 450g,S/ 24.10,vivanda,CHORIZO,2024-12-04 17:29:01.677190,450.0,g,Chorizo Mix Cocktail Parrillero CASA EUROPA,24.1,vivanda,,CASA EUROPA,CHORIZO
-Chorizo Parrilerro Argentino OREGON FOOD'S Caj...,S/ 24.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,5.0,un,Chorizo Parrilerro Argentino OREGON FOOD'S Caj,24.5,plaza_vea,Caja 5un,,CHORIZO
-Tapas Españolas Paquete 120 g: Jamón Serrano + Chorizo Madurado + Salchichón Madurado,S/ 25.20,wong,CHORIZO,2024-12-04 18:52:07.132403,120.0,g,Tapas Españolas Paquete : Jamón Serrano + Chorizo Madurado + Salchichón Madurado,25.2,wong,,,CHORIZO
-Mix Coctel Atrevido Casa Europa Paquete 450 g,S/ 25.20,metro,CHORIZO,2024-12-04 21:05:17.459898,450.0,g,Mix Coctel Atrevido Casa Europa Paquete,25.2,metro,,,CHORIZO
-Mix Coctel Atrevido Casa Europa Paquete 450 g,S/ 25.30,wong,CHORIZO,2024-12-04 18:52:07.132403,450.0,g,Mix Coctel Atrevido Casa Europa Paquete,25.3,wong,,,CHORIZO
-Chorizo Finas Hierbas Picante CASA EUROPA Paqu...,S/ 25.50 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Finas Hierbas Picante CASA EUROPA Paqu,25.5,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Vegano DELLANATURA Caja 4un,S/ 25.90,vivanda,CHORIZO,2024-12-04 17:29:01.677190,4.0,un,Chorizo Vegano DELLANATURA Caja,25.9,vivanda,,DELLANATURA,CHORIZO
-Chorizo Vegano DELLANATURA Caja 4un,S/ 25.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Vegano DELLANATURA Caja,25.9,plaza_vea,Paquete 4un,,CHORIZO
-Chorizo Cocktail de Finas Hierbas CASA EUROPA ...,S/ 25.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,500.0,g,Chorizo Cocktail de Finas Hierbas CASA EUROPA,25.9,plaza_vea,Paquete 500g,,CHORIZO
-Chorizo Parrillero Argentido Congelado Oregon Foods 500g,S/ 27.50,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Parrillero Argentido Congelado Oregon Foods,27.5,wong,,,CHORIZO
-Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete 500 g,S/ 29.20,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete,29.2,wong,,,CHORIZO
-Chorizo Artesanal de Miel de Maple con Tocino ...,S/ 29.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Artesanal de Miel de Maple con Tocino,29.9,plaza_vea,Caja 4un,,CHORIZO
-Chorizo Ibérico El Pozo Legado Ibérico 75g,S/ 29.90,wong,CHORIZO,2024-12-04 18:52:07.132403,75.0,g,Chorizo Ibérico El Pozo Legado Ibérico,29.9,wong,,,CHORIZO
-Chorizo Artesanal de Finas Hierbas LA CHARCUTE...,S/ 29.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Artesanal de Finas Hierbas LA CHARCUTE,29.9,plaza_vea,Caja 4un,,CHORIZO
-Chorizo Parrillero LA CHARCUTERÍA Caja 4un,S/ 29.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Parrillero LA CHARCUTERÍA Caja,29.9,plaza_vea,Caja 4un,,CHORIZO
-Chorizo Oriental LA CHARCUTERÍA Caja 4un,S/ 29.90 un,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,4.0,un,Chorizo Oriental LA CHARCUTERÍA Caja,29.9,plaza_vea,Caja 4un,,CHORIZO
-Chorizo Picante Cuisine & Co Caja 4 unid,S/ 30.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Picante Cuisine & Co Caja,30.9,wong,,,CHORIZO
-Chorizo Oriental Cuisine & Co Caja 4 unid,S/ 30.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Oriental Cuisine & Co Caja,30.9,wong,,,CHORIZO
-Chorizo Parrillero Cusine & Co Caja 4 unid,S/ 30.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Parrillero Cusine & Co Caja,30.9,wong,,,CHORIZO
-Chorizo de Pollo Cuisine & Co Caja 4 unid,S/ 30.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo de Pollo Cuisine & Co Caja,30.9,wong,,,CHORIZO
-Chorizo Finas Hierbas Terraza Grill Caja 560 g,S/ 30.90,wong,CHORIZO,2024-12-04 18:52:07.132403,560.0,g,Chorizo Finas Hierbas Terraza Grill Caja,30.9,wong,,,CHORIZO
-Chorizo Artesanal OSSO Parrillero 4un,S/ 32.00,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Artesanal OSSO Parrillero,32.0,wong,,,CHORIZO
-Chorizo Parrillero Precocido Suiza 1kg,S/ 32.20,metro,CHORIZO,2024-12-04 21:05:17.459898,1.0,kg,Chorizo Parrillero Precocido Suiza,32.2,metro,,,CHORIZO
-Chorizo Parrillero Precocido Suiza 1kg,S/ 33.20,wong,CHORIZO,2024-12-04 18:52:07.132403,1.0,kg,Chorizo Parrillero Precocido Suiza,33.2,wong,,,CHORIZO
-Chorizo Mediterráneo Casa Europa 420g,S/ 33.40,wong,CHORIZO,2024-12-04 18:52:07.132403,420.0,g,Chorizo Mediterráneo Casa Europa,33.4,wong,,,CHORIZO
-Chorizo Maple Casa Europa 420g,S/ 33.40,wong,CHORIZO,2024-12-04 18:52:07.132403,420.0,g,Chorizo Maple Casa Europa,33.4,wong,,,CHORIZO
-Chorizo Charcutero Tradicional Casa Europa 420g,S/ 33.50,wong,CHORIZO,2024-12-04 18:52:07.132403,420.0,g,Chorizo Charcutero Tradicional Casa Europa,33.5,wong,,,CHORIZO
-Chorizo Artesanal con Miel de Maple La Charcutería de Lima 4un,S/ 33.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Artesanal con Miel de Maple La Charcutería de Lima,33.9,wong,,,CHORIZO
-Chorizo Artesanal con Finas Hierbas La Charcutería de Lima 4un,S/ 33.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Artesanal con Finas Hierbas La Charcutería de Lima,33.9,wong,,,CHORIZO
-Chorizo Artesanal con Cerveza La Charcutería de Lima 4un,S/ 33.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Artesanal con Cerveza La Charcutería de Lima,33.9,wong,,,CHORIZO
-Chorizo Jalapeño La Cuadra de Salvador 500g,S/ 34.50,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo Jalapeño La Cuadra de Salvador,34.5,wong,,,CHORIZO
-Chorizo de Cerdo La Cuadra de Salvador 500g,S/ 34.50,wong,CHORIZO,2024-12-04 18:52:07.132403,500.0,g,Chorizo de Cerdo La Cuadra de Salvador,34.5,wong,,,CHORIZO
-Chorizo Sarta Doux El Pozo 200g,S/ 35.90,wong,CHORIZO,2024-12-04 18:52:07.132403,200.0,g,Chorizo Sarta Doux El Pozo,35.9,wong,,,CHORIZO
-Tapas de España La Taperia 150g: Jamón Serrano + Chorizo + Salchichón,S/ 36.50,wong,CHORIZO,2024-12-04 18:52:07.132403,150.0,g,Tapas de España La Taperia : Jamón Serrano + Chorizo + Salchichón,36.5,wong,,,CHORIZO
-Chorizo Gran Reserva Joselito Paquete 70 g,S/ 36.50,wong,CHORIZO,2024-12-04 18:52:07.132403,70.0,g,Chorizo Gran Reserva Joselito Paquete,36.5,wong,,,CHORIZO
-Chorizo de Cerdo Oregon Foods Caja 600 g,S/ 37.90,wong,CHORIZO,2024-12-04 18:52:07.132403,600.0,g,Chorizo de Cerdo Oregon Foods Caja,37.9,wong,,,CHORIZO
-Chorizo Artesanal de Maple Terraza 4un,S/ 38.90,wong,CHORIZO,2024-12-04 18:52:07.132403,4.0,un,Chorizo Artesanal de Maple Terraza,38.9,wong,,,CHORIZO
-Mix de Chorizos Terraza Grill Caja 560 g,S/ 38.90,wong,CHORIZO,2024-12-04 18:52:07.132403,560.0,g,Mix de Chorizos Terraza Grill Caja,38.9,wong,,,CHORIZO
-Chorizo Parrillero Oregon Foods Caja 600 g,S/ 40.90,wong,CHORIZO,2024-12-04 18:52:07.132403,600.0,g,Chorizo Parrillero Oregon Foods Caja,40.9,wong,,,CHORIZO
-Mix Charcutero La Charcutería de Lima 6un,S/ 48.50,wong,CHORIZO,2024-12-04 18:52:07.132403,6.0,un,Mix Charcutero La Charcutería de Lima,48.5,wong,,,CHORIZO
-Chorizo de Cerdo AHUMADOS TAVANCHO x kg,S/ 50.90 x kg,plaza_vea,CHORIZO,2024-12-04 13:23:40.312075,0.7,kg,Chorizo de Cerdo AHUMADOS TAVANCHO,50.9,plaza_vea,Presentación 0.7 kg aprox.,,CHORIZO
-Bife de Chorizo Nacional Wong x kg,S/ 61.90 x kg,wong,CHORIZO,2024-12-04 18:52:07.132403,1.0,kg,Bife de Chorizo Nacional Wong,61.9,wong,,,CHORIZO
-Tapas Ibéricas La Taperia 150g: Jamón + Chorizo + Salchichón,S/ 67.10,wong,CHORIZO,2024-12-04 18:52:07.132403,150.0,g,Tapas Ibéricas La Taperia : Jamón + Chorizo + Salchichón,67.1,wong,,,CHORIZO
-Bife de Chorizo Wong Premium x kg,S/ 75.12 x kg,wong,CHORIZO,2024-12-04 18:52:07.132403,1.0,kg,Bife de Chorizo Wong Premium,75.12,wong,,,CHORIZO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Chorizo Extra GOIKOA Paquete 70g,,70.0,g,5.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,70.0,g,5.9,CHORIZO
+Chorizo Extra GOIKOA Paquete 70g,GOIKOA,70.0,g,7.0,vivanda,2024-12-04 17:29:01.677190,CHORIZO,70.0,g,7.0,CHORIZO
+Chorizo Especial Cocktail Wong 250g,,250.0,g,9.9,wong,2024-12-04 18:52:07.132403,CHORIZO,250.0,g,9.9,CHORIZO
+Chorizo Reserva HIBERO Paquete 80g,,80.0,g,10.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,80.0,g,10.9,CHORIZO
+Chorizo Cocido Parrillero San Fernando Paquete 480 g,,480.0,g,10.96,metro,2024-12-04 21:05:17.459898,CHORIZO,480.0,g,10.96,CHORIZO
+Chorizo Finas Hierbas Cocktail BRAEDT Paquete ...,,250.0,g,11.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,250.0,g,11.5,CHORIZO
+Chorizo Español HIBERO Pieza 140g,,140.0,g,11.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,140.0,g,11.9,CHORIZO
+Chorizo Parrillero Precocido BRAEDT Cocktail E...,,250.0,g,11.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,250.0,g,11.9,CHORIZO
+Chorizo Español HIBERO Pieza 140g,HIBERO,140.0,g,11.9,vivanda,2024-12-04 17:29:01.677190,CHORIZO,140.0,g,11.9,CHORIZO
+Chorizo Parrillero Precocido Coctel Braedt Paquete 250 g,,250.0,g,12.4,metro,2024-12-04 21:05:17.459898,CHORIZO,250.0,g,12.4,CHORIZO
+Chorizo Italiano OTTO KUNZ Paquete 220g,,220.0,g,12.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,220.0,g,12.5,CHORIZO
+Chorizo Parrillero Rico Casero 500g,,500.0,g,12.9,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,12.9,CHORIZO
+CHORIZO F HIERBAS PRECO S ALEMANA 320G,SALCHICHERIA ALEMANA,320.0,g,12.9,tottus,2024-12-04 13:12:30.601036,CHORIZO,320.0,g,12.9,CHORIZO
+Chorizo Sarta Español HIBERO Pieza 140g,,140.0,g,12.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,140.0,g,12.9,CHORIZO
+Chorizo Italiano Paquete 220 g,,220.0,g,13.1,metro,2024-12-04 21:05:17.459898,CHORIZO,220.0,g,13.1,CHORIZO
+Chorizo Parrillero San Fernando 400g,,400.0,g,13.12,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,13.12,CHORIZO
+Chorizo Coctel Finas Hierbas Braedt Paquete 250 g,,250.0,g,13.5,wong,2024-12-04 18:52:07.132403,CHORIZO,250.0,g,13.5,CHORIZO
+Chorizo Parrillero Precocido Braedt Paquete 6 unid,,6.0,un,13.51,metro,2024-12-04 21:05:17.459898,CHORIZO,6.0,un,13.51,CHORIZO
+Chorizo Parrillero Precocido BRAEDT Paquete 50...,,500.0,g,13.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,13.9,CHORIZO
+Chorizo Finas Hierbas Suiza Gourmet 400g,,400.0,g,13.9,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,13.9,CHORIZO
+Chorizo Precocido Suiza 5un,,5.0,un,13.9,wong,2024-12-04 18:52:07.132403,CHORIZO,5.0,un,13.9,CHORIZO
+Chorizo Precocido Suiza 5un,,5.0,un,13.9,metro,2024-12-04 21:05:17.459898,CHORIZO,5.0,un,13.9,CHORIZO
+Chorizo Parrillero Suiza 400g,,400.0,g,13.9,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,13.9,CHORIZO
+Chorizo Parrillero Precocido Braedt Paquete 6 unid,,6.0,un,13.9,wong,2024-12-04 18:52:07.132403,CHORIZO,6.0,un,13.9,CHORIZO
+Chorizo Precocido San Fernando Paquete 500 g,,500.0,g,14.02,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,14.02,CHORIZO
+Chorizo Cóctel Italiano Precocido La Segoviana 300g,,300.0,g,14.1,metro,2024-12-04 21:05:17.459898,CHORIZO,300.0,g,14.1,CHORIZO
+Chorizo Parrillero Brasa San Fernando 400g,,400.0,g,14.32,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,14.32,CHORIZO
+Chorizo Precocido LA SEGOVIANA Paquete 500g,,500.0,g,14.7,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,14.7,CHORIZO
+Chorizo Curado Cuisine & Co Laminado 80g,,80.0,g,14.9,wong,2024-12-04 18:52:07.132403,CHORIZO,80.0,g,14.9,CHORIZO
+Chorizo Parrillero Precocido SALCHICHERÍA SUIZ...,,400.0,g,14.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,14.9,CHORIZO
+Chorizo Parrillero Cuisine & Co 400g,,400.0,g,14.9,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,14.9,CHORIZO
+Chorizo Parrillero Wong 400g,,400.0,g,14.9,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,14.9,CHORIZO
+Chorizo OTTO KUNZ Parrillero Paquete 400Gr,,400.0,g,14.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,14.9,CHORIZO
+Chorizo Finas Hierbas SAN FERNANDO Paquete 400g,SAN FERNANDO,400.0,g,14.99,vivanda,2024-12-04 17:29:01.677190,CHORIZO,400.0,g,14.99,CHORIZO
+Chorizo Parrillero Fresco Braedt Paquete 500 g,,500.0,g,15.21,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,15.21,CHORIZO
+Chorizo Precocido Finas Hierbas SALCHICHERÍA A...,,4.0,un,15.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,15.5,CHORIZO
+Chorizo Parrillero Fresco Braedt Paquete 500 g,,500.0,g,15.5,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,15.5,CHORIZO
+Chorizo Parrillero SALCHICHERÍA SUIZA Paquete ...,,400.0,g,15.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,15.5,CHORIZO
+Chorizo Parrillero Precocido Zimmermann Paquete 500 g,,500.0,g,15.7,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,15.7,CHORIZO
+Chorizo al Chimichurri Zimmermann Paquete 400 g,,400.0,g,15.84,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,15.84,CHORIZO
+Chorizo Parrillero Razzeto 480g,,480.0,g,15.9,metro,2024-12-04 21:05:17.459898,CHORIZO,480.0,g,15.9,CHORIZO
+Chorizo Alemán Salchichería Alemana 500g,,500.0,g,15.9,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,15.9,CHORIZO
+Chorizo Alemán Salchichería Alemana 500g,,500.0,g,15.9,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,15.9,CHORIZO
+Chorizo Finas Hierbas SALCHICHERÍA SUIZA Paque...,,400.0,g,15.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,15.9,CHORIZO
+Chorizo Finas Hierbas Zimmermann 400g,,400.0,g,16.16,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,16.16,CHORIZO
+CHORIZO MIEL DE MAPLE NR 400GR,TOTTUS,400.0,g,16.5,tottus,2024-12-04 13:12:30.601036,CHORIZO,400.0,g,16.5,CHORIZO
+CHORIZO FINAS HIERBAS NR 400GR,TOTTUS,400.0,g,16.5,tottus,2024-12-04 13:12:30.601036,CHORIZO,400.0,g,16.5,CHORIZO
+CHORIZO PRECOCIDO SALCHICHERIA X 400 GR,SUIZA,400.0,g,16.9,tottus,2024-12-04 13:12:30.601036,CHORIZO,400.0,g,16.9,CHORIZO
+Chorizo Parrillero Zimmermann 400g,,400.0,g,16.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,16.9,CHORIZO
+Chorizo Parrillero Cocktail Zimmermann Paquete 300 g,,300.0,g,16.9,metro,2024-12-04 21:05:17.459898,CHORIZO,300.0,g,16.9,CHORIZO
+Chorizo Finas Hierbas SALCHICHERÍA ALEMANA Bol...,,1.0,un,16.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,1.0,un,16.9,CHORIZO
+Chorizo a las Finas Hierbas Otto Kunz Paquete 400 g,,400.0,g,17.08,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,17.08,CHORIZO
+Chorizo Extra La Leyenda Paquete 100 g,,100.0,g,17.2,wong,2024-12-04 18:52:07.132403,CHORIZO,100.0,g,17.2,CHORIZO
+Chorizo Curado Español CASA EUROPA Paquete 150...,,150.0,g,17.3,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,150.0,g,17.3,CHORIZO
+Chorizo Parrillero Cerdeña 750g,,750.0,g,17.4,metro,2024-12-04 21:05:17.459898,CHORIZO,750.0,g,17.4,CHORIZO
+Chorizo Parrillero Artesanal BRAEDT 400g,BRAEDT,400.0,g,17.7,vivanda,2024-12-04 17:29:01.677190,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Picante BRAEDT Paquete 400g,,400.0,g,17.7,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Finas Hierbas BRAEDT Paquete 400g,,400.0,g,17.7,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Alemán BRAEDT Paquete 400g,,400.0,g,17.7,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Aleman BRAEDT 400g,BRAEDT,400.0,g,17.7,vivanda,2024-12-04 17:29:01.677190,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Ahumado BRAEDT 400g,BRAEDT,400.0,g,17.7,vivanda,2024-12-04 17:29:01.677190,CHORIZO,400.0,g,17.7,CHORIZO
+Chorizo Finas Hierbas OTTO KUNZ Paquete 400g,,400.0,g,17.8,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,17.8,CHORIZO
+Chorizo Curado Español Casa Europa Paquete 150 g,,150.0,g,17.9,wong,2024-12-04 18:52:07.132403,CHORIZO,150.0,g,17.9,CHORIZO
+Chorizo Ahumado 400gr,SALCHICHERIA ALEMANA,400.0,g,17.9,tottus,2024-12-04 13:12:30.601036,CHORIZO,400.0,g,17.9,CHORIZO
+Chorizo Ahumado Salchichería Alemana 400g,,400.0,g,17.9,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,17.9,CHORIZO
+Chorizo con Queso Braedt 400g,,400.0,g,17.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,17.9,CHORIZO
+Chorizo Parrillero Artesanal Braedt 400g,,400.0,g,17.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,17.9,CHORIZO
+Chorizo Ahumado Salchichería Alemana 400g,,400.0,g,17.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,17.9,CHORIZO
+Chorizo Parrillero Precocido SALCHICHERÍA ALEM...,,500.0,g,17.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,17.9,CHORIZO
+Chorizo Ahumado Precocido Casa Europa Paquete 300 g,,300.0,g,18.1,wong,2024-12-04 18:52:07.132403,CHORIZO,300.0,g,18.1,CHORIZO
+Chorizo Finas Hierbas Oregon Foods 400g,,400.0,g,18.28,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.28,CHORIZO
+Chorizo Ahumado Braedt 400g,,400.0,g,18.4,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,18.4,CHORIZO
+Chorizo Finas Hierbas Braedt 400g,,400.0,g,18.4,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,18.4,CHORIZO
+Chorizo Parrillero Crudo Casa Europa Paquete 500 g,,500.0,g,18.48,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,18.48,CHORIZO
+Chorizo Braedt Picante 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Parrillero Crudo SALCHICHERIA ALEMANA ...,,500.0,g,18.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,18.5,CHORIZO
+Chorizo Alemán Braedt 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Parrillero Artesanal Braedt 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Finas Hierbas Braedt 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Ahumado Braedt 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Precocido con Queso Cheddar Otto Kunz 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo con Queso Braedt 400g,,400.0,g,18.5,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,18.5,CHORIZO
+CHORIZO CAMPESTRE X 400 GR,OTTO KUNZ,400.0,g,18.5,tottus,2024-12-04 13:12:30.601036,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Precocido con Queso Cheddar Otto Kunz 400g,,400.0,g,18.5,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,18.5,CHORIZO
+Chorizo Campestre Precocido Otto Kunz Paquete 400 g,,400.0,g,18.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,18.9,CHORIZO
+Chorizo Sarta Picante GOIKOA Paquete 225g,,225.0,g,19.0,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,225.0,g,19.0,CHORIZO
+Chorizo Finas Hierbas Casa Europa Paquete 400 g,,400.0,g,19.04,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,19.04,CHORIZO
+Chorizo Fina Hierbas Salchichería Alemana 400g,,400.0,g,19.4,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,19.4,CHORIZO
+Chorizo Cocktail OTTO KUNZ 370g,OTTO KUNZ,370.0,g,19.5,vivanda,2024-12-04 17:29:01.677190,CHORIZO,370.0,g,19.5,CHORIZO
+Chorizo Campestre OTTO KUNZ 400g,OTTO KUNZ,400.0,g,19.7,vivanda,2024-12-04 17:29:01.677190,CHORIZO,400.0,g,19.7,CHORIZO
+Chorizo Campestre OTTO KUNZ Paquete 400g,,400.0,g,19.7,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,19.7,CHORIZO
+Chorizo Precocido Brasa Braedt Paquete 400 g,,400.0,g,19.7,wong,2024-12-04 18:52:07.132403,CHORIZO,400.0,g,19.7,CHORIZO
+Chorizo con Miel de Maple Zimmermann 400g,,400.0,g,19.8,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,19.8,CHORIZO
+Chorizo Parrillero Precocido Casa Europa Paquete 500 g,,500.0,g,19.84,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,19.84,CHORIZO
+Chorizo Español OTTO KUNZ Paquete 100g,,100.0,g,19.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,100.0,g,19.9,CHORIZO
+Chorizo Parrillero Salchichería Alemana 500g,,500.0,g,19.9,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,19.9,CHORIZO
+Chorizo Finas Hierbas Zimmermann 400g,,400.0,g,20.2,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,20.2,CHORIZO
+Chorizo Parrillero OREGON FOOD'S Paquete 500g,,500.0,g,20.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,20.5,CHORIZO
+Chorizo Parrillero CASA EUROPA Paquete 500g,,500.0,g,20.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,20.5,CHORIZO
+Chorizo Angus Otto Kunz 300g,,300.0,g,20.8,wong,2024-12-04 18:52:07.132403,CHORIZO,300.0,g,20.8,CHORIZO
+Chorizo Parrillero LA GENOVESA Paquete 420g,LA GENOVESA,420.0,g,20.9,vivanda,2024-12-04 17:29:01.677190,CHORIZO,420.0,g,20.9,CHORIZO
+Chorizo Finas Hierbas OREGON FOOD'S Paquete 40...,,400.0,g,20.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,20.9,CHORIZO
+Chorizo Extra en Lonjas El Pozo 80g,,80.0,g,21.1,wong,2024-12-04 18:52:07.132403,CHORIZO,80.0,g,21.1,CHORIZO
+Chorizo Sarta Fort El Pozo Loncheado 80g,,80.0,g,21.3,wong,2024-12-04 18:52:07.132403,CHORIZO,80.0,g,21.3,CHORIZO
+Chorizo Parrillero OREGON FOOD'S Caja 5un,OREGON FOOD'S,5.0,un,21.5,vivanda,2024-12-04 17:29:01.677190,CHORIZO,5.0,un,21.5,CHORIZO
+Chorizo OREGON FOOD'S Mix Cocktail Caja 18un,OREGON FOOD'S,18.0,un,21.5,vivanda,2024-12-04 17:29:01.677190,CHORIZO,18.0,un,21.5,CHORIZO
+Chorizo Finas Hierbas Oregon Foods 400g,,400.0,g,21.5,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,21.5,CHORIZO
+Chorizo Parrillero OREGON FOOD'S Caja 5un,,5.0,un,21.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,5.0,un,21.5,CHORIZO
+Chorizo Parrillero Fresco Oregon Foods 500g,,500.0,g,21.9,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,21.9,CHORIZO
+Chorizo Precocido Parrillero CASA EUROPA Paque...,,500.0,g,21.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,21.9,CHORIZO
+Chorizo Algarrobina LA GENOVESA Paquete 420g,LA GENOVESA,420.0,g,22.5,vivanda,2024-12-04 17:29:01.677190,CHORIZO,420.0,g,22.5,CHORIZO
+Chorizo Picante LA GENOVESA Paquete 420g,LA GENOVESA,420.0,g,22.5,vivanda,2024-12-04 17:29:01.677190,CHORIZO,420.0,g,22.5,CHORIZO
+Chorizo Plant Based Della Natura 400g,,400.0,g,22.7,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,22.7,CHORIZO
+Chorizo Precocido Cocktail CASA EUROPA 500g,CASA EUROPA,500.0,g,22.9,vivanda,2024-12-04 17:29:01.677190,CHORIZO,500.0,g,22.9,CHORIZO
+Chorizo Sarta Otto Kunz Paquete 250 g,,250.0,g,23.0,wong,2024-12-04 18:52:07.132403,CHORIZO,250.0,g,23.0,CHORIZO
+Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete 500 g,,500.0,g,23.36,metro,2024-12-04 21:05:17.459898,CHORIZO,500.0,g,23.36,CHORIZO
+Chorizo Ibérico de Bellota La Bellota Lonchado 100g,,100.0,g,23.67,wong,2024-12-04 18:52:07.132403,CHORIZO,100.0,g,23.67,CHORIZO
+Chorizo Parrillero Argentino Oregon Foods 400g,,400.0,g,23.9,metro,2024-12-04 21:05:17.459898,CHORIZO,400.0,g,23.9,CHORIZO
+Chorizo Argentino OREGON FOOD'S Paquete 400g,,400.0,g,23.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,400.0,g,23.9,CHORIZO
+Chorizo Parrillero Precocido CASA EUROPA 500g,CASA EUROPA,500.0,g,24.1,vivanda,2024-12-04 17:29:01.677190,CHORIZO,500.0,g,24.1,CHORIZO
+Chorizo Mix Cocktail Parrillero CASA EUROPA 450g,CASA EUROPA,450.0,g,24.1,vivanda,2024-12-04 17:29:01.677190,CHORIZO,450.0,g,24.1,CHORIZO
+Chorizo Parrilerro Argentino OREGON FOOD'S Caj...,,5.0,un,24.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,5.0,un,24.5,CHORIZO
+Chorizo Finas Hierbas Picante CASA EUROPA Paqu...,,500.0,g,25.5,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,25.5,CHORIZO
+Chorizo Vegano DELLANATURA Caja 4un,DELLANATURA,4.0,un,25.9,vivanda,2024-12-04 17:29:01.677190,CHORIZO,4.0,un,25.9,CHORIZO
+Chorizo Vegano DELLANATURA Caja 4un,,4.0,un,25.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,25.9,CHORIZO
+Chorizo Cocktail de Finas Hierbas CASA EUROPA ...,,500.0,g,25.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,500.0,g,25.9,CHORIZO
+Chorizo Parrillero Argentido Congelado Oregon Foods 500g,,500.0,g,27.5,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,27.5,CHORIZO
+Chorizo Finas Hierbas Coctel Precocido Casa Europa Paquete 500 g,,500.0,g,29.2,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,29.2,CHORIZO
+Chorizo Artesanal de Miel de Maple con Tocino ...,,4.0,un,29.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,29.9,CHORIZO
+Chorizo Ibérico El Pozo Legado Ibérico 75g,,75.0,g,29.9,wong,2024-12-04 18:52:07.132403,CHORIZO,75.0,g,29.9,CHORIZO
+Chorizo Artesanal de Finas Hierbas LA CHARCUTE...,,4.0,un,29.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,29.9,CHORIZO
+Chorizo Parrillero LA CHARCUTERÍA Caja 4un,,4.0,un,29.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,29.9,CHORIZO
+Chorizo Oriental LA CHARCUTERÍA Caja 4un,,4.0,un,29.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,4.0,un,29.9,CHORIZO
+Chorizo Picante Cuisine & Co Caja 4 unid,,4.0,un,30.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,30.9,CHORIZO
+Chorizo Oriental Cuisine & Co Caja 4 unid,,4.0,un,30.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,30.9,CHORIZO
+Chorizo Parrillero Cusine & Co Caja 4 unid,,4.0,un,30.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,30.9,CHORIZO
+Chorizo de Pollo Cuisine & Co Caja 4 unid,,4.0,un,30.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,30.9,CHORIZO
+Chorizo Finas Hierbas Terraza Grill Caja 560 g,,560.0,g,30.9,wong,2024-12-04 18:52:07.132403,CHORIZO,560.0,g,30.9,CHORIZO
+Chorizo Artesanal OSSO Parrillero 4un,,4.0,un,32.0,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,32.0,CHORIZO
+Chorizo Parrillero Precocido Suiza 1kg,,1.0,kg,32.2,metro,2024-12-04 21:05:17.459898,CHORIZO,1.0,kg,32.2,CHORIZO
+Chorizo Parrillero Precocido Suiza 1kg,,1.0,kg,33.2,wong,2024-12-04 18:52:07.132403,CHORIZO,1.0,kg,33.2,CHORIZO
+Chorizo Mediterráneo Casa Europa 420g,,420.0,g,33.4,wong,2024-12-04 18:52:07.132403,CHORIZO,420.0,g,33.4,CHORIZO
+Chorizo Maple Casa Europa 420g,,420.0,g,33.4,wong,2024-12-04 18:52:07.132403,CHORIZO,420.0,g,33.4,CHORIZO
+Chorizo Charcutero Tradicional Casa Europa 420g,,420.0,g,33.5,wong,2024-12-04 18:52:07.132403,CHORIZO,420.0,g,33.5,CHORIZO
+Chorizo Artesanal con Miel de Maple La Charcutería de Lima 4un,,4.0,un,33.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,33.9,CHORIZO
+Chorizo Artesanal con Finas Hierbas La Charcutería de Lima 4un,,4.0,un,33.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,33.9,CHORIZO
+Chorizo Artesanal con Cerveza La Charcutería de Lima 4un,,4.0,un,33.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,33.9,CHORIZO
+Chorizo Jalapeño La Cuadra de Salvador 500g,,500.0,g,34.5,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,34.5,CHORIZO
+Chorizo de Cerdo La Cuadra de Salvador 500g,,500.0,g,34.5,wong,2024-12-04 18:52:07.132403,CHORIZO,500.0,g,34.5,CHORIZO
+Chorizo Sarta Doux El Pozo 200g,,200.0,g,35.9,wong,2024-12-04 18:52:07.132403,CHORIZO,200.0,g,35.9,CHORIZO
+Chorizo Gran Reserva Joselito Paquete 70 g,,70.0,g,36.5,wong,2024-12-04 18:52:07.132403,CHORIZO,70.0,g,36.5,CHORIZO
+Chorizo de Cerdo Oregon Foods Caja 600 g,,600.0,g,37.9,wong,2024-12-04 18:52:07.132403,CHORIZO,600.0,g,37.9,CHORIZO
+Chorizo Artesanal de Maple Terraza 4un,,4.0,un,38.9,wong,2024-12-04 18:52:07.132403,CHORIZO,4.0,un,38.9,CHORIZO
+Chorizo Parrillero Oregon Foods Caja 600 g,,600.0,g,40.9,wong,2024-12-04 18:52:07.132403,CHORIZO,600.0,g,40.9,CHORIZO
+Chorizo de Cerdo AHUMADOS TAVANCHO x kg,,0.7,kg,50.9,plaza_vea,2024-12-04 13:23:40.312075,CHORIZO,0.7,kg,50.9,CHORIZO

@@ -1,68 +1,19 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Canela Entera KARIÑO Sobre 3g,S/ 0.90,vega,CANELA ENTERA,2024-12-04 14:33:13.629300,3.0,g,Canela Entera KARIÑO Sobre,0.9,vega,,Kariño,CANELA ENTERA
-Tableta Para Taza Sabor Chocolate Clavo Y Canela x 60 g,S/ 1.80,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,60.0,g,Tableta Para Taza Sabor Chocolate Clavo Y Canela x,1.8,tottus,,GENERICO,CANELA ENTERA
-Canela Entera 5 g,S/ 2.10,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,5.0,g,Canela Entera,2.1,tottus,,TOTTUS,CANELA ENTERA
-Laurel Entero 7 g,S/ 2.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,7.0,g,Laurel Entero,2.5,tottus,,TOTTUS,CANELA ENTERA
-Canela Molida 20 g,S/ 2.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,20.0,g,Canela Molida,2.5,tottus,,TOTTUS,CANELA ENTERA
-Canela Molida 10 g,S/ 2.60,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Canela Molida,2.6,tottus,,SIBARITA,CANELA ENTERA
-Clavo Entero 10 g,S/ 2.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Clavo Entero,2.9,tottus,,TOTTUS,CANELA ENTERA
-Tableta Para Taza Con Canela x 90 g,S/ 2.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,90.0,g,Tableta Para Taza Con Canela x,2.9,tottus,,SOL DEL CUSCO,CANELA ENTERA
-LECHE SIN LACTOSA AVENA CANELA X 250 ML,S/ 3.10,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,250.0,ml,LECHE SIN LACTOSA AVENA CANELA X,3.1,tottus,,LAIVE,CANELA ENTERA
-Canela Entera Sibarita Sobre 10 g,S/ 3.30,metro,CANELA ENTERA,2024-12-04 22:05:28.124890,10.0,g,Canela Entera Sibarita Sobre,3.3,metro,,,CANELA ENTERA
-Canela Entera Sibarita Sobre 10 g,S/ 3.30,wong,CANELA ENTERA,2024-12-04 20:22:31.020604,10.0,g,Canela Entera Sibarita Sobre,3.3,wong,,,CANELA ENTERA
-Romero Entero Kariño 8 g,S/ 3.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,8.0,g,Romero Entero Kariño,3.3,tottus,,,CANELA ENTERA
-Orégano Entero Kariño 18 g,S/ 3.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,18.0,g,Orégano Entero Kariño,3.3,tottus,,,CANELA ENTERA
-Canela Entera Cuisine & Co 12g,S/ 3.50,wong,CANELA ENTERA,2024-12-04 20:22:31.020604,12.0,g,Canela Entera Cuisine & Co,3.5,wong,,,CANELA ENTERA
-Canela Entera Cuisine & Co 12g,S/ 3.50,metro,CANELA ENTERA,2024-12-04 22:05:28.124890,12.0,g,Canela Entera Cuisine & Co,3.5,metro,,,CANELA ENTERA
-Canela Entera SIBARITA Sobre 10g,S/ 3.59 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,10.0,g,Canela Entera SIBARITA Sobre,3.59,plaza_vea,Sobre 10g,,CANELA ENTERA
-Orégano Entero Cuatro Estaciones 10 g,S/ 3.60,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Orégano Entero Cuatro Estaciones,3.6,tottus,,,CANELA ENTERA
-Canela Entera 10 g,S/ 3.70,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Canela Entera,3.7,tottus,,SIBARITA,CANELA ENTERA
-Tomillo Entero Kariño 5 g,S/ 3.70,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,5.0,g,Tomillo Entero Kariño,3.7,tottus,,,CANELA ENTERA
-Té Canela Clavo 25 Filtrantes,S/ 3.80,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,25.0,Filtrantes,Té Canela Clavo,3.8,tottus,,WAWASANA,CANELA ENTERA
-Canela Entera X 8 Grs Toña,S/ 3.80,metro,CANELA ENTERA,2024-12-04 22:05:28.124890,8.0,g,Canela Entera X rs Toña,3.8,metro,,,CANELA ENTERA
-Canela Entera BELL'S Sobre 12g,S/ 4.09 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,12.0,g,Canela Entera BELL'S Sobre,4.09,plaza_vea,Sobre 12g,,CANELA ENTERA
-Canela Molida Kariño 15 g,S/ 4.20,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,15.0,g,Canela Molida Kariño,4.2,tottus,,,CANELA ENTERA
-Canela Entera KARIÑO Sobre 9g,S/ 4.20,vivanda,CANELA ENTERA,2024-12-04 18:09:06.503524,9.0,g,Canela Entera KARIÑO Sobre,4.2,vivanda,,KARINO,CANELA ENTERA
-Canela Entera Cuatro Estaciones 5 g,S/ 4.20,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,5.0,g,Canela Entera Cuatro Estaciones,4.2,tottus,,,CANELA ENTERA
-Clavo de Olor Entero Kariño 8 g,S/ 4.20,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,8.0,g,Clavo de Olor Entero Kariño,4.2,tottus,,,CANELA ENTERA
-Canela Entera KARIÑO Sobre 9g,S/ 4.20 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,9.0,g,Canela Entera KARIÑO Sobre,4.2,plaza_vea,Sobre 9g,,CANELA ENTERA
-Clavo De Olor Entero Cuatro Estaciones 10 g,S/ 4.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Clavo De Olor Entero Cuatro Estaciones,4.3,tottus,,,CANELA ENTERA
-Té Canela y Clavo Mc Colin's 25 Filtrantes,S/ 4.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,25.0,Filtrantes,Té Canela y Clavo Mc Colin's,4.3,tottus,,MC COLINS,CANELA ENTERA
-Canela Molida Cuatro Estaciones 10 g,S/ 4.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Canela Molida Cuatro Estaciones,4.5,tottus,,,CANELA ENTERA
-Orégano Entero 14.2 g,S/ 4.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,14.2,g,Orégano Entero,4.5,tottus,,BADIA,CANELA ENTERA
-Chocolate Instantáneo Clavo Canela x 90 g,S/ 4.60,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,90.0,g,Chocolate Instantáneo Clavo Canela x,4.6,tottus,,SOL DEL CUSCO,CANELA ENTERA
-Canela Entera Max & Mix Sobre 5 g,S/ 4.70,wong,CANELA ENTERA,2024-12-04 20:22:31.020604,5.0,g,Canela Entera Max & Mix Sobre,4.7,wong,,,CANELA ENTERA
-Ambientador En gel Bolsa Manzana Canela 30 g,S/ 5,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,30.0,g,Ambientador En gel Bolsa Manzana Canela,5.0,tottus,,GLADE,CANELA ENTERA
-Canela Entera Badia 14.2g,S/ 5.10,metro,CANELA ENTERA,2024-12-04 22:05:28.124890,14.2,g,Canela Entera Badia,5.1,metro,,,CANELA ENTERA
-Canela Entera BADIA Sobre 14.2g,S/ 5.10 un,plaza_vea,CANELA ENTERA,2024-12-04 14:26:38.573048,14.2,g,Canela Entera BADIA Sobre,5.1,plaza_vea,Sobre 14.2g,,CANELA ENTERA
-Canela Entera Badia 14.2g,S/ 5.20,wong,CANELA ENTERA,2024-12-04 20:22:31.020604,14.2,g,Canela Entera Badia,5.2,wong,,,CANELA ENTERA
-Canela en Rama 14.2 g,S/ 5.20,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,14.2,g,Canela en Rama,5.2,tottus,,BADIA,CANELA ENTERA
-Orégano Entero 10 g,S/ 5.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,10.0,g,Orégano Entero,5.3,tottus,,TOTTUS,CANELA ENTERA
-Cereal Bar Manzana Canela 12 Unidades 12g,S/ 6.60,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,12.0,un,Cereal Bar Manzana Canela ades,6.6,tottus,,COSTA,CANELA ENTERA
-Chocolate Para Taza 90 g - Barra 90 gr,S/ 6.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,90.0,g,Chocolate Para Taza  - Barra r,6.9,tottus,,SOL DEL CUSCO,CANELA ENTERA
-Infusión de Té Canela y Clavo Huerto del Edén - 100 filtrantes,S/ 7.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,100.0,filtrantes,Infusión de Té Canela y Clavo Huerto del Edén -,7.9,tottus,,HUERTO DEL EDEN,CANELA ENTERA
-Canela molida de 50 g,S/ 8,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,50.0,g,Canela molida de,8.0,tottus,,TOTTUS,CANELA ENTERA
-Ambientador Aerosol Manzana Canela 275 mL,S/ 8.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,275.0,ml,Ambientador Aerosol Manzana Canela,8.3,tottus,,GLADE,CANELA ENTERA
-AMBIEN AEROS MANZ CANELA 400ML,S/ 9.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,400.0,ml,AMBIEN AEROS MANZ CANELA,9.5,tottus,,ETERNA,CANELA ENTERA
-Mini Croissant Chips de Manzana y Canela 320 g,S/ 9.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,320.0,g,Mini Croissant Chips de Manzana y Canela,9.9,tottus,,TOTTUS,CANELA ENTERA
-Avena Mix Canela y Berries de 400 g,S/ 9.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,400.0,g,Avena Mix Canela y Berries de,9.9,tottus,,AMARU SUPERFOODS,CANELA ENTERA
-Canela en Polvo 56.7 g,S/ 10.40,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,56.7,g,Canela en Polvo,10.4,tottus,,BADIA,CANELA ENTERA
-Salvado de Trigo Entero Cosecha del Paraíso 400 g,S/ 10.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,400.0,g,Salvado de Trigo Entero Cosecha del Paraíso,10.5,tottus,,COSECHA DEL PARAISO,CANELA ENTERA
-Ambientador Aerosol Manzana Canela 400 mL,S/ 10.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,400.0,ml,Ambientador Aerosol Manzana Canela,10.9,tottus,,GLADE,CANELA ENTERA
-Canela Molida 25 g,S/ 12.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,25.0,g,Canela Molida,12.9,tottus,,CARMENCITA,CANELA ENTERA
-Café tostado en grano entero de 250 g,S/ 12.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,250.0,g,Café tostado en grano entero de,12.9,tottus,,TOTTUS,CANELA ENTERA
-Rollo de Canela Unión 540 g,S/ 13.20,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,540.0,g,Rollo de Canela Unión,13.2,tottus,,UNION,CANELA ENTERA
-Chocolate Clavo y Canela Instantáneo 220 g - Barra,S/ 13.60,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,220.0,g,Chocolate Clavo y Canela Instantáneo  - Barra,13.6,tottus,,SOL DEL CUSCO,CANELA ENTERA
-Pickles Entero Ods 550 gr,S/ 13.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,550.0,g,Pickles Entero Ods r,13.9,tottus,,OLIVOS DEL SUR,CANELA ENTERA
-Galletas con Quinua y Manzana +NUTRI Co Caja 6un,S/ 14.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,6.0,un,Galletas con Quinua y Manzana +NUTRI Co Caja,14.9,tottus,,NUTRI CO,CANELA ENTERA
-Granola Manzana Canela 250 g,S/ 18.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,250.0,g,Granola Manzana Canela,18.9,tottus,,DYFFERENT,CANELA ENTERA
-Ambientador Toque Manzana Canela 2 Repuestos 18 g,S/ 19.40,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,18.0,g,Ambientador Toque Manzana Canela 2 Repuestos,19.4,tottus,,GLADE,CANELA ENTERA
-Absorbente de Humedad Cojín Manzana Canela 2 x 50 gr,S/ 19.50,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,50.0,g,Absorbente de Humedad Cojín Manzana Canela 2 x r,19.5,tottus,,TOTTUS,CANELA ENTERA
-Chocolate Canela 70% Cacao 0% Azúcar Quma 70 g,S/ 19.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,70.0,g,Chocolate Canela 70% Cacao 0% Azúcar Quma,19.9,tottus,,,CANELA ENTERA
-Chocolate Instantáneo Para Taza Clavo Canela Lata x 324 g,S/ 21.40,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,324.0,g,Chocolate Instantáneo Para Taza Clavo Canela Lata x,21.4,tottus,,SOL DEL CUSCO,CANELA ENTERA
-Granola de Canela 400g,S/ 22,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,400.0,g,Granola de Canela,22.0,tottus,,LA PURITA,CANELA ENTERA
-Ambientador Aceites Naturales Manzana Canela 1 Repuesto 21 mL,S/ 23.70,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,21.0,ml,Ambientador Aceites Naturales Manzana Canela 1 Repuesto,23.7,tottus,,GLADE,CANELA ENTERA
-Ambientador Aceites Naturales Manzana Canela + 1 Repuesto 21 mL,S/ 30.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,21.0,ml,Ambientador Aceites Naturales Manzana Canela + 1 Repuesto,30.3,tottus,,GLADE,CANELA ENTERA
-Ambientador Aceites Naturales Manzana Canela 2 Repuestos 42 mL,S/ 41.30,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,42.0,ml,Ambientador Aceites Naturales Manzana Canela 2 Repuestos,41.3,tottus,,GLADE,CANELA ENTERA
-Ambientador Aceites Naturales Manzana Y Canela 3 Repuestos 63 mL,S/ 49.80,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,63.0,ml,Ambientador Aceites Naturales Manzana Y Canela 3 Repuestos,49.8,tottus,,GLADE,CANELA ENTERA
-Café Grano Entero Tostado Blend 900 g,S/ 49.90,tottus,CANELA ENTERA,2024-12-04 13:51:24.509626,900.0,g,Café Grano Entero Tostado Blend,49.9,tottus,,CAFFE,CANELA ENTERA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Canela Entera KARIÑO Sobre 3g,Kariño,3.0,g,0.9,vega,2024-12-04 14:33:13.629300,CANELA ENTERA,1.0,kg,300.0,CANELA ENTERA
+Canela Entera 5 g,TOTTUS,5.0,g,2.1,tottus,2024-12-04 13:51:24.509626,CANELA ENTERA,1.0,kg,420.0,CANELA ENTERA
+Canela Entera Sibarita Sobre 10 g,,10.0,g,3.3,wong,2024-12-04 20:22:31.020604,CANELA ENTERA,1.0,kg,330.0,CANELA ENTERA
+Canela Entera Sibarita Sobre 10 g,,10.0,g,3.3,metro,2024-12-04 22:05:28.124890,CANELA ENTERA,1.0,kg,330.0,CANELA ENTERA
+Canela Entera Cuisine & Co 12g,,12.0,g,3.5,wong,2024-12-04 20:22:31.020604,CANELA ENTERA,1.0,kg,291.66666666666663,CANELA ENTERA
+Canela Entera Cuisine & Co 12g,,12.0,g,3.5,metro,2024-12-04 22:05:28.124890,CANELA ENTERA,1.0,kg,291.66666666666663,CANELA ENTERA
+Canela Entera SIBARITA Sobre 10g,,10.0,g,3.59,plaza_vea,2024-12-04 14:26:38.573048,CANELA ENTERA,1.0,kg,359.0,CANELA ENTERA
+Canela Entera 10 g,SIBARITA,10.0,g,3.7,tottus,2024-12-04 13:51:24.509626,CANELA ENTERA,1.0,kg,370.0,CANELA ENTERA
+Canela Entera X 8 Grs Toña,,8.0,g,3.8,metro,2024-12-04 22:05:28.124890,CANELA ENTERA,1.0,kg,475.0,CANELA ENTERA
+Canela Entera BELL'S Sobre 12g,,12.0,g,4.09,plaza_vea,2024-12-04 14:26:38.573048,CANELA ENTERA,1.0,kg,340.8333333333333,CANELA ENTERA
+Canela Entera Cuatro Estaciones 5 g,,5.0,g,4.2,tottus,2024-12-04 13:51:24.509626,CANELA ENTERA,1.0,kg,840.0,CANELA ENTERA
+Canela Entera KARIÑO Sobre 9g,,9.0,g,4.2,plaza_vea,2024-12-04 14:26:38.573048,CANELA ENTERA,1.0,kg,466.6666666666667,CANELA ENTERA
+Canela Entera Kariño 9 g,,9.0,g,4.2,tottus,2024-12-04 13:51:24.509626,CANELA ENTERA,1.0,kg,466.6666666666667,CANELA ENTERA
+Canela Entera KARIÑO Sobre 9g,KARINO,9.0,g,4.2,vivanda,2024-12-04 18:09:06.503524,CANELA ENTERA,1.0,kg,466.6666666666667,CANELA ENTERA
+Canela Entera Max & Mix Sobre 5 g,,5.0,g,4.7,wong,2024-12-04 20:22:31.020604,CANELA ENTERA,1.0,kg,940.0,CANELA ENTERA
+Canela Entera BADIA Sobre 14.2g,,14.2,g,5.1,plaza_vea,2024-12-04 14:26:38.573048,CANELA ENTERA,1.0,kg,359.1549295774648,CANELA ENTERA
+Canela Entera Badia 14.2g,,14.2,g,5.1,metro,2024-12-04 22:05:28.124890,CANELA ENTERA,1.0,kg,359.1549295774648,CANELA ENTERA
+Canela Entera Badia 14.2g,,14.2,g,5.2,wong,2024-12-04 20:22:31.020604,CANELA ENTERA,1.0,kg,366.1971830985916,CANELA ENTERA

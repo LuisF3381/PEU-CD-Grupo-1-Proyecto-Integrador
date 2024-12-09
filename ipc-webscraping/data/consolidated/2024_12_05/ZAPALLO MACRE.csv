@@ -1,7 +1,3 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Caigua x unidad,S/ 0.99 un,plaza_vea,ZAPALLO MACRE,2024-12-05 15:29:42.538185,1.0,un,Caigua ad,0.99,plaza_vea,Paquete 1un,,ZAPALLO MACRE
-Zapallo Macre x kg,S/ 1.99 x kg,metro,ZAPALLO MACRE,2024-12-05 16:10:51.032275,1.0,kg,Zapallo Macre,1.99,metro,,,ZAPALLO MACRE
-Zapallo Macre,S/ 1.99 x kg,plaza_vea,ZAPALLO MACRE,2024-12-05 15:29:42.538185,1.5,kg,Zapallo Macre,1.99,plaza_vea,Presentación 1.5 kg aprox.,,ZAPALLO MACRE
-Berenjena un,S/ 2.99 un,plaza_vea,ZAPALLO MACRE,2024-12-05 15:29:42.538185,1.0,un,Berenjena un,2.99,plaza_vea,Paquete 1un,,ZAPALLO MACRE
-Zapallo Macre x kg,S/ 3.20 x kg,wong,ZAPALLO MACRE,2024-12-05 18:46:22.365190,1.0,kg,Zapallo Macre,3.2,wong,,,ZAPALLO MACRE
-Zapallo Loche,S/ 18.99 x kg,plaza_vea,ZAPALLO MACRE,2024-12-05 15:29:42.538185,0.4,kg,Zapallo Loche,18.99,plaza_vea,Presentación 0.4 kg aprox.,,ZAPALLO MACRE
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Zapallo Macre x kg,,1.0,kg,1.99,metro,2024-12-05 16:10:51.032275,ZAPALLO MACRE,1.0,kg,1.99,ZAPALLO MACRE
+Zapallo Macre x kg,,1.0,kg,3.2,wong,2024-12-05 18:46:22.365190,ZAPALLO MACRE,1.0,kg,3.2,ZAPALLO MACRE

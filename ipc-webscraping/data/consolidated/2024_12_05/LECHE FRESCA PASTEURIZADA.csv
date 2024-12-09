@@ -1,4 +1,4 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 250ml,S/ 3.60,metro,LECHE FRESCA PASTEURIZADA,2024-12-05 15:41:34.681178,250.0,ml,Leche Entera Pasteurizada Danlac Sabor Chocolate Botella,3.6,metro,LECHE FRESCA PASTEURIZADA
-Leche Entera Pasteurizada Danlac Botella 900ml,S/ 7.60,metro,LECHE FRESCA PASTEURIZADA,2024-12-05 15:41:34.681178,900.0,ml,Leche Entera Pasteurizada Danlac Botella,7.6,metro,LECHE FRESCA PASTEURIZADA
-Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 900ml,S/ 8.60,metro,LECHE FRESCA PASTEURIZADA,2024-12-05 15:41:34.681178,900.0,ml,Leche Entera Pasteurizada Danlac Sabor Chocolate Botella,8.6,metro,LECHE FRESCA PASTEURIZADA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 250ml,,250.0,ml,3.6,metro,2024-12-05 15:41:34.681178,LECHE FRESCA PASTEURIZADA,250.0,ml,3.6,LECHE FRESCA PASTEURIZADA
+Leche Entera Pasteurizada Danlac Botella 900ml,,900.0,ml,7.6,metro,2024-12-05 15:41:34.681178,LECHE FRESCA PASTEURIZADA,900.0,ml,7.6,LECHE FRESCA PASTEURIZADA
+Leche Entera Pasteurizada Danlac Sabor Chocolate Botella 900ml,,900.0,ml,8.6,metro,2024-12-05 15:41:34.681178,LECHE FRESCA PASTEURIZADA,900.0,ml,8.6,LECHE FRESCA PASTEURIZADA

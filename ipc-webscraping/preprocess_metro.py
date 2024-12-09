@@ -2,7 +2,7 @@
 import os
 import pandas as pd
 
-CURRENT_DATE = "2024_12_04"
+CURRENT_DATE = "2024_12_07"
 
 
 
@@ -117,7 +117,7 @@ for filename in os.listdir(input_path):
         # Primer procesamiento
         df = primer_procesamiento(df)
 
-        # Segundo procesamiento para limpiar la cadena
+        # Segundo procesamiento limpiar la cadena
 
 
         # Extraemos el nombre modificado

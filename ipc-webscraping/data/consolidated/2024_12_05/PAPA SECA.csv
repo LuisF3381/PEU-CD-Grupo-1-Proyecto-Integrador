@@ -1,26 +1,12 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Alverja Verde Tesoro del Campo Bolsa 350 g,S/ 2.90,metro,PAPA SECA,2024-12-05 16:23:58.218132,350.0,g,Alverja Verde Tesoro del Campo Bolsa,2.9,metro,,,PAPA SECA
-Arveja Partida Máxima 500g,S/ 3.50,wong,PAPA SECA,2024-12-05 19:00:33.725743,500.0,g,Arveja Partida Máxima,3.5,wong,,,PAPA SECA
-Arveja Cuisine & Co 500g,S/ 3.50,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Arveja Cuisine & Co,3.5,metro,,,PAPA SECA
-Arveja Bolsa 500g,S/ 3.70,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Arveja Bolsa,3.7,metro,,,PAPA SECA
-Arveja Verde Tesoro Del Campo Bolsa 500 g,S/ 3.80,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Arveja Verde Tesoro Del Campo Bolsa,3.8,metro,,,PAPA SECA
-Arveja Partida Costeño 500g,S/ 3.80,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Arveja Partida Costeño,3.8,metro,,,PAPA SECA
-Mezcla de nueces 40 g,S/ 3.90,tottus,PAPA SECA,2024-12-05 12:25:52.504541,40.0,g,Mezcla de nueces,3.9,tottus,,GRANUTS,PAPA SECA
-Mezcla de arándanos maní y almendras 50 g,S/ 3.90,tottus,PAPA SECA,2024-12-05 12:25:52.504541,50.0,g,Mezcla de arándanos maní y almendras,3.9,tottus,,GRANUTS,PAPA SECA
-Papa seca VEGA Bolsa 400g,S/ 4.30,vega,PAPA SECA,2024-12-05 13:04:36.201041,400.0,g,Papa seca VEGA Bolsa,4.3,vega,,Vega,PAPA SECA
-Arveja Verde Valle Norte Bolsa 500 g,S/ 4.70,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Arveja Verde Valle Norte Bolsa,4.7,metro,,,PAPA SECA
-Arveja Verde Valle Norte Bolsa 500 g,S/ 4.90,wong,PAPA SECA,2024-12-05 19:00:33.725743,500.0,g,Arveja Verde Valle Norte Bolsa,4.9,wong,,,PAPA SECA
-Papa Seca BELL'S Bolsa 400g,S/ 5.60,vivanda,PAPA SECA,2024-12-05 22:19:11.642176,400.0,g,Papa Seca BELL'S Bolsa,5.6,vivanda,,BELL'S,PAPA SECA
-Papa Seca 400 g,S/ 5.65,tottus,PAPA SECA,2024-12-05 12:25:52.504541,400.0,g,Papa Seca,5.65,tottus,,TOTTUS,PAPA SECA
-Papa Seca Máxima Bolsa 500 g,S/ 5.70,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Papa Seca Máxima Bolsa,5.7,metro,,,PAPA SECA
-Papa Seca Cuisine & Co 500g,S/ 6.10,wong,PAPA SECA,2024-12-05 19:00:33.725743,500.0,g,Papa Seca Cuisine & Co,6.1,wong,,,PAPA SECA
-Habas saladas 150 g,S/ 6.90,tottus,PAPA SECA,2024-12-05 12:25:52.504541,150.0,g,Habas saladas,6.9,tottus,,VILLA NATURA,PAPA SECA
-Papa Seca 500 g,S/ 7.30,tottus,PAPA SECA,2024-12-05 12:25:52.504541,500.0,g,Papa Seca,7.3,tottus,,TESORO DEL CAMPO,PAPA SECA
-Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Papa Seca Tesoro Del Campo Bolsa,7.9,metro,,,PAPA SECA
-Maní Engalletado Picante 200g,S/ 8,tottus,PAPA SECA,2024-12-05 12:25:52.504541,200.0,g,Maní Engalletado Picante,8.0,tottus,,KARINTO,PAPA SECA
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.10,vivanda,PAPA SECA,2024-12-05 22:19:11.642176,500.0,g,Papa Seca COSTEÑO Bolsa,8.1,vivanda,,COSTENO,PAPA SECA
-Papa Seca COSTEÑO Bolsa 500g,S/ 8.20 un,plaza_vea,PAPA SECA,2024-12-05 15:42:05.277380,500.0,g,Papa Seca COSTEÑO Bolsa,8.2,plaza_vea,Bolsa 500g,,PAPA SECA
-Papa Seca Costeño 500g,S/ 8.20,metro,PAPA SECA,2024-12-05 16:23:58.218132,500.0,g,Papa Seca Costeño,8.2,metro,,,PAPA SECA
-Papa Seca Tesoro Del Campo Bolsa 500 g,S/ 8.30,wong,PAPA SECA,2024-12-05 19:00:33.725743,500.0,g,Papa Seca Tesoro Del Campo Bolsa,8.3,wong,,,PAPA SECA
-Cashews Salados 80 g,S/ 8.90,tottus,PAPA SECA,2024-12-05 12:25:52.504541,80.0,g,Cashews Salados,8.9,tottus,,TOTTUS,PAPA SECA
-Pistacho Salado 80 g,S/ 9.90,tottus,PAPA SECA,2024-12-05 12:25:52.504541,80.0,g,Pistacho Salado,9.9,tottus,,VILLA NATURA,PAPA SECA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Papa seca VEGA Bolsa 400g,Vega,400.0,g,4.3,vega,2024-12-05 13:04:36.201041,PAPA SECA,400.0,g,4.3,PAPA SECA
+Papa Seca BELL'S Bolsa 400g,BELL'S,400.0,g,5.6,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,400.0,g,5.6,PAPA SECA
+Papa Seca 400 g,TOTTUS,400.0,g,5.65,tottus,2024-12-05 12:25:52.504541,PAPA SECA,400.0,g,5.65,PAPA SECA
+Papa Seca Máxima Bolsa 500 g,,500.0,g,5.7,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,5.7,PAPA SECA
+Papa Seca Cuisine & Co 500g,,500.0,g,6.1,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,6.1,PAPA SECA
+Papa Seca 500 g,TESORO DEL CAMPO,500.0,g,7.3,tottus,2024-12-05 12:25:52.504541,PAPA SECA,500.0,g,7.3,PAPA SECA
+Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,7.9,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,7.9,PAPA SECA
+Papa Seca COSTEÑO Bolsa 500g,COSTENO,500.0,g,8.1,vivanda,2024-12-05 22:19:11.642176,PAPA SECA,500.0,g,8.1,PAPA SECA
+Papa Seca COSTEÑO Bolsa 500g,,500.0,g,8.2,plaza_vea,2024-12-05 15:42:05.277380,PAPA SECA,500.0,g,8.2,PAPA SECA
+Papa Seca Costeño 500g,,500.0,g,8.2,metro,2024-12-05 16:23:58.218132,PAPA SECA,500.0,g,8.2,PAPA SECA
+Papa Seca Tesoro Del Campo Bolsa 500 g,,500.0,g,8.3,wong,2024-12-05 19:00:33.725743,PAPA SECA,500.0,g,8.3,PAPA SECA

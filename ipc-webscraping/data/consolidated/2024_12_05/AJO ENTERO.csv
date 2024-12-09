@@ -1,6 +1,6 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Ajo Entero,S/ 14.99 x kg,plaza_vea,AJO ENTERO,2024-12-05 15:32:49.368163,0.25,kg,Ajo Entero,14.99,plaza_vea,Presentación 0.25 kg aprox.,,AJO ENTERO
-Ajo Entero BELL'S Pelado Bandeja 250g,S/ 14.99 un,plaza_vea,AJO ENTERO,2024-12-05 15:32:49.368163,250.0,g,Ajo Entero BELL'S Pelado Bandeja,14.99,plaza_vea,Bandeja 250g,,AJO ENTERO
-Ajo Entero Pelado BELL'S FRESCOS Bandeja 250g,S/ 14.99,vivanda,AJO ENTERO,2024-12-05 22:12:37.660662,250.0,g,Ajo Entero Pelado BELL'S FRESCOS Bandeja,14.99,vivanda,,BELL'S FRESCOS,AJO ENTERO
-Ajos Enteros sin Pelar x kg,S/ 18.99 x kg,metro,AJO ENTERO,2024-12-05 16:14:17.450235,1.0,kg,Ajos Enteros sin Pelar,18.99,metro,,,AJO ENTERO
-Ajos Enteros Justo al Día 700g,S/ 40.95,wong,AJO ENTERO,2024-12-05 18:50:11.776871,700.0,g,Ajos Enteros Justo al Día,40.95,wong,,,AJO ENTERO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Ajo Entero,,0.25,kg,14.99,plaza_vea,2024-12-05 15:32:49.368163,AJO ENTERO,0.25,kg,14.99,AJO ENTERO
+Ajo Entero BELL'S Pelado Bandeja 250g,,250.0,g,14.99,plaza_vea,2024-12-05 15:32:49.368163,AJO ENTERO,250.0,g,14.99,AJO ENTERO
+Ajo Entero Pelado BELL'S FRESCOS Bandeja 250g,BELL'S FRESCOS,250.0,g,14.99,vivanda,2024-12-05 22:12:37.660662,AJO ENTERO,250.0,g,14.99,AJO ENTERO
+Ajos Enteros sin Pelar x kg,,1.0,kg,18.99,metro,2024-12-05 16:14:17.450235,AJO ENTERO,1.0,kg,18.99,AJO ENTERO
+Ajos Enteros Justo al Día 700g,,700.0,g,40.95,wong,2024-12-05 18:50:11.776871,AJO ENTERO,700.0,g,40.95,AJO ENTERO

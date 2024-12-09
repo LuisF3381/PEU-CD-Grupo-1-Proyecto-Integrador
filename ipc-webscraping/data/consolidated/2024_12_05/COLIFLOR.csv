@@ -1,7 +1,7 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Coliflor Un,S/ 3.70 un,plaza_vea,COLIFLOR,2024-12-05 15:28:08.843174,1.0,un,Coliflor Un,3.7,plaza_vea,Paquete 1un,,COLIFLOR
-Coliflor Congelada BELL'S Bolsa 500g,S/ 5.49 un,plaza_vea,COLIFLOR,2024-12-05 15:28:08.843174,500.0,g,Coliflor Congelada BELL'S Bolsa,5.49,plaza_vea,Bolsa 500g,,COLIFLOR
-Coliflor Serrano 600g,S/ 6.00,metro,COLIFLOR,2024-12-05 16:08:57.563712,600.0,g,Coliflor Serrano,6.0,metro,,,COLIFLOR
-Coliflor Congelada Green Food 400g,S/ 6.00,metro,COLIFLOR,2024-12-05 16:08:57.563712,400.0,g,Coliflor Congelada Green Food,6.0,metro,,,COLIFLOR
-Coliflor Congelada Green Food 400g,S/ 6.00,wong,COLIFLOR,2024-12-05 18:44:33.462784,400.0,g,Coliflor Congelada Green Food,6.0,wong,,,COLIFLOR
-Coliflor Entera x un,S/ 7.50,metro,COLIFLOR,2024-12-05 16:08:57.563712,1.0,un,Coliflor Entera,7.5,metro,,,COLIFLOR
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Coliflor Un,,1.0,un,3.7,plaza_vea,2024-12-05 15:28:08.843174,COLIFLOR,1.0,un,3.7,COLIFLOR
+Coliflor Congelada BELL'S Bolsa 500g,,500.0,g,5.49,plaza_vea,2024-12-05 15:28:08.843174,COLIFLOR,500.0,g,5.49,COLIFLOR
+Coliflor Serrano 600g,,600.0,g,6.0,metro,2024-12-05 16:08:57.563712,COLIFLOR,600.0,g,6.0,COLIFLOR
+Coliflor Congelada Green Food 400g,,400.0,g,6.0,metro,2024-12-05 16:08:57.563712,COLIFLOR,400.0,g,6.0,COLIFLOR
+Coliflor Congelada Green Food 400g,,400.0,g,6.0,wong,2024-12-05 18:44:33.462784,COLIFLOR,400.0,g,6.0,COLIFLOR
+Coliflor Entera x un,,1.0,un,7.5,metro,2024-12-05 16:08:57.563712,COLIFLOR,1.0,un,7.5,COLIFLOR

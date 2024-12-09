@@ -1,10 +1,10 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Porciones de Perico Seafrost 500g,S/ 12.50,metro,PERICO,2024-12-05 15:38:24.005924,500.0,g,Porciones de Perico Seafrost,12.5,metro,,,PERICO
-Porciones de Perico Pescanova 300g,S/ 13.50,metro,PERICO,2024-12-05 15:38:24.005924,300.0,g,Porciones de Perico Pescanova,13.5,metro,,,PERICO
-Perico en Porciones PESCANOVA Congelado Bolsa 300g,S/ 15.30,vivanda,PERICO,2024-12-05 21:49:37.320040,300.0,g,Perico en Porciones PESCANOVA Congelado Bolsa,15.3,vivanda,,PESCANOVA,PERICO
-Porciones de Perico Empanizado Seafrost 500g,S/ 22.50,metro,PERICO,2024-12-05 15:38:24.005924,500.0,g,Porciones de Perico Empanizado Seafrost,22.5,metro,,,PERICO
-Porciones de Perico BELL'S Bolsa 500g,S/ 26.30,vivanda,PERICO,2024-12-05 21:49:37.320040,500.0,g,Porciones de Perico BELL'S Bolsa,26.3,vivanda,,BELL'S,PERICO
-Porciones de Perico Congelado Cuisine & Co 500g,S/ 37.50,metro,PERICO,2024-12-05 15:38:24.005924,500.0,g,Porciones de Perico Congelado Cuisine & Co,37.5,metro,,,PERICO
-Porciones de Perico A-1 Bolsa 500g,S/ 38.90 un,plaza_vea,PERICO,2024-12-05 14:57:18.972843,500.0,g,Porciones de Perico A-1 Bolsa,38.9,plaza_vea,Bolsa 500g,,PERICO
-Porciones de Perico A1 Bolsa 500 g,S/ 39.90,metro,PERICO,2024-12-05 15:38:24.005924,500.0,g,Porciones de Perico A1 Bolsa,39.9,metro,,,PERICO
-Porciones de Perico A-1 Bolsa 500g,S/ 40.30,vivanda,PERICO,2024-12-05 21:49:37.320040,500.0,g,Porciones de Perico A-1 Bolsa,40.3,vivanda,,A1,PERICO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Porciones de Perico Seafrost 500g,,500.0,g,12.5,metro,2024-12-05 15:38:24.005924,PERICO,500.0,g,12.5,PERICO
+Porciones de Perico Pescanova 300g,,300.0,g,13.5,metro,2024-12-05 15:38:24.005924,PERICO,300.0,g,13.5,PERICO
+Perico en Porciones PESCANOVA Congelado Bolsa 300g,PESCANOVA,300.0,g,15.3,vivanda,2024-12-05 21:49:37.320040,PERICO,300.0,g,15.3,PERICO
+Porciones de Perico Empanizado Seafrost 500g,,500.0,g,22.5,metro,2024-12-05 15:38:24.005924,PERICO,500.0,g,22.5,PERICO
+Porciones de Perico BELL'S Bolsa 500g,BELL'S,500.0,g,26.3,vivanda,2024-12-05 21:49:37.320040,PERICO,500.0,g,26.3,PERICO
+Porciones de Perico Congelado Cuisine & Co 500g,,500.0,g,37.5,metro,2024-12-05 15:38:24.005924,PERICO,500.0,g,37.5,PERICO
+Porciones de Perico A-1 Bolsa 500g,,500.0,g,38.9,plaza_vea,2024-12-05 14:57:18.972843,PERICO,500.0,g,38.9,PERICO
+Porciones de Perico A1 Bolsa 500 g,,500.0,g,39.9,metro,2024-12-05 15:38:24.005924,PERICO,500.0,g,39.9,PERICO
+Porciones de Perico A-1 Bolsa 500g,A1,500.0,g,40.3,vivanda,2024-12-05 21:49:37.320040,PERICO,500.0,g,40.3,PERICO

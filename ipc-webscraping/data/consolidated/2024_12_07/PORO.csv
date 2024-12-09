@@ -1,0 +1,5 @@
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Poro x un,VIVANDA,1.0,un,1.29,vivanda,2024-12-07 14:33:22.908783,PORO,1.0,un,1.29,PORO
+Poro Entero un,,1.0,un,1.29,plaza_vea,2024-12-07 14:09:21.101654,PORO,1.0,un,1.29,PORO
+Poro x un,,1.0,un,1.79,metro,2024-12-07 20:37:27.995794,PORO,1.0,un,1.79,PORO
+Poro Fitz x unid,,1.0,un,4.39,metro,2024-12-07 20:37:27.995794,PORO,1.0,un,4.39,PORO

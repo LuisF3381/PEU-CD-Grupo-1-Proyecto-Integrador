@@ -1,12 +1,8 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Olluco Especial x Kg,S/ 6.29 x kg,metro,OLLUCO,2024-12-04 21:54:59.259656,1.0,kg,Olluco Especial,6.29,metro,,,OLLUCO
-Olluco Entero x kg,S/ 6.49 x kg,metro,OLLUCO,2024-12-04 21:54:59.259656,1.0,kg,Olluco Entero,6.49,metro,,,OLLUCO
-Olluco Metro x kg,S/ 6.79 x kg,metro,OLLUCO,2024-12-04 21:54:59.259656,1.0,kg,Olluco Metro,6.79,metro,,,OLLUCO
-Olluco Entero x kg,S/ 6.99 x kg,wong,OLLUCO,2024-12-04 20:04:15.293069,1.0,kg,Olluco Entero,6.99,wong,,,OLLUCO
-Olluco Especial x Kg,S/ 6.99 x kg,wong,OLLUCO,2024-12-04 20:04:15.293069,1.0,kg,Olluco Especial,6.99,wong,,,OLLUCO
-Olluco Picado Cuisine & Co 600g,S/ 13.00,metro,OLLUCO,2024-12-04 21:54:59.259656,600.0,g,Olluco Picado Cuisine & Co,13.0,metro,,,OLLUCO
-Olluco Picado Premium Wong Bandeja 450g,S/ 15.90,wong,OLLUCO,2024-12-04 20:04:15.293069,450.0,g,Olluco Picado Premium Wong Bandeja,15.9,wong,,,OLLUCO
-Aceite Aerosol Sabor Mantequilla 170 g,S/ 21.50,tottus,OLLUCO,2024-12-04 13:45:52.371904,170.0,g,Aceite Aerosol Sabor Mantequilla,21.5,tottus,,OLEICO,OLLUCO
-ACEITE AEROSOL 170G,S/ 23.90,tottus,OLLUCO,2024-12-04 13:45:52.371904,170.0,g,ACEITE AEROSOL,23.9,tottus,,OLEICO,OLLUCO
-ACEITE BOTELLA 710ML,S/ 27.90,tottus,OLLUCO,2024-12-04 13:45:52.371904,710.0,ml,ACEITE BOTELLA,27.9,tottus,,OLEICO,OLLUCO
-Aceite en Botella de 946 mL,S/ 33.90,tottus,OLLUCO,2024-12-04 13:45:52.371904,946.0,ml,Aceite en Botella de,33.9,tottus,,OLEICO,OLLUCO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Olluco Especial x Kg,,1.0,kg,6.29,metro,2024-12-04 21:54:59.259656,OLLUCO,1.0,kg,6.29,OLLUCO
+Olluco Entero x kg,,1.0,kg,6.49,metro,2024-12-04 21:54:59.259656,OLLUCO,1.0,kg,6.49,OLLUCO
+Olluco Metro x kg,,1.0,kg,6.79,metro,2024-12-04 21:54:59.259656,OLLUCO,1.0,kg,6.79,OLLUCO
+Olluco Entero x kg,,1.0,kg,6.99,wong,2024-12-04 20:04:15.293069,OLLUCO,1.0,kg,6.99,OLLUCO
+Olluco Especial x Kg,,1.0,kg,6.99,wong,2024-12-04 20:04:15.293069,OLLUCO,1.0,kg,6.99,OLLUCO
+Olluco Picado Cuisine & Co 600g,,600.0,g,13.0,metro,2024-12-04 21:54:59.259656,OLLUCO,600.0,g,13.0,OLLUCO
+Olluco Picado Premium Wong Bandeja 450g,,450.0,g,15.9,wong,2024-12-04 20:04:15.293069,OLLUCO,450.0,g,15.9,OLLUCO

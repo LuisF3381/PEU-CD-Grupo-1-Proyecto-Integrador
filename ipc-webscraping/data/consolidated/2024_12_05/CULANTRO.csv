@@ -1,13 +1,7 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Culantro BELL'S Bolsa 60g,S/ 1.99 un,plaza_vea,CULANTRO,2024-12-05 15:49:12.214018,60.0,g,Culantro BELL'S Bolsa,1.99,plaza_vea,Bolsa 60g,,CULANTRO
-Salsa de Culantro 100 g,S/ 2.70,tottus,CULANTRO,2024-12-05 12:33:23.145882,100.0,g,Salsa de Culantro,2.7,tottus,,SIBARITA,CULANTRO
-Culantro BADIA Deshidratado Bolsa 7.1g,S/ 4.40 un,plaza_vea,CULANTRO,2024-12-05 15:49:12.214018,7.1,g,Culantro BADIA Deshidratado Bolsa,4.4,plaza_vea,Bolsa 7.1g,,CULANTRO
-Culantro molido 190 g,S/ 5.30,tottus,CULANTRO,2024-12-05 12:33:23.145882,190.0,g,Culantro molido,5.3,tottus,,TOTTUS,CULANTRO
-Culantro en Pasta Wong Pote 250 g,S/ 7.50,metro,CULANTRO,2024-12-05 16:32:50.409196,250.0,g,Culantro en Pasta Wong Pote,7.5,metro,,,CULANTRO
-Culantro en Pasta Pote 250 g,S/ 8.20,metro,CULANTRO,2024-12-05 16:32:50.409196,250.0,g,Culantro en Pasta Pote,8.2,metro,,,CULANTRO
-Culantro en Pasta Wong Pote 250 g,S/ 9.50,wong,CULANTRO,2024-12-05 19:09:27.547472,250.0,g,Culantro en Pasta Wong Pote,9.5,wong,,,CULANTRO
-Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack 250 g,S/ 9.80,metro,CULANTRO,2024-12-05 16:32:50.409196,250.0,g,Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack,9.8,metro,,,CULANTRO
-Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack 250 g,S/ 9.80,wong,CULANTRO,2024-12-05 19:09:27.547472,250.0,g,Salsa De Culantro Con Espinaca Culantrito Sibarita Doypack,9.8,wong,,,CULANTRO
-Salsa de Culantro SIBARITA Culantrito Doypack ...,S/ 15.20 un,plaza_vea,CULANTRO,2024-12-05 15:49:12.214018,550.0,g,Salsa de Culantro SIBARITA Culantrito Doypack,15.2,plaza_vea,Doypack 550g,,CULANTRO
-Sazonador Goya Culantro y Achiote 40g,S/ 15.40,wong,CULANTRO,2024-12-05 19:09:27.547472,40.0,g,Sazonador Goya Culantro y Achiote,15.4,wong,,,CULANTRO
-Salpimienta Culantro y Limón Badia 227g,S/ 20.10,wong,CULANTRO,2024-12-05 19:09:27.547472,227.0,g,Salpimienta Culantro y Limón Badia,20.1,wong,,,CULANTRO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Culantro BELL'S Bolsa 60g,,60.0,g,1.99,plaza_vea,2024-12-05 15:49:12.214018,CULANTRO,60.0,g,1.99,CULANTRO
+Culantro BADIA Deshidratado Bolsa 7.1g,,7.1,g,4.4,plaza_vea,2024-12-05 15:49:12.214018,CULANTRO,7.1,g,4.4,CULANTRO
+Culantro molido 190 g,TOTTUS,190.0,g,5.3,tottus,2024-12-05 12:33:23.145882,CULANTRO,190.0,g,5.3,CULANTRO
+Culantro en Pasta Wong Pote 250 g,,250.0,g,7.5,metro,2024-12-05 16:32:50.409196,CULANTRO,250.0,g,7.5,CULANTRO
+Culantro en Pasta Pote 250 g,,250.0,g,8.2,metro,2024-12-05 16:32:50.409196,CULANTRO,250.0,g,8.2,CULANTRO
+Culantro en Pasta Wong Pote 250 g,,250.0,g,9.5,wong,2024-12-05 19:09:27.547472,CULANTRO,250.0,g,9.5,CULANTRO

@@ -1,106 +1,30 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Trigo Mote Cuisine & Co 500g,S/ 3.50,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Trigo Mote Cuisine & Co,3.5,metro,,,GARBANZO
-Garbanzo VEGA Bolsa 400g,S/ 3.80,vega,GARBANZO,2024-12-04 14:18:09.270605,400.0,g,Garbanzo VEGA Bolsa,3.8,vega,,Vega,GARBANZO
-Trigo Mote Cuisine & Co 500g,S/ 3.90,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Trigo Mote Cuisine & Co,3.9,wong,,,GARBANZO
-Garbanzo TIMONEL Bolsa 400g,S/ 4.00,vega,GARBANZO,2024-12-04 14:18:09.270605,400.0,g,Garbanzo TIMONEL Bolsa,4.0,vega,,Timonel,GARBANZO
-Palitos De Quinua Y Garbanzo Q Sticks Sabor Mix Aji Bolsa 30 g,S/ 4.10,tottus,GARBANZO,2024-12-04 13:42:39.875053,30.0,g,Palitos De Quinua Y Garbanzo Q Sticks Sabor Mix Aji Bolsa,4.1,tottus,,WASI ORGANICS,GARBANZO
-Palitos de Quinua y Garbanzo con Finas Hierbas Q Sticks Wasi Bolsa 30 g,S/ 4.10,wong,GARBANZO,2024-12-04 20:00:48.958505,30.0,g,Palitos de Quinua y Garbanzo con Finas Hierbas Q Sticks Wasi Bolsa,4.1,wong,,,GARBANZO
-Lentejón Bolsa 350 g,S/ 4.75,metro,GARBANZO,2024-12-04 21:51:17.827114,350.0,g,Lentejón Bolsa,4.75,metro,,,GARBANZO
-Lenteja Bebé Cuisine & Co 500g,S/ 4.90,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lenteja Bebé Cuisine & Co,4.9,wong,,,GARBANZO
-Lenteja Máxima 500g,S/ 4.90,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Máxima,4.9,metro,,,GARBANZO
-Lentejón Máxima 500g,S/ 4.90,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lentejón Máxima,4.9,metro,,,GARBANZO
-Garbanzos BELL'S Bolsa 500g,S/ 4.90,vivanda,GARBANZO,2024-12-04 17:59:49.429415,500.0,g,Garbanzos BELL'S Bolsa,4.9,vivanda,,BELL'S,GARBANZO
-Garbanzos BELL'S Bolsa 500g,S/ 4.90 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,500.0,g,Garbanzos BELL'S Bolsa,4.9,plaza_vea,Bolsa 500g,,GARBANZO
-Lenteja Cuisine & Co 500g,S/ 4.90,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lenteja Cuisine & Co,4.9,wong,,,GARBANZO
-Garbanzo Maixma Bolsa 500 g,S/ 4.99,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzo Maixma Bolsa,4.99,metro,,,GARBANZO
-Lentejón Cuisine & Co 500g,S/ 5.10,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lentejón Cuisine & Co,5.1,metro,,,GARBANZO
-Lenteja Bebé Cuisine & Co 500g,S/ 5.10,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Bebé Cuisine & Co,5.1,metro,,,GARBANZO
-Morón Costeño 500g,S/ 5.30,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Morón Costeño,5.3,wong,,,GARBANZO
-Garbanzo COSECHA ANDINA Bolsa 500g,S/ 5.30,vega,GARBANZO,2024-12-04 14:18:09.270605,500.0,g,Garbanzo COSECHA ANDINA Bolsa,5.3,vega,,COSECHA ANDINA,GARBANZO
-Garbanzos Cuisine & Co 500g,S/ 5.40,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzos Cuisine & Co,5.4,metro,,,GARBANZO
-Garbanzos Cuisine & Co 500g,S/ 5.40,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Garbanzos Cuisine & Co,5.4,wong,,,GARBANZO
-Lenteja Costeño 500g,S/ 5.40,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lenteja Costeño,5.4,wong,,,GARBANZO
-Lenteja Bebé Tesoro Del Campo Bolsa 500 g,S/ 5.50,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Bebé Tesoro Del Campo Bolsa,5.5,metro,,,GARBANZO
-Lenteja Tesoro Del Campo Bolsa 500 g,S/ 5.85,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lenteja Tesoro Del Campo Bolsa,5.85,wong,,,GARBANZO
-Lenteja Tesoro Del Campo Bolsa 500 g,S/ 5.85,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Tesoro Del Campo Bolsa,5.85,metro,,,GARBANZO
-Pallar Maxima Bolsa 500 g,S/ 5.90,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Pallar Maxima Bolsa,5.9,metro,,,GARBANZO
-Lenteja Valle Norte Bolsa 500 g,S/ 6.20,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Valle Norte Bolsa,6.2,metro,,,GARBANZO
-Crunch Garbanzo BBQ 100 g,S/ 6.30,tottus,GARBANZO,2024-12-04 13:42:39.875053,100.0,g,Crunch Garbanzo BBQ,6.3,tottus,,DYFFERENT,GARBANZO
-Garbanzo Precocido Guva 500g,S/ 6.49,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Garbanzo Precocido Guva,6.49,wong,,,GARBANZO
-Garbanzo Precocido Guva 500g,S/ 6.49,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzo Precocido Guva,6.49,metro,,,GARBANZO
-Lentejas Bebé Bolsa 500 g,S/ 6.50,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lentejas Bebé Bolsa,6.5,wong,,,GARBANZO
-Lentejas Paisana Bolsa 500 g,S/ 6.50,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lentejas Paisana Bolsa,6.5,metro,,,GARBANZO
-Garbanzo Costeño 500g,S/ 6.60,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzo Costeño,6.6,metro,,,GARBANZO
-Lenteja Costeño 500g,S/ 6.60,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Costeño,6.6,metro,,,GARBANZO
-Garbanzo COSTEÑO Bolsa 500g,S/ 6.60 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,500.0,g,Garbanzo COSTEÑO Bolsa,6.6,plaza_vea,Bolsa 500g,,GARBANZO
-Lenteja Baby Paisana Bolsa 500 g,S/ 6.70,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lenteja Baby Paisana Bolsa,6.7,metro,,,GARBANZO
-Lentejón Costeño 500g,S/ 6.80,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Lentejón Costeño,6.8,metro,,,GARBANZO
-Garbanzo Costeño 500g,S/ 6.80,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Garbanzo Costeño,6.8,wong,,,GARBANZO
-Burger de Garbanzos DELLANATURA Bolsa 100g,S/ 6.90 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,100.0,g,Burger de Garbanzos DELLANATURA Bolsa,6.9,plaza_vea,Bolsa 100g,,GARBANZO
-Pallar Cuisine & Co Bolsa 500 gr,S/ 6.90,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Pallar Cuisine & Co Bolsa r,6.9,metro,,,GARBANZO
-Lentejón Costeño 500g,S/ 6.90,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Lentejón Costeño,6.9,wong,,,GARBANZO
-Garbanzo Precocido Bolsa 500g,S/ 6.99 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,500.0,g,Garbanzo Precocido Bolsa,6.99,plaza_vea,Bolsa 500g,,GARBANZO
-Garbanzos Tesoro Del Campo Bolsa 500 g,S/ 7.00,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzos Tesoro Del Campo Bolsa,7.0,metro,,,GARBANZO
-Pallar Costeño 500g,S/ 7.00,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Pallar Costeño,7.0,metro,,,GARBANZO
-Quinua Máxima 500g,S/ 7.00,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Quinua Máxima,7.0,metro,,,GARBANZO
-Garbanzos 500 g,S/ 7.23,tottus,GARBANZO,2024-12-04 13:42:39.875053,500.0,g,Garbanzos,7.23,tottus,,TOTTUS,GARBANZO
-Crunch de Garbanzo DYFFERENT Sal y Pimienta Bolsa 100g,S/ 7.40,vivanda,GARBANZO,2024-12-04 17:59:49.429415,100.0,g,Crunch de Garbanzo DYFFERENT Sal y Pimienta Bolsa,7.4,vivanda,,DYFFERENT,GARBANZO
-Garbanzo Costeño 500 g,S/ 7.40,tottus,GARBANZO,2024-12-04 13:42:39.875053,500.0,g,Garbanzo Costeño,7.4,tottus,,COSTENO,GARBANZO
-Garbanzos Casa Verde 340g,S/ 7.50,wong,GARBANZO,2024-12-04 20:00:48.958505,340.0,g,Garbanzos Casa Verde,7.5,wong,,,GARBANZO
-Garbanzos x 340 g,S/ 7.50,tottus,GARBANZO,2024-12-04 13:42:39.875053,340.0,g,Garbanzos x,7.5,tottus,,CASA VERDE,GARBANZO
-Crunch de Garbanzo DYFFERENT Cheddar Bolsa 100...,S/ 7.50 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,100.0,g,Crunch de Garbanzo DYFFERENT Cheddar Bolsa 100,7.5,plaza_vea,Bolsa 100g,,GARBANZO
-Crunch de Garbanzo DYFFERENT BBQ Bolsa 100g,S/ 7.50 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,100.0,g,Crunch de Garbanzo DYFFERENT BBQ Bolsa,7.5,plaza_vea,Bolsa 100g,,GARBANZO
-Garbanzos Casa Verde 340g,S/ 7.50,metro,GARBANZO,2024-12-04 21:51:17.827114,340.0,g,Garbanzos Casa Verde,7.5,metro,,,GARBANZO
-Garbanzo CASA VERDE Listas para Comer Doypack ...,S/ 7.50 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,340.0,g,Garbanzo CASA VERDE Listas para Comer Doypack,7.5,plaza_vea,Doypack 340g,,GARBANZO
-Crunch Garbanzo Sal Bolsa 100 g,S/ 7.60,wong,GARBANZO,2024-12-04 20:00:48.958505,100.0,g,Crunch Garbanzo Sal Bolsa,7.6,wong,,,GARBANZO
-Crunch Garbanzo Cheddar Bolsa 100 g,S/ 7.60,wong,GARBANZO,2024-12-04 20:00:48.958505,100.0,g,Crunch Garbanzo Cheddar Bolsa,7.6,wong,,,GARBANZO
-Crunch Garbanzo Bbq Bolsa 100 g,S/ 7.60,wong,GARBANZO,2024-12-04 20:00:48.958505,100.0,g,Crunch Garbanzo Bbq Bolsa,7.6,wong,,,GARBANZO
-Garbanzos Bolsa 500 g,S/ 7.70,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Garbanzos Bolsa,7.7,metro,,,GARBANZO
-Pallar Tesoro Del Campo Bolsa 500 g,S/ 7.90,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Pallar Tesoro Del Campo Bolsa,7.9,metro,,,GARBANZO
-Burger de Garbanzos Della Natura 100g,S/ 7.90,wong,GARBANZO,2024-12-04 20:00:48.958505,100.0,g,Burger de Garbanzos Della Natura,7.9,wong,,,GARBANZO
-Garbanzos en Salmuera Cuisine & Co 425g,S/ 8.80,wong,GARBANZO,2024-12-04 20:00:48.958505,425.0,g,Garbanzos en Salmuera Cuisine & Co,8.8,wong,,,GARBANZO
-Quinua Roja Orgánica Tiyapuy Doypack 340 g,S/ 8.80,wong,GARBANZO,2024-12-04 20:00:48.958505,340.0,g,Quinua Roja Orgánica Tiyapuy Doypack,8.8,wong,,,GARBANZO
-Garbanzos Lorenzo 425g,S/ 8.80,wong,GARBANZO,2024-12-04 20:00:48.958505,425.0,g,Garbanzos Lorenzo,8.8,wong,,,GARBANZO
-Quinua Tricolor Orgánica Tiyapuy Doypack 340 g,S/ 8.80,wong,GARBANZO,2024-12-04 20:00:48.958505,340.0,g,Quinua Tricolor Orgánica Tiyapuy Doypack,8.8,wong,,,GARBANZO
-Quinua Perlada Superior Incasur Bolsa 250 gr,S/ 9.10,metro,GARBANZO,2024-12-04 21:51:17.827114,250.0,g,Quinua Perlada Superior Incasur Bolsa r,9.1,metro,,,GARBANZO
-Quinua Cuisine & Co 500g,S/ 9.30,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Quinua Cuisine & Co,9.3,metro,,,GARBANZO
-Quinua Cuisine & Co 500g,S/ 9.30,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Quinua Cuisine & Co,9.3,wong,,,GARBANZO
-Quinua Perlada Superior Incasur Bolsa 250 gr,S/ 9.50,wong,GARBANZO,2024-12-04 20:00:48.958505,250.0,g,Quinua Perlada Superior Incasur Bolsa r,9.5,wong,,,GARBANZO
-Garbanzos VALLE FÉRTIL Lata 439g,S/ 9.70 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,439.0,g,Garbanzos VALLE FÉRTIL Lata,9.7,plaza_vea,Lata 439g,,GARBANZO
-Quinua Costeño 500g,S/ 9.80,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Quinua Costeño,9.8,metro,,,GARBANZO
-Quinua Tesoro Del Campo Bolsa 500 g,S/ 9.85,metro,GARBANZO,2024-12-04 21:51:17.827114,500.0,g,Quinua Tesoro Del Campo Bolsa,9.85,metro,,,GARBANZO
-Quinua Costeño 500g,S/ 9.89,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Quinua Costeño,9.89,wong,,,GARBANZO
-Quinua Tesoro Del Campo Bolsa 500 g,S/ 10.25,wong,GARBANZO,2024-12-04 20:00:48.958505,500.0,g,Quinua Tesoro Del Campo Bolsa,10.25,wong,,,GARBANZO
-Quinua Perlada Selecta Incasur Bolsa 250 gr,S/ 10.40,metro,GARBANZO,2024-12-04 21:51:17.827114,250.0,g,Quinua Perlada Selecta Incasur Bolsa r,10.4,metro,,,GARBANZO
-Garbanzos Horneados Picantes Gozana 90g,S/ 11.00,wong,GARBANZO,2024-12-04 20:00:48.958505,90.0,g,Garbanzos Horneados Picantes Gozana,11.0,wong,,,GARBANZO
-Quinua Perlada Selecta Incasur Bolsa 250 gr,S/ 11.20,wong,GARBANZO,2024-12-04 20:00:48.958505,250.0,g,Quinua Perlada Selecta Incasur Bolsa r,11.2,wong,,,GARBANZO
-Maíz Cancha Sierra Exportadora Desgranado Bolsa 425 g,S/ 11.30,wong,GARBANZO,2024-12-04 20:00:48.958505,425.0,g,Maíz Cancha Sierra Exportadora Desgranado Bolsa,11.3,wong,,,GARBANZO
-Quinua Perlada Nativa Incasur Bolsa 250 gr,S/ 11.90,wong,GARBANZO,2024-12-04 20:00:48.958505,250.0,g,Quinua Perlada Nativa Incasur Bolsa r,11.9,wong,,,GARBANZO
-Garbanzos en Conserva Essential Everyday 425g,S/ 12.00,wong,GARBANZO,2024-12-04 20:00:48.958505,425.0,g,Garbanzos en Conserva Essential Everyday,12.0,wong,,,GARBANZO
-Garbanzos en Conserva Essential Everyday 425g,S/ 12.00,metro,GARBANZO,2024-12-04 21:51:17.827114,425.0,g,Garbanzos en Conserva Essential Everyday,12.0,metro,,,GARBANZO
-Garbanzos con Tocino Olivos del Sur 425g,S/ 13.20,metro,GARBANZO,2024-12-04 21:51:17.827114,425.0,g,Garbanzos con Tocino Olivos del Sur,13.2,metro,,,GARBANZO
-Quinua Roja Vidandina Doypack 454 g,S/ 13.30,wong,GARBANZO,2024-12-04 20:00:48.958505,454.0,g,Quinua Roja Vidandina Doypack,13.3,wong,,,GARBANZO
-Quinua Negra Vidandina Doypack 454 g,S/ 13.50,metro,GARBANZO,2024-12-04 21:51:17.827114,454.0,g,Quinua Negra Vidandina Doypack,13.5,metro,,,GARBANZO
-Maíz Chulpi Desgranado Kuski Bolsa 425 g,S/ 14.90,metro,GARBANZO,2024-12-04 21:51:17.827114,425.0,g,Maíz Chulpi Desgranado Kuski Bolsa,14.9,metro,,,GARBANZO
-Maíz Mote Sierra Exportadora Desgranado Bolsa 425 g,S/ 14.90,wong,GARBANZO,2024-12-04 20:00:48.958505,425.0,g,Maíz Mote Sierra Exportadora Desgranado Bolsa,14.9,wong,,,GARBANZO
-Quinua tricolor Vida & Quinua Bolsa 454 g,S/ 15.30,metro,GARBANZO,2024-12-04 21:51:17.827114,454.0,g,Quinua tricolor Vida & Quinua Bolsa,15.3,metro,,,GARBANZO
-Quinua Orgánica Ecoandino 200g,S/ 15.40,wong,GARBANZO,2024-12-04 20:00:48.958505,200.0,g,Quinua Orgánica Ecoandino,15.4,wong,,,GARBANZO
-Quinua Negra Vidandina Doypack 454 g,S/ 15.50,wong,GARBANZO,2024-12-04 20:00:48.958505,454.0,g,Quinua Negra Vidandina Doypack,15.5,wong,,,GARBANZO
-Cereal de Garbanzo Sabor Miel Vainilla Dyfferent 210g,S/ 16.10,metro,GARBANZO,2024-12-04 21:51:17.827114,210.0,g,Cereal de Garbanzo Sabor Miel Vainilla Dyfferent,16.1,metro,,,GARBANZO
-Cereal de Garbanzo Sabor Cinnamon Roll Dyfferent 210g,S/ 16.10,metro,GARBANZO,2024-12-04 21:51:17.827114,210.0,g,Cereal de Garbanzo Sabor Cinnamon Roll Dyfferent,16.1,metro,,,GARBANZO
-Hamburguesa de Garbanzos DELLANATURA Caja 400g,S/ 16.90 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,400.0,g,Hamburguesa de Garbanzos DELLANATURA Caja,16.9,plaza_vea,Caja 400g,,GARBANZO
-Quinua Tricolor Orgánica Vidaandina Bolsa 454 g,S/ 17.90,metro,GARBANZO,2024-12-04 21:51:17.827114,454.0,g,Quinua Tricolor Orgánica Vidaandina Bolsa,17.9,metro,,,GARBANZO
-Crema de Garbanzo Tradicional VALLE FERTIL Fra...,S/ 19 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,240.0,g,Crema de Garbanzo Tradicional VALLE FERTIL Fra,19.0,plaza_vea,Frasco 240g,,GARBANZO
-Crema de Garbanzo Tradicional VALLE FERTIL Frasco 240g,S/ 19.00,vivanda,GARBANZO,2024-12-04 17:59:49.429415,240.0,g,Crema de Garbanzo Tradicional VALLE FERTIL Frasco,19.0,vivanda,,VALLE FERTIL,GARBANZO
-Crema de Garbanzo con Ajo VALLE FERTIL Frasco 240g,S/ 19.10,vivanda,GARBANZO,2024-12-04 17:59:49.429415,240.0,g,Crema de Garbanzo con Ajo VALLE FERTIL Frasco,19.1,vivanda,,VALLE FERTIL,GARBANZO
-Quinua Tricolor Orgánica Vidaandina Bolsa 454 g,S/ 19.50,wong,GARBANZO,2024-12-04 20:00:48.958505,454.0,g,Quinua Tricolor Orgánica Vidaandina Bolsa,19.5,wong,,,GARBANZO
-Quinua Negra Orgánica Vidaandina Bolsa 454 g,S/ 19.50,wong,GARBANZO,2024-12-04 20:00:48.958505,454.0,g,Quinua Negra Orgánica Vidaandina Bolsa,19.5,wong,,,GARBANZO
-Quinua Tricolor Orgánica América Orgánica 340g,S/ 19.90,wong,GARBANZO,2024-12-04 20:00:48.958505,340.0,g,Quinua Tricolor Orgánica América Orgánica,19.9,wong,,,GARBANZO
-Hamburguesa de Garbanzos y Espinacas SANÚA Caj...,S/ 21.19 un,plaza_vea,GARBANZO,2024-12-04 14:12:23.395047,5.0,un,Hamburguesa de Garbanzos y Espinacas SANÚA Caj,21.19,plaza_vea,Caja 5un,,GARBANZO
-Crema de Garbanzo Valle Fertil Hummus Dip con Alcachofa Frasco 240 g,S/ 22.30,wong,GARBANZO,2024-12-04 20:00:48.958505,240.0,g,Crema de Garbanzo Valle Fertil Hummus Dip con Alcachofa Frasco,22.3,wong,,,GARBANZO
-Crema de Garbanzo Valle Fertil Hummus Dip con Ajo Frasco 240 g,S/ 22.30,wong,GARBANZO,2024-12-04 20:00:48.958505,240.0,g,Crema de Garbanzo Valle Fertil Hummus Dip con Ajo Frasco,22.3,wong,,,GARBANZO
-Crema de Garbanzo Valle Fertil Hummus Dip Tradicional Frasco 240 g,S/ 22.30,wong,GARBANZO,2024-12-04 20:00:48.958505,240.0,g,Crema de Garbanzo Valle Fertil Hummus Dip Tradicional Frasco,22.3,wong,,,GARBANZO
-Mini Hamburguesas de Garbanzos y Espinaca Sanúa 10un,S/ 22.40,wong,GARBANZO,2024-12-04 20:00:48.958505,10.0,un,Mini Hamburguesas de Garbanzos y Espinaca Sanúa,22.4,wong,,,GARBANZO
-Hamburguesa de Garbanzos y Espinacas SANÚA Caja 5un,S/ 28.00,vivanda,GARBANZO,2024-12-04 17:59:49.429415,5.0,un,Hamburguesa de Garbanzos y Espinacas SANÚA Caja,28.0,vivanda,,SANUA,GARBANZO
-Garbanzo Frito Salado x kg,S/ 48.50 x kg,wong,GARBANZO,2024-12-04 20:00:48.958505,1.0,kg,Garbanzo Frito Salado,48.5,wong,,,GARBANZO
-Garbanzo Picante x kg,S/ 51.00 x kg,metro,GARBANZO,2024-12-04 21:51:17.827114,1.0,kg,Garbanzo Picante,51.0,metro,,,GARBANZO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Garbanzo TIMONEL Bolsa 400g,Timonel,400.0,g,4.0,vega,2024-12-04 14:18:09.270605,GARBANZO,1.0,kg,10.0,GARBANZO
+Garbanzos BELL'S Bolsa 500g,,500.0,g,4.9,plaza_vea,2024-12-04 14:12:23.395047,GARBANZO,1.0,kg,9.8,GARBANZO
+Garbanzo Maixma Bolsa 500 g,,500.0,g,4.99,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,9.98,GARBANZO
+Garbanzo COSECHA ANDINA Bolsa 500g,COSECHA ANDINA,500.0,g,5.3,vega,2024-12-04 14:18:09.270605,GARBANZO,1.0,kg,10.6,GARBANZO
+Garbanzos Cuisine & Co 500g,,500.0,g,5.4,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,10.8,GARBANZO
+Garbanzos Cuisine & Co 500g,,500.0,g,5.4,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,10.8,GARBANZO
+Garbanzo Precocido Guva 500g,,500.0,g,6.49,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,12.98,GARBANZO
+Garbanzo Precocido Guva 500g,,500.0,g,6.49,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,12.98,GARBANZO
+Garbanzo Costeño 500g,,500.0,g,6.6,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,13.2,GARBANZO
+Garbanzo COSTEÑO Bolsa 500g,,500.0,g,6.6,plaza_vea,2024-12-04 14:12:23.395047,GARBANZO,1.0,kg,13.2,GARBANZO
+Garbanzo TESORO DEL CAMPO Bolsa 500g,,500.0,g,6.99,plaza_vea,2024-12-04 14:12:23.395047,GARBANZO,1.0,kg,13.98,GARBANZO
+Garbanzo Precocido Bolsa 500g,,500.0,g,6.99,plaza_vea,2024-12-04 14:12:23.395047,GARBANZO,1.0,kg,13.98,GARBANZO
+Garbanzos Tesoro Del Campo Bolsa 500 g,,500.0,g,7.0,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,14.0,GARBANZO
+Garbanzos 500 g,TOTTUS,500.0,g,7.23,tottus,2024-12-04 13:42:39.875053,GARBANZO,1.0,kg,14.46,GARBANZO
+Garbanzos Tesoro Del Campo Bolsa 500 g,,500.0,g,7.4,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,14.8,GARBANZO
+Garbanzo Costeño 500 g,COSTENO,500.0,g,7.4,tottus,2024-12-04 13:42:39.875053,GARBANZO,1.0,kg,14.8,GARBANZO
+Garbanzos x 340 g,CASA VERDE,340.0,g,7.5,tottus,2024-12-04 13:42:39.875053,GARBANZO,1.0,kg,22.058823529411764,GARBANZO
+Garbanzo CASA VERDE Listas para Comer Doypack ...,,340.0,g,7.5,plaza_vea,2024-12-04 14:12:23.395047,GARBANZO,1.0,kg,22.058823529411764,GARBANZO
+Garbanzos Casa Verde 340g,,340.0,g,7.5,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,22.058823529411764,GARBANZO
+Garbanzos Bolsa 500 g,,500.0,g,7.7,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,15.4,GARBANZO
+Garbanzos Bolsa 500 g,,500.0,g,7.9,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,15.8,GARBANZO
+Garbanzos Lorenzo 425g,,425.0,g,8.8,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,20.705882352941178,GARBANZO
+Garbanzos VALLE FÉRTIL Lata 439g,VALLE FERTIL,439.0,g,9.7,vivanda,2024-12-04 17:59:49.429415,GARBANZO,1.0,kg,22.095671981776764,GARBANZO
+Garbanzos Horneados Salados Gozana 90g,,90.0,g,11.0,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,122.22222222222221,GARBANZO
+Garbanzos en Conserva Essential Everyday 425g,,425.0,g,12.0,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,28.235294117647058,GARBANZO
+Garbanzos en Conserva Essential Everyday 425g,,425.0,g,12.0,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,28.235294117647058,GARBANZO
+Garbanzos con Tocino Olivos del Sur 425g,,425.0,g,13.2,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,31.058823529411764,GARBANZO
+Garbanzo Picante x kg,,1.0,kg,51.0,metro,2024-12-04 21:51:17.827114,GARBANZO,1.0,kg,51.0,GARBANZO
+Garbanzo Picante x kg,,1.0,kg,52.0,wong,2024-12-04 20:00:48.958505,GARBANZO,1.0,kg,52.0,GARBANZO

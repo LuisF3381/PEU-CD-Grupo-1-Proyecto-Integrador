@@ -1,44 +1,41 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Pepinillo,S/ 2.39 x kg,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,1.0,kg,Pepinillo,2.39,plaza_vea,Presentación 1 kg aprox.,,PEPINILLO
-Pepinillo x un,S/ 2.80,metro,PEPINILLO,2024-12-04 21:43:55.862391,1.0,un,Pepinillo,2.8,metro,,,PEPINILLO
-Pepinillo Hidropónico Ecologic x un,S/ 3.70,wong,PEPINILLO,2024-12-04 19:47:46.028800,1.0,un,Pepinillo Hidropónico Ecologic,3.7,wong,,,PEPINILLO
-Baby Pepinillo BELL'S FRESCOS x un,S/ 3.99,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,Baby Pepinillo BELL'S FRESCOS,3.99,vivanda,,BELL'S FRESCOS,PEPINILLO
-Pepinillo Holandés Frescas x un,S/ 4.70,wong,PEPINILLO,2024-12-04 19:47:46.028800,1.0,un,Pepinillo Holandés Frescas,4.7,wong,,,PEPINILLO
-Pepinillo Pickles Hidropónico de Invernadero Ecologic Bandeja 300g,S/ 5.40,wong,PEPINILLO,2024-12-04 19:47:46.028800,300.0,g,Pepinillo Pickles Hidropónico de Invernadero Ecologic Bandeja,5.4,wong,,,PEPINILLO
-Pepinillo Japonés La Huerta 420g,S/ 6.20,wong,PEPINILLO,2024-12-04 19:47:46.028800,420.0,g,Pepinillo Japonés La Huerta,6.2,wong,,,PEPINILLO
-Pepinillos ASPERIO Frasco 370g,S/ 6.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,Pepinillos ASPERIO Frasco,6.9,vivanda,,ASPERIO,PEPINILLO
-Pepinillos ASPERIO Frasco 370g,S/ 6.90 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,370.0,g,Pepinillos ASPERIO Frasco,6.9,plaza_vea,Frasco 370g,,PEPINILLO
-Pepinillo Premium La Huerta x unid,S/ 7.40,wong,PEPINILLO,2024-12-04 19:47:46.028800,1.0,un,Pepinillo Premium La Huerta,7.4,wong,,,PEPINILLO
-Pepinillo Encurtido 220g,S/ 8.32,metro,PEPINILLO,2024-12-04 21:43:55.862391,220.0,g,Pepinillo Encurtido,8.32,metro,,,PEPINILLO
-Pepinillos ASPERIO Sabor Anchoa Frasco 370g,S/ 8.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,370.0,g,Pepinillos ASPERIO Sabor Anchoa Frasco,8.5,vivanda,,ASPERIO,PEPINILLO
-Pepinillos ASPERIO Sabor Anchoa Frasco 370g,S/ 8.50 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,370.0,g,Pepinillos ASPERIO Sabor Anchoa Frasco,8.5,plaza_vea,Frasco 370g,,PEPINILLO
-Pepinillos Encurtidos en Vinagre CALÉ Frasco 2...,S/ 8.60 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,240.0,g,Pepinillos Encurtidos en Vinagre CALÉ Frasco 2,8.6,plaza_vea,Frasco 240g,,PEPINILLO
-Pepinillo sin Pepas VIVA Bandeja x un,S/ 8.90,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,1.0,un,Pepinillo sin Pepas VIVA Bandeja,8.9,vivanda,,VIVA,PEPINILLO
-Pepinillo Sin Pepas VIVA x un,S/ 8.90 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,1.0,un,Pepinillo Sin Pepas VIVA,8.9,plaza_vea,Paquete 1un,,PEPINILLO
-Pepinillos Encurditos En Salmuera x 250 g,S/ 8.96,tottus,PEPINILLO,2024-12-04 13:38:12.061667,250.0,g,Pepinillos Encurditos En Salmuera x,8.96,tottus,,OLIVALLE,PEPINILLO
-Pepinillos Encurtidos Calé 240g,S/ 8.99,metro,PEPINILLO,2024-12-04 21:43:55.862391,240.0,g,Pepinillos Encurtidos Calé,8.99,metro,,,PEPINILLO
-Pepinillos en Salmuera OLIVALLE Pote 250g,S/ 9.50,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,250.0,g,Pepinillos en Salmuera OLIVALLE Pote,9.5,vivanda,,OLIVALLE,PEPINILLO
-Pepinillo Encurtido HUERTO MEJÍA Paquete 400g,S/ 10.50 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,400.0,g,Pepinillo Encurtido HUERTO MEJÍA Paquete,10.5,plaza_vea,Táper 400g,,PEPINILLO
-Pepinillo en Rodajas Encurtido HUERTO MEJÍA Pa...,S/ 10.50 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,400.0,g,Pepinillo en Rodajas Encurtido HUERTO MEJÍA Pa,10.5,plaza_vea,Táper 400g,,PEPINILLO
-Pepinillos Encurtidos Huerto Mejía 400g,S/ 11.00,metro,PEPINILLO,2024-12-04 21:43:55.862391,400.0,g,Pepinillos Encurtidos Huerto Mejía,11.0,metro,,,PEPINILLO
-Pepinillos Encurtidos Huerto Mejía 400g,S/ 11.00,wong,PEPINILLO,2024-12-04 19:47:46.028800,400.0,g,Pepinillos Encurtidos Huerto Mejía,11.0,wong,,,PEPINILLO
-Pepinillos Encurtidos Cuisine & Co Pote 510 g,S/ 11.50,metro,PEPINILLO,2024-12-04 21:43:55.862391,510.0,g,Pepinillos Encurtidos Cuisine & Co Pote,11.5,metro,,,PEPINILLO
-Pepinillos Encurtidos Cuisine & Co Pote 510 g,S/ 11.50,wong,PEPINILLO,2024-12-04 19:47:46.028800,510.0,g,Pepinillos Encurtidos Cuisine & Co Pote,11.5,wong,,,PEPINILLO
-Pepinillos Encurtidos Baby Valle Fértil 330g,S/ 13.10,wong,PEPINILLO,2024-12-04 19:47:46.028800,330.0,g,Pepinillos Encurtidos Baby Valle Fértil,13.1,wong,,,PEPINILLO
-Pepinillos Entero Olivos del Sur 550g,S/ 15.80,wong,PEPINILLO,2024-12-04 19:47:46.028800,550.0,g,Pepinillos Entero Olivos del Sur,15.8,wong,,,PEPINILLO
-Pepinillos Entero Olivos del Sur 550g,S/ 15.90,metro,PEPINILLO,2024-12-04 21:43:55.862391,550.0,g,Pepinillos Entero Olivos del Sur,15.9,metro,,,PEPINILLO
-Pepinillos Encurtidos VALLE FÉRTIL Gourmet Rec...,S/ 18.70 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,680.0,g,Pepinillos Encurtidos VALLE FÉRTIL Gourmet Rec,18.7,plaza_vea,Frasco 680g,,PEPINILLO
-Pepinillos Encurtidos VALLE FÉRTIL Receta Amer...,S/ 19.90 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,680.0,g,Pepinillos Encurtidos VALLE FÉRTIL Receta Amer,19.9,plaza_vea,Frasco 680g,,PEPINILLO
-Pepinillo Encurtido Receta Americana Valle Fértil Frasco 680 g,S/ 20.30,wong,PEPINILLO,2024-12-04 19:47:46.028800,680.0,g,Pepinillo Encurtido Receta Americana Valle Fértil Frasco,20.3,wong,,,PEPINILLO
-Pepinillos en Rodajas Olivos del Sur 520g,S/ 20.90,wong,PEPINILLO,2024-12-04 19:47:46.028800,520.0,g,Pepinillos en Rodajas Olivos del Sur,20.9,wong,,,PEPINILLO
-Pepinillos en Rodajas Olivos del Sur 520g,S/ 20.90,metro,PEPINILLO,2024-12-04 21:43:55.862391,520.0,g,Pepinillos en Rodajas Olivos del Sur,20.9,metro,,,PEPINILLO
-Pepinillos Bebè Encurtidos Essential Everyday 473ml,S/ 21.50,wong,PEPINILLO,2024-12-04 19:47:46.028800,473.0,ml,Pepinillos Bebè Encurtidos Essential Everyday,21.5,wong,,,PEPINILLO
-Pepinillos Crujientes Hengstenberg Frasco 670 g,S/ 28.50,wong,PEPINILLO,2024-12-04 19:47:46.028800,670.0,g,Pepinillos Crujientes Hengstenberg Frasco,28.5,wong,,,PEPINILLO
-Rodajas de Pepinillo en Conserva HENGSTENBERG Para Hamburguesas Frasco 330g,S/ 33.80,vivanda,PEPINILLO,2024-12-04 17:55:42.552105,330.0,g,Rodajas de Pepinillo en Conserva HENGSTENBERG Para Hamburguesas Frasco,33.8,vivanda,,HENGSTENBERG,PEPINILLO
-Rodajas de Pepinillo en Conserva HENGSTENBERG ...,S/ 33.90 un,plaza_vea,PEPINILLO,2024-12-04 14:06:06.234010,330.0,g,Rodajas de Pepinillo en Conserva HENGSTENBERG,33.9,plaza_vea,Frasco 330g,,PEPINILLO
-Pepinillos Agridulces Hengstenberg 670ml,S/ 34.60,wong,PEPINILLO,2024-12-04 19:47:46.028800,670.0,ml,Pepinillos Agridulces Hengstenberg,34.6,wong,,,PEPINILLO
-Pepinillos a la Polaca Hengstenberg Frasco 670 g,S/ 34.70,wong,PEPINILLO,2024-12-04 19:47:46.028800,670.0,g,Pepinillos a la Polaca Hengstenberg Frasco,34.7,wong,,,PEPINILLO
-Pepinillos Hengstenberg Frasco 330 g,S/ 34.80,wong,PEPINILLO,2024-12-04 19:47:46.028800,330.0,g,Pepinillos Hengstenberg Frasco,34.8,wong,,,PEPINILLO
-Pepinillos en Salmuera Hengstenberg 650g,S/ 34.90,wong,PEPINILLO,2024-12-04 19:47:46.028800,650.0,g,Pepinillos en Salmuera Hengstenberg,34.9,wong,,,PEPINILLO
-Pepinillos Baby Hengstenberg Frasco 370 g,S/ 35.20,wong,PEPINILLO,2024-12-04 19:47:46.028800,370.0,g,Pepinillos Baby Hengstenberg Frasco,35.2,wong,,,PEPINILLO
-Pepinillos en Salmuera 720 mL,S/ 36.30,tottus,PEPINILLO,2024-12-04 13:38:12.061667,720.0,ml,Pepinillos en Salmuera,36.3,tottus,,HENGSTENBERG,PEPINILLO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pepinillo,,1.0,kg,2.39,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,1.0,kg,2.39,PEPINILLO
+Pepinillo x un,,1.0,un,2.8,metro,2024-12-04 21:43:55.862391,PEPINILLO,1.0,un,2.8,PEPINILLO
+Pepinillo Hidropónico Ecologic x un,,1.0,un,3.7,wong,2024-12-04 19:47:46.028800,PEPINILLO,1.0,un,3.7,PEPINILLO
+Pepinillo Holandés Frescas x un,,1.0,un,4.7,wong,2024-12-04 19:47:46.028800,PEPINILLO,1.0,un,4.7,PEPINILLO
+Pepinillo Pickles Hidropónico de Invernadero Ecologic Bandeja 300g,,300.0,g,5.4,wong,2024-12-04 19:47:46.028800,PEPINILLO,300.0,g,5.4,PEPINILLO
+Pepinillo Japonés La Huerta 420g,,420.0,g,6.2,wong,2024-12-04 19:47:46.028800,PEPINILLO,420.0,g,6.2,PEPINILLO
+Pepinillos ASPERIO Frasco 370g,ASPERIO,370.0,g,6.9,vivanda,2024-12-04 17:55:42.552105,PEPINILLO,370.0,g,6.9,PEPINILLO
+Pepinillos ASPERIO Frasco 370g,,370.0,g,6.9,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,370.0,g,6.9,PEPINILLO
+Pepinillo Premium La Huerta x unid,,1.0,un,7.4,wong,2024-12-04 19:47:46.028800,PEPINILLO,1.0,un,7.4,PEPINILLO
+Pepinillo Encurtido 220g,,220.0,g,8.32,metro,2024-12-04 21:43:55.862391,PEPINILLO,220.0,g,8.32,PEPINILLO
+Pepinillos ASPERIO Sabor Anchoa Frasco 370g,ASPERIO,370.0,g,8.5,vivanda,2024-12-04 17:55:42.552105,PEPINILLO,370.0,g,8.5,PEPINILLO
+Pepinillos ASPERIO Sabor Anchoa Frasco 370g,,370.0,g,8.5,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,370.0,g,8.5,PEPINILLO
+Pepinillos Encurtidos en Vinagre CALÉ Frasco 2...,,240.0,g,8.6,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,240.0,g,8.6,PEPINILLO
+Pepinillo sin Pepas VIVA Bandeja x un,VIVA,1.0,un,8.9,vivanda,2024-12-04 17:55:42.552105,PEPINILLO,1.0,un,8.9,PEPINILLO
+Pepinillo Sin Pepas VIVA x un,,1.0,un,8.9,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,1.0,un,8.9,PEPINILLO
+Pepinillos Encurditos En Salmuera x 250 g,OLIVALLE,250.0,g,8.96,tottus,2024-12-04 13:38:12.061667,PEPINILLO,250.0,g,8.96,PEPINILLO
+Pepinillos Encurtidos Calé 240g,,240.0,g,8.99,metro,2024-12-04 21:43:55.862391,PEPINILLO,240.0,g,8.99,PEPINILLO
+Pepinillos en Salmuera OLIVALLE Pote 250g,OLIVALLE,250.0,g,9.5,vivanda,2024-12-04 17:55:42.552105,PEPINILLO,250.0,g,9.5,PEPINILLO
+Pepinillo Encurtido HUERTO MEJÍA Paquete 400g,,400.0,g,10.5,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,400.0,g,10.5,PEPINILLO
+Pepinillo en Rodajas Encurtido HUERTO MEJÍA Pa...,,400.0,g,10.5,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,400.0,g,10.5,PEPINILLO
+Pepinillos Encurtidos Huerto Mejía 400g,,400.0,g,11.0,metro,2024-12-04 21:43:55.862391,PEPINILLO,400.0,g,11.0,PEPINILLO
+Pepinillos Encurtidos Huerto Mejía 400g,,400.0,g,11.0,wong,2024-12-04 19:47:46.028800,PEPINILLO,400.0,g,11.0,PEPINILLO
+Pepinillos Encurtidos Cuisine & Co Pote 510 g,,510.0,g,11.5,metro,2024-12-04 21:43:55.862391,PEPINILLO,510.0,g,11.5,PEPINILLO
+Pepinillos Encurtidos Cuisine & Co Pote 510 g,,510.0,g,11.5,wong,2024-12-04 19:47:46.028800,PEPINILLO,510.0,g,11.5,PEPINILLO
+Pepinillos Encurtidos Baby Valle Fértil 330g,,330.0,g,13.1,wong,2024-12-04 19:47:46.028800,PEPINILLO,330.0,g,13.1,PEPINILLO
+Pepinillos Entero Olivos del Sur 550g,,550.0,g,15.8,wong,2024-12-04 19:47:46.028800,PEPINILLO,550.0,g,15.8,PEPINILLO
+Pepinillos Entero Olivos del Sur 550g,,550.0,g,15.9,metro,2024-12-04 21:43:55.862391,PEPINILLO,550.0,g,15.9,PEPINILLO
+Pepinillos Encurtidos VALLE FÉRTIL Gourmet Rec...,,680.0,g,18.7,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,680.0,g,18.7,PEPINILLO
+Pepinillos Encurtidos VALLE FÉRTIL Receta Amer...,,680.0,g,19.9,plaza_vea,2024-12-04 14:06:06.234010,PEPINILLO,680.0,g,19.9,PEPINILLO
+Pepinillo Encurtido Receta Americana Valle Fértil Frasco 680 g,,680.0,g,20.3,wong,2024-12-04 19:47:46.028800,PEPINILLO,680.0,g,20.3,PEPINILLO
+Pepinillos en Rodajas Olivos del Sur 520g,,520.0,g,20.9,wong,2024-12-04 19:47:46.028800,PEPINILLO,520.0,g,20.9,PEPINILLO
+Pepinillos en Rodajas Olivos del Sur 520g,,520.0,g,20.9,metro,2024-12-04 21:43:55.862391,PEPINILLO,520.0,g,20.9,PEPINILLO
+Pepinillos Bebè Encurtidos Essential Everyday 473ml,,473.0,ml,21.5,wong,2024-12-04 19:47:46.028800,PEPINILLO,473.0,ml,21.5,PEPINILLO
+Pepinillos Crujientes Hengstenberg Frasco 670 g,,670.0,g,28.5,wong,2024-12-04 19:47:46.028800,PEPINILLO,670.0,g,28.5,PEPINILLO
+Pepinillos Agridulces Hengstenberg 670ml,,670.0,ml,34.6,wong,2024-12-04 19:47:46.028800,PEPINILLO,670.0,ml,34.6,PEPINILLO
+Pepinillos a la Polaca Hengstenberg Frasco 670 g,,670.0,g,34.7,wong,2024-12-04 19:47:46.028800,PEPINILLO,670.0,g,34.7,PEPINILLO
+Pepinillos Hengstenberg Frasco 330 g,,330.0,g,34.8,wong,2024-12-04 19:47:46.028800,PEPINILLO,330.0,g,34.8,PEPINILLO
+Pepinillos en Salmuera Hengstenberg 650g,,650.0,g,34.9,wong,2024-12-04 19:47:46.028800,PEPINILLO,650.0,g,34.9,PEPINILLO
+Pepinillos Baby Hengstenberg Frasco 370 g,,370.0,g,35.2,wong,2024-12-04 19:47:46.028800,PEPINILLO,370.0,g,35.2,PEPINILLO
+Pepinillos en Salmuera 720 mL,HENGSTENBERG,720.0,ml,36.3,tottus,2024-12-04 13:38:12.061667,PEPINILLO,720.0,ml,36.3,PEPINILLO

@@ -2,7 +2,7 @@
 import os
 import pandas as pd
 
-CURRENT_DATE = "2024_12_04"
+CURRENT_DATE = "2024_12_07"
 
 
 def extraer_volumen(df, archivo_no_procesados="no_procesados.csv"):

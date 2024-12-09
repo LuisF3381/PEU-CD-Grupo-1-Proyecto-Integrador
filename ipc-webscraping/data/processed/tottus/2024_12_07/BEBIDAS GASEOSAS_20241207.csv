@@ -1,0 +1,90 @@
+brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+GUARANA,Bebida Gaseosa Backus Botella X300mL,S/ 1.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,300.0,ml,Bebida Gaseosa Backus Botella X,1.2
+GUARANA,Bebida Gaseosa Backus Botella X 450mL,S/ 2.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,450.0,ml,Bebida Gaseosa Backus Botella X,2.5
+GUARANA,Bebida Gaseosa Backus Zero Bot X450mL,S/ 2.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,450.0,ml,Bebida Gaseosa Backus Zero Bot X,2.2
+COCA COLA,Gaseosa Coca-Cola Original 3 Lt Twopack,S/ 20.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Coca-Cola Original t Twopack,20.5
+RED BULL,Four Pack de Bebida Energizante Sin Azúcar de 250 mL,S/ 28.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,250.0,ml,Four Pack de Bebida Energizante Sin Azúcar de,28.5
+SPORADE,Bebida Rehidratante Surtido Pack 6 Unidades 500 mL,S/ 10.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,6.0,un,Bebida Rehidratante Surtido Pack ades,10.5
+COCA COLA,Gaseosa: 1 Inca Kola 3 L + 2 Coca-Cola Sabor Original 3 L,S/ 30.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa: 1 Inca Kola  + 2 Coca-Cola Sabor Original,30.3
+COCA COLA,+ Inca Kola Two Pack 2 Unidades 3 L,S/ 20.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,2.0,un,+ Inca Kola Two Pack ades,20.5
+FANTA,Gaseosa Naranja 3 L Kola Inglesa 3 L y Sprite Lima-Limón 3 L,S/ 18.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Naranja  Kola Inglesa  y Sprite Lima-Limón,18.9
+INCA KOLA,Gaseosa Inka Cola Sin Azúcar 1.5 L,S/ 11.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Inka Cola Sin Azúcar,11.9
+INCA KOLA,Pack de Gaseosa Coca-Cola Sabor Original 3 L + Inka Kola Sabor Original 3 L,S/ 30.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Pack de Gaseosa Coca-Cola Sabor Original  + Inka Kola Sabor Original,30.3
+EVERVESS,Gaseosa Ginger Ale en paquete de dos botellas de 1.5 L,S/ 9.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Ginger Ale en paquete de dos botellas de,9.9
+SCHWEPPES,Two Pack Gaseosa Ginger Ale 1.5 L,S/ 9.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Two Pack Gaseosa Ginger Ale,9.9
+GATORADE,Tropical Pack 6 Unidades 500 mL,S/ 10.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,6.0,un,Tropical Pack ades,10.9
+SAN LUIS,2X Agua Sin Gas Bidon 20L,S/ 51,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,20.0,l,2X Agua Sin Gas Bidon,51.0
+RED BULL,Bebida Energizante Pack 4 Unidades 250 mL,S/ 28.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,4.0,un,Bebida Energizante Pack ades,28.5
+SCHWEPPES,Ginger Ale 1.5 L,S/ 6.60,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Ginger Ale,6.6
+COCA COLA,Gaseosa 3 L,S/ 11.60,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa,11.6
+FANTA,Gaseosa sabor Naranja 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa sabor Naranja,6.9
+BIG COLA,GASEOSA 1.7LT,S/ 4.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.7,l,GASEOSA T,4.3
+INCA KOLA,Gaseosa Sabor Original 3 L,S/ 11.60,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Sabor Original,11.6
+GUARANA,Gaseosa Guaraná 3 L,S/ 7.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Guaraná,7.9
+SCHWEPPES,Two Pack Gaseosa Citrus 1.5 L,S/ 9.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Two Pack Gaseosa Citrus,9.9
+SPRITE,Gaseosa 500 mL,S/ 2.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa,2.9
+MOUNTAIN DEW,GASEOSA MK DEW 355ML,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,GASEOSA MK DEW,5.5
+GUARANA,Gaseosa Guaraná 2 L,S/ 6.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,2.0,l,Gaseosa Guaraná,6.5
+EVERVESS,Gaseosa Ginger Ale 1.5 L,S/ 5,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Ginger Ale,5.0
+FANTA,Gaseosa Piña 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Piña,6.9
+FANTA,Gaseosa Sabor Kola Inglesa 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Sabor Kola Inglesa,6.9
+7UP,Gaseosa Seven Up 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Seven Up,5.9
+INCA KOLA,Six Pack de Gaseosa Sin Azúcar de 500 mL,S/ 15.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Six Pack de Gaseosa Sin Azúcar de,15.5
+INCA KOLA,Gaseosa 1.5 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa,6.9
+PEPSI,Gaseosa Cola 355 mL,S/ 1.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Cola,1.3
+COCA COLA,Gaseosa 500 mL,S/ 3.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa,3.2
+PEPSI,Gaseosa Cola 750 mL,S/ 2.80,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,750.0,ml,Gaseosa Cola,2.8
+PEPSI,Gaseosa Cola 2 L,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,2.0,l,Gaseosa Cola,5.5
+PEPSI,Gaseosa Cola 1.5 L,S/ 5.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Cola,5.2
+PEPSI,Gaseosa Cola 600 mL,S/ 2.70,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,600.0,ml,Gaseosa Cola,2.7
+PEPSI,Gaseosa Cola 1 L,S/ 3.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.0,l,Gaseosa Cola,3.5
+CONCORDIA,Gaseosa Sabor Piña 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Sabor Piña,5.9
+CONCORDIA,Gaseosa Sabor Fresa 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Sabor Fresa,5.9
+CONCORDIA,Gaseosa Sabor Piña 500 mL,S/ 1.60,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa Sabor Piña,1.6
+COCA COLA,Two Pack Gaseosa Original 1 L,S/ 8.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.0,l,Two Pack Gaseosa Original,8.3
+FANTA,Gaseosa sabor piña en lata de 355 mL,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa sabor piña en lata de,5.5
+COCA COLA,Gaseosa Coca-Cola Sin Azúcar 1 L,S/ 4.10,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.0,l,Gaseosa Coca-Cola Sin Azúcar,4.1
+COCA COLA,Gaseosa Sabor Regular Botella 1.5 L,S/ 7.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Sabor Regular Botella,7.2
+INCA KOLA,Gaseosa sabor original de 1 L,S/ 4.10,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.0,l,Gaseosa sabor original de,4.1
+FANTA,Gaseosa sabor Naranja 500 mL,S/ 2.70,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa sabor Naranja,2.7
+INCA KOLA,Six Pack de Gaseosa Sabor Original de 500 mL,S/ 15.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Six Pack de Gaseosa Sabor Original de,15.5
+PEPSI,Gaseosa Zero Black 3 L,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Zero Black,6.9
+PEPSI,Gaseosa Zero Lata 355 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Zero Lata,4.9
+CONCORDIA,Gaseosa Sabor Naranja 3 L,S/ 5.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Gaseosa Sabor Naranja,5.9
+EVERVESS,Gaseosa Ginger Ale 500 mL,S/ 2.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa Ginger Ale,2.2
+COCA COLA,Gaseosa Zero 1.5 L,S/ 7.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Zero,7.2
+INCA KOLA,Gaseosa Inka Cola Sin Azúcar 500 mL,S/ 3.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa Inka Cola Sin Azúcar,3.2
+MONSTER,Bebida Energizante Energy Ultra 473 mL,S/ 8,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,473.0,ml,Bebida Energizante Energy Ultra,8.0
+COCA COLA,Gaseosa Coca-Cola sabor original de 1 L,S/ 4.10,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.0,l,Gaseosa Coca-Cola sabor original de,4.1
+INCA KOLA,Gaseosa Lata 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Lata,6.9
+COCA COLA,Six Pack de Gaseosa Coca-Cola Sin Azúcar de 300 mL,S/ 10.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,300.0,ml,Six Pack de Gaseosa Coca-Cola Sin Azúcar de,10.5
+COCA COLA,Gaseosa Sabor Original 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Sabor Original,6.9
+INCA KOLA,Gaseosa Inka Cola sin Azúcar 1.5 L,S/ 7.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Gaseosa Inka Cola sin Azúcar,7.2
+COCA COLA,Gaseosa Sin Azúcar 500 mL,S/ 3.20,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Gaseosa Sin Azúcar,3.2
+COCA COLA,Gaseosa Sabor Cereza 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Sabor Cereza,6.9
+COCA COLA,Six Pack de Gaseosa Coca-Cola Sin Azúcar de 500 mL,S/ 15.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Six Pack de Gaseosa Coca-Cola Sin Azúcar de,15.5
+7UP,Gaseosa Seven Up 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Seven Up,6.9
+COCA COLA,Gaseosa Sabor Vainilla 355 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Sabor Vainilla,6.9
+PEPSI,Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña 3 L,S/ 17.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña,17.5
+FANTA,Gaseosa Sabor Naranja 355 mL,S/ 5.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,355.0,ml,Gaseosa Sabor Naranja,5.5
+SPORADE,Bebida Rehidratante Tropical 1.5 L,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,1.5,l,Bebida Rehidratante Tropical,4.9
+PEPSI,Dos paquetes de gaseosas Cola y 7 Up 3 L,S/ 14.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Dos paquetes de gaseosas Cola y 7 Up,14.9
+INCA KOLA,Tripack de Gaseosas: 3 L Fanta 3 L y Sprite 3 L,S/ 24.30,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,3.0,l,Tripack de Gaseosas:  Fanta  y Sprite,24.3
+RED BULL,Four Pack de Bebida Energizante Tropical de 250 mL,S/ 28.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,250.0,ml,Four Pack de Bebida Energizante Tropical de,28.5
+SUEROX,Four Pack Rehidratante Fresa Kiwi 630 mL,S/ 19.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,630.0,ml,Four Pack Rehidratante Fresa Kiwi,19.5
+MOGU MOGU,Bebida sabor mango 320 mL,S/ 4.95,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,320.0,ml,Bebida sabor mango,4.95
+VOLT,Bebida Energizante 300 mL,S/ 2.49,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,300.0,ml,Bebida Energizante,2.49
+,BEBIDA ELECTROL FLASHLYTE FRESA BOT625ML,S/ 6,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,625.0,ml,BEBIDA ELECTROL FLASHLYTE FRESA BOT,6.0
+MONSTER,Bebida energizante Energy Zero Sugar de 473 mL,S/ 8,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,473.0,ml,Bebida energizante Energy Zero Sugar de,8.0
+SAPPE,Bebida Beauti Drink Collaskin 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,360.0,ml,Bebida Beauti Drink Collaskin,4.9
+SAPPE,BEBIDA BEAUTI DRINK BEAUTITOX 360 ML,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,360.0,ml,BEBIDA BEAUTI DRINK BEAUTITOX,4.9
+SAPPE,Bebida Beauti Drink Slim 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,360.0,ml,Bebida Beauti Drink Slim,4.9
+SAPPE,Bebida Beauti Drink Relaxing Calm 360 mL,S/ 4.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,360.0,ml,Bebida Beauti Drink Relaxing Calm,4.9
+MONSTER,Bebida energizante Mango Loco de 473 mL,S/ 8,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,473.0,ml,Bebida energizante Mango Loco de,8.0
+SPORADE,Bebida Rehidratante Tropical 500 mL,S/ 2.40,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Bebida Rehidratante Tropical,2.4
+RED BULL,Bebida Energizante 250 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,250.0,ml,Bebida Energizante,6.9
+RED BULL,Bebida energizante tropical en lata de 250 mL,S/ 6.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,250.0,ml,Bebida energizante tropical en lata de,6.9
+,BEBIDA ELECTROL FLASHLYTE UVA BOT X625ML,S/ 6,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,625.0,ml,BEBIDA ELECTROL FLASHLYTE UVA BOT X,6.0
+SPORADE,Bebida Rehidratante Blueberry 500 mL,S/ 2.40,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,Bebida Rehidratante Blueberry,2.4
+VOLT,Bebida Energizante Regular Pack 6 Unidades 300 mL,S/ 9.90,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,6.0,un,Bebida Energizante Regular Pack ades,9.9
+FANTA,BEBIDA GASESOSA NARANJA BOT 500ML X 6UND,S/ 13.50,tottus,BEBIDAS GASEOSAS,2024-12-07 14:15:44.683203,500.0,ml,BEBIDA GASESOSA NARANJA BOT  X D,13.5

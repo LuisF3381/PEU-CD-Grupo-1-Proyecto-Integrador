@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 0.6 kg aprox.,Manzana Roja Importada,S/ 8.18 x kg,plaza_vea,MANZANA IMPORTADA,2024-12-07 13:48:21.300289,0.6,kg,Manzana Roja Importada,8.18
+Presentación 0.6 kg aprox.,Manzana Verde Importada,S/ 7.98 x kg,plaza_vea,MANZANA IMPORTADA,2024-12-07 13:48:21.300289,0.6,kg,Manzana Verde Importada,7.98
+Presentación 0.6 kg aprox.,Manzana Royal Gala Importada,S/ 8.80 x kg,plaza_vea,MANZANA IMPORTADA,2024-12-07 13:48:21.300289,0.6,kg,Manzana Royal Gala Importada,8.8

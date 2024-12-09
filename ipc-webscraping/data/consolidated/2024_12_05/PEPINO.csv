@@ -1,6 +1,5 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Pepino Holandés Hidropónico de Invernadero Ecologic x unid,S/ 3.80,metro,PEPINO,2024-12-05 16:03:57.150989,1.0,un,Pepino Holandés Hidropónico de Invernadero Ecologic,3.8,metro,PEPINO
-Pepino Holandés Cuisine & Co 300g,S/ 4.00,metro,PEPINO,2024-12-05 16:03:57.150989,300.0,g,Pepino Holandés Cuisine & Co,4.0,metro,PEPINO
-Pepino Holandés Cuisine & Co 300g,S/ 4.00,wong,PEPINO,2024-12-05 18:39:39.021896,300.0,g,Pepino Holandés Cuisine & Co,4.0,wong,PEPINO
-Pepino Melón x kg,S/ 5.99 x kg,wong,PEPINO,2024-12-05 18:39:39.021896,1.0,kg,Pepino Melón,5.99,wong,PEPINO
-Jabón Líquido Family Care Pepino y Flor de Loto 400ml,S/ 8.50,metro,PEPINO,2024-12-05 16:03:57.150989,400.0,ml,Jabón Líquido Family Care Pepino y Flor de Loto,8.5,metro,PEPINO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pepino Holandés Hidropónico de Invernadero Ecologic x unid,,1.0,un,3.8,metro,2024-12-05 16:03:57.150989,PEPINO,1.0,un,3.8,PEPINO
+Pepino Holandés Cuisine & Co 300g,,300.0,g,4.0,metro,2024-12-05 16:03:57.150989,PEPINO,300.0,g,4.0,PEPINO
+Pepino Holandés Cuisine & Co 300g,,300.0,g,4.0,wong,2024-12-05 18:39:39.021896,PEPINO,300.0,g,4.0,PEPINO
+Pepino Melón x kg,,1.0,kg,5.99,wong,2024-12-05 18:39:39.021896,PEPINO,1.0,kg,5.99,PEPINO

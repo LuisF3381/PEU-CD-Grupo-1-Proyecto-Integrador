@@ -1,35 +1,3 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Pinceles Kids CLASS&WORK KR972329 Blíster 6un,CLASS & WORK,S/ 4.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,6.0,un,Pinceles Kids CLASS&WORK KR972329 Blíster,4.5,vivanda,BISTEC DE VACUNO
-Cortadores NILO Jardín Blíster 8un,NILO,S/ 6.60,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,8.0,un,Cortadores NILO Jardín Blíster,6.6,vivanda,BISTEC DE VACUNO
-Cuchara Bebé FACUSA Curva Blíster 1un,FACUSA,S/ 9.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,un,Cuchara Bebé FACUSA Curva Blíster,9.5,vivanda,BISTEC DE VACUNO
-Chocolate INNATO Bitter Paquete 100g,INNATO,S/ 10.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,100.0,g,Chocolate INNATO Bitter Paquete,10.5,vivanda,BISTEC DE VACUNO
-Chicken Bites OREGON FOODS Bolsa 300g,OREGON FOODS,S/ 13.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,300.0,g,Chicken Bites OREGON FOODS Bolsa,13.5,vivanda,BISTEC DE VACUNO
-Chocolate 2 CERRITOS Coco Monedas de Oro Bitter Bolsa 125g,NURIA,S/ 13.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,125.0,g,Chocolate 2 CERRITOS Coco Monedas de Oro Bitter Bolsa,13.5,vivanda,BISTEC DE VACUNO
-Chocolate Bitter INNATO Cranberries y Sal Bolsa 100g,INNATO,S/ 13.80,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,100.0,g,Chocolate Bitter INNATO Cranberries y Sal Bolsa,13.8,vivanda,BISTEC DE VACUNO
-Bites Frambuesa Doble Chocolate KARINAT Doypack 120g,KARINAT,S/ 13.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,120.0,g,Bites Frambuesa Doble Chocolate KARINAT Doypack,13.9,vivanda,BISTEC DE VACUNO
-Bites Fresa Doble Chocolate KARINAT Doypack 120g,KARINAT,S/ 13.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,120.0,g,Bites Fresa Doble Chocolate KARINAT Doypack,13.9,vivanda,BISTEC DE VACUNO
-Bites Cereza Doble Chocolate KARINAT Doypack 120g,KARINAT,S/ 13.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,120.0,g,Bites Cereza Doble Chocolate KARINAT Doypack,13.9,vivanda,BISTEC DE VACUNO
-Bites Arándanos Doble Chocolate KARINAT Doypack 120g,KARINAT,S/ 13.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,120.0,g,Bites Arándanos Doble Chocolate KARINAT Doypack,13.9,vivanda,BISTEC DE VACUNO
-Bolígrafo PILOT BLFR7 Azul + Recarga Blíster 1un,PILOT,S/ 14.40,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,un,Bolígrafo PILOT BLFR7 Azul + Recarga Blíster,14.4,vivanda,BISTEC DE VACUNO
-Pilas DURACELL AA Blister 4un,DURACELL,S/ 16.00,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,4.0,un,Pilas DURACELL AA Blister,16.0,vivanda,BISTEC DE VACUNO
-Cobertura de Chocolate Bitter NESTLÉ Tableta 500 g,NESTLE,S/ 17.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,500.0,g,Cobertura de Chocolate Bitter NESTLÉ Tableta,17.5,vivanda,BISTEC DE VACUNO
-Chocolate ORQUIDEA Bitter Envoltura 90g,ORQUIDEA,S/ 17.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,90.0,g,Chocolate ORQUIDEA Bitter Envoltura,17.5,vivanda,BISTEC DE VACUNO
-Licor de Crema LA BARRA Bitter Aromatic Amargo Botella 75ml,LA BARRA,S/ 17.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,75.0,ml,Licor de Crema LA BARRA Bitter Aromatic Amargo Botella,17.9,vivanda,BISTEC DE VACUNO
-Cereal WASI Protein Bites Maca y Yacón Caja 240g,WASI,S/ 18.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,240.0,g,Cereal WASI Protein Bites Maca y Yacón Caja,18.5,vivanda,BISTEC DE VACUNO
-Barra de Chocolate Bitter 60% HELENA Caja 150g,HELENA,S/ 18.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,150.0,g,Barra de Chocolate Bitter 60% HELENA Caja,18.5,vivanda,BISTEC DE VACUNO
-Cobertura Bitter NEGUSA Caja 600g,NEGUSA,S/ 18.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,600.0,g,Cobertura Bitter NEGUSA Caja,18.5,vivanda,BISTEC DE VACUNO
-Cereal Orgánico Andean Bites KIDS ORGANICS Caja 240g,KIDS ORGANICS,S/ 19.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,240.0,g,Cereal Orgánico Andean Bites KIDS ORGANICS Caja,19.5,vivanda,BISTEC DE VACUNO
-Hilo Dental ORAL-B Expert Floss Picks Blister 45un,ORAL-B,S/ 19.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,45.0,un,Hilo Dental ORAL-B Expert Floss Picks Blister,19.9,vivanda,BISTEC DE VACUNO
-Shampoo BIOTEC Spiderman 3 en 1 Frasco 350ml,BIOTEC,S/ 19.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,350.0,ml,Shampoo BIOTEC Spiderman 3 en 1 Frasco,19.9,vivanda,BISTEC DE VACUNO
-Chocolate Sin Azúcar ORQUIDEA Bitter 80% Caja 90g,ORQUIDEA,S/ 21.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,90.0,g,Chocolate Sin Azúcar ORQUIDEA Bitter 80% Caja,21.5,vivanda,BISTEC DE VACUNO
-Chocolate Bitter MONTBLANC Tableta 190g,MONTBLANC,S/ 25.40,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,190.0,g,Chocolate Bitter MONTBLANC Tableta,25.4,vivanda,BISTEC DE VACUNO
-Hilo Dental ORAL-B Expert Interdental Micro Blister 10un,ORAL-B,S/ 29.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,10.0,un,Hilo Dental ORAL-B Expert Interdental Micro Blister,29.9,vivanda,BISTEC DE VACUNO
-Jabón Líquido 3D Spider-Man Frasco 400ml,BIOTEC,S/ 29.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,400.0,ml,Jabón Líquido 3D Spider-Man Frasco,29.9,vivanda,BISTEC DE VACUNO
-Bife De Vacio FRIGON x kg,FRIGON,S/ 40.80,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,kg,Bife De Vacio FRIGON,40.8,vivanda,BISTEC DE VACUNO
-Bisteck EL BUEN CORTE x kg,EL BUEN CORTE,S/ 41.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,kg,Bisteck EL BUEN CORTE,41.9,vivanda,BISTEC DE VACUNO
-Bife de Vacío de Res EL BUEN CORTE x kg,EL BUEN CORTE,S/ 51.30,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,kg,Bife de Vacío de Res EL BUEN CORTE,51.3,vivanda,BISTEC DE VACUNO
-Bisteck De Cadera EL BUEN CORTE x kg,EL BUEN CORTE,S/ 55.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,kg,Bisteck De Cadera EL BUEN CORTE,55.5,vivanda,BISTEC DE VACUNO
-Chocolate SUBLIME Bitter Caja 20un,SUBLIME,S/ 58.00,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,20.0,un,Chocolate SUBLIME Bitter Caja,58.0,vivanda,BISTEC DE VACUNO
-Cepillo Detal Eléctrico ORAL-B Pro-Salud Blister 1un,ORAL-B,S/ 73.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,un,Cepillo Detal Eléctrico ORAL-B Pro-Salud Blister,73.9,vivanda,BISTEC DE VACUNO
-Cepillo Dental Eléctrico Para Niños ORAL-B Princesas Disney Blister 1un,ORAL-B,S/ 83.90,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,1.0,un,Cepillo Dental Eléctrico Para Niños ORAL-B Princesas Disney Blister,83.9,vivanda,BISTEC DE VACUNO
-Licor CAMPARI Bitter Botella 750ml,CAMPARI,S/ 93.50,vivanda,BISTEC DE VACUNO,2024-12-05 21:39:20.617389,750.0,ml,Licor CAMPARI Bitter Botella,93.5,vivanda,BISTEC DE VACUNO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Bisteck EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,41.9,vivanda,2024-12-05 21:39:20.617389,BISTEC DE VACUNO,1.0,kg,41.9,BISTEC DE VACUNO
+Bisteck De Cadera EL BUEN CORTE x kg,EL BUEN CORTE,1.0,kg,55.5,vivanda,2024-12-05 21:39:20.617389,BISTEC DE VACUNO,1.0,kg,55.5,BISTEC DE VACUNO

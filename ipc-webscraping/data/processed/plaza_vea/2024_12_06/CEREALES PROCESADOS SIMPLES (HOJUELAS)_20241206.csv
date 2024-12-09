@@ -1,0 +1,99 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 1 kg aprox.,Camote Amarillo Procesado,S/ 2.79 x kg,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,1.0,kg,Camote Amarillo Procesado,2.79
+Bolsa 15Kg,Comida para Perros RICOCAN Adultos Razas Media...,S/ 105.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,15.0,kg,Comida para Perros RICOCAN Adultos Razas Media,105.9
+Bolsa 15Kg,Comida para Perros RICOCAN Adultos Razas Peque...,S/ 105.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,15.0,kg,Comida para Perros RICOCAN Adultos Razas Peque,105.9
+Doypack 400g,Cereal UNIÓN Granola con miel de abeja Doypack...,S/ 15.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,400.0,g,Cereal UNIÓN Granola con miel de abeja Doypack,15.5
+Bolsa 140g,Cereal de Trigo con Miel VITA PLUSS Bolsa 140g,S/ 3.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,140.0,g,Cereal de Trigo con Miel VITA PLUSS Bolsa,3.6
+Bolsa 740g,Cereal NESTLÉ Corn Flakes sin Gluten Bolsa 740...,S/ 20.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,740.0,g,Cereal NESTLÉ Corn Flakes sin Gluten Bolsa 740,20.9
+Caja 410g,Cereal KELLOGGS Corn Flakes Caja 410g,S/ 13.10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,410.0,g,Cereal KELLOGGS Corn Flakes Caja,13.1
+Paquete 6un,Galletas de Cacao COSTA Gran Cereal Paquete 6u...,S/ 4.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,6.0,un,Galletas de Cacao COSTA Gran Cereal Paquete 6u,4.2
+Caja 405g,Cereal CORN FLAKES Nestlé Sin Gluten Caja 405g,S/ 13.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,405.0,g,Cereal CORN FLAKES Nestlé Sin Gluten Caja,13.9
+Caja 12un,Cereal Bar COSTA Chips Caja 12un,S/ 6 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Cereal Bar COSTA Chips Caja,6.0
+Bolsa 15Kg,Comida para Perros MIMASKOT Adultos Raza Media...,S/ 94.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,15.0,kg,Comida para Perros MIMASKOT Adultos Raza Media,94.9
+Bolsa 400g,Cereal UNIÓN Granola Pasas y Almendras Doypack...,S/ 16.49 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,400.0,g,Cereal UNIÓN Granola Pasas y Almendras Doypack,16.49
+Bolsa 1Kg,Cereal ÁNGEL Flakes Bolsa 1Kg,S/ 15.40 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,1.0,kg,Cereal ÁNGEL Flakes Bolsa,15.4
+Bolsa 380g,Cereal ANGEL Capas de trigo con chocolate Bols...,S/ 11.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,380.0,g,Cereal ANGEL Capas de trigo con chocolate Bols,11.6
+Bolsa 740g,Cereal ÁNGEL Copix Chocolate Doypack 740g,S/ 21.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,740.0,g,Cereal ÁNGEL Copix Chocolate Doypack,21.9
+Bolsa 1Kg,Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas ...,S/ 21.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,1.0,kg,Cereal ÁNGEL Zuck Hojuelas de Maíz Azucaradas,21.9
+Bolsa 22Kg,"Comida para Perros MIMASKOT Carne, Cereal y Ve...",S/ 133.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,22.0,kg,"Comida para Perros MIMASKOT Carne, Cereal y Ve",133.9
+Vaso 144g,Yogur Battimix GLORIA Vainilla con Hojuelas Va...,S/ 3.10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,144.0,g,Yogur BattimiLORIA Vainilla con Hojuelas Va,3.1
+Caja 12un,Cereal Bar COSTA Choco Caja 12un,S/ 6 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Cereal Bar COSTA Choco Caja,6.0
+Caja 12un,Cereal Bar COSTA Golden Caja 12un,S/ 6 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Cereal Bar COSTA Golden Caja,6.0
+Doypack 280g,Cereal UNIÓN Granola con Granos Andinos Doypac...,S/ 15.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,280.0,g,Cereal UNIÓN Granola con Granos Andinos Doypac,15.9
+Caja 12un,Cereal Bar COSTA Manzana y Canela Caja 12un,S/ 6 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Cereal Bar COSTA Manzana y Canela Caja,6.0
+Caja 200g,Cereal KELLOGG'S Corn Flakes Caja 200g,S/ 9.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,200.0,g,Cereal KELLOGG'S Corn Flakes Caja,9.6
+Bolsa 840g,Cereal ÁNGEL Chocolate Bolsa 840g,S/ 19.80 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,840.0,g,Cereal ÁNGEL Chocolate Bolsa,19.8
+Caja 540g,Cereal CHOCAPIC Caja 540g,S/ 20.80 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,540.0,g,Cereal CHOCAPIC Caja,20.8
+Bolsa 3Kg,Comida para Perros RICOCAN Adultos Razas Peque...,S/ 28.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,3.0,kg,Comida para Perros RICOCAN Adultos Razas Peque,28.5
+Bolsa 270g,Avena con Cereales Andinos Premium 3 OSITOS Bo...,S/ 5.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,270.0,g,Avena con Cereales Andinos Premium 3 OSITOS Bo,5.6
+Bolsa 130g,Cereal ÁNGEL Zuck Bolsa 130g,S/ 3.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,130.0,g,Cereal ÁNGEL Zuck Bolsa,3.2
+Paquete 6un,Galletas Clásica COSTA Gran Cereal Paquete 6un,S/ 4.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,6.0,un,Galletas Clásica COSTA Gran Cereal Paquete,4.2
+Caja 285g,Cereal NESTLÉ Fitness Caja 285g,S/ 14.30 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,285.0,g,Cereal NESTLÉ Fitness Caja,14.3
+Bolsa 130g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol...,S/ 8.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,130.0,g,Piqueo INKA CHIPS Yucas fritas en hojuelas Bol,8.5
+Caja 12un,Cereal Bar COSTA Arándanos Caja 12un,S/ 6 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Cereal Bar COSTA Arándanos Caja,6.0
+Bolsa 15Kg,Comida para Perros MIMASKOT Adultos Raza Media...,S/ 94.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,15.0,kg,Comida para Perros MIMASKOT Adultos Raza Media,94.9
+Caja 350g,Cereal KELLOGGS Froot Loops Caja 350g,S/ 15.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal KELLOGGS Froot Loops Caja,15.9
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa,15.7
+Bolsa 370g,Quinua Avena GRANO DE ORO Hojuelas Precocidas ...,S/ 4.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,370.0,g,Quinua Avena GRANO DE ORO Hojuelas Precocidas,4.5
+Caja 570g,Cereal NESTLÉ FITNESS Caja 570g,S/ 27.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,570.0,g,Cereal NESTLÉ FITNESS Caja,27.5
+Bolsa 380g,Cereal CROSOY Granola manzana pecana y canela ...,S/ 14.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,380.0,g,Cereal CROSOY Granola manzana pecana y canela,14.2
+Bolsa 100g,Trigo Light CEREALES ATOMICO de Soya Bolsa 100...,S/ 3.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,100.0,g,Trigo Light CEREALES ATOMICO de Soya Bolsa 100,3.5
+Caja 350g,Cereal 2 CERRITOS Cubierto de chocolate Caja 3...,S/ 20.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal 2 CERRITOS Cubierto de chocolate Caja 3,20.5
+Caja 300g,Cereal Cero ÁNGEL Life Caja 300g,S/ 12.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,300.0,g,Cereal Cero ÁNGEL Life Caja,12.5
+Bolsa 370g,Maca Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 4.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,370.0,g,Maca Avena GRANO DE ORO Hojuelas Precocidas Bo,4.5
+Bolsa 840g,Cereal ANGEL Aritos de Maíz Trigo y Miel Bolsa...,S/ 21.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,840.0,g,Cereal ANGEL Aritos de Maíz Trigo y Miel Bolsa,21.9
+Bolsa 150g,Cereal VITAPLUS Arrocito con miel Bolsa 150Gr,S/ 3.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,150.0,g,Cereal VITAPLUS Arrocito con miel Bolsa r,3.6
+Caja 300g,Cereal Protein ÁNGEL Life Caja 300g,S/ 12.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,300.0,g,Cereal Protein ÁNGEL Life Caja,12.5
+Caja 330g,Cereal NESTLÉ Fitness Miel Almendra Caja 330g,S/ 19.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,330.0,g,Cereal NESTLÉ Fitness Miel Almendra Caja,19.7
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,840.0,g,Cereal ÁNGEL Trigo y Avena Frutas Doypack,21.9
+Bolsa 500g,Cereal ÁNGEL Flakes Bolsa 500g,S/ 11.10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,500.0,g,Cereal ÁNGEL Flakes Bolsa,11.1
+Bolsa 250g,Piqueo VEGGIE CHIPS MIX Hojuelas de vegetales ...,S/ 8.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,250.0,g,Piqueo VEGGIE CHIPS MIX Hojuelas de vegetales,8.9
+Bolsa 10un,Nuggets de Pavita con Cereales SAN FERNANDO Bo...,S/ 8.79 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,10.0,un,Nuggets de Pavita con Cereales SAN FERNANDO Bo,8.79
+Bolsa 370g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas...,S/ 4.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,370.0,g,Kiwicha Avena GRANO DE ORO Hojuelas Precocidas,4.5
+Bolsa 50g,Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 5...,S/ 3.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,50.0,g,Hojuelas al Ajo EL CEDRO con Pan Árabe Bolsa 5,3.6
+Vaso 125g,Yogurt YOLEIT Mix Vainilla con Cereales de Cho...,S/ 3.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,125.0,g,Yogurt YOLEIT Mix Vainilla con Cereales de Cho,3.9
+Caja 8un,Cereal en Barra BELL'S Durazno y Yogurt Caja 8...,S/ 5.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,8.0,un,Cereal en Barra BELL'S Durazno y Yogurt Caja 8,5.6
+Bolsa 180g,Cereal KIWIGÉN DuoMix Bolsa 180g,S/ 8.80 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,180.0,g,Cereal KIWIGÉN DuoMix Bolsa,8.8
+Caja 300g,Cereal ANGEL Life fibra Caja 300Gr,S/ 12.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,300.0,g,Cereal ANGEL Life fibra Caja r,12.5
+Caja 200g,Cereal NUNATURA Andean Crunch Chocolate Caja 2...,S/ 19.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,200.0,g,Cereal NUNATURA Andean Crunch Chocolate Caja 2,19.9
+Paquete 12un,Barra de Cereal COSTA Cereal Bar Almendra y Ma...,S/ 12.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,12.0,un,Barra de Cereal COSTA Cereal Bar Almendra y Ma,12.5
+Caja 8un,Cereal en Barra BELL'S Miel y Yogurt Caja 8un,S/ 5.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,8.0,un,Cereal en Barra BELL'S Miel y Yogurt Caja,5.6
+Bolsa 370g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bo...,S/ 4.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,370.0,g,Chía Avena GRANO DE ORO Hojuelas Precocidas Bo,4.5
+Caja 560g,Cereales ÁNGEL Life Protein Caja 560g,S/ 21.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,560.0,g,Cereales ÁNGEL Life Protein Caja,21.5
+Caja 330g,Cereal NESTLÉ TRIX Caja 330g,S/ 15.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,330.0,g,Cereal NESTLÉ TRIX Caja,15.5
+Pote 1.5Kg,Avena con Hojuela sin Gluten LA PURITA Frasco ...,S/ 29.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,1.5,kg,Avena con Hojuela sin Gluten LA PURITA Frasco,29.9
+Caja 300g,Cereal ANGEL Life multigrain Caja 300Gr,S/ 12.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,300.0,g,Cereal ANGEL Life multigrain Caja r,12.5
+Vaso 128g,Yogurt Griego GLORIA con Cereal y Miel Vaso 12...,S/ 4.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,128.0,g,Yogurt Griego GLORIA con Cereal y Miel Vaso 12,4.6
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa,15.7
+Bolsa 420g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...,S/ 15.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,420.0,g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa,15.7
+Caja 350g,Avena QUAKER Hojuelas de Avena Instantánea Caj...,S/ 9.29 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Avena QUAKER Hojuelas de Avena Instantánea Caj,9.29
+Caja 253g,Cereal en Barra NATURA VALLEY Crunchy Miel y A...,S/ 22.30 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,253.0,g,Cereal en Barra NATURA VALLEY Crunchy Miel y A,22.3
+Bolsa 80g,Cereal CROSOY Granola kiwicha y chia Bolsa 80G...,S/ 13.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,80.0,g,Cereal CROSOY Granola kiwicha y chia Bolsa,13.5
+Bolsa 500g,Cereal ANGEL Hojuelas de maíz azucaradas Bolsa...,S/ 15.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,500.0,g,Cereal ANGEL Hojuelas de maíz azucaradas Bolsa,15.7
+Bolsa 40g,Hojuelas de Papas Nativas TIYAPUY Mix Fritas B...,S/ 2.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,40.0,g,Hojuelas de Papas Nativas TIYAPUY Mix Fritas B,2.9
+Bolsa 80g,Cereal INCASUR Kiwicha Pop Bolsa 80g,S/ 7.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,80.0,g,Cereal INCASUR Kiwicha Pop Bolsa,7.2
+Caja 350g,Cereal NESTLÉ CHOCAPIC Caja 350gr,S/ 16.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal NESTLÉ CHOCAPIC Caja r,16.9
+Caja 210g,Cereal NESTLÉ Kitkat Caja 210g,S/ 13.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,210.0,g,Cereal NESTLÉ Kitkat Caja,13.5
+Bolsa 300g,Cereal NATURANDES Harina de linaza Bolsa 300Gr,S/ 10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,300.0,g,Cereal NATURANDES Harina de linaza Bolsa r,10.0
+Caja 210g,Cereal en Barra DYFFERENT Chocolate Brownie Ca...,S/ 12.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,210.0,g,Cereal en Barra DYFFERENT Chocolate Brownie Ca,12.9
+Caja 350g,Cereal Infantil NESTUM Trigo Quinua y otros 6 ...,S/ 17.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal Infantil NESTUM Trigo Quinua y otros 6,17.5
+Caja 175g,Cereal en Barra DYFFERENT Chocolate con Maní C...,S/ 10.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,175.0,g,Cereal en Barra DYFFERENT Chocolate con Maní C,10.9
+Bolsa 190g,Hojuelas de Kiwicha LA CASA MIRAMIEL Bolsa 190...,S/ 9.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,190.0,g,Hojuelas de Kiwicha LA CASA MIRAMIEL Bolsa 190,9.9
+Doypack 800g,Avena con Hojuela sin Gluten LA PURITA Bolsa 8...,S/ 18 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,800.0,g,Avena con Hojuela sin Gluten LA PURITA Bolsa 8,18.0
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,420.0,g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas,15.7
+Bolsa 140g,Cereal VITAPLUS Maíz con miel Bolsa 140Gr,S/ 3.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,140.0,g,Cereal VITAPLUS Maíz con miel Bolsa r,3.6
+Vaso 125g,Yogurt LAIVE Mix Vainilla Francesa con Hojuela...,S/ 3.10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,125.0,g,Yogurt LAIVE Mix Vainilla Francesa con Hojuela,3.1
+Caja 400g,Cereal Infantil CERELAC 5 Cereales y Leche Caj...,S/ 21.10 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,400.0,g,Cereal Infantil CERELAC 5 Cereales y Leche Caj,21.1
+Caja 175g,Cereal en Barra DYFFERENT Mantequilla de Maní ...,S/ 10.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,175.0,g,Cereal en Barra DYFFERENT Mantequilla de Maní,10.9
+Caja 650g,Cereal ÁNGEL Corn Flakes Caja 650g,S/ 14.30 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,650.0,g,Cereal ÁNGEL Corn Flakes Caja,14.3
+Bolsa 380g,Cereal CROSOY Granola Bolsa 380Gr,S/ 13.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,380.0,g,Cereal CROSOY Granola Bolsa r,13.5
+Caja 240g,Cereal de Quinua MAMALAMA Cacao Caja 240g,S/ 23.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,240.0,g,Cereal de Quinua MAMALAMA Cacao Caja,23.9
+Bolsa 120g,Cereal VITAPLUS Coditos con miel Bolsa 120Gr,S/ 3.60 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,120.0,g,Cereal VITAPLUS Coditos con miel Bolsa r,3.6
+Caja 253g,Cereal en Barra NATURA VALLEY Crunchy Dark Cho...,S/ 22.30 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,253.0,g,Cereal en Barra NATURA VALLEY Crunchy Dark Cho,22.3
+Bolsa 150g,Hojuelas de Papas Fritas BELL'S Onduladas Bols...,S/ 5.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,150.0,g,Hojuelas de Papas Fritas BELL'S Onduladas Bols,5.5
+Bolsa 150g,Piqueos BELL'S Camote Frito en Hojuelas Bolsa ...,S/ 5.50 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,150.0,g,Piqueos BELL'S Camote Frito en Hojuelas Bolsa,5.5
+Bolsa 370g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa 3...,S/ 4.19 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,370.0,g,Avena GRANO DE ORO Hojuelas Precocidas Bolsa 3,4.19
+Bolsa 400g,Cereal COSECHA DEL PARAISO Salvado de trigo Bo...,S/ 11.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,400.0,g,Cereal COSECHA DEL PARAISO Salvado de trigo Bo,11.9
+Bolsa 125g,Cereal Bañado con Chocolate 2 CERRITOS Bolsa 1...,S/ 11.20 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,125.0,g,Cereal Bañado con Chocolate 2 CERRITOS Bolsa 1,11.2
+Caja 230g,Cereal NESTLÉ Sublime Caja 230g,S/ 14.40 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,230.0,g,Cereal NESTLÉ Sublime Caja,14.4
+Caja 350g,Cereal MCCALLUM'S Multicereal con Arándanos Ca...,S/ 13.90 un,plaza_vea,CEREALES PROCESADOS SIMPLES (HOJUELAS),2024-12-06 13:21:35.090165,350.0,g,Cereal MCCALLUM'S Multicereal con Arándanos Ca,13.9

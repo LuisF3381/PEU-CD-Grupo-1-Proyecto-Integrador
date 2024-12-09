@@ -1,152 +1,99 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Bebida Gaseosa Backus Botella X300mL,S/ 1.20,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,300.0,ml,Bebida Gaseosa Backus Botella X,1.2,tottus,GUARANA,BEBIDA HIDRATANTE
-Bebida Rehidratante Electrolight Granadilla Botella 475 ml,S/ 2.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,475.0,ml,Bebida Rehidratante Electrolight Granadilla Botella,2.1,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Electrolight Fresa Botella 473 ml,S/ 2.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,473.0,ml,Bebida Rehidratante Electrolight Fresa Botella,2.1,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante ELECTROLIGHT Mora Botella 475ml,S/ 2.10,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,475.0,ml,Bebida Rehidratante ELECTROLIGHT Mora Botella,2.1,vivanda,ELECTROLIGHT,BEBIDA HIDRATANTE
-Bebida Rehidratante Electrolight Fresa Botella 473 ml,S/ 2.10,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,473.0,ml,Bebida Rehidratante Electrolight Fresa Botella,2.1,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante ELECTROLIGHT Manzana Botella 475ml,S/ 2.10,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,475.0,ml,Bebida Rehidratante ELECTROLIGHT Manzana Botella,2.1,vivanda,ELECTROLIGHT,BEBIDA HIDRATANTE
-Bebida Rehidratante Electrolight Piña Botella 475 ml,S/ 2.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,475.0,ml,Bebida Rehidratante Electrolight Piña Botella,2.1,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Electrolight Granadilla Botella 475 ml,S/ 2.10,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,475.0,ml,Bebida Rehidratante Electrolight Granadilla Botella,2.1,metro,,BEBIDA HIDRATANTE
-Cero Pina X 475 mL,S/ 2.20,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,475.0,ml,Cero Pina X,2.2,tottus,ELECTROLIGHT,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Tropical Botella 500ml,S/ 2.40,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante SPORADE Tropical Botella,2.4,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Limón Botella 600ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Bebida Rehidratante Powerade Limón Botella,2.4,wong,,BEBIDA HIDRATANTE
-Rehidratante Powerade Uva Botella 600ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Rehidratante Powerade Uva Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante POWERADE Mora Azul Botella 600ml,S/ 2.40,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,600.0,ml,Bebida Rehidratante POWERADE Mora Azul Botella,2.4,vivanda,POWERADE,BEBIDA HIDRATANTE
-Bebida Rehidratante sin Azúcar SPORADE Apple Ice Botella 500ml,S/ 2.40,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante sin Azúcar SPORADE Apple Ice Botella,2.4,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Tropical 500 mL,S/ 2.40,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,500.0,ml,Bebida Rehidratante Tropical,2.4,tottus,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 2.40,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante SPORADE Mandarina Botella,2.4,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Mandarina Botella 500ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,500.0,ml,Bebida Rehidratante Gatorade Mandarina Botella,2.4,wong,,BEBIDA HIDRATANTE
-REHIDRATANTE MORA BOTELLA X 600ML,S/ 2.40,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,600.0,ml,REHIDRATANTE MORA BOTELLA X,2.4,tottus,POWERADE,BEBIDA HIDRATANTE
-Uva 600 mL,S/ 2.40,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,600.0,ml,Uva,2.4,tottus,POWERADE,BEBIDA HIDRATANTE
-REHIDRATANTE MARACUYA BOTELLA X 600ML,S/ 2.40,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,600.0,ml,REHIDRATANTE MARACUYA BOTELLA X,2.4,tottus,POWERADE,BEBIDA HIDRATANTE
-REHIDRATANTE LIMON BOTELLA X600ML,S/ 2.40,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,600.0,ml,REHIDRATANTE LIMON BOTELLA X,2.4,tottus,POWERADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Maracuyá Botella 600ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Bebida Rehidratante Powerade Maracuyá Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Multifrutas Botella 600ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Bebida Rehidratante Powerade Multifrutas Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Uva Botella 500ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,500.0,ml,Bebida Rehidratante Sporade Uva Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella 500ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,500.0,ml,Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Uva Botella 500ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,500.0,ml,Bebida Rehidratante Sporade Uva Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella 500ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,500.0,ml,Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Maracuyá Botella 600ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,600.0,ml,Bebida Rehidratante Powerade Maracuyá Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sin Azúcar Sporade Tropical Botella 500ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,500.0,ml,Bebida Rehidratante Sin Azúcar Sporade Tropical Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Tropical Botella 475ml,S/ 2.40,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,475.0,ml,Bebida Rehidratante SPORADE Tropical Botella,2.4,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Mora Botella 600ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,600.0,ml,Bebida Rehidratante Powerade Mora Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Blueberry Botella 500 ml,S/ 2.40,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,500.0,ml,Bebida Rehidratante Sporade Blueberry Botella,2.4,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Blueberry Botella 500 ml,S/ 2.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,500.0,ml,Bebida Rehidratante Sporade Blueberry Botella,2.4,wong,,BEBIDA HIDRATANTE
-Bebida Energizante 300 mL,S/ 2.49,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,300.0,ml,Bebida Energizante,2.49,tottus,VOLT,BEBIDA HIDRATANTE
-Bebida De Durazno 500 mL,S/ 2.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,500.0,ml,Bebida De Durazno,2.5,tottus,GLORIA,BEBIDA HIDRATANTE
-Bebida de té negro sabor frutos rojos 500 mL,S/ 2.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,500.0,ml,Bebida de té negro sabor frutos rojos,2.5,tottus,FREE TEA,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Apple Ice Botella 500ml,S/ 2.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante GATORADE Apple Ice Botella,2.9,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Cool Blue Botella 500ml,S/ 2.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante GATORADE Cool Blue Botella,2.9,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida con leche sabor a chocolate 800 mL,S/ 2.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,800.0,ml,Bebida con leche sabor a chocolate,2.9,tottus,LA PREFERIDA,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml,S/ 2.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Botella,2.9,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Tropical Botella 1 Litro,S/ 3.60,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.0,l,Bebida Rehidratante Gatorade Tropical Botella itro,3.6,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Tropical Botella 1L,S/ 3.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,1.0,l,Bebida Rehidratante SPORADE Tropical Botella,3.9,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Choco 800 mL,S/ 3.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,800.0,ml,Bebida Choco,3.9,tottus,VIGOR,BEBIDA HIDRATANTE
-Bebida Sabor Mango 1 L,S/ 3.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Bebida Sabor Mango,3.9,tottus,WATTS,BEBIDA HIDRATANTE
-Bebida Sabor Durazno 1 L,S/ 3.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Bebida Sabor Durazno,3.9,tottus,WATTS,BEBIDA HIDRATANTE
-BEBIDA NARANJA X 970ML,S/ 3.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,970.0,ml,BEBIDA NARANJA X,3.9,tottus,FRUGOS DEL VALLE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Multifrutas Botella 1L,S/ 3.99,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,1.0,l,Bebida Rehidratante Powerade Multifrutas Botella,3.99,metro,,BEBIDA HIDRATANTE
-Multifrutas 1 L,S/ 4,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Multifrutas,4.0,tottus,POWERADE,BEBIDA HIDRATANTE
-Bebida Rehidratante POWERADE Multifrutas Botella 1L,S/ 4.00,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,1.0,l,Bebida Rehidratante POWERADE Multifrutas Botella,4.0,vivanda,POWERADE,BEBIDA HIDRATANTE
-Bebida Rehidratante POWERADE Mora Azul Botella 1L,S/ 4.00,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,1.0,l,Bebida Rehidratante POWERADE Mora Azul Botella,4.0,vivanda,POWERADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Multifrutas Botella 1L,S/ 4.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.0,l,Bebida Rehidratante Powerade Multifrutas Botella,4.1,wong,,BEBIDA HIDRATANTE
-Bebida Sabor Naranja 1 Lt Botella,S/ 4.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Bebida Sabor Naranja t Botella,4.5,tottus,FRUGOS DEL VALLE,BEBIDA HIDRATANTE
-Chicha Morada 1 L,S/ 4.80,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Chicha Morada,4.8,tottus,TOTTUS,BEBIDA HIDRATANTE
-Bebida de Naranja 1 L,S/ 4.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,Bebida de Naranja,4.9,tottus,GLORIA,BEBIDA HIDRATANTE
-BEBIDA DE MANGO CAJA 1L,S/ 4.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.0,l,BEBIDA DE MANGO CAJA,4.9,tottus,GLORIA,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Sabor a Mandarina Botella 750ml,S/ 4.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,750.0,ml,Bebida Rehidratante GATORADE Sabor a Mandarina Botella,4.9,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Tropical 1.5 L,S/ 4.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,Bebida Rehidratante Tropical,4.9,tottus,SPORADE,BEBIDA HIDRATANTE
-Bebida Beauti Drink Collaskin 360 mL,S/ 4.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,360.0,ml,Bebida Beauti Drink Collaskin,4.9,tottus,SAPPE,BEBIDA HIDRATANTE
-Bebida sabor mango 320 mL,S/ 4.95,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,320.0,ml,Bebida sabor mango,4.95,tottus,MOGU MOGU,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Apple Ice Botella 750ml,S/ 4.99,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,750.0,ml,Bebida Rehidratante Gatorade Apple Ice Botella,4.99,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Mandarina Botella 750ml,S/ 4.99,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,750.0,ml,Bebida Rehidratante Gatorade Mandarina Botella,4.99,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Tropical Botella 750ml,S/ 4.99,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,750.0,ml,Bebida Rehidratante Gatorade Tropical Botella,4.99,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Gatorlyte Fresa-Kiwi 591ml,S/ 5.00,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,591.0,ml,Bebida Rehidratante GATORADE Gatorlyte Fresa-Kiwi,5.0,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Gatorlyte Uva 591ml,S/ 5.00,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,591.0,ml,Bebida Rehidratante GATORADE Gatorlyte Uva,5.0,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Mandarina Botella 750ml,S/ 5.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,750.0,ml,Bebida Rehidratante Gatorade Mandarina Botella,5.1,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Tropical Botella 750ml,S/ 5.10,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,750.0,ml,Bebida Rehidratante Gatorade Tropical Botella,5.1,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella 591ml,S/ 5.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,591.0,ml,Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella,5.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Blueberry Botella 1.5L,S/ 5.50,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,1.5,l,Bebida Rehidratante SPORADE Blueberry Botella,5.5,vivanda,SPORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Multifrutas Botella 1.5L,S/ 5.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.5,l,Bebida Rehidratante Powerade Multifrutas Botella,5.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorlit Recover Uva Botella 591ml,S/ 5.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,591.0,ml,Bebida Rehidratante Gatorlit Recover Uva Botella,5.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Mora Botella 1.5L,S/ 5.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,1.5,l,Bebida Rehidratante Powerade Mora Botella,5.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella 591ml,S/ 5.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,591.0,ml,Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella,5.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Multifrutas Botella 1.5L,S/ 5.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,1.5,l,Bebida Rehidratante Powerade Multifrutas Botella,5.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Powerade Mora Botella 1.5L,S/ 5.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.5,l,Bebida Rehidratante Powerade Mora Botella,5.5,wong,,BEBIDA HIDRATANTE
-REHIDRATANTE MORA BOTELLA X 1.5L,S/ 5.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,REHIDRATANTE MORA BOTELLA X,5.5,tottus,POWERADE,BEBIDA HIDRATANTE
-Bebida Sabor Manzana 1.5 Lt Caja,S/ 5.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,Bebida Sabor Manzana t Caja,5.5,tottus,FRUGOS DEL VALLE,BEBIDA HIDRATANTE
-BEBIDA DE DURAZNO CAJA 1.5L,S/ 5.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,BEBIDA DE DURAZNO CAJA,5.5,tottus,GLORIA,BEBIDA HIDRATANTE
-Rehidratante Multifrutas Botella 1.5 L,S/ 5.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,Rehidratante Multifrutas Botella,5.5,tottus,POWERADE,BEBIDA HIDRATANTE
-Rehidratante Sporade Pet 1.5L Tropical,S/ 5.60,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.5,l,Rehidratante Sporade Pet  Tropical,5.6,wong,,BEBIDA HIDRATANTE
-Bebida Life SOS Relax Lata 355ml,S/ 5.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,1.0,l,Bebida Life SOS Relaata,5.9,wong,,BEBIDA HIDRATANTE
-Bebida Frugos Fresh Naranja de 3 L,S/ 5.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.0,l,Bebida Frugos Fresh Naranja de,5.9,tottus,FRUGOS DEL VALLE,BEBIDA HIDRATANTE
-BEBIDA DE NARANJA CAJA 1.5L,S/ 5.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,BEBIDA DE NARANJA CAJA,5.9,tottus,GLORIA,BEBIDA HIDRATANTE
-Bebida Rehidratante Life SOS Recovery Tropical Lata 355ml,S/ 5.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,355.0,ml,Bebida Rehidratante Life SOS Recovery Tropical Lata,5.9,wong,,BEBIDA HIDRATANTE
-BEBIDA FRUGOS VALLE FRESH FRUIT PUNCH BOT X 3L,S/ 5.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.0,l,BEBIDA FRUGOS VALLE FRESH FRUIT PUNCH BOT X,5.9,tottus,FRUGOS DEL VALLE,BEBIDA HIDRATANTE
-Bebida con Electrolitos Electrolife Uva Botella 625ml,S/ 6.00,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,625.0,ml,Bebida con Electrolitos Electrolife Uva Botella,6.0,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Flashlyte Fresa Botella 625ml,S/ 6.00,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,625.0,ml,Bebida Rehidratante Flashlyte Fresa Botella,6.0,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Flashlyte Fresa Botella 625ml,S/ 6.00,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,625.0,ml,Bebida Rehidratante Flashlyte Fresa Botella,6.0,wong,,BEBIDA HIDRATANTE
-BEBIDA ELECTROL FLASHLYTE FRESA BOT625ML,S/ 6,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,625.0,ml,BEBIDA ELECTROL FLASHLYTE FRESA BOT,6.0,tottus,,BEBIDA HIDRATANTE
-BEBIDA ELECTROL FLASHLYTE UVA BOT X625ML,S/ 6,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,625.0,ml,BEBIDA ELECTROL FLASHLYTE UVA BOT X,6.0,tottus,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Manzana Botella 630ml,S/ 6.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Bebida Rehidratante Suerox Manzana Botella,6.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante SUEROX Sabor a Manzana Botella 630ml,S/ 6.50,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,630.0,ml,Bebida Rehidratante SUEROX Sabor a Manzana Botella,6.5,vivanda,SUEROX,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella 630ml,S/ 6.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella,6.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Kiwi Botella 630ml,S/ 6.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Bebida Rehidratante Suerox Kiwi Botella,6.5,metro,,BEBIDA HIDRATANTE
-"REHIDRATANTE SUEROX 630ML , FRUTOS ROJOS",S/ 6.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,"REHIDRATANTE SUEROX  , FRUTOS ROJOS",6.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella 630ml,S/ 6.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella,6.5,metro,,BEBIDA HIDRATANTE
-ADULTO FRUTOS ROJOS 630 ML,S/ 6.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,630.0,ml,ADULTO FRUTOS ROJOS,6.5,tottus,SUEROX,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Mora Azul Botella 630ml,S/ 6.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Bebida Rehidratante Suerox Mora Azul Botella,6.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Manzana Botella 630ml,S/ 6.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Bebida Rehidratante Suerox Manzana Botella,6.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Mora Azul Botella 630ml,S/ 6.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Bebida Rehidratante Suerox Mora Azul Botella,6.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Suerox Kiwi Botella 630ml,S/ 6.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Bebida Rehidratante Suerox Kiwi Botella,6.5,wong,,BEBIDA HIDRATANTE
-Ginger Ale 1.5 L,S/ 6.60,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,Ginger Ale,6.6,tottus,SCHWEPPES,BEBIDA HIDRATANTE
-Bebida con Electrolitos Electrolife Uva Botella 625ml,S/ 6.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,625.0,ml,Bebida con Electrolitos Electrolife Uva Botella,6.9,wong,,BEBIDA HIDRATANTE
-Bebida con Electrolitos Electrolife Fresa Kiwi Botella 625ml,S/ 6.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,625.0,ml,Bebida con Electrolitos Electrolife Fresa Kiwi Botella,6.9,wong,,BEBIDA HIDRATANTE
-Bebida con Electrolitos Electrolife Fresa Botella 625ml,S/ 6.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,625.0,ml,Bebida con Electrolitos Electrolife Fresa Botella,6.9,wong,,BEBIDA HIDRATANTE
-Bebida Energizante Energy Ultra 473 mL,S/ 8,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,473.0,ml,Bebida Energizante Energy Ultra,8.0,tottus,MONSTER,BEBIDA HIDRATANTE
-Six Pack Bebida de Durazno 315 mL,S/ 9.20,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,315.0,ml,Six Pack Bebida de Durazno,9.2,tottus,PULP,BEBIDA HIDRATANTE
-Electrolight 3 Sabores Six Pack Botella 475 ml c/u - ELECTRO 6P 3 SAB,S/ 9.60,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,475.0,ml,Electrolight 3 Sabores Six Pack Botella  c/u - ELECTRO 6P 3 SAB,9.6,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,S/ 9.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,6.0,un,Bebida Rehidratante Sporade Pack Surtido  x,9.9,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,S/ 9.90,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,6.0,un,Bebida Rehidratante Sporade Pack Surtido  x,9.9,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante SPORADE Sabores Surtidos Botella 500ml Paquete 6un,S/ 9.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante SPORADE Sabores Surtidos Botella  Paquete,9.9,vivanda,SPORADE,BEBIDA HIDRATANTE
-Two Pack Gaseosa Ginger Ale 1.5 L,S/ 9.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,1.5,l,Two Pack Gaseosa Ginger Ale,9.9,tottus,SCHWEPPES,BEBIDA HIDRATANTE
-Bebida Energizante Regular Pack 6 Unidades 300 mL,S/ 9.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,6.0,un,Bebida Energizante Regular Pack ades,9.9,tottus,VOLT,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,S/ 10.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,6.0,un,Bebida Rehidratante Gatorade Monosabor Pack  x,10.9,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,S/ 10.90,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,6.0,un,Bebida Rehidratante Gatorade Pack  x,10.9,wong,,BEBIDA HIDRATANTE
-Tropical Pack 6 Unidades 500 mL,S/ 10.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,6.0,un,Tropical Pack ades,10.9,tottus,GATORADE,BEBIDA HIDRATANTE
-BEBIDA C GAS MANZANA 625MLX6UND,S/ 11,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,625.0,ml,BEBIDA C GAS MANZANA XD,11.0,tottus,SAN LUIS,BEBIDA HIDRATANTE
-Sixpack Bebida Rehidratante Powerade Multisabores Botella 600ml,S/ 11.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Sixpack Bebida Rehidratante Powerade Multisabores Botella,11.4,wong,,BEBIDA HIDRATANTE
-Sixpack Rehidratante Powerade Mora Botella 600ml,S/ 11.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Sixpack Rehidratante Powerade Mora Botella,11.4,wong,,BEBIDA HIDRATANTE
-Sixpack Rehidratante Powerade Multifrutas Botella 600ml,S/ 11.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Sixpack Rehidratante Powerade Multifrutas Botella,11.4,wong,,BEBIDA HIDRATANTE
-Sixpack Bebida Rehidratante Powerade Uva Botella 600ml,S/ 11.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Sixpack Bebida Rehidratante Powerade Uva Botella,11.4,wong,,BEBIDA HIDRATANTE
-Sixpack Bebida Rehidratante Powerade Surtido Mix 600ml,S/ 11.40,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,600.0,ml,Sixpack Bebida Rehidratante Powerade Surtido Mix,11.4,wong,,BEBIDA HIDRATANTE
-Ref Citrus Punch 3.78 L,S/ 11.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.78,l,Ref Citrus Punch,11.5,tottus,TAMPICO,BEBIDA HIDRATANTE
-Twelve Pack de Bebida de Durazno Forti Hierro de 145 mL,S/ 11.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,145.0,ml,Twelve Pack de Bebida de Durazno Forti Hierro de,11.5,tottus,PULP,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Sabores Surtidos Botella 500ml Paquete 6un,S/ 12.70,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante GATORADE Sabores Surtidos Botella  Paquete,12.7,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml Paquete 6un,S/ 12.70,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,500.0,ml,Bebida Rehidratante GATORADE Tropical Fruit Botella  Paquete,12.7,vivanda,GATORADE,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,S/ 12.90,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,6.0,un,Bebida Rehidratante Gatorade Pack  x,12.9,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,S/ 12.90,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,6.0,un,Bebida Rehidratante Gatorade Monosabor Pack  x,12.9,metro,,BEBIDA HIDRATANTE
-Sin gas 20 unidades de 500 mL,S/ 12.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,20.0,un,Sin gas ades de,12.9,tottus,SAN CARLOS,BEBIDA HIDRATANTE
-Bebida Rehidratante BODY ARMOR Fruit Punch Botella 16oz,S/ 14.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,16.0,oz,Bebida Rehidratante BODY ARMOR Fruit Punch Botella,14.9,vivanda,BODY ARMOR,BEBIDA HIDRATANTE
-Bebida Rehidratante BODY ARMOR Tropical Punch Botella 16oz,S/ 14.90,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,16.0,oz,Bebida Rehidratante BODY ARMOR Tropical Punch Botella,14.9,vivanda,BODY ARMOR,BEBIDA HIDRATANTE
-Pack de Agua sin Gas de 15 unidades,S/ 17.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,15.0,un,Pack de Agua sin Gas de ades,17.9,tottus,SAN LUIS,BEBIDA HIDRATANTE
-Pack 12 Bebida Rehidratante SPORADE Mandarina Botella 500ml,S/ 18.00 32%,vega,BEBIDA HIDRATANTE,2024-12-04 14:49:03.098549,500.0,ml,Pack 12 Bebida Rehidratante SPORADE Mandarina Botella,18.0,vega,Sporade,BEBIDA HIDRATANTE
-Pack 12 Bebida Rehidratante SPORADE Tropical Botella 500ml,S/ 18.00 32%,vega,BEBIDA HIDRATANTE,2024-12-04 14:49:03.098549,500.0,ml,Pack 12 Bebida Rehidratante SPORADE Tropical Botella,18.0,vega,Sporade,BEBIDA HIDRATANTE
-Pack 12 Energizante VOLT Botella 300ml,S/ 18.49 30%,vega,BEBIDA HIDRATANTE,2024-12-04 14:49:03.098549,300.0,ml,Pack 12 Energizante VOLT Botella,18.49,vega,Volt,BEBIDA HIDRATANTE
-Gaseosa Naranja 3 L Kola Inglesa 3 L y Sprite Lima-Limón 3 L,S/ 18.90,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.0,l,Gaseosa Naranja  Kola Inglesa  y Sprite Lima-Limón,18.9,tottus,FANTA,BEBIDA HIDRATANTE
-Fourpack Bebida Rehidratante Suerox Mix Botella 630ml,S/ 19.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Fourpack Bebida Rehidratante Suerox Mix Botella,19.5,metro,,BEBIDA HIDRATANTE
-Fourpack Bebida Rehidratante Suerox Mora Botella 630ml,S/ 19.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Fourpack Bebida Rehidratante Suerox Mora Botella,19.5,wong,,BEBIDA HIDRATANTE
-Bebida Rehidratante SUEROX Surtido Botella 630ml Paquete 4un,S/ 19.50,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,630.0,ml,Bebida Rehidratante SUEROX Surtido Botella  Paquete,19.5,vivanda,SUEROX,BEBIDA HIDRATANTE
-Fourpack Bebida Rehidratante Suerox Fresa Botella 630ml,S/ 19.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Fourpack Bebida Rehidratante Suerox Fresa Botella,19.5,wong,,BEBIDA HIDRATANTE
-Four Pack Rehidratante Fresa Kiwi 630 mL,S/ 19.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,630.0,ml,Four Pack Rehidratante Fresa Kiwi,19.5,tottus,SUEROX,BEBIDA HIDRATANTE
-Pack x12 Sporade Surtido Pet 500ml,S/ 19.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,500.0,ml,Pack x12 Sporade Surtido Pet,19.5,metro,,BEBIDA HIDRATANTE
-Bebida Rehidratante SUEROX Fresa Botella 630ml Paquete 4un,S/ 19.50,vivanda,BEBIDA HIDRATANTE,2024-12-04 18:20:22.255946,630.0,ml,Bebida Rehidratante SUEROX Fresa Botella  Paquete,19.5,vivanda,SUEROX,BEBIDA HIDRATANTE
-Fourpack Bebida Rehidratante Suerox Mora Botella 630ml,S/ 19.50,metro,BEBIDA HIDRATANTE,2024-12-04 22:25:56.514517,630.0,ml,Fourpack Bebida Rehidratante Suerox Mora Botella,19.5,metro,,BEBIDA HIDRATANTE
-Pack x12 Sporade Surtido Pet 500ml,S/ 19.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,500.0,ml,Pack x12 Sporade Surtido Pet,19.5,wong,,BEBIDA HIDRATANTE
-Fourpack Bebida Rehidratante Suerox Mix Botella 630ml,S/ 19.50,wong,BEBIDA HIDRATANTE,2024-12-04 20:53:27.835546,630.0,ml,Fourpack Bebida Rehidratante Suerox Mix Botella,19.5,wong,,BEBIDA HIDRATANTE
-Gaseosa Coca-Cola Original 3 Lt Twopack,S/ 20.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.0,l,Gaseosa Coca-Cola Original t Twopack,20.5,tottus,COCA COLA,BEBIDA HIDRATANTE
-Agua Mineral sin gas 20 L,S/ 24.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,20.0,l,Agua Mineral sin gas,24.5,tottus,SAN LUIS,BEBIDA HIDRATANTE
-Four Pack de Bebida Energizante Sin Azúcar de 250 mL,S/ 28.50,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,250.0,ml,Four Pack de Bebida Energizante Sin Azúcar de,28.5,tottus,RED BULL,BEBIDA HIDRATANTE
-Gaseosa: 1 Inca Kola 3 L + 2 Coca-Cola Sabor Original 3 L,S/ 30.30,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,3.0,l,Gaseosa: 1 Inca Kola  + 2 Coca-Cola Sabor Original,30.3,tottus,COCA COLA,BEBIDA HIDRATANTE
-2X Agua Sin Gas Bidon 20L,S/ 51,tottus,BEBIDA HIDRATANTE,2024-12-04 14:01:16.732811,20.0,l,2X Agua Sin Gas Bidon,51.0,tottus,SAN LUIS,BEBIDA HIDRATANTE
-Pack 12 Energizante VOLT Maca Botella 300ml,,vega,BEBIDA HIDRATANTE,2024-12-04 14:49:03.098549,300.0,ml,Pack 12 Energizante VOLT Maca Botella,,vega,Volt,BEBIDA HIDRATANTE
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Bebida Rehidratante Electrolight Granadilla Botella 475 ml,,475.0,ml,2.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,475.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Electrolight Fresa Botella 473 ml,,473.0,ml,2.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,473.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante ELECTROLIGHT Mora Botella 475ml,ELECTROLIGHT,475.0,ml,2.1,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,475.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Electrolight Fresa Botella 473 ml,,473.0,ml,2.1,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,473.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante ELECTROLIGHT Manzana Botella 475ml,ELECTROLIGHT,475.0,ml,2.1,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,475.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Electrolight Piña Botella 475 ml,,475.0,ml,2.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,475.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Electrolight Granadilla Botella 475 ml,,475.0,ml,2.1,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,475.0,ml,2.1,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Tropical Botella 500ml,SPORADE,500.0,ml,2.4,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Limón Botella 600ml,,600.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Rehidratante Powerade Uva Botella 600ml,,600.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante POWERADE Mora Azul Botella 600ml,POWERADE,600.0,ml,2.4,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante sin Azúcar SPORADE Apple Ice Botella 500ml,SPORADE,500.0,ml,2.4,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Tropical 500 mL,SPORADE,500.0,ml,2.4,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Mandarina Botella 500ml,SPORADE,500.0,ml,2.4,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Mandarina Botella 500ml,,500.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+REHIDRATANTE MORA BOTELLA X 600ML,POWERADE,600.0,ml,2.4,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+REHIDRATANTE MARACUYA BOTELLA X 600ML,POWERADE,600.0,ml,2.4,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+REHIDRATANTE LIMON BOTELLA X600ML,POWERADE,600.0,ml,2.4,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Maracuyá Botella 600ml,,600.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Multifrutas Botella 600ml,,600.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Uva Botella 500ml,,500.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella 500ml,,500.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Uva Botella 500ml,,500.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sin Azúcar Sporade Apple Ice Botella 500ml,,500.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Maracuyá Botella 600ml,,600.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sin Azúcar Sporade Tropical Botella 500ml,,500.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Tropical Botella 475ml,SPORADE,475.0,ml,2.4,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,475.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Mora Botella 600ml,,600.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,600.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Blueberry Botella 500 ml,,500.0,ml,2.4,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Blueberry Botella 500 ml,,500.0,ml,2.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,500.0,ml,2.4,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Apple Ice Botella 500ml,GATORADE,500.0,ml,2.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.9,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Cool Blue Botella 500ml,GATORADE,500.0,ml,2.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.9,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml,GATORADE,500.0,ml,2.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,2.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Tropical Botella 1 Litro,,1.0,l,3.6,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,1.0,l,3.6,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Tropical Botella 1L,SPORADE,1.0,l,3.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,1.0,l,3.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Multifrutas Botella 1L,,1.0,l,3.99,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,1.0,l,3.99,BEBIDA HIDRATANTE
+Bebida Rehidratante POWERADE Multifrutas Botella 1L,POWERADE,1.0,l,4.0,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,1.0,l,4.0,BEBIDA HIDRATANTE
+Bebida Rehidratante POWERADE Mora Azul Botella 1L,POWERADE,1.0,l,4.0,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,1.0,l,4.0,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Multifrutas Botella 1L,,1.0,l,4.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,1.0,l,4.1,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Sabor a Mandarina Botella 750ml,GATORADE,750.0,ml,4.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,750.0,ml,4.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Tropical 1.5 L,SPORADE,1.5,l,4.9,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,1.5,l,4.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Apple Ice Botella 750ml,,750.0,ml,4.99,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,750.0,ml,4.99,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Mandarina Botella 750ml,,750.0,ml,4.99,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,750.0,ml,4.99,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Tropical Botella 750ml,,750.0,ml,4.99,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,750.0,ml,4.99,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Gatorlyte Fresa-Kiwi 591ml,GATORADE,591.0,ml,5.0,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,591.0,ml,5.0,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Gatorlyte Uva 591ml,GATORADE,591.0,ml,5.0,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,591.0,ml,5.0,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Mandarina Botella 750ml,,750.0,ml,5.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,750.0,ml,5.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Tropical Botella 750ml,,750.0,ml,5.1,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,750.0,ml,5.1,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella 591ml,,591.0,ml,5.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,591.0,ml,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Blueberry Botella 1.5L,SPORADE,1.5,l,5.5,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Multifrutas Botella 1.5L,,1.5,l,5.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorlit Recover Uva Botella 591ml,,591.0,ml,5.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,591.0,ml,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Mora Botella 1.5L,,1.5,l,5.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorlit Recover Fresa Kiwi Botella 591ml,,591.0,ml,5.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,591.0,ml,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Multifrutas Botella 1.5L,,1.5,l,5.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Powerade Mora Botella 1.5L,,1.5,l,5.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+REHIDRATANTE MORA BOTELLA X 1.5L,POWERADE,1.5,l,5.5,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Rehidratante Multifrutas Botella 1.5 L,POWERADE,1.5,l,5.5,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,1.5,l,5.5,BEBIDA HIDRATANTE
+Rehidratante Sporade Pet 1.5L Tropical,,1.5,l,5.6,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,1.5,l,5.6,BEBIDA HIDRATANTE
+Bebida Rehidratante Life SOS Recovery Tropical Lata 355ml,,355.0,ml,5.9,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,355.0,ml,5.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Flashlyte Fresa Botella 625ml,,625.0,ml,6.0,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,625.0,ml,6.0,BEBIDA HIDRATANTE
+Bebida Rehidratante Flashlyte Fresa Botella 625ml,,625.0,ml,6.0,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,625.0,ml,6.0,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Manzana Botella 630ml,,630.0,ml,6.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante SUEROX Sabor a Manzana Botella 630ml,SUEROX,630.0,ml,6.5,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella 630ml,,630.0,ml,6.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Kiwi Botella 630ml,,630.0,ml,6.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+"REHIDRATANTE SUEROX 630ML , FRUTOS ROJOS",,630.0,ml,6.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Sabor Naranja - Mandarina Botella 630ml,,630.0,ml,6.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Mora Azul Botella 630ml,,630.0,ml,6.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Manzana Botella 630ml,,630.0,ml,6.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Mora Azul Botella 630ml,,630.0,ml,6.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Suerox Kiwi Botella 630ml,,630.0,ml,6.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,6.5,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,,6.0,un,9.9,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,6.0,un,9.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Sporade Pack Surtido 6un x 500ml,,6.0,un,9.9,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,6.0,un,9.9,BEBIDA HIDRATANTE
+Bebida Rehidratante SPORADE Sabores Surtidos Botella 500ml Paquete 6un,SPORADE,500.0,ml,9.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,9.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,,6.0,un,10.9,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,6.0,un,10.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,,6.0,un,10.9,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,6.0,un,10.9,BEBIDA HIDRATANTE
+Sixpack Bebida Rehidratante Powerade Multisabores Botella 600ml,,600.0,ml,11.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,11.4,BEBIDA HIDRATANTE
+Sixpack Rehidratante Powerade Mora Botella 600ml,,600.0,ml,11.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,11.4,BEBIDA HIDRATANTE
+Sixpack Rehidratante Powerade Multifrutas Botella 600ml,,600.0,ml,11.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,11.4,BEBIDA HIDRATANTE
+Sixpack Bebida Rehidratante Powerade Uva Botella 600ml,,600.0,ml,11.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,11.4,BEBIDA HIDRATANTE
+Sixpack Bebida Rehidratante Powerade Surtido Mix 600ml,,600.0,ml,11.4,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,600.0,ml,11.4,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Sabores Surtidos Botella 500ml Paquete 6un,GATORADE,500.0,ml,12.7,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,12.7,BEBIDA HIDRATANTE
+Bebida Rehidratante GATORADE Tropical Fruit Botella 500ml Paquete 6un,GATORADE,500.0,ml,12.7,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,500.0,ml,12.7,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Pack 6 Unid x 500ml,,6.0,un,12.9,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,6.0,un,12.9,BEBIDA HIDRATANTE
+Bebida Rehidratante Gatorade Monosabor Pack 6 Unid x 500ml,,6.0,un,12.9,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,6.0,un,12.9,BEBIDA HIDRATANTE
+Bebida Rehidratante BODY ARMOR Fruit Punch Botella 16oz,BODY ARMOR,16.0,oz,14.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,16.0,oz,14.9,BEBIDA HIDRATANTE
+Bebida Rehidratante BODY ARMOR Tropical Punch Botella 16oz,BODY ARMOR,16.0,oz,14.9,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,16.0,oz,14.9,BEBIDA HIDRATANTE
+Pack 12 Bebida Rehidratante SPORADE Mandarina Botella 500ml,Sporade,500.0,ml,18.0,vega,2024-12-04 14:49:03.098549,BEBIDA HIDRATANTE,500.0,ml,18.0,BEBIDA HIDRATANTE
+Pack 12 Bebida Rehidratante SPORADE Tropical Botella 500ml,Sporade,500.0,ml,18.0,vega,2024-12-04 14:49:03.098549,BEBIDA HIDRATANTE,500.0,ml,18.0,BEBIDA HIDRATANTE
+Fourpack Bebida Rehidratante Suerox Mix Botella 630ml,,630.0,ml,19.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Fourpack Bebida Rehidratante Suerox Mora Botella 630ml,,630.0,ml,19.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Bebida Rehidratante SUEROX Surtido Botella 630ml Paquete 4un,SUEROX,630.0,ml,19.5,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Fourpack Bebida Rehidratante Suerox Fresa Botella 630ml,,630.0,ml,19.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Four Pack Rehidratante Fresa Kiwi 630 mL,SUEROX,630.0,ml,19.5,tottus,2024-12-04 14:01:16.732811,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Bebida Rehidratante SUEROX Fresa Botella 630ml Paquete 4un,SUEROX,630.0,ml,19.5,vivanda,2024-12-04 18:20:22.255946,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Fourpack Bebida Rehidratante Suerox Mora Botella 630ml,,630.0,ml,19.5,metro,2024-12-04 22:25:56.514517,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE
+Fourpack Bebida Rehidratante Suerox Mix Botella 630ml,,630.0,ml,19.5,wong,2024-12-04 20:53:27.835546,BEBIDA HIDRATANTE,630.0,ml,19.5,BEBIDA HIDRATANTE

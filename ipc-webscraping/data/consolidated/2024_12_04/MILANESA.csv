@@ -1,37 +1,18 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Patitas Picantes Sin Pollo Marciano Vegano 200g,S/ 7.70,wong,MILANESA,2024-12-04 18:53:56.699689,200.0,g,Patitas Picantes Sin Pollo Marciano Vegano,7.7,wong,,,MILANESA
-Chicken Pop Redondos Bolsa 300 g,S/ 12.70,metro,MILANESA,2024-12-04 21:08:21.785440,300.0,g,Chicken Pop Redondos Bolsa,12.7,metro,,,MILANESA
-Chicken Pop Redondos Bolsa 300 g,S/ 12.70,wong,MILANESA,2024-12-04 18:53:56.699689,300.0,g,Chicken Pop Redondos Bolsa,12.7,wong,,,MILANESA
-Deditos de Pollo Avinka 12un,S/ 12.99,metro,MILANESA,2024-12-04 21:08:21.785440,12.0,un,Deditos de Pollo Avinka,12.99,metro,,,MILANESA
-DEDITOS DE POLLO X 300G SAN FERNANDO,S/ 13.20,metro,MILANESA,2024-12-04 21:08:21.785440,300.0,g,DEDITOS DE POLLO X  SAN FERNANDO,13.2,metro,,,MILANESA
-Tiras de Pechuga de Pollo Redondos 8un,S/ 13.70,wong,MILANESA,2024-12-04 18:53:56.699689,8.0,un,Tiras de Pechuga de Pollo Redondos,13.7,wong,,,MILANESA
-Dados de Pollo San Fernando 300g,S/ 14.00,wong,MILANESA,2024-12-04 18:53:56.699689,300.0,g,Dados de Pollo San Fernando,14.0,wong,,,MILANESA
-Dados de Pollo San Fernando 300g,S/ 14.00,metro,MILANESA,2024-12-04 21:08:21.785440,300.0,g,Dados de Pollo San Fernando,14.0,metro,,,MILANESA
-Tiras de Pechuga de Pollo Bolsa 300 g,S/ 14.90,metro,MILANESA,2024-12-04 21:08:21.785440,300.0,g,Tiras de Pechuga de Pollo Bolsa,14.9,metro,,,MILANESA
-Tiras de Pechuga de Pollo Bolsa 300 g,S/ 14.90,wong,MILANESA,2024-12-04 18:53:56.699689,300.0,g,Tiras de Pechuga de Pollo Bolsa,14.9,wong,,,MILANESA
-Chicken Bites Oregon Foods 300g,S/ 15.20,metro,MILANESA,2024-12-04 21:08:21.785440,300.0,g,Chicken Bites Oregon Foods,15.2,metro,,,MILANESA
-Pop Corn Chicken Avinka 350g,S/ 15.30,metro,MILANESA,2024-12-04 21:08:21.785440,350.0,g,Pop Corn Chicken Avinka,15.3,metro,,,MILANESA
-Pop Corn Chicken Avinka 350g,S/ 15.30,wong,MILANESA,2024-12-04 18:53:56.699689,350.0,g,Pop Corn Chicken Avinka,15.3,wong,,,MILANESA
-Milanesa de Pollo Cuisine & Co 400g,S/ 15.70,metro,MILANESA,2024-12-04 21:08:21.785440,400.0,g,Milanesa de Pollo Cuisine & Co,15.7,metro,,,MILANESA
-Milanesa de Pavo SAN FERNANDO Bolsa 415g,S/ 15.79 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,4.0,un,Milanesa de Pavo SAN FERNANDO Bolsa,15.79,plaza_vea,Bolsa 4un,,MILANESA
-Milanesas Veggie DELLANATURA Bolsa 300g,S/ 16.40,vivanda,MILANESA,2024-12-04 17:30:33.771686,300.0,g,Milanesas Veggie DELLANATURA Bolsa,16.4,vivanda,,DELLANATURA,MILANESA
-Milanesas Veggie Della Natura 4un,S/ 16.90,wong,MILANESA,2024-12-04 18:53:56.699689,4.0,un,Milanesas Veggie Della Natura,16.9,wong,,,MILANESA
-Milanesa de Pavo San Fernando Bolsa 4 Unid / 415 g,S/ 17.80,metro,MILANESA,2024-12-04 21:08:21.785440,4.0,un,Milanesa de Pavo San Fernando Bolsa  /,17.8,metro,,,MILANESA
-Milanesa de Pavo San Fernando Bolsa 4 Unid / 415 g,S/ 17.80,wong,MILANESA,2024-12-04 18:53:56.699689,4.0,un,Milanesa de Pavo San Fernando Bolsa  /,17.8,wong,,,MILANESA
-Milanesa Vegetariana de Soya Kartriso Bandeja 500 g,S/ 18.60,metro,MILANESA,2024-12-04 21:08:21.785440,500.0,g,Milanesa Vegetariana de Soya Kartriso Bandeja,18.6,metro,,,MILANESA
-Milanesa de Pescado Empanizado Seafrost 600g,S/ 20.50,wong,MILANESA,2024-12-04 18:53:56.699689,600.0,g,Milanesa de Pescado Empanizado Seafrost,20.5,wong,,,MILANESA
-Apanado de Pollo Oregon Foods 400g,S/ 20.70,wong,MILANESA,2024-12-04 18:53:56.699689,400.0,g,Apanado de Pollo Oregon Foods,20.7,wong,,,MILANESA
-Apanado de Pollo Oregon Foods 400g,S/ 20.70,metro,MILANESA,2024-12-04 21:08:21.785440,400.0,g,Apanado de Pollo Oregon Foods,20.7,metro,,,MILANESA
-Milanesas de Pollo LA CHARCUTERÍA Caja 400g,S/ 22.90 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,400.0,g,Milanesas de Pollo LA CHARCUTERÍA Caja,22.9,plaza_vea,Caja 400g,,MILANESA
-Milanesas de Pollo LA CHARCUTERÍA Caja 400g,S/ 22.90,vivanda,MILANESA,2024-12-04 17:30:33.771686,400.0,g,Milanesas de Pollo LA CHARCUTERÍA Caja,22.9,vivanda,,LA CHARCUTERÍA,MILANESA
-Milanesa de Res Super RANCHERAS Bolsa x 3un,S/ 24.99 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,3.0,un,Milanesa de Res Super RANCHERAS Bolsa x,24.99,plaza_vea,Bolsa 3un,,MILANESA
-Milanesa de Pollo AVINKA Bolsa 4un,S/ 25.70 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,600.0,g,Milanesa de Pollo AVINKA Bolsa,25.7,plaza_vea,Bolsa 600g,,MILANESA
-Milanesa de Pechuga de Pollo OREGON FOODS Bols...,S/ 27.90 un,plaza_vea,MILANESA,2024-12-04 13:25:49.288705,4.0,un,Milanesa de Pechuga de Pollo OREGON FOODS Bols,27.9,plaza_vea,Bolsa 4un,,MILANESA
-Chick'n Bites Artisan 350g,S/ 29.30,wong,MILANESA,2024-12-04 18:53:56.699689,350.0,g,Chick'n Bites Artisan,29.3,wong,,,MILANESA
-Chicharrón de Pollo Cuisine & Co 450g,S/ 29.50,metro,MILANESA,2024-12-04 21:08:21.785440,450.0,g,Chicharrón de Pollo Cuisine & Co,29.5,metro,,,MILANESA
-Milanesa de Pollo x kg,S/ 29.99 x kg,wong,MILANESA,2024-12-04 18:53:56.699689,1.0,kg,Milanesa de Pollo,29.99,wong,,,MILANESA
-Suprema de Pollo Redondos 1kg,S/ 30.90,wong,MILANESA,2024-12-04 18:53:56.699689,1.0,kg,Suprema de Pollo Redondos,30.9,wong,,,MILANESA
-Milanesa de Pollo Oregon Foods 4un,S/ 31.90,wong,MILANESA,2024-12-04 18:53:56.699689,4.0,un,Milanesa de Pollo Oregon Foods,31.9,wong,,,MILANESA
-Milanesa de Pollo Oregon Foods 4un,S/ 31.90,metro,MILANESA,2024-12-04 21:08:21.785440,4.0,un,Milanesa de Pollo Oregon Foods,31.9,metro,,,MILANESA
-Milanesa de Pollo Redondos 1kg,S/ 32.90,metro,MILANESA,2024-12-04 21:08:21.785440,1.0,kg,Milanesa de Pollo Redondos,32.9,metro,,,MILANESA
-Suprema de Pollo Artisan 550g,S/ 39.50,wong,MILANESA,2024-12-04 18:53:56.699689,550.0,g,Suprema de Pollo Artisan,39.5,wong,,,MILANESA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Milanesa de Pollo Cuisine & Co 400g,,400.0,g,15.7,metro,2024-12-04 21:08:21.785440,MILANESA,400.0,g,15.7,MILANESA
+Milanesa de Pavo SAN FERNANDO Bolsa 415g,,4.0,un,15.79,plaza_vea,2024-12-04 13:25:49.288705,MILANESA,4.0,un,15.79,MILANESA
+Milanesas Veggie DELLANATURA Bolsa 300g,DELLANATURA,300.0,g,16.4,vivanda,2024-12-04 17:30:33.771686,MILANESA,300.0,g,16.4,MILANESA
+Milanesas Veggie Della Natura 4un,,4.0,un,16.9,wong,2024-12-04 18:53:56.699689,MILANESA,4.0,un,16.9,MILANESA
+Milanesa de Pavo San Fernando Bolsa 4 Unid / 415 g,,4.0,un,17.8,metro,2024-12-04 21:08:21.785440,MILANESA,4.0,un,17.8,MILANESA
+Milanesa de Pavo San Fernando Bolsa 4 Unid / 415 g,,4.0,un,17.8,wong,2024-12-04 18:53:56.699689,MILANESA,4.0,un,17.8,MILANESA
+Milanesa Vegetariana de Soya Kartriso Bandeja 500 g,,500.0,g,18.6,metro,2024-12-04 21:08:21.785440,MILANESA,500.0,g,18.6,MILANESA
+Milanesa de Pescado Empanizado Seafrost 600g,,600.0,g,20.5,wong,2024-12-04 18:53:56.699689,MILANESA,600.0,g,20.5,MILANESA
+Milanesas de Pollo LA CHARCUTERÍA Caja 400g,,400.0,g,22.9,plaza_vea,2024-12-04 13:25:49.288705,MILANESA,400.0,g,22.9,MILANESA
+Milanesas de Pollo LA CHARCUTERÍA Caja 400g,LA CHARCUTERÍA,400.0,g,22.9,vivanda,2024-12-04 17:30:33.771686,MILANESA,400.0,g,22.9,MILANESA
+Milanesa de Res Super RANCHERAS Bolsa x 3un,,3.0,un,24.99,plaza_vea,2024-12-04 13:25:49.288705,MILANESA,3.0,un,24.99,MILANESA
+Milanesa de Pollo AVINKA Bolsa 4un,,600.0,g,25.7,plaza_vea,2024-12-04 13:25:49.288705,MILANESA,600.0,g,25.7,MILANESA
+Milanesa de Pechuga de Pollo OREGON FOODS Bols...,,4.0,un,27.9,plaza_vea,2024-12-04 13:25:49.288705,MILANESA,4.0,un,27.9,MILANESA
+Milanesa de Pollo x kg,,1.0,kg,29.99,wong,2024-12-04 18:53:56.699689,MILANESA,1.0,kg,29.99,MILANESA
+Milanesa de Pollo Oregon Foods 4un,,4.0,un,31.9,wong,2024-12-04 18:53:56.699689,MILANESA,4.0,un,31.9,MILANESA
+Milanesa de Pollo Oregon Foods 4un,,4.0,un,31.9,metro,2024-12-04 21:08:21.785440,MILANESA,4.0,un,31.9,MILANESA
+Milanesa de Pollo Redondos 1kg,,1.0,kg,32.9,metro,2024-12-04 21:08:21.785440,MILANESA,1.0,kg,32.9,MILANESA

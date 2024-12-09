@@ -1,0 +1,4 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Caja 100un,Edulcorante BELL'S Baja en Calorías Caja 100un,S/ 19.60 un,plaza_vea,EDULCORANTE,2024-12-06 14:24:25.569994,100.0,un,Edulcorante BELL'S Baja en Calorías Caja,19.6
+Bolsa 6un,Barras de Chocolate con Edulcorante LA IBÉRICA...,S/ 44.90 un,plaza_vea,EDULCORANTE,2024-12-06 14:24:25.569994,6.0,un,Barras de Chocolate con Edulcorante LA IBÉRICA,44.9
+Caja 50un,Edulcorante BELL'S Baja en Calorías Caja 50un,S/ 13.20 un,plaza_vea,EDULCORANTE,2024-12-06 14:24:25.569994,50.0,un,Edulcorante BELL'S Baja en Calorías Caja,13.2

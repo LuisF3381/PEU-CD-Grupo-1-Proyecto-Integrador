@@ -1,12 +1,11 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Frijol Canario x 350 g,S/ 7,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,350.0,g,Frijol Canario x,7.0,tottus,,TESORO DEL CAMPO,FRÉJOL CANARIO
-Frejol Canario Máxima 500g,S/ 7.20,metro,FRÉJOL CANARIO,2024-12-04 21:48:59.028911,500.0,g,Frejol Canario Máxima,7.2,metro,,,FRÉJOL CANARIO
-Frijol Canario 500 g,S/ 7.74,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Frijol Canario,7.74,tottus,,TOTTUS,FRÉJOL CANARIO
-Frejoles Aderezados x 360 g,S/ 8.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,360.0,g,Frejoles Aderezados x,8.2,tottus,,CASA VERDE,FRÉJOL CANARIO
-Frejol Canario VALLENORTE Bolsa 500 gr,S/ 8.30,vega,FRÉJOL CANARIO,2024-12-04 14:16:37.648824,500.0,g,Frejol Canario VALLENORTE Bolsa r,8.3,vega,,VALLENORTE,FRÉJOL CANARIO
-Frejol Canario VALLENORTE Bolsa 500g,S/ 8.50 un,plaza_vea,FRÉJOL CANARIO,2024-12-04 14:12:06.955499,500.0,g,Frejol Canario VALLENORTE Bolsa,8.5,plaza_vea,Bolsa 500g,,FRÉJOL CANARIO
-Frejol Canario TESORO DEL CAMPO Bolsa 500g,S/ 9 un,plaza_vea,FRÉJOL CANARIO,2024-12-04 14:12:06.955499,500.0,g,Frejol Canario TESORO DEL CAMPO Bolsa,9.0,plaza_vea,Bolsa 500g,,FRÉJOL CANARIO
-Frejol Canario Bolsa 500 g,S/ 9.20,metro,FRÉJOL CANARIO,2024-12-04 21:48:59.028911,500.0,g,Frejol Canario Bolsa,9.2,metro,,,FRÉJOL CANARIO
-Frijol Canario 500 g,S/ 9.20,tottus,FRÉJOL CANARIO,2024-12-04 13:41:35.086226,500.0,g,Frijol Canario,9.2,tottus,,TESORO DEL CAMPO,FRÉJOL CANARIO
-Frejol Canario Essential Everyday 425g,S/ 12.00,metro,FRÉJOL CANARIO,2024-12-04 21:48:59.028911,425.0,g,Frejol Canario Essential Everyday,12.0,metro,,,FRÉJOL CANARIO
-Frejol Canario Essential Everyday 425g,S/ 12.00,wong,FRÉJOL CANARIO,2024-12-04 19:56:30.722872,425.0,g,Frejol Canario Essential Everyday,12.0,wong,,,FRÉJOL CANARIO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Frijol Canario x 350 g,TESORO DEL CAMPO,350.0,g,7.0,tottus,2024-12-04 13:41:35.086226,FRÉJOL CANARIO,350.0,g,7.0,FRÉJOL CANARIO
+Frejol Canario Máxima 500g,,500.0,g,7.2,metro,2024-12-04 21:48:59.028911,FRÉJOL CANARIO,500.0,g,7.2,FRÉJOL CANARIO
+Frijol Canario 500 g,TOTTUS,500.0,g,7.74,tottus,2024-12-04 13:41:35.086226,FRÉJOL CANARIO,500.0,g,7.74,FRÉJOL CANARIO
+Frejol Canario VALLENORTE Bolsa 500 gr,VALLENORTE,500.0,g,8.3,vega,2024-12-04 14:16:37.648824,FRÉJOL CANARIO,500.0,g,8.3,FRÉJOL CANARIO
+Frejol Canario VALLENORTE Bolsa 500g,,500.0,g,8.5,plaza_vea,2024-12-04 14:12:06.955499,FRÉJOL CANARIO,500.0,g,8.5,FRÉJOL CANARIO
+Frejol Canario TESORO DEL CAMPO Bolsa 500g,,500.0,g,9.0,plaza_vea,2024-12-04 14:12:06.955499,FRÉJOL CANARIO,500.0,g,9.0,FRÉJOL CANARIO
+Frejol Canario Bolsa 500 g,,500.0,g,9.2,metro,2024-12-04 21:48:59.028911,FRÉJOL CANARIO,500.0,g,9.2,FRÉJOL CANARIO
+Frijol Canario 500 g,TESORO DEL CAMPO,500.0,g,9.2,tottus,2024-12-04 13:41:35.086226,FRÉJOL CANARIO,500.0,g,9.2,FRÉJOL CANARIO
+Frejol Canario Essential Everyday 425g,,425.0,g,12.0,metro,2024-12-04 21:48:59.028911,FRÉJOL CANARIO,425.0,g,12.0,FRÉJOL CANARIO
+Frejol Canario Essential Everyday 425g,,425.0,g,12.0,wong,2024-12-04 19:56:30.722872,FRÉJOL CANARIO,425.0,g,12.0,FRÉJOL CANARIO

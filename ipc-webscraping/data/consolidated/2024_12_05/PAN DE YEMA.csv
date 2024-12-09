@@ -1,9 +1,9 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,unit,brand,CLASIFICACION
-Pan de Yema 5un,S/ 2.80,wong,PAN DE YEMA,2024-12-05 17:38:40.524037,5.0,un,Pan de Yema,2.8,wong,,,PAN DE YEMA
-Pan de Yema 5un,S/ 2.80,wong,PAN DE YEMA,2024-12-05 17:38:40.524037,5.0,un,Pan de Yema,2.8,wong,,,PAN DE YEMA
-Pan de Yema 5un,S/ 3.90,metro,PAN DE YEMA,2024-12-05 15:11:35.757727,5.0,un,Pan de Yema,3.9,metro,,,PAN DE YEMA
-Pan de Yema LA FLORENCIA Bolsa 310g,S/ 4.30,vivanda,PAN DE YEMA,2024-12-05 21:32:38.489168,310.0,g,Pan de Yema LA FLORENCIA Bolsa,4.3,vivanda,,LA FLORENCIA,PAN DE YEMA
-Pan De Yema Don Mamino Bolsa 6 Unidades,S/ 8.50,metro,PAN DE YEMA,2024-12-05 15:11:35.757727,6.0,un,Pan De Yema Don Mamino Bolsa ades,8.5,metro,,,PAN DE YEMA
-Pan De Yema Don Mamino Bolsa 6 Unidades,S/ 8.50,wong,PAN DE YEMA,2024-12-05 17:38:40.524037,6.0,un,Pan De Yema Don Mamino Bolsa ades,8.5,wong,,,PAN DE YEMA
-Pan de Molde de Yema Misturapan 390g,S/ 11.59,metro,PAN DE YEMA,2024-12-05 15:11:35.757727,390.0,g,Pan de Molde de Yema Misturapan,11.59,metro,,,PAN DE YEMA
-Pan de Molde Yema 390g,S/ 11.90,wong,PAN DE YEMA,2024-12-05 17:38:40.524037,390.0,g,Pan de Molde Yema,11.9,wong,,,PAN DE YEMA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Pan de Yema 5un,,5.0,un,2.8,wong,2024-12-05 17:38:40.524037,PAN DE YEMA,5.0,un,2.8,PAN DE YEMA
+Pan de Yema 5un,,5.0,un,2.8,wong,2024-12-05 17:38:40.524037,PAN DE YEMA,5.0,un,2.8,PAN DE YEMA
+Pan de Yema 5un,,5.0,un,3.9,metro,2024-12-05 15:11:35.757727,PAN DE YEMA,5.0,un,3.9,PAN DE YEMA
+Pan de Yema LA FLORENCIA Bolsa 310g,LA FLORENCIA,310.0,g,4.3,vivanda,2024-12-05 21:32:38.489168,PAN DE YEMA,310.0,g,4.3,PAN DE YEMA
+Pan De Yema Don Mamino Bolsa 6 Unidades,,6.0,un,8.5,metro,2024-12-05 15:11:35.757727,PAN DE YEMA,6.0,un,8.5,PAN DE YEMA
+Pan De Yema Don Mamino Bolsa 6 Unidades,,6.0,un,8.5,wong,2024-12-05 17:38:40.524037,PAN DE YEMA,6.0,un,8.5,PAN DE YEMA
+Pan de Molde de Yema Misturapan 390g,,390.0,g,11.59,metro,2024-12-05 15:11:35.757727,PAN DE YEMA,390.0,g,11.59,PAN DE YEMA
+Pan de Molde Yema 390g,,390.0,g,11.9,wong,2024-12-05 17:38:40.524037,PAN DE YEMA,390.0,g,11.9,PAN DE YEMA

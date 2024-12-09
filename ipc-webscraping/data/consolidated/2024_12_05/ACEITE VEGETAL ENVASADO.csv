@@ -1,218 +1,29 @@
-description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,brand,CLASIFICACION
-Anchoveta En Aceite Vegetal x 125 g,S/ 3.50,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,125.0,g,Anchoveta En Aceite Vegetal x,3.5,tottus,SANTORINI,ACEITE VEGETAL ENVASADO
-Trozos de Atún en Aceite Vegetal Metro 140g,S/ 3.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,140.0,g,Trozos de Atún en Aceite Vegetal Metro,3.9,metro,,ACEITE VEGETAL ENVASADO
-Filete de Atún en Aceite Vegetal Metro 140g,S/ 4.20,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,140.0,g,Filete de Atún en Aceite Vegetal Metro,4.2,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Soya VEGA Botella 500ml,S/ 4.30,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,500.0,ml,Aceite de Soya VEGA Botella,4.3,vega,Vega,ACEITE VEGETAL ENVASADO
-Graned de Atún en Aceite Vegetal 140g,S/ 4.60,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,140.0,g,Graned de Atún en Aceite Vegetal,4.6,tottus,FLORIDA,ACEITE VEGETAL ENVASADO
-Trozos de Atún en Aceite Vegetal 170 g,S/ 4.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,170.0,g,Trozos de Atún en Aceite Vegetal,4.8,tottus,TOTTUS,ACEITE VEGETAL ENVASADO
-D Gussto Trozos Atún Aceite Vegetal 140 g,S/ 5,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,140.0,g,D Gussto Trozos Atún Aceite Vegetal,5.0,tottus,D'GUSSTO,ACEITE VEGETAL ENVASADO
-D Gussto Trozos Atún Aceite Vegetal 170 g,S/ 5,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,170.0,g,D Gussto Trozos Atún Aceite Vegetal,5.0,tottus,,ACEITE VEGETAL ENVASADO
-Filete De Bonito Aceite Vegetal 150 g,S/ 5.10,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,150.0,g,Filete De Bonito Aceite Vegetal,5.1,tottus,CAMPOMAR,ACEITE VEGETAL ENVASADO
-Trozos De Atún Aceite Vegetal 140 g,S/ 5.10,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,140.0,g,Trozos De Atún Aceite Vegetal,5.1,tottus,COMPASS,ACEITE VEGETAL ENVASADO
-Trozos De Atún Aceite Vegetal 170Gr,S/ 5.60,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,170.0,g,Trozos De Atún Aceite Vegetal r,5.6,tottus,FRESCOMAR,ACEITE VEGETAL ENVASADO
-Trozos de atún en aceite vegetal de 150 g,S/ 5.60,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,150.0,g,Trozos de atún en aceite vegetal de,5.6,tottus,CAMPOMAR,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Del Cielo Botella x 900 mL,S/ 5.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,900.0,ml,Aceite Vegetal Del Cielo Botella x,5.8,tottus,,ACEITE VEGETAL ENVASADO
-Trozos Atún en Aceite Vegetal y Sal 140g,S/ 5.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,140.0,g,Trozos Atún en Aceite Vegetal y Sal,5.8,tottus,FLORIDA,ACEITE VEGETAL ENVASADO
-Aceite VEGA de Soya Botella 900ml,S/ 5.80 13%,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,ml,Aceite VEGA de Soya Botella,5.8,vega,Vega,ACEITE VEGETAL ENVASADO
-Lomo De Atún En Aceite Vegetal x 150 g,S/ 5.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,150.0,g,Lomo De Atún En Aceite Vegetal x,5.8,tottus,CAMPOMAR,ACEITE VEGETAL ENVASADO
-Filete De Atún En Aceite Vegetal x 150 g,S/ 5.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,150.0,g,Filete De Atún En Aceite Vegetal x,5.8,tottus,CAMPOMAR,ACEITE VEGETAL ENVASADO
-Filete De Atún Aceite Vegetal 170 g,S/ 5.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,170.0,g,Filete De Atún Aceite Vegetal,5.8,tottus,FRESCOMAR,ACEITE VEGETAL ENVASADO
-Aceite Vegetal BELL'S Botella 900ml,S/ 5.80,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,ml,Aceite Vegetal BELL'S Botella,5.8,vivanda,BELL'S,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Máxima 900ml,S/ 5.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Máxima,5.8,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Metro 900ml,S/ 5.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Metro,5.9,metro,,ACEITE VEGETAL ENVASADO
-Trozos de Atún en Aceite Vegetal Florida 150g,S/ 5.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,150.0,g,Trozos de Atún en Aceite Vegetal Florida,5.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Metro 900ml,S/ 5.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Metro,5.9,metro,,ACEITE VEGETAL ENVASADO
-Vegetales Precocidos Green Food Mixtura Italiana 400g,S/ 6.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,400.0,g,Vegetales Precocidos Green Food Mixtura Italiana,6.0,wong,,ACEITE VEGETAL ENVASADO
-Vegetales Precocidos Green Food Mixtura Italiana 400g,S/ 6.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,400.0,g,Vegetales Precocidos Green Food Mixtura Italiana,6.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Soya SOYA Botella 900ml,S/ 6.10,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,ml,Aceite de Soya SOYA Botella,6.1,vivanda,SOYA,ACEITE VEGETAL ENVASADO
-Aceite de Soya SAO Botella 900ml,S/ 6.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,ml,Aceite de Soya SAO Botella,6.5,vivanda,SAO,ACEITE VEGETAL ENVASADO
-Aceite de Soya Sao Botella 900ml,S/ 6.60,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite de Soya Sao Botella,6.6,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Premium 900mL,S/ 6.80,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,900.0,ml,Aceite Vegetal Premium,6.8,tottus,DELEITE,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Deleite Premium 900ml,S/ 6.85,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Deleite Premium,6.85,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Cuisine & Co 900ml,S/ 7.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Cuisine & Co,7.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite 100% Vegetal Premium 900mL,S/ 7.60,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,900.0,ml,Aceite 100% Vegetal Premium,7.6,tottus,ALPA,ACEITE VEGETAL ENVASADO
-Aceite Alpa Premium 900ml,S/ 7.60,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Alpa Premium,7.6,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Girasol Cuisine & Co 900ml,S/ 7.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,900.0,ml,Aceite de Girasol Cuisine & Co,7.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Girasol Cuisine & Co 900ml,S/ 7.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,900.0,ml,Aceite de Girasol Cuisine & Co,7.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite Girasol VALLENORTE Botella 900g,S/ 8.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,g,Aceite Girasol VALLENORTE Botella,8.9,vivanda,VALLENORTE,ACEITE VEGETAL ENVASADO
-Aceite de Soya Costeño 900ml,S/ 9.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite de Soya Costeño,9.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Clásico Botella 900L,S/ 9.10 4%,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,l,Aceite Vegetal PRIMOR Clásico Botella,9.1,vega,Primor,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Alida Chiang Botella 60 ml,S/ 9.20,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,60.0,ml,Aceite de Ajonjolí Alida Chiang Botella,9.2,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Cocinero 900ml,S/ 9.20,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Cocinero,9.2,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Clásico Botella 900ml,S/ 9.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella,9.5,vivanda,PRIMOR,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Primor Clásico Botella 900ml,S/ 9.60,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Primor Clásico Botella,9.6,metro,,ACEITE VEGETAL ENVASADO
-Vegetales Mixtos Valle Fértil Lata 425 g,S/ 10.30,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,425.0,g,Vegetales Mixtos Valle Fértil Lata,10.3,wong,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Premium Botella 900ml,S/ 10.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,900.0,ml,Aceite Vegetal PRIMOR Premium Botella,10.5,vivanda,PRIMOR,ACEITE VEGETAL ENVASADO
-Aceite vegetal Premium de 900 mL,S/ 10.50,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,900.0,ml,Aceite vegetal Premium de,10.5,tottus,PRIMOR,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Primor Premium Botella 900ml,S/ 10.60,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Primor Premium Botella,10.6,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Tostado Q'inti Botella 100 ml,S/ 11.10,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,100.0,ml,Aceite de Ajonjolí Tostado Q'inti Botella,11.1,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Canola Cuisine & Co Botella 1 lt,S/ 11.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Canola Cuisine & Co Botella,11.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Canola Cuisine & Co Botella 1 lt,S/ 11.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Canola Cuisine & Co Botella,11.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite Ajonjoli Olivos Del Sur 100 ml,S/ 12.40,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,100.0,ml,Aceite Ajonjoli Olivos Del Sur,12.4,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí y Soya BARCIDDA Botella 270ml,S/ 12.70,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,270.0,ml,Aceite de Ajonjolí y Soya BARCIDDA Botella,12.7,vivanda,BARCIDDA,ACEITE VEGETAL ENVASADO
-Aceite de Girasol Cuisine & Co 900ml,S/ 12.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite de Girasol Cuisine & Co,12.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Cuisine & Co 200ml,S/ 12.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite de Ajonjolí Cuisine & Co,12.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Girasol BASSO Botella 1L,S/ 12.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de Girasol BASSO Botella,12.9,vivanda,BASSO,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí BELL'S SELECCIÓN Frasco 200ml,S/ 12.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,200.0,ml,Aceite de Ajonjolí BELL'S SELECCIÓN Frasco,12.9,vivanda,BELL'S SELECCIÓN,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Bárcidda 270ml,S/ 12.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,270.0,ml,Aceite de Ajonjolí Bárcidda,12.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Bárcidda 270ml,S/ 13.10,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,270.0,ml,Aceite de Ajonjolí Bárcidda,13.1,wong,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Olivado Huerto Alamein 900ml,S/ 13.40,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Olivado Huerto Alamein,13.4,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Olivos del Sur 200ml,S/ 14.50,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite de Ajonjolí Olivos del Sur,14.5,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí Olivos del Sur 200ml,S/ 14.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Ajonjolí Olivos del Sur,14.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Premium 2L,S/ 14.83,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,2.0,l,Aceite Vegetal Premium,14.83,tottus,DELEITE,ACEITE VEGETAL ENVASADO
-Filete Atún Tripack Aceite Vegetal Lata x 140 g,S/ 15.60,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,140.0,g,Filete Atún Tripack Aceite Vegetal Lata x,15.6,tottus,COMPASS,ACEITE VEGETAL ENVASADO
-Agua Micelar en Aceite Garnier Skin Active 100ml,S/ 16.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,100.0,ml,Agua Micelar en Aceite Garnier Skin Active,16.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Primor Clásico Botella 1.8L,S/ 16.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.8,l,Aceite Vegetal Primor Clásico Botella,16.5,metro,,ACEITE VEGETAL ENVASADO
-Twopack Aceite Vegetal Primor Clásico 900ml,S/ 16.70,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Twopack Aceite Vegetal Primor Clásico,16.7,metro,,ACEITE VEGETAL ENVASADO
-Aceite de ManÍ BASSO Botella 1L,S/ 16.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de ManÍ BASSO Botella,16.9,vivanda,BASSO,ACEITE VEGETAL ENVASADO
-Aceite VEGA de Soya Botella 900ml Pack 3,S/ 17.40 39%,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,ml,Aceite VEGA de Soya Botella  Pack 3,17.4,vega,Vega,ACEITE VEGETAL ENVASADO
-Aceite Corporal para Bebé Johnson's Original 100ml,S/ 17.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,100.0,ml,Aceite Corporal para Bebé Johnson's Original,17.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Botella 200 ml,S/ 17.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva El Olivar Extra Virgen Botella,17.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Clásico Botella 1.8L,S/ 18.20,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.8,l,Aceite Vegetal PRIMOR Clásico Botella,18.2,vivanda,PRIMOR,ACEITE VEGETAL ENVASADO
-Twopack Aceite Vegetal Primor Premium 900ml,S/ 18.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Twopack Aceite Vegetal Primor Premium,18.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Oliva Cuisine & Co 250ml,S/ 18.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite Oliva Cuisine & Co,18.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Cuisine & Co 250ml,S/ 18.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite de Oliva Cuisine & Co,18.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella 200ml,S/ 19.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,200.0,ml,Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella,19.5,vivanda,HUERTO ALAMEIN,ACEITE VEGETAL ENVASADO
-Aceite Oliva Cuisine & Co 250ml,S/ 19.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite Oliva Cuisine & Co,19.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Sabor Suave Botella 200 ml,S/ 20.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva Sabor Suave Botella,20.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite para Bebés Dr Zaidman 200ml,S/ 21.20,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite para Bebés Dr Zaidman,21.2,wong,,ACEITE VEGETAL ENVASADO
-Aceite De Arroz Costeño Botella 900 ml,S/ 21.70,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite De Arroz Costeño Botella,21.7,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Coco BIOSELVA Extra Virgen Frasco 250ml,S/ 21.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Coco BIOSELVA Extra Virgen Frasco,21.9,vivanda,BIOSELVA,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Carbonell Botella 250 ml,S/ 21.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite de Oliva Extra Virgen Carbonell Botella,21.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Carbonell Botella 250 ml,S/ 21.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva Extra Virgen Carbonell Botella,21.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Huerto Alamein 200ml,S/ 22.10,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva Extra Virgen Huerto Alamein,22.1,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Virgen Botella 200 ml,S/ 22.40,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva El Olivar Virgen Botella,22.4,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Extra Virgen Botella Spray 200 ml,S/ 22.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva Filippo Berio Extra Virgen Botella Spray,22.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Puro Botella 250 ml,S/ 22.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite de Oliva La Española Puro Botella,22.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Botella 200 ml,S/ 22.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite de Oliva El Olivar Extra Virgen Botella,22.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Extra Virgen Botella Spray 200 ml,S/ 22.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite de Oliva Filippo Berio Extra Virgen Botella Spray,22.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Puro Botella 250 ml,S/ 22.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva La Española Puro Botella,22.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Tratamiento TONNO Óleo Reparador Argán Frasco 50ml,S/ 23.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,50.0,ml,Aceite de Tratamiento TONNO Óleo Reparador Argán Frasco,23.5,vivanda,TONNO,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Borges Extra Virgen Botella 250 ml,S/ 23.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite de Oliva Borges Extra Virgen Botella,23.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vistony Blindax Oil Gas SAE 20W-50 950ml,S/ 23.70,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,950.0,ml,Aceite Vistony Blindax Oil Gas SAE 20W-50,23.7,metro,,ACEITE VEGETAL ENVASADO
-Aceite Sabor Original Pam Spray 6 Onzas,S/ 24.20,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,6.0,oz,Aceite Sabor Original Pam Spray,24.2,metro,,ACEITE VEGETAL ENVASADO
-Aceite Original Mazola Spray Lata 142 g,S/ 24.50,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,142.0,g,Aceite Original Mazola Spray Lata,24.5,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva VALDEPORRES Extra Virgen Botella 250ml,S/ 24.60,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Oliva VALDEPORRES Extra Virgen Botella,24.6,vivanda,VALDEPORRES,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Virgen Botella 200 ml,S/ 24.65,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva Virgen Botella,24.65,metro,,ACEITE VEGETAL ENVASADO
-Aceite Original Mazola Spray Lata 142 g,S/ 24.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,142.0,g,Aceite Original Mazola Spray Lata,24.8,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva CARBONELL Puro Frasco 200ml,S/ 25.10,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,200.0,ml,Aceite de Oliva CARBONELL Puro Frasco,25.1,vivanda,CARBONELL,ACEITE VEGETAL ENVASADO
-Aceite de Coco Orgánico Peruvian Health Frasco 250 ml,S/ 25.30,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Coco Orgánico Peruvian Health Frasco,25.3,wong,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Primor Premium 900ml + Mayonesa AlaCena 850g,S/ 25.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,900.0,ml,Aceite Vegetal Primor Premium  + Mayonesa AlaCena,25.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Blindax Vistony Alto Kilometraje 25W60 de 1.4g,S/ 25.60,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.4,g,Aceite Blindax Vistony Alto Kilometraje 25W60 de,25.6,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva ACAVILLE Extra Virgen Gourmet Botella 250ml,S/ 25.70,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Oliva ACAVILLE Extra Virgen Gourmet Botella,25.7,vivanda,ACAVILLE,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Extra Virgen Botella 250 ml,S/ 25.70,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva La Española Extra Virgen Botella,25.7,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Carbonell Extra Virgen Spray 200 ml,S/ 25.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Oliva Carbonell Extra Virgen Spray,25.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Carbonell Spray 200 ml,S/ 25.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite de Oliva Carbonell Spray,25.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Sacha Inchi Extra Virgen Qhalikay Botella 250 ml,S/ 26.70,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Sacha Inchi Extra Virgen Qhalikay Botella,26.7,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Coco BELL'S SELECCIÓN Frasco 350ml,S/ 26.80,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,350.0,ml,Aceite de Coco BELL'S SELECCIÓN Frasco,26.8,vivanda,BELL'S SELECCIÓN,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Fat Free Pam Spray 141 g,S/ 26.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,141.0,g,Aceite de Oliva Fat Free Pam Spray,26.9,metro,,ACEITE VEGETAL ENVASADO
-Filete de Atún VEGA en Aceite Vegetal Lata 150g x6u,S/ 27.00 6%,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,150.0,g,Filete de Atún VEGA en Aceite Vegetal Lata  x6u,27.0,vega,Vega,ACEITE VEGETAL ENVASADO
-Aceite Sabor Original Pam Spray 6 Onzas,S/ 27.40,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,6.0,oz,Aceite Sabor Original Pam Spray,27.4,wong,,ACEITE VEGETAL ENVASADO
-Aceite Sacha Inchi Nutriomega Extra Virgen Botella 250 ml,S/ 27.40,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite Sacha Inchi Nutriomega Extra Virgen Botella,27.4,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Extra Virgen 250ml,S/ 27.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite de Oliva Filippo Berio Extra Virgen,27.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite De Oliva En Spray La Española Frasco 200 ml,S/ 27.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite De Oliva En Spray La Española Frasco,27.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Coco Orgánico Cuisine & Co 350ml,S/ 28.10,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,350.0,ml,Aceite de Coco Orgánico Cuisine & Co,28.1,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Coco Gatti Extra Virgen Frasco 200 ml,S/ 28.20,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,200.0,ml,Aceite de Coco Gatti Extra Virgen Frasco,28.2,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva CREMONINI Extra Virgen Botella 250ml,S/ 28.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Oliva CREMONINI Extra Virgen Botella,28.9,vivanda,CREMONINI,ACEITE VEGETAL ENVASADO
-Aceite de Coco Orgánico Cuisine & Co 350ml,S/ 29.20,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,350.0,ml,Aceite de Coco Orgánico Cuisine & Co,29.2,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva con Ajo El Olivar Botella 250ml,S/ 29.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva con Ajo El Olivar Botella,29.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Fat Free Pam Spray 141 g,S/ 30.30,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,141.0,g,Aceite de Oliva Fat Free Pam Spray,30.3,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Mantequilla Fat Free Pam Spray 141 g,S/ 30.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,141.0,g,Aceite de Mantequilla Fat Free Pam Spray,30.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Huerto Alamein 275ml,S/ 30.99,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,275.0,ml,Aceite de Oliva Extra Virgen Huerto Alamein,30.99,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjoli Olivos del Sur 500ml,S/ 31.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Ajonjoli Olivos del Sur,31.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjoli Olivos del Sur 500ml,S/ 31.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Ajonjoli Olivos del Sur,31.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Botella 250ml,S/ 32.70,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva El Olivar Extra Virgen Botella,32.7,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Cártamo OLEICO Botella 710ml,S/ 33.60,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,710.0,ml,Aceite de Cártamo OLEICO Botella,33.6,vivanda,OLEICO,ACEITE VEGETAL ENVASADO
-Aceite De Cartamo Oléico Botella 710 ml,S/ 33.60,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,710.0,ml,Aceite De Cartamo Oléico Botella,33.6,wong,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Clásico Botella 900ml x3u,S/ 34.80,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella  x3u,34.8,vega,Primor,ACEITE VEGETAL ENVASADO
-Pack x6 Trozos Atún Aceite Vegetal Campomar 150g,S/ 34.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,150.0,g,Pack x6 Trozos Atún Aceite Vegetal Campomar,34.8,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal Premium 5L,S/ 35.50,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,5.0,l,Aceite Vegetal Premium,35.5,tottus,DELEITE,ACEITE VEGETAL ENVASADO
-Aceite de Canola Wesson Botella 710 ml,S/ 35.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,710.0,ml,Aceite de Canola Wesson Botella,35.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Cuisine & Co Botella 500 ml,S/ 35.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Cuisine & Co Botella,35.8,metro,,ACEITE VEGETAL ENVASADO
-Filete De Atún En Aceite Vegetal Six Pack x 150g,S/ 35.90,tottus,ACEITE VEGETAL ENVASADO,2024-12-05 11:52:34.523088,150.0,g,Filete De Atún En Aceite Vegetal Six Pack x,35.9,tottus,CAMPOMAR,ACEITE VEGETAL ENVASADO
-Aceite Corporal para Bebé Johnson's Original 300ml,S/ 36.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,300.0,ml,Aceite Corporal para Bebé Johnson's Original,36.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite ALPA Soya Galón 5L,S/ 36.50,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,5.0,l,Aceite ALPA Soya Galón,36.5,vega,ALPA,ACEITE VEGETAL ENVASADO
-Aceite Oliva Cuisine & Co 500ml,S/ 36.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite Oliva Cuisine & Co,36.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Maíz Mazola Original Botella 710 ml,S/ 37.50,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,710.0,ml,Aceite de Maíz Mazola Original Botella,37.5,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Olivos del Sur Extra Virgen 250ml,S/ 37.60,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Oliva Olivos del Sur Extra Virgen,37.6,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Palta Virgen 250ml,S/ 37.70,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Palta Virgen,37.7,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen 500ml,S/ 37.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva El Olivar Extra Virgen,37.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Coco Virgen Mi Tierra Frasco 350 gr,S/ 37.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,350.0,g,Aceite de Coco Virgen Mi Tierra Frasco r,37.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella 500ml,S/ 38.00,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,500.0,ml,Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella,38.0,vivanda,HUERTO ALAMEIN,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Cuisine & Co 500ml,S/ 38.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Extra Virgen Cuisine & Co,38.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Ajonjolí OLIVOS DEL SUR Botella 500ml,S/ 38.60,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,500.0,ml,Aceite de Ajonjolí OLIVOS DEL SUR Botella,38.6,vivanda,OLIVOS DEL SUR,ACEITE VEGETAL ENVASADO
-Aceite Vegetal WESSON Canola Botella 1.18L,S/ 38.70,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.18,l,Aceite Vegetal WESSON Canola Botella,38.7,vivanda,WESSON,ACEITE VEGETAL ENVASADO
-Aceite de Canola Wesson 1.18L,S/ 38.70,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.18,l,Aceite de Canola Wesson,38.7,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Puro Botella 500 ml,S/ 38.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva La Española Puro Botella,38.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Cuisine & Co 500ml,S/ 39.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Extra Virgen Cuisine & Co,39.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Puro Botella 500 ml,S/ 39.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Filippo Berio Puro Botella,39.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Borges Extra Virgen Botella 500 ml,S/ 39.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Borges Extra Virgen Botella,39.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Girasol Monteagle 3L,S/ 39.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,3.0,l,Aceite de Girasol Monteagle,39.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Borges Extra Virgen Botella 500 ml,S/ 39.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Borges Extra Virgen Botella,39.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Extra Virgen 500ml,S/ 39.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Filippo Berio Extra Virgen,39.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Puro Botella 500 ml,S/ 39.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Filippo Berio Puro Botella,39.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Extra Virgen 500ml,S/ 39.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Filippo Berio Extra Virgen,39.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Cártamo OLEICO Botella 946ml,S/ 41.60,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,946.0,ml,Aceite de Cártamo OLEICO Botella,41.6,vivanda,OLEICO,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Puro Huerto Alamein 500ml,S/ 41.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Puro Huerto Alamein,41.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Extra Virgen 500ml,S/ 42.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva La Española Extra Virgen,42.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva VALDEPORRES Extra Virgen Botella 500ml,S/ 42.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,500.0,ml,Aceite de Oliva VALDEPORRES Extra Virgen Botella,42.5,vivanda,VALDEPORRES,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Extra Virgen 500ml,S/ 42.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva La Española Extra Virgen,42.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite Oleico de Carmano 946ml,S/ 42.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,946.0,ml,Aceite Oleico de Carmano,42.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Huerto Alamein 500ml,S/ 43.10,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Extra Virgen Huerto Alamein,43.1,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Suave Botella 500 ml,S/ 44.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva El Olivar Suave Botella,44.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Puro Botella 500 ml,S/ 44.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva El Olivar Puro Botella,44.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva CARBONELL Sabor Afrutado Intenso Botella 500ml,S/ 44.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,500.0,ml,Aceite de Oliva CARBONELL Sabor Afrutado Intenso Botella,44.9,vivanda,CARBONELL,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Puro Botella 500 ml,S/ 45.30,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva El Olivar Puro Botella,45.3,wong,,ACEITE VEGETAL ENVASADO
-Aceite Oliva Extra Virgen Borges Botella 1 Litro,S/ 45.60,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite Oliva Extra Virgen Borges Botella itro,45.6,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Orgánico Borges Botella 500 ml,S/ 45.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Extra Virgen Orgánico Borges Botella,45.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Carbonell Botella 500 ml,S/ 46.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Extra Virgen Carbonell Botella,46.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Capilar Hask Argan Oil 59ml,S/ 46.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,59.0,ml,Aceite Capilar Hask Argan Oil,46.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva OLIVOS DEL SUR Extra Virgen Botella 500ml,S/ 46.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,500.0,ml,Aceite de Oliva OLIVOS DEL SUR Extra Virgen Botella,46.9,vivanda,OLIVOS DEL SUR,ACEITE VEGETAL ENVASADO
-Aceite ELVIVE Óleo Extraordinario Frasco 100ml,S/ 48.00,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,100.0,ml,Aceite ELVIVE Óleo Extraordinario Frasco,48.0,vivanda,ELVIVE,ACEITE VEGETAL ENVASADO
-Aceite de Palta Sabor a Ajo OLIVOS DEL SUR Botella 250ml,S/ 48.40,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Palta Sabor a Ajo OLIVOS DEL SUR Botella,48.4,vivanda,OLIVOS DEL SUR,ACEITE VEGETAL ENVASADO
-Aceite de Palta Sabor a Albahaca OLIVOS DEL SUR Botella 250ml,S/ 48.40,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,250.0,ml,Aceite de Palta Sabor a Albahaca OLIVOS DEL SUR Botella,48.4,vivanda,OLIVOS DEL SUR,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Finca Rotondo Extra Virgen 500ml,S/ 49.00,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Finca Rotondo Extra Virgen,49.0,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Huerto Extra Virgen Alamein Premium 500ml,S/ 49.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva Huerto Extra Virgen Alamein Premium,49.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite Bronceador en Spray Hawaiian Tropic Tanning FPS4 240ml,S/ 49.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,240.0,ml,Aceite Bronceador en Spray Hawaiian Tropic Tanning FPS4,49.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Palta con Ajos Olivos del Sur 250ml,S/ 49.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Palta con Ajos Olivos del Sur,49.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Palta con Albahaca Olivos del Sur 250ml,S/ 49.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Palta con Albahaca Olivos del Sur,49.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite Bronceador en Spray Hawaiian Tropic Tanning FPS4 240ml,S/ 49.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,240.0,ml,Aceite Bronceador en Spray Hawaiian Tropic Tanning FPS4,49.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Palta Virgen Olivos del Sur 250ml,S/ 49.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,250.0,ml,Aceite de Palta Virgen Olivos del Sur,49.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Puro Botella 500 ml,S/ 50.30,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva Puro Botella,50.3,metro,,ACEITE VEGETAL ENVASADO
-Aceite Sacha Inchi Extra Virgen Huerto Alamein Botella 250 ml,S/ 51.30,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,250.0,ml,Aceite Sacha Inchi Extra Virgen Huerto Alamein Botella,51.3,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Intenso 500ml,S/ 53.30,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite de Oliva El Olivar Extra Virgen Intenso,53.3,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Intenso 500ml,S/ 53.40,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,500.0,ml,Aceite de Oliva El Olivar Extra Virgen Intenso,53.4,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Cuisine & Co Botella 1 Lt,S/ 54.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva Cuisine & Co Botella t,54.8,metro,,ACEITE VEGETAL ENVASADO
-Aceite Primor Botella 5 Litros,S/ 54.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,5.0,l,Aceite Primor Botella itros,54.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Maíz Mazola Original Botella 1.18 lt,S/ 55.40,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.18,l,Aceite de Maíz Mazola Original Botella,55.4,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Cuisine & Co Botella 1 Lt,S/ 55.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva Cuisine & Co Botella t,55.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Cuisine & Co 1L,S/ 55.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva Cuisine & Co,55.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Filippo Berio 750ml,S/ 59.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,750.0,ml,Aceite de Oliva Extra Virgen Filippo Berio,59.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Puro Botella 1 L,S/ 64.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva La Española Puro Botella,64.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Cuisine & Co 1L,S/ 65.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva Extra Virgen Cuisine & Co,65.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva BELL'S Extra Virgen Botella 1L,S/ 65.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de Oliva BELL'S Extra Virgen Botella,65.9,vivanda,BELL'S,ACEITE VEGETAL ENVASADO
-Aceite de Oliva VALDEPORRES Extra Virgen Botella 1L,S/ 66.40,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de Oliva VALDEPORRES Extra Virgen Botella,66.4,vivanda,VALDEPORRES,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen 1L,S/ 66.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva El Olivar Extra Virgen,66.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva EL OLIVAR Extra Virgen Botella 1L,S/ 66.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de Oliva EL OLIVAR Extra Virgen Botella,66.9,vivanda,EL OLIVAR,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Cuisine & Co 1L,S/ 66.90,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva Extra Virgen Cuisine & Co,66.9,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Filippo Berio Puro Botella 1 L,S/ 67.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva Filippo Berio Puro Botella,67.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite Vegetal PRIMOR Clásico Botella 900ml x6u,S/ 69.60,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,ml,Aceite Vegetal PRIMOR Clásico Botella  x6u,69.6,vega,Primor,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Extra Virgen Botella 1 L,S/ 72.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva La Española Extra Virgen Botella,72.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva La Española Extra Virgen Botella 1 L,S/ 73.90,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva La Española Extra Virgen Botella,73.9,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Puro Botella 1 L,S/ 77.80,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva El Olivar Puro Botella,77.8,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Masajes para Bebe Mustela 100ml,S/ 82.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,100.0,ml,Aceite de Masajes para Bebe Mustela,82.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Santolivo Extra Virgen 1L,S/ 83.20,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva Santolivo Extra Virgen,83.2,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Clásico Carbonell Botella 1 Lt,S/ 84.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva Clásico Carbonell Botella t,84.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite para Bebé Caléndula Weleda Frasco 200 ml,S/ 85.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,200.0,ml,Aceite para Bebé Caléndula Weleda Frasco,85.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Olivos del Sur Extra Virgen Botella 1 L,S/ 85.50,metro,ACEITE VEGETAL ENVASADO,2024-12-05 15:51:25.925663,1.0,l,Aceite de Oliva Olivos del Sur Extra Virgen Botella,85.5,metro,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva CARBONELL Extra Virgen Botella 1L,S/ 89.50,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,1.0,l,Aceite de Oliva CARBONELL Extra Virgen Botella,89.5,vivanda,CARBONELL,ACEITE VEGETAL ENVASADO
-Aceite de Oliva El Olivar Extra Virgen Intenso Botella 1 L,S/ 97.50,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Oliva El Olivar Extra Virgen Intenso Botella,97.5,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva BELL'S Extra Virgen Botella 2L,S/ 102.90,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,2.0,l,Aceite de Oliva BELL'S Extra Virgen Botella,102.9,vivanda,BELL'S,ACEITE VEGETAL ENVASADO
-Aceite VEGA Botella 900ml Caja 12 und,S/ 110.40,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,900.0,ml,Aceite VEGA Botella  Caja d,110.4,vega,Vega,ACEITE VEGETAL ENVASADO
-Aceite Relajante Lavanda Weleda Frasco 100 ml,S/ 119.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,100.0,ml,Aceite Relajante Lavanda Weleda Frasco,119.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Ducha Bioderma Atoderm 1L,S/ 131.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,1.0,l,Aceite de Ducha Bioderma Atoderm,131.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella 2L,S/ 154.00,vivanda,ACEITE VEGETAL ENVASADO,2024-12-05 21:57:06.369987,2.0,l,Aceite de Oliva HUERTO ALAMEIN Extra Virgen Botella,154.0,vivanda,HUERTO ALAMEIN,ACEITE VEGETAL ENVASADO
-Aceite FRIOL Soya Balde 18L,S/ 155.00,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,18.0,l,Aceite FRIOL Soya Balde,155.0,vega,FRIOL,ACEITE VEGETAL ENVASADO
-Aceite de Oliva Extra Virgen Huerto Alamein 2L,S/ 158.80,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,2.0,l,Aceite de Oliva Extra Virgen Huerto Alamein,158.8,wong,,ACEITE VEGETAL ENVASADO
-Aceite Lavante Mustela Stelatopia 500ml,S/ 161.00,wong,ACEITE VEGETAL ENVASADO,2024-12-05 18:25:04.371161,500.0,ml,Aceite Lavante Mustela Stelatopia,161.0,wong,,ACEITE VEGETAL ENVASADO
-Aceite VEGA Soya Balde 18L,S/ 174.40,vega,ACEITE VEGETAL ENVASADO,2024-12-05 12:28:47.117979,18.0,l,Aceite VEGA Soya Balde,174.4,vega,Vega,ACEITE VEGETAL ENVASADO
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Aceite Vegetal Del Cielo Botella x 900 mL,,900.0,ml,5.8,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,6.444444444444445,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Máxima 900ml,,900.0,ml,5.8,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,6.444444444444445,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Máxima 900ml,,900.0,ml,5.8,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,6.444444444444445,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Metro 900ml,,900.0,ml,5.9,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,6.555555555555556,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Metro 900ml,,900.0,ml,5.9,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,6.555555555555556,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Premium 900mL,DELEITE,900.0,ml,6.8,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,7.555555555555555,ACEITE VEGETAL ENVASADO
+Aceite 100% Vegetal Premium 900mL,ALPA,900.0,ml,7.6,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,8.444444444444445,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Cuisine & Co 900ml,,900.0,ml,8.9,wong,2024-12-05 18:25:04.371161,ACEITE VEGETAL ENVASADO,1.0,l,9.88888888888889,ACEITE VEGETAL ENVASADO
+Aceite Vegetal PRIMOR Clásico Botella 900ml,PRIMOR,900.0,ml,9.5,vivanda,2024-12-05 21:57:06.369987,ACEITE VEGETAL ENVASADO,1.0,l,10.555555555555555,ACEITE VEGETAL ENVASADO
+Aceite vegetal de 900 mL,PRIMOR,900.0,ml,9.5,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,10.555555555555555,ACEITE VEGETAL ENVASADO
+Aceite Vegetal PRIMOR Premium Botella 900L,Primor,900.0,l,9.5,vega,2024-12-05 12:28:47.117979,ACEITE VEGETAL ENVASADO,1.0,l,0.010555555555555556,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Clásico Botella 900ml,,900.0,ml,9.6,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,10.666666666666666,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Clásico Botella 900ml,,900.0,ml,9.8,wong,2024-12-05 18:25:04.371161,ACEITE VEGETAL ENVASADO,1.0,l,10.88888888888889,ACEITE VEGETAL ENVASADO
+Aceite vegetal Premium de 900 mL,PRIMOR,900.0,ml,10.5,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,11.666666666666668,ACEITE VEGETAL ENVASADO
+Aceite Vegetal PRIMOR Premium Botella 900ml,PRIMOR,900.0,ml,10.5,vivanda,2024-12-05 21:57:06.369987,ACEITE VEGETAL ENVASADO,1.0,l,11.666666666666668,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Premium Botella 900ml,,900.0,ml,10.6,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,11.777777777777779,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Clásico Botella 1.8L,,1.8,l,16.5,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,9.166666666666668,ACEITE VEGETAL ENVASADO
+Twopack Aceite Vegetal Primor Clásico 900ml,,900.0,ml,16.7,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,18.555555555555557,ACEITE VEGETAL ENVASADO
+Aceite Vegetal PRIMOR Clásico Botella 900L x2u,Primor,900.0,l,18.2,vega,2024-12-05 12:28:47.117979,ACEITE VEGETAL ENVASADO,1.0,l,0.02022222222222222,ACEITE VEGETAL ENVASADO
+Twopack Aceite Vegetal Primor Premium 900ml,,900.0,ml,18.5,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,20.555555555555557,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Premium 900ml + Mayonesa AlaCena 850g,,900.0,ml,25.5,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,28.333333333333336,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Primor Premium 900ml + Mayonesa AlaCena 850g,,900.0,ml,25.5,wong,2024-12-05 18:25:04.371161,ACEITE VEGETAL ENVASADO,1.0,l,28.333333333333336,ACEITE VEGETAL ENVASADO
+Aceite Vegetal de Soya Máxima 5L,,5.0,l,31.9,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,6.38,ACEITE VEGETAL ENVASADO
+Aceite Vegetal 5L,TOTTUS,5.0,l,32.9,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,6.58,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Premium 5L,DELEITE,5.0,l,35.5,tottus,2024-12-05 11:52:34.523088,ACEITE VEGETAL ENVASADO,1.0,l,7.1000000000000005,ACEITE VEGETAL ENVASADO
+Aceite Vegetal WESSON Canola Botella 1.18L,WESSON,1.18,l,38.7,vivanda,2024-12-05 21:57:06.369987,ACEITE VEGETAL ENVASADO,1.0,l,32.79661016949153,ACEITE VEGETAL ENVASADO
+Aceite Vegetal Cocinero Botella 5 Litros,,5.0,l,54.5,metro,2024-12-05 15:51:25.925663,ACEITE VEGETAL ENVASADO,1.0,l,10.9,ACEITE VEGETAL ENVASADO
+Aceite Vegetal PRIMOR Clásico Botella 900ml x6u,Primor,900.0,ml,69.6,vega,2024-12-05 12:28:47.117979,ACEITE VEGETAL ENVASADO,1.0,l,77.33333333333333,ACEITE VEGETAL ENVASADO

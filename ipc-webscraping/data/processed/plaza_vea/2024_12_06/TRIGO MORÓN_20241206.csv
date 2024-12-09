@@ -1,0 +1,101 @@
+unit,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
+Presentación 0.3 kg aprox.,Pimiento Morrón,S/ 6.29 x kg,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,0.3,kg,Pimiento Morrón,6.29
+Bolsa 500g,Trigo Mote BELL'S Bolsa 500g,S/ 3.40 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,500.0,g,Trigo Mote BELL'S Bolsa,3.4
+Paquete 6un,Cerveza CUSQUEÑA Trigo Botella 310ml Paquete 6...,S/ 19.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,6.0,un,Cerveza CUSQUEÑA Trigo Botella  Paquete 6,19.9
+Bolsa 1kg,Harina de Trigo Preparada BLANCA FLOR Bolsa 1K...,S/ 8.49 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina de Trigo Preparada BLANCA FLOR Bolsa 1K,8.49
+Bolsa 1kg,Harina BELL'S De trigo preparada Bolsa 1Kg,S/ 6.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina BELL'S De trigo preparada Bolsa,6.9
+Paquete 10un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 7.20 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,10.0,un,Pan Árabe Integral EL CEDRO con Salvado de Tri,7.2
+Bolsa 1kg,Harina de Trigo sin Preparar BELL'S Bolsa 1Kg,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina de Trigo sin Preparar BELL'S Bolsa,4.29
+Bolsa 180g,Sémola de Trigo Duro BELL'S Bolsa 180g,S/ 1.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,180.0,g,Sémola de Trigo Duro BELL'S Bolsa,1.09
+Bolsa 500g,Trigo TESORO DEL CAMPO Bolsa 500g,S/ 3.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,500.0,g,Trigo TESORO DEL CAMPO Bolsa,3.7
+Bolsa 140g,Cereal de Trigo con Miel VITA PLUSS Bolsa 140g,S/ 3.60 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,140.0,g,Cereal de Trigo con Miel VITA PLUSS Bolsa,3.6
+Bolsa 560g,Pan de Molde DON MAMINO con Salvado de Trigo B...,S/ 13.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,560.0,g,Pan de Molde DON MAMINO con Salvado de Trigo B,13.5
+Bolsa 500g,Trigo Mote COSTEÑO Bolsa 500g,S/ 4.40 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,500.0,g,Trigo Mote COSTEÑO Bolsa,4.4
+Bolsa 380g,Cereal ANGEL Capas de trigo con chocolate Bols...,S/ 11.60 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,380.0,g,Cereal ANGEL Capas de trigo con chocolate Bols,11.6
+Bolsa 125g,Trigo Atómico Original FORTE GOLPE con Miel Bo...,S/ 4.20 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Trigo Atómico Original FORTE GOLPE con Miel Bo,4.2
+Pote 1Kg,Yogurt Griego TIGO Natural Sin Azúcar Pote 1Kg,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego TIGO Natural Sin Azúcar Pote,15.29
+Bolsa 1kg,Harina de Trigo NICOLINI Preparada Bolsa 1Kg,S/ 6.99 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina de Trigo NICOLINI Preparada Bolsa,6.99
+Pote 1Kg,Yogurt Griego TIGO Natural Descremado Pote 1Kg,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego TIGO Natural Descremado Pote,15.29
+Bolsa 1kg,Harina de Trigo sin Preparar MOLITALIA sin Pre...,S/ 6.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina de Trigo sin Preparar MOLITALIA sin Pre,6.5
+Pote 1Kg,Yogurt Griego TIGO Frutos Rojos Pote 1kg,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego TIGO Frutos Rojos Pote,15.29
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,350.0,g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa,15.7
+Bolsa 100g,Trigo Light CEREALES ATOMICO de Soya Bolsa 100...,S/ 3.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,100.0,g,Trigo Light CEREALES ATOMICO de Soya Bolsa 100,3.5
+Pote 1Kg,Yogurt Griego TIGO de Arándano & Chía Pote 1Kg,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego TIGO de Arándano & Chía Pote,15.29
+Bolsa 125g,Trigo Atómico FORTE GOLPE Dorado con Maca Bols...,S/ 3.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Trigo Atómico FORTE GOLPE Dorado con Maca Bols,3.5
+Bolsa 840g,Cereal ANGEL Aritos de Maíz Trigo y Miel Bolsa...,S/ 21.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,840.0,g,Cereal ANGEL Aritos de Maíz Trigo y Miel Bolsa,21.9
+Bolsa 200g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 9 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,200.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,9.0
+Bolsa 840g,Cereal ÁNGEL Trigo y Avena Frutas Doypack 840g,S/ 21.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,840.0,g,Cereal ÁNGEL Trigo y Avena Frutas Doypack,21.9
+Bolsa 1kg,Harina de Trigo NICOLINI Sin Preparar Bolsa 1K...,S/ 6.10 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Harina de Trigo NICOLINI Sin Preparar Bolsa 1K,6.1
+Bolsa 12un,Tortilla de Trigo BELL'S Bolsa 12un,S/ 7.20 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,12.0,un,Tortilla de Trigo BELL'S Bolsa,7.2
+Galonera 1.6Kg,Yogurt Griego Bebible TIGO Sabor Arándano y Ch...,S/ 17.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.6,kg,Yogurt Griego Bebible TIGO Sabor Arándano y Ch,17.9
+Bolsa 8un,Tortilla de Trigo TÍA ROSA Burrera Bolsa 8un,S/ 12.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,8.0,un,Tortilla de Trigo TÍA ROSA Burrera Bolsa,12.9
+Bolsa 5un,Pan Árabe Integral EL CEDRO con Salvado de Tri...,S/ 4 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,5.0,un,Pan Árabe Integral EL CEDRO con Salvado de Tri,4.0
+Paquete 6un,Cerveza CUSQUEÑA Trigo 6 Pack Lata 355ml,S/ 25.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,6.0,un,Cerveza CUSQUEÑA Trigo 6 Pack Lata,25.9
+Bolsa 350g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,350.0,g,Cereal ÁNGEL Trigo Integral de Avena y Maíz Sa,15.7
+Bolsa 420g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,420.0,g,Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa,15.7
+Bolsa 260g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 11 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,260.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,11.0
+Doypack 400g,Salvatrigo GRANO DE ORO Salvado de Trigo Doypa...,S/ 6.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,400.0,g,Salvatrigo GRANO DE ORO Salvado de Trigo Doypa,6.7
+Doypack 140g,Yogurt Bebible TIGO Fresa Doypack 140g,S/ 3.49 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,140.0,g,Yogurt Bebible TIGO Fresa Doypack,3.49
+Caja 350g,Cereal Infantil NESTUM Trigo Quinua y otros 6 ...,S/ 17.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,350.0,g,Cereal Infantil NESTUM Trigo Quinua y otros 6,17.5
+Paquete 10un,Tortillas EL TACO Trigo Bolsa 10Un,S/ 9.60 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,10.0,un,Tortillas EL TACO Trigo Bolsa,9.6
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,420.0,g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Frutas,15.7
+Paquete 10un,Tortillas de Súper Trigo EL TACO Bolsa 10un,S/ 11.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,10.0,un,Tortillas de Súper Trigo EL TACO Bolsa,11.5
+Pote 500g,Yogurt Griego TIGO Sabor Natural sin Azúcar Po...,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,500.0,g,Yogurt Griego TIGO Sabor Natural sin Azúcar Po,9.9
+Galonera 1.6Kg,Yogurt Griego Bebible TIGO Fresa Galonera 1.6K,S/ 17.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.6,kg,Yogurt Griego Bebible TIGO Fresa Galonera 1.6K,17.9
+Bolsa 400g,Trigo Acaramelado BELL'S Bolsa 400g,S/ 9.20 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,400.0,g,Trigo Acaramelado BELL'S Bolsa,9.2
+Vaso 125g,Yogurt TIGO Mix Vainilla con Galletas Triturad...,S/ 2.80 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Yogurt TIGO Mix Vainilla con Galletas Triturad,2.8
+Pote 1Kg,Yogurt Griego Descremado TIGO Sabor Aguaymanto...,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego Descremado TIGO Sabor Aguaymanto,15.29
+Vaso 160g,Yogurt TIGO Premium Estilo Griego Light Fresa ...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Estilo Griego Light Fresa,4.29
+Pote 1Kg,Yogurt Griego Parcialmente Descremado TIGO Sab...,S/ 15.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.0,kg,Yogurt Griego Parcialmente Descremado TIGO Sab,15.29
+Bolsa 400g,Cereal COSECHA DEL PARAISO Salvado de trigo Bo...,S/ 11.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,400.0,g,Cereal COSECHA DEL PARAISO Salvado de trigo Bo,11.9
+Vaso 160g,Yogurt TIGO Premium Natural con Sirope de Chan...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Natural con Sirope de Chan,5.09
+Bolsa 260g,Tortilla de Trigo TÍA ROSA Bolsa 260g,S/ 11 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,260.0,g,Tortilla de Trigo TÍA ROSA Bolsa,11.0
+Bolsa 420g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Chocol...,S/ 15.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,420.0,g,Cereal ÁNGEL Maíz Trigo y Avena Sabor a Chocol,15.7
+Bolsa 55g,"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa ...",S/ 2.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,55.0,g,"Snack de Papa, Maíz y Trigo PIQUEO SNAX Bolsa",2.5
+Caja 350g,Cereal Infatil NESTUM Trigo Miel Caja 350g,S/ 17.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,350.0,g,Cereal Infatil NESTUM Trigo Miel Caja,17.5
+Bolsa 50g,Piqueo BELL'S Chicharrón de Trigo Salado Bolsa...,S/ 2.20 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,50.0,g,Piqueo BELL'S Chicharrón de Trigo Salado Bolsa,2.2
+Bolsa 25g,Cereal VITA PLUSS Trigo con Miel Bolsa 25g,S/ 0.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,25.0,g,Cereal VITA PLUSS Trigo con Miel Bolsa,0.9
+Pote 180g,Yogurt Griego TIGO Sensaciones con Fudge de Ca...,S/ 3.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,180.0,g,Yogurt Griego TIGO Sensaciones con Fudge de Ca,3.9
+Vaso 125g,Yogurt TIGO Mix Vainilla con Grageas de Chocol...,S/ 3.40 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Yogurt TIGO Mix Vainilla con Grageas de Chocol,3.4
+Bolsa 5un,Tortilla de Trigo TÍA ROSA Bolsa 5un,S/ 12.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,5.0,un,Tortilla de Trigo TÍA ROSA Bolsa,12.5
+Pote 750g,Yogurt Griego Natural Descremado TIGO Pote 750...,S/ 12.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,750.0,g,Yogurt Griego Natural Descremado TIGO Pote 750,12.9
+Vaso 155g,Yogurt TIGO Parfait Natural con Fresas y Grano...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,155.0,g,Yogurt TIGO Parfait Natural con Fresas y Grano,5.09
+Vaso 160g,Yogurt TIGO Premium Natural con Miel de Abeja ...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Natural con Miel de Abeja,5.09
+Vaso 125g,Yogurt TIGO Mix Bolitas de Chocolate Vaso 125g,S/ 2.80 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Yogurt TIGO Mix Bolitas de Chocolate Vaso,2.8
+Paquete 6un,Cerveza CUSQUEÑA Trigo Lata 473ml Paquete 6un,S/ 34.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,6.0,un,Cerveza CUSQUEÑA Trigo Lata  Paquete,34.9
+Doypack 140g,Yogurt Bebible TIGO Vainilla Doypack 140g,S/ 3.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,140.0,g,Yogurt Bebible TIGO Vainilla Doypack,3.9
+Vaso 160g,Yogurt TIGO Premium Estilo Griego Light Natura...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Estilo Griego Light Natura,4.29
+Vaso 175g,Yogurt Griego TIGO Arándano con Chía y Granola...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,175.0,g,Yogurt Griego TIGO Arándano con Chía y Granola,5.09
+Doypack 140g,Yogurt Bebible TIGO Durazno Doypack 140g,S/ 3.49 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,140.0,g,Yogurt Bebible TIGO Durazno Doypack,3.49
+Vaso 160g,Yogurt TIGO Premium Natural con Algarrobina Va...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Natural con Algarrobina Va,5.09
+Pote 750g,Yogurt Griego TIGO Arándano y Chía Pote 750g,S/ 12.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,750.0,g,Yogurt Griego TIGO Arándano y Chía Pote,12.9
+Galonera 1.6Kg,Yogurt Griego Bebible TIGO Vainilla y Canela G...,S/ 17.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,1.6,kg,Yogurt Griego Bebible TIGO Vainilla y Canela G,17.9
+Vaso 160g,Yogurt TIGO Premium Estilo Griego Natural Vaso...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Estilo Griego Natural Vaso,4.29
+Botella 285g,Yogurt Griego TIGO Fresa Botella 285g,S/ 4.10 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,285.0,g,Yogurt Griego TIGO Fresa Botella,4.1
+Doypack 250g,Salvado de Trigo con Harina de Linaza GRANO DE...,S/ 8.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,250.0,g,Salvado de Trigo con Harina de Linaza GRANO DE,8.9
+Botella 285g,Yogurt Griego TIGO Arándanos con Chía Botella ...,S/ 4.10 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,285.0,g,Yogurt Griego TIGO Arándanos con Chía Botella,4.1
+Bolsa 105g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...,S/ 5.10 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,105.0,g,Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa,5.1
+Frasco 360g,Conserva VALLE FERTIL Pimiento morrón Frasco 3...,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,360.0,g,Conserva VALLE FERTIL Pimiento morrón Frasco 3,9.9
+Bolsa 20g,Trigo Acaramelado BELL'S Bolsa 20g,S/ 0.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,20.0,g,Trigo Acaramelado BELL'S Bolsa,0.5
+Vaso 155g,Yogurt TIGO Parfait Natural con Albaricoque Du...,S/ 5.09 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,155.0,g,Yogurt TIGO Parfait Natural con Albaricoque Du,5.09
+Pote 180g,Yogurt Griego TIGO Sensaciones con Fudge de Ca...,S/ 3.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,180.0,g,Yogurt Griego TIGO Sensaciones con Fudge de Ca,3.9
+Pote 150g,Yogurt Griego TIGO Straal Sabor Natural Pote 1...,S/ 5.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,150.0,g,Yogurt Griego TIGO Straal Sabor Natural Pote 1,5.9
+Bolsa 120g,Trigo Rico BELL'S Acaramelado Bolsa 120g,S/ 3.30 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,120.0,g,Trigo Rico BELL'S Acaramelado Bolsa,3.3
+Pack 3un,Pack Cerveza CUSQUEÑA Trigo 6 Pack Lata 355ml ...,S/ 80.88 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,3.0,un,Pack Cerveza CUSQUEÑA Trigo 6 Pack Lata,80.88
+Pote 160g,Yogurt Griego TIGO Arándano con Chía Pote 160g,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt Griego TIGO Arándano con Chía Pote,4.29
+Vaso 125g,Yogurt TIGO Mix Vainilla con Cereal Azucarado ...,S/ 2.80 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,125.0,g,Yogurt TIGO Mix Vainilla con Cereal Azucarado,2.8
+Bolsa 850g,Cereal SALVAMIX Harina Linaza Salvado de Trigo...,S/ 22.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,850.0,g,Cereal SALVAMIX Harina Linaza Salvado de Trigo,22.5
+Pote 680g,Yogurt Griego TIGO Straal Sabor Natural Pote 6...,S/ 18.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,680.0,g,Yogurt Griego TIGO Straal Sabor Natural Pote 6,18.9
+Pote 180g,Yogurt Griego TIGO Sensaciones con Fudge de Ch...,S/ 3.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,180.0,g,Yogurt Griego TIGO Sensaciones con Fudge de Ch,3.9
+Vaso 160g,Yogurt TIGO Premium Estilo Griego Durazno Vaso...,S/ 4.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,160.0,g,Yogurt TIGO Premium Estilo Griego Durazno Vaso,4.29
+Pote 150g,Yogurt Griego TIGO Straal Sabor a Fresa y Chía...,S/ 5.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,150.0,g,Yogurt Griego TIGO Straal Sabor a Fresa y Chía,5.9
+Pote 500g,Yogurt Griego TIGO Sabor Natural Pote 500g,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,500.0,g,Yogurt Griego TIGO Sabor Natural Pote,9.9
+Botella 800g,Yogurt Bebible Griego TIGO Arándano y Chía Bot...,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,800.0,g,Yogurt Bebible Griego TIGO Arándano y Chía Bot,9.9
+Botella 800g,Yogurt Bebible Griego TIGO Fresa Botella 800g,S/ 9.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,800.0,g,Yogurt Bebible Griego TIGO Fresa Botella,9.9
+Paquete 2un,Cereal BIO MACA Bio Maca y Trigo Light Paquete...,S/ 5.29 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,2.0,un,Cereal BIO MACA Bio Maca y Trigo Light Paquete,5.29
+Bolsa 130g,Galletas Integrales LIGERITAS Salvado de Trigo...,S/ 9.70 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,130.0,g,Galletas Integrales LIGERITAS Salvado de Trigo,9.7
+Paquete 70g,Galletas Integrales FIBRA LIGHT de Salvado de ...,S/ 2.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,70.0,g,Galletas Integrales FIBRA LIGHT de Salvado de,2.9
+Bolsa 200g,Palitos de Harina de Trigo BELL'S Bolsa 200g,S/ 10.50 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,200.0,g,Palitos de Harina de Trigo BELL'S Bolsa,10.5
+Pote 350g,Salvado de Trigo GRANO DE ORO Pote 350g,S/ 11.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,350.0,g,Salvado de Trigo GRANO DE ORO Pote,11.9
+Botella 330ml,Cerveza PAULANER Trigo 4 Pack Botella 330ml,S/ 37.90 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,330.0,ml,Cerveza PAULANER Trigo 4 Pack Botella,37.9
+Bandeja 200g,Germinados de Trigo AGE SPROUTS Bandeja 200g,S/ 15.99 un,plaza_vea,TRIGO MORÓN,2024-12-06 13:08:03.592156,200.0,g,Germinados de Trigo AGE SPROUTS Bandeja,15.99

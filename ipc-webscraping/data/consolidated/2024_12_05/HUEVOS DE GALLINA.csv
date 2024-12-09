@@ -1,5 +1,5 @@
-description,brand,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric,WEB,CLASIFICACION
-Huevos de Gallina BELL'S Pardos Bandeja 15un,BELL'S,S/ 10.99,vivanda,HUEVOS DE GALLINA,2024-12-05 21:56:48.690496,15.0,un,Huevos de Gallina BELL'S Pardos Bandeja,10.99,vivanda,HUEVOS DE GALLINA
-Huevos de Gallina LA CALERA Pardos Jumbo Bandeja 15un,LA CALERA,S/ 12.90,vivanda,HUEVOS DE GALLINA,2024-12-05 21:56:48.690496,15.0,un,Huevos de Gallina LA CALERA Pardos Jumbo Bandeja,12.9,vivanda,HUEVOS DE GALLINA
-Huevos de Gallina LA CALERA de Corral Bandeja 12un,LA CALERA,S/ 14.50,vivanda,HUEVOS DE GALLINA,2024-12-05 21:56:48.690496,12.0,un,Huevos de Gallina LA CALERA de Corral Bandeja,14.5,vivanda,HUEVOS DE GALLINA
-Huevos Pardos GALLINAS LIBRES Bandeja 12un,GALLINAS LIBRES,S/ 15.90,vivanda,HUEVOS DE GALLINA,2024-12-05 21:56:48.690496,12.0,un,Huevos Pardos GALLINAS LIBRES Bandeja,15.9,vivanda,HUEVOS DE GALLINA
+description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
+Huevos de Gallina BELL'S Pardos Bandeja 15un,BELL'S,15.0,un,10.99,vivanda,2024-12-05 21:56:48.690496,HUEVOS DE GALLINA,15.0,un,10.99,HUEVOS DE GALLINA
+Huevos de Gallina LA CALERA Pardos Jumbo Bandeja 15un,LA CALERA,15.0,un,12.9,vivanda,2024-12-05 21:56:48.690496,HUEVOS DE GALLINA,15.0,un,12.9,HUEVOS DE GALLINA
+Huevos de Gallina LA CALERA de Corral Bandeja 12un,LA CALERA,12.0,un,14.5,vivanda,2024-12-05 21:56:48.690496,HUEVOS DE GALLINA,12.0,un,14.5,HUEVOS DE GALLINA
+Huevos Pardos GALLINAS LIBRES Bandeja 12un,GALLINAS LIBRES,12.0,un,15.9,vivanda,2024-12-05 21:56:48.690496,HUEVOS DE GALLINA,12.0,un,15.9,HUEVOS DE GALLINA
