@@ -5,7 +5,6 @@ Proyecto Integrador sobre Cálculo del índice de precios al consumidor utilizan
 1. [Documentación](#Documentación)
 2. [Comenzando](#Comenzando) 🚀
 3. [Autores](#Autores) ✒️
-5. [Licencia](#licencia)
 
 ![image](https://github.com/user-attachments/assets/bbae94ff-4f9f-4620-8d20-e1f10cb13828)
 
@@ -13,7 +12,7 @@ Proyecto Integrador sobre Cálculo del índice de precios al consumidor utilizan
 [Volver al inicio](#Índice)
 
 La documentación del proyecto se puede encontrar en el siguiente repositorio: 
-[Documentación del repositorio](../../wiki)
+[Documentación del repositorio](https://github.com/LuisF3381/PEU-CD-Grupo-1-Proyecto-Integrador/wiki)
 
 ## Comenzando
 [Volver al inicio](#Índice)
@@ -90,7 +89,7 @@ python RUTA_CODIGO
 **6. Cabe aclarar que la información se guarda en la carpeta  raw [Carpeta](ipc-webscraping/data/raw)**
 
 
-## Autores ✒️
+## Autores
 [Volver al inicio](#Índice)
 
 * **Claudia Vivas** - *Grupo 1* - [claudiavivas](https://github.com/claudiavivas)
