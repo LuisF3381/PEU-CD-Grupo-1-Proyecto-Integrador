@@ -27,6 +27,20 @@ LARGE_PAUSE = 60
 SESSION = requests.Session()
 DATA_FOLDER_PATH = "data/raw/pedidos_ya/"
 DATA_BASE_PATH = path.join(path.dirname(path.realpath(__file__))[:-9], DATA_FOLDER_PATH)
+NO_AYB_CATEGORIES = [
+    "Bazar y Librería",
+    "Bebés",
+    "Comidas listas",
+    "Cigarrillos y Tabaco",
+    "Ferretería y Jardín",
+    "Higiene y Cuidado Personal",
+    "Cervezas, Vinos y Licores",
+    "Cuidado de la ropa",
+    "Limpieza del Hogar",
+    "Mascotas",
+    "Tecnología",
+    "Fiestas",
+]
 
 
 class PedidosYaScraper:
@@ -53,7 +67,9 @@ class PedidosYaScraper:
             self.vendor_url + self.category_endpoint, BASE_HEADERS
         )
         category_list = [
-            [cat["global_id"], cat["name"]] for cat in category_info["categories"]
+            [cat["global_id"], cat["name"]]
+            for cat in category_info["categories"]
+            if cat["name"] not in NO_AYB_CATEGORIES
         ]
         list_products = []
         for cat_id, cat_name in category_list:
@@ -76,8 +92,16 @@ class PedidosYaScraper:
                                 "Category_name": cat_name,
                                 "Product_name": prod["name"],
                                 "Product_description": prod["description"],
-                                "Product_unit_type": prod["size"]["unit"],
-                                "Product_quantity": prod["size"]["content"],
+                                "Product_unit_type": (
+                                    prod["size"]["unit"]
+                                    if prod["size"] is not None
+                                    else ""
+                                ),
+                                "Product_quantity": (
+                                    prod["size"]["content"]
+                                    if prod["size"] is not None
+                                    else ""
+                                ),
                                 "Product_price": prod["pricing"]["beforePrice"],
                                 "Product_branch": prod["defaultBrandName"],
                                 "Scrape_timestamp": str(pd.Timestamp.now()),
@@ -99,6 +123,7 @@ class PedidosYaScraper:
         self.data["Product_description"] = self.data["Product_description"].replace(
             to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
         )
+        self.data["Product_description"] = self.data["Product_description"].fillna("")
         self.data["website"] = "Pedidos Ya"
         self.data = self.data.drop_duplicates()
         self.data.reset_index(drop=True, inplace=True)
