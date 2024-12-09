@@ -1,16 +1,8 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Jabón de Tocador GLICI Miel de Abeja Barra 90g,Glici,90.0,g,2.7,vega,2024-12-05 13:07:06.103840,MIEL DE ABEJA,90.0,g,2.7,MIEL DE ABEJA
-Yogurt Estílo Griego Tigo con Miel de Abeja Vaso 160 g,,160.0,g,6.4,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,160.0,g,6.4,MIEL DE ABEJA
-Yogurt TIGO Premium Natural con Miel de Abeja Vaso 160g,TIGO,160.0,g,6.4,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,160.0,g,6.4,MIEL DE ABEJA
 Miel de Abeja LA FLORENCIA 200g,,200.0,g,8.9,plaza_vea,2024-12-05 15:44:24.553330,MIEL DE ABEJA,200.0,g,8.9,MIEL DE ABEJA
 Miel de Abeja La Reyna de Oxapampa 175 g,,175.0,g,12.7,tottus,2024-12-05 12:27:54.087049,MIEL DE ABEJA,175.0,g,12.7,MIEL DE ABEJA
 Miel de Abeja 250 g,OLIVOS DEL SUR,250.0,g,12.9,tottus,2024-12-05 12:27:54.087049,MIEL DE ABEJA,250.0,g,12.9,MIEL DE ABEJA
-Sirope sabor a Miel de Abeja SPITZE Botella 48...,,480.0,g,12.9,plaza_vea,2024-12-05 15:44:24.553330,MIEL DE ABEJA,480.0,g,12.9,MIEL DE ABEJA
 Miel de Abeja VEGA Frasco 250g,Vega,250.0,g,12.9,vega,2024-12-05 13:07:06.103840,MIEL DE ABEJA,250.0,g,12.9,MIEL DE ABEJA
-Sirope Sabor a Miel de Abeja SPITZE Botella 480g,SPITZE,480.0,g,12.9,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,480.0,g,12.9,MIEL DE ABEJA
-Sirope Sabor Miel de Abeja Spitze Frasco 480 g,,480.0,g,13.12,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,480.0,g,13.12,MIEL DE ABEJA
-Cereal UNIÓN Granola con miel de abeja Doypack...,,400.0,g,15.5,plaza_vea,2024-12-05 15:44:24.553330,MIEL DE ABEJA,400.0,g,15.5,MIEL DE ABEJA
-Cereal UNIÓN Granola con miel de abeja Doypack 400g,UNIÓN,400.0,g,15.5,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,400.0,g,15.5,MIEL DE ABEJA
 Miel Eucalipto 300 g,LA ABEJA REAL,300.0,g,15.9,tottus,2024-12-05 12:27:54.087049,MIEL DE ABEJA,300.0,g,15.9,MIEL DE ABEJA
 Miel de Abeja LA REYNA DE OXAPAMPA Frasco 175g,LA REYNA DE OXAPAMPA,175.0,g,16.2,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,175.0,g,16.2,MIEL DE ABEJA
 MIEL DE ABEJA 300G,,300.0,g,16.5,tottus,2024-12-05 12:27:54.087049,MIEL DE ABEJA,300.0,g,16.5,MIEL DE ABEJA
@@ -20,13 +12,11 @@ Miel de Abeja Dulce Natura Floración Eucalipto Frasco 300 g,,300.0,g,21.3,metro
 Miel de Abeja Dolce Natura Floración Silvestre Frasco 300 g,,300.0,g,21.3,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,300.0,g,21.3,MIEL DE ABEJA
 Miel de Abeja Callejón de Huaylas Natural Frasco 300 g,,300.0,g,21.5,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,300.0,g,21.5,MIEL DE ABEJA
 Miel de Abeja La Reyna de Oxapampa Frasco 300 g,,300.0,g,21.88,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,300.0,g,21.88,MIEL DE ABEJA
-Mantequilla de Maní SPREAD con Miel de Abeja Frasco 410g,SPREAD,410.0,g,21.9,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,410.0,g,21.9,MIEL DE ABEJA
 Miel de Abeja CALLEJÓN DE HUAYLAS Floración Silvestre Frasco 300g,CALLEJON DE HUAYLAS,300.0,g,22.1,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,300.0,g,22.1,MIEL DE ABEJA
 Miel de Abeja La Reyna de Oxapampa Frasco 300 g,,300.0,g,22.28,wong,2024-12-05 19:02:51.895009,MIEL DE ABEJA,300.0,g,22.28,MIEL DE ABEJA
 Miel de Abeja Queen Bee's Frasco 450 g,,450.0,g,25.3,wong,2024-12-05 19:02:51.895009,MIEL DE ABEJA,450.0,g,25.3,MIEL DE ABEJA
 Miel De Abeja Cruda x 350 g,HACIENDA DE NAJAR,350.0,g,26.11,tottus,2024-12-05 12:27:54.087049,MIEL DE ABEJA,350.0,g,26.11,MIEL DE ABEJA
 Miel de Abeja OLIVOS DEL SUR Botella 500ml,OLIVOS DEL SUR,500.0,ml,26.5,vivanda,2024-12-05 22:20:50.038883,MIEL DE ABEJA,500.0,ml,26.5,MIEL DE ABEJA
-Polen de Abeja La Reyna de Oxapampa Frasco 140 g,,140.0,g,26.95,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,140.0,g,26.95,MIEL DE ABEJA
 Miel de Abeja Olivos del Sur 500 g,,500.0,g,27.5,wong,2024-12-05 19:02:51.895009,MIEL DE ABEJA,500.0,g,27.5,MIEL DE ABEJA
 Miel de Abeja Artidoro Rodríguez Cusco 300g,,300.0,g,27.6,wong,2024-12-05 19:02:51.895009,MIEL DE ABEJA,300.0,g,27.6,MIEL DE ABEJA
 Miel de Abeja Hacienda de Najar 350g,,350.0,g,27.9,metro,2024-12-05 16:25:59.552421,MIEL DE ABEJA,350.0,g,27.9,MIEL DE ABEJA

@@ -1,15 +1,9 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Yogurt TIGO Premium Natural con Miel de Abeja Vaso 160g,TIGO,160.0,g,5.09,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,160.0,g,5.09,MIEL DE ABEJA
-Yogurt TIGO Premium Natural con Miel de Abeja ...,,160.0,g,5.09,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,160.0,g,5.09,MIEL DE ABEJA
 Miel de Abeja LA FLORENCIA 200g,,200.0,g,8.9,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,200.0,g,8.9,MIEL DE ABEJA
 Miel de Abeja LA FLORENCIA 200g,LA FLORENCIA,200.0,g,9.1,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,200.0,g,9.1,MIEL DE ABEJA
-Jabón de Glicerina Glici Miel de Abeja Pack 3 Unid 90 g,,3.0,un,9.3,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,3.0,un,9.3,MIEL DE ABEJA
 Miel de Abeja BELL'S Miel de Abeja Natural Fra...,,175.0,g,9.4,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,175.0,g,9.4,MIEL DE ABEJA
 Miel de Abeja La Reyna de Oxapampa 175 g,,175.0,g,12.7,tottus,2024-12-07 13:56:53.677751,MIEL DE ABEJA,175.0,g,12.7,MIEL DE ABEJA
 Miel de Abeja VEGA Frasco 250g,Vega,250.0,g,12.9,vega,2024-12-07 16:32:20.203936,MIEL DE ABEJA,250.0,g,12.9,MIEL DE ABEJA
-Cereal UNIÓN Granola con miel de abeja Doypack 400g,UNIÓN,400.0,g,15.5,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,400.0,g,15.5,MIEL DE ABEJA
-Cereal UNIÓN Granola con miel de abeja Doypack...,,400.0,g,15.5,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,400.0,g,15.5,MIEL DE ABEJA
-Granola con Miel de Abeja Unión Doypack 400g,,400.0,g,15.5,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,400.0,g,15.5,MIEL DE ABEJA
 Miel Eucalipto 300 g,LA ABEJA REAL,300.0,g,15.9,tottus,2024-12-07 13:56:53.677751,MIEL DE ABEJA,300.0,g,15.9,MIEL DE ABEJA
 Miel de Abeja LA REYNA DE OXAPAMPA Frasco 175g,LA REYNA DE OXAPAMPA,175.0,g,16.2,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,175.0,g,16.2,MIEL DE ABEJA
 Miel de Abeja 300 g,TOTTUS,300.0,g,17.9,tottus,2024-12-07 13:56:53.677751,MIEL DE ABEJA,300.0,g,17.9,MIEL DE ABEJA
@@ -18,8 +12,6 @@ Miel de Abeja Dolce Natura Floración Silvestre Frasco 300 g,,300.0,g,19.2,wong,
 Miel de abeja VEGA Frasco 500gr,Vega,500.0,g,20.0,vega,2024-12-07 16:32:20.203936,MIEL DE ABEJA,500.0,g,20.0,MIEL DE ABEJA
 Miel de abeja LA REYNA OXAPAMPA Frasco 300Gr,LA REYNA DE OXAPAMPA,300.0,g,21.2,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,300.0,g,21.2,MIEL DE ABEJA
 Miel de abeja LA REYNA OXAPAMPA Frasco 300Gr,,300.0,g,21.89,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,300.0,g,21.89,MIEL DE ABEJA
-Mantequilla de Maní SPREAD con Miel de Abeja Frasco 410g,SPREAD,410.0,g,21.9,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,410.0,g,21.9,MIEL DE ABEJA
-Mantequilla de Maní SPREAD con Miel de Abeja F...,,410.0,g,21.9,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,410.0,g,21.9,MIEL DE ABEJA
 Miel de Abeja Artidoro Rodríguez Cusco 300g,,300.0,g,22.0,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,300.0,g,22.0,MIEL DE ABEJA
 Miel de Abeja Callejón de Huaylas Natural Frasco 300 g,,300.0,g,22.1,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,300.0,g,22.1,MIEL DE ABEJA
 Miel de Abeja CALLEJÓN DE HUAYLAS Floración Silvestre Frasco 300g,CALLEJON DE HUAYLAS,300.0,g,22.1,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,300.0,g,22.1,MIEL DE ABEJA
@@ -40,7 +32,6 @@ Miel de abeja BELL'S Miel de abeja natural Frasco 600Gr,BELL'S,600.0,g,30.1,viva
 Miel de Abeja Queen Bee's Frasco 600 g,,600.0,g,30.5,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,600.0,g,30.5,MIEL DE ABEJA
 Miel de abeja LA REYNA OXAPAMPA Frasco 600Gr,,600.0,g,30.7,plaza_vea,2024-12-07 14:18:52.651074,MIEL DE ABEJA,600.0,g,30.7,MIEL DE ABEJA
 Miel de Abeja la Reyna de Oxapampa 600 g,,600.0,g,30.7,tottus,2024-12-07 13:56:53.677751,MIEL DE ABEJA,600.0,g,30.7,MIEL DE ABEJA
-Polen de Abeja Hacienda de Najar 150g,,150.0,g,31.6,wong,2024-12-07 17:58:24.636708,MIEL DE ABEJA,150.0,g,31.6,MIEL DE ABEJA
 Miel De Abeja Cruda x 600 g,HACIENDA DE NAJAR,600.0,g,33.08,tottus,2024-12-07 13:56:53.677751,MIEL DE ABEJA,600.0,g,33.08,MIEL DE ABEJA
 Miel de abeja LA REYNA OXAPAMPA Frasco 600Gr,LA REYNA DE OXAPAMPA,600.0,g,35.4,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,600.0,g,35.4,MIEL DE ABEJA
 Miel de Abeja CALLEJÓN DE HUAYLAS Floración Silvestre Frasco 500g,CALLEJON DE HUAYLAS,500.0,g,36.5,vivanda,2024-12-07 14:40:46.542751,MIEL DE ABEJA,500.0,g,36.5,MIEL DE ABEJA

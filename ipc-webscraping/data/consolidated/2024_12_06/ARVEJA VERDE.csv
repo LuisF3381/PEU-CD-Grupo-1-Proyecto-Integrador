@@ -1,8 +1,6 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Alverja Verde Tesoro del Campo Bolsa 350 g,,350.0,g,2.9,metro,2024-12-06 18:48:24.529329,ARVEJA VERDE,1.0,kg,8.285714285714286,ARVEJA VERDE
 Arveja VEGA Bolsa 400g,Vega,400.0,g,2.9,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,7.25,ARVEJA VERDE
 Arveja TIMONEL Bolsa 400gr,Timonel,400.0,g,3.2,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,8.0,ARVEJA VERDE
-Arroz Superior VEGA Bolsa 750g,Vega,750.0,g,3.7,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,4.933333333333334,ARVEJA VERDE
 Arveja Verde Tesoro Del Campo Bolsa 500 g,,500.0,g,3.8,metro,2024-12-06 18:48:24.529329,ARVEJA VERDE,1.0,kg,7.6,ARVEJA VERDE
 Arveja Verde Partida INCATRAIL Bolsa 500g,,500.0,g,4.29,plaza_vea,2024-12-06 14:11:59.469531,ARVEJA VERDE,1.0,kg,8.58,ARVEJA VERDE
 Arveja Verde Partida INCATRAIL Bolsa 500g,INCATRAIL,500.0,g,4.29,vivanda,2024-12-06 11:56:27.742498,ARVEJA VERDE,1.0,kg,8.58,ARVEJA VERDE
@@ -18,8 +16,3 @@ Arveja Desvainada 150g,,150.0,g,8.5,wong,2024-12-06 14:15:12.623409,ARVEJA VERDE
 Arveja x kg,,1.0,kg,10.79,metro,2024-12-06 18:48:24.529329,ARVEJA VERDE,1.0,kg,10.79,ARVEJA VERDE
 Arveja x kg,,1.0,kg,10.99,wong,2024-12-06 14:15:12.623409,ARVEJA VERDE,1.0,kg,10.99,ARVEJA VERDE
 Arveja x kg,,1.0,kg,10.99,metro,2024-12-06 18:48:24.529329,ARVEJA VERDE,1.0,kg,10.99,ARVEJA VERDE
-Arroz Superior COSTEÑO Bolsa 5Kg,Costeño,5.0,kg,24.5,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,4.9,ARVEJA VERDE
-Arroz Extra GRAN CHALAN Bolsa 5 kg,Gran Chalan,5.0,kg,24.9,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,4.98,ARVEJA VERDE
-Arroz Extra COSTEÑO Bolsa 5Kg,Costeño,5.0,kg,24.9,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,4.98,ARVEJA VERDE
-Arroz Extra FARAON Bolsa 5Kg,Faraon,5.0,kg,26.2,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,5.24,ARVEJA VERDE
-Arroz Extra VEGA Pacasmayo Saco 10Kg,Veguita,10.0,kg,45.0,vega,2024-12-06 12:09:16.346540,ARVEJA VERDE,1.0,kg,4.5,ARVEJA VERDE

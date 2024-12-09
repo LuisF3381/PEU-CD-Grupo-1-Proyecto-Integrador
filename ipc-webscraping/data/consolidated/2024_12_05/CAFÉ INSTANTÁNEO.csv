@@ -1,55 +1,30 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Chocolate Instantáneo Sabor Canela y Clavo Bolsa 90 g,,90.0,g,4.7,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,90.0,g,4.7,CAFÉ INSTANTÁNEO
-Chocolate Instantáneo Sabor Tradicional Bolsa 90 g,,90.0,g,4.7,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,90.0,g,4.7,CAFÉ INSTANTÁNEO
 Café Instantáneo Clásico ALTOMAYO Doypack 45g,,45.0,g,5.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,45.0,g,5.9,CAFÉ INSTANTÁNEO
 Café Instantáneo KIRMA Clásico Bolsa 45gr,Kirma,45.0,g,6.0,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,45.0,g,6.0,CAFÉ INSTANTÁNEO
-Cebada Instantánea Kimbo Doypack 100 g,,100.0,g,6.1,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,6.1,CAFÉ INSTANTÁNEO
-Cebada Instantánea Kimbo Doypack 100 g,,100.0,g,6.1,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,6.1,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado BELL'S Frasco 50g,,50.0,g,6.2,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,50.0,g,6.2,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 45g,,45.0,g,6.2,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,45.0,g,6.2,CAFÉ INSTANTÁNEO
 Café Instantáneo Cuisine & Co Puro 50g,,50.0,g,6.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,50.0,g,6.9,CAFÉ INSTANTÁNEO
-Cebada Instantánea Ecco 80g,,80.0,g,7.1,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,80.0,g,7.1,CAFÉ INSTANTÁNEO
-Cebada Instantánea Ecco 80g,,80.0,g,7.7,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,80.0,g,7.7,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Clásico Frasco 50g,,50.0,g,8.1,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,50.0,g,8.1,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 45g,,45.0,g,8.1,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,45.0,g,8.1,CAFÉ INSTANTÁNEO
-Cebada Instantánea Kimbo Frasco 164 g,,164.0,g,8.7,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,164.0,g,8.7,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Descafeinado Doypack...,,45.0,g,9.8,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,45.0,g,9.8,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado Descafeinado Cuisine & Co 50g,,50.0,g,9.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,50.0,g,9.9,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO GOURMET FRASCO 45 G,ALTOMAYO,45.0,g,9.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,45.0,g,9.9,CAFÉ INSTANTÁNEO
-Cebada Instantánea Doypack x 170 g,KIMBO,170.0,g,10.0,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,170.0,g,10.0,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Frasco 50gr,Nescafe,50.0,g,10.4,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,50.0,g,10.4,CAFÉ INSTANTÁNEO
-Café Colcafé Granulado 50 g,COLCAFE,50.0,g,10.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,50.0,g,10.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Gourmet Frasco 45g,,45.0,g,11.1,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,45.0,g,11.1,CAFÉ INSTANTÁNEO
-Café Granulado Colcafé Frasco 50 g,,50.0,g,11.6,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,50.0,g,11.6,CAFÉ INSTANTÁNEO
-Café Granulado Colcafé Frasco 50 g,,50.0,g,11.7,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,50.0,g,11.7,CAFÉ INSTANTÁNEO
 Café Instantáneo Cafetal 45g,,45.0,g,11.8,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,45.0,g,11.8,CAFÉ INSTANTÁNEO
-Cremador Almendra Nature's Heart Sin Azúcar 500ml,,500.0,ml,11.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,500.0,ml,11.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado BELL'S Frasco 100g,,100.0,g,11.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,11.9,CAFÉ INSTANTÁNEO
-Cremador Almendra Vainilla Nature's Heart Sin Azúcar 500ml,,500.0,ml,11.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,500.0,ml,11.9,CAFÉ INSTANTÁNEO
-Chocolate Instantáneo Choco Listo Sin Azúcar 180g,,180.0,g,11.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,180.0,g,11.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado 100 g,TOTTUS,100.0,g,11.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,100.0,g,11.9,CAFÉ INSTANTÁNEO
-Café Liofilizado Wong Frasco 100 g,,100.0,g,11.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,11.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Gourmet Frasco 45g,ALTOMAYO,45.0,g,12.1,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,45.0,g,12.1,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Descafeinado Frasco ...,,45.0,g,12.4,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,45.0,g,12.4,CAFÉ INSTANTÁNEO
-AM CAFE INSTANTANEO DESCAFEINADO FRASCO 45G,ALTOMAYO,45.0,g,12.4,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,45.0,g,12.4,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 80g,,80.0,g,12.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,80.0,g,12.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Clásico Polvo Doypack x 150 g,CAFETAL,150.0,g,12.6,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,150.0,g,12.6,CAFÉ INSTANTÁNEO
-Cebada Instantánea Ecco 170g,,170.0,g,13.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,170.0,g,13.5,CAFÉ INSTANTÁNEO
 Café Instantáneo 90g,CAFETAL,90.0,g,13.6,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,90.0,g,13.6,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado Cuisine & Co 100g,,100.0,g,13.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,13.9,CAFÉ INSTANTÁNEO
 Café Instantáneo BELL'S Liofilizado Frasco 100...,,100.0,g,13.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,13.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Frasco 50g,NESCAFE,50.0,g,14.9,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,50.0,g,14.9,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO PREMIUM FRASCO 45 G,ALTOMAYO,45.0,g,14.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,45.0,g,14.9,CAFÉ INSTANTÁNEO
 Café Instantáneo KIRMA Bolsa 8gr Tira 16u,Nescafe,8.0,g,14.9,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,8.0,g,14.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Descafeinado Frasco 4...,,40.0,g,14.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,40.0,g,14.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Clásico 85g,COLCAFE,85.0,g,14.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,85.0,g,14.9,CAFÉ INSTANTÁNEO
-Cebada Instantánea Ecco 170g,,170.0,g,15.2,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,170.0,g,15.2,CAFÉ INSTANTÁNEO
-Cappuccino Colcafé Vainilla 6un,,6.0,un,15.2,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,6.0,un,15.2,CAFÉ INSTANTÁNEO
-Cappuccino Colcafé Caramelo 6un,,6.0,un,15.2,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,6.0,un,15.2,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado BELL'S Descafeinado...,,100.0,g,15.4,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,15.4,CAFÉ INSTANTÁNEO
-Cappuccino Colcafé Caramelo 6un,,6.0,un,15.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,6.0,un,15.5,CAFÉ INSTANTÁNEO
-Cappuccino Colcafé Clásico 6un,,6.0,un,15.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,6.0,un,15.5,CAFÉ INSTANTÁNEO
-Cappuccino Colcafé Vainilla 6un,,6.0,un,15.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,6.0,un,15.5,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Zipper Doypack 50g x 2u,Nescafe,50.0,g,15.8,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,50.0,g,15.8,CAFÉ INSTANTÁNEO
 Café Instantáneo Wong 185g,,185.0,g,15.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,185.0,g,15.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Cafetal Clásico 150g,,150.0,g,15.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,150.0,g,15.9,CAFÉ INSTANTÁNEO
@@ -59,7 +34,6 @@ Café Instantáneo Nescafé Descafeinado 40g,,40.0,g,16.9,metro,2024-12-05 16:50
 Café Instantáneo Colcafé Granulado 85g,,85.0,g,17.4,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,85.0,g,17.4,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Premium 45g,,45.0,g,17.8,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,45.0,g,17.8,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Vienés Caja 144g,,144.0,g,17.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,144.0,g,17.9,CAFÉ INSTANTÁNEO
-Café Instántaneo Clásico ALTOMAYO Doypack 150g,,150.0,g,17.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,150.0,g,17.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado Doypack x 150 g,TOTTUS,150.0,g,17.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,150.0,g,17.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Vienés Caja 144g,NESCAFE,144.0,g,17.9,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,144.0,g,17.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Descafeinado 40g,,40.0,g,17.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,40.0,g,17.9,CAFÉ INSTANTÁNEO
@@ -69,38 +43,24 @@ Café Instantáneo Altomayo Premium 45g,,45.0,g,17.9,wong,2024-12-05 19:27:58.29
 Café Instantáneo Liofilizado Cuisine & Co 100g,,100.0,g,17.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,17.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Frasco 100gr,Nescafe,100.0,g,18.2,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,100.0,g,18.2,CAFÉ INSTANTÁNEO
 Café Cafétal Instantáneo Doypack 150 g,CAFETAL,150.0,g,18.3,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,150.0,g,18.3,CAFÉ INSTANTÁNEO
-Cebada Instantánea Ecco 250g,,250.0,g,18.6,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,250.0,g,18.6,CAFÉ INSTANTÁNEO
 Café Instantáneo Clásico Polvo Frasco x 180 g,CAFETAL,180.0,g,18.7,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,180.0,g,18.7,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 150g,,150.0,g,18.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,150.0,g,18.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 150g,,150.0,g,18.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,150.0,g,18.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Descafeinado Doypack...,,100.0,g,18.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,18.9,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO GOURMET DOY PACK 90 G,ALTOMAYO,90.0,g,19.2,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,90.0,g,19.2,CAFÉ INSTANTÁNEO
-Bebida Instantánea Nescafé Vainilla Latte 8un,,8.0,un,19.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,8.0,un,19.5,CAFÉ INSTANTÁNEO
-Bebida Instantánea Nescafé Vainilla Latte 8un,,8.0,un,19.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,8.0,un,19.5,CAFÉ INSTANTÁNEO
-Bebida Instantánea Nescafé Gold Moka 8un,,8.0,un,19.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,8.0,un,19.5,CAFÉ INSTANTÁNEO
-Bebida Instantánea Nescafé Gold Capuccino 10un,,10.0,un,19.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,10.0,un,19.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Liofilizado Cafetal 90g,,90.0,g,19.7,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,90.0,g,19.7,CAFÉ INSTANTÁNEO
 Café Instantáneo Cuisine & Co Clásico 180g,,180.0,g,19.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,180.0,g,19.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Cuisine & Co Clásico 180g,,180.0,g,19.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,180.0,g,19.9,CAFÉ INSTANTÁNEO
 Café Instantáneo 180g,CAFETAL,180.0,g,20.3,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,180.0,g,20.3,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Vainilla Caja 148g,NESCAFE,148.0,g,20.3,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,148.0,g,20.3,CAFÉ INSTANTÁNEO
-Chocolate Mild 90 gr,ORQUIDEA,90.0,g,20.4,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,90.0,g,20.4,CAFÉ INSTANTÁNEO
-Café Liofilizado Clásico 50 g,JUAN VALDEZ,50.0,g,20.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,50.0,g,20.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Fina Selección Doypac...,,100.0,g,20.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,20.9,CAFÉ INSTANTÁNEO
 Café instantáneo Nescafé Tradición 100 g,NESCAFE,100.0,g,20.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,100.0,g,20.9,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO VIENES X 144 G,NESCAFE,144.0,g,20.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,144.0,g,20.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Fina Selección Doypack 100g,NESCAFÉ,100.0,g,21.6,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,100.0,g,21.6,CAFÉ INSTANTÁNEO
 Café Instantáneo Kirma Clásico 190g,,190.0,g,21.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,190.0,g,21.9,CAFÉ INSTANTÁNEO
-Chocolate Instantáneo Sabor Canela y Clavo Lata 324 g,,324.0,g,21.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,324.0,g,21.9,CAFÉ INSTANTÁNEO
-Chocolate Instantáneo Sabor Tradicional Sol del Cusco Lata 324 g,,324.0,g,21.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,324.0,g,21.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Gold Blend 50 g,NESCAFE,50.0,g,21.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,50.0,g,21.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Gold 50g,,50.0,g,22.1,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,50.0,g,22.1,CAFÉ INSTANTÁNEO
-Bebida Instantánea Marley Coffee Soul Rebel Cappuccino Vainilla 8un,,8.0,un,22.2,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,8.0,un,22.2,CAFÉ INSTANTÁNEO
-Bebida Instantánea Marley Coffee Soul Rebel Cappuccino Classic 8un,,8.0,un,22.2,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,8.0,un,22.2,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 170g,,170.0,g,22.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,170.0,g,22.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Clásico 170g,,170.0,g,22.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,170.0,g,22.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Clásico Frasco 180g,,180.0,g,22.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,180.0,g,22.9,CAFÉ INSTANTÁNEO
-Café Clásico 150 gr,KIRMA,150.0,g,22.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,150.0,g,22.9,CAFÉ INSTANTÁNEO
 Café Instantáneo en Polvo 180 g,ALTOMAYO,180.0,g,22.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,180.0,g,22.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Frasco 100g,,100.0,g,22.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,100.0,g,22.9,CAFÉ INSTANTÁNEO
 Café Instantáneo En Polvo Frasco x 170 g,ALTOMAYO,170.0,g,22.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,170.0,g,22.9,CAFÉ INSTANTÁNEO
@@ -116,15 +76,12 @@ Café Instantáneo Nescafé Tradición 100g,,100.0,g,25.0,metro,2024-12-05 16:50
 Café Instantáneo ALTOMAYO Clàsico en Lata 190g,Altomayo,190.0,g,25.0,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,190.0,g,25.0,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Fina Selección 100g,,100.0,g,25.4,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,25.4,CAFÉ INSTANTÁNEO
 Café Instantáneo Granulado Cuisine & Co 180g,,180.0,g,25.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,180.0,g,25.9,CAFÉ INSTANTÁNEO
-Crema para Café Sin Lactosa Libby's Frasco 454 g,,454.0,g,25.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,454.0,g,25.9,CAFÉ INSTANTÁNEO
-Café Instántaneo NESCAFÉ Tradición Frasco 170g,Nescafe,170.0,g,25.9,vega,2024-12-05 13:25:18.090421,CAFÉ INSTANTÁNEO,170.0,g,25.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Kirma Clásico 190g + Mezcla Láctea Ideal Amanecer Lata 390g,,190.0,g,25.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,190.0,g,25.9,CAFÉ INSTANTÁNEO
 Café instantáneo descafeinado 200 gr,TOTTUS,200.0,g,25.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,200.0,g,25.9,CAFÉ INSTANTÁNEO
 Café instantáneo descafeinado Nescafé en envase Doypack de 100 g,NESCAFE,100.0,g,25.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,100.0,g,25.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Fina Selección 100g,,100.0,g,26.2,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,26.2,CAFÉ INSTANTÁNEO
 Café Instantáneo Gourmet 150g,ALTOMAYO,150.0,g,26.5,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Tradición 150g,,150.0,g,26.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
-Café Instántaneo Gourmet ALTOMAYO Doypack 150g,,150.0,g,26.5,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Cafetal 150g,,150.0,g,26.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
 Café Instantáneo CAFETAL Doypack 150g,,150.0,g,26.5,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Cafetal 150g,,150.0,g,26.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,150.0,g,26.5,CAFÉ INSTANTÁNEO
@@ -141,35 +98,27 @@ Café Instantáneo Nescafé Tradición 170g + Taza,,170.0,g,28.9,metro,2024-12-0
 Café Descafeinado Instantáneo Jacobs Frasco 100 g,,100.0,g,28.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,28.9,CAFÉ INSTANTÁNEO
 Café Instantáneo KIRMA Doypack 250g,,250.0,g,28.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,250.0,g,28.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Gourmet 170g,,170.0,g,28.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,170.0,g,28.9,CAFÉ INSTANTÁNEO
-Café Gold Suave Cronat Gold Jacobs Frasco 100 g,,100.0,g,28.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,28.9,CAFÉ INSTANTÁNEO
-Café Gold Suave Cronat Gold Jacobs Frasco 100 g,,100.0,g,28.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,28.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Descafeinado 100g,,100.0,g,29.3,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,29.3,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Descafeinado 100g,,100.0,g,29.4,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,29.4,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Gourmet 150g,,150.0,g,29.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,150.0,g,29.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Clásico 250 g,KIRMA,250.0,g,29.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,250.0,g,29.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Fina Selección Frasco...,,200.0,g,29.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,200.0,g,29.9,CAFÉ INSTANTÁNEO
 Café instantáneo Nescafé Tradición 250 g,NESCAFE,250.0,g,29.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,250.0,g,29.9,CAFÉ INSTANTÁNEO
-Café granulado Colcafé de 170 g,COLCAFE,170.0,g,29.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,170.0,g,29.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Descafeinado Frasco ...,,170.0,g,29.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,170.0,g,29.9,CAFÉ INSTANTÁNEO
 Café instantáneo Nescafé Fina Selección de 200 g,NESCAFE,200.0,g,29.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,200.0,g,29.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Fina Selección 200g,,200.0,g,30.5,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,200.0,g,30.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Fina Selección 200g,,200.0,g,30.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,200.0,g,30.5,CAFÉ INSTANTÁNEO
-Café Instántaneo Intenso CAFETAL Frasco 180g,,180.0,g,30.6,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,180.0,g,30.6,CAFÉ INSTANTÁNEO
 Café Instantáneo Liofilizado Cafetal 180g,,180.0,g,30.6,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,180.0,g,30.6,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Doypack 250...,,250.0,g,30.9,plaza_vea,2024-12-05 16:03:03.191071,CAFÉ INSTANTÁNEO,250.0,g,30.9,CAFÉ INSTANTÁNEO
-Chocolate Instantáneo Choco Listo Chocolate 1kg,,1.0,kg,31.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,1.0,kg,31.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Illy Intenso 95g,,95.0,g,33.0,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,95.0,g,33.0,CAFÉ INSTANTÁNEO
 Café Instantáneo Bustelo Espresso 100g,,100.0,g,34.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,34.9,CAFÉ INSTANTÁNEO
-Café Liofilizado Clásico 95 g,JUAN VALDEZ,95.0,g,34.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,95.0,g,34.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Cuisine & Co 190g,,190.0,g,34.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,190.0,g,34.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Descafeinado Cuisine & Co 190g,,190.0,g,34.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,190.0,g,34.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Tradición 250g,,250.0,g,34.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,250.0,g,34.9,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO PREMIUM FRASCO 170 G,ALTOMAYO,170.0,g,35.9,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,170.0,g,35.9,CAFÉ INSTANTÁNEO
 Café Instantáneo ALTOMAYO Liofilizado Frasco 170g,ALTOMAYO,170.0,g,35.9,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,170.0,g,35.9,CAFÉ INSTANTÁNEO
 Café Instantáneo NESCAFÉ Tradición Doypack 250g,NESCAFÉ,250.0,g,36.8,vivanda,2024-12-05 22:32:41.998572,CAFÉ INSTANTÁNEO,250.0,g,36.8,CAFÉ INSTANTÁNEO
 Café Instantáneo Descafeinado Altomayo 170g,,170.0,g,36.9,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,170.0,g,36.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Nescafé Gold 100g,,100.0,g,38.1,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,100.0,g,38.1,CAFÉ INSTANTÁNEO
-CAFE INSTANTANEO DESCAFEINADO 170 GR,ALTOMAYO,170.0,g,38.5,tottus,2024-12-05 12:44:01.248496,CAFÉ INSTANTÁNEO,170.0,g,38.5,CAFÉ INSTANTÁNEO
 Lata Café Instantáneo Altomayo Gourmet 170g + 90g,,170.0,g,38.5,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,170.0,g,38.5,CAFÉ INSTANTÁNEO
 Café Instantáneo Descafeinado Bustelo Espresso 100g,,100.0,g,38.9,wong,2024-12-05 19:27:58.296003,CAFÉ INSTANTÁNEO,100.0,g,38.9,CAFÉ INSTANTÁNEO
 Café Instantáneo Altomayo Premium 170g,,170.0,g,39.8,metro,2024-12-05 16:50:45.582436,CAFÉ INSTANTÁNEO,170.0,g,39.8,CAFÉ INSTANTÁNEO

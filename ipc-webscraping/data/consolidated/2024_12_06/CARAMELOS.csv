@@ -2,9 +2,7 @@ description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_
 Galleta con Caramelo BISCOLATA Break Bolsa 20g,,20.0,g,1.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,20.0,g,1.0,CARAMELOS
 Caramelos Masticables Bubbaloo Sparkies Bolsa 25 g,,25.0,g,1.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,25.0,g,1.5,CARAMELOS
 Caramelo BUBBALO Sparkies Bolsa 25gr,Sparkies,25.0,g,1.5,vega,2024-12-06 12:26:06.372088,CARAMELOS,25.0,g,1.5,CARAMELOS
-MARSHMALLOWS 7U X 31.5G,OLE OLE,31.5,g,1.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,31.5,g,1.5,CARAMELOS
 Caramelos BUBBALOO Sparkies Bolsa 25g,BUBBALOO,25.0,g,1.6,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,25.0,g,1.6,CARAMELOS
-Gomitas Gummi Pizza 15.5g,TROLLI,15.5,g,1.7,tottus,2024-12-06 13:51:28.506028,CARAMELOS,15.5,g,1.7,CARAMELOS
 Caramelo BARBIE Anillo Diamante Bolsa 13Gr,Barbie,13.0,g,1.8,vega,2024-12-06 12:26:06.372088,CARAMELOS,13.0,g,1.8,CARAMELOS
 Caramelos HALLS Hierbabuena Paquete 9un,,9.0,un,1.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,9.0,un,1.9,CARAMELOS
 Caramelos MENTOS Fruta Bolsa 29.04g,,29.04,g,2.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,29.04,g,2.0,CARAMELOS
@@ -28,28 +26,14 @@ Caramelos HALLS Menta Fuerte Paquete 9un,HALLS,9.0,un,2.1,vivanda,2024-12-06 12:
 Caramelos HALLS Cereza Paquete 9un,HALLS,9.0,un,2.1,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,9.0,un,2.1,CARAMELOS
 Caramelos HALLS Menta Eucalipto Paquete 9un,,9.0,un,2.1,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,9.0,un,2.1,CARAMELOS
 Caramelos Duros Halls Cereza 9un,,9.0,un,2.1,metro,2024-12-06 19:06:31.144709,CARAMELOS,9.0,un,2.1,CARAMELOS
-MORA X 27GR,HALLS,27.0,g,2.2,tottus,2024-12-06 13:51:28.506028,CARAMELOS,27.0,g,2.2,CARAMELOS
 Caramelos Ring Pop TOPPS Surtidos Unidad 14g,TOPPS,14.0,g,2.5,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,14.0,g,2.5,CARAMELOS
 Caramelos Ring Pop TOPPS Surtidos Unidad 14g,,14.0,g,2.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,14.0,g,2.5,CARAMELOS
 Caramelos TIC TAC Menta Intensa Envase 16g,TIC TAC,16.0,g,2.6,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,16.0,g,2.6,CARAMELOS
-GOMITAS 4D BUILDING STICKS ACIDOS 40G,AMOS,40.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,40.0,g,2.9,CARAMELOS
-Gomitas Ambrosito Bolsa x 90 g,AMBROSOLI,90.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,2.9,CARAMELOS
-GOMITAS 4D BLOQUES 40G,AMOS,40.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,40.0,g,2.9,CARAMELOS
-Gomitas Flipy Bolsa x 90 g,AMBROSOLI,90.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,2.9,CARAMELOS
-Gomitas 4D Dinosaurios 38 g,AMOS,38.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,38.0,g,2.9,CARAMELOS
-Gomitas Ambrosito Ácido Bolsa x 90 g,AMBROSOLI,90.0,g,2.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,2.9,CARAMELOS
-Gomitas Gusanos 80g,GRISSLY,80.0,g,3.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,80.0,g,3.0,CARAMELOS
-Gomitas Splash 80g,GRISSLY,80.0,g,3.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,80.0,g,3.0,CARAMELOS
 Caramelos TIC TAC Menta Envase 16g,TIC TAC,16.0,g,3.1,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,16.0,g,3.1,CARAMELOS
 Caramelos TIC TAC Naranja Envase 16g,,16.0,g,3.1,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,16.0,g,3.1,CARAMELOS
 Caramelos TIC TAC Menta Envase 16g,,16.0,g,3.1,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,16.0,g,3.1,CARAMELOS
 Caramelos de Menta Rellenos de Chocolate ARCOR...,,80.0,g,3.6,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,80.0,g,3.6,CARAMELOS
-Gomitas de Delfines de 100 g,TOTTUS,100.0,g,3.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,3.9,CARAMELOS
-Gomitas de gusanos ácidos de 100 g,TOTTUS,100.0,g,3.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,3.9,CARAMELOS
-Gomitas Ositos 100 g,TOTTUS,100.0,g,3.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,3.9,CARAMELOS
-Yogurt Griego TIGO Sensaciones con Fudge de Ca...,,180.0,g,3.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,180.0,g,3.9,CARAMELOS
 Caramelos AMBROSOLI Banderita Bolsa 80 un,Ambrosoli,80.0,un,4.2,vega,2024-12-06 12:26:06.372088,CARAMELOS,80.0,un,4.2,CARAMELOS
-Millows Navideños 145 g,COLOMBINA,145.0,g,4.4,tottus,2024-12-06 13:51:28.506028,CARAMELOS,145.0,g,4.4,CARAMELOS
 Caramelos Surtidos BELL'S Bolsa 250g,,250.0,g,4.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,250.0,g,4.5,CARAMELOS
 Caramelos de Limón BELL'S Bolsa 250g,,250.0,g,4.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,250.0,g,4.5,CARAMELOS
 Caramelos de Chicha Morada BELL'S Bolsa 250g,,250.0,g,4.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,250.0,g,4.5,CARAMELOS
@@ -59,84 +43,37 @@ Caramelos de Limón BELL'S Bolsa 250g,BELL'S,250.0,g,4.6,vivanda,2024-12-06 12:0
 Caramelos AMBROSOLI Frutina Bolsa 60 un,Ambrosoli,60.0,un,4.8,vega,2024-12-06 12:26:06.372088,CARAMELOS,60.0,un,4.8,CARAMELOS
 Caramelo PUSH POP Surtido Barra 15g,,15.0,g,4.8,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,15.0,g,4.8,CARAMELOS
 Caramelo PUSH POP Surtido Barra 15g,TOPS,15.0,g,4.8,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,15.0,g,4.8,CARAMELOS
-Marshmellows Millows Surtidos 145 g,COLOMBINA,145.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,145.0,g,4.9,CARAMELOS
-Marshmallows Millows Sabor Vainilla 145 g,COLOMBINA,145.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,145.0,g,4.9,CARAMELOS
-Marshmellows Millows Corazones 145 g,COLOMBINA,145.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,145.0,g,4.9,CARAMELOS
-Marshmellows Millows Cilindro Blanco 145 g,COLOMBINA,145.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,145.0,g,4.9,CARAMELOS
-Goma Moras 90 g,FINI,90.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,4.9,CARAMELOS
-Tubos Ácidos Regaliz Twister 80g,FINI,80.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,80.0,g,4.9,CARAMELOS
-Gomitas de Gusanos Ácidos de 100 g,FINI,100.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,4.9,CARAMELOS
 Caramelos MISKY sabor a Limón Bolsa 275gr,Arcor,275.0,g,4.9,vega,2024-12-06 12:26:06.372088,CARAMELOS,275.0,g,4.9,CARAMELOS
-Chicle ensalada de frutas 80 gr,FINI,80.0,g,4.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,80.0,g,4.9,CARAMELOS
 Caramelos MISKY Frutales Bolsa 275gr,Arcor,275.0,g,4.9,vega,2024-12-06 12:26:06.372088,CARAMELOS,275.0,g,4.9,CARAMELOS
-Marshmellows Corazones x 71 g,GUANDY,71.0,g,4.91,tottus,2024-12-06 13:51:28.506028,CARAMELOS,71.0,g,4.91,CARAMELOS
 Caramelos Masticables STARBUST Sabores Surtido...,,58.7,g,5.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,58.7,g,5.0,CARAMELOS
 Caramelos Banderitas AMBROSOLI Bolsa 280g,,280.0,g,5.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,280.0,g,5.5,CARAMELOS
 Caramelos Masticables Fresa Mentos Barra 29 g Pack 3 unid,,29.0,g,5.7,metro,2024-12-06 19:06:31.144709,CARAMELOS,29.0,g,5.7,CARAMELOS
 Caramelos Masticables Menta Mentos Barra 29 g Pack 3 unid,,29.0,g,5.7,metro,2024-12-06 19:06:31.144709,CARAMELOS,29.0,g,5.7,CARAMELOS
-Gomitas 4D Frutas 90 g,AMOS,90.0,g,5.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,5.8,CARAMELOS
-Original 58.7 g,STARBURST,58.7,g,5.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,58.7,g,5.8,CARAMELOS
-GOMITAS 4D DINOSAURIOS 90G,AMOS,90.0,g,5.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,5.8,CARAMELOS
-GOMITAS 4D BUILDING STICKS ACIDOS 90G,AMOS,90.0,g,5.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,90.0,g,5.8,CARAMELOS
 Caramelos Cuisine & Co Candy Fun Sabor Frutal 100un,,100.0,un,5.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,100.0,un,5.9,CARAMELOS
 Caramelos Cuisine & Co Candy Fun Sabor Limón 100un,,100.0,un,5.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,100.0,un,5.9,CARAMELOS
 Caramelos Sayon Perita 380g,,380.0,g,5.99,metro,2024-12-06 19:06:31.144709,CARAMELOS,380.0,g,5.99,CARAMELOS
-Gomitas Gusanos Sour Glowworms 100 g,TROLLI,100.0,g,6.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,6.0,CARAMELOS
 Caramelos Masticables Sabor Wild Berry 61.5 g,SKITTLES,61.5,g,6.2,tottus,2024-12-06 13:51:28.506028,CARAMELOS,61.5,g,6.2,CARAMELOS
 Caramelos AMBROSOLI Cocorokos Limón Bolsa 100 un,Ambrosoli,100.0,un,6.2,vega,2024-12-06 12:26:06.372088,CARAMELOS,100.0,un,6.2,CARAMELOS
-Marshmellows 230 g,AMBROSOLI,230.0,g,6.4,tottus,2024-12-06 13:51:28.506028,CARAMELOS,230.0,g,6.4,CARAMELOS
-Chupete Mr Pops Pintalengua 432 g,,432.0,g,6.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,432.0,g,6.8,CARAMELOS
-Chupete Mr Pops Extreme Duo 432 g,,432.0,g,6.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,432.0,g,6.8,CARAMELOS
-Chupete Mr Pops Fest 432 g,,432.0,g,6.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,432.0,g,6.8,CARAMELOS
 Caramelos AMBROSOLI Gajo de Limón Bolsa 100 un,Ambrosoli,100.0,un,6.8,vega,2024-12-06 12:26:06.372088,CARAMELOS,100.0,un,6.8,CARAMELOS
 Caramelos Duros Halloween Conjuros Bolsa 250 g,,250.0,g,6.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,250.0,g,6.9,CARAMELOS
 "Caramelos AMBROSOLI Rojo, Amarillo, Cola Negro...",,100.0,un,6.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,100.0,un,6.9,CARAMELOS
 Caramelos Arcor Calabazas Halloween 250g,,250.0,g,6.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,250.0,g,6.9,CARAMELOS
-Chupetes BARBIE Bolsa 408g,,408.0,g,6.99,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,408.0,g,6.99,CARAMELOS
 Chocolate CHOCOFUN Galleta y Caramelo Bolsa 210g,CHOCOFUN,210.0,g,7.0,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,210.0,g,7.0,CARAMELOS
 Caramelos Perita 350g,,350.0,g,7.0,metro,2024-12-06 19:06:31.144709,CARAMELOS,350.0,g,7.0,CARAMELOS
 Caramelos Surtidos AMBROSOLI Arbolito Bolsa 28...,,283.0,g,7.19,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,283.0,g,7.19,CARAMELOS
-Pastillas de Menta MENTOS Clearbreath Peppermi...,,17.5,g,7.3,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,17.5,g,7.3,CARAMELOS
-Marshmellows Mini Color 100 g,TROPICAL,100.0,g,7.3,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,7.3,CARAMELOS
-Marshmellows Bicolor 100 g,TROPICAL,100.0,g,7.3,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,g,7.3,CARAMELOS
-Pastillas de Menta MENTOS Clearbreath Wintergr...,,17.5,g,7.3,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,17.5,g,7.3,CARAMELOS
 Caramelos ARCOR Chicha Bolsa 100 un,Arcor,100.0,un,7.5,vega,2024-12-06 12:26:06.372088,CARAMELOS,100.0,un,7.5,CARAMELOS
 Caramelos Ambrosoli Cocoroko Perita Ambrosoli Bolsa 350 g,,350.0,g,7.7,metro,2024-12-06 19:06:31.144709,CARAMELOS,350.0,g,7.7,CARAMELOS
 Caramelos Ambrosoli Cocoroko Limón 350g,,350.0,g,7.7,metro,2024-12-06 19:06:31.144709,CARAMELOS,350.0,g,7.7,CARAMELOS
-Chupetín GLOBO POP Maracuyá Bolsa 432g,,432.0,g,7.8,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,432.0,g,7.8,CARAMELOS
-Chupetín GLOBO POP Agridulce Bolsa 432g,,432.0,g,7.8,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,432.0,g,7.8,CARAMELOS
 Caramelos Duros Wild Berry Drops Cavendish & Harvey Lata 175 g,,175.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,175.0,g,7.9,CARAMELOS
-NERDS Grape & Strawberry Paquete 46.7g,,46.7,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,46.7,g,7.9,CARAMELOS
-NERDS Rope Very Berry Bolsa 26g,,26.0,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,26.0,g,7.9,CARAMELOS
-NERDS Watermelon & Cherry Paquete 46.7g,,46.7,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,46.7,g,7.9,CARAMELOS
 Caramelos Cavendish & Harvey Cherry Drops Lata 200 g,,200.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,200.0,g,7.9,CARAMELOS
-Chupetes BON BON BUM Tropical Bolsa 456g,,456.0,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,456.0,g,7.9,CARAMELOS
 Caramelos Cavendish & Harvey Apple Drops Lata 200 g,,200.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,200.0,g,7.9,CARAMELOS
 Caramelos Cavendish & Harvey Sour Lemon Drops Lata 200 g,,200.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,200.0,g,7.9,CARAMELOS
-Chupetines GLOBO POP Shake Bolsa 432g,,432.0,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,432.0,g,7.9,CARAMELOS
 Caramelos Cavendish & Harvey Pears & Blackberry Drops Lata 200 g,,200.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,200.0,g,7.9,CARAMELOS
 Chocolate CHOCOFUN Caramelo Barra 216g,,216.0,g,7.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,216.0,g,7.9,CARAMELOS
 Caramelos Cavendish & Harvey Mixed Fruit Drops 200g,,200.0,g,7.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,200.0,g,7.9,CARAMELOS
 Caramelos AMBROSOLI Super Rellenos con chicle Bolsa 100 un,Ambrosoli,100.0,un,8.0,vega,2024-12-06 12:26:06.372088,CARAMELOS,100.0,un,8.0,CARAMELOS
-Chupetín renovado de fresa de 18 g,GLOBO POP,18.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,18.0,g,8.0,CARAMELOS
-Chupetines Surtido 24 Unidades,BON BON BUM,24.0,un,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,24.0,un,8.0,CARAMELOS
-Chupetín renovado de cereza ácida de 18 g,GLOBO POP,18.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,18.0,g,8.0,CARAMELOS
-Chupetín Trio 25 unidades,GLOBO POP,25.0,un,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,25.0,un,8.0,CARAMELOS
-Chupetín renovado surtido 18 gr,GLOBO POP,18.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,18.0,g,8.0,CARAMELOS
-Chupetines Maracuyá 456 g,BON BON BUM,456.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,456.0,g,8.0,CARAMELOS
-Chupetines Fresa 24 Unidades,BON BON BUM,24.0,un,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,24.0,un,8.0,CARAMELOS
 Caramelos AMBROSOLI Gajo frutas Bolsa 100Un,AMBROSOLI,100.0,un,8.0,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,100.0,un,8.0,CARAMELOS
-Chupete Agridulce 432 g,GLOBO POP,432.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,432.0,g,8.0,CARAMELOS
-Shake 30g 24 Unidades,GLOBO POP,30.0,g,8.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,30.0,g,8.0,CARAMELOS
 Caramelos AMBROSOLI Gajo frutas Bolsa 100Un,,100.0,un,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,100.0,un,8.0,CARAMELOS
-Chupetes BOM BOM BUM con Chicle sabor Fresa Bo...,,456.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,456.0,g,8.0,CARAMELOS
-Chupetes GLOBO POP!! Con chicle sabores surtid...,,480.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,480.0,g,8.0,CARAMELOS
-Chupetes BOM BOM BUM con Chicle sabores Surtid...,,456.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,456.0,g,8.0,CARAMELOS
-Chupetes GLOBO POP!! Relleno con chicle sabor ...,,480.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,480.0,g,8.0,CARAMELOS
-Chupetes GLOBO POP NEON!! Con chicle sabor lim...,,480.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,480.0,g,8.0,CARAMELOS
-Chupetes GLOBO POP!! con sabor Leche y Chocola...,,360.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,360.0,g,8.0,CARAMELOS
-Chupetes BOM BOM BUM con Chicle sabor Maracuyá...,,456.0,g,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,456.0,g,8.0,CARAMELOS
-Chupetes GLOBO POP!! con Chicle sabor Cereza Á...,,24.0,un,8.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,24.0,un,8.0,CARAMELOS
 Chocolate CHOCOFUN Caramelo Barra 216g,CHOCOFUN,216.0,g,8.1,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,216.0,g,8.1,CARAMELOS
 Chocolate CHOCOFUN Caramelo Bolsa 216g,CHOCOFUN,216.0,g,8.1,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,216.0,g,8.1,CARAMELOS
 Caramelos ARCOR Limón Bolsa 100Un,,100.0,un,8.3,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,100.0,un,8.3,CARAMELOS
@@ -154,16 +91,11 @@ Caramelos Duros Halloween Sangrientos Bolsa 312 g,,312.0,g,8.6,metro,2024-12-06 
 Caramelos Duros Arcor Halloween Sangrientos Mora Azul 312g,,312.0,g,8.6,metro,2024-12-06 19:06:31.144709,CARAMELOS,312.0,g,8.6,CARAMELOS
 Caramelos Masticables El Chavo 330g,,330.0,g,8.8,metro,2024-12-06 19:06:31.144709,CARAMELOS,330.0,g,8.8,CARAMELOS
 Caramelos Masticables Peppa Pig 330g,,330.0,g,8.8,metro,2024-12-06 19:06:31.144709,CARAMELOS,330.0,g,8.8,CARAMELOS
-Botella Splash Freslim 44.6 g,TRIDENT,44.6,g,8.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,44.6,g,8.9,CARAMELOS
 Caramelos ARCOR Menta y chocolate Bolsa 73 un,Arcor,73.0,un,8.9,vega,2024-12-06 12:26:06.372088,CARAMELOS,73.0,un,8.9,CARAMELOS
-Chupetín Colorado Tutti Frutti 408 g,AMBROSOLI,408.0,g,8.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,408.0,g,8.9,CARAMELOS
-Gomitas Lunch Bag 77 g,TROLLI,77.0,g,9.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,77.0,g,9.5,CARAMELOS
 Caramelo de Chicha Morada 100 Unidades,ARCOR,100.0,un,9.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,un,9.5,CARAMELOS
 Caramelos AMBROSOLI Trifruna Chicha Mango Piña...,,420.0,g,9.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,420.0,g,9.9,CARAMELOS
-Olé Olé Festival De Sabores 202 g,OLE OLE,202.0,g,9.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,202.0,g,9.9,CARAMELOS
 Caramelos MENTOS Kiss menta Lata 35Gr,,35.0,g,9.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,35.0,g,9.9,CARAMELOS
 Caramelos de Limón 100 Unidades,ARCOR,100.0,un,9.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,un,9.9,CARAMELOS
-Olé Olé Vainilla 225 g,OLE OLE,225.0,g,9.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,225.0,g,9.9,CARAMELOS
 Caramelos MENTOS Kiss Fresa Lata 35g,,35.0,g,9.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,35.0,g,9.9,CARAMELOS
 Caramelos Masticables AMBROSOLI Trifruna Manzana Fresa y Durazno Bolsa 420g,AMBROSOLI,420.0,g,9.9,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,420.0,g,9.9,CARAMELOS
 Caramelos Duros con Café Coffee Delight 100und,,100.0,un,10.1,metro,2024-12-06 19:06:31.144709,CARAMELOS,100.0,un,10.1,CARAMELOS
@@ -175,12 +107,9 @@ Sazonador Pop Corn BELL'S Sabor a Caramelo Frasco 65g,BELL'S,65.0,g,10.3,vivanda
 Sazonador Pop Corn BELL'S Sabor a Caramelo Fra...,,65.0,g,10.3,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,65.0,g,10.3,CARAMELOS
 Caramelos con Relleno Líquido Bon Ami Frutas 430g,,430.0,g,10.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,430.0,g,10.5,CARAMELOS
 Caramelos con Relleno Líquido AMBROSOLI Bon Am...,,100.0,un,10.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,100.0,un,10.5,CARAMELOS
-Marshmallows Millows Osos 250g,COLOMBINA,250.0,g,10.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,250.0,g,10.5,CARAMELOS
 Caramelos rellenos con chicle AMBROSOLI Súper ...,,450.0,g,10.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,450.0,g,10.5,CARAMELOS
-Marshmallows Millows Individual Cream x 250 g,COLOMBINA,250.0,g,10.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,250.0,g,10.5,CARAMELOS
 Caramelos Rellenos con Chicle ARCOR Dragon Bal...,,365.0,g,10.8,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,365.0,g,10.8,CARAMELOS
 Caramelos Masticables White Rabbit 108g,,108.0,g,11.1,metro,2024-12-06 19:06:31.144709,CARAMELOS,108.0,g,11.1,CARAMELOS
-Doypack Chocolates Navidad x 110 g,COLOMBINA,110.0,g,11.3,tottus,2024-12-06 13:51:28.506028,CARAMELOS,110.0,g,11.3,CARAMELOS
 Caramelos Duros Arcor Halloween Zombies Sorpresa 100g,,100.0,g,11.3,metro,2024-12-06 19:06:31.144709,CARAMELOS,100.0,g,11.3,CARAMELOS
 Caramelos Sin Azúcar Menta Mentos Kiss 50un,,50.0,un,11.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,50.0,un,11.5,CARAMELOS
 Caramelos Súper Rellenazo Chicle 100 Unidades,AMBROSOLI,100.0,un,11.5,tottus,2024-12-06 13:51:28.506028,CARAMELOS,100.0,un,11.5,CARAMELOS
@@ -188,34 +117,22 @@ Sirope Sabor a Caramelo SPITZE Frasco 480g,SPITZE,480.0,g,11.5,vivanda,2024-12-0
 Caramelos MENTOS Kiss menta Lata 35Gr,MENTOS,35.0,g,11.5,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,35.0,g,11.5,CARAMELOS
 Sirope Sabor a Caramelo SPITZE Frasco 480g,,480.0,g,11.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,480.0,g,11.5,CARAMELOS
 Caramelos ARCOR Sabor a menta con chocolate Bo...,,409.0,g,11.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,409.0,g,11.5,CARAMELOS
-Kiss Menta x 35 g,MENTOS,35.0,g,11.6,tottus,2024-12-06 13:51:28.506028,CARAMELOS,35.0,g,11.6,CARAMELOS
 Caramelos Sin Azúcar Frutas Tropicales Icebreakers Sours Dispensador 42 g,,42.0,g,11.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,42.0,g,11.9,CARAMELOS
-Gomas Gusanos Ácidos Bolsa x 480 g,AMBROSOLI,480.0,g,11.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,480.0,g,11.9,CARAMELOS
-Gomas Flippy Bolsa x 480 g,AMBROSOLI,480.0,g,11.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,480.0,g,11.9,CARAMELOS
 Caramelos Menta Chocolate 365 g,,365.0,g,12.7,metro,2024-12-06 19:06:31.144709,CARAMELOS,365.0,g,12.7,CARAMELOS
-NERDS Rainbow Paquete 141g,,141.0,g,12.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,141.0,g,12.9,CARAMELOS
 Caramelos Masticables de Fruta ARCOR Bolsa 412...,,412.0,g,12.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,412.0,g,12.9,CARAMELOS
-Masticable de Frutas 412g,ARCOR,412.0,g,12.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,412.0,g,12.9,CARAMELOS
 Caramelos de Menta Alka Cristal Bolsa 360 gr,,360.0,g,12.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,360.0,g,12.9,CARAMELOS
 Caramelos Masticables MOGUL Super Blandos Bols...,,400.0,g,13.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,400.0,g,13.0,CARAMELOS
 Caramelos Masticables Mogul Súper Blando 100un,,100.0,un,13.0,metro,2024-12-06 19:06:31.144709,CARAMELOS,100.0,un,13.0,CARAMELOS
 Caramelos con Leche BUTTER TOFFEES Bolsa 390g,,390.0,g,13.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,390.0,g,13.9,CARAMELOS
 Café COLCAFÉ Capuccino Caramelo Caja 6un,,6.0,un,13.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,6.0,un,13.9,CARAMELOS
 Caramelos Sabor Menta Chocolate 365 g,ARCOR,365.0,g,13.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,365.0,g,13.9,CARAMELOS
-Chupetes GLOBO POP XXL Bolsa 200Gr,,200.0,g,13.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,200.0,g,13.9,CARAMELOS
-Chupetes AMBROSOLI Picolines Bolsa 50un,,50.0,un,13.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,50.0,un,13.9,CARAMELOS
 Caramelos Toffee Sabor Menta Bolsa x 550 g,AMBROSOLI,550.0,g,14.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,550.0,g,14.8,CARAMELOS
 Café COLCAFÉ Capuccino Caramelo Caja 6un,COLCAFE,6.0,un,15.0,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,6.0,un,15.0,CARAMELOS
 Caramelos Arcor Halloween Hoz de La Muerte 66g,,66.0,g,15.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,66.0,g,15.5,CARAMELOS
-Chupetes GLOBO POP Sabor Fresa Bolsa 24u 480g x 2u,Globo Pop,480.0,g,15.6,vega,2024-12-06 12:26:06.372088,CARAMELOS,480.0,g,15.6,CARAMELOS
 Caramelos con Leche con Relleno Butter Toffees Chocolate Bolsa 390 g,,390.0,g,15.6,metro,2024-12-06 19:06:31.144709,CARAMELOS,390.0,g,15.6,CARAMELOS
-Butter Toffees Sabores Surtidos 400 g,,400.0,g,15.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,400.0,g,15.9,CARAMELOS
 Caramelos White Rabbit 180g,,180.0,g,16.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,180.0,g,16.5,CARAMELOS
-Gomitas Rollo Mogul 35g,ARCOR,35.0,g,16.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,35.0,g,16.8,CARAMELOS
 Caramelos AMBROSOLI Blando de leche Bolsa 620Gr,AMBROSOLI,620.0,g,16.9,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,620.0,g,16.9,CARAMELOS
-BUTTER TOFFEE CHOCOLATE X 390G,ARCOR,390.0,g,16.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,390.0,g,16.9,CARAMELOS
 Caramelos AMBROSOLI Blando de leche Bolsa 620G...,,620.0,g,16.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,620.0,g,16.9,CARAMELOS
-CHICLES SURTIDOS X 325G,GROSSO,325.0,g,16.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,325.0,g,16.9,CARAMELOS
 Caramelos ARCOR Chicha Morada 100u Bolsa 360g x 2u,Arcor,360.0,g,17.0,vega,2024-12-06 12:26:06.372088,CARAMELOS,360.0,g,17.0,CARAMELOS
 Peccanroll HELENA Caramelo Crunch Caja 100g,HELENA,100.0,g,17.5,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,100.0,g,17.5,CARAMELOS
 Peccanroll HELENA Caramelo Crunch Caja 100g,,100.0,g,17.5,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,100.0,g,17.5,CARAMELOS
@@ -225,7 +142,6 @@ Caramelos MULTIBIOTICOS Duros sin Azúcar con S...,,1.0,un,18.9,plaza_vea,2024-1
 Caramelos Masticables Halloween Trinche 99g,,99.0,g,19.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,99.0,g,19.5,CARAMELOS
 Caramelos Duros Surtidos Fiesta 1kg,,1.0,kg,20.3,metro,2024-12-06 19:06:31.144709,CARAMELOS,1.0,kg,20.3,CARAMELOS
 Caramelos Sabor a Mora 12 Unidades,HALLS,12.0,un,22.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,12.0,un,22.8,CARAMELOS
-Display Halls Extrastrong 297 g x 12,TRIDENT,297.0,g,22.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,297.0,g,22.8,CARAMELOS
 Caramelos HALLS Fruit Mix Caja 12un,HALLS,12.0,un,24.0,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,12.0,un,24.0,CARAMELOS
 Caramelos HALLS Mora Azul Lyptus Caja 12un,HALLS,12.0,un,24.0,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,12.0,un,24.0,CARAMELOS
 Caramelos HALLS Menthol Lyptus Caja 12un,,12.0,un,24.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,12.0,un,24.0,CARAMELOS
@@ -233,18 +149,11 @@ Caramelos HALLS Cereza Eucalipto Paquete 9un,,9.0,un,24.0,plaza_vea,2024-12-06 1
 Caramelos HALLS Mora Azul Lyptus Caja 12un,,12.0,un,24.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,12.0,un,24.0,CARAMELOS
 Caramelos HALLS Extra Fuerte Caja 12un,,12.0,un,24.0,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,12.0,un,24.0,CARAMELOS
 Helado D'ONOFRIO Frio Rico Crocante Caramelo y Sal de Maras Pote 900ml,D'ONOFRIO,900.0,ml,24.9,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,900.0,ml,24.9,CARAMELOS
-Tinte para Cabello CASTING Creme Gloss 630 Car...,,1.0,un,28.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,1.0,un,28.9,CARAMELOS
 Caramelos Duros Arcor Halloween Mochila Gatito 75g,,75.0,g,29.5,metro,2024-12-06 19:06:31.144709,CARAMELOS,75.0,g,29.5,CARAMELOS
 Helado HÄAGEN DAZS de Vainilla Caramelo y Brownie Pote 473ml,HÄAGEN DAZS,473.0,ml,29.9,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,473.0,ml,29.9,CARAMELOS
-Tinte para Cabello SOFT COLOR Sin Amoníaco 63 ...,,1.0,un,29.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,1.0,un,29.9,CARAMELOS
 Helado HÄAGEN DAZS de Vainilla Caramelo y Brow...,,473.0,ml,29.9,plaza_vea,2024-12-06 14:28:04.541954,CARAMELOS,473.0,ml,29.9,CARAMELOS
 Caja de caramelos Topps Ring Pop de 12 unidades,,12.0,un,30.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,12.0,un,30.0,CARAMELOS
-Bubbaloo 25g x 20 Unidades,SPARKIES,25.0,g,31.9,tottus,2024-12-06 13:51:28.506028,CARAMELOS,25.0,g,31.9,CARAMELOS
 Tinte para Cabello L'ORÉAL Casting Creme Gloss 630 Caramelo Caja 1un,CASTING,1.0,un,33.5,vivanda,2024-12-06 12:07:46.933019,CARAMELOS,1.0,un,33.5,CARAMELOS
 Caramelos Cavendish & Harvey Frutos Del Bosque Frasco 966 g,,966.0,g,34.9,metro,2024-12-06 19:06:31.144709,CARAMELOS,966.0,g,34.9,CARAMELOS
-Bombón 630 g,NIKOLO,630.0,g,40.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,630.0,g,40.0,CARAMELOS
-Caja de Chocolates Confitados Lentejas 20 Unidades,,20.0,un,40.0,tottus,2024-12-06 13:51:28.506028,CARAMELOS,20.0,un,40.0,CARAMELOS
-Clear Breath Wintergreen Display 12 Unidades,MENTOS,12.0,un,87.6,tottus,2024-12-06 13:51:28.506028,CARAMELOS,12.0,un,87.6,CARAMELOS
-CHOCOLATE MILK SINGLES M YMSX 36UN,M&MS,36.0,un,165.6,tottus,2024-12-06 13:51:28.506028,CARAMELOS,36.0,un,165.6,CARAMELOS
 Caramelos Masticables Sabor Original 36 Unidades,STARBURST,36.0,un,208.8,tottus,2024-12-06 13:51:28.506028,CARAMELOS,36.0,un,208.8,CARAMELOS
 Caramelos ARCOR Frutas 100u Bolsa 330g x 2u,Arcor,330.0,g,,vega,2024-12-06 12:26:06.372088,CARAMELOS,330.0,g,,CARAMELOS

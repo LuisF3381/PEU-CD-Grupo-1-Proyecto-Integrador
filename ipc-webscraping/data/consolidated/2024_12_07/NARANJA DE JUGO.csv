@@ -1,13 +1,9 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
 Jugo en polvo sabor a naranja de 15 g,ZUKO,15.0,g,1.2,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,15.0,g,1.2,NARANJA DE JUGO
-Refresco Instantáneo Sabor Naranja Sobre 15 g,,15.0,g,1.2,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,15.0,g,1.2,NARANJA DE JUGO
-Gelatina Bebible Umsha Frutísimos Sabor Naranja 20g,,20.0,g,1.6,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,20.0,g,1.6,NARANJA DE JUGO
 "Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 500 ml",,500.0,ml,1.7,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,500.0,ml,1.7,NARANJA DE JUGO
 "Bebida de Piña, Papaya, Naranja y Plátano Gloria Caja 500ml",,500.0,ml,2.1,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,500.0,ml,2.1,NARANJA DE JUGO
-Naranja para Jugo Chanchamayo x kg,,1.0,kg,2.29,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.0,kg,2.29,NARANJA DE JUGO
 Bebida de Naranja Watts Botella 350ml,,350.0,ml,2.4,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,350.0,ml,2.4,NARANJA DE JUGO
 Bebida de Naranja Watts Botella 350ml,,350.0,ml,2.5,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,350.0,ml,2.5,NARANJA DE JUGO
-Puré De Camote Jugo Naranja Granada Y Miel x 40 g,CAMOFIT,40.0,g,2.9,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,40.0,g,2.9,NARANJA DE JUGO
 Bebida de Naranja Frugos del Valle Caja 970ml,,970.0,ml,3.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,970.0,ml,3.9,NARANJA DE JUGO
 Bebida de Naranja Gloria Caja 1L,,1.0,l,3.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.0,l,3.9,NARANJA DE JUGO
 Bebida de Naranja Frugos del Valle Caja 970ml,,970.0,ml,3.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,970.0,ml,3.9,NARANJA DE JUGO
@@ -23,12 +19,7 @@ Bebida de Naranja Watts Caja 1L,,1.0,l,4.5,metro,2024-12-07 20:17:25.449141,NARA
 Bebida Sabor Naranja 1 Lt Botella,FRUGOS DEL VALLE,1.0,l,4.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,1.0,l,4.5,NARANJA DE JUGO
 Bebida de Naranja 1 L,GLORIA,1.0,l,4.9,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,1.0,l,4.9,NARANJA DE JUGO
 Bebida de Naranja Gloria Caja 1.5L,,1.5,l,4.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.5,l,4.9,NARANJA DE JUGO
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Naranja 14g,,14.0,g,5.0,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,14.0,g,5.0,NARANJA DE JUGO
-Tripack Bebida Instantánea Clight Sin Calorías Sabor Naranja 14g,,14.0,g,5.0,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,14.0,g,5.0,NARANJA DE JUGO
-Naranja 591 mL,GATORADE,591.0,ml,5.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,591.0,ml,5.5,NARANJA DE JUGO
 Bebida de Naranja Frugos del Valle Caja 1.5L,,1.5,l,5.5,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.5,l,5.5,NARANJA DE JUGO
-Cola naranja Fresh 3 L,TOTTUS,3.0,l,5.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,3.0,l,5.5,NARANJA DE JUGO
-Gaseosa Sabor Naranja 355 mL,FANTA,355.0,ml,5.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,355.0,ml,5.5,NARANJA DE JUGO
 Jugo KING FRUITS Mix fresa y naranja Botella 5...,,500.0,ml,5.6,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,500.0,ml,5.6,NARANJA DE JUGO
 Jugo de Fruta KERO Naranja y Piña Botella 475ml,KERO,475.0,ml,5.7,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,475.0,ml,5.7,NARANJA DE JUGO
 "Bebida de Naranja, Piña y Camu Camu Kero Botella 475 ml",,475.0,ml,5.8,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,475.0,ml,5.8,NARANJA DE JUGO
@@ -37,55 +28,37 @@ BEBIDA DE NARANJA CAJA 1.5L,GLORIA,1.5,l,5.9,tottus,2024-12-07 13:26:28.278521,N
 Jugo de Naranja Florida's Nature Lata 340ml,,340.0,ml,5.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,340.0,ml,5.9,NARANJA DE JUGO
 Jugo de Naranja Florida's Nature Lata 340ml,,340.0,ml,5.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,340.0,ml,5.9,NARANJA DE JUGO
 "Bebida de Naranja, Piña y Camu Camu Kero Botella 475ml",,475.0,ml,5.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,475.0,ml,5.9,NARANJA DE JUGO
-Rehidratante Naranja Mandarina 630 mL,SUEROX,630.0,ml,6.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,630.0,ml,6.5,NARANJA DE JUGO
 Jugo de Naranja Zanahoria ECOFRESH Botella 400...,,400.0,ml,6.59,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,400.0,ml,6.59,NARANJA DE JUGO
 Jugo de Naranja ECOFRESH Botella 400ml,ECOFRESH,400.0,ml,6.59,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,400.0,ml,6.59,NARANJA DE JUGO
 Jugo de Naranja Zanahoria ECOFRESH Botella 400ml,ECOFRESH,400.0,ml,6.59,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,400.0,ml,6.59,NARANJA DE JUGO
 Jugo de Naranja Pasteurizada Ecofresh Botella 500ml,,500.0,ml,6.6,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,500.0,ml,6.6,NARANJA DE JUGO
-Gaseosa sabor Naranja 3 L,FANTA,3.0,l,6.9,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,3.0,l,6.9,NARANJA DE JUGO
 "Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3L",,3.0,l,7.1,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,3.0,l,7.1,NARANJA DE JUGO
 "Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 1.87 lt",,1.87,l,7.1,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.87,l,7.1,NARANJA DE JUGO
 "Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3 Litros",,3.0,l,7.1,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,3.0,l,7.1,NARANJA DE JUGO
-Twopack Bebida de Naranja Frugos del Valle Caja 1L,,1.0,l,7.5,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.0,l,7.5,NARANJA DE JUGO
 Bebida Citrus Punch Sabor Naranja 3 L,TAMPICO,3.0,l,7.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,3.0,l,7.5,NARANJA DE JUGO
-Twopack Bebida de Naranja Frugos del Valle Caja 1L,,1.0,l,7.5,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.0,l,7.5,NARANJA DE JUGO
 Jugo Naranja Mgo Marac ECOFRESH Botella 475ml,ECOFRESH,475.0,ml,7.8,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,475.0,ml,7.8,NARANJA DE JUGO
 Jugo de Naranja Zanahoria ECOFRESH Botella 475...,,475.0,ml,7.8,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,475.0,ml,7.8,NARANJA DE JUGO
 Jugo de Naranja Mango Maracuya ECOFRESH Botell...,,475.0,ml,7.8,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,475.0,ml,7.8,NARANJA DE JUGO
-Sixpack Bebida de Naranja Frugos del Valle Caja 235ml,,235.0,ml,7.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,235.0,ml,7.9,NARANJA DE JUGO
 Jugo de Naranja Natural Wong Botella 500ml,,500.0,ml,7.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,500.0,ml,7.9,NARANJA DE JUGO
-Sixpack Bebida de Naranja Frugos del Valle Caja 235ml,,235.0,ml,7.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,235.0,ml,7.9,NARANJA DE JUGO
 Jugo Cold Pressed de Naranja Ecofresh Botella 475ml,,475.0,ml,7.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,475.0,ml,7.9,NARANJA DE JUGO
 Jugo Cold Pressed de Naranja con Zanahoria Ecofresh Botella 475ml,,475.0,ml,7.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,475.0,ml,7.9,NARANJA DE JUGO
 Jugo de Naranja Natural Wong Botella 500ml,,500.0,ml,7.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,500.0,ml,7.9,NARANJA DE JUGO
-Naranja para Jugo La Morochita Wong 2.5kg,,2.5,kg,9.49,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,2.5,kg,9.49,NARANJA DE JUGO
-Naranja para Jugo La Pecosita Wong 2.5 Kg,,2.5,kg,9.69,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,2.5,kg,9.69,NARANJA DE JUGO
 Jugo KING FRUITS Mix fresa y naranja Botella 1...,,1.0,l,9.69,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,9.69,NARANJA DE JUGO
-Twopack Bebida de Naranja Frugos del Valle Caja 1.5L,,1.5,l,9.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.5,l,9.9,NARANJA DE JUGO
 "Bebida De Naranja, Mandarina y Limón Citrus Punch Tampico Botella 3.78 lt",,3.78,l,11.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,3.78,l,11.9,NARANJA DE JUGO
 Jugo Naranja ECOFRESH Botella 1L,ECOFRESH,1.0,l,12.5,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,1.0,l,12.5,NARANJA DE JUGO
 Jugo Nectar de Naranja ECOFRESH Botella 1L,,1.0,l,12.5,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,12.5,NARANJA DE JUGO
 Jugo Nectar de Naranja Zanahoria ECOFRESH Bote...,,1.0,l,12.5,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,12.5,NARANJA DE JUGO
 Jugo de Naranja ECOFRESH Botella 1L,,1.0,l,12.5,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,12.5,NARANJA DE JUGO
-Néctar de Naranja Bajo en Calorías Ecofresh Botella 1L,,1.0,l,12.6,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.0,l,12.6,NARANJA DE JUGO
-Néctar de Naranja con Zanahoria Bajo en Calorías Ecofresh Botella 1L,,1.0,l,12.6,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.0,l,12.6,NARANJA DE JUGO
 BEBIDA GASESOSA NARANJA BOT 500ML X 6UND,FANTA,500.0,ml,13.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,500.0,ml,13.5,NARANJA DE JUGO
 Jugo Sabor a Naranja ECOFRESH Botella 1L,,1.0,l,13.9,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,13.9,NARANJA DE JUGO
 Jugo de Naranja Mango Maracuya ECOFRESH Botell...,,1.0,l,13.9,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,13.9,NARANJA DE JUGO
 Jugo de Naranja Zanahoria ECOFRESH Botella 1L,,1.0,l,13.9,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.0,l,13.9,NARANJA DE JUGO
 Jugo Naranja Mgo Marac ECOFRESH Botella 1L,ECOFRESH,1.0,l,13.9,vivanda,2024-12-07 14:19:00.626936,NARANJA DE JUGO,1.0,l,13.9,NARANJA DE JUGO
 Jugo Cold Pressed de Naranja con Zanahoria Ecofresh Botella 1L,,1.0,l,14.5,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.0,l,14.5,NARANJA DE JUGO
-Pack x2 Sixpack Bebida de Naranja Frugos del Valle Caja 235ml,,235.0,ml,14.5,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,235.0,ml,14.5,NARANJA DE JUGO
-Tripack Bebida de Naranja Frugos del Valle Caja 1.5L,,1.5,l,14.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.5,l,14.9,NARANJA DE JUGO
-Tripack Bebida de Naranja Frugos del Valle Caja 1.5L,,1.5,l,14.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.5,l,14.9,NARANJA DE JUGO
-Cajonazo Naranja de Jugo Extra 10 Kg,GRANEL,10.0,kg,15.0,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,10.0,kg,15.0,NARANJA DE JUGO
-Tripack de Gaseosa Sevenup Concordia Naranja y Concordia Piña 3 L,PEPSI,3.0,l,17.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,3.0,l,17.5,NARANJA DE JUGO
-TRIPACK + SEVENUP + CONCORDIA NARANJA 3LT,PEPSI,3.0,l,17.5,tottus,2024-12-07 13:26:28.278521,NARANJA DE JUGO,3.0,l,17.5,NARANJA DE JUGO
 Jugo KING FRUITS Mix fresa y naranja Botella 1...,,1.8,l,18.9,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.8,l,18.9,NARANJA DE JUGO
 Jugo Nectar de Naranja ECOFRESH Botella 1.8L,,1.8,l,19.7,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.8,l,19.7,NARANJA DE JUGO
 Jugo de Naranja ECOFRESH Botella 1.8L,,1.8,l,19.7,plaza_vea,2024-12-07 13:47:32.013363,NARANJA DE JUGO,1.8,l,19.7,NARANJA DE JUGO
 Jugo de Naranja Sin Pulpa Florda's Natural Caja 1.5 L,,1.5,l,19.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.5,l,19.9,NARANJA DE JUGO
-Néctar de Naranja Bajo en Calorías Ecofresh Botella 1.8L,,1.8,l,19.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.8,l,19.9,NARANJA DE JUGO
 Jugo de Naranja Sin Pulpa Florda's Natural Caja 1.5 L,,1.5,l,19.9,metro,2024-12-07 20:17:25.449141,NARANJA DE JUGO,1.5,l,19.9,NARANJA DE JUGO
 Jugo de Naranja Con Pulpa Florida's Natural Caja 1.5 lt,,1.5,l,19.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.5,l,19.9,NARANJA DE JUGO
 Jugo de Naranja Natural Ecofresh Botella 1.8L,,1.8,l,21.9,wong,2024-12-07 17:24:10.283983,NARANJA DE JUGO,1.8,l,21.9,NARANJA DE JUGO

@@ -1,155 +1,40 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Yogurt Actibio Higo Guindón Pasas 180 g,LAIVE,180.0,g,1.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,10.555555555555555,PASAS
-Mani Con Pasas 100gr,TOTTUS,100.0,g,4.0,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,40.0,PASAS
-Colado HEINZ Ciruela y Pasas Frasco 113g,,113.0,g,4.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,35.39823008849557,PASAS
-Piqueo BELL'S Maní con Pasas Táper 140g,,140.0,g,4.3,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,30.71428571428571,PASAS
 Pasas Morenas BELL'S Bolsa 180g,,180.0,g,4.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,25.0,PASAS
 Pasas Morenas VALLEALTO Bolsa 150g,,150.0,g,4.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,30.0,PASAS
 Pasas Morenas Cuisine&Co 150g,,150.0,g,4.5,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,30.0,PASAS
-Chocoteja de Pasas Borrachas Helena 30g,,30.0,g,4.5,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,150.0,PASAS
-Mani Con Pasas 150gr,TOTTUS,150.0,g,4.5,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,30.0,PASAS
-Colado de Ciruela De Pasas 113 g,HEINZ,113.0,g,4.5,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,39.82300884955752,PASAS
 Pasas Morenas BELL'S Bolsa 180g,BELL'S,180.0,g,4.5,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,25.0,PASAS
-Panetón con Pasas y Frutas Confitadas TODINNIT...,,85.0,g,4.6,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,54.11764705882352,PASAS
-Maiz Pop Corn 500 g,TOTTUS,500.0,g,4.64,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,9.28,PASAS
 Pasas Morenas Cuisine&Co 150g,,150.0,g,4.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,32.66666666666667,PASAS
 Pasas Morenas VALLEALTO Bolsa 150g,VALLEALTO,150.0,g,4.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,32.66666666666667,PASAS
 Pasas Morenas VILLA NATURA Bolsa 150g,,150.0,g,5.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,33.333333333333336,PASAS
-Maní con Pasas VILLA NATURA Bolsa 150g,,150.0,g,5.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,33.333333333333336,PASAS
 Pasas Morenas Vallealto 150g,,150.0,g,5.1,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,34.0,PASAS
 Pasas Morenas BL 150 g,VALLEALTO,150.0,g,5.1,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,34.0,PASAS
 Pasas Morenas Vallealto 150g,,150.0,g,5.1,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,34.0,PASAS
-Maní con Pasas Cuisine & Co Bolsa 200 gr,,200.0,g,5.2,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,26.0,PASAS
-Coco Rallado BELL'S Táper 100g,,100.0,g,5.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,55.0,PASAS
 Pasas Bañadas con Chocolate Fochis 70g,,70.0,g,5.5,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,78.57142857142857,PASAS
-Maní con Pasas Vallealto Bolsa 150 gr,,150.0,g,5.6,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,37.333333333333336,PASAS
-Piqueo BELL'S Maní con pasas Bolsa 180Gr,BELL'S,180.0,g,5.7,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,31.666666666666668,PASAS
 Pasas Bañadas con Chocolate Fochis 70g,,70.0,g,5.8,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,82.85714285714285,PASAS
 Pasas con Cobertura de Chocolate Choko Pasas Bolsa 100 g,,100.0,g,5.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,59.0,PASAS
 Pasas morenas 150 g,VILLA NATURA,150.0,g,5.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,39.333333333333336,PASAS
-Almendras VILLA NATURA Bolsa 80g,,80.0,g,6.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,75.0,PASAS
-Piqueo BELL'S Mix nueces premium Bolsa 150Gr,,150.0,g,6.6,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,44.0,PASAS
-Yogurt Actibio Higo Guindon Pasas 950 g,GLORIA,950.0,g,6.7,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,7.052631578947368,PASAS
-Maní con Pasas Cuisine & Co Bolsa 200 gr,,200.0,g,6.8,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,34.0,PASAS
-Albaricoques BELL'S Táper 100g,,100.0,g,7.39,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,73.89999999999999,PASAS
-Mixtura Natural VILLA NATURA Bolsa 150g,,150.0,g,7.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,50.0,PASAS
-Piqueo VILLA NATURA Cocktail de Nueces Bolsa 1...,,150.0,g,7.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,50.0,PASAS
 Pasas Morenas BELL'S Táper 250g,BELL'S,250.0,g,7.5,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,30.0,PASAS
-Piqueos VILLA NATURA Cocktail de Nueces Sin Sa...,,150.0,g,7.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,50.0,PASAS
 Pasas Morenas Villa Natura 200g,,200.0,g,7.7,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,38.5,PASAS
 Pasas Morenas BELL'S Táper 250g,,250.0,g,7.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,31.6,PASAS
-Guindones sin Pepa VILLA NATURA Bolsa 150g,,150.0,g,7.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,52.66666666666667,PASAS
 Pasas Morenas Cuisine&Co Pote 250 g,,250.0,g,7.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,31.6,PASAS
-Guindones Medianos BELL'S Bolsa 180g,,180.0,g,7.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,43.88888888888889,PASAS
-Pecana Pelada VILLA NATURA Bolsa 60g,,60.0,g,7.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,131.66666666666669,PASAS
 Pasas Morenas Cuisine&Co Pote 250 g,,250.0,g,7.99,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,31.96,PASAS
 Pasas Morenas VALLEALTO Doypack 250g,VALLEALTO,250.0,g,8.0,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,32.0,PASAS
-Piqueo VILLA NATURA Nueces peladas Bolsa 80Gr,,80.0,g,8.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,100.0,PASAS
-Cashews Salados VILLA NATURA Bolsa 80g,,80.0,g,8.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,100.0,PASAS
 Pasas Morenas Vallealto 250g,,250.0,g,8.2,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,32.8,PASAS
-Castañas BELL'S Táper 100g,,100.0,g,8.29,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,82.89999999999999,PASAS
-Almendras BELL'S Táper 100g,,100.0,g,8.29,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,82.89999999999999,PASAS
 Pasas Rubias BELL'S Táper 150g,BELL'S,150.0,g,8.49,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,56.6,PASAS
-Chocolate en Barra LA IBÉRICA Milky Pecanas y Pasas Paquete 50g,LA IBERICA,50.0,g,8.5,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,170.0,PASAS
-Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,,50.0,g,8.5,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,170.0,PASAS
-Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,,50.0,g,8.5,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,170.0,PASAS
-Bolitas de Cereal TRUBALLS Maní y Pasas Doypac...,,90.0,g,8.8,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,97.77777777777779,PASAS
-Berry Mix VALLEALTO Bolsa 150g,,150.0,g,8.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,59.333333333333336,PASAS
 Pasas Morenas VILLA NATURA Bolsa 250g,VILLA NATURA,250.0,g,8.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,35.6,PASAS
-Maní con Pasas VILLA NATURA Bolsa 250g,,250.0,g,8.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,35.6,PASAS
 Pasas Rubias VILLA NATURA Bolsa 150g,VILLA NATURA,150.0,g,8.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,59.333333333333336,PASAS
-Frutos Secos VILLA NATURA Cocktail Premium Bol...,,150.0,g,8.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,59.333333333333336,PASAS
 Pasas Rubias VILLA NATURA Bolsa 150g,,150.0,g,8.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,59.333333333333336,PASAS
-Piqueo BELL'S Pasas rubias Bolsa 180Gr,BELL'S,180.0,g,9.19,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,51.05555555555555,PASAS
-Piqueo BELL'S Selección de Nueces Bolsa 180g,,180.0,g,9.2,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,51.11111111111111,PASAS
 Pasas Morenas Villa Natura 250g,,250.0,g,9.2,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,36.8,PASAS
-Piqueo VALLEALTO Maíz maní y almendras Bolsa 1...,,150.0,g,9.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,63.333333333333336,PASAS
-Piqueo BELL'S Guindones medianos sin pepa Bols...,,180.0,g,9.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,52.77777777777778,PASAS
-Granola Almendras y Pasas Cuisine & Co 300g,,300.0,g,9.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,33.0,PASAS
-Granola con Pasas y Almendras 350 g,TOTTUS,350.0,g,9.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,28.28571428571429,PASAS
-Dátiles Deshidratados Medjool DELITIERRA Bolsa...,,150.0,g,9.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,66.0,PASAS
-Granola BELL'S Coco y Pasas Doypack 350g,BELL'S,350.0,g,9.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,28.28571428571429,PASAS
-"Mix de Maní Tostado, Maní Confitado, Almendras y Pasas Trunuts Blue Mix Doypack 125 g",,125.0,g,9.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,79.2,PASAS
-Granola BELL'S Coco y Pasas Doypack 350g,,350.0,g,9.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,28.28571428571429,PASAS
-Chips DELITIERRA Mix Cacao con Pasas Morenas B...,,150.0,g,9.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,66.0,PASAS
-Granola Almendras y Pasas Cuisine & Co 300g,,300.0,g,9.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,33.0,PASAS
 Pasas con Chocolate 2 Cerritos Bolsa 125 gr,,125.0,g,9.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,79.2,PASAS
-"Mix de Maní Tostado, Maní Confitado, Almendras y Pasas Trunuts Blue Mix Doypack 125 g",,125.0,g,9.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,79.2,PASAS
-Mezcla de Arándanos BELL'S Táper 200g,,200.0,g,10.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,50.0,PASAS
-Piqueo BELL'S Nueces peladas Bolsa 100Gr,,100.0,g,10.0,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,100.0,PASAS
 Pasas Borrachas con Chocolate 2 Cerritos Bolsa 125 gr,,125.0,g,10.1,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,80.8,PASAS
-Chocolate 2 CERRITOS Relleno de pasas Bolsa 125g,2 CERRITOS,125.0,g,10.1,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,80.8,PASAS
-Chocolate 2 CERRITOS con Pasas Bolsa 125g,NURIA,125.0,g,10.1,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,80.8,PASAS
 Pasas con Chocolate 2 Cerritos Bolsa 125 gr,,125.0,g,10.1,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,80.8,PASAS
-Mezcla GRANUTS Party Mix Bolsa 200g,,200.0,g,10.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,52.5,PASAS
-Yogurt Actibio Higo Guindon Pasas 1.7Kg,GLORIA,1.7,kg,10.5,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,6.176470588235294,PASAS
 Pasas Rubias Cuisine & Co 150g,,150.0,g,10.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,72.66666666666667,PASAS
 Pasas Rubias Cuisine & Co 150g,,150.0,g,10.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,72.66666666666667,PASAS
-"Yogurt GLORIA ActiBio con Linaza Sabor a Higo, Guindón y Pasas Galonera 1.7Kg",GLORIA,1.7,kg,10.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,6.411764705882353,PASAS
-Guindones Medianos BELL'S Táper 250g,,250.0,g,10.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,43.6,PASAS
-Bolitas De Cereal Maní y Pasas Truballs Doypack 90 g,,90.0,g,11.1,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,123.33333333333333,PASAS
-Viola Muesli de Nueces y Pasas Paquete 500 g,,500.0,g,11.5,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,23.0,PASAS
-Snack NATURE'S HEART Frutas y Chocolate Doypac...,,120.0,g,11.6,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,96.66666666666667,PASAS
 Pasas Rubias Vallealto 150g,,150.0,g,11.6,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,77.33333333333333,PASAS
 Pasas Rubias Villa Natura 200g,,200.0,g,11.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,59.5,PASAS
-Piqueo BELL'S Pecanas Peladas Bolsa 80g,,80.0,g,11.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,148.75,PASAS
-Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,,500.0,g,11.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,23.8,PASAS
-Mix Clásico Berry VILLA NATURA Bolsa 250g,,250.0,g,11.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,47.6,PASAS
-Piqueo VILLA NATURA Pasas Maní Almendra Pecana...,,250.0,g,12.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,51.6,PASAS
-Puré de Manzana con Pecanas y Pasas Premium Cuisine & Co 500g,,500.0,g,12.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,25.8,PASAS
-Piqueo VILLA NATURA Pasas Maní Almendra Pecanas y Nueces Táper 250g,VILLA NATURA,250.0,g,12.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,51.6,PASAS
-Pecanas Peladas VILLA NATURA Bolsa 100g,,100.0,g,12.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,129.0,PASAS
-Chocolate Relleno con Pasas Maceradas Bombón 2 Cerritos Bolsa 125 gr,,125.0,g,12.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,103.2,PASAS
-Snack NATURE'S HEART Mezcla Antioxidante Doypa...,,170.0,g,13.2,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,77.6470588235294,PASAS
-Granola con avena ajonjolí pasas coco y almendras crujiente 380 g,CROSOY,380.0,g,13.5,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,35.526315789473685,PASAS
-Guindones sin Pepa BELL'S Táper 250g,,250.0,g,13.6,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,54.4,PASAS
-Pecanas Peladas BELL'S Táper 100g,,100.0,g,13.7,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,137.0,PASAS
-Almendras Bañadas con Chocolate GRANUTS Bolsa ...,,120.0,g,13.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,115.83333333333334,PASAS
-Duo Pack VILLA NATURA Cocktail sin Sal Bolsa 3...,,300.0,g,13.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,46.333333333333336,PASAS
-Cereal MCCALLUM'S Multicereal con Pasas Caja 350g,MCCALLUM S,350.0,g,13.9,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,39.714285714285715,PASAS
-Piqueos VILLA NATURA Pecanas Peladas Pote 100g,,100.0,g,13.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,139.0,PASAS
-Guindones sin Pepa VILLA NATURA Bolsa 250g,,250.0,g,13.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,55.6,PASAS
-"Granola Crosoy Pasas, Coco y Almendras 380g",,380.0,g,14.4,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,37.89473684210527,PASAS
-"Granola Crosoy Pasas, Coco y Almendras 380g",,380.0,g,14.4,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,37.89473684210527,PASAS
-Maní con Pasas VILLA NATURA Bolsa 500g,,500.0,g,14.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,29.8,PASAS
 Pasas Morenas Villa Natura 500g,,500.0,g,15.6,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,31.2,PASAS
 Pasas Morenas Villa Natura 500g,,500.0,g,15.6,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,31.2,PASAS
-Piqueo VILLA NATURA Pasas Almendras Pecanas Nu...,,250.0,g,15.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,63.6,PASAS
-Almendra VILLA NATURA Táper 200g,,200.0,g,15.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,79.5,PASAS
 Pasas Morenas VILLA NATURA Bolsa 500g,,500.0,g,15.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,31.8,PASAS
-Almendras VIVA LA FRUTA Bolsa 200g,,200.0,g,15.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,79.5,PASAS
-Cereal UNIÓN Granola Pasas y Almendras Doypack...,,400.0,g,16.49,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,41.224999999999994,PASAS
-Granola con Pasas y Almendras Unión Doypack 400g,,400.0,g,16.5,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,41.25,PASAS
-Pecanas Peladas VALLE ALTO Bolsa 135g,,135.0,g,16.5,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,122.22222222222221,PASAS
-Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,,500.0,g,16.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,33.8,PASAS
-Panetón Winter's Sin Pasas Sin Frutas Doypack 500g,,500.0,g,17.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,35.8,PASAS
-Panetón Frutas Confitadas Pasas Bolsa 800 g,COSTA,800.0,g,18.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,23.625,PASAS
-Chocolate de Leche con Pasas y Nueces Tana 40% Cacao 85g,,85.0,g,18.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,222.35294117647055,PASAS
-Bombones con Pisco y Pasas Di Perugia Licorinas 84g,,84.0,g,18.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,224.99999999999994,PASAS
-Piqueo VILLA NATURA Pasas Almendras Pecanas Nueces y Anacardos Táper 250g,VILLA NATURA,250.0,g,19.0,vivanda,2024-12-04 17:51:15.778851,PASAS,1.0,kg,76.0,PASAS
-Cereal en hojuelas con pasas y coco de 330 g,FITNESS,330.0,g,19.7,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,59.696969696969695,PASAS
-Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,,100.0,g,20.2,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,202.0,PASAS
-Chocolate Milky La Iberica Con 25% Pecanas y Pasas y 38% Cacao Tableta 100 g,,100.0,g,20.2,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,202.0,PASAS
-"Granola Orgánica Pecanas, Pasas y Quinua Wasi Doypack 300 g",,300.0,g,20.6,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,68.66666666666667,PASAS
-Panetón Frutas Confitadas Pasas Caja 800 g,COSTA,800.0,g,20.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,26.125,PASAS
-Barras de Quinua Pasas y Chocolate 180 gr,QFOODS,180.0,g,21.0,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,116.66666666666666,PASAS
-Pecanas Peladas VILLA NATURA Bolsa 180g,,180.0,g,21.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,121.66666666666666,PASAS
-Cocktail de Nueces VILLA NATURA Bolsa 500g,,500.0,g,22.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,45.8,PASAS
-Mix Clásico Berry VILLA NATURA Táper 500g,,500.0,g,24.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,49.8,PASAS
-Cocktail de Nueces VILLA NATURA Táper 500g,,500.0,g,24.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,49.8,PASAS
-Panetón Pasas Frutas Caja 880 gr,DONOFRIO,880.0,g,25.5,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,28.97727272727273,PASAS
-Bombones con Pisco y Pasas Di Perugia Licorinas 144g,,144.0,g,25.9,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,179.86111111111111,PASAS
-"Tostadas Nat Crackers Caju, Pasas y Jengibre 160g",,160.0,g,25.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,161.875,PASAS
 Pasas Morenas x kg,,1.0,kg,27.0,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,27.0,PASAS
-Bombones con Trufa al Pisco y Pasas Di Perugia Licorinas 144g,,144.0,g,27.5,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,190.97222222222223,PASAS
-Cocktail VILLA NATURA Premium Bolsa 500g,,500.0,g,29.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,59.8,PASAS
-Maní Tostado con Miel PLANTERS Envase de Plást...,,340.0,g,34.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,102.6470588235294,PASAS
-Bombones con Trufa al Pisco y Pasas Di Perugia Licorinas 168g,,168.0,g,37.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,225.59523809523807,PASAS
-Pecanas Peladas VILLA NATURA Bolsa 350g,,350.0,g,39.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,114.0,PASAS
-Panetón Donofrio Pasas Frutas Caja 1.3 Kg,D'ONOFRIO,1.3,kg,39.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,30.69230769230769,PASAS
-BARRA MILKY PECANAS Y PASAS X 50 GR X 6,LA IBERICA,50.0,g,46.9,tottus,2024-12-04 13:34:08.793727,PASAS,1.0,kg,938.0,PASAS
-Sixpack Chocolate con Leche Milky Pecanas y Pasas 40% Cacao 50g,,50.0,g,47.9,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,958.0,PASAS
 Pasas Rubias x kg,,1.0,kg,49.5,metro,2024-12-04 21:38:28.064613,PASAS,1.0,kg,49.5,PASAS
 Pasas Rubias x kg,,1.0,kg,49.5,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,49.5,PASAS
-Mix de Semillas Tostadas con Miel PLANTERS Env...,,283.0,g,59.9,plaza_vea,2024-12-04 13:59:54.170845,PASAS,1.0,kg,211.660777385159,PASAS
-Paté Mousse con Pasas y Avellanas x Kg,,1.0,kg,155.0,wong,2024-12-04 19:40:14.773612,PASAS,1.0,kg,155.0,PASAS

@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 import numpy as np
+import utils_preprocess
+
 
 from Levenshtein import distance as levenshtein_distance
 
@@ -144,7 +146,7 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
     csv_path_prod_unid = os.path.join(current_dir, 'base_period', 'IPC_BASE_unid.csv')
     df_unidades = pd.read_csv(csv_path_prod_unid)
 
-    print(df_unidades)
+    #print(df_unidades)
     
     # Iterar por cada fila del DataFrame de clasificaciones
     for _, fila in df_clasificaciones.iterrows():
@@ -216,15 +218,40 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
             df_sin_duplicados = df_sin_duplicados[columnas_seleccionadas]
             
             # Aplicamos la funcion de filro correspondiente
+            print("Ga aqui:",clasificacion)
+
+            # Leeemos el csv
+            current_dir = os.path.dirname(__file__)
+            csv_procesamiento = os.path.join(current_dir, 'base_period', 'Procesamiento.csv')
+            df_procesamiento = pd.read_csv(csv_procesamiento)
+
+            funcion_row = df_procesamiento[df_procesamiento['PRODUCTO'] == clasificacion]
+            #print(funcion_row)
+
+            # Supongamos que ya tienes la variable 'funcion_row' con los datos
+            if pd.isna(funcion_row['terminos'].iloc[0]) or pd.isna(funcion_row['funcion_tratamiento'].iloc[0]):
+                print("El valor de 'terminos' o 'funcion_tratamiento' es NaN. NO SE APLICARA FILTRO")
+            else:
+                funcion_nombre = funcion_row['funcion_tratamiento'].iloc[0]
+                terminos = funcion_row['terminos'].iloc[0]
+
+                funcion_tratamiento = getattr(utils_preprocess, funcion_nombre)
+
+                df_sin_duplicados = funcion_tratamiento(df_sin_duplicados, terminos)
+
 
             # Guardar con el nombre de la clasificación (reemplazando espacios por guiones bajos)
             nombre_archivo = f"{clasificacion}.csv"
             ruta_archivo = os.path.join(output_path, nombre_archivo)
-            df_sin_duplicados.to_csv(ruta_archivo, index=False)
-            print(f"Guardado {ruta_archivo} con {len(df_sin_duplicados)} filas")
+            
+            if not df_sin_duplicados.empty:
+                df_sin_duplicados.to_csv(ruta_archivo, index=False)
+                print(f"Guardado {ruta_archivo} con {len(df_sin_duplicados)} filas")
+            else:
+                print("El DataFrame está vacío, no se guardará el archivo.")
 
 # Uso del script
-CURRENT_DATE = "2024_12_07"
+CURRENT_DATE = "2024_12_06"
 
 current_dir = os.path.dirname(__file__)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')

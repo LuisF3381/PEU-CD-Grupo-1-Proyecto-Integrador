@@ -1,13 +1,8 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Aceite Vegetal COCINERO Botella 900L,Cocinero,900.0,l,8.5,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,0.009444444444444445,ACEITE DE OLIVA
-Aceite Vegetal PRIMOR Clásico Botella 900L,Primor,900.0,l,9.1,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,0.01011111111111111,ACEITE DE OLIVA
-Aceite Vegetal PRIMOR Premium Botella 900L,Primor,900.0,l,9.5,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,0.010555555555555556,ACEITE DE OLIVA
 Aceite de Oliva BELL'S Puro Botella 200ml,BELL'S,200.0,ml,15.9,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,79.5,ACEITE DE OLIVA
 Aceite de Oliva BELL'S Puro Botella 200ml,,200.0,ml,15.9,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,79.5,ACEITE DE OLIVA
 Aceite de Oliva Puro 200 mL,EL OLIVAR,200.0,ml,16.7,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,83.5,ACEITE DE OLIVA
-Aceite Oliva Cuisine & Co 250ml,,250.0,ml,18.9,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,75.6,ACEITE DE OLIVA
 Aceite de Oliva Cuisine & Co 250ml,,250.0,ml,19.8,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,79.2,ACEITE DE OLIVA
-Aceite Oliva Cuisine & Co 250ml,,250.0,ml,19.8,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,79.2,ACEITE DE OLIVA
 Aceite de Oliva Borges Extra Virgen Botella 250 ml,,250.0,ml,19.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,79.6,ACEITE DE OLIVA
 Aceite de Oliva Sabor Suave Botella 200 ml,,200.0,ml,20.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,102.5,ACEITE DE OLIVA
 Aceite de Oliva OLIVOS DEL SUR Extra Virgen Botella 200ml,OLIVOS DEL SUR,200.0,ml,20.9,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,104.5,ACEITE DE OLIVA
@@ -27,8 +22,6 @@ Aceite de Oliva La Española Extra Virgen Botella 250 ml,,250.0,ml,24.6,metro,20
 Aceite de Oliva VALDEPORRES Extra Virgen Botel...,,250.0,ml,24.6,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,98.4,ACEITE DE OLIVA
 Aceite de Oliva VALDEPORRES Extra Virgen Botella 250ml,VALDEPORRES,250.0,ml,24.6,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,98.4,ACEITE DE OLIVA
 Aceite de Oliva Virgen Botella 200 ml,,200.0,ml,24.65,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,123.25,ACEITE DE OLIVA
-Leche Corporal Hidratante con Aceite de Oliva Frasco 400 mL,NIVEA,400.0,ml,24.9,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,62.25,ACEITE DE OLIVA
-Mezcla de Aceite de Canola con Aceite de Oliva Borges 1L,,1.0,l,24.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,24.9,ACEITE DE OLIVA
 Aceite De Oliva Extra Suave Borges Botella 500 ml,,500.0,ml,24.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,49.8,ACEITE DE OLIVA
 Aceite de Oliva CARBONELL Puro Frasco 200ml,CARBONELL,200.0,ml,25.1,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,125.5,ACEITE DE OLIVA
 Aceite de Oliva CARBONELL Extra Virgen Spray 200ml,CARBONELL,200.0,ml,25.1,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,125.5,ACEITE DE OLIVA
@@ -36,7 +29,6 @@ Aceite de Oliva La Española Extra Virgen Botella 250 ml,,250.0,ml,25.7,wong,202
 Aceite de Oliva Carbonell Extra Virgen Spray 200 ml,,200.0,ml,25.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,129.5,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen 250 mL,EL OLIVAR,250.0,ml,26.8,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,107.2,ACEITE DE OLIVA
 Aceite de Oliva CREMONINI Extra Virgen Botella 250ml,CREMONINI,250.0,ml,28.9,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,115.6,ACEITE DE OLIVA
-Mezcla de Aceite de Girasol con Aceite de Oliva Borges 1L,,1.0,l,28.9,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,28.9,ACEITE DE OLIVA
 Aceite de Oliva CARBONELL Sabor Afrutado Inten...,,250.0,ml,29.5,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,118.0,ACEITE DE OLIVA
 Aceite de Oliva con Ajo El Olivar Botella 250ml,,250.0,ml,29.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,119.6,ACEITE DE OLIVA
 Aceite de Oliva Santolivo Extra Virgen 250ml,,250.0,ml,30.0,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,120.0,ACEITE DE OLIVA
@@ -47,16 +39,11 @@ Aceite de Oliva Extra Virgen Botella 250 ml,,250.0,ml,31.4,wong,2024-12-04 19:15
 Aceite de Oliva Extra Virgen Olivos del Sur 250ml,,250.0,ml,32.5,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,130.0,ACEITE DE OLIVA
 Aceite de Oliva El Olivar Extra Virgen Botella 250ml,,250.0,ml,32.7,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,130.8,ACEITE DE OLIVA
 Aceite de Oliva El Olivar Virgen Botella 500 ml,,500.0,ml,33.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,67.8,ACEITE DE OLIVA
-Aceite Vegetal PRIMOR Clásico Botella 900ml x3u,Primor,900.0,ml,34.8,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,38.666666666666664,ACEITE DE OLIVA
-Aceite Oliva Cuisine & Co 500ml,,500.0,ml,35.8,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,71.6,ACEITE DE OLIVA
 Aceite de Oliva BELL'S Virgen Botella 500ml,,500.0,ml,35.8,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,71.6,ACEITE DE OLIVA
-Pack Olivos del Sur: Aceite de Oliva 200ml + Vinagre de Manzana 100ml,,200.0,ml,36.0,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,180.0,ACEITE DE OLIVA
-Aceite ALPA Soya Galón 5L,ALPA,5.0,l,36.5,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,7.300000000000001,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen BELL'S Botella 50...,,500.0,ml,36.9,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,73.8,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen BELL'S Botella 500ml,BELL'S,500.0,ml,36.9,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,73.8,ACEITE DE OLIVA
 Aceite de Oliva Olivos del Sur Extra Virgen 250ml,,250.0,ml,37.6,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,150.4,ACEITE DE OLIVA
 Aceite de Oliva El Olivar Extra Virgen 500ml,,500.0,ml,37.9,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,75.8,ACEITE DE OLIVA
-Aceite Vegetal DELEITE Galón 5L,Deleite,5.0,l,38.0,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,7.6000000000000005,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Cuisine & Co 500ml,,500.0,ml,38.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,77.0,ACEITE DE OLIVA
 Aceite de Oliva La Española Puro Botella 500 ml,,500.0,ml,38.9,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,77.8,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Cuisine & Co 500ml,,500.0,ml,39.0,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,78.0,ACEITE DE OLIVA
@@ -98,7 +85,6 @@ Aceite de Oliva Cuisine & Co Botella 1 Lt,,1.0,l,55.8,wong,2024-12-04 19:15:30.5
 Aceite de Oliva Extra Virgen Filippo Berio 750ml,,750.0,ml,59.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,79.33333333333333,ACEITE DE OLIVA
 Aceite de Oliva VALDEPORRES Suave Botella 1L,,1.0,l,59.9,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,59.9,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Filippo Berio 750ml,,750.0,ml,59.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,79.86666666666666,ACEITE DE OLIVA
-Pack de Aceite de Oliva 500 mL + Vinagre de Manzaza 100 mL,OLIVOS DEL SUR,500.0,ml,61.7,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,123.4,ACEITE DE OLIVA
 Aceite de Oliva EL OLIVAR Puro Botella 1L,,1.0,l,61.9,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,61.9,ACEITE DE OLIVA
 Aceite de Oliva 100 % Puro 1 L,EL OLIVAR,1.0,l,62.2,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,62.2,ACEITE DE OLIVA
 Aceite de Oliva La Española Puro Botella 1 L,,1.0,l,64.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,64.5,ACEITE DE OLIVA
@@ -106,7 +92,6 @@ Aceite de Oliva Puro Huerto Alamein 1L,,1.0,l,65.7,metro,2024-12-04 21:23:09.472
 Aceite de Oliva VALDEPORRES Extra Virgen Botella 1L,VALDEPORRES,1.0,l,66.4,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,66.4,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Cuisine & Co 1L,,1.0,l,66.9,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,66.9,ACEITE DE OLIVA
 Aceite de Oliva Filippo Berio Puro Botella 1 L,,1.0,l,67.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,67.5,ACEITE DE OLIVA
-Aceite Vegetal PRIMOR Clásico Botella 900ml x6u,Primor,900.0,ml,69.6,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,77.33333333333333,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Orgánico Bragg Botella 473 ml,,473.0,ml,69.9,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,147.7801268498943,ACEITE DE OLIVA
 Aceite de Oliva La Española Extra Virgen Botella 1 L,,1.0,l,72.5,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,72.5,ACEITE DE OLIVA
 Aceite de Oliva ACAVILLE Extra Virgen Botella ...,,1.0,l,73.9,plaza_vea,2024-12-04 13:43:11.413245,ACEITE DE OLIVA,1.0,l,73.9,ACEITE DE OLIVA
@@ -129,6 +114,4 @@ Aceite de Oliva BELL'S Extra Virgen Botella 2L,,2.0,l,102.9,plaza_vea,2024-12-04
 Aceite de Oliva BELL'S Extra Virgen Botella 2L,BELL'S,2.0,l,102.9,vivanda,2024-12-04 17:41:18.593320,ACEITE DE OLIVA,1.0,l,51.45,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen 2 L,TOTTUS,2.0,l,102.9,tottus,2024-12-04 13:24:21.035180,ACEITE DE OLIVA,1.0,l,51.45,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Huerto Alamein 2L,,2.0,l,141.7,metro,2024-12-04 21:23:09.472060,ACEITE DE OLIVA,1.0,l,70.85,ACEITE DE OLIVA
-Aceite FRIOL Soya Balde 18L,FRIOL,18.0,l,155.0,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,8.61111111111111,ACEITE DE OLIVA
 Aceite de Oliva Extra Virgen Huerto Alamein 2L,,2.0,l,158.8,wong,2024-12-04 19:15:30.500122,ACEITE DE OLIVA,1.0,l,79.4,ACEITE DE OLIVA
-Aceite VEGA Soya Balde 18L,Vega,18.0,l,174.4,vega,2024-12-04 13:48:49.479489,ACEITE DE OLIVA,1.0,l,9.688888888888888,ACEITE DE OLIVA

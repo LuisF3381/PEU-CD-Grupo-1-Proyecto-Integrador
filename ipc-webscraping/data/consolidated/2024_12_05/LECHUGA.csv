@@ -1,15 +1,12 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Huacatay Atado,,1.0,un,1.49,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,1.0,un,1.49,LECHUGA
 Lechuga de Seda Hidropónica de Invernadero Ecologic x unid,,1.0,un,1.8,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,1.8,LECHUGA
 Lechuga Crespa Hidropónica de Invernadero Ecologic x unid,,1.0,un,1.8,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,1.8,LECHUGA
 Lechuga Crespa Hidropónica de Invernadero Ecologic x unid,,1.0,un,1.8,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,1.8,LECHUGA
 Lechuga de Seda Hidropónica de Invernadero Ecologic x unid,,1.0,un,1.8,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,1.8,LECHUGA
 Lechuga Americana Metro x unid,,1.0,un,1.99,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,1.99,LECHUGA
-Culantro BELL'S Bolsa 60g,,60.0,g,1.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,60.0,g,1.99,LECHUGA
 Lechuga Americana BELL's Bolsa 300g,,300.0,g,1.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,300.0,g,1.99,LECHUGA
 Lechuga Hoja de Roble Verde Hidropónica Ecologic x unid,,1.0,un,2.8,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,2.8,LECHUGA
 Lechuga Hoja de Roble Verde Hidropónica Ecologic x unid,,1.0,un,2.8,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,2.8,LECHUGA
-Mix de Lechuga Crespa Ecologic x 2 Unid,,2.0,un,2.8,wong,2024-12-05 18:44:07.408665,LECHUGA,2.0,un,2.8,LECHUGA
 Lechuga Romana Hidropónica de Invernadero Ecologic x unid,,1.0,un,2.9,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,2.9,LECHUGA
 Lechuga Hoja de Roble Roja Hidropónica de Invernadero Ecologic x unid,,1.0,un,2.9,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,2.9,LECHUGA
 Lechuga Hoja de Roble Roja Hidropónica de Invernadero Ecologic x unid,,1.0,un,2.9,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,2.9,LECHUGA
@@ -27,14 +24,12 @@ Lechuga Crespa Hidropónica Manantiales x unid,,1.0,un,3.7,metro,2024-12-05 16:0
 Lechuga de Seda Hidropónica Manantiales x unid,,1.0,un,3.7,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,3.7,LECHUGA
 Lechuga de Seda Hidropónica Manantiales x unid,,1.0,un,3.7,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,3.7,LECHUGA
 Lechuga Americana Ecologic x un,,1.0,un,3.99,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,3.99,LECHUGA
-Acelga BELL'S Bolsa 300g,,300.0,g,3.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,300.0,g,3.99,LECHUGA
 Lechuga Americana Ecologic x un,,1.0,un,3.99,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,3.99,LECHUGA
 Lechuga de Seda Hidropónica Frescas x un,,1.0,un,4.0,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,4.0,LECHUGA
 Lechuga de Seda Hidropónica Frescas x un,,1.0,un,4.0,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,4.0,LECHUGA
 Lechuga Crespa Viva x unid,,1.0,un,4.0,wong,2024-12-05 18:44:07.408665,LECHUGA,1.0,un,4.0,LECHUGA
 Lechuga Crespa Entera Verde Puro 300g,,300.0,g,4.3,metro,2024-12-05 16:08:46.084930,LECHUGA,300.0,g,4.3,LECHUGA
 Lechuga Romana Entera Verde Puro 200g,,200.0,g,4.3,wong,2024-12-05 18:44:07.408665,LECHUGA,200.0,g,4.3,LECHUGA
-Espinaca Bebé BELL'S Bolsa 150g,,150.0,g,4.39,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,150.0,g,4.39,LECHUGA
 Lechuga Romana Viva 300g,,300.0,g,4.8,wong,2024-12-05 18:44:07.408665,LECHUGA,300.0,g,4.8,LECHUGA
 Lechuga Romana Viva 300g,,300.0,g,4.8,metro,2024-12-05 16:08:46.084930,LECHUGA,300.0,g,4.8,LECHUGA
 Lechuga Butterhead VIVA Bolsa Unidad,,1.0,un,4.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,1.0,un,4.99,LECHUGA
@@ -42,23 +37,9 @@ Lechuga Americana de Verano VVA Bolsa x un,VIVA,1.0,un,4.99,vivanda,2024-12-05 2
 Lechuga Butterhead VIVA Bolsa x un,VIVA,1.0,un,4.99,vivanda,2024-12-05 22:08:41.784137,LECHUGA,1.0,un,4.99,LECHUGA
 Lechuga Crespa VIVA x un,,1.0,un,4.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,1.0,un,4.99,LECHUGA
 Lechuga Romana VIVA Bolsa 1un,,1.0,un,4.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,1.0,un,4.99,LECHUGA
-Arúgula Hidropónica BELL'S FRESCOS Bolsa 70g,,70.0,g,4.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,70.0,g,4.99,LECHUGA
-Albahaca Deshojada BELL'S FRESCOS 120g,,120.0,g,4.99,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,120.0,g,4.99,LECHUGA
 Lechuga Hidropónica Don Miguel x unid,,1.0,un,5.4,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,5.4,LECHUGA
-Mix de Lechuga Cuisine & Co 200g,,200.0,g,5.4,wong,2024-12-05 18:44:07.408665,LECHUGA,200.0,g,5.4,LECHUGA
 Lechuga de Seda Frescas 130g,,130.0,g,5.4,metro,2024-12-05 16:08:46.084930,LECHUGA,130.0,g,5.4,LECHUGA
 Lechuga de Seda Frescas 130g,,130.0,g,5.8,wong,2024-12-05 18:44:07.408665,LECHUGA,130.0,g,5.8,LECHUGA
-Mix de Lechuga Crespa Ecologic 250g,,250.0,g,6.1,wong,2024-12-05 18:44:07.408665,LECHUGA,250.0,g,6.1,LECHUGA
-Mix de Lechuga Crespa Ecologic 250g,,250.0,g,6.1,metro,2024-12-05 16:08:46.084930,LECHUGA,250.0,g,6.1,LECHUGA
-Mix Gourmet Ecologic 250g,,1.0,g,6.4,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,g,6.4,LECHUGA
-Mix Plus Ecologic 250 g,,250.0,g,6.5,metro,2024-12-05 16:08:46.084930,LECHUGA,250.0,g,6.5,LECHUGA
-Mix Plus Ecologic 250 g,,250.0,g,6.5,wong,2024-12-05 18:44:07.408665,LECHUGA,250.0,g,6.5,LECHUGA
-Ensalada Personal Verde Puro 140g,,140.0,g,6.9,metro,2024-12-05 16:08:46.084930,LECHUGA,140.0,g,6.9,LECHUGA
-Kale Verde Puro 100g,,100.0,g,7.1,metro,2024-12-05 16:08:46.084930,LECHUGA,100.0,g,7.1,LECHUGA
-Albahaca Fresca VERDE PURO Bolsa 120g,,120.0,g,7.29,plaza_vea,2024-12-05 15:27:25.021045,LECHUGA,120.0,g,7.29,LECHUGA
 Lechuga Hidropónica Verde Puro x un.,,1.0,un,8.0,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,8.0,LECHUGA
 Lechuga Butterhead Viva x unid,,1.0,un,8.5,metro,2024-12-05 16:08:46.084930,LECHUGA,1.0,un,8.5,LECHUGA
 Lechuga Butterhead VIVA Bolsa x un,VIVA,1.0,un,8.99,vivanda,2024-12-05 22:08:41.784137,LECHUGA,1.0,un,8.99,LECHUGA
-Mix de Lechugas Baby Verde Puro 150g,,150.0,g,9.4,wong,2024-12-05 18:44:07.408665,LECHUGA,150.0,g,9.4,LECHUGA
-Ensalada Mix de Lechugas Mattson 130g,,130.0,g,11.5,wong,2024-12-05 18:44:07.408665,LECHUGA,130.0,g,11.5,LECHUGA
-Ensalada Mix de Lechugas Mattson 260g,,260.0,g,18.5,wong,2024-12-05 18:44:07.408665,LECHUGA,260.0,g,18.5,LECHUGA

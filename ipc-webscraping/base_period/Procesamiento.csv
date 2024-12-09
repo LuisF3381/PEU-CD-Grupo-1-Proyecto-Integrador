@@ -1,0 +1,214 @@
+CODIGO,PRODUCTO,terminos,funcion_tratamiento
+115010103,ACEITE DE OLIVA,ACEITE DE OLIVA,todos_terminos_presentes_primero_al_inicio
+115010106,ACEITE VEGETAL ENVASADO,ACEITE VEGETAL,todos_terminos_presentes
+117050203,ACEITUNA DE BOTIJA,ACEITUNA BOTIJA,todos_terminos_presentes
+119030203,ADEREZOS HIDRATADOS,ADEREZO,al_principio_de_la_descripcion
+122010106,AGUA DE MESA SIN GAS,AGUA MESA SIN GAS,todos_terminos_presentes
+122010112,AGUA MINERAL SIN GAS,AGUA MINERAL SIN GAS,todos_terminos_presentes
+117020124,AJÍ AMARILLO (VERDE / ESCABECHE),,
+119030103,AJÍ AMARILLO MOLIDO,AJÍ AMARILLO MOLIDO,todos_terminos_presentes
+119030115,AJÍ PANCA MOLIDO (ESPECIAL),AJÍ PANCA MOLIDO,todos_terminos_presentes
+117020118,AJÍ PIMIENTO,,
+119030121,AJÍ ROCOTO MOLIDO,,
+117030103,AJO ENTERO,,
+119020212,AJO MOLIDO,AJO MOLIDO,todos_terminos_presentes
+112020201,ALAS DE POLLO,ALA ALAS,alguno_de_los_terminos_presentes_al_inicio
+119010103,ALBAHACA,ALBAHACA,al_principio_de_la_descripcion
+114010504,ALIMENTO LACTEO EN POLVO,ALIMENTO Lácteo,todos_terminos_presentes
+119020303,ALIMENTOS EN CUBITOS,,
+117010109,APIO,APIO,al_principio_de_la_descripcion
+116010806,ARÁNDANOS,ARÁNDANOS,al_principio_de_la_descripcion
+111010105,ARROZ A GRANEL,,
+111010110,ARROZ ENVASADO,ARROZ,al_principio_de_la_descripcion
+117040206,ARVEJA SECA PARTIDA,ARVEJA PARTIDA,todos_terminos_presentes
+117020607,ARVEJA VERDE,ARVEJA ARVEJAS,alguno_de_los_terminos_presentes_al_inicio
+111040106,AVENA A GRANEL,,
+111040103,AVENA ENVASADA,AVENA,al_principio_de_la_descripcion
+118010103,AZÚCAR BLANCA,AZÚCAR BLANCA,todos_terminos_presentes
+118010106,AZÚCAR RUBIA,AZÚCAR RUBIA,todos_terminos_presentes
+122020401,BEBIDA DE FRUTA ENVASADA,Frugos Naranja Durazno Arándano Arándanos Fruit frutas,alguno_de_los_terminos_presentes
+122020103,BEBIDA ENERGIZANTE (FLUIDA),ENERGIZANTE,todos_terminos_presentes
+122020106,BEBIDA HIDRATANTE,Rehidratante,todos_terminos_presentes
+122010203,BEBIDAS GASEOSAS,Gaseosa,al_principio_de_la_descripcion
+117030109,BETARRAGA,Beterraga,al_principio_de_la_descripcion
+112010306,BISTEC DE VACUNO,Bisteck,todos_terminos_presentes
+111050102,BIZCOCHOS,Bizcocho,al_principio_de_la_descripcion
+119050103,BOCADITOS DE MAÍZ Y QUESO,maiz Maíz Queso,alguno_de_los_terminos_presentes
+112030203,BOFE DE RES,,
+113010113,BONITO,BONITO ENTERO,todos_terminos_presentes
+117010203,BRÓCOLI,BRÓCOLI,al_principio_de_la_descripcion
+113010115,CABALLA,CABALLA,todos_terminos_presentes
+121010206,CAFÉ INSTANTÁNEO,CAFÉ INSTANTÁNEO,todos_terminos_presentes
+121010106,CAFÉ TOSTADO MOLIDO,CAFÉ TOSTADO MOLIDO,todos_terminos_presentes
+117060103,CAMOTE AMARILLO,CAMOTE AMARILLO,todos_terminos_presentes
+119020221,CANELA ENTERA,CANELA ENTERA,todos_terminos_presentes
+118030302,CARAMELOS,Caramelo Caramelos,alguno_de_los_terminos_presentes
+112010103,CARNE DE CARNERO,,
+112010309,CARNE MOLIDA DE VACUNO,CARNE MOLIDA,todos_terminos_presentes
+112010312,CARNE PARA GUISO DE VACUNO,CARNE GUISO,todos_terminos_presentes
+121010303,CEBADA TOSTADA SOLUBLE,CEBADA,al_principio_de_la_descripcion
+117030112,CEBOLLA CHINA,CEBOLLA CHINA,todos_terminos_presentes
+117030115,CEBOLLA DE CABEZA (ROJA),CEBOLLA ROJA,todos_terminos_presentes
+111070203,CEREALES PROCESADOS MIXTOS Y ENRIQUECIDOS,CEREALES,todos_terminos_presentes
+111070206,CEREALES PROCESADOS SIMPLES (HOJUELAS),HOJUELAS CEREAL,todos_terminos_presentes
+119050115,CHIFLE (BOCADITOS),CHIFLE CHIFLES,alguno_de_los_terminos_presentes
+117020401,CHOCLO CRIOLLO / SERRANO,,
+118030103,CHOCOLATE EN PASTA (TAZA),TAZA,todos_terminos_presentes
+118030106,CHOCOLATE EN TABLETA,TAZA,no_esta_presente_termino
+112040111,CHORIZO,CHORIZO,al_principio_de_la_descripcion
+113020112,CHOROS (CON VALVA),CHORO CHOROS,alguno_de_los_terminos_presentes
+112010212,CHULETA DE CERDO,CHULETA CERDO,todos_terminos_presentes
+112010315,CHURRASCO DE VACUNO,Churrasco,al_principio_de_la_descripcion
+121030203,COCOA EN POLVO,COCOA POLVO,todos_terminos_presentes
+117010209,COLIFLOR,COLIFLOR,todos_terminos_presentes
+113010139,CORVINA,LATA,no_esta_presente_termino
+112010231,COSTILLA DE CERDO,COSTILLA COSTILLAS,alguno_de_los_terminos_presentes
+119010121,CULANTRO,CULANTRO,al_principio_de_la_descripcion
+118030109,DIVERSAS PRESENTACIONES DE CHOCOLATES,TAZA TABLETA TABLETAS,no_estan_presentes_terminos
+116020209,DURAZNO EN CONSERVA,DURAZNO,al_principio_de_la_descripcion
+116010206,DURAZNO HUAYCO,,
+118010309,EDULCORANTE,Endulzante Edulcorante,alguno_de_los_terminos_presentes_al_inicio
+117010118,ESPINACA,Espinaca,al_principio_de_la_descripcion
+111060103,FIDEOS SECOS DE PASTA CORTA,Fideos Spaghetti Tallarin,primer_termino_presente_seguientes_no_presente
+111060106,FIDEOS SECOS DE PASTA LARGA,Spaghetti Tallarin,alguno_de_los_terminos_presentes
+113040103,FILETE DE PESCADO EN CONSERVA,Filete,al_principio_de_la_descripcion
+114010412,FÓRMULA PARA LACTANTES,Fórmula Láctea,todos_terminos_presentes_primero_al_inicio
+117040109,FRÉJOL CANARIO,CANARIO,todos_terminos_presentes
+117040142,FRÉJOL PANAMITO,Panamito,todos_terminos_presentes
+116010831,FRESA,Fresa Fresas,alguno_de_los_terminos_presentes_al_inicio
+111050203,GALLETAS BAÑADAS,Bañada Bañadas,alguno_de_los_terminos_presentes
+111050206,GALLETAS DULCES,Saladas Saladitas Saldas RELLENAS,no_estan_presentes_terminos
+111050209,GALLETAS RELLENAS,Rellenas Rellena,alguno_de_los_terminos_presentes
+111050212,GALLETAS SALADAS,Saladas Saladitas Saldas,alguno_de_los_terminos_presentes
+112020103,GALLINA EVISCERADA,GALLINA Entera,todos_terminos_presentes
+117040303,GARBANZO,Garbanzo Garbanzos,alguno_de_los_terminos_presentes_al_inicio
+119040206,GELATINA (PARA PREPARAR),Gelatina,al_principio_de_la_descripcion
+119020306,GLUTAMATO MONOSÓDICO (SAZONADOR),Glutamato,todos_terminos_presentes
+118030312,GOMA DE MASCAR,Goma de Mascar,todos_terminos_presentes
+116010835,GRANADILLA,Granadilla,al_principio_de_la_descripcion
+113040106,GRATED DE PESCADO EN CONSERVA,Grated,todos_terminos_presentes
+117020618,HABA VERDE,Haba saladas,primer_termino_presente_seguientes_no_presente
+112050107,HAMBURGUESA,HAMBURGUESA HAMBURGUESAS,alguno_de_los_terminos_presentes_al_inicio
+111030212,HARINA DE MAÍZ BLANCO,Maiz Blanco,todos_terminos_presentes
+111030103,HARINA DE TRIGO PREPARADA,Preparada,todos_terminos_presentes
+111030106,HARINA DE TRIGO SIN PREPARAR,sin Preparar,todos_terminos_presentes
+111030221,HARINA SIETE SEMILLAS O MIXTAS,SIETE SEMILLAS,todos_terminos_presentes
+118040212,HELADO DE CREMA PERSONAL,,
+118040215,HELADO DE HIELO PERSONAL,,
+118040209,HELADO FAMILIAR,HELADO,tiene_ml_l
+121020202,HIERBAS PARA INFUSIONES,Infusión Infusiones,alguno_de_los_terminos_presentes
+112030221,HÍGADO DE RES,HÍGADO,todos_terminos_presentes
+119020240,HONGO / LAUREL (ESPECIES),,
+112040120,HOT DOG,HOT DOG,todos_terminos_presentes_primero_al_inicio
+114040106,HUEVOS DE GALLINA,,
+112040124,JAMÓN DEL PAÍS,,
+112040136,JAMONADA,JAMONADA,alguno_de_los_terminos_presentes
+113010147,JUREL,JUREL,al_principio_de_la_descripcion
+119020241,KION (ESPECIAS),KION,al_principio_de_la_descripcion
+114010603,LECHE / BEBIDAS DE PRODUCTOS VEGETALES,,
+114020303,LECHE CONDENSADA,CONDENSADA,todos_terminos_presentes
+114010309,LECHE EVAPORADA,LECHE EVAPORADA,todos_terminos_presentes_primero_al_inicio
+114010203,LECHE FRESCA PASTEURIZADA,Pasteurizada,todos_terminos_presentes
+114010209,LECHE FRESCA UHT,LECHE UHT,todos_terminos_presentes_primero_al_inicio
+117010121,LECHUGA,LECHUGA,al_principio_de_la_descripcion
+117040503,LENTEJA,LENTEJA LENTEJAS,alguno_de_los_terminos_presentes_al_inicio
+116010109,LIMÓN,LIMÓN,al_principio_de_la_descripcion
+113010153,LIZA,,
+112010221,LOMO DE CERDO,LOMO DE CERDO,todos_terminos_presentes
+111020121,MAÍZ MORADO,MAÍZ MORADO,al_principio_de_la_descripcion
+111020133,MAÍZ REVENTÓN (POP CORN),MAÍZ POP CORN,al_principio_de_la_descripcion
+111020140,MAÍZ SECO CANCHA,MAÍZ CANCHA,al_principio_de_la_descripcion
+116010115,MANDARINA,MANDARINA,al_principio_de_la_descripcion
+116010861,MANGO,MANGO,al_principio_de_la_descripcion
+115020103,MANTEQUILLA ENVASADA,MANTEQUILLA,al_principio_de_la_descripcion
+116010306,MANZANA CORRIENTE,MANZANA,al_principio_de_la_descripcion
+116010309,MANZANA DELICIA,MANZANA DELICIA,todos_terminos_presentes
+116010302,MANZANA IMPORTADA,MANZANA IMPORTADA,todos_terminos_presentes
+116010312,MANZANA ISRAEL,MANZANA ISRAEL,todos_terminos_presentes
+116010118,MARACUYÁ,MARACUYÁ,al_principio_de_la_descripcion
+115020206,MARGARINA ENVASADA,MARGARINA,todos_terminos_presentes
+119030424,MAYONESA,MAYONESA,al_principio_de_la_descripcion
+116010865,MELÓN,MELÓN,al_principio_de_la_descripcion
+119040415,MENESTRAS SANCOCHADAS,,
+112030106,MENUDENCIA DE POLLO,POLLO CON MENUDENCIA,todos_terminos_presentes
+113010161,MERLUZA,Filete,al_principio_de_la_descripcion
+118020115,MERMELADA,MERMELADA,al_principio_de_la_descripcion
+114010503,MEZCLA LÁCTEA EVAPORADA,MEZCLA LÁCTEA,todos_terminos_presentes
+118020118,MIEL DE ABEJA,MIEL,al_principio_de_la_descripcion
+112050111,MILANESA,Milanesa Milanesas,alguno_de_los_terminos_presentes_al_inicio
+112030230,MONDONGO DE RES,MONDONGO,al_principio_de_la_descripcion
+116010121,NARANJA DE JUGO,BEBIDA JUGO,alguno_de_los_terminos_presentes_al_inicio
+116010124,NARANJA DE MESA,NARANJA DE MESA,todos_terminos_presentes
+117060418,OLLUCO,OLLUCO,todos_terminos_presentes
+117040603,PALLAR,PALLAR,al_principio_de_la_descripcion
+116010406,PALTA FUERTE / MAYAR,,
+111050116,PAN CARACOL,PAN CARACOL,todos_terminos_presentes
+111050126,PAN CIABATTA,PAN CIABATTA,todos_terminos_presentes
+111050148,PAN DE MOLDE,PAN MOLDE,todos_terminos_presentes
+111050150,PAN DE YEMA,PAN DE YEMA,todos_terminos_presentes
+111050156,PAN FRANCÉS,Francés Frances,alguno_de_los_terminos_presentes
+111050164,PAN INTEGRAL,PAN INTEGRAL,todos_terminos_presentes
+112010224,PANCETA (CARNE DE CERDO),PANCETA DE CERDO,todos_terminos_presentes
+111050184,PANETÓN,PANETÓN,al_principio_de_la_descripcion
+117060206,PAPA AMARILLA,PAPA AMARILLA,todos_terminos_presentes
+117060209,PAPA BLANCA,PAPA BLANCA,todos_terminos_presentes
+117060212,PAPA COLOR,,
+119050136,PAPA FRITA (BOCADITOS),PAPAS,al_principio_de_la_descripcion
+117060221,PAPA HUAYRO,PAPA HUAYRO,todos_terminos_presentes
+117070115,PAPA SECA,PAPA SECA,al_principio_de_la_descripcion
+116010506,PAPAYA,PAPAYA,al_principio_de_la_descripcion
+116020139,PASAS,PASAS,al_principio_de_la_descripcion
+119030512,PASTA Y SALSA DE TOMATE,TOMATE,todos_terminos_presentes
+111050303,PASTELES DULCES,Galletas,no_esta_presente_termino
+111050309,PASTELES SALADOS,PASTEL,al_principio_de_la_descripcion
+112020307,PAVO EVISCERADO,PAVO,al_principio_de_la_descripcion
+116020321,PECANAS,PECANA PECANAS,alguno_de_los_terminos_presentes_al_inicio
+112020206,PECHUGA DE POLLO,PECHUGA DE POLLO,todos_terminos_presentes_primero_al_inicio
+117020515,PEPINILLO,PEPINILLO PEPINILLOS,alguno_de_los_terminos_presentes_al_inicio
+116010875,PEPINO,PEPINO,al_principio_de_la_descripcion
+116010877,PERA DE AGUA,,
+113010177,PERICO,PERICO,todos_terminos_presentes
+112010230,PIERNA (CARNE DE CERDO),PIERNA DE CERDO,al_principio_de_la_descripcion
+112020209,PIERNA DE POLLO,PIERNA DE POLLO,al_principio_de_la_descripcion
+116010881,PIÑA,PIÑA,al_principio_de_la_descripcion
+116010603,PLÁTANO BISCOCHO,PLÁTANO BIZCOCHO,todos_terminos_presentes
+116010609,PLÁTANO DE LA ISLA,PLÁTANO ISLA,todos_terminos_presentes
+116010612,PLÁTANO DE SEDA,PLÁTANO DE SEDA,todos_terminos_presentes
+116010627,PLÁTANO VERDE - INGUIRI O BELLACO,,
+112020212,POLLO EVISCERADO,pollo sin Menudencia,todos_terminos_presentes
+119050139,POP CORN (BOCADITOS),POP CORN,al_principio_de_la_descripcion
+117030130,PORO,PORO,al_principio_de_la_descripcion
+121040103,PRODUCTO ACHOCOLATADO,CHOCOLATADA,todos_terminos_presentes
+114030306,QUESO EDAM,QUESO EDAM,al_principio_de_la_descripcion
+114030106,QUESO FRESCO DE VACA,QUESO FRESCO,todos_terminos_presentes
+114030312,QUESO MANTECOSO,QUESO MANTECOSO,todos_terminos_presentes
+114030318,QUESO PARIA,QUESO PARIA,todos_terminos_presentes
+111020318,QUINUA ENTERA,QUINUA,al_principio_de_la_descripcion
+122020109,REFRESCO ENVASADO (FLUIDO),REFRESCO,todos_terminos_presentes
+119020102,SAL,SAL,al_principio_de_la_descripcion
+112010336,SANCOCHADO DE VACUNO,SANCOCHADO,al_principio_de_la_descripcion
+116010886,SANDÍA,SANDÍA,al_principio_de_la_descripcion
+119020309,SAZONADORES CONCENTRADOS,SAZONADOR,todos_terminos_presentes
+119030527,SILLAO,SILLAO,todos_terminos_presentes
+119040306,SOPAS (CONCENTRADAS / INSTANTÁNEAS),,
+121020109,TÉ NEGRO FILTRANTE,,
+113010255,TILAPIA - PESCA CONTINENTAL - DE RÍO,,
+112040180,TOCINO AHUMADO,TOCINO AHUMADO,todos_terminos_presentes
+117020206,TOMATE ITALIANO O MARSANO,TOMATE ITALIANO,todos_terminos_presentes
+111050315,TORTA (ENTERA),TORTA,al_principio_de_la_descripcion
+111050188,TOSTADAS (MOLDE),TOSTADA TOSTADAS,alguno_de_los_terminos_presentes_al_inicio
+111020203,TRIGO MORÓN,,
+113040112,TROZO DE PESCADO EN CONSERVA,TROZOS,al_principio_de_la_descripcion
+113010257,TRUCHA - PESCA CONTINENTAL - DE RÍO,,
+116010895,TUNA,TUNA,al_principio_de_la_descripcion
+116010701,UVA BLANCA,,
+116010707,UVA NEGRA,,
+117020624,VAINITA VERDE (AMERICANA),VAINITA,todos_terminos_presentes
+119040430,VEGETALES SANCOCHADOS,,
+117030206,VERDURA PICADA,VERDURAS PICADAS,todos_terminos_presentes
+114020106,YOGUR DE LECHE DESCREMADA / PARCIALMENTE DESCREMADA,,
+114020109,YOGUR DE LECHE ENTERA,,
+114020112,YOGUR MIXTO EN VASO,YOGURT,al_principio_de_la_descripcion
+117060302,YUCA,YUCA,al_principio_de_la_descripcion
+117030136,ZANAHORIA,ZANAHORIA,al_principio_de_la_descripcion
+117020312,ZAPALLO MACRE,,

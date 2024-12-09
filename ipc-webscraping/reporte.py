@@ -64,7 +64,6 @@ ruta_carpeta = os.path.join(current_dir, 'data', 'consolidated')
 
 
 
-#ruta_carpeta = '/home/luis/Desktop/PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/consolidated'
 fecha_inicio = '2024_12_04'
 fecha_fin = '2024_12_07'
 

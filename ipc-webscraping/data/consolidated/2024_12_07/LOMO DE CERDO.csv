@@ -1,30 +1,13 @@
 description,brand,cantidad,unidad,price_numeric,website,scrape_timestamp,search_term,cantidad_escalada,unidad_escalada,price_numeric_escalado,CLASIFICACION
-Chuleta Punta de Lomo x kg,,1.0,kg,16.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,16.9,LOMO DE CERDO
-Chuleta Punta de Lomo x kg,,1.0,kg,16.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,16.9,LOMO DE CERDO
-Chuleta Parrillera de Cerdo con Piel x kg,,1.0,kg,18.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,18.9,LOMO DE CERDO
 Chuleta de Lomo con Piel de Cerdo x kg,,1.0,kg,18.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,18.9,LOMO DE CERDO
 Chuleta de Lomo de Cerdo Sin Piel Porcionado x kg,,1.0,kg,21.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,21.9,LOMO DE CERDO
 Chuleta de Lomo de Cerdo Sin Piel x kg,,1.0,kg,21.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,21.9,LOMO DE CERDO
 Chuleta de Lomo de Cerdo con Piel Porcionado x kg,,1.0,kg,22.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,22.9,LOMO DE CERDO
-Chuleta Parrillera de Cerdo con Piel x kg,,1.0,kg,22.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,22.9,LOMO DE CERDO
-Chuleta de Lomo Duroc Redondos x kg,,1.0,kg,28.8,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,28.8,LOMO DE CERDO
-Chuleta de Lomo Duroc Redondos x kg,,1.0,kg,31.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,31.9,LOMO DE CERDO
-Chuleta Parrillera Sur de Cerdo con Piel x kg,,1.0,kg,33.5,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,33.5,LOMO DE CERDO
-Enrollado de Bondiola San Fernando x Kg,,1.0,kg,33.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,33.9,LOMO DE CERDO
-Picaña de Cerdo Duroc Redondos x kg,,1.0,kg,34.2,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,34.2,LOMO DE CERDO
-Picaña de Cerdo Duroc Redondos x kg,,1.0,kg,34.2,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,34.2,LOMO DE CERDO
-T-Bone de Cerdo Redondos Duroc x kg,,1.0,kg,36.0,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,36.0,LOMO DE CERDO
 Lomo Fino de Cerdo Duroc Redondos x kg,,1.0,kg,38.6,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,38.6,LOMO DE CERDO
 Lomo Fino de Cerdo x kg,,1.0,kg,38.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,38.9,LOMO DE CERDO
 Bife de Lomo de Cerdo x kg,,1.0,kg,38.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,38.9,LOMO DE CERDO
 Bife de Lomo de Cerdo Otto Kunz x kg,,1.0,kg,39.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,39.9,LOMO DE CERDO
-Tomahawk de Cerdo Duroc Redondos x kg,,1.0,kg,40.4,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,40.4,LOMO DE CERDO
 Lomo Fino de Cerdo x kg,,1.0,kg,40.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,40.9,LOMO DE CERDO
 Medallón de Lomo de Cerdo San Fernando x kg,,1.0,kg,41.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,41.9,LOMO DE CERDO
-Solomillo de Cerdo San Fernando x kg,,1.0,kg,43.5,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,43.5,LOMO DE CERDO
-Solomillo de Cerdo San Fernando x kg,,1.0,kg,43.5,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,43.5,LOMO DE CERDO
-Bife de Lomo Marinado Zimmermann Mediterráneo x kg,,1.0,kg,43.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,43.9,LOMO DE CERDO
-Lomo Ahumado Zimmermann x kg,,1.0,kg,62.99,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,62.99,LOMO DE CERDO
-Lomo Ahumado Zimmermann x kg,,1.0,kg,68.0,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,68.0,LOMO DE CERDO
 Lomo de Cerdo en Salsa BBQ Ahuma x kg,,1.0,kg,89.9,metro,2024-12-07 19:47:15.038127,LOMO DE CERDO,1,kg,89.9,LOMO DE CERDO
 Lomo de Cerdo en Salsa BBQ Ahuma x kg,,1.0,kg,94.9,wong,2024-12-07 16:50:13.411630,LOMO DE CERDO,1,kg,94.9,LOMO DE CERDO
