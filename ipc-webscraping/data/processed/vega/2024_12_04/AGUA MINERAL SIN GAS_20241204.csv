@@ -1,9 +1,6 @@
 brand,description,price,website,search_term,scrape_timestamp,cantidad,unidad,description_no_unit,price_numeric
 San Mateo,Agua SAN MATEO Sin Gas Botella 600ml,S/ 22.50,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,600.0,ml,Agua SAN MATEO Sin Gas Botella,22.5
-San Carlos,Agua SAN CARLOS Sin Gas Botella 500ml Paquete 20u,,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,500.0,ml,Agua SAN CARLOS Sin Gas Botella  Paquete 20u,
 San Mateo,Agua SAN MATEO Sin Gas Paquete 6 Botella 2.5L,S/ 17.70 8%,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,2.5,l,Agua SAN MATEO Sin Gas Paquete 6 Botella,17.7
-San Luis,Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella 625ml Paquete 6un,,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,625.0,ml,Agua sin Gas SAN LUIS Sabor a Piña y Kion Botella  Paquete,
-San Mateo,Agua SAN MATEO Con Gas Paquete 15u Botella 600ml,,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,600.0,ml,Agua SAN MATEO Con Gas Paquete 15u Botella,
 San Carlos,Agua SAN CARLOS Sin Gas Caja 20 Lt,S/ 19.00,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,20.0,l,Agua SAN CARLOS Sin Gas Caja t,19.0
 San Mateo,Agua SAN MATEO sin Gas Bidón 7L,S/ 8.90,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,7.0,l,Agua SAN MATEO sin Gas Bidón,8.9
 San Carlos,Agua SAN CARLOS sin Gas Botella 3L,S/ 3.00,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,3.0,l,Agua SAN CARLOS sin Gas Botella,3.0
@@ -13,9 +10,7 @@ San Mateo,Agua SAN MATEO con Gas Botella 600ml,S/ 1.80,vega,AGUA MINERAL SIN GAS
 San Luis,Agua SAN LUIS Sin Gas Botella 750ml,S/ 1.60,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,750.0,ml,Agua SAN LUIS Sin Gas Botella,1.6
 San Mateo,Agua SAN MATEO sin Gas Botella 600ml,S/ 1.80,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,600.0,ml,Agua SAN MATEO sin Gas Botella,1.8
 San Mateo,Agua SAN MATEO sin Gas Botella 2.5L,S/ 3.40,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,2.5,l,Agua SAN MATEO sin Gas Botella,3.4
-San Luis,Agua Sin Gas SAN LUIS Sabor Piña y Kión Botella 625ml x 2u,,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,625.0,ml,Agua Sin Gas SAN LUIS Sabor Piña y Kión Botella  x 2u,
 Cielo,Agua CIELO sin Gas Botella 625ml Pack 15u,S/ 12.00 33%,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,625.0,ml,Agua CIELO sin Gas Botella  Pack 15u,12.0
-Cielo,Agua CIELO sin Gas Botella 2.5L Pack 6u,,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,2.5,l,Agua CIELO sin Gas Botella  Pack 6u,
 Pura Vida,Agua PURA VIDA sin Gas Botella 3L Paquete 4u,S/ 8.50 27%,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,3.0,l,Agua PURA VIDA sin Gas Botella  Paquete 4u,8.5
 Cielo,Agua CIELO en Caja Botella 20L,S/ 23.90,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,20.0,l,Agua CIELO en Caja Botella,23.9
 Loa,Agua Sin Gas LOA Botella 625 ml,S/ 1.30,vega,AGUA MINERAL SIN GAS,2024-12-04 14:47:15.217892,625.0,ml,Agua Sin Gas LOA Botella,1.3

@@ -2,7 +2,7 @@
 import os
 import pandas as pd
 
-CURRENT_DATE = "2024_12_07"
+CURRENT_DATE = "2024_12_04"
 
 
 
@@ -95,7 +95,7 @@ def primer_procesamiento(df):
     
     # Extraemos el precio
     df = extraer_precio_numerico(df)
-
+    df = df.dropna(subset=['price_numeric'])
     return df
 
 
