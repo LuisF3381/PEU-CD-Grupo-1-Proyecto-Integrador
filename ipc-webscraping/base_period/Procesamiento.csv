@@ -93,8 +93,8 @@ CODIGO,PRODUCTO,terminos,funcion_tratamiento
 111030103,HARINA DE TRIGO PREPARADA,Preparada,todos_terminos_presentes
 111030106,HARINA DE TRIGO SIN PREPARAR,sin Preparar,todos_terminos_presentes
 111030221,HARINA SIETE SEMILLAS O MIXTAS,SIETE SEMILLAS,todos_terminos_presentes
-118040212,HELADO DE CREMA PERSONAL,,
-118040215,HELADO DE HIELO PERSONAL,,
+118040212,HELADO DE CREMA PERSONAL,CREMA Helado,todos_terminos_presentes
+118040215,HELADO DE HIELO PERSONAL,HIELO Helado,todos_terminos_presentes
 118040209,HELADO FAMILIAR,HELADO,tiene_ml_l
 121020202,HIERBAS PARA INFUSIONES,Infusión Infusiones,alguno_de_los_terminos_presentes
 112030221,HÍGADO DE RES,HÍGADO,todos_terminos_presentes
