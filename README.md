@@ -6,8 +6,6 @@ Proyecto Integrador sobre Cálculo del índice de precios al consumidor utilizan
 2. [Comenzando](#Comenzando) 🚀
 3. [Autores](#Autores) ✒️
 
-![image](https://github.com/user-attachments/assets/bbae94ff-4f9f-4620-8d20-e1f10cb13828)
-
 ## Documentación
 [Volver al inicio](#Índice)
 
