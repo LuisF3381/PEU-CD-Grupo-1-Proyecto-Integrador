@@ -1,0 +1,12 @@
+name: proyecto_grupo1
+title: proyecto_grupo1
+username: claudiavivasal
+account: claudiavivasal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13559227
+bundleId: 9488827
+url: https://claudiavivasal.shinyapps.io/proyecto_grupo1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
