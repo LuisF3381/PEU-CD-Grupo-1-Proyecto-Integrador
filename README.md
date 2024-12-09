@@ -41,7 +41,7 @@ conda create -n ENV_NAME python=3.12.3
 conda activate ENV_NAME
 ```
 **4. Instalar todas las librerías necesarias en el environment haciendo uso del archivo**
-[requirements.txt](PEU-CD-Grupo-1-Proyecto-Integrador/test-entorno-scraping/requirements.txt)
+[requirements.txt](test-entorno-scraping/requirements.txt)
 ```bash
 pip install -r requirements.txt
 ```
@@ -59,7 +59,7 @@ Para ejecutar cualquier código de extracción de datos, se debe seguir los sigu
 git clone https://github.com/LuisF3381/PEU-CD-Grupo-1-Proyecto-Integrador.git
 ```
 
-**2. Una vez clonado el proyecto de github, dirigirse a la carpeta que contiene los códigos de los scrapers [Carpeta de los Scrapers](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping):**
+**2. Una vez clonado el proyecto de github, dirigirse a la carpeta que contiene los códigos de los scrapers [Carpeta de los Scrapers](ipc-webscraping):**
 ```bash
 cd PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping
 ```
@@ -72,22 +72,22 @@ conda activate ENV_NAME
 
 | **Website** | **Ruta Código** |
 | ----------- | ----------- |
-| **Metro** | [supermarket_execution_metro.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_metro.py) |
-| **Rappi** | [scrapers/rappi.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/scrapers/rappi.py) |
-| **PedidosYa** | [scrapers/pedidos_ya.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/scrapers/pedidos_ya.py) |
-| **Plaza Vea** | [supermarket_execution_plaza_vea.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_plaza_vea.py) |
-| **Tambo** | [supermarket_execution_tambo.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_tambo.py) |
-| **Tottus** | [supermarket_execution_tottus.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_tottus.py) |
-| **Vega** | [supermarket_execution_vega.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_vega.py) |
-| **Vivanda** | [supermarket_execution_vivanda.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_vivanda.py) |
-| **Wong** | [supermarket_execution_wong.py](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/supermarket_execution_wong.py) |
+| **Metro** | [supermarket_execution_metro.py](ipc-webscraping/supermarket_execution_metro.py) |
+| **Rappi** | [scrapers/rappi.py](ipc-webscraping/scrapers/rappi.py) |
+| **PedidosYa** | [scrapers/pedidos_ya.py](ipc-webscraping/scrapers/pedidos_ya.py) |
+| **Plaza Vea** | [supermarket_execution_plaza_vea.py](ipc-webscraping/supermarket_execution_plaza_vea.py) |
+| **Tambo** | [supermarket_execution_tambo.py](ipc-webscraping/supermarket_execution_tambo.py) |
+| **Tottus** | [supermarket_execution_tottus.py](ipc-webscraping/supermarket_execution_tottus.py) |
+| **Vega** | [supermarket_execution_vega.py](ipc-webscraping/supermarket_execution_vega.py) |
+| **Vivanda** | [supermarket_execution_vivanda.py](ipc-webscraping/supermarket_execution_vivanda.py) |
+| **Wong** | [supermarket_execution_wong.py](ipc-webscraping/supermarket_execution_wong.py) |
 
 **5. Una vez elegido el código a ejecutar, correr el siguiente código:** 
 ```bash
 python RUTA_CODIGO
 ```
 
-**6. Cabe aclarar que la información se guarda en la carpeta  raw [Carpeta](PEU-CD-Grupo-1-Proyecto-Integrador/ipc-webscraping/data/raw)**
+**6. Cabe aclarar que la información se guarda en la carpeta  raw [Carpeta](ipc-webscraping/data/raw)**
 
 
 ## Autores ✒️
