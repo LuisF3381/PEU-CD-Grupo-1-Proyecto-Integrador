@@ -258,6 +258,7 @@ class RappiCrawler:
                 market_cat_info_list.extend(market_future.result())
 
         self.df_market = pd.DataFrame(market_cat_info_list)
+        self.df_market.loc[:, "Market_cat_name"] = self.df_market.loc[:, "Market_cat_name"].str.title()
         self.df_market = self.df_market[
             ~self.df_market["Market_cat_name"].isin(NO_AYB_CATEGORIES)
         ]
@@ -371,6 +372,7 @@ class RappiScraper:
                             "Product_quantity": product["quantity"],
                             "Product_type": product["product_type"],
                             "Product_is_available": product["in_stock"],
+                            "Product_brand": product["trademark"],
                             "scrape_timestamp": str(pd.Timestamp.now()),
                         }
                         for product in x["resource"]["products"]

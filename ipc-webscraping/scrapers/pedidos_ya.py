@@ -1,7 +1,7 @@
-import json
 from curl_cffi import requests
 from time import sleep
 import pandas as pd
+from os import path, makedirs
 
 BASE_HEADERS = {
     "accept": "*/*",
@@ -23,19 +23,24 @@ VENDOR_URL_API = "https://www.pedidosya.com.pe/groceries/web/v1/vendors/{0}"
 CATEGORY_ENDPOINT = "/categories"
 PRODUCT_ENDPOINT = "/products?categoryId={0}&limit=100&page={1}"
 BASE_URL_API = "https://www.pedidosya.com.pe"
-SHORT_PAUSE = 3
-NORMAL_PAUSE = 1
 LARGE_PAUSE = 60
-LOW_BOUND = 3
 SESSION = requests.Session()
-UPPER_BOUND = 15
-"""
-{'id': 225411,
-  'name': 'PedidosYa Market - Surquillo',
-  'logo': 'pedidosya-market-logo.png',
-  'url': '/restaurantes/lima/pedidosya-market-surquillo-menu'
-}
-"""
+DATA_FOLDER_PATH = "data/raw/pedidos_ya/"
+DATA_BASE_PATH = path.join(path.dirname(path.realpath(__file__))[:-9], DATA_FOLDER_PATH)
+NO_AYB_CATEGORIES = [
+    "Bazar y Librería",
+    "Bebés",
+    "Comidas listas",
+    "Cigarrillos y Tabaco",
+    "Ferretería y Jardín",
+    "Higiene y Cuidado Personal",
+    "Cervezas, Vinos y Licores",
+    "Cuidado de la ropa",
+    "Limpieza del Hogar",
+    "Mascotas",
+    "Tecnología",
+    "Fiestas",
+]
 
 
 class PedidosYaScraper:
@@ -61,7 +66,11 @@ class PedidosYaScraper:
         category_info = self.extract_information(
             self.vendor_url + self.category_endpoint, BASE_HEADERS
         )
-        category_list = [[cat["global_id"], cat["name"]] for cat in category_info["categories"]]
+        category_list = [
+            [cat["global_id"], cat["name"]]
+            for cat in category_info["categories"]
+            if cat["name"] not in NO_AYB_CATEGORIES
+        ]
         list_products = []
         for cat_id, cat_name in category_list:
             is_not_last_page = True
@@ -76,35 +85,59 @@ class PedidosYaScraper:
                         is_not_last_page = False
                     else:
                         page += 1
-                        list_products.extend(
-                            [
-                                {
-                                    "Market_name": "Pedidos Ya Lince",
-                                    "Category_name": cat_name,
-                                    "Product_name": prod["name"],
-                                    "Product_description": prod["description"],
-                                    "Product_price": prod["pricing"]["beforePrice"]
-                                }
-                                for prod in response["items"]
-                            ]
-                        )
+                    list_products.extend(
+                        [
+                            {
+                                "Market_name": "Pedidos Ya Lince",
+                                "Category_name": cat_name,
+                                "Product_name": prod["name"],
+                                "Product_description": prod["description"],
+                                "Product_unit_type": (
+                                    prod["size"]["unit"]
+                                    if prod["size"] is not None
+                                    else ""
+                                ),
+                                "Product_quantity": (
+                                    prod["size"]["content"]
+                                    if prod["size"] is not None
+                                    else ""
+                                ),
+                                "Product_price": prod["pricing"]["beforePrice"],
+                                "Product_branch": prod["defaultBrandName"],
+                                "Scrape_timestamp": str(pd.Timestamp.now()),
+                            }
+                            for prod in response["items"]
+                        ]
+                    )
                 except Exception as e:
                     print(e)
                     break
             sleep(LARGE_PAUSE)
 
-        return list_products
+        self.data = pd.DataFrame(list_products)
 
-    def save_data(self, data):
-        self.data = pd.DataFrame(data)
+    def process_data(self):
+        self.data["Product_name"] = self.data["Product_name"].replace(
+            to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
+        )
+        self.data["Product_description"] = self.data["Product_description"].replace(
+            to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""], regex=True
+        )
+        self.data["Product_description"] = self.data["Product_description"].fillna("")
+        self.data["website"] = "Pedidos Ya"
+        self.data = self.data.drop_duplicates()
+        self.data.reset_index(drop=True, inplace=True)
+
+    def save_data(self):
         if len(self.data) > 0:
-            self.data["website"] = "Pedidos Ya"
-            self.data["scrape_timestamp"] = str(pd.Timestamp.now())
-            self.data.to_csv(self.path, sep=",", index=False)
+            if not path.exists(DATA_BASE_PATH):
+                makedirs(DATA_BASE_PATH)
+            self.data.to_csv(path.join(DATA_BASE_PATH, self.path), sep=",", index=False)
 
     def run(self):
-        data = self.extract()
-        self.save_data(data)
+        self.extract()
+        self.process_data()
+        self.save_data()
 
 
 def main():
