@@ -251,7 +251,7 @@ def procesar_clasificaciones(df_clasificaciones, base_path, current_date, output
                 print("El DataFrame está vacío, no se guardará el archivo.")
 
 # Uso del script
-CURRENT_DATE = "2024_12_04"
+CURRENT_DATE = "2024_12_07"
 
 current_dir = os.path.dirname(__file__)
 csv_path = os.path.join(current_dir, 'base_period', 'IPC_BASE.csv')
